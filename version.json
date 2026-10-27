@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6.3",
-  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.6.3/PrimeFeed.apk",
-  "notes": "Home par ab greeting ke paas Refresh button hai — dabate hi taazi khabrein aa jayengi."
+  "versionCode": 11,
+  "versionName": "1.6.4",
+  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.6.4/PrimeFeed.apk",
+  "notes": "Update wala fix: ab Update dabane par naya version sahi se download-install hoga, popup loop nahi hoga. About screen me sahi version dikhega."
 }
