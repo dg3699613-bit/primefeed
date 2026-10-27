@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.7.0",
+  "versionCode": 18,
+  "versionName": "1.7.1",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Share link ab saaf primefeed.netlify.app wala hai — share karne par username nahi dikhega"
+  "notes": "Cards se bookmark icon hata diya gaya hai — khabar kholne par andar Save option rahega"
 }
