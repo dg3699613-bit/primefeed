@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.7.1",
+  "versionCode": 19,
+  "versionName": "1.7.2",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Cards se bookmark icon hata diya gaya hai — khabar kholne par andar Save option rahega"
+  "notes": "Page ke andar ka version ab 1.7.2 se sync hai — inspection me bhi sahi version dikhega"
 }
