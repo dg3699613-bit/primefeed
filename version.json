@@ -1,6 +1,1 @@
-{
-  "versionCode": 11,
-  "versionName": "1.6.4",
-  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.6.4/PrimeFeed.apk",
-  "notes": "Update wala fix: ab Update dabane par naya version sahi se download-install hoga, popup loop nahi hoga. About screen me sahi version dikhega."
-}
+{"apkUrl":"https://github.com/dg3699613-bit/primefeed/releases/download/v1.6.5/PrimeFeed.apk","notes":"Nayi categories aa gayi hain — Cricket & Sports, State & Local, Weather, Government Schemes, Agriculture aur poori nayi list. Apne district ki alag category bhi hai. Ab app sirf Hindi ya English me chalegi.","versionCode":12,"versionName":"1.6.5"}
