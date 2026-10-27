@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.6.7",
-  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.6.7/PrimeFeed.apk",
-  "notes": "Update ab app ke andar progress ke saath dikhta hai"
+  "versionCode": 15,
+  "versionName": "1.6.8",
+  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.6.8/PrimeFeed.apk",
+  "notes": "Trending Stories ki numbering hatayi, update check fix hua, Settings me App Share joda gaya"
 }
