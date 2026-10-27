@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.7.5",
+  "versionCode": 23,
+  "versionName": "1.7.6",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Header me language switch button wapas (EN <-> Hindi, ek tap me pura app). Google AdMob ads: neeche banner aur padhne ke beech full-screen ad. Baaki sab pehle jaisa."
+  "notes": "Ab nayi khabar khud app me aa jayegi, Refresh dabane ki zaroorat nahi. Home par naya Today (pichhle 24 ghante) wala hissa bhi hai. Baaki sab pehle jaisa."
 }
