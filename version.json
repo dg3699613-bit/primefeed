@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.7.3",
+  "versionCode": 21,
+  "versionName": "1.7.4",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Security hardening: HTTP traffic band, mixed-content band — sab kuch HTTPS se chalega"
+  "notes": "Naya Home layout: Top Story ab neeche star wale tab me hai, Home par seedha Latest News aayegi; Gonda ki news Latest News me bhi milegi, sirf Gonda dekhna ho to Gonda par click karo"
 }
