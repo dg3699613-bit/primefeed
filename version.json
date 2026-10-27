@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.7.2",
+  "versionCode": 20,
+  "versionName": "1.7.3",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Page ke andar ka version ab 1.7.2 se sync hai — inspection me bhi sahi version dikhega"
+  "notes": "Security hardening: HTTP traffic band, mixed-content band — sab kuch HTTPS se chalega"
 }
