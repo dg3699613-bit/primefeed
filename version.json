@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.6.9",
+  "versionCode": 17,
+  "versionName": "1.7.0",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Har khabar par Translate button, baar-baar wali galat photo band, category page saaf — aur update install ka pakka fix"
+  "notes": "Share link ab saaf primefeed.netlify.app wala hai — share karne par username nahi dikhega"
 }
