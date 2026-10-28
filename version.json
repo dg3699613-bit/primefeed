@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.7.8",
+  "versionCode": 26,
+  "versionName": "1.7.9",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "App me ab ads dikhenge — neeche banner, Home ki list me ek ad, aur article ke end me bada ad. Ye ads temporary hain; AdMob approve hote hi wapas AdMob chalega."
+  "notes": "Home par ab Today heading ke side me live Date + Time dikhega. Refresh button hat gaya — khabar bina touch kiye khud aati rahegi, aur upar se neeche kheenchne par Instagram-style pull-to-refresh bhi hai."
 }
