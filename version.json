@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.7.7",
+  "versionCode": 25,
+  "versionName": "1.7.8",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Home row me sabse pehle naya Home tile hai, aur teeno nayi categories jud gayi hain — Crime & Law, Dharm-Astrology aur Rozgar. Upar wala Hindi-English button purane switch style me wapas aa gaya hai."
+  "notes": "App me ab ads dikhenge — neeche banner, Home ki list me ek ad, aur article ke end me bada ad. Ye ads temporary hain; AdMob approve hote hi wapas AdMob chalega."
 }
