@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.7.6",
+  "versionCode": 24,
+  "versionName": "1.7.7",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Ab nayi khabar khud app me aa jayegi, Refresh dabane ki zaroorat nahi. Home par naya Today (pichhle 24 ghante) wala hissa bhi hai. Baaki sab pehle jaisa."
+  "notes": "Home row me sabse pehle naya Home tile hai, aur teeno nayi categories jud gayi hain — Crime & Law, Dharm-Astrology aur Rozgar. Upar wala Hindi-English button purane switch style me wapas aa gaya hai."
 }
