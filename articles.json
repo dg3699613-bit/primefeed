@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-28T06:33:31+05:30",
+  "updatedAt": "2026-10-28T07:32:01+05:30",
   "articles": [
+    {
+      "id": "rahul-raj-wins-saran-teachers-mlc-seat-bihar",
+      "category": "Politics",
+      "sub": "Elections",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-10-28T07:32:01+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-raj-wins-saran-teachers-mlc-seat-bihar.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-raj-wins-saran-teachers-mlc-seat-bihar-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-raj-wins-saran-teachers-mlc-seat-bihar-en.mp3",
+      "en": {
+        "title": "Independent Rahul Raj stuns NDA, RJD and Jan Suraaj to win Bihar's Saran teachers' MLC seat",
+        "summary": "Rahul Raj, a BJP rebel who contested as an independent after being denied a ticket, won the Saran Teachers' constituency by 833 votes after second-preference counting, beating the NDA's Anand Pushkar and the incumbent Jan Suraaj MLC Afaq Ahmed.",
+        "body": "Bihar's council elections threw up their sharpest upset in Saran on Tuesday. Rahul Raj, who had been denied a BJP ticket and fought the election as an independent, won the Saran Teachers' constituency of the state Legislative Council, defeating the official NDA candidate, the RJD nominee and the sitting Jan Suraaj member.\n\nRaj won by 833 votes once second-preference votes were counted. The Janata Dal (United)'s Anand Pushkar, the NDA's official candidate, finished behind him, along with the Rashtriya Janata Dal's Jayram Yadav. The sitting member, Jan Suraaj's Afaq Ahmed, also lost the seat.\n\nRaj is an associate professor at VIP College and the block pramukh of Revelganj. He had sought a BJP ticket for the seat and, when it did not come, entered the race on his own. Teachers, he said after the result, had backed him because he had taken up their cause. \"I championed the cause of teachers, and in return, they extended their support to me,\" he said, promising to press their long-pending demands in the council.\n\nPolling for Bihar's eight council seats was held on October 23, and counting began at 8 am on Tuesday. Saran was the third teachers' seat to be decided: the BJP had already taken Tirhut, and Jan Suraaj had taken Darbhanga. Counting in the remaining seats continued into the night.\n\nPhoto: IANS / Lokmat Times"
+      },
+      "hi": {
+        "title": "निर्दलीय राहुल राज ने सारन शिक्षक सीट जीतकर एनडीए, राजद और जन सुराज को चौंकाया",
+        "summary": "टिकट न मिलने पर निर्दलीय चुनाव लड़े भाजपा के बागी राहुल राज ने दूसरी वरीयता की गिनती के बाद 833 मतों से सारन शिक्षक निर्वाचन क्षेत्र जीत लिया। उन्होंने एनडीए के आनंद पुष्कर और निवर्तमान जन सुराज सदस्य आफाक अहमद को हराया।",
+        "body": "बिहार के विधान परिषद चुनाव में मंगलवार को सारन से सबसे बड़ा उलटफेर सामने आया। भाजपा से टिकट न मिलने पर निर्दलीय चुनाव लड़े राहुल राज ने राज्य विधान परिषद की सारन शिक्षक सीट जीत ली। उन्होंने आधिकारिक एनडीए उम्मीदवार, राजद प्रत्याशी और मौजूदा जन सुराज सदस्य को हराया।\n\nदूसरी वरीयता के मतों की गिनती के बाद अंतिम अंतर 833 मतों का रहा। एनडीए के आधिकारिक उम्मीदवार और जनता दल (यूनाइटेड) के आनंद पुष्कर उनके पीछे रहे, साथ ही राष्ट्रीय जनता दल के जयराम यादव भी। मौजूदा सदस्य, जन सुराज के आफाक अहमद भी यह सीट हार गए।\n\nराज वीआईपी कॉलेज में एसोसिएट प्रोफेसर हैं और रेवलगंज के प्रखंड प्रमुख हैं। उन्होंने इस सीट के लिए भाजपा का टिकट मांगा था, और टिकट न मिलने पर अकेले मैदान में उतर गए। नतीजे के बाद उन्होंने कहा कि शिक्षकों ने उनका साथ इसलिए दिया क्योंकि उन्होंने शिक्षकों का मुद्दा उठाया था। उन्होंने कहा, \"मैंने शिक्षकों का मुद्दा उठाया, और बदले में उन्होंने मेरा साथ दिया।\" उन्होंने परिषद में शिक्षकों की लंबे समय से लंबित मांगों को उठाने का वादा किया।\n\nबिहार की आठ परिषद सीटों के लिए 23 अक्तूबर को मतदान हुआ था और मंगलवार सुबह आठ बजे गिनती शुरू हुई थी। सारन तीसरी शिक्षक सीट थी जिसका फैसला हुआ, इससे पहले तिरहुत भाजपा के खाते में और दरभंगा जन सुराज के खाते में जा चुकी थी। बाकी सीटों की गिनती रात तक जारी रही।\n\nफ़ोटो साभार: आईएएनएस / लोकमत टाइम्स"
+      },
+      "district": "Saran",
+      "state": "Bihar"
+    },
     {
       "id": "cyclone-arnab-still-crossing-andhra-coast-dawn",
       "category": "Weather",
