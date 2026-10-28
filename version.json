@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.7.9",
+  "versionCode": 27,
+  "versionName": "1.8.0",
   "apkUrl": "https://primefeed.netlify.app/PrimeFeed.apk",
-  "notes": "Home par ab Today heading ke side me live Date + Time dikhega. Refresh button hat gaya — khabar bina touch kiye khud aati rahegi, aur upar se neeche kheenchne par Instagram-style pull-to-refresh bhi hai."
+  "notes": "Ab Home par ek khabar sirf ek hi section me dikhegi — duplicate band. Taza Khabrein me date chun kar purani khabar nikaal sakte hain, aur pull-to-refresh aur smooth ho gaya hai."
 }
