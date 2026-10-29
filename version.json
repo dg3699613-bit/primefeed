@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.8.2/PrimeFeed.apk",
-  "notes": "Is update me: Today section aur date-time wapas sabse upar; uske neeche date select ke options — All select karne par pura news (sabse nayi khabar sabse upar), Today, Kal ya kisi bhi date par sirf usi din ka news; neeche wali bar me Saved ki jagah Video option — Video News abhi Coming Soon."
+  "versionCode": 30,
+  "versionName": "1.8.3",
+  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.8.3/PrimeFeed.apk",
+  "notes": "Is update me: Home par scroll karne par date wale options (All/Today/Kal) upar hi lock rahenge; All me ab sirf news ayegi — Video News Home se hat gaya (neeche wale Video tab me milega); aur app khula ho to nayi news bina refresh kiye khud aa jayegi."
 }
