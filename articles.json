@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-01T07:51:31+05:30",
+  "updatedAt": "2026-11-01T08:11:02+05:30",
   "articles": [
+    {
+      "id": "four-hotel-workers-die-toxic-gas-ujjain-waste-chamber-november-01",
+      "category": "State & Local",
+      "sub": "Others",
+      "breaking": false,
+      "featured": false,
+      "trending": false,
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/four-hotel-workers-die-toxic-gas-ujjain-waste-chamber-november-01.jpg",
+      "en": {
+        "title": "Four hotel workers die after inhaling toxic gas in Ujjain waste chamber",
+        "summary": "Four hotel employees died in Ujjain on Saturday night after inhaling toxic gas while cleaning a food-waste chamber at a hotel on Dewas Road. Two went in first to clean; two more followed to rescue them and also succumbed. District officials say the exact sequence of events is still being investigated.",
+        "body": "Ujjain: Four hotel employees died on Saturday night after inhaling toxic gas inside a food-waste chamber at a hotel on Dewas Road in Ujjain, Madhya Pradesh, district officials said on Sunday.\n\nTwo workers had gone into the chamber first to clean it. When they did not come back, two more people went in after them, trying to pull them out. None of the four survived, District Collector Raushan Kumar Singh told news agency ANI.\n\nUjjain Superintendent of Police Pradeep Sharma said a gas leak inside the chamber had likely made the surface extremely slippery, and those inside collapsed. Others who entered to help were pulled out and taken to hospital, and police personnel gave CPR to the victims while a medical team stood by at the hospital. The four bodies were taken to hospital by ambulance.\n\nOfficials have not yet said which gas was involved or given the exact sequence of events. Collector Singh said authorities were still gathering details and the circumstances were being investigated. Further details are awaited.\n\nPhoto: ANI"
+      },
+      "hi": {
+        "title": "उज्जैन में होटल के वेस्ट चैंबर में जहरीली गैस से चार कर्मचारियों की मौत",
+        "summary": "उज्जैन में शनिवार रात देवास रोड स्थित एक होटल के फूड वेस्ट चैंबर की सफाई के दौरान जहरीली गैस की चपेट में आकर चार होटल कर्मचारियों की मौत हो गई। पहले दो लोग सफाई के लिए अंदर गए, फिर उन्हें बचाने गए दो और लोग भी जान गंवा बैठे। घटना के सटीक क्रम की जांच जारी है।",
+        "body": "उज्जैन: मध्य प्रदेश के उज्जैन में देवास रोड स्थित एक होटल के फूड वेस्ट चैंबर में शनिवार रात जहरीली गैस की चपेट में आकर चार होटल कर्मचारियों की मौत हो गई। जिला अधिकारियों ने रविवार को यह जानकारी दी।\n\nजिलाधिकारी रौशन कुमार सिंह ने समाचार एजेंसी एएनआई को बताया कि पहले दो लोग सफाई के लिए चैंबर में उतरे थे। जब वे वापस नहीं आए, तो दो और लोग उन्हें बचाने के लिए अंदर गए। चारों की जान नहीं बच सकी।\n\nउज्जैन के पुलिस अधीक्षक प्रदीप शर्मा ने बताया कि चैंबर के अंदर गैस रिसाव से फर्श बेहद फिसलन भरा हो गया था, जिससे अंदर गए लोग गिर पड़े। मदद के लिए अंदर गए अन्य लोगों को बाहर निकालकर अस्पताल पहुंचाया गया। पुलिसकर्मियों ने पीड़ितों को सीपीआर देने की कोशिश की और अस्पताल में मेडिकल टीम तैयार रखी गई। चारों शवों को एंबुलेंस से अस्पताल ले जाया गया।\n\nअधिकारियों ने अभी यह नहीं बताया है कि कौन सी गैस थी और घटना का सटीक क्रम क्या रहा। जिलाधिकारी ने कहा कि अधिकारी अभी और जानकारी जुटा रहे हैं और हालात की जांच की जा रही है। आगे की जानकारी का इंतज़ार है।\n\nफ़ोटो साभार: ANI"
+      },
+      "district": "Ujjain",
+      "state": "Madhya Pradesh",
+      "publishedAt": "2026-11-01T08:09:31+05:30",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/four-hotel-workers-die-toxic-gas-ujjain-waste-chamber-november-01-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/four-hotel-workers-die-toxic-gas-ujjain-waste-chamber-november-01-en.mp3"
+    },
     {
       "id": "udta-teer-second-saturday-jump-55-53-crore-worldwide-november-01",
       "category": "Entertainment",
