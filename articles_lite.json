@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-02T19:09:56+05:30",
+ "updatedAt": "2026-11-02T19:26:37+05:30",
  "articles": [
+  {
+   "id": "dia-mirza-bmc-diwali-video-row-mayor-blacklist-november-02",
+   "category": "Entertainment",
+   "sub": "Celebrity",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T19:26:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dia-mirza-bmc-diwali-video-row-mayor-blacklist-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dia-mirza-bmc-diwali-video-row-mayor-blacklist-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dia-mirza-bmc-diwali-video-row-mayor-blacklist-november-02-en.mp3",
+   "en": {
+    "title": "Mumbai mayor defends pulling Dia Mirza's Diwali video, says actor 'blacklisted' from BMC programmes",
+    "summary": "Mumbai Mayor Ritu Tawde on Monday defended the BMC's removal of actor Dia Mirza's video from its pollution-free Diwali campaign, saying Hindus did not need lessons on celebrating the festival. The video was taken down on Sunday after Mumbai BJP chief Ameet Satam objected to it; Mirza said she recorded it at the Bombay High Court and the BMC's instance, in public interest, and charged no fee."
+   },
+   "hi": {
+    "title": "दिया मिर्ज़ा का दिवाली वीडियो हटाना सही, मुंबई मेयर बोलीं — हिंदुओं को दिवाली मनाना सिखाने की ज़रूरत नहीं",
+    "summary": "मुंबई की मेयर रितु तावड़े ने सोमवार को बीएमसी के प्रदूषण-मुक्त दिवाली अभियान से अभिनेत्री दिया मिर्ज़ा का वीडियो हटाने के फैसले का बचाव किया और कहा कि हिंदुओं को दिवाली मनाना सिखाने की ज़रूरत नहीं है। यह वीडियो रविवार को मुंबई भाजपा अध्यक्ष अमित साटम की आपत्ति के बाद हटाया गया था, जबकि मिर्ज़ा का कहना है कि उन्होंने यह वीडियो बॉम्बे हाईकोर्ट और बीएमसी के कहने पर जनहित में बनाया था और इसके लिए कोई फीस नहीं ली थी।"
+   }
+  },
+  {
+   "id": "us-midterm-final-rallies-trump-lincoln-memorial-november-02",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T19:26:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-midterm-final-rallies-trump-lincoln-memorial-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-midterm-final-rallies-trump-lincoln-memorial-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-midterm-final-rallies-trump-lincoln-memorial-november-02-en.mp3",
+   "en": {
+    "title": "On eve of US midterms, Democrats hold final rallies as Trump picks Lincoln Memorial for closing pitch",
+    "summary": "Democrats held final get-out-the-vote rallies on Monday, the eve of America's midterm elections, with polls pointing to a near-certain Democratic majority in the House and a real shot at the Senate. President Donald Trump chose a speech at Washington's Lincoln Memorial Reflecting Pool for his closing argument, a day after telling an Iowa crowd that Democrats were 'extreme and dangerous radicals'."
+   },
+   "hi": {
+    "title": "अमेरिकी मिडटर्म चुनाव से एक दिन पहले डेमोक्रेट्स की आखिरी रैलियाँ, ट्रंप का समापन भाषण लिंकन मेमोरियल पर",
+    "summary": "अमेरिका में मध्यावधि चुनाव से एक दिन पहले सोमवार को डेमोक्रेट्स ने आखिरी वोटर रैलियाँ कीं, जबकि सर्वेक्षणों में प्रतिनिधि सभा में उनकी जीत लगभग तय और सीनेट में भी असली मुकाबला दिख रहा है। राष्ट्रपति डोनाल्ड ट्रंप ने अपना समापन भाषण वाशिंगटन के लिंकन मेमोरियल रिफ्लेक्टिंग पूल से देने का फैसला किया है, जबकि एक दिन पहले आयोवा में उन्होंने डेमोक्रेट्स को चरमपंथी और खतरनाक कट्टरपंथी बताया था।"
+   }
+  },
   {
    "id": "delhi-ncr-grap-stage-ii-aqi-324-very-poor-november-02",
    "category": "State & Local",
