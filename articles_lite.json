@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-11-02T20:41:54+05:30",
+ "updatedAt": "2026-11-02T21:06:00+05:30",
  "articles": [
+  {
+   "id": "modi-pune-metro-pink-line-phase-ii-21800-crore-november-03",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T21:06:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/modi-pune-metro-pink-line-phase-ii-21800-crore-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-pune-metro-pink-line-phase-ii-21800-crore-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-pune-metro-pink-line-phase-ii-21800-crore-november-03-en.mp3",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "en": {
+    "summary": "Prime Minister Narendra Modi will inaugurate Pune Metro's Pink Line, built at over Rs 8,300 crore, and lay the foundation stone for Phase-II corridors worth around Rs 13,500 crore on November 3 at 12:30 pm via video conferencing. The 23-km Pink Line from Maan to District Court will be operated entirely by women train operators, with about 30 percent of its power from solar energy.",
+    "title": "Modi to open Pune Metro's Pink Line and launch Phase-II on November 3: Rs 21,800 crore package, women-run trains, solar power"
+   },
+   "hi": {}
+  },
+  {
+   "id": "sharad-pawar-hospitalised-pune-ruby-hall-chest-pain-november-02",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T21:06:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sharad-pawar-hospitalised-pune-ruby-hall-chest-pain-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-pawar-hospitalised-pune-ruby-hall-chest-pain-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-pawar-hospitalised-pune-ruby-hall-chest-pain-november-02-en.mp3",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "en": {
+    "summary": "NCP (SP) chief Sharad Pawar, 85, was admitted to Pune's Ruby Hall Clinic on Monday after chest pain linked to a bout of cough. His daughter Supriya Sule said all his health parameters are stable, and the hospital said his condition is expected to settle down and he will remain under observation as a precaution.",
+    "title": "Sharad Pawar admitted to Pune's Ruby Hall Clinic after chest pain; doctors say condition expected to settle, parameters stable"
+   },
+   "hi": {}
+  },
   {
    "id": "delhi-court-grants-cbi-2-day-transit-remand-sourabh-chandrakar-november-02",
    "category": "Crime & Law",
