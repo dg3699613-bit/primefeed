@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-02T18:59:07+05:30",
+ "updatedAt": "2026-11-02T19:09:56+05:30",
  "articles": [
+  {
+   "id": "delhi-ncr-grap-stage-ii-aqi-324-very-poor-november-02",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T19:09:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-ncr-grap-stage-ii-aqi-324-very-poor-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-ncr-grap-stage-ii-aqi-324-very-poor-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-ncr-grap-stage-ii-aqi-324-very-poor-november-02-en.mp3",
+   "district": null,
+   "state": null,
+   "en": {
+    "title": "Delhi-NCR under GRAP Stage II as AQI hits 324 in 'very poor' zone; dust curbs, higher parking fees kick in",
+    "summary": "The CAQM has invoked GRAP Stage II across Delhi-NCR with immediate effect after Delhi's AQI rose to 324, in the 'very poor' category, from 261 on Sunday and 117 on Saturday. Agencies must step up road sweeping and sprinkling, hotspot action and construction-site dust checks, and parking fees will rise to discourage private vehicles."
+   },
+   "hi": {
+    "title": "दिल्ली-एनसीआर में ग्रैप चरण-दो लागू, एक्यूआई 324 के साथ 'बेहद खराब' श्रेणी में; धूल नियंत्रण और पार्किंग शुल्क बढ़ाने जैसे कदम",
+    "summary": "वायु गुणवत्ता प्रबंधन आयोग ने दिल्ली का एक्यूआई 324 तक पहुँचने के बाद दिल्ली-एनसीआर में ग्रैप चरण-दो तत्काल प्रभाव से लागू कर दिया है। सड़कों की सफाई और छिड़काव, हॉटस्पॉट पर कार्रवाई और निर्माण स्थलों की धूल जाँच तेज़ होगी, और निजी वाहनों को हतोत्साहित करने के लिए पार्किंग शुल्क बढ़ाया जाएगा।"
+   }
+  },
+  {
+   "id": "tilak-varma-leads-india-a-rising-stars-asia-cup-squad-november-02",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T19:09:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tilak-varma-leads-india-a-rising-stars-asia-cup-squad-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tilak-varma-leads-india-a-rising-stars-asia-cup-squad-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tilak-varma-leads-india-a-rising-stars-asia-cup-squad-november-02-en.mp3",
+   "district": null,
+   "state": null,
+   "en": {
+    "title": "Tilak Varma to lead India A at Rising Stars Asia Cup, Vaibhav Sooryavanshi and Abhishek Sharma in 15-member squad",
+    "summary": "The BCCI has named Tilak Varma captain of a 15-member India A squad for the ACC Men's Rising Stars Asia Cup in Doha from November 19 to 29, with Rajat Patidar as vice-captain and Abhishek Sharma, Vaibhav Sooryavanshi and Rinku Singh in the side. India A open against Nepal on November 20 and play Pakistan A on November 22."
+   },
+   "hi": {
+    "title": "राइजिंग स्टार्स एशिया कप के लिए इंडिया ए टीम घोषित, कप्तान तिलक वर्मा; वैभव सूर्यवंशी और अभिषेक शर्मा भी टीम में",
+    "summary": "बीसीसीआई ने 19 से 29 नवंबर तक दोहा में होने वाले एसीसी पुरुष राइजिंग स्टार्स एशिया कप के लिए तिलक वर्मा की कप्तानी में 15 सदस्यीय इंडिया ए टीम घोषित की है। रजत पाटीदार उपकप्तान होंगे और टीम में अभिषेक शर्मा, वैभव सूर्यवंशी और रिंकू सिंह भी शामिल हैं। इंडिया ए का पहला मैच 20 नवंबर को नेपाल से और 22 नवंबर को पाकिस्तान ए से होगा।"
+   }
+  },
   {
    "id": "ahmedabad-61-detained-illegal-immigrants-diwali-crackdown-november-02",
    "category": "Crime & Law",
