@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-02T21:17:52+05:30",
+ "updatedAt": "2026-11-02T21:33:52+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-preemptive-pardons-musk-staff-midterms-november-02-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-preemptive-pardons-musk-staff-midterms-november-02-hi.mp3",
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "summary": "In a podcast interview aired on the eve of the midterm elections, Donald Trump said he would not hesitate to pardon Elon Musk and everyone who worked for him if Democrats take Congress and pursue prosecutions.",
+    "title": "Trump says he would issue pre-emptive pardons to Musk and his staff if Democrats win Congress"
+   },
+   "featured": false,
+   "hi": {
+    "summary": "मिडटर्म चुनाव से एक दिन पहले प्रसारित पॉडकास्ट इंटरव्यू में डोनाल्ड ट्रंप ने कहा कि अगर डेमोक्रेट्स कांग्रेस जीतकर उनके प्रशासन के खिलाफ मुकदमे चलाते हैं, तो वह एलन मस्क और अपने साथ काम करने वाले हर व्यक्ति को पहले से माफ़ी देने से नहीं हिचकेंगे।",
+    "title": "ट्रंप बोले — डेमोक्रेट्स के जीतने पर मस्क और अपने सभी स्टाफ को पहले से ही माफ़ी दे दूँगा"
+   },
+   "id": "trump-preemptive-pardons-musk-staff-midterms-november-02",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-preemptive-pardons-musk-staff-midterms-november-02.jpg",
+   "publishedAt": "2026-11-02T21:33:52+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "USA",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/oil-prices-fall-six-percent-iran-peace-talks-november-02-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/oil-prices-fall-six-percent-iran-peace-talks-november-02-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "summary": "Brent crude fell to about $106.50 a barrel and US crude to about $97.50 on Monday as signs of diplomatic movement between Washington and Tehran cooled fears of a post-midterm escalation.",
+    "title": "Oil prices tumble 6% as US-Iran peace-talk hopes ease supply fears"
+   },
+   "featured": false,
+   "hi": {
+    "summary": "सोमवार को ब्रेंट क्रूड करीब 106.50 डॉलर प्रति बैरल और अमेरिकी क्रूड करीब 97.50 डॉलर पर आ गया, क्योंकि वाशिंगटन और तेहरान के बीच कूटनीतिक हलचल के संकेतों ने मिडटर्म चुनाव के बाद तनाव बढ़ने की आशंका को कम कर दिया।",
+    "title": "अमेरिका-ईरान शांति वार्ता की उम्मीद से कच्चा तेल 6% गिरा, ब्रेंट 106.50 डॉलर पर"
+   },
+   "id": "oil-prices-fall-six-percent-iran-peace-talks-november-02",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/oil-prices-fall-six-percent-iran-peace-talks-november-02.jpg",
+   "publishedAt": "2026-11-02T21:33:52+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": true
+  },
   {
    "id": "krv-bengaluru-it-firms-jobs-locals-campaign-november-02",
    "category": "State & Local",
