@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-02T20:28:51+05:30",
+ "updatedAt": "2026-11-02T20:41:54+05:30",
  "articles": [
+  {
+   "id": "delhi-court-grants-cbi-2-day-transit-remand-sourabh-chandrakar-november-02",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T20:41:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-court-grants-cbi-2-day-transit-remand-sourabh-chandrakar-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-court-grants-cbi-2-day-transit-remand-sourabh-chandrakar-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-court-grants-cbi-2-day-transit-remand-sourabh-chandrakar-november-02-en.mp3",
+   "en": {
+    "title": "Delhi court gives CBI two-day transit remand of Mahadev app accused Sourabh Chandrakar; he will now be taken to Raipur",
+    "summary": "A day after the CBI brought Sourabh Chandrakar back from Oman, Delhi's Rouse Avenue Court on Monday granted the agency two days' transit remand of the alleged Mahadev Online Book kingpin, clearing the way for him to be produced before the Special CBI Court in Raipur. His counsel had opposed the remand, arguing he was extradited in the money-laundering case, not the CBI case."
+   },
+   "hi": {
+    "title": "महादेव ऐप केस: दिल्ली कोर्ट ने सौरभ चंद्राकर की दो दिन की ट्रांजिट रिमांड सीबीआई को दी, अब रायपुर ले जाया जाएगा",
+    "summary": "ओमान से वापस लाए जाने के एक दिन बाद दिल्ली की राउज़ एवेन्यू कोर्ट ने सोमवार को महादेव ऑनलाइन बुक के कथित सरगना सौरभ चंद्राकर की दो दिन की ट्रांजिट रिमांड सीबीआई को दे दी। अब उसे रायपुर की विशेष सीबीआई अदालत में पेश किया जाएगा। उसके वकील ने रिमांड का विरोध करते हुए कहा था कि प्रत्यर्पण मनी लॉन्ड्रिंग केस में हुआ है, सीबीआई केस में नहीं।"
+   }
+  },
   {
    "id": "ncp-leaders-meet-amit-shah-finance-merger-talk-november-02",
    "category": "Politics",
