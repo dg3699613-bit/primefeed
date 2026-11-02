@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T03:11:10+05:30",
+ "updatedAt": "2026-11-03T03:54:54+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-supermarket-fridge-cyberattack-100-stores-november-02-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-supermarket-fridge-cyberattack-100-stores-november-02-hi.mp3",
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "summary": "Refrigeration systems at more than 100 supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands and Sweden ran hot on Monday after cyberattacks, forcing stores to discard spoiled food. It is the second such wave in weeks after a similar attack on hundreds of French stores last month.",
+    "title": "Hackers hit supermarket fridges across seven European countries, spoiling food at more than 100 stores"
+   },
+   "featured": false,
+   "hi": {
+    "summary": "सोमवार को बेल्जियम, एस्टोनिया, फ़िनलैंड, आयरलैंड, लक्ज़मबर्ग, नीदरलैंड और स्वीडन के सौ से ज़्यादा सुपरमार्केटों में साइबर हमलों के बाद फ्रिज और फ्रीज़र गर्म पड़ गए, जिससे दुकानों को खराब खाना फेंकना पड़ा। पिछले महीने फ़्रांस के सैकड़ों स्टोरों पर हुए ऐसे ही हमले के बाद यह दूसरी लहर है।",
+    "title": "यूरोप के सात देशों में सुपरमार्केटों के फ्रिज पर साइबर हमला, सौ से ज़्यादा स्टोरों में खाना खराब"
+   },
+   "id": "europe-supermarket-fridge-cyberattack-100-stores-november-02",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/europe-supermarket-fridge-cyberattack-100-stores-november-02.jpg",
+   "source": "PrimeFeed Desk",
+   "sub": "Europe",
+   "trending": true,
+   "publishedAt": "2026-11-03T03:54:54+05:30"
+  },
   {
    "id": "bangladesh-garment-workers-wage-protests-690-factories-shut-november-02",
    "category": "World",
