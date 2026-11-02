@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T02:48:23+05:30",
+ "updatedAt": "2026-11-03T03:11:10+05:30",
  "articles": [
+  {
+   "id": "bangladesh-garment-workers-wage-protests-690-factories-shut-november-02",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-garment-workers-wage-protests-690-factories-shut-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-garment-workers-wage-protests-690-factories-shut-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-garment-workers-wage-protests-690-factories-shut-november-02-en.mp3",
+   "en": {
+    "title": "Bangladesh garment wage protests shut nearly 690 factories as workers demand 30,000 taka a month",
+    "summary": "Production stopped at at least 690 factories on Monday as garment workers demanding a rise from 12,500 to 30,000 taka a month blocked highways and clashed with police around Dhaka. The stoppages affect more than 1.7 million workers in a sector that earns over 80 percent of Bangladesh's export income."
+   },
+   "hi": {
+    "title": "बांग्लादेश में मज़दूरी की लड़ाई: तीस हज़ार टका की माँग पर छह सौ नब्बे से ज़्यादा गारमेंट फैक्ट्रियों में उत्पादन ठप",
+    "summary": "सोमवार को बारह हज़ार पाँच सौ से बढ़ाकर तीस हज़ार टका महीना करने की माँग पर गारमेंट मज़दूरों के आंदोलन से कम से कम छह सौ नब्बे फैक्ट्रियों में उत्पादन रुक गया। ढाका के आसपास सड़कें जाम हुईं और पुलिस से झड़प हुई, जिससे सत्रह लाख से ज़्यादा मज़दूर प्रभावित हुए हैं।"
+   },
+   "publishedAt": "2026-11-03T03:11:10+05:30"
+  },
   {
    "id": "russian-bombs-kill-24-ukrainian-school-aid-centre-komyshuvakha-november-02",
    "category": "World",
