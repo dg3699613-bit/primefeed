@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-02T20:10:21+05:30",
+ "updatedAt": "2026-11-02T20:28:51+05:30",
  "articles": [
+  {
+   "id": "ncp-leaders-meet-amit-shah-finance-merger-talk-november-02",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T20:28:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ncp-leaders-meet-amit-shah-finance-merger-talk-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncp-leaders-meet-amit-shah-finance-merger-talk-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncp-leaders-meet-amit-shah-finance-merger-talk-november-02-en.mp3",
+   "en": {
+    "title": "Six NCP leaders meet Amit Shah amid Finance portfolio demand and merger talk; party says meeting was routine, not a rift",
+    "summary": "Six senior leaders of the Ajit Pawar faction of the NCP met Union Home Minister Amit Shah in Delhi on Monday, amid the party's demand that Maharashtra's Finance portfolio return to it — and, according to sources, an exploration of reuniting the two NCP factions under the NDA without Sunetra and Parth Pawar. The party firmly denied any rift."
+   },
+   "hi": {
+    "title": "अमित शाह से मिले एनसीपी के छह वरिष्ठ नेता, वित्त विभाग की माँग और विलय की चर्चा के बीच पार्टी ने कहा — बैठक नियमित थी, कोई मतभेद नहीं",
+    "summary": "अजित पवार गुट के एनसीपी के छह वरिष्ठ नेताओं ने सोमवार को दिल्ली में केंद्रीय गृह मंत्री अमित शाह से मुलाकात की। यह मुलाकात ऐसे समय हुई जब पार्टी महाराष्ट्र में वित्त विभाग वापस माँग रही है और सूत्रों के अनुसार, दोनों एनसीपी गुटों को एनडीए के तहत फिर से एक करने की संभावना पर भी चर्चा हुई, जिसमें सुनेत्रा और पार्थ पवार शामिल नहीं थे। पार्टी ने किसी भी मतभेद से साफ इनकार किया है।"
+   }
+  },
+  {
+   "id": "murasu-evening-update-landfall-hours-away-ndrf-flights-november-02",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T20:28:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/murasu-evening-update-landfall-hours-away-ndrf-flights-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/murasu-evening-update-landfall-hours-away-ndrf-flights-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/murasu-evening-update-landfall-hours-away-ndrf-flights-november-02-en.mp3",
+   "en": {
+    "title": "Cyclone Murasu hours from landfall: 19 Andhra flights cancelled, NDRF teams in place as storm closes in on Ongole coast",
+    "summary": "Severe Cyclonic Storm Murasu was about 100 km east of Nellore on Monday evening, on course to cross the south Andhra coast between Nellore and Narsapur, south of Ongole, between 11:30 pm on Monday and 4 am on Tuesday with winds gusting to 120 kmph. Nineteen flights were cancelled across three Andhra airports, NDRF teams were deployed, and a 1.5–2 metre storm surge is expected to flood low-lying coastal areas."
+   },
+   "hi": {
+    "title": "चक्रवात मुरासु लैंडफॉल से कुछ घंटे दूर: आंध्र के तीन हवाई अड्डों पर 19 उड़ानें रद्द, एनडीआरएफ की टीमें तैनात, ओंगोल तट पर तेज हवाओं का अलर्ट",
+    "summary": "गंभीर चक्रवाती तूफान मुरासु सोमवार शाम नेल्लोर से करीब 100 किलोमीटर पूर्व में था और सोमवार रात 11:30 बजे से मंगलवार सुबह 4 बजे के बीच नेल्लोर और नरसापुर के बीच, ओंगोल के दक्षिण में दक्षिण आंध्र तट को पार करने की ओर बढ़ रहा था। इस दौरान हवाओं की रफ्तार 120 किलोमीटर प्रति घंटा तक पहुँच सकती है। आंध्र के तीन हवाई अड्डों पर 19 उड़ानें रद्द हो गई हैं और एनडीआरएफ की टीमें तैनात हैं।"
+   }
+  },
   {
    "id": "jan-suraaj-petitions-disqualification-bihar-mlcs-brajwasi-rahul-raj-november-02",
    "category": "Politics",
