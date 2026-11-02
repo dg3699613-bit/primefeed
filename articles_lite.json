@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-02T19:26:37+05:30",
+ "updatedAt": "2026-11-02T19:40:02+05:30",
  "articles": [
+  {
+   "id": "modi-bharat-renewable-energy-summit-clean-energy-security-november-02",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T19:40:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/modi-bharat-renewable-energy-summit-clean-energy-security-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-bharat-renewable-energy-summit-clean-energy-security-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-bharat-renewable-energy-summit-clean-energy-security-november-02-en.mp3",
+   "en": {
+    "title": "Energy security lies in clean energy, Modi tells Bharat RE summit; 500 GW target by 2030, another 500 GW in the decade after",
+    "summary": "Prime Minister Narendra Modi on Monday inaugurated the Bharat Renewable Energy Summit & Expo 2026 in New Delhi, telling delegates from over 130 countries that energy security is directly tied to economic security and that the future of energy security lies in clean energy. India has already crossed 300 GW of non-fossil capacity, he said, and will add another 500 GW over the next 10 to 11 years."
+   },
+   "hi": {
+    "title": "स्वच्छ ऊर्जा में ही ऊर्जा सुरक्षा का भविष्य है, भारत आरई शिखर सम्मेलन में मोदी का संदेश; 2030 तक 500 गीगावाट का लक्ष्य",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने सोमवार को नई दिल्ली में भारत नवीकरणीय ऊर्जा शिखर सम्मेलन और एक्सपो 2026 का उद्घाटन किया और 130 से ज़्यादा देशों के प्रतिनिधियों से कहा कि ऊर्जा सुरक्षा सीधे आर्थिक सुरक्षा से जुड़ी है और ऊर्जा सुरक्षा का भविष्य स्वच्छ ऊर्जा में है। उन्होंने कहा कि भारत की गैर-जीवाश्म क्षमता 300 गीगावाट से ऊपर पहुँच गई है और अगले 10 से 11 साल में 500 गीगावाट और क्षमता जुड़ेगी।"
+   }
+  },
   {
    "id": "dia-mirza-bmc-diwali-video-row-mayor-blacklist-november-02",
    "category": "Entertainment",
