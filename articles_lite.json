@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-02T22:11:07+05:30",
+ "updatedAt": "2026-11-02T22:35:00+05:30",
  "articles": [
+  {
+   "id": "india-among-final-seven-2036-olympics-contenders-ioc-confirms-november-02",
+   "category": "Cricket & Sports",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T22:25:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-among-final-seven-2036-olympics-contenders-ioc-confirms-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-among-final-seven-2036-olympics-contenders-ioc-confirms-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-among-final-seven-2036-olympics-contenders-ioc-confirms-november-02-en.mp3",
+   "en": {
+    "title": "India stays in the 2036 Olympics race as IOC confirms seven contenders and closes the door on new bidders",
+    "summary": "The IOC has confirmed that Germany, Hungary, India, Qatar, South Korea, South Africa and Türkiye are the seven interested parties for the 2036 Summer Olympics, with no new bidder allowed after the 31 October deadline. India's bid is centred on Ahmedabad, and the host will be elected in mid-2029."
+   },
+   "hi": {
+    "title": "2036 ओलंपिक की दौड़ में भारत बरकरार: आईओसी ने सात दावेदारों की पुष्टि की, अब कोई नया दावेदार नहीं जुड़ सकेगा",
+    "summary": "अंतरराष्ट्रीय ओलंपिक समिति ने पुष्टि की है कि 2036 ग्रीष्मकालीन ओलंपिक के लिए जर्मनी, हंगरी, भारत, कतर, दक्षिण कोरिया, दक्षिण अफ्रीका और तुर्किये, सात इच्छुक देश मैदान में हैं, और 31 अक्टूबर की समयसीमा के बाद कोई नया दावेदार इसमें शामिल नहीं हो सकेगा। भारत की दावेदारी अहमदाबाद पर केंद्रित है, और मेज़बान का चुनाव 2029 के मध्य में होगा।"
+   }
+  },
+  {
+   "id": "assam-stf-six-arrested-mule-account-fraud-pakistan-links-november-02",
+   "category": "Crime & Law",
+   "sub": "Scams & Fraud",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T22:25:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/assam-stf-six-arrested-mule-account-fraud-pakistan-links-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-stf-six-arrested-mule-account-fraud-pakistan-links-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-stf-six-arrested-mule-account-fraud-pakistan-links-november-02-en.mp3",
+   "district": "Kamrup Metro",
+   "state": "Assam",
+   "en": {
+    "title": "Assam STF arrests six in Guwahati over multi-crore mule-account racket; suspected Pakistan intel link under probe",
+    "summary": "Assam Police's Special Task Force has arrested six people from Guwahati in an alleged organised fraud network that routed money through mule bank accounts, including an SBI account that received several lakh rupees in 47 days. Police say the syndicate operated for about two years and may have defrauded victims of several crores; a suspected link to Pakistan intelligence operatives is still being investigated."
+   },
+   "hi": {
+    "title": "गुवाहाटी में म्यूल अकाउंट रैकेट का पर्दाफाश: असम एसटीएफ ने छह लोगों को गिरफ़्तार किया, पाकिस्तान इंटेलिजेंस से जुड़ाव की जाँच जारी",
+    "summary": "असम पुलिस के स्पेशल टास्क फोर्स ने गुवाहाटी के अलग-अलग इलाकों से छह लोगों को गिरफ़्तार किया है, जिन पर म्यूल बैंक खातों के ज़रिए संगठित वित्तीय धोखाधड़ी का आरोप है। इनमें एक एसबीआई खाता भी शामिल है, जिसमें 47 दिनों में कई लाख रुपये आए। पुलिस के अनुसार यह नेटवर्क करीब दो साल से चल रहा था और इससे कई करोड़ रुपये की ठगी का संदेह है; पाकिस्तान इंटेलिजेंस से जुड़ाव की जाँच अभी जारी है।"
+   }
+  },
   {
    "id": "cotu-extends-kangpokpi-total-shutdown-48-hours-november-02",
    "category": "Crime & Law",
