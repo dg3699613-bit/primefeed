@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-02T21:11:01+05:30",
+ "updatedAt": "2026-11-02T21:17:52+05:30",
  "articles": [
+  {
+   "id": "krv-bengaluru-it-firms-jobs-locals-campaign-november-02",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-02T21:17:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/krv-bengaluru-it-firms-jobs-locals-campaign-november-02.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krv-bengaluru-it-firms-jobs-locals-campaign-november-02-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krv-bengaluru-it-firms-jobs-locals-campaign-november-02-en.mp3",
+   "district": "Bengaluru",
+   "state": "Karnataka",
+   "en": {
+    "title": "KRV teams visit Bengaluru IT parks seeking Kannadiga jobs data, despite CM's appeal to stay away",
+    "summary": "Karnataka Rakshana Vedike teams visited IT firms and tech parks across Bengaluru on Monday, submitting memorandums seeking workforce and hiring data for Kannadigas, as part of a month-long campaign that began on Kannada Rajyotsava, despite Chief Minister D K Shivakumar's appeal not to approach companies directly."
+   },
+   "hi": {
+    "title": "मुख्यमंत्री की अपील के बावजूद बेंगलुरु के आईटी पार्कों में पहुँची केआरवी की टीमें, कन्नडिगों के लिए रोज़गार का ब्योरा माँगा",
+    "summary": "कर्नाटक रक्षण वेदिके की दस टीमों ने सोमवार को बेंगलुरु की आईटी कंपनियों और टेक पार्कों में जाकर ज्ञापन सौंपे, जिनमें कन्नडिग कर्मचारियों का ब्योरा, तीन साल की भर्ती का डेटा और भर्तियों में पारदर्शिता की माँग की गई है। मुख्यमंत्री डी के शिवकुमार की कंपनियों में सीधे न जाने की अपील के बावजूद यह अभियान जारी है।"
+   }
+  },
   {
    "id": "modi-pune-metro-pink-line-phase-ii-21800-crore-november-03",
    "category": "State & Local",
