@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-03T18:45:38+05:30",
+  "updatedAt": "2026-11-03T18:56:48+05:30",
   "articles": [
+    {
+      "id": "delhi-traders-seek-protest-free-capital-till-november-11-november-03",
+      "category": "State & Local",
+      "sub": "Delhi",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T18:56:48+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-traders-seek-protest-free-capital-till-november-11-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-traders-seek-protest-free-capital-till-november-11-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-traders-seek-protest-free-capital-till-november-11-november-03-en.mp3",
+      "hi": {
+        "title": "दिल्ली के व्यापारियों ने ११ नवंबर तक रैलियों पर रोक की मांग की, एक महीने में १४,००० करोड़ रुपये के नुकसान का दावा",
+        "summary": "चैंबर ऑफ ट्रेड एंड इंडस्ट्री ने दिल्ली के पुलिस आयुक्त को पत्र लिखकर भाई दूज तक मध्य दिल्ली के प्रमुख स्थानों पर रैलियों, धरनों और विरोध प्रदर्शनों की अनुमति न देने की मांग की है। संगठन का कहना है कि एक महीने के प्रदर्शनों से दिल्ली के व्यापारियों को करीब १४,००० करोड़ रुपये का नुकसान हुआ है। उसने चेतावनी दी है कि त्योहारी कारोबार फिर प्रभावित हुआ तो व्यापारी अपनी दुकानों की चाबियाँ प्रदर्शन के आयोजकों को सौंप देंगे।"
+      },
+      "en": {
+        "title": "Delhi traders seek protest-free capital till November 11, claim Rs 14,000 crore lost in a month",
+        "summary": "The Chamber of Trade and Industry has written to the Delhi Police Commissioner seeking no permission for rallies, sit-ins or protest marches at central Delhi sites until Bhai Dooj, saying a month of demonstrations cost the capital's traders an estimated Rs 14,000 crore. The body has warned that traders may hand over their shop keys to protest organisers if festive business is hit again."
+      }
+    },
     {
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-section-106-husband-explain-wife-unnatural-death-november-03-en.mp3",
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-section-106-husband-explain-wife-unnatural-death-november-03-hi.mp3",
