@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-03T16:26:48+05:30",
+  "updatedAt": "2026-11-03T16:36:14+05:30",
   "articles": [
+    {
+      "id": "murasu-aftermath-no-deaths-andhra-ndrf-shelters-november-03",
+      "category": "Weather",
+      "sub": "Cyclone",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T16:36:14+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/murasu-aftermath-no-deaths-andhra-ndrf-shelters-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/murasu-aftermath-no-deaths-andhra-ndrf-shelters-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/murasu-aftermath-no-deaths-andhra-ndrf-shelters-november-03-en.mp3",
+      "en": {
+        "title": "Cyclone Murasu weakens over Andhra Pradesh with no deaths reported; 10,000 people in 171 relief shelters",
+        "summary": "The NDRF said on Tuesday that Andhra Pradesh has recorded no casualties from Cyclone Murasu so far, even as the storm — which crossed the coast near Ongole early in the morning — left thousands of trees uprooted, power poles damaged and crops flooded across the coastal districts."
+      },
+      "hi": {
+        "title": "मुरासु के बाद राहत की खबर: आंध्र प्रदेश में अब तक कोई मौत नहीं, 171 शिविरों में 10,000 लोग",
+        "summary": "एनडीआरएफ ने मंगलवार को बताया कि चक्रवात मुरासु से आंध्र प्रदेश में अब तक कोई जान नहीं गई है। तड़के ओंगोल के पास तट पार करने के बाद तूफ़ान कमज़ोर पड़ रहा है, लेकिन तटीय ज़िलों में हज़ारों पेड़ गिरे, बिजली के खंभे टूटे और फसलें पानी में डूब गईं।"
+      }
+    },
     {
       "id": "tata-motors-iveco-new-global-enterprise-fourth-largest-november-03",
       "category": "Business",
