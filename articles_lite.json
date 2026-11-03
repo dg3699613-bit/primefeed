@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-03T15:15:10+05:30",
+ "updatedAt": "2026-11-03T15:28:26+05:30",
  "articles": [
+  {
+   "id": "us-midterm-voting-underway-election-day-november-03",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T15:28:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-midterm-voting-underway-election-day-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-midterm-voting-underway-election-day-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-midterm-voting-underway-election-day-november-03-en.mp3",
+   "en": {
+    "title": "Americans vote in midterm elections that will decide control of Congress for Trump's final two years",
+    "summary": "Voting began on Tuesday across the United States, with all 435 House seats, 35 Senate seats and 36 governorships at stake. More than 50 million Americans had already voted early, polls favour Democrats for the House while the Senate stays close, and the first results will arrive overnight in India."
+   },
+   "hi": {
+    "title": "अमेरिका में मिडटर्म चुनाव के लिए मतदान शुरू, ट्रंप के आखिरी दो सालों के लिए कांग्रेस का नियंत्रण दांव पर",
+    "summary": "मंगलवार को पूरे अमेरिका में मतदान शुरू हुआ, जिसमें प्रतिनिधि सभा की सभी चार सौ पैंतीस सीटों, सीनेट की पैंतीस सीटों और छत्तीस राज्यों में गवर्नर पद दांव पर हैं। पाँच करोड़ से अधिक लोग पहले ही वोट डाल चुके थे, सर्वेक्षण प्रतिनिधि सभा में डेमोक्रेट्स की बढ़त दिखा रहे हैं, और पहले नतीजे भारत में रात को आने शुरू होंगे।"
+   }
+  },
+  {
+   "id": "kremlin-confirms-abu-dhabi-ukraine-russia-us-talks-november-10-11-november-03",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T15:28:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kremlin-confirms-abu-dhabi-ukraine-russia-us-talks-november-10-11-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kremlin-confirms-abu-dhabi-ukraine-russia-us-talks-november-10-11-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kremlin-confirms-abu-dhabi-ukraine-russia-us-talks-november-10-11-november-03-en.mp3",
+   "en": {
+    "title": "Kremlin confirms Abu Dhabi talks with Ukraine and US on November 10–11, names Medinsky to lead Russian team",
+    "summary": "The Kremlin confirmed on Tuesday that Russia, Ukraine and the United States will hold trilateral talks in Abu Dhabi on November 10–11, with Vladimir Medinsky leading Moscow's delegation. The US-mediated round will be the first since February, covering post-war security, de-escalation and humanitarian issues."
+   },
+   "hi": {
+    "title": "क्रेमलिन ने दस-ग्यारह नवंबर को अबू धाबी में यूक्रेन-अमेरिका वार्ता की पुष्टि की, मेदिंस्की रूसी दल का नेतृत्व करेंगे",
+    "summary": "क्रेमलिन ने मंगलवार को पुष्टि की कि रूस, यूक्रेन और अमेरिका दस और ग्यारह नवंबर को अबू धाबी में त्रिपक्षीय वार्ता करेंगे, जिसमें मॉस्को के प्रतिनिधिमंडल का नेतृत्व व्लादिमीर मेदिंस्की करेंगे। अमेरिका की मध्यस्थता वाला यह दौर फरवरी के बाद पहला होगा, जिसमें युद्ध के बाद की सुरक्षा, तनाव कम करने और मानवीय मुद्दों पर बात होगी।"
+   }
+  },
   {
    "id": "assam-engineering-college-water-tank-dead-monkey-54-students-ill-november-03",
    "category": "Health",
