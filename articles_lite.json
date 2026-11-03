@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-03T13:57:53+05:30",
+ "updatedAt": "2026-11-03T14:15:00+05:30",
  "articles": [
+  {
+   "id": "rahul-gandhi-foreign-help-row-bjp-hits-back-november-03",
+   "category": "Politics",
+   "sub": "BJP",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T14:15:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-foreign-help-row-bjp-hits-back-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-foreign-help-row-bjp-hits-back-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-foreign-help-row-bjp-hits-back-november-03-en.mp3",
+   "hi": {
+    "title": "मोदी ‘विदेशी मदद’ से पीएम बने, राहुल गांधी का आरोप; बीजेपी बोली — ‘झूठा जालसाज़’, 2023 के लंदन बयान की याद दिलाई",
+    "summary": "सोमवार को एक्स पर राहुल गांधी ने प्रधानमंत्री नरेंद्र मोदी पर विदेशी मदद से सत्ता में आने और बने रहने का आरोप लगाया और खुली बहस की चुनौती दी; मंगलवार को बीजेपी प्रवक्ता सी आर केशवन ने पलटवार करते हुए उन्हें ‘झूठा जालसाज़’ कहा और 2023 के लंदन बयान का हवाला दिया।"
+   },
+   "en": {
+    "title": "Rahul Gandhi says Modi became PM with 'foreign help'; BJP hits back, calling him a 'lousy con artist'",
+    "summary": "In a post on X on Monday, Rahul Gandhi accused Prime Minister Narendra Modi of coming to power and staying in office with foreign help, and challenged him to an open debate; on Tuesday, BJP spokesperson C R Kesavan hit back, calling Gandhi a 'lousy con artist' and recalling his 2023 London remarks."
+   }
+  },
+  {
+   "id": "australia-high-court-hears-social-media-ban-challenge-november-03",
+   "category": "Technology",
+   "sub": "Social Media",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T14:15:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/australia-high-court-hears-social-media-ban-challenge-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/australia-high-court-hears-social-media-ban-challenge-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/australia-high-court-hears-social-media-ban-challenge-november-03-en.mp3",
+   "hi": {
+    "title": "ऑस्ट्रेलिया की अदालत में 16 साल से कम उम्र के सोशल मीडिया बैन पर सुनवाई शुरू, रेडिट ने क़ानून को ‘बेढंगा’ बताया",
+    "summary": "मेलबर्न में हाई कोर्ट की सात जजों की बेंच ने मंगलवार को दुनिया के पहले अंडर-16 सोशल मीडिया बैन के ख़िलाफ़ दो चुनौतियों पर दो दिन की सुनवाई शुरू की; डिजिटल फ्रीडम प्रोजेक्ट का कहना है कि बैन राजनीतिक संवाद की आज़ादी छीनता है, जबकि रेडिट ने इसे ‘बेढंगा’ और अप्रभावी बताया।"
+   },
+   "en": {
+    "title": "Australia's High Court begins hearing challenge to under-16 social media ban; Reddit calls law 'inept'",
+    "summary": "A seven-judge bench of Australia's High Court began a two-day hearing on Tuesday into two challenges to the world's first under-16 social media ban; the Digital Freedom Project says the ban curbs freedom of political communication, while Reddit called it 'inept' and ineffective."
+   }
+  },
   {
    "id": "pm-modi-inaugurates-pune-metro-pink-line-hinjewadi-shivajinagar-november-03",
    "category": "State & Local",
