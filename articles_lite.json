@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-03T19:18:24+05:30",
+ "updatedAt": "2026-11-03T19:26:32+05:30",
  "articles": [
+  {
+   "id": "mea-23-indians-killed-west-asia-conflict-black-sea-november-03",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mea-23-indians-killed-west-asia-conflict-black-sea-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mea-23-indians-killed-west-asia-conflict-black-sea-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mea-23-indians-killed-west-asia-conflict-black-sea-november-03-en.mp3",
+   "publishedAt": "2026-11-03T19:26:32+05:30",
+   "en": {
+    "title": "23 Indians killed in West Asia conflict, including 15 seafarers, MEA says; five more died in Black Sea shipping attacks",
+    "summary": "The Foreign Ministry said on Tuesday that the death of a Gujarat seafarer in the attack on the vessel MSV Al Jusufi off Oman has taken to 23 the number of Indians killed in the West Asia conflict since February, 15 of them seafarers, while five more Indians have died in attacks on commercial shipping in the Black Sea and two remain missing."
+   },
+   "hi": {
+    "title": "पश्चिम एशिया संघर्ष में 23 भारतीयों की मौत, 15 नाविक शामिल; काला सागर में जहाजों पर हमलों में पाँच और मारे गए: विदेश मंत्रालय",
+    "summary": "विदेश मंत्रालय ने मंगलवार को बताया कि ओमान के पास भारतीय जहाज एमएसवी अल जुसुफी पर हमले में गुजरात के एक नाविक की मौत के बाद फरवरी से पश्चिम एशिया संघर्ष में मारे गए भारतीयों की संख्या 23 हो गई है, जिनमें 15 नाविक हैं। काला सागर में वाणिज्यिक जहाजों पर हमलों में पाँच और भारतीय मारे गए हैं और दो लापता हैं।"
+   }
+  },
+  {
+   "id": "amit-shah-chhattisgarh-naxal-free-rajyotsav-november-03",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-chhattisgarh-naxal-free-rajyotsav-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-chhattisgarh-naxal-free-rajyotsav-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-chhattisgarh-naxal-free-rajyotsav-november-03-en.mp3",
+   "publishedAt": "2026-11-03T19:26:32+05:30",
+   "en": {
+    "title": "Chhattisgarh is now Naxal-free, Amit Shah declares at Rajyotsav finale; state eyes top three in tourism",
+    "summary": "Union Home Minister Amit Shah told the closing ceremony of Chhattisgarh's three-day Rajyotsav in Nava Raipur on Tuesday that the state has become Naxal-free, crediting central forces and the state police, and said the mineral-rich state would soon count among India's top three tourism destinations."
+   },
+   "hi": {
+    "title": "छत्तीसगढ़ अब नक्सल-मुक्त, राजयोत्सव समापन पर अमित शाह का ऐलान; पर्यटन में टॉप-3 में लाने का दावा",
+    "summary": "केंद्रीय गृह मंत्री अमित शाह ने मंगलवार को नवा रायपुर में छत्तीसगढ़ के तीन दिवसीय राजयोत्सव के समापन समारोह में कहा कि राज्य नक्सल-मुक्त हो गया है। उन्होंने इसका श्रेय केंद्रीय बलों और राज्य पुलिस को दिया और कहा कि खनिज संपदा से भरपूर यह राज्य जल्द देश के शीर्ष तीन पर्यटन स्थलों में शामिल होगा।"
+   }
+  },
   {
    "id": "bageshwar-dham-dhirendra-shastri-apologises-ram-krishna-remarks-november-03",
    "category": "Dharm-Astrology",
