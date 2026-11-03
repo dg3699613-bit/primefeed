@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-03T11:40:59+05:30",
+  "updatedAt": "2026-11-03T11:47:15+05:30",
   "articles": [
+    {
+      "id": "sharad-pawar-stable-chest-pain-subsided-wednesday-discharge-november-03",
+      "category": "Politics",
+      "sub": "Regional Parties",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T11:47:15+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sharad-pawar-stable-chest-pain-subsided-wednesday-discharge-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-pawar-stable-chest-pain-subsided-wednesday-discharge-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-pawar-stable-chest-pain-subsided-wednesday-discharge-november-03-en.mp3",
+      "district": "Pune",
+      "state": "Maharashtra",
+      "hi": {
+        "title": "शरद पवार की हालत स्थिर, सीने का दर्द कम हुआ; पुणे अस्पताल ने बुधवार को छुट्टी की अस्थायी योजना बनाई",
+        "summary": "पुणे के रूबी हॉल क्लिनिक ने मंगलवार को कहा कि एनसीपी एसपी प्रमुख शरद पवार, पचासी वर्ष, की हालत स्थिर है और उनके सीने का दर्द कम हो गया है, बुधवार को छुट्टी की अस्थायी योजना है; परिवार के मुताबिक मौसमी खांसी के बाद हुआ हल्का सीने का संक्रमण ठीक हो रहा है और घबराने की कोई बात नहीं है।"
+      },
+      "en": {
+        "title": "Sharad Pawar stable, chest pain subsided; Pune hospital tentatively plans Wednesday discharge",
+        "summary": "Ruby Hall Clinic in Pune said on Tuesday that NCP (SP) chief Sharad Pawar, 85, is stable and his chest pain has subsided, with discharge tentatively planned for Wednesday; his family says a mild chest infection that followed a seasonal cough is clearing up and there is no cause for alarm."
+      }
+    },
     {
       "id": "gill-confirms-india-top-four-nz-odis-november-03",
       "category": "Cricket & Sports",
