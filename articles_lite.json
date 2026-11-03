@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-03T14:46:33+05:30",
+  "updatedAt": "2026-11-03T14:55:55+05:30",
   "articles": [
+    {
+      "id": "iran-warns-forceful-response-us-strikes-hormuz-deal-far-november-03",
+      "category": "World",
+      "sub": "Middle East",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T14:55:55+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-warns-forceful-response-us-strikes-hormuz-deal-far-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-warns-forceful-response-us-strikes-hormuz-deal-far-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-warns-forceful-response-us-strikes-hormuz-deal-far-november-03-en.mp3",
+      "hi": {
+        "title": "ईरान की चेतावनी, आगे अमेरिकी हमला हुआ तो ‘ज़ोरदार जवाब’ मिलेगा, लेकिन होरमुज़ समझौते पर दो दिन में अमल संभव",
+        "summary": "रॉयटर्स से ईरान के वरिष्ठ अधिकारी ने मंगलवार को कहा कि युद्ध खत्म करने के समझौते से दोनों पक्ष अब भी दूर हैं और तेहरान वॉशिंगटन की ‘अत्यधिक माँगें’ नहीं मानेगा, लेकिन उसकी सात-सूत्री योजना — होरमुज़ खोलना और परमाणु बातचीत फिर शुरू करना — पर एक हफ़्ते की बजाय दो दिन में अमल हो सकता है। उपराष्ट्रपति जेडी वेंस ने कहा कि बातचीत में प्रगति हुई है।"
+      },
+      "en": {
+        "title": "Iran warns it will 'respond forcefully' to any further US strikes, but says its Hormuz deal can start within two days",
+        "summary": "A senior Iranian official told Reuters on Tuesday that Tehran is still far from a deal to end the war and will not accept Washington's 'excessive demands', even as it said its seven-point proposal — reopening the Strait of Hormuz and resuming nuclear talks — could be put into action within two days instead of a week. US Vice President JD Vance said talks had made progress."
+      }
+    },
     {
       "id": "bombay-hc-orders-bmc-restore-dia-mirza-diwali-video-secular-country-november-03",
       "category": "Crime & Law",
