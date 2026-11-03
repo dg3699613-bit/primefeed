@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-03T14:15:00+05:30",
+ "updatedAt": "2026-11-03T14:26:03+05:30",
  "articles": [
+  {
+   "id": "supreme-court-flags-open-firecracker-sales-delhi-november-03",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T14:26:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-flags-open-firecracker-sales-delhi-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-flags-open-firecracker-sales-delhi-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-flags-open-firecracker-sales-delhi-november-03-en.mp3",
+   "en": {
+    "title": "'Everything is available in the shops': Supreme Court flags open firecracker sales in Delhi a day after its green-cracker order",
+    "summary": "Justices M. M. Sundresh and Prasanna B. Varale cited a November 3 report finding conventional crackers on sale in Chandni Chowk, Sadar Bazar and other Delhi markets, with doubtful QR codes passed off as green, and asked the Centre, Delhi government and police to take all necessary measures to stop violations."
+   },
+   "hi": {
+    "title": "‘दुकानों में सब कुछ मिल रहा है’: ग्रीन पटाखों के आदेश के एक दिन बाद दिल्ली में खुलेआम पटाखे बिकने पर सुप्रीम कोर्ट ने जताई चिंता",
+    "summary": "न्यायमूर्ति एमएम सुंदरेश और न्यायमूर्ति प्रसन्ना बी वराले की पीठ ने ३ नवंबर की रिपोर्ट का हवाला दिया, जिसमें चाँदनी चौक, सदर बाज़ार समेत दिल्ली के कई बाज़ारों में पारंपरिक पटाखे बिकते और संदिग्ध क्यूआर कोड वाले उत्पादों को ग्रीन बताकर बेचे जाते पाए गए थे, और केंद्र, दिल्ली सरकार तथा पुलिस से उल्लंघन रोकने के लिए ज़रूरी कदम उठाने को कहा।"
+   }
+  },
+  {
+   "id": "pv-sindhu-lakshya-sen-sai-funding-cut-european-tour-november-03",
+   "category": "Cricket & Sports",
+   "sub": "Badminton",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T14:26:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pv-sindhu-lakshya-sen-sai-funding-cut-european-tour-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pv-sindhu-lakshya-sen-sai-funding-cut-european-tour-november-03-hi.mp3",
+   "audioEn": null,
+   "en": {
+    "title": "Sindhu and Sen won at the Hylo Open after paying their own way: SAI says badminton funding stopped over a missed deadline, not the Asian Games",
+    "summary": "The Indian Express reported SAI refused funding for the European swing of the Arctic, Denmark, French and Hylo Opens, leaving players to cover travel, food and stay; SAI said on Tuesday the Badminton Association of India missed its revised 30-day proposal deadline, and denied the cut was punishment for the medal-less Asian Games campaign."
+   },
+   "hi": {
+    "title": "अपने खर्च पर यूरोप खेलकर हायलो ओपन जीते सिंधु और सेन: साई ने कहा, फंडिंग एशियाई खेलों के नतीजे से नहीं, समय सीमा चूकने से रुकी",
+    "summary": "इंडियन एक्सप्रेस की रिपोर्ट के अनुसार साई ने आर्कटिक, डेनमार्क, फ्रेंच और हायलो ओपन वाले यूरोपीय दौरे के लिए फंडिंग देने से इनकार कर दिया था, जिससे खिलाड़ियों को यात्रा, भोजन और ठहरने का खर्च खुद उठाना पड़ा। साई ने मंगलवार को कहा कि भारतीय बैडमिंटन संघ ने संशोधित ३० दिन की समय सीमा के भीतर प्रस्ताव जमा नहीं किया था, और यह कटौती एशियाई खेलों के पदकहीन अभियान की सज़ा नहीं थी।"
+   }
+  },
   {
    "id": "rahul-gandhi-foreign-help-row-bjp-hits-back-november-03",
    "category": "Politics",
