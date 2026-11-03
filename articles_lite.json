@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T15:28:26+05:30",
+ "updatedAt": "2026-11-03T15:46:19+05:30",
  "articles": [
+  {
+   "id": "tenerife-striker-jesus-de-miguel-dies-after-andorra-collision-november-03",
+   "category": "Cricket & Sports",
+   "sub": "Football",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T15:46:19+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tenerife-striker-jesus-de-miguel-dies-after-andorra-collision-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tenerife-striker-jesus-de-miguel-dies-after-andorra-collision-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tenerife-striker-jesus-de-miguel-dies-after-andorra-collision-november-03-en.mp3",
+   "hi": {
+    "title": "टेनेरिफ़े के स्ट्राइकर खेसुस दे मिगुएल का निधन, मैच के दौरान गोलकीपर से टक्कर के एक दिन बाद 30 साल की उम्र में मौत",
+    "summary": "स्पेन के सेकंड डिवीज़न क्लब सीडी टेनेरिफ़े के स्ट्राइकर खेसुस दे मिगुएल का मंगलवार सुबह निधन हो गया। सोमवार को एफ़सी अंडोरा के खिलाफ मैच के आखिरी पलों में गोलकीपर खेसुस ओवोनो से टक्कर के बाद वे मैदान पर गिर पड़े थे, एंबुलेंस में उन्हें दिल का दौरा पड़ा था और रात भर हालत बिगड़ती गई।"
+   },
+   "en": {
+    "title": "Tenerife striker Jesus de Miguel dies aged 30, a day after colliding with the goalkeeper against Andorra",
+    "summary": "CD Tenerife striker Jesus de Miguel has died on Tuesday morning, a day after a collision with FC Andorra goalkeeper Jesus Owono in the closing minutes of a Spanish second-division match. He suffered a cardiac arrest in the ambulance and his condition worsened overnight in intensive care."
+   }
+  },
   {
    "id": "us-midterm-voting-underway-election-day-november-03",
    "category": "World",
