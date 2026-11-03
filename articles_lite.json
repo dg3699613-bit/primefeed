@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-03T16:06:53+05:30",
+  "updatedAt": "2026-11-03T16:26:48+05:30",
   "articles": [
+    {
+      "id": "tata-motors-iveco-new-global-enterprise-fourth-largest-november-03",
+      "category": "Business",
+      "sub": "Auto",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T16:26:48+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-motors-iveco-new-global-enterprise-fourth-largest-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-motors-iveco-new-global-enterprise-fourth-largest-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-motors-iveco-new-global-enterprise-fourth-largest-november-03-en.mp3",
+      "en": {
+        "title": "Tata Motors and Iveco begin as one global commercial vehicle giant, ranked fourth in the world",
+        "summary": "At a press meet in Turin on Tuesday, Tata Motors and Iveco Group marked their new beginning as a combined enterprise present in more than 130 countries, days after Tata Motors completed its takeover of the Italian truck and bus maker."
+      },
+      "hi": {
+        "title": "टाटा मोटर्स और इवेको एक हुए, दुनिया की चौथी सबसे बड़ी कमर्शियल वाहन कंपनी बनी",
+        "summary": "ट्यूरिन में मंगलवार को हुई प्रेस बैठक में टाटा मोटर्स और इवेको ग्रुप ने अपने संयुक्त उद्यम के नए सफर की शुरुआत की, जो १३० से अधिक देशों में मौजूद है। यह घोषणा इटली की ट्रक और बस निर्माता कंपनी के अधिग्रहण पूरा होने के कुछ दिन बाद हुई है।"
+      }
+    },
     {
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1225-points-higher-76918-nifty-23811-two-month-high-november-03-en.mp3",
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1225-points-higher-76918-nifty-23811-two-month-high-november-03-hi.mp3",
