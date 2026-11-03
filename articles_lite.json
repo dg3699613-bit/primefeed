@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-03T04:34:11+05:30",
+  "updatedAt": "2026-11-03T06:19:20+05:30",
   "articles": [
+    {
+      "id": "north-korea-tests-dispersal-warhead-strategic-cruise-missile-november-03",
+      "category": "World",
+      "sub": "Asia",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T06:19:20+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/north-korea-tests-dispersal-warhead-strategic-cruise-missile-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-tests-dispersal-warhead-strategic-cruise-missile-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-tests-dispersal-warhead-strategic-cruise-missile-november-03-en.mp3",
+      "hi": {
+        "title": "उत्तर कोरिया ने रणनीतिक क्रूज़ मिसाइल के लिए डिस्पर्सल वॉरहेड का परीक्षण किया, क्लस्टर बम परीक्षण के कुछ दिन बाद",
+        "summary": "उत्तर कोरिया ने कहा है कि उसने सोमवार को एक रणनीतिक क्रूज़ मिसाइल के लिए डिस्पर्सल वॉरहेड का परीक्षण किया, राजकीय मीडिया का दावा है कि यह वॉरहेड अपनी सबसे ज़्यादा घनत्व वाली शक्ति से पाँच से छह हेक्टेयर इलाके को राख में बदल सकता है, मंगलवार को सामने आई यह खबर मिसाइल की वर्टिकल स्ट्राइक क्षमता की भी जाँच करती है और शनिवार को टैक्टिकल बैलिस्टिक मिसाइलों के लिए हुए क्लस्टर बम परीक्षण के बाद आई है, प्योंगयांग ने साल के अंत तक और क्लस्टर वॉरहेड तैनात करने की बात कही है।"
+      },
+      "en": {
+        "title": "North Korea tests dispersal warhead for strategic cruise missile, days after its cluster-bomb test",
+        "summary": "North Korea says it tested a dispersal warhead for a strategic cruise missile on Monday, with state media claiming the warhead can turn a five-to-six-hectare area to ashes at its highest-density power; the test, reported on Tuesday, also checked the missile's vertical-strike ability and follows Saturday's cluster-bomb test for tactical ballistic missiles, as Pyongyang vows to field more cluster warheads by the end of the year."
+      }
+    },
+    {
+      "id": "us-ukraine-russia-abu-dhabi-talks-november-10-11",
+      "category": "World",
+      "sub": "Europe",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T05:11:17+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-ukraine-russia-abu-dhabi-talks-november-10-11.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-ukraine-russia-abu-dhabi-talks-november-10-11-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-ukraine-russia-abu-dhabi-talks-november-10-11-en.mp3",
+      "hi": {
+        "title": "अमेरिका 10-11 नवंबर को अबू धाबी में यूक्रेन-रूस को एक मेज पर लाएगा, फरवरी के बाद पहली त्रिपक्षीय वार्ता",
+        "summary": "एक वरिष्ठ अमेरिकी अधिकारी ने रॉयटर्स को बताया कि अमेरिका 10 और 11 नवंबर को अबू धाबी में यूक्रेन और रूस के प्रतिनिधिमंडलों को एक साथ लाएगा, जहाँ युद्ध खत्म करने, युद्ध के बाद की सुरक्षा व्यवस्था और तनाव कम करने पर बात होगी; वाशिंगटन की ओर से स्टीव विटकॉफ़ और जेरेड कुशनर वार्ता करेंगे, और इससे पहले इस हफ़्ते ब्रसेल्स में यूरोपीय सहयोगियों से बैठक होगी।"
+      },
+      "en": {
+        "title": "US to bring Ukraine and Russia together in Abu Dhabi on November 10–11 for first trilateral talks since February",
+        "summary": "The United States will bring Ukrainian and Russian delegations together in Abu Dhabi on November 10–11 to discuss ending the war, post-war security agreements and de-escalation, a senior US official told Reuters; lead negotiators Steve Witkoff and Jared Kushner will represent Washington, and US officials will first meet European allies in Brussels this week."
+      }
+    },
     {
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/centre-nod-for-balrampur-gonda-ayodhya-road-widening-en.mp3",
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/centre-nod-for-balrampur-gonda-ayodhya-road-widening-hi.mp3",
