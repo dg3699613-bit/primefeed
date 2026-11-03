@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-03T13:36:04+05:30",
+ "updatedAt": "2026-11-03T13:57:53+05:30",
  "articles": [
+  {
+   "id": "pm-modi-inaugurates-pune-metro-pink-line-hinjewadi-shivajinagar-november-03",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-03T13:57:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurates-pune-metro-pink-line-hinjewadi-shivajinagar-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-pune-metro-pink-line-hinjewadi-shivajinagar-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-pune-metro-pink-line-hinjewadi-shivajinagar-november-03-en.mp3",
+   "hi": {
+    "title": "पीएम मोदी ने पुणे मेट्रो की 23 किलोमीटर लंबी पिंक लाइन खोली, 21,800 करोड़ रुपये के पैकेज में चार नए कॉरिडोर की आधारशिला रखी",
+    "summary": "मान से ज़िला न्यायालय तक 23 किलोमीटर का कॉरिडोर हिंजेवाड़ी आईटी हब को शिवाजीनगर से जोड़ेगा, इसका संचालन पूरी तरह महिला ऑपरेटर करेंगी और 4 नवंबर से यात्री सेवाएँ शुरू होंगी; फ़ेज़-दो में क़रीब 13,500 करोड़ रुपये के चार कॉरिडोर बनेंगे।"
+   },
+   "en": {
+    "title": "PM Modi opens Pune Metro's 23-km Pink Line, lays foundation for four new corridors in Rs 21,800 crore package",
+    "summary": "The 23-km Maan–District Court corridor links the Hinjewadi IT hub to Shivajinagar, will run entirely with women operators, and opens to passengers on November 4; Phase-II adds four corridors worth around Rs 13,500 crore."
+   },
+   "district": "Pune",
+   "state": "Maharashtra"
+  },
+  {
+   "id": "google-dreambeans-app-launches-india-first-market-outside-us-november-03",
+   "category": "Technology",
+   "sub": "Apps",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T13:57:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/google-dreambeans-app-launches-india-first-market-outside-us-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-dreambeans-app-launches-india-first-market-outside-us-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-dreambeans-app-launches-india-first-market-outside-us-november-03-en.mp3",
+   "hi": {
+    "title": "गूगल ने अपना एआई डेली-स्टोरी ऐप ड्रीमबीन्स भारत में लॉन्च किया — अमेरिका के बाहर पहला देश",
+    "summary": "गूगल लैब्स का प्रयोगात्मक ऐप उपयोगकर्ता की चुनी गूगल सेवाओं से जानकारी लेकर हर दिन चित्रों वाली कहानियों का संग्रह बनाता है; भारत में यह 18 साल से ऊपर के उपयोगकर्ताओं के लिए 14 भाषाओं में एंड्रॉयड और आईओएस पर मिलेगा।"
+   },
+   "en": {
+    "title": "Google brings Dreambeans, its AI daily-story app, to India — its first market outside the US",
+    "summary": "Google Labs' experimental app builds an illustrated daily story collection from the Google apps users connect, and arrives in India in 14 languages for users aged 18 and above on Android and iOS."
+   }
+  },
   {
    "id": "supreme-court-cant-occupy-protest-site-all-times-delhi-november-03",
    "category": "Crime & Law",
@@ -629,7 +673,7 @@
    "category": "Weather",
    "sub": "Cyclone",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "source": "PrimeFeed Desk",
    "district": "Prakasam",
