@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-03T11:47:15+05:30",
+  "updatedAt": "2026-11-03T12:01:21+05:30",
   "articles": [
+    {
+      "id": "andhra-civic-counting-tdp-badvel-chair-cyclone-delay-november-03",
+      "category": "Politics",
+      "sub": "Elections",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T12:01:21+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/andhra-civic-counting-tdp-badvel-chair-cyclone-delay-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-civic-counting-tdp-badvel-chair-cyclone-delay-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-civic-counting-tdp-badvel-chair-cyclone-delay-november-03-en.mp3",
+      "hi": {
+        "title": "आंध्र निकाय मतगणना: बाडवेल की पहली कुर्सी टीडीपी के खाते में, शुरुआती रुझान सत्तारूढ़ गठबंधन के पक्ष में; दो ज़िलों में चक्रवात से गिनती लेट",
+        "summary": "आंध्र प्रदेश के 92 शहरी निकायों की मतगणना मंगलवार को दूसरे चरण में पहुँच गई — टीडीपी ने बाडवेल नगरपालिका अध्यक्ष की कुर्सी जीत ली, कडपा और विशाखापत्तनम में शुरुआती बढ़त बनाई, पुंगनूर और रायचोटी में निर्विरोध जीत मिली — वहीं चक्रवात मुरासु के कारण प्रकाशम और बापटला में गिनती करीब साढ़े तीन घंटे लेट हो गई।"
+      },
+      "en": {
+        "title": "Andhra civic counting: TDP takes the first chair in Badvel as early trends favour the ruling alliance; cyclone delays count in two districts",
+        "summary": "Counting in Andhra Pradesh's 92 urban local bodies moved into its second phase on Tuesday with the TDP sweeping Badvel's municipal chair, early leads in Kadapa and Visakhapatnam, and unopposed wins in Punganur and Rayachoti — while Cyclone Murasu pushed counting back by about three-and-a-half hours in Prakasam and Bapatla."
+      }
+    },
+    {
+      "id": "devon-conway-ruled-out-first-odi-concussion-eden-park-november-03",
+      "category": "Cricket & Sports",
+      "sub": "Cricket",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-03T12:01:21+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/devon-conway-ruled-out-first-odi-concussion-eden-park-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/devon-conway-ruled-out-first-odi-concussion-eden-park-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/devon-conway-ruled-out-first-odi-concussion-eden-park-november-03-en.mp3",
+      "hi": {
+        "title": "ईडन पार्क में टक्कर के बाद कॉनवे पहले वनडे से बाहर: कन्कशन ने न्यूज़ीलैंड के ओपनर को सीरीज़ के आगाज़ से ही दूर कर दिया",
+        "summary": "डेवॉन कॉनवे बुधवार को ईडन पार्क में भारत के खिलाफ पहले वनडे में नहीं खेलेंगे — मंगलवार को न्यूज़ीलैंड के अभ्यास सत्र में मैट हेनरी से टक्कर के बाद उन्हें कन्कशन हो गया। उनकी जगह टिम साइफर्ट पारी की शुरुआत करेंगे, और हेनरी के चयन पर अभी फैसला बाकी है।"
+      },
+      "en": {
+        "title": "Conway out of Auckland ODI after Eden Park collision: concussion rules New Zealand opener out of the series opener",
+        "summary": "Devon Conway will miss Wednesday's first ODI against India at Eden Park after a concussion suffered when he collided with Matt Henry during New Zealand's training session on Tuesday. Tim Seifert will open in his place, and Henry remains in consideration for selection."
+      }
+    },
     {
       "id": "sharad-pawar-stable-chest-pain-subsided-wednesday-discharge-november-03",
       "category": "Politics",
@@ -49,13 +91,13 @@
       "breaking": false,
       "category": "Entertainment",
       "en": {
-        "summary": "The Bombay High Court has granted a dynamic ad-interim injunction protecting Nitesh Tiwari's Ramayana: Part 1 from piracy ahead of its worldwide release on November 5, restraining unidentified infringers, pirate websites and digital platforms from recording, uploading or streaming the film without authorisation, on a copyright suit filed by rights-holder Godpower Media.",
-        "title": "Bombay High Court shields Ramayana from piracy with dynamic injunction, two days before release"
+        "title": "Bombay High Court shields Ramayana from piracy with dynamic injunction, two days before release",
+        "summary": "The Bombay High Court has granted a dynamic ad-interim injunction protecting Nitesh Tiwari's Ramayana: Part 1 from piracy ahead of its worldwide release on November 5, restraining unidentified infringers, pirate websites and digital platforms from recording, uploading or streaming the film without authorisation, on a copyright suit filed by rights-holder Godpower Media."
       },
       "featured": false,
       "hi": {
-        "summary": "बॉम्बे हाई कोर्ट ने नितेश तिवारी की रामायण: पार्ट वन को पायरेसी से बचाने के लिए डायनैमिक अंतरिम रोक लगा दी है। पाँच नवंबर को दुनियाभर में रिलीज़ से पहले यह आदेश अज्ञात उल्लंघनकर्ताओं, पायरेट वेबसाइटों और डिजिटल प्लेटफॉर्मों को फिल्म की बिना अनुमति रिकॉर्डिंग, अपलोडिंग या स्ट्रीमिंग से रोकता है। यह याचिका फिल्म के अधिकार रखने वाली कंपनी गॉडपावर मीडिया ने दायर की थी।",
-        "title": "रिलीज़ से दो दिन पहले रामायण को बॉम्बे हाई कोर्ट का कवच, पायरेसी पर डायनैमिक रोक"
+        "title": "रिलीज़ से दो दिन पहले रामायण को बॉम्बे हाई कोर्ट का कवच, पायरेसी पर डायनैमिक रोक",
+        "summary": "बॉम्बे हाई कोर्ट ने नितेश तिवारी की रामायण: पार्ट वन को पायरेसी से बचाने के लिए डायनैमिक अंतरिम रोक लगा दी है। पाँच नवंबर को दुनियाभर में रिलीज़ से पहले यह आदेश अज्ञात उल्लंघनकर्ताओं, पायरेट वेबसाइटों और डिजिटल प्लेटफॉर्मों को फिल्म की बिना अनुमति रिकॉर्डिंग, अपलोडिंग या स्ट्रीमिंग से रोकता है। यह याचिका फिल्म के अधिकार रखने वाली कंपनी गॉडपावर मीडिया ने दायर की थी।"
       },
       "id": "bombay-high-court-ramayana-anti-piracy-protection-november-03",
       "publishedAt": "2026-11-03T11:26:25+05:30",
@@ -119,12 +161,12 @@
       "trending": true,
       "source": "PrimeFeed Desk",
       "en": {
-        "summary": "Postal-ballot trends from Visakhapatnam give the TDP an early edge in the mayoral contest, with the party leading in eight wards, but officials stress these are trends, not results. Counting across Andhra Pradesh's 92 urban local bodies began at 8 am, and most outcomes are expected by 8 pm.",
-        "title": "Early trends put TDP ahead in Visakhapatnam mayoral race as Andhra counts votes in 92 urban bodies"
+        "title": "Early trends put TDP ahead in Visakhapatnam mayoral race as Andhra counts votes in 92 urban bodies",
+        "summary": "Postal-ballot trends from Visakhapatnam give the TDP an early edge in the mayoral contest, with the party leading in eight wards, but officials stress these are trends, not results. Counting across Andhra Pradesh's 92 urban local bodies began at 8 am, and most outcomes are expected by 8 pm."
       },
       "hi": {
-        "summary": "विशाखापत्तनम में डाक मतपत्रों के शुरुआती रुझानों में मेयर पद की दौड़ में टीडीपी आगे है और पार्टी आठ वार्डों में बढ़त बनाए हुए है, लेकिन अधिकारी साफ कर रहे हैं कि ये रुझान हैं, नतीजे नहीं। आंध्र प्रदेश के 92 शहरी निकायों में वोटों की गिनती सुबह 8 बजे से हो रही है और ज़्यादातर नतीजे रात 8 बजे तक आने की उम्मीद है।",
-        "title": "आंध्र प्रदेश में मतगणना के शुरुआती रुझानों में विशाखापत्तनम में टीडीपी आगे, मेयर की दौड़ में 53-29 की बढ़त"
+        "title": "आंध्र प्रदेश में मतगणना के शुरुआती रुझानों में विशाखापत्तनम में टीडीपी आगे, मेयर की दौड़ में 53-29 की बढ़त",
+        "summary": "विशाखापत्तनम में डाक मतपत्रों के शुरुआती रुझानों में मेयर पद की दौड़ में टीडीपी आगे है और पार्टी आठ वार्डों में बढ़त बनाए हुए है, लेकिन अधिकारी साफ कर रहे हैं कि ये रुझान हैं, नतीजे नहीं। आंध्र प्रदेश के 92 शहरी निकायों में वोटों की गिनती सुबह 8 बजे से हो रही है और ज़्यादातर नतीजे रात 8 बजे तक आने की उम्मीद है।"
       },
       "publishedAt": "2026-11-03T10:45:31+05:30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/andhra-urban-body-early-trends-tdp-leads-visakhapatnam-november-03.jpg",
@@ -135,13 +177,13 @@
       "breaking": false,
       "category": "Entertainment",
       "en": {
-        "summary": "Nitesh Tiwari's Ramayana has crossed Rs 100 crore in worldwide advance bookings two days before its November 5 release, trade tracker Sacnilk reported. India accounts for Rs 72.91 crore gross across five show dates, overseas pre-sales have touched $5 million, and opening-day pre-sales alone have crossed Rs 50 crore worldwide.",
-        "title": "Ramayana advance bookings cross Rs 100 crore worldwide, two days before release"
+        "title": "Ramayana advance bookings cross Rs 100 crore worldwide, two days before release",
+        "summary": "Nitesh Tiwari's Ramayana has crossed Rs 100 crore in worldwide advance bookings two days before its November 5 release, trade tracker Sacnilk reported. India accounts for Rs 72.91 crore gross across five show dates, overseas pre-sales have touched $5 million, and opening-day pre-sales alone have crossed Rs 50 crore worldwide."
       },
       "featured": false,
       "hi": {
-        "summary": "नितेश तिवारी की रामायण ने 5 नवंबर की रिलीज़ से दो दिन पहले दुनियाभर में 100 करोड़ रुपये की एडवांस बुकिंग पार कर ली है, ट्रेड ट्रैकर सैकनिल्क के अनुसार। भारत में पाँच शो तारीखों पर 72.91 करोड़ रुपये की ग्रॉस बुकिंग हुई है, विदेशों में प्री-सेल्स 50 लाख डॉलर तक पहुँच गई हैं, और अकेले पहले दिन की प्री-सेल्स दुनियाभर में 50 करोड़ रुपये से ऊपर है।",
-        "title": "रिलीज़ से दो दिन पहले रामायण की दुनियाभर में एडवांस बुकिंग 100 करोड़ रुपये के पार"
+        "title": "रिलीज़ से दो दिन पहले रामायण की दुनियाभर में एडवांस बुकिंग 100 करोड़ रुपये के पार",
+        "summary": "नितेश तिवारी की रामायण ने 5 नवंबर की रिलीज़ से दो दिन पहले दुनियाभर में 100 करोड़ रुपये की एडवांस बुकिंग पार कर ली है, ट्रेड ट्रैकर सैकनिल्क के अनुसार। भारत में पाँच शो तारीखों पर 72.91 करोड़ रुपये की ग्रॉस बुकिंग हुई है, विदेशों में प्री-सेल्स 50 लाख डॉलर तक पहुँच गई हैं, और अकेले पहले दिन की प्री-सेल्स दुनियाभर में 50 करोड़ रुपये से ऊपर है।"
       },
       "id": "ramayana-advance-bookings-cross-100-crore-worldwide-two-days-before-release",
       "publishedAt": "2026-11-03T10:34:00+05:30",
@@ -310,12 +352,12 @@
       "district": "Sepahijala",
       "state": "Tripura",
       "en": {
-        "summary": "Three Border Security Force jawans were injured on Monday morning near the Ashabari border outpost in Tripura's Sepahijala district after a patrol chase of alleged smugglers ended in a violent confrontation at a road blockade. Chief Minister Manik Saha has condemned the attack and directed swift, stringent action against those responsible.",
-        "title": "Three BSF jawans attacked near Tripura border fence after smuggling chase, CM orders strict action"
+        "title": "Three BSF jawans attacked near Tripura border fence after smuggling chase, CM orders strict action",
+        "summary": "Three Border Security Force jawans were injured on Monday morning near the Ashabari border outpost in Tripura's Sepahijala district after a patrol chase of alleged smugglers ended in a violent confrontation at a road blockade. Chief Minister Manik Saha has condemned the attack and directed swift, stringent action against those responsible."
       },
       "hi": {
-        "summary": "त्रिपुरा के सिपाहीजला जिले में आशाबाड़ी सीमा चौकी के पास सोमवार सुबह कथित तस्करों का पीछा कर रही गश्ती टीम और भीड़ के बीच हुई झड़प में सीमा सुरक्षा बल के तीन जवान घायल हो गए। मुख्यमंत्री माणिक साहा ने हमले की निंदा की है और दोषियों के खिलाफ तेज़ और सख्त कार्रवाई के निर्देश दिए हैं।",
-        "title": "त्रिपुरा सीमा पर तस्करी का पीछा करने के बाद बीएसएफ के तीन जवानों पर हमला, मुख्यमंत्री ने सख्त कार्रवाई के निर्देश दिए"
+        "title": "त्रिपुरा सीमा पर तस्करी का पीछा करने के बाद बीएसएफ के तीन जवानों पर हमला, मुख्यमंत्री ने सख्त कार्रवाई के निर्देश दिए",
+        "summary": "त्रिपुरा के सिपाहीजला जिले में आशाबाड़ी सीमा चौकी के पास सोमवार सुबह कथित तस्करों का पीछा कर रही गश्ती टीम और भीड़ के बीच हुई झड़प में सीमा सुरक्षा बल के तीन जवान घायल हो गए। मुख्यमंत्री माणिक साहा ने हमले की निंदा की है और दोषियों के खिलाफ तेज़ और सख्त कार्रवाई के निर्देश दिए हैं।"
       },
       "publishedAt": "2026-11-03T09:09:11+05:30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/three-bsf-jawans-attacked-ashabari-boxanagar-tripura-november-03.jpg",
@@ -542,13 +584,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "Refrigeration systems at more than 100 supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands and Sweden ran hot on Monday after cyberattacks, forcing stores to discard spoiled food. It is the second such wave in weeks after a similar attack on hundreds of French stores last month.",
-        "title": "Hackers hit supermarket fridges across seven European countries, spoiling food at more than 100 stores"
+        "title": "Hackers hit supermarket fridges across seven European countries, spoiling food at more than 100 stores",
+        "summary": "Refrigeration systems at more than 100 supermarkets in Belgium, Estonia, Finland, Ireland, Luxembourg, the Netherlands and Sweden ran hot on Monday after cyberattacks, forcing stores to discard spoiled food. It is the second such wave in weeks after a similar attack on hundreds of French stores last month."
       },
       "featured": false,
       "hi": {
-        "summary": "सोमवार को बेल्जियम, एस्टोनिया, फ़िनलैंड, आयरलैंड, लक्ज़मबर्ग, नीदरलैंड और स्वीडन के सौ से ज़्यादा सुपरमार्केटों में साइबर हमलों के बाद फ्रिज और फ्रीज़र गर्म पड़ गए, जिससे दुकानों को खराब खाना फेंकना पड़ा। पिछले महीने फ़्रांस के सैकड़ों स्टोरों पर हुए ऐसे ही हमले के बाद यह दूसरी लहर है।",
-        "title": "यूरोप के सात देशों में सुपरमार्केटों के फ्रिज पर साइबर हमला, सौ से ज़्यादा स्टोरों में खाना खराब"
+        "title": "यूरोप के सात देशों में सुपरमार्केटों के फ्रिज पर साइबर हमला, सौ से ज़्यादा स्टोरों में खाना खराब",
+        "summary": "सोमवार को बेल्जियम, एस्टोनिया, फ़िनलैंड, आयरलैंड, लक्ज़मबर्ग, नीदरलैंड और स्वीडन के सौ से ज़्यादा सुपरमार्केटों में साइबर हमलों के बाद फ्रिज और फ्रीज़र गर्म पड़ गए, जिससे दुकानों को खराब खाना फेंकना पड़ा। पिछले महीने फ़्रांस के सैकड़ों स्टोरों पर हुए ऐसे ही हमले के बाद यह दूसरी लहर है।"
       },
       "id": "europe-supermarket-fridge-cyberattack-100-stores-november-02",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/europe-supermarket-fridge-cyberattack-100-stores-november-02.jpg",
@@ -719,12 +761,12 @@
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-courts-bomb-threat-emails-declared-hoax-en.mp3",
       "publishedAt": "2026-11-03T01:13:48+05:30",
       "en": {
-        "summary": "District and sessions courts in at least eleven Maharashtra districts received emails on Monday threatening bomb blasts, forcing evacuations and searches by bomb disposal and dog squads. Nothing was found anywhere, police declared every threat a hoax, and court work resumed after clearance.",
-        "title": "Bomb-threat emails empty courts across Maharashtra; searches find nothing, all declared hoax"
+        "title": "Bomb-threat emails empty courts across Maharashtra; searches find nothing, all declared hoax",
+        "summary": "District and sessions courts in at least eleven Maharashtra districts received emails on Monday threatening bomb blasts, forcing evacuations and searches by bomb disposal and dog squads. Nothing was found anywhere, police declared every threat a hoax, and court work resumed after clearance."
       },
       "hi": {
-        "summary": "सोमवार को महाराष्ट्र के कम से कम ग्यारह ज़िलों के ज़िला एवं सत्र न्यायालयों को बम धमाकों की धमकी वाले ईमेल मिले, जिसके बाद अदालतें खाली कराई गईं और बम निरोधक दस्तों व खोजी कुत्तों से तलाशी ली गई। कहीं कुछ नहीं मिला, पुलिस ने हर धमकी को अफ़वाह बताया और मंज़ूरी के बाद अदालतों का काम फिर शुरू हो गया।",
-        "title": "महाराष्ट्र के कई ज़िलों की अदालतों को बम धमकी वाले ईमेल, कोर्ट खाली कराए गए; तलाशी में कुछ नहीं मिला"
+        "title": "महाराष्ट्र के कई ज़िलों की अदालतों को बम धमकी वाले ईमेल, कोर्ट खाली कराए गए; तलाशी में कुछ नहीं मिला",
+        "summary": "सोमवार को महाराष्ट्र के कम से कम ग्यारह ज़िलों के ज़िला एवं सत्र न्यायालयों को बम धमाकों की धमकी वाले ईमेल मिले, जिसके बाद अदालतें खाली कराई गईं और बम निरोधक दस्तों व खोजी कुत्तों से तलाशी ली गई। कहीं कुछ नहीं मिला, पुलिस ने हर धमकी को अफ़वाह बताया और मंज़ूरी के बाद अदालतों का काम फिर शुरू हो गया।"
       }
     },
     {
@@ -1062,13 +1104,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "In a podcast interview aired on the eve of the midterm elections, Donald Trump said he would not hesitate to pardon Elon Musk and everyone who worked for him if Democrats take Congress and pursue prosecutions.",
-        "title": "Trump says he would issue pre-emptive pardons to Musk and his staff if Democrats win Congress"
+        "title": "Trump says he would issue pre-emptive pardons to Musk and his staff if Democrats win Congress",
+        "summary": "In a podcast interview aired on the eve of the midterm elections, Donald Trump said he would not hesitate to pardon Elon Musk and everyone who worked for him if Democrats take Congress and pursue prosecutions."
       },
       "featured": false,
       "hi": {
-        "summary": "मिडटर्म चुनाव से एक दिन पहले प्रसारित पॉडकास्ट इंटरव्यू में डोनाल्ड ट्रंप ने कहा कि अगर डेमोक्रेट्स कांग्रेस जीतकर उनके प्रशासन के खिलाफ मुकदमे चलाते हैं, तो वह एलन मस्क और अपने साथ काम करने वाले हर व्यक्ति को पहले से माफ़ी देने से नहीं हिचकेंगे।",
-        "title": "ट्रंप बोले — डेमोक्रेट्स के जीतने पर मस्क और अपने सभी स्टाफ को पहले से ही माफ़ी दे दूँगा"
+        "title": "ट्रंप बोले — डेमोक्रेट्स के जीतने पर मस्क और अपने सभी स्टाफ को पहले से ही माफ़ी दे दूँगा",
+        "summary": "मिडटर्म चुनाव से एक दिन पहले प्रसारित पॉडकास्ट इंटरव्यू में डोनाल्ड ट्रंप ने कहा कि अगर डेमोक्रेट्स कांग्रेस जीतकर उनके प्रशासन के खिलाफ मुकदमे चलाते हैं, तो वह एलन मस्क और अपने साथ काम करने वाले हर व्यक्ति को पहले से माफ़ी देने से नहीं हिचकेंगे।"
       },
       "id": "trump-preemptive-pardons-musk-staff-midterms-november-02",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-preemptive-pardons-musk-staff-midterms-november-02.jpg",
@@ -1083,13 +1125,13 @@
       "breaking": false,
       "category": "Business",
       "en": {
-        "summary": "Brent crude fell to about $106.50 a barrel and US crude to about $97.50 on Monday as signs of diplomatic movement between Washington and Tehran cooled fears of a post-midterm escalation.",
-        "title": "Oil prices tumble 6% as US-Iran peace-talk hopes ease supply fears"
+        "title": "Oil prices tumble 6% as US-Iran peace-talk hopes ease supply fears",
+        "summary": "Brent crude fell to about $106.50 a barrel and US crude to about $97.50 on Monday as signs of diplomatic movement between Washington and Tehran cooled fears of a post-midterm escalation."
       },
       "featured": false,
       "hi": {
-        "summary": "सोमवार को ब्रेंट क्रूड करीब 106.50 डॉलर प्रति बैरल और अमेरिकी क्रूड करीब 97.50 डॉलर पर आ गया, क्योंकि वाशिंगटन और तेहरान के बीच कूटनीतिक हलचल के संकेतों ने मिडटर्म चुनाव के बाद तनाव बढ़ने की आशंका को कम कर दिया।",
-        "title": "अमेरिका-ईरान शांति वार्ता की उम्मीद से कच्चा तेल 6% गिरा, ब्रेंट 106.50 डॉलर पर"
+        "title": "अमेरिका-ईरान शांति वार्ता की उम्मीद से कच्चा तेल 6% गिरा, ब्रेंट 106.50 डॉलर पर",
+        "summary": "सोमवार को ब्रेंट क्रूड करीब 106.50 डॉलर प्रति बैरल और अमेरिकी क्रूड करीब 97.50 डॉलर पर आ गया, क्योंकि वाशिंगटन और तेहरान के बीच कूटनीतिक हलचल के संकेतों ने मिडटर्म चुनाव के बाद तनाव बढ़ने की आशंका को कम कर दिया।"
       },
       "id": "oil-prices-fall-six-percent-iran-peace-talks-november-02",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/oil-prices-fall-six-percent-iran-peace-talks-november-02.jpg",
@@ -1136,8 +1178,8 @@
       "district": "Pune",
       "state": "Maharashtra",
       "en": {
-        "summary": "Prime Minister Narendra Modi will inaugurate Pune Metro's Pink Line, built at over Rs 8,300 crore, and lay the foundation stone for Phase-II corridors worth around Rs 13,500 crore on November 3 at 12:30 pm via video conferencing. The 23-km Pink Line from Maan to District Court will be operated entirely by women train operators, with about 30 percent of its power from solar energy.",
-        "title": "Modi to open Pune Metro's Pink Line and launch Phase-II on November 3: Rs 21,800 crore package, women-run trains, solar power"
+        "title": "Modi to open Pune Metro's Pink Line and launch Phase-II on November 3: Rs 21,800 crore package, women-run trains, solar power",
+        "summary": "Prime Minister Narendra Modi will inaugurate Pune Metro's Pink Line, built at over Rs 8,300 crore, and lay the foundation stone for Phase-II corridors worth around Rs 13,500 crore on November 3 at 12:30 pm via video conferencing. The 23-km Pink Line from Maan to District Court will be operated entirely by women train operators, with about 30 percent of its power from solar energy."
       },
       "hi": {
         "title": "मोदी तीन नवंबर को पुणे मेट्रो की पिंक लाइन का उद्घाटन करेंगे, दूसरे चरण की आधारशिला भी: इक्कीस हज़ार आठ सौ करोड़ का पैकेज, महिला ऑपरेटर, सौर ऊर्जा",
@@ -1159,8 +1201,8 @@
       "district": "Pune",
       "state": "Maharashtra",
       "en": {
-        "summary": "NCP (SP) chief Sharad Pawar, 85, was admitted to Pune's Ruby Hall Clinic on Monday after chest pain linked to a bout of cough. His daughter Supriya Sule said all his health parameters are stable, and the hospital said his condition is expected to settle down and he will remain under observation as a precaution.",
-        "title": "Sharad Pawar admitted to Pune's Ruby Hall Clinic after chest pain; doctors say condition expected to settle, parameters stable"
+        "title": "Sharad Pawar admitted to Pune's Ruby Hall Clinic after chest pain; doctors say condition expected to settle, parameters stable",
+        "summary": "NCP (SP) chief Sharad Pawar, 85, was admitted to Pune's Ruby Hall Clinic on Monday after chest pain linked to a bout of cough. His daughter Supriya Sule said all his health parameters are stable, and the hospital said his condition is expected to settle down and he will remain under observation as a precaution."
       },
       "hi": {
         "title": "पुणे के रूबी हॉल क्लिनिक में भर्ती हुए शरद पवार, सीने में दर्द के बाद निगरानी में; डॉक्टर बोले — हालत स्थिर होने की उम्मीद, सभी मानक सामान्य",
@@ -1612,12 +1654,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-allows-green-crackers-delhi-ncr-november-7-8-november-02-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-allows-green-crackers-delhi-ncr-november-7-8-november-02-en.mp3",
       "en": {
-        "summary": "The Supreme Court has permitted certified green firecrackers in Delhi-NCR on November 7 and 8 — between 6 and 7 in the morning and 8 and 10 at night — with a 300-metre no-cracker zone around hospitals, schools and silence zones, and the complete ban restored from November 9.",
-        "title": "Supreme Court allows green crackers in Delhi-NCR only on November 7–8, in fixed morning and evening hours; full ban returns November 9"
+        "title": "Supreme Court allows green crackers in Delhi-NCR only on November 7–8, in fixed morning and evening hours; full ban returns November 9",
+        "summary": "The Supreme Court has permitted certified green firecrackers in Delhi-NCR on November 7 and 8 — between 6 and 7 in the morning and 8 and 10 at night — with a 300-metre no-cracker zone around hospitals, schools and silence zones, and the complete ban restored from November 9."
       },
       "hi": {
-        "summary": "सुप्रीम कोर्ट ने दिल्ली-एनसीआर में 7 और 8 नवंबर को प्रमाणित ग्रीन पटाखे फोड़ने की अनुमति दी है — सुबह 6 से 7 बजे और रात 8 से 10 बजे के बीच — अस्पतालों, स्कूलों और साइलेंस ज़ोन के 300 मीटर के दायरे में पटाखे प्रतिबंधित रहेंगे, और 9 नवंबर से पूर्ण प्रतिबंध फिर लागू हो जाएगा।",
-        "title": "दिल्ली-एनसीआर में दिवाली पर ग्रीन पटाखों को मंजूरी: 7-8 नवंबर को सिर्फ तय घंटों में फोड़ सकेंगे, 9 नवंबर से फिर पूर्ण प्रतिबंध"
+        "title": "दिल्ली-एनसीआर में दिवाली पर ग्रीन पटाखों को मंजूरी: 7-8 नवंबर को सिर्फ तय घंटों में फोड़ सकेंगे, 9 नवंबर से फिर पूर्ण प्रतिबंध",
+        "summary": "सुप्रीम कोर्ट ने दिल्ली-एनसीआर में 7 और 8 नवंबर को प्रमाणित ग्रीन पटाखे फोड़ने की अनुमति दी है — सुबह 6 से 7 बजे और रात 8 से 10 बजे के बीच — अस्पतालों, स्कूलों और साइलेंस ज़ोन के 300 मीटर के दायरे में पटाखे प्रतिबंधित रहेंगे, और 9 नवंबर से पूर्ण प्रतिबंध फिर लागू हो जाएगा।"
       }
     },
     {
@@ -2055,13 +2097,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "A private helicopter airlifted the six tourists, two women and four men, to Dunai on Monday morning after heavy snow trapped them at the Numla and Bagla passes; police say all six are out of danger.",
-        "title": "Six Indian tourists rescued by helicopter from Nepal's snowbound Shey-Phoksundo passes, all out of danger"
+        "title": "Six Indian tourists rescued by helicopter from Nepal's snowbound Shey-Phoksundo passes, all out of danger",
+        "summary": "A private helicopter airlifted the six tourists, two women and four men, to Dunai on Monday morning after heavy snow trapped them at the Numla and Bagla passes; police say all six are out of danger."
       },
       "featured": false,
       "hi": {
-        "summary": "सोमवार की सुबह निजी हेलीकॉप्टर ने दो महिलाओं और चार पुरुषों को नुमला और बागला दर्रों से निकालकर दुनई पहुँचाया; पुलिस के मुताबिक सभी छह की हालत खतरे से बाहर है।",
-        "title": "नेपाल के शे-फोक्सुंडो में बर्फ़ में फँसे छह भारतीय पर्यटक हेलीकॉप्टर से बचाए गए, सभी खतरे से बाहर"
+        "title": "नेपाल के शे-फोक्सुंडो में बर्फ़ में फँसे छह भारतीय पर्यटक हेलीकॉप्टर से बचाए गए, सभी खतरे से बाहर",
+        "summary": "सोमवार की सुबह निजी हेलीकॉप्टर ने दो महिलाओं और चार पुरुषों को नुमला और बागला दर्रों से निकालकर दुनई पहुँचाया; पुलिस के मुताबिक सभी छह की हालत खतरे से बाहर है।"
       },
       "id": "six-indian-tourists-rescued-helicopter-shey-phoksundo-nepal-november-02",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-indian-tourists-rescued-helicopter-shey-phoksundo-nepal-november-02.jpg",
@@ -2384,13 +2426,13 @@
       "breaking": false,
       "category": "Business",
       "en": {
-        "summary": "The Sensex opened 719 points higher at 75,178 and stretched gains past 800 points in early trade on Monday, while the Nifty crossed 23,250, as easing crude oil prices, hopes of a US-Iran diplomatic breakthrough and Reliance's strong quarterly earnings pulled buyers back to Dalal Street.",
-        "title": "Sensex jumps over 800 points in early trade, Nifty tops 23,250 as Reliance leads a broad rally"
+        "title": "Sensex jumps over 800 points in early trade, Nifty tops 23,250 as Reliance leads a broad rally",
+        "summary": "The Sensex opened 719 points higher at 75,178 and stretched gains past 800 points in early trade on Monday, while the Nifty crossed 23,250, as easing crude oil prices, hopes of a US-Iran diplomatic breakthrough and Reliance's strong quarterly earnings pulled buyers back to Dalal Street."
       },
       "featured": false,
       "hi": {
-        "summary": "सोमवार को सेंसेक्स 719 अंक की बढ़त के साथ 75,178 पर खुला और शुरुआती कारोबार में 800 अंक से ज़्यादा चढ़ गया, जबकि निफ्टी 23,250 के पार निकल गया। कच्चे तेल के नरम पड़ने, अमेरिका-ईरान तनाव में कूटनीतिक हल की उम्मीद और रिलायंस के मज़बूत तिमाही नतीजों ने दलाल स्ट्रीट पर लिवाली लौटा दी।",
-        "title": "शुरुआती कारोबार में सेंसेक्स 800 अंक से ज़्यादा उछला, निफ्टी 23,250 के पार, रिलायंस की अगुवाई में चौतरफ़ा तेज़ी"
+        "title": "शुरुआती कारोबार में सेंसेक्स 800 अंक से ज़्यादा उछला, निफ्टी 23,250 के पार, रिलायंस की अगुवाई में चौतरफ़ा तेज़ी",
+        "summary": "सोमवार को सेंसेक्स 719 अंक की बढ़त के साथ 75,178 पर खुला और शुरुआती कारोबार में 800 अंक से ज़्यादा चढ़ गया, जबकि निफ्टी 23,250 के पार निकल गया। कच्चे तेल के नरम पड़ने, अमेरिका-ईरान तनाव में कूटनीतिक हल की उम्मीद और रिलायंस के मज़बूत तिमाही नतीजों ने दलाल स्ट्रीट पर लिवाली लौटा दी।"
       },
       "id": "sensex-jumps-over-800-points-nifty-above-23250-november-02",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-jumps-over-800-points-nifty-above-23250-november-02.jpg",
@@ -2624,12 +2666,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/severe-cyclone-murasu-landfall-ongole-tonight-november-02-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/severe-cyclone-murasu-landfall-ongole-tonight-november-02-en.mp3",
       "en": {
-        "summary": "Murasu intensified into a severe cyclonic storm in the early hours of Monday and is heading for the south Andhra Pradesh coast. It is expected to cross between Nellore and Narsapur, close to Ongole, between 11:30 pm on Monday and 4 am on Tuesday with winds of 100-110 kmph, gusting to 120 kmph. Five Andhra districts are on red alert, schools in Chennai and Tiruvallur are shut for the day, and rescue teams are in position along the coast.",
-        "title": "Severe Cyclone Murasu to strike near Ongole tonight: 120 kmph gusts, red alert in five Andhra districts, Chennai schools shut"
+        "title": "Severe Cyclone Murasu to strike near Ongole tonight: 120 kmph gusts, red alert in five Andhra districts, Chennai schools shut",
+        "summary": "Murasu intensified into a severe cyclonic storm in the early hours of Monday and is heading for the south Andhra Pradesh coast. It is expected to cross between Nellore and Narsapur, close to Ongole, between 11:30 pm on Monday and 4 am on Tuesday with winds of 100-110 kmph, gusting to 120 kmph. Five Andhra districts are on red alert, schools in Chennai and Tiruvallur are shut for the day, and rescue teams are in position along the coast."
       },
       "hi": {
-        "summary": "मुरासु सोमवार तड़के भीषण चक्रवाती तूफान में बदल गया है और आंध्र प्रदेश के दक्षिणी तट की ओर बढ़ रहा है। अनुमान है कि यह सोमवार रात साढ़े 11 बजे से मंगलवार तड़के 4 बजे के बीच नेल्लोर और नरसापुर के बीच, ओंगोल के पास 100-110 किलोमीटर प्रति घंटे की हवाओं के साथ टकराएगा, जिनके झोंके 120 किलोमीटर प्रति घंटे तक जाएँगे। आंध्र के पाँच जिले रेड अलर्ट पर हैं, चेन्नई और तिरुवल्लूर में स्कूल बंद हैं, और तट पर बचाव दल तैनात हैं।",
-        "title": "भीषण चक्रवात मुरासु आज रात ओंगोल के पास टकराएगा: 120 किलोमीटर प्रति घंटे के झोंके, पाँच जिलों में रेड अलर्ट, चेन्नई में स्कूल बंद"
+        "title": "भीषण चक्रवात मुरासु आज रात ओंगोल के पास टकराएगा: 120 किलोमीटर प्रति घंटे के झोंके, पाँच जिलों में रेड अलर्ट, चेन्नई में स्कूल बंद",
+        "summary": "मुरासु सोमवार तड़के भीषण चक्रवाती तूफान में बदल गया है और आंध्र प्रदेश के दक्षिणी तट की ओर बढ़ रहा है। अनुमान है कि यह सोमवार रात साढ़े 11 बजे से मंगलवार तड़के 4 बजे के बीच नेल्लोर और नरसापुर के बीच, ओंगोल के पास 100-110 किलोमीटर प्रति घंटे की हवाओं के साथ टकराएगा, जिनके झोंके 120 किलोमीटर प्रति घंटे तक जाएँगे। आंध्र के पाँच जिले रेड अलर्ट पर हैं, चेन्नई और तिरुवल्लूर में स्कूल बंद हैं, और तट पर बचाव दल तैनात हैं।"
       }
     },
     {
@@ -2960,12 +3002,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chardham-heli-services-halt-november-02-two-pilot-rule-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chardham-heli-services-halt-november-02-two-pilot-rule-en.mp3",
       "en": {
-        "summary": "Char Dham helicopter operators have told the DGCA they will suspend all charter flights from November 2, after the regulator made two pilots mandatory on every sortie following the October 30 Badrinath crash that killed six. The operators say the rule, imposed without consultation, is financially unviable — and warn ticket prices could touch Rs 4 lakh.",
-        "title": "Char Dham helicopter services to halt from today as operators refuse DGCA's two-pilot rule after Badrinath crash"
+        "title": "Char Dham helicopter services to halt from today as operators refuse DGCA's two-pilot rule after Badrinath crash",
+        "summary": "Char Dham helicopter operators have told the DGCA they will suspend all charter flights from November 2, after the regulator made two pilots mandatory on every sortie following the October 30 Badrinath crash that killed six. The operators say the rule, imposed without consultation, is financially unviable — and warn ticket prices could touch Rs 4 lakh."
       },
       "hi": {
-        "summary": "चारधाम हेलीकॉप्टर ऑपरेटरों ने डीजीसीए को बता दिया है कि वे 2 नवंबर से सभी चार्टर उड़ानें रोक देंगे। 30 अक्टूबर को बद्रीनाथ हादसे में छह लोगों की मौत के बाद नियामक ने हर उड़ान में दो पायलट अनिवार्य कर दिए हैं, जिसे ऑपरेटर बिना सलाह के थोपा गया और आर्थिक रूप से अव्यावहारिक बता रहे हैं।",
-        "title": "दो-पायलट नियम के खिलाफ आज से ठप होंगी चारधाम हेली सेवाएँ, बद्रीनाथ हादसे के बाद डीजीसीए से टकराव"
+        "title": "दो-पायलट नियम के खिलाफ आज से ठप होंगी चारधाम हेली सेवाएँ, बद्रीनाथ हादसे के बाद डीजीसीए से टकराव",
+        "summary": "चारधाम हेलीकॉप्टर ऑपरेटरों ने डीजीसीए को बता दिया है कि वे 2 नवंबर से सभी चार्टर उड़ानें रोक देंगे। 30 अक्टूबर को बद्रीनाथ हादसे में छह लोगों की मौत के बाद नियामक ने हर उड़ान में दो पायलट अनिवार्य कर दिए हैं, जिसे ऑपरेटर बिना सलाह के थोपा गया और आर्थिक रूप से अव्यावहारिक बता रहे हैं।"
       }
     },
     {
@@ -2981,12 +3023,12 @@
       "audioHi": null,
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/idbi-bank-employees-strike-november-02-fairfax-privatisation-en.mp3",
       "en": {
-        "summary": "More than 10,000 IDBI Bank employees will strike across the country on November 2 and 3 against the proposed sale of a 60.72 per cent stake to Canada's Fairfax Group. The unions say the bank's turnaround was built on public money and staff effort, and want the privatisation scrapped.",
-        "title": "Over 10,000 IDBI Bank staff to strike on November 2–3 against Fairfax privatisation"
+        "title": "Over 10,000 IDBI Bank staff to strike on November 2–3 against Fairfax privatisation",
+        "summary": "More than 10,000 IDBI Bank employees will strike across the country on November 2 and 3 against the proposed sale of a 60.72 per cent stake to Canada's Fairfax Group. The unions say the bank's turnaround was built on public money and staff effort, and want the privatisation scrapped."
       },
       "hi": {
-        "summary": "आईडीबीआई बैंक के 10,000 से ज़्यादा कर्मचारी 2 और 3 नवंबर को देशभर में हड़ताल पर रहेंगे। वे कनाडा के फ़ेयरफ़ैक्स समूह को 60.72 प्रतिशत हिस्सेदारी बेचने की योजना का विरोध कर रहे हैं और निजीकरण रद्द करने की माँग कर रहे हैं।",
-        "title": "फ़ेयरफ़ैक्स को बिक्री के खिलाफ आईडीबीआई बैंक के 10,000 से ज़्यादा कर्मचारी आज से दो दिन की हड़ताल पर"
+        "title": "फ़ेयरफ़ैक्स को बिक्री के खिलाफ आईडीबीआई बैंक के 10,000 से ज़्यादा कर्मचारी आज से दो दिन की हड़ताल पर",
+        "summary": "आईडीबीआई बैंक के 10,000 से ज़्यादा कर्मचारी 2 और 3 नवंबर को देशभर में हड़ताल पर रहेंगे। वे कनाडा के फ़ेयरफ़ैक्स समूह को 60.72 प्रतिशत हिस्सेदारी बेचने की योजना का विरोध कर रहे हैं और निजीकरण रद्द करने की माँग कर रहे हैं।"
       }
     },
     {
@@ -3098,13 +3140,13 @@
       "breaking": false,
       "category": "Weather",
       "en": {
-        "summary": "Still clearing up after Cyclone Arnab, Odisha on Sunday began moving people out of low-lying and landslide-prone areas in its southern districts ahead of Cyclone Murasu, with at least 150 vulnerable locations identified in Gajapati district alone and the evacuation aimed to finish by Monday evening.",
-        "title": "Second evacuation round begins in Odisha as Murasu nears: 150 landslide-prone sites in Gajapati being cleared"
+        "title": "Second evacuation round begins in Odisha as Murasu nears: 150 landslide-prone sites in Gajapati being cleared",
+        "summary": "Still clearing up after Cyclone Arnab, Odisha on Sunday began moving people out of low-lying and landslide-prone areas in its southern districts ahead of Cyclone Murasu, with at least 150 vulnerable locations identified in Gajapati district alone and the evacuation aimed to finish by Monday evening."
       },
       "featured": false,
       "hi": {
-        "summary": "चक्रवात अरनब के बाद अभी सफाई चल ही रही थी कि ओडिशा ने रविवार को चक्रवात मुरासु से पहले दक्षिणी जिलों के निचले और भूस्खलन-प्रवण इलाकों से लोगों को हटाना शुरू कर दिया। अकेले गजपति जिले में कम से कम 150 संवेदनशील ठिकाने चिह्नित किए गए हैं और निकासी सोमवार शाम तक पूरी करने का लक्ष्य है।",
-        "title": "मुरासु से पहले ओडिशा में दूसरी बार निकासी शुरू: गजपति के 150 संवेदनशील ठिकानों से लोगों को हटाया जा रहा है"
+        "title": "मुरासु से पहले ओडिशा में दूसरी बार निकासी शुरू: गजपति के 150 संवेदनशील ठिकानों से लोगों को हटाया जा रहा है",
+        "summary": "चक्रवात अरनब के बाद अभी सफाई चल ही रही थी कि ओडिशा ने रविवार को चक्रवात मुरासु से पहले दक्षिणी जिलों के निचले और भूस्खलन-प्रवण इलाकों से लोगों को हटाना शुरू कर दिया। अकेले गजपति जिले में कम से कम 150 संवेदनशील ठिकाने चिह्नित किए गए हैं और निकासी सोमवार शाम तक पूरी करने का लक्ष्य है।"
       },
       "id": "odisha-second-evacuation-round-murasu-gajapati-150-sites-november-01",
       "source": "PrimeFeed Desk",
@@ -3891,13 +3933,13 @@
       "breaking": false,
       "category": "Crime & Law",
       "en": {
-        "summary": "The Supreme Court has registered as a writ petition a complaint seeking contempt proceedings against the Kerala Pradesh Congress Committee over an October 12 post on the Congress Kerala X account that told Chief Justice of India Surya Kant to resign. The petition has not yet been listed for hearing, and its registration is not a finding of contempt.",
-        "title": "Supreme Court registers contempt plea over Kerala Congress post telling CJI Surya Kant to 'resign now'"
+        "title": "Supreme Court registers contempt plea over Kerala Congress post telling CJI Surya Kant to 'resign now'",
+        "summary": "The Supreme Court has registered as a writ petition a complaint seeking contempt proceedings against the Kerala Pradesh Congress Committee over an October 12 post on the Congress Kerala X account that told Chief Justice of India Surya Kant to resign. The petition has not yet been listed for hearing, and its registration is not a finding of contempt."
       },
       "featured": false,
       "hi": {
-        "summary": "सुप्रीम कोर्ट ने केरल प्रदेश कांग्रेस कमेटी के खिलाफ अवमानना की कार्यवाही की माँग वाली शिकायत को रिट याचिका के रूप में दर्ज कर लिया है। यह शिकायत 12 अक्टूबर को कांग्रेस केरल के एक्स खाते से मुख्य न्यायाधीश सूर्यकांत को इस्तीफा देने को कहने वाले पोस्ट को लेकर की गई थी। याचिका अभी सुनवाई के लिए सूचीबद्ध नहीं हुई है, और इसका दर्ज होना अवमानना का फैसला नहीं है।",
-        "title": "सीजेआई सूर्यकांत को 'इस्तीफा दो' कहने वाले पोस्ट पर सुप्रीम कोर्ट ने केरल कांग्रेस के खिलाफ अवमानना याचिका दर्ज की"
+        "title": "सीजेआई सूर्यकांत को 'इस्तीफा दो' कहने वाले पोस्ट पर सुप्रीम कोर्ट ने केरल कांग्रेस के खिलाफ अवमानना याचिका दर्ज की",
+        "summary": "सुप्रीम कोर्ट ने केरल प्रदेश कांग्रेस कमेटी के खिलाफ अवमानना की कार्यवाही की माँग वाली शिकायत को रिट याचिका के रूप में दर्ज कर लिया है। यह शिकायत 12 अक्टूबर को कांग्रेस केरल के एक्स खाते से मुख्य न्यायाधीश सूर्यकांत को इस्तीफा देने को कहने वाले पोस्ट को लेकर की गई थी। याचिका अभी सुनवाई के लिए सूचीबद्ध नहीं हुई है, और इसका दर्ज होना अवमानना का फैसला नहीं है।"
       },
       "id": "supreme-court-registers-contempt-plea-kpcc-cji-surya-kant-post-november-01",
       "source": "PrimeFeed Desk",
@@ -3913,13 +3955,13 @@
       "category": "Crime & Law",
       "district": "Ghaziabad",
       "en": {
-        "summary": "A special PMLA court in Ghaziabad remanded Samajwadi Party leader Azam Khan to 14 days' judicial custody on Sunday, a day after the Enforcement Directorate took him into custody minutes after his release from Rampur jail. He will be lodged in Dasna District Jail and produced before the court again on November 13.",
-        "title": "Azam Khan sent to 14 days' judicial custody in Jauhar University money-laundering case, to be lodged in Dasna jail"
+        "title": "Azam Khan sent to 14 days' judicial custody in Jauhar University money-laundering case, to be lodged in Dasna jail",
+        "summary": "A special PMLA court in Ghaziabad remanded Samajwadi Party leader Azam Khan to 14 days' judicial custody on Sunday, a day after the Enforcement Directorate took him into custody minutes after his release from Rampur jail. He will be lodged in Dasna District Jail and produced before the court again on November 13."
       },
       "featured": false,
       "hi": {
-        "summary": "गाज़ियाबाद की विशेष पीएमएलए अदालत ने रविवार को समाजवादी पार्टी के नेता आज़म खान को 14 दिन की न्यायिक हिरासत में भेज दिया। एक दिन पहले ही प्रवर्तन निदेशालय ने उन्हें रामपुर जेल से रिहा होते ही हिरासत में ले लिया था। अब वे दासना ज़िला कारागार में रहेंगे और 13 नवंबर को फिर अदालत में पेश किए जाएंगे।",
-        "title": "आज़म खान को जौहर विश्वविद्यालय मनी लॉन्ड्रिंग मामले में 14 दिन की न्यायिक हिरासत, दासना जेल में रहेंगे"
+        "title": "आज़म खान को जौहर विश्वविद्यालय मनी लॉन्ड्रिंग मामले में 14 दिन की न्यायिक हिरासत, दासना जेल में रहेंगे",
+        "summary": "गाज़ियाबाद की विशेष पीएमएलए अदालत ने रविवार को समाजवादी पार्टी के नेता आज़म खान को 14 दिन की न्यायिक हिरासत में भेज दिया। एक दिन पहले ही प्रवर्तन निदेशालय ने उन्हें रामपुर जेल से रिहा होते ही हिरासत में ले लिया था। अब वे दासना ज़िला कारागार में रहेंगे और 13 नवंबर को फिर अदालत में पेश किए जाएंगे।"
       },
       "id": "azam-khan-14-day-judicial-custody-ghaziabad-pmla-court-november-01",
       "source": "PrimeFeed Desk",
@@ -3935,13 +3977,13 @@
       "breaking": false,
       "category": "Cricket & Sports",
       "en": {
-        "summary": "India recovered from two early blows to post 191/8 in the fifth and final T20I against New Zealand at Seddon Park, Hamilton, on Sunday. Ishan Kishan smashed 61 off 32 balls and captain Shreyas Iyer made 50 off 23, while Adam Milne took 4/19 for the hosts. New Zealand need 192 to finish the series 3-2; India are chasing a 4-1 win.",
-        "title": "Kishan's 61 and Iyer's 50 lift India to 191/8 in Hamilton finale; New Zealand need 192 for a 3-2 finish"
+        "title": "Kishan's 61 and Iyer's 50 lift India to 191/8 in Hamilton finale; New Zealand need 192 for a 3-2 finish",
+        "summary": "India recovered from two early blows to post 191/8 in the fifth and final T20I against New Zealand at Seddon Park, Hamilton, on Sunday. Ishan Kishan smashed 61 off 32 balls and captain Shreyas Iyer made 50 off 23, while Adam Milne took 4/19 for the hosts. New Zealand need 192 to finish the series 3-2; India are chasing a 4-1 win."
       },
       "featured": false,
       "hi": {
-        "summary": "हैमिल्टन के सेडन पार्क में रविवार को न्यूज़ीलैंड के खिलाफ पाँचवें और आखिरी टी20 में भारत ने 191/8 रन बनाए। ईशान किशन ने 32 गेंदों में 61 और कप्तान श्रेयस अय्यर ने 23 गेंदों में 50 रन ठोके, जबकि मेज़बान टीम के एडम मिल्ने ने 19 रन देकर 4 विकेट लिए। सीरीज़ 3-2 से खत्म करने के लिए न्यूज़ीलैंड को 192 रन चाहिए; भारत 4-1 की जीत की ओर देख रहा है।",
-        "title": "हैमिल्टन फ़ाइनल में किशन के 61 और अय्यर के 50 से भारत ने बनाए 191/8, न्यूज़ीलैंड को जीत के लिए चाहिए 192 रन"
+        "title": "हैमिल्टन फ़ाइनल में किशन के 61 और अय्यर के 50 से भारत ने बनाए 191/8, न्यूज़ीलैंड को जीत के लिए चाहिए 192 रन",
+        "summary": "हैमिल्टन के सेडन पार्क में रविवार को न्यूज़ीलैंड के खिलाफ पाँचवें और आखिरी टी20 में भारत ने 191/8 रन बनाए। ईशान किशन ने 32 गेंदों में 61 और कप्तान श्रेयस अय्यर ने 23 गेंदों में 50 रन ठोके, जबकि मेज़बान टीम के एडम मिल्ने ने 19 रन देकर 4 विकेट लिए। सीरीज़ 3-2 से खत्म करने के लिए न्यूज़ीलैंड को 192 रन चाहिए; भारत 4-1 की जीत की ओर देख रहा है।"
       },
       "id": "india-post-191-8-hamilton-finale-new-zealand-need-192-november-01",
       "source": "PrimeFeed Desk",
@@ -4634,12 +4676,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-wsj-epstein-lawsuit-dismissed-with-prejudice-october-31-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-wsj-epstein-lawsuit-dismissed-with-prejudice-october-31-en.mp3",
       "en": {
-        "summary": "A federal judge in Miami has dismissed President Donald Trump's amended defamation lawsuit against The Wall Street Journal with prejudice, ruling that it failed to plausibly allege the paper acted with actual malice. The dismissal bars Trump from refiling the same claims, though his legal team says it will appeal.",
-        "title": "Judge dismisses Trump's Wall Street Journal defamation suit for good over Epstein birthday-letter story"
+        "title": "Judge dismisses Trump's Wall Street Journal defamation suit for good over Epstein birthday-letter story",
+        "summary": "A federal judge in Miami has dismissed President Donald Trump's amended defamation lawsuit against The Wall Street Journal with prejudice, ruling that it failed to plausibly allege the paper acted with actual malice. The dismissal bars Trump from refiling the same claims, though his legal team says it will appeal."
       },
       "hi": {
-        "summary": "मियामी की संघीय अदालत ने राष्ट्रपति डोनाल्ड ट्रंप का वॉल स्ट्रीट जर्नल के खिलाफ संशोधित मानहानि मुकदमा पूर्वाग्रह सहित खारिज कर दिया है। अदालत ने कहा कि ट्रंप यह साबित नहीं कर पाए कि अखबार ने वास्तविक द्वेष से खबर छापी थी। ट्रंप अब यही दावे दोबारा दायर नहीं कर सकेंगे, हालांकि उनकी कानूनी टीम ने अपील की बात कही है।",
-        "title": "ट्रंप को झटका: एपस्टीन बर्थडे-लेटर मामले में वॉल स्ट्रीट जर्नल के खिलाफ मानहानि मुकदमा हमेशा के लिए खारिज"
+        "title": "ट्रंप को झटका: एपस्टीन बर्थडे-लेटर मामले में वॉल स्ट्रीट जर्नल के खिलाफ मानहानि मुकदमा हमेशा के लिए खारिज",
+        "summary": "मियामी की संघीय अदालत ने राष्ट्रपति डोनाल्ड ट्रंप का वॉल स्ट्रीट जर्नल के खिलाफ संशोधित मानहानि मुकदमा पूर्वाग्रह सहित खारिज कर दिया है। अदालत ने कहा कि ट्रंप यह साबित नहीं कर पाए कि अखबार ने वास्तविक द्वेष से खबर छापी थी। ट्रंप अब यही दावे दोबारा दायर नहीं कर सकेंगे, हालांकि उनकी कानूनी टीम ने अपील की बात कही है।"
       }
     },
     {
@@ -5548,13 +5590,13 @@
       "breaking": false,
       "category": "Politics",
       "en": {
-        "summary": "Kharge read out six charges against CEC Gyanesh Kumar at the INDIA bloc's symbolic 'public impeachment' in New Delhi, demanded his immediate removal and a treason trial, and set out three demands a day before the bloc's Ramlila Maidan rally.",
-        "title": "INDIA bloc's 'public impeachment' ends with six charges against CEC; Kharge demands removal and treason trial"
+        "title": "INDIA bloc's 'public impeachment' ends with six charges against CEC; Kharge demands removal and treason trial",
+        "summary": "Kharge read out six charges against CEC Gyanesh Kumar at the INDIA bloc's symbolic 'public impeachment' in New Delhi, demanded his immediate removal and a treason trial, and set out three demands a day before the bloc's Ramlila Maidan rally."
       },
       "featured": false,
       "hi": {
-        "summary": "नई दिल्ली में इंडिया गठबंधन के प्रतीकात्मक 'जन महाभियोग' में खड़गे ने सीईसी ज्ञानेश कुमार के खिलाफ छह आरोप पढ़े, उनकी तत्काल बर्खास्तगी और देशद्रोह का मुकदमा चलाने की मांग की, और रामलीला मैदान रैली से एक दिन पहले तीन मांगें रखीं।",
-        "title": "सीईसी के खिलाफ छह आरोप तय, खड़गे ने ज्ञानेश कुमार को हटाने और देशद्रोह का मुकदमा चलाने की मांग की"
+        "title": "सीईसी के खिलाफ छह आरोप तय, खड़गे ने ज्ञानेश कुमार को हटाने और देशद्रोह का मुकदमा चलाने की मांग की",
+        "summary": "नई दिल्ली में इंडिया गठबंधन के प्रतीकात्मक 'जन महाभियोग' में खड़गे ने सीईसी ज्ञानेश कुमार के खिलाफ छह आरोप पढ़े, उनकी तत्काल बर्खास्तगी और देशद्रोह का मुकदमा चलाने की मांग की, और रामलीला मैदान रैली से एक दिन पहले तीन मांगें रखीं।"
       },
       "id": "india-bloc-public-impeachment-six-charges-cec-removal-demand-october-31",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-bloc-public-impeachment-six-charges-cec-removal-demand-october-31.jpg",
@@ -5576,12 +5618,12 @@
       "source": "PrimeFeed Desk",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-dengue-deadliest-month-october-418-deaths-october-31.jpg",
       "hi": {
-        "summary": "बांग्लादेश में डेंगू के प्रकोप से 2026 में अब तक 418 लोगों की मौत हो चुकी है, जिनमें अक्टूबर के ही 173 मौतें हैं — इस साल का सबसे जानलेवा महीना — और 1,33,000 से ज़्यादा लोग अस्पताल में भर्ती हुए हैं। डॉक्टरों का कहना है कि गंभीर मरीज़ ढाका के वार्ड भर रहे हैं, और विशेषज्ञों ने चेतावनी दी है कि दिसंबर से पहले संक्रमण में ख़ास कमी की उम्मीद नहीं है।",
-        "title": "बांग्लादेश में डेंगू का प्रकोप और घातक: अक्टूबर में ही 173 मौतें, कुल आंकड़ा 418 तक पहुँचा"
+        "title": "बांग्लादेश में डेंगू का प्रकोप और घातक: अक्टूबर में ही 173 मौतें, कुल आंकड़ा 418 तक पहुँचा",
+        "summary": "बांग्लादेश में डेंगू के प्रकोप से 2026 में अब तक 418 लोगों की मौत हो चुकी है, जिनमें अक्टूबर के ही 173 मौतें हैं — इस साल का सबसे जानलेवा महीना — और 1,33,000 से ज़्यादा लोग अस्पताल में भर्ती हुए हैं। डॉक्टरों का कहना है कि गंभीर मरीज़ ढाका के वार्ड भर रहे हैं, और विशेषज्ञों ने चेतावनी दी है कि दिसंबर से पहले संक्रमण में ख़ास कमी की उम्मीद नहीं है।"
       },
       "en": {
-        "summary": "Bangladesh's dengue outbreak has killed 418 people in 2026, with October alone accounting for 173 deaths — the year's deadliest month — and more than 133,000 hospital admissions. Doctors say severe cases are filling Dhaka's wards, and experts warn transmission is unlikely to ease significantly before December.",
-        "title": "Bangladesh's dengue outbreak turns deadlier: October alone claims 173 lives, toll reaches 418"
+        "title": "Bangladesh's dengue outbreak turns deadlier: October alone claims 173 lives, toll reaches 418",
+        "summary": "Bangladesh's dengue outbreak has killed 418 people in 2026, with October alone accounting for 173 deaths — the year's deadliest month — and more than 133,000 hospital admissions. Doctors say severe cases are filling Dhaka's wards, and experts warn transmission is unlikely to ease significantly before December."
       },
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-dengue-deadliest-month-october-418-deaths-october-31-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-dengue-deadliest-month-october-418-deaths-october-31-en.mp3"
@@ -5597,12 +5639,12 @@
       "source": "PrimeFeed Desk",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-indies-beat-bangladesh-eight-wickets-mirpur-test-october-31.jpg",
       "hi": {
-        "summary": "ब्रैंडन किंग के नाबाद 81 रन की बदौलत वेस्टइंडीज़ ने 170 रन का लक्ष्य एक दिन बाक़ी रहते हासिल कर लिया और मीरपुर में पहले टेस्ट में बांग्लादेश को आठ विकेट से हरा दिया। रोस्टन चेज़ ने पाँच विकेट लिए और जोमेल वॉरिकन ने मैच में नौ विकेट चटकाए, जिससे मेहमान टीम दो टेस्ट की सीरीज़ में 1-0 से आगे हो गई।",
-        "title": "किंग के नाबाद 81 रन, वेस्टइंडीज़ ने मीरपुर टेस्ट में बांग्लादेश को आठ विकेट से हराया"
+        "title": "किंग के नाबाद 81 रन, वेस्टइंडीज़ ने मीरपुर टेस्ट में बांग्लादेश को आठ विकेट से हराया",
+        "summary": "ब्रैंडन किंग के नाबाद 81 रन की बदौलत वेस्टइंडीज़ ने 170 रन का लक्ष्य एक दिन बाक़ी रहते हासिल कर लिया और मीरपुर में पहले टेस्ट में बांग्लादेश को आठ विकेट से हरा दिया। रोस्टन चेज़ ने पाँच विकेट लिए और जोमेल वॉरिकन ने मैच में नौ विकेट चटकाए, जिससे मेहमान टीम दो टेस्ट की सीरीज़ में 1-0 से आगे हो गई।"
       },
       "en": {
-        "summary": "Brandon King finished on 81 not out as West Indies chased down 170 with a day to spare, beating Bangladesh by eight wickets in the first Test at Mirpur. Roston Chase took five wickets and Jomel Warrican nine in the match as the visitors took a 1-0 lead in the two-Test series.",
-        "title": "King's unbeaten 81 seals West Indies' eight-wicket win over Bangladesh in Mirpur"
+        "title": "King's unbeaten 81 seals West Indies' eight-wicket win over Bangladesh in Mirpur",
+        "summary": "Brandon King finished on 81 not out as West Indies chased down 170 with a day to spare, beating Bangladesh by eight wickets in the first Test at Mirpur. Roston Chase took five wickets and Jomel Warrican nine in the match as the visitors took a 1-0 lead in the two-Test series."
       },
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-indies-beat-bangladesh-eight-wickets-mirpur-test-october-31-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-indies-beat-bangladesh-eight-wickets-mirpur-test-october-31-en.mp3"
@@ -6001,13 +6043,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "External Affairs Minister S Jaishankar met US Secretary of State Marco Rubio in Atlanta on Friday, reviewing the state of India-US bilateral cooperation days after Rubio's India visit, with a Quad foreign ministers' meeting lined up for Saturday.",
-        "title": "Jaishankar meets Rubio in Atlanta, takes stock of India-US cooperation on G20 sidelines"
+        "title": "Jaishankar meets Rubio in Atlanta, takes stock of India-US cooperation on G20 sidelines",
+        "summary": "External Affairs Minister S Jaishankar met US Secretary of State Marco Rubio in Atlanta on Friday, reviewing the state of India-US bilateral cooperation days after Rubio's India visit, with a Quad foreign ministers' meeting lined up for Saturday."
       },
       "featured": false,
       "hi": {
-        "summary": "विदेश मंत्री एस जयशंकर ने शुक्रवार को अटलांटा में अमेरिकी विदेश मंत्री मार्को रुबियो से मुलाकात की और रुबियो की भारत यात्रा के कुछ ही दिन बाद दोनों देशों के द्विपक्षीय सहयोग की स्थिति पर चर्चा की। शनिवार को क्वाड विदेश मंत्रियों की बैठक भी होनी है।",
-        "title": "अटलांटा में जयशंकर ने रुबियो से मुलाकात की, जी20 से इतर भारत-अमेरिका सहयोग की समीक्षा की"
+        "title": "अटलांटा में जयशंकर ने रुबियो से मुलाकात की, जी20 से इतर भारत-अमेरिका सहयोग की समीक्षा की",
+        "summary": "विदेश मंत्री एस जयशंकर ने शुक्रवार को अटलांटा में अमेरिकी विदेश मंत्री मार्को रुबियो से मुलाकात की और रुबियो की भारत यात्रा के कुछ ही दिन बाद दोनों देशों के द्विपक्षीय सहयोग की स्थिति पर चर्चा की। शनिवार को क्वाड विदेश मंत्रियों की बैठक भी होनी है।"
       },
       "id": "jaishankar-meets-rubio-atlanta-india-us-ties-october-31",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jaishankar-meets-rubio-atlanta-india-us-ties-october-31.jpg",
@@ -6022,13 +6064,13 @@
       "breaking": false,
       "category": "Business",
       "en": {
-        "summary": "The IMF has said the rupee should absorb the Middle East energy shock rather than heavy RBI intervention doing the job, while keeping India's growth forecast at 7 per cent for FY27 and FY28 — with El Nino flagged as the main downside risk.",
-        "title": "Let the rupee be India's first line of defence against the energy shock, IMF tells New Delhi"
+        "title": "Let the rupee be India's first line of defence against the energy shock, IMF tells New Delhi",
+        "summary": "The IMF has said the rupee should absorb the Middle East energy shock rather than heavy RBI intervention doing the job, while keeping India's growth forecast at 7 per cent for FY27 and FY28 — with El Nino flagged as the main downside risk."
       },
       "featured": false,
       "hi": {
-        "summary": "अंतरराष्ट्रीय मुद्रा कोष ने कहा है कि मध्य पूर्व के ऊर्जा संकट का बोझ रुपया उठाए, न कि भारतीय रिज़र्व बैंक का भारी हस्तक्षेप। साथ ही कोष ने वित्त वर्ष 2027 और 2028 के लिए भारत की वृद्धि दर का अनुमान 7 प्रतिशत पर बरकरार रखा है, अल नीनो को मुख्य जोखिम बताते हुए।",
-        "title": "रुपया ही ऊर्जा संकट के ख़िलाफ़ भारत की पहली रक्षा पंक्ति हो, आईएमएफ ने नई दिल्ली से कहा"
+        "title": "रुपया ही ऊर्जा संकट के ख़िलाफ़ भारत की पहली रक्षा पंक्ति हो, आईएमएफ ने नई दिल्ली से कहा",
+        "summary": "अंतरराष्ट्रीय मुद्रा कोष ने कहा है कि मध्य पूर्व के ऊर्जा संकट का बोझ रुपया उठाए, न कि भारतीय रिज़र्व बैंक का भारी हस्तक्षेप। साथ ही कोष ने वित्त वर्ष 2027 और 2028 के लिए भारत की वृद्धि दर का अनुमान 7 प्रतिशत पर बरकरार रखा है, अल नीनो को मुख्य जोखिम बताते हुए।"
       },
       "id": "imf-rupee-first-line-defence-energy-shock-october-31",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/imf-rupee-first-line-defence-energy-shock-october-31.jpg",
@@ -7081,13 +7123,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "Israeli forces have demolished the homes of the two Palestinian gunmen who killed two soldiers near Hebron on October 23, on the eighth day of an operation that has displaced thousands, emptied a whole neighbourhood and drawn a warning from the UN human rights chief.",
-        "title": "Israel blows up Hebron gunmen's homes as thousands remain displaced on eighth day of operation"
+        "title": "Israel blows up Hebron gunmen's homes as thousands remain displaced on eighth day of operation",
+        "summary": "Israeli forces have demolished the homes of the two Palestinian gunmen who killed two soldiers near Hebron on October 23, on the eighth day of an operation that has displaced thousands, emptied a whole neighbourhood and drawn a warning from the UN human rights chief."
       },
       "featured": false,
       "hi": {
-        "summary": "इज़राइली सेना ने हेब्रोन के पास 23 अक्टूबर को दो सैनिकों की हत्या करने वाले दो फ़िलिस्तीनी बंदूकधारियों के घर शुक्रवार को उड़ा दिए। यह अभियान आठवें दिन में पहुंच गया है, जिसमें हज़ारों लोग विस्थापित हो चुके हैं और संयुक्त राष्ट्र के मानवाधिकार प्रमुख ने चेतावनी दी है।",
-        "title": "हेब्रोन में दो घर ध्वस्त, हज़ारों विस्थापित: आठवें दिन भी जारी है सैन्य अभियान"
+        "title": "हेब्रोन में दो घर ध्वस्त, हज़ारों विस्थापित: आठवें दिन भी जारी है सैन्य अभियान",
+        "summary": "इज़राइली सेना ने हेब्रोन के पास 23 अक्टूबर को दो सैनिकों की हत्या करने वाले दो फ़िलिस्तीनी बंदूकधारियों के घर शुक्रवार को उड़ा दिए। यह अभियान आठवें दिन में पहुंच गया है, जिसमें हज़ारों लोग विस्थापित हो चुके हैं और संयुक्त राष्ट्र के मानवाधिकार प्रमुख ने चेतावनी दी है।"
       },
       "id": "israel-demolishes-hebron-gunmen-homes-thousands-displaced-october-30",
       "source": "PrimeFeed Desk",
@@ -7102,13 +7144,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "The United Arab Emirates says the leak from the Gem No. 2 tanker has been stopped with no new leakage detected, though the slick still stretches from Umm Al Quwain towards Ras Al Khaimah, Ajman and Sharjah and beach closures remain in place while cleanup goes on.",
-        "title": "UAE stops oil leak from Gem No. 2 tanker as cleanup continues along northern coast"
+        "title": "UAE stops oil leak from Gem No. 2 tanker as cleanup continues along northern coast",
+        "summary": "The United Arab Emirates says the leak from the Gem No. 2 tanker has been stopped with no new leakage detected, though the slick still stretches from Umm Al Quwain towards Ras Al Khaimah, Ajman and Sharjah and beach closures remain in place while cleanup goes on."
       },
       "featured": false,
       "hi": {
-        "summary": "संयुक्त अरब अमीरात ने कहा है कि जेम नंबर 2 टैंकर से तेल का रिसाव रोक दिया गया है और अब कोई नया रिसाव नहीं हो रहा है, हालांकि उम्म अल कुवैन से रास अल खैमा, अजमान और शारजाह तक फैला तेल अब भी तटों पर है और सफाई जारी रहने तक कई समुद्र तट बंद रहेंगे।",
-        "title": "यूएई के तट पर तेल रिसाव पर काबू: जेम नंबर 2 टैंकर से अब कोई नया रिसाव नहीं"
+        "title": "यूएई के तट पर तेल रिसाव पर काबू: जेम नंबर 2 टैंकर से अब कोई नया रिसाव नहीं",
+        "summary": "संयुक्त अरब अमीरात ने कहा है कि जेम नंबर 2 टैंकर से तेल का रिसाव रोक दिया गया है और अब कोई नया रिसाव नहीं हो रहा है, हालांकि उम्म अल कुवैन से रास अल खैमा, अजमान और शारजाह तक फैला तेल अब भी तटों पर है और सफाई जारी रहने तक कई समुद्र तट बंद रहेंगे।"
       },
       "id": "uae-stops-gem-no-2-tanker-oil-leak-cleanup-continues-october-30",
       "source": "PrimeFeed Desk",
@@ -7123,13 +7165,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "Costa Rica's Rebeca Grynspan won 11 'encourage' votes in the Security Council's seventh informal poll on Friday, her strongest showing yet in the race to succeed Antonio Guterres — but with the ballot no longer colour-coded, it is still unclear whether any of her four 'discourage' votes came from a veto-wielding permanent member.",
-        "title": "Grynspan stretches her lead in the race to lead the UN: 11 of 15 Council members back her in seventh straw poll"
+        "title": "Grynspan stretches her lead in the race to lead the UN: 11 of 15 Council members back her in seventh straw poll",
+        "summary": "Costa Rica's Rebeca Grynspan won 11 'encourage' votes in the Security Council's seventh informal poll on Friday, her strongest showing yet in the race to succeed Antonio Guterres — but with the ballot no longer colour-coded, it is still unclear whether any of her four 'discourage' votes came from a veto-wielding permanent member."
       },
       "featured": false,
       "hi": {
-        "summary": "कोस्टा रिका की रेबेका ग्रिनस्पैन को शुक्रवार को सुरक्षा परिषद के सातवें अनौपचारिक मतदान में 11 सदस्यों का समर्थन मिला — अब तक का उनका सबसे मज़बूत प्रदर्शन। लेकिन इस बार मतपत्रों पर स्थायी सदस्यों की पहचान नहीं थी, इसलिए यह साफ नहीं है कि उनके खिलाफ पड़े 4 मतों में कोई वीटो शक्ति वाला देश भी शामिल था या नहीं।",
-        "title": "संयुक्त राष्ट्र प्रमुख की दौड़ में ग्रिनस्पैन की बढ़त और मज़बूत: सातवें स्ट्रॉ पोल में 15 में से 11 सदस्यों का समर्थन"
+        "title": "संयुक्त राष्ट्र प्रमुख की दौड़ में ग्रिनस्पैन की बढ़त और मज़बूत: सातवें स्ट्रॉ पोल में 15 में से 11 सदस्यों का समर्थन",
+        "summary": "कोस्टा रिका की रेबेका ग्रिनस्पैन को शुक्रवार को सुरक्षा परिषद के सातवें अनौपचारिक मतदान में 11 सदस्यों का समर्थन मिला — अब तक का उनका सबसे मज़बूत प्रदर्शन। लेकिन इस बार मतपत्रों पर स्थायी सदस्यों की पहचान नहीं थी, इसलिए यह साफ नहीं है कि उनके खिलाफ पड़े 4 मतों में कोई वीटो शक्ति वाला देश भी शामिल था या नहीं।"
       },
       "id": "grynspan-leads-seventh-un-chief-straw-poll-october-30",
       "source": "PrimeFeed Desk",
@@ -7580,13 +7622,13 @@
       "breaking": false,
       "category": "Cricket & Sports",
       "en": {
-        "summary": "Aaryavir Sehwag and Anvay Dravid headline the BCCI's 15-member squad for the ACC Men's U19 Asia Cup in Muscat from November 5 to 14; Lakshya Raichandani captains, with Pakistan awaiting in Group A on November 8.",
-        "title": "Sehwag's son, Dravid's son in India's U19 Asia Cup squad; Raichandani to lead in Muscat"
+        "title": "Sehwag's son, Dravid's son in India's U19 Asia Cup squad; Raichandani to lead in Muscat",
+        "summary": "Aaryavir Sehwag and Anvay Dravid headline the BCCI's 15-member squad for the ACC Men's U19 Asia Cup in Muscat from November 5 to 14; Lakshya Raichandani captains, with Pakistan awaiting in Group A on November 8."
       },
       "featured": false,
       "hi": {
-        "summary": "बीसीसीआई ने मस्कट में पांच से चौदह नवंबर तक होने वाले एसीसी पुरुष अंडर-19 एशिया कप के लिए पंद्रह सदस्यीय टीम घोषित की है; लक्ष्य रायचंदानी कप्तान होंगे और ग्रुप ए में आठ नवंबर को पाकिस्तान से मुकाबला होगा।",
-        "title": "द्रविड़ और सहवाग के बेटे भारत की अंडर-19 एशिया कप टीम में, रायचंदानी करेंगे कप्तानी"
+        "title": "द्रविड़ और सहवाग के बेटे भारत की अंडर-19 एशिया कप टीम में, रायचंदानी करेंगे कप्तानी",
+        "summary": "बीसीसीआई ने मस्कट में पांच से चौदह नवंबर तक होने वाले एसीसी पुरुष अंडर-19 एशिया कप के लिए पंद्रह सदस्यीय टीम घोषित की है; लक्ष्य रायचंदानी कप्तान होंगे और ग्रुप ए में आठ नवंबर को पाकिस्तान से मुकाबला होगा।"
       },
       "id": "sehwag-dravid-sons-india-u19-asia-cup-squad-raichandani-lead-october-30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sehwag-dravid-sons-india-u19-asia-cup-squad-raichandani-lead-october-30.jpg",
@@ -7974,12 +8016,12 @@
       "source": "PrimeFeed Desk",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-indians-new-coaching-group-uthappa-mcclenaghan-dilip-kulkarni-ipl-2027-october-30.jpg",
       "en": {
-        "summary": "Five-time champions Mumbai Indians have named Robin Uthappa as batting coach, Mitchell McClenaghan as bowling coach, T. Dilip as fielding coach and Dhawal Kulkarni as development bowling coach under head coach Kieron Pollard, completing a sweeping backroom overhaul after a ninth-place finish in IPL 2026.",
-        "title": "Mumbai Indians complete coaching overhaul: Uthappa batting coach, McClenaghan bowling coach for IPL 2027"
+        "title": "Mumbai Indians complete coaching overhaul: Uthappa batting coach, McClenaghan bowling coach for IPL 2027",
+        "summary": "Five-time champions Mumbai Indians have named Robin Uthappa as batting coach, Mitchell McClenaghan as bowling coach, T. Dilip as fielding coach and Dhawal Kulkarni as development bowling coach under head coach Kieron Pollard, completing a sweeping backroom overhaul after a ninth-place finish in IPL 2026."
       },
       "hi": {
-        "summary": "पांच बार की चैंपियन मुंबई इंडियंस ने आईपीएल 2027 के लिए रॉबिन उथप्पा को बैटिंग कोच, मिशेल मैक्लेनाघन को बॉलिंग कोच, टी. दिलीप को फील्डिंग कोच और धवल कुलकर्णी को डेवलपमेंट बॉलिंग कोच बनाया है। आईपीएल 2026 में नौवें स्थान पर रहने के बाद हेड कोच कीरोन पोलार्ड के नेतृत्व में बैकरूम स्टाफ का यह बड़ा बदलाव पूरा हो गया है।",
-        "title": "मुंबई इंडियंस का कोचिंग स्टाफ बदला: उथप्पा बैटिंग कोच, मैक्लेनाघन बॉलिंग कोच बने"
+        "title": "मुंबई इंडियंस का कोचिंग स्टाफ बदला: उथप्पा बैटिंग कोच, मैक्लेनाघन बॉलिंग कोच बने",
+        "summary": "पांच बार की चैंपियन मुंबई इंडियंस ने आईपीएल 2027 के लिए रॉबिन उथप्पा को बैटिंग कोच, मिशेल मैक्लेनाघन को बॉलिंग कोच, टी. दिलीप को फील्डिंग कोच और धवल कुलकर्णी को डेवलपमेंट बॉलिंग कोच बनाया है। आईपीएल 2026 में नौवें स्थान पर रहने के बाद हेड कोच कीरोन पोलार्ड के नेतृत्व में बैकरूम स्टाफ का यह बड़ा बदलाव पूरा हो गया है।"
       },
       "publishedAt": "2026-10-30T14:28:11+05:30",
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-indians-new-coaching-group-uthappa-mcclenaghan-dilip-kulkarni-ipl-2027-october-30-hi.mp3",
@@ -8337,13 +8379,13 @@
       "breaking": false,
       "category": "Crime & Law",
       "en": {
-        "summary": "A bench of Justices M.M. Sundresh and P.B. Varale ordered the release on bail of Bipinchand Kanaiyalal Joshi and Pradip Ramanlal Modhiya, noting their 17-plus years in custody, Joshi's severe handicap and issues still to be decided in their pending appeals. The bail is subject to conditions set by the trial court.",
-        "title": "Supreme Court grants bail to two Bilkis Bano case convicts after over 17 years in jail"
+        "title": "Supreme Court grants bail to two Bilkis Bano case convicts after over 17 years in jail",
+        "summary": "A bench of Justices M.M. Sundresh and P.B. Varale ordered the release on bail of Bipinchand Kanaiyalal Joshi and Pradip Ramanlal Modhiya, noting their 17-plus years in custody, Joshi's severe handicap and issues still to be decided in their pending appeals. The bail is subject to conditions set by the trial court."
       },
       "featured": false,
       "hi": {
-        "summary": "जस्टिस एम. एम. सुंदरेश और जस्टिस पी. बी. वराले की पीठ ने बिपिनचंद्र कानाईलाल जोशी और प्रदीप रमनलाल मोधिया को ज़मानत पर रिहा करने का आदेश दिया है। अदालत ने 17 साल से ज़्यादा की कैद, जोशी की गंभीर दिव्यांगता और अपीलों में अभी बाकी तथ्य और कानून के सवालों का हवाला दिया; ज़मानत ट्रायल कोर्ट की शर्तों पर निर्भर करेगी।",
-        "title": "बिलकिस बानो मामले में सुप्रीम कोर्ट ने दो दोषियों को 17 साल से ज़्यादा कैद के बाद ज़मानत दी"
+        "title": "बिलकिस बानो मामले में सुप्रीम कोर्ट ने दो दोषियों को 17 साल से ज़्यादा कैद के बाद ज़मानत दी",
+        "summary": "जस्टिस एम. एम. सुंदरेश और जस्टिस पी. बी. वराले की पीठ ने बिपिनचंद्र कानाईलाल जोशी और प्रदीप रमनलाल मोधिया को ज़मानत पर रिहा करने का आदेश दिया है। अदालत ने 17 साल से ज़्यादा की कैद, जोशी की गंभीर दिव्यांगता और अपीलों में अभी बाकी तथ्य और कानून के सवालों का हवाला दिया; ज़मानत ट्रायल कोर्ट की शर्तों पर निर्भर करेगी।"
       },
       "id": "sc-grants-bail-two-bilkis-bano-convicts-17-years-october-30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-grants-bail-two-bilkis-bano-convicts-17-years-october-30.jpg",
@@ -8572,13 +8614,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "North Korea's leader toured a drone exhibition at Wonsan-Kalma and watched suicide drones, cruise missiles and 600-mm rocket launchers fire, calling drone superiority and AI top priorities as tensions with Seoul run high.",
-        "title": "Kim Jong Un demands 'absolute superiority' in drones as North Korea test-fires suicide drones and missiles"
+        "title": "Kim Jong Un demands 'absolute superiority' in drones as North Korea test-fires suicide drones and missiles",
+        "summary": "North Korea's leader toured a drone exhibition at Wonsan-Kalma and watched suicide drones, cruise missiles and 600-mm rocket launchers fire, calling drone superiority and AI top priorities as tensions with Seoul run high."
       },
       "featured": false,
       "hi": {
-        "summary": "उत्तर कोरिया के नेता ने वोनसान-कलमा में ड्रोन प्रदर्शनी देखी और आत्मघाती ड्रोन, क्रूज़ मिसाइलों व 600-मिमी रॉकेट लांचरों का परीक्षण देखा; सियोल से तनाव के बीच ड्रोन श्रेष्ठता और एआई को सर्वोच्च प्राथमिकता बताया।",
-        "title": "ड्रोन में 'पूर्ण श्रेष्ठता' चाहिए: किम जोंग उन ने आत्मघाती ड्रोन और मिसाइलों का परीक्षण देखा"
+        "title": "ड्रोन में 'पूर्ण श्रेष्ठता' चाहिए: किम जोंग उन ने आत्मघाती ड्रोन और मिसाइलों का परीक्षण देखा",
+        "summary": "उत्तर कोरिया के नेता ने वोनसान-कलमा में ड्रोन प्रदर्शनी देखी और आत्मघाती ड्रोन, क्रूज़ मिसाइलों व 600-मिमी रॉकेट लांचरों का परीक्षण देखा; सियोल से तनाव के बीच ड्रोन श्रेष्ठता और एआई को सर्वोच्च प्राथमिकता बताया।"
       },
       "id": "kim-jong-un-drone-ai-weapons-push-october-30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kim-jong-un-drone-ai-weapons-push-october-30.jpg",
@@ -8593,13 +8635,13 @@
       "breaking": false,
       "category": "Weather",
       "en": {
-        "summary": "Arnab weakened into a well-marked low over north Chhattisgarh on Thursday evening, while a new low over the south Andaman Sea is likely to become a depression over the southeast Bay of Bengal by Saturday morning.",
-        "title": "Cyclone Arnab fades to a low over Chhattisgarh, but a new Bay system is already gathering strength"
+        "title": "Cyclone Arnab fades to a low over Chhattisgarh, but a new Bay system is already gathering strength",
+        "summary": "Arnab weakened into a well-marked low over north Chhattisgarh on Thursday evening, while a new low over the south Andaman Sea is likely to become a depression over the southeast Bay of Bengal by Saturday morning."
       },
       "featured": false,
       "hi": {
-        "summary": "अर्नब गुरुवार शाम तक उत्तरी छत्तीसगढ़ के ऊपर स्पष्ट निम्न दबाव क्षेत्र में बदल गया, जबकि दक्षिणी अंडमान सागर का नया निम्न दबाव शनिवार सुबह तक दक्षिण-पूर्व बंगाल की खाड़ी में अवदाब बन सकता है।",
-        "title": "अर्नब छत्तीसगढ़ में निम्न दबाव में बदला, बंगाल की खाड़ी में नया सिस्टम मज़बूत हो रहा है"
+        "title": "अर्नब छत्तीसगढ़ में निम्न दबाव में बदला, बंगाल की खाड़ी में नया सिस्टम मज़बूत हो रहा है",
+        "summary": "अर्नब गुरुवार शाम तक उत्तरी छत्तीसगढ़ के ऊपर स्पष्ट निम्न दबाव क्षेत्र में बदल गया, जबकि दक्षिणी अंडमान सागर का नया निम्न दबाव शनिवार सुबह तक दक्षिण-पूर्व बंगाल की खाड़ी में अवदाब बन सकता है।"
       },
       "id": "cyclone-arnab-weakens-low-new-bay-system-october-30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-arnab-weakens-low-new-bay-system-october-30.jpg",
@@ -8617,13 +8659,13 @@
       "category": "Entertainment",
       "district": null,
       "en": {
-        "summary": "Rajinikanth's Jailer 2 added Rs 5.90 crore net in India on its 15th day, taking its India gross past Rs 500 crore — only the second Tamil film ever to do so — while its worldwide gross climbed to Rs 765.15 crore, according to trade tracker Sacnilk.",
-        "title": "Jailer 2 crosses Rs 500 crore in India, worldwide gross reaches Rs 765.15 crore in 15 days"
+        "title": "Jailer 2 crosses Rs 500 crore in India, worldwide gross reaches Rs 765.15 crore in 15 days",
+        "summary": "Rajinikanth's Jailer 2 added Rs 5.90 crore net in India on its 15th day, taking its India gross past Rs 500 crore — only the second Tamil film ever to do so — while its worldwide gross climbed to Rs 765.15 crore, according to trade tracker Sacnilk."
       },
       "featured": false,
       "hi": {
-        "summary": "रजनीकांत की जेलर 2 ने पंद्रहवें दिन भारत में 5.90 करोड़ रुपये नेट जोड़े, जिससे भारत में इसका ग्रॉस 500 करोड़ रुपये के पार पहुँच गया — ऐसा करने वाली यह सिर्फ दूसरी तमिल फिल्म है — और दुनियाभर की कमाई ट्रेड ट्रैकर सैकनिल्क के मुताबिक 765.15 करोड़ रुपये हो गई है।",
-        "title": "जेलर 2 ने भारत में 500 करोड़ पार किए, 15 दिन में दुनियाभर में 765.15 करोड़ की कमाई"
+        "title": "जेलर 2 ने भारत में 500 करोड़ पार किए, 15 दिन में दुनियाभर में 765.15 करोड़ की कमाई",
+        "summary": "रजनीकांत की जेलर 2 ने पंद्रहवें दिन भारत में 5.90 करोड़ रुपये नेट जोड़े, जिससे भारत में इसका ग्रॉस 500 करोड़ रुपये के पार पहुँच गया — ऐसा करने वाली यह सिर्फ दूसरी तमिल फिल्म है — और दुनियाभर की कमाई ट्रेड ट्रैकर सैकनिल्क के मुताबिक 765.15 करोड़ रुपये हो गई है।"
       },
       "id": "jailer-2-crosses-500-crore-india-765-crore-worldwide-day-15-october-30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jailer-2-crosses-500-crore-india-765-crore-worldwide-day-15-october-30.jpg",
@@ -8639,13 +8681,13 @@
       "breaking": false,
       "category": "Weather",
       "en": {
-        "summary": "Odisha has evacuated 59,028 people to 830 shelters across nine districts, with 313 rescue teams on the ground and Coast Guard helicopters airlifting people from villages still cut off by floodwater.",
-        "title": "59,028 people moved to safety as Cyclone Arnab's floods swamp nine Odisha districts"
+        "title": "59,028 people moved to safety as Cyclone Arnab's floods swamp nine Odisha districts",
+        "summary": "Odisha has evacuated 59,028 people to 830 shelters across nine districts, with 313 rescue teams on the ground and Coast Guard helicopters airlifting people from villages still cut off by floodwater."
       },
       "featured": false,
       "hi": {
-        "summary": "ओडिशा में 59,028 लोगों को 830 आश्रय शिविरों में पहुँचाया गया है; नौ ज़िलों में 313 बचाव दल काम कर रहे हैं और बाढ़ में घिरे गाँवों से लोगों को हेलीकॉप्टर से निकाला जा रहा है।",
-        "title": "चक्रवात अर्नब की बाढ़ से ओडिशा के नौ ज़िलों में 59,028 लोग सुरक्षित जगहों पर पहुँचाए गए"
+        "title": "चक्रवात अर्नब की बाढ़ से ओडिशा के नौ ज़िलों में 59,028 लोग सुरक्षित जगहों पर पहुँचाए गए",
+        "summary": "ओडिशा में 59,028 लोगों को 830 आश्रय शिविरों में पहुँचाया गया है; नौ ज़िलों में 313 बचाव दल काम कर रहे हैं और बाढ़ में घिरे गाँवों से लोगों को हेलीकॉप्टर से निकाला जा रहा है।"
       },
       "id": "odisha-59028-evacuated-nine-districts-cyclone-arnab-floods-october-30",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-59028-evacuated-nine-districts-cyclone-arnab-floods-october-30.jpg",
@@ -9052,13 +9094,13 @@
       "breaking": false,
       "category": "Cricket & Sports",
       "en": {
-        "summary": "Afghanistan recovered from 38 for five to 221 for seven and beat Zimbabwe by 19 runs in Sharjah to take an unassailable 2-0 T20I series lead, as Azmatullah Omarzai's maiden century and Rashid Khan's 200th T20I wicket headlined a remarkable night.",
-        "title": "From 5 for 4 to 221: Omarzai's maiden ton seals T20I series for Afghanistan as Rashid reaches 200 wickets"
+        "title": "From 5 for 4 to 221: Omarzai's maiden ton seals T20I series for Afghanistan as Rashid reaches 200 wickets",
+        "summary": "Afghanistan recovered from 38 for five to 221 for seven and beat Zimbabwe by 19 runs in Sharjah to take an unassailable 2-0 T20I series lead, as Azmatullah Omarzai's maiden century and Rashid Khan's 200th T20I wicket headlined a remarkable night."
       },
       "featured": false,
       "hi": {
-        "summary": "अफ़ग़ानिस्तान पाँच विकेट पर 38 रन से उबरकर सात विकेट पर 221 रन तक पहुँचा और शारजाह में ज़िम्बाब्वे को 19 रन से हराकर टी20 सीरीज़ में 2-0 की अजेय बढ़त ले ली — अज़मतुल्लाह उमरज़ई के पहले शतक और राशिद ख़ान के 200वें टी20 विकेट वाली यादगार रात।",
-        "title": "पाँच विकेट पर 38 रन से 221 तक: उमरज़ई के पहले शतक ने अफ़ग़ानिस्तान को दिलाई टी20 सीरीज़, राशिद के 200 विकेट"
+        "title": "पाँच विकेट पर 38 रन से 221 तक: उमरज़ई के पहले शतक ने अफ़ग़ानिस्तान को दिलाई टी20 सीरीज़, राशिद के 200 विकेट",
+        "summary": "अफ़ग़ानिस्तान पाँच विकेट पर 38 रन से उबरकर सात विकेट पर 221 रन तक पहुँचा और शारजाह में ज़िम्बाब्वे को 19 रन से हराकर टी20 सीरीज़ में 2-0 की अजेय बढ़त ले ली — अज़मतुल्लाह उमरज़ई के पहले शतक और राशिद ख़ान के 200वें टी20 विकेट वाली यादगार रात।"
       },
       "id": "afghanistan-beat-zimbabwe-19-runs-seal-t20i-series-october-29",
       "source": "PrimeFeed Desk",
@@ -9073,13 +9115,13 @@
       "breaking": false,
       "category": "Cricket & Sports",
       "en": {
-        "summary": "Ben Duckett's career-best 167 off 132 balls powered England to 386 for five, and Liam Dawson's four for 49 helped bowl Sri Lanka out for 331 as England won by 55 runs in Lahore — their first ODI win in Pakistan since 2005.",
-        "title": "Duckett's career-best 167 ends England's long wait for a win in Pakistan"
+        "title": "Duckett's career-best 167 ends England's long wait for a win in Pakistan",
+        "summary": "Ben Duckett's career-best 167 off 132 balls powered England to 386 for five, and Liam Dawson's four for 49 helped bowl Sri Lanka out for 331 as England won by 55 runs in Lahore — their first ODI win in Pakistan since 2005."
       },
       "featured": false,
       "hi": {
-        "summary": "बेन डकेट के करियर के सर्वश्रेष्ठ 167 रन की बदौलत इंग्लैंड ने पाँच विकेट पर 386 रन बनाए, और लियाम डॉसन के चार विकेट से श्रीलंका 331 रन पर सिमट गया — लाहौर में 55 रन की जीत, पाकिस्तान में 2005 के बाद पहली वनडे जीत।",
-        "title": "डकेट के करियर के सर्वश्रेष्ठ 167 रन: पाकिस्तान में 2005 के बाद इंग्लैंड को मिली पहली वनडे जीत"
+        "title": "डकेट के करियर के सर्वश्रेष्ठ 167 रन: पाकिस्तान में 2005 के बाद इंग्लैंड को मिली पहली वनडे जीत",
+        "summary": "बेन डकेट के करियर के सर्वश्रेष्ठ 167 रन की बदौलत इंग्लैंड ने पाँच विकेट पर 386 रन बनाए, और लियाम डॉसन के चार विकेट से श्रीलंका 331 रन पर सिमट गया — लाहौर में 55 रन की जीत, पाकिस्तान में 2005 के बाद पहली वनडे जीत।"
       },
       "id": "duckett-167-england-beat-sri-lanka-55-runs-tri-series-october-29",
       "source": "PrimeFeed Desk",
@@ -9094,13 +9136,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "A rock spire came down near the Göreme Open-Air Museum on Thursday afternoon after heavy rain triggered a landslide. Rescue teams later pulled a third body from the rubble; two of the dead are Turkish citizens and one is a tourist.",
-        "title": "Three dead as fairy chimney collapses at Cappadocia's Göreme after heavy rain"
+        "title": "Three dead as fairy chimney collapses at Cappadocia's Göreme after heavy rain",
+        "summary": "A rock spire came down near the Göreme Open-Air Museum on Thursday afternoon after heavy rain triggered a landslide. Rescue teams later pulled a third body from the rubble; two of the dead are Turkish citizens and one is a tourist."
       },
       "featured": false,
       "hi": {
-        "summary": "गुरुवार दोपहर भारी बारिश से हुए भूस्खलन के बाद गोरोमे ओपन-एयर म्यूज़ियम के पास चट्टान का हिस्सा गिर गया। मलबे से तीसरा शव मिलने के बाद मरने वालों की संख्या तीन हो गई है, जिनमें दो तुर्किये के नागरिक और एक पर्यटक है।",
-        "title": "कपाडोकिया के गोरोमे में 'फेयरी चिमनी' ढही, तीन लोगों की मौत"
+        "title": "कपाडोकिया के गोरोमे में 'फेयरी चिमनी' ढही, तीन लोगों की मौत",
+        "summary": "गुरुवार दोपहर भारी बारिश से हुए भूस्खलन के बाद गोरोमे ओपन-एयर म्यूज़ियम के पास चट्टान का हिस्सा गिर गया। मलबे से तीसरा शव मिलने के बाद मरने वालों की संख्या तीन हो गई है, जिनमें दो तुर्किये के नागरिक और एक पर्यटक है।"
       },
       "id": "cappadocia-fairy-chimney-collapse-three-dead-goreme-october-29",
       "source": "PrimeFeed Desk",
@@ -9226,13 +9268,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "With every ballot counted, including the last double-envelope votes, neither Benjamin Netanyahu's bloc nor the opposition can reach the 61 seats needed to govern without the Arab parties, who hold a record 19. The count landed alongside a Shin Bet investigation into suspected foreign funding of Arab voter mobilisation — allegations the Arab parties deny and the election committee says did not compromise polling-station integrity.",
-        "title": "Israel's final count confirms a hung parliament: Netanyahu 53, opposition 48, Arab parties a record 19 — as Shin Bet probes alleged foreign funding"
+        "title": "Israel's final count confirms a hung parliament: Netanyahu 53, opposition 48, Arab parties a record 19 — as Shin Bet probes alleged foreign funding",
+        "summary": "With every ballot counted, including the last double-envelope votes, neither Benjamin Netanyahu's bloc nor the opposition can reach the 61 seats needed to govern without the Arab parties, who hold a record 19. The count landed alongside a Shin Bet investigation into suspected foreign funding of Arab voter mobilisation — allegations the Arab parties deny and the election committee says did not compromise polling-station integrity."
       },
       "featured": false,
       "hi": {
-        "summary": "आखिरी डबल-एनवलप वोटों समेत सारी गिनती पूरी होने के बाद भी न बेंजमिन नेतन्याहू का खेमा बहुमत के 61 के आँकड़े तक पहुँच पाया है, न गादी आइज़ेनकोट का विपक्ष — और अरब पार्टियाँ रिकॉर्ड 19 सीटों के साथ किंगमेकर बन गई हैं। गिनती के साथ ही अरब मतदाताओं को लामबंद करने के लिए विदेशी पैसे के संदेह की शिन बेट जाँच भी सामने आई है; अरब पार्टियों ने आरोपों से इनकार किया है और चुनाव समिति का कहना है कि मतदान केंद्रों पर वोटिंग की शुचिता बनी रही।",
-        "title": "इज़रायल में अंतिम गिनती के बाद भी त्रिशंकु संसद: नेतन्याहू 53, विपक्ष 48, अरब पार्टियाँ रिकॉर्ड 19 पर — विदेशी फंडिंग के आरोपों की शिन बेट जाँच भी शुरू"
+        "title": "इज़रायल में अंतिम गिनती के बाद भी त्रिशंकु संसद: नेतन्याहू 53, विपक्ष 48, अरब पार्टियाँ रिकॉर्ड 19 पर — विदेशी फंडिंग के आरोपों की शिन बेट जाँच भी शुरू",
+        "summary": "आखिरी डबल-एनवलप वोटों समेत सारी गिनती पूरी होने के बाद भी न बेंजमिन नेतन्याहू का खेमा बहुमत के 61 के आँकड़े तक पहुँच पाया है, न गादी आइज़ेनकोट का विपक्ष — और अरब पार्टियाँ रिकॉर्ड 19 सीटों के साथ किंगमेकर बन गई हैं। गिनती के साथ ही अरब मतदाताओं को लामबंद करने के लिए विदेशी पैसे के संदेह की शिन बेट जाँच भी सामने आई है; अरब पार्टियों ने आरोपों से इनकार किया है और चुनाव समिति का कहना है कि मतदान केंद्रों पर वोटिंग की शुचिता बनी रही।"
       },
       "id": "israel-final-count-netanyahu-53-opposition-48-arab-parties-19-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israel-final-count-netanyahu-53-opposition-48-arab-parties-19-october-29.jpg",
@@ -9268,13 +9310,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "Mohamed Sabry Soliman, already serving a life sentence for the June 2025 firebombing of a Boulder rally, pleaded guilty in a Denver federal court to 12 hate-crime and explosives counts. He will be sentenced on 7 January 2027.",
-        "title": "Boulder firebomber pleads guilty to federal hate crimes, faces a second life term"
+        "title": "Boulder firebomber pleads guilty to federal hate crimes, faces a second life term",
+        "summary": "Mohamed Sabry Soliman, already serving a life sentence for the June 2025 firebombing of a Boulder rally, pleaded guilty in a Denver federal court to 12 hate-crime and explosives counts. He will be sentenced on 7 January 2027."
       },
       "featured": false,
       "hi": {
-        "summary": "जून 2025 में बोल्डर रैली पर फायरबॉम्ब हमले के लिए पहले से उम्रकैद काट रहे मोहम्मद साबरी सोलिमन ने डेनवर की संघीय अदालत में हेट क्राइम और विस्फोटक के 12 आरोप कबूल कर लिए हैं। सज़ा 7 जनवरी 2027 को सुनाई जाएगी।",
-        "title": "बोल्डर हमलावर ने संघीय अदालत में भी कबूला जुर्म, अब दूसरी उम्रकैद का सामना"
+        "title": "बोल्डर हमलावर ने संघीय अदालत में भी कबूला जुर्म, अब दूसरी उम्रकैद का सामना",
+        "summary": "जून 2025 में बोल्डर रैली पर फायरबॉम्ब हमले के लिए पहले से उम्रकैद काट रहे मोहम्मद साबरी सोलिमन ने डेनवर की संघीय अदालत में हेट क्राइम और विस्फोटक के 12 आरोप कबूल कर लिए हैं। सज़ा 7 जनवरी 2027 को सुनाई जाएगी।"
       },
       "id": "boulder-firebomber-pleads-guilty-federal-hate-crimes-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/boulder-firebomber-pleads-guilty-federal-hate-crimes-october-29.jpg",
@@ -9319,12 +9361,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/khammam-four-arrested-cpim-leader-samineni-rama-rao-murder-case-october-29-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/khammam-four-arrested-cpim-leader-samineni-rama-rao-murder-case-october-29-en.mp3",
       "hi": {
-        "summary": "खम्मम पुलिस ने गुरुवार को सीपीएम नेता सामिनेनी रामा राव की हत्या के मामले में चार लोगों को गिरफ्तार कर लिया। रामा राव की 31 अक्टूबर 2025 को पातरलपाडु गाँव में अपने घर के पास हत्या कर दी गई थी। पुलिस के मुताबिक तकनीकी साक्ष्यों, पॉलीग्राफ टेस्ट और फोरेंसिक जांच के बाद यह गिरफ्तारी हुई है।",
-        "title": "सीपीएम नेता सामिनेनी रामा राव की हत्या के करीब एक साल बाद खम्मम में चार गिरफ्तार"
+        "title": "सीपीएम नेता सामिनेनी रामा राव की हत्या के करीब एक साल बाद खम्मम में चार गिरफ्तार",
+        "summary": "खम्मम पुलिस ने गुरुवार को सीपीएम नेता सामिनेनी रामा राव की हत्या के मामले में चार लोगों को गिरफ्तार कर लिया। रामा राव की 31 अक्टूबर 2025 को पातरलपाडु गाँव में अपने घर के पास हत्या कर दी गई थी। पुलिस के मुताबिक तकनीकी साक्ष्यों, पॉलीग्राफ टेस्ट और फोरेंसिक जांच के बाद यह गिरफ्तारी हुई है।"
       },
       "en": {
-        "summary": "Khammam police on Thursday arrested four persons in the murder of CPI(M) leader Samineni Rama Rao, who was killed near his home in Patharlapadu village on October 31, 2025. Police cited technical evidence, polygraph tests and forensic analysis behind the breakthrough, and said the investigation continues.",
-        "title": "Four arrested in Khammam nearly a year after CPI(M) leader Samineni Rama Rao's murder"
+        "title": "Four arrested in Khammam nearly a year after CPI(M) leader Samineni Rama Rao's murder",
+        "summary": "Khammam police on Thursday arrested four persons in the murder of CPI(M) leader Samineni Rama Rao, who was killed near his home in Patharlapadu village on October 31, 2025. Police cited technical evidence, polygraph tests and forensic analysis behind the breakthrough, and said the investigation continues."
       }
     },
     {
@@ -9615,12 +9657,12 @@
       "district": "Mumbai Suburban",
       "state": "Maharashtra",
       "en": {
-        "summary": "A special MCOCA court in Mumbai on Thursday remanded all eleven accused in the October 18 firing at actor Tiger Shroff's car to police custody till November 6. Police told the court they need custodial interrogation to unearth a deep-rooted conspiracy and trace digital and financial trails.",
-        "title": "Tiger Shroff firing case: MCOCA court sends all 11 accused to police custody till November 6"
+        "title": "Tiger Shroff firing case: MCOCA court sends all 11 accused to police custody till November 6",
+        "summary": "A special MCOCA court in Mumbai on Thursday remanded all eleven accused in the October 18 firing at actor Tiger Shroff's car to police custody till November 6. Police told the court they need custodial interrogation to unearth a deep-rooted conspiracy and trace digital and financial trails."
       },
       "hi": {
-        "summary": "मुंबई की विशेष मकोका अदालत ने गुरुवार को अभिनेता टाइगर श्रॉफ की कार पर 18 अक्टूबर को हुई फायरिंग के मामले में सभी ग्यारह आरोपियों को 6 नवंबर तक पुलिस हिरासत में भेज दिया। पुलिस ने अदालत से कहा कि गहरी साजिश का पता लगाने और डिजिटल व वित्तीय लेन-देन की जांच के लिए हिरासत में पूछताछ जरूरी है।",
-        "title": "टाइगर श्रॉफ फायरिंग केस: मकोका कोर्ट ने 11 आरोपियों को 6 नवंबर तक पुलिस हिरासत में भेजा"
+        "title": "टाइगर श्रॉफ फायरिंग केस: मकोका कोर्ट ने 11 आरोपियों को 6 नवंबर तक पुलिस हिरासत में भेजा",
+        "summary": "मुंबई की विशेष मकोका अदालत ने गुरुवार को अभिनेता टाइगर श्रॉफ की कार पर 18 अक्टूबर को हुई फायरिंग के मामले में सभी ग्यारह आरोपियों को 6 नवंबर तक पुलिस हिरासत में भेज दिया। पुलिस ने अदालत से कहा कि गहरी साजिश का पता लगाने और डिजिटल व वित्तीय लेन-देन की जांच के लिए हिरासत में पूछताछ जरूरी है।"
       }
     },
     {
@@ -9841,13 +9883,13 @@
       "breaking": false,
       "category": "Crime & Law",
       "en": {
-        "summary": "Actor Imran Khan has told the FRRO that the grounds cited for cancelling his OCI status are 'nebulous and contradictory', and has sought full disclosure of the Mumbai Police report and other materials behind the October 17 show-cause notice. The Bombay High Court hears the case next on November 2.",
-        "title": "Imran Khan tells FRRO its OCI-cancellation case is 'nebulous and contradictory', seeks the evidence against him"
+        "title": "Imran Khan tells FRRO its OCI-cancellation case is 'nebulous and contradictory', seeks the evidence against him",
+        "summary": "Actor Imran Khan has told the FRRO that the grounds cited for cancelling his OCI status are 'nebulous and contradictory', and has sought full disclosure of the Mumbai Police report and other materials behind the October 17 show-cause notice. The Bombay High Court hears the case next on November 2."
       },
       "featured": false,
       "hi": {
-        "summary": "अभिनेता इमरान खान ने एफ़आरआरओ से कहा है कि ओसीआई दर्जा रद्द करने की कार्रवाई के आधार 'अस्पष्ट और विरोधाभासी' हैं। उन्होंने 17 अक्टूबर की कारण बताओ नोटिस के पीछे की मुंबई पुलिस रिपोर्ट समेत सारे दस्तावेज़ मांगे हैं। बॉम्बे हाईकोर्ट में मामले की अगली सुनवाई 2 नवंबर को होगी।",
-        "title": "इमरान खान ने एफ़आरआरओ से कहा, ओसीआई रद्द करने का मामला 'अस्पष्ट और विरोधाभासी', सबूत मांगे"
+        "title": "इमरान खान ने एफ़आरआरओ से कहा, ओसीआई रद्द करने का मामला 'अस्पष्ट और विरोधाभासी', सबूत मांगे",
+        "summary": "अभिनेता इमरान खान ने एफ़आरआरओ से कहा है कि ओसीआई दर्जा रद्द करने की कार्रवाई के आधार 'अस्पष्ट और विरोधाभासी' हैं। उन्होंने 17 अक्टूबर की कारण बताओ नोटिस के पीछे की मुंबई पुलिस रिपोर्ट समेत सारे दस्तावेज़ मांगे हैं। बॉम्बे हाईकोर्ट में मामले की अगली सुनवाई 2 नवंबर को होगी।"
       },
       "id": "imran-khan-seeks-frro-evidence-oci-cancellation-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/imran-khan-seeks-frro-evidence-oci-cancellation-october-29.jpg",
@@ -9904,13 +9946,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "The four-day conclave in Beijing formally expelled 33 senior party, government and military officials, including former military chief Zhang Youxia, and set the 21st Party Congress for the second half of 2027, when Xi Jinping's bid for a fourth term will be decided.",
-        "title": "China's Communist Party expels 33 senior officials at Fifth Plenum, elevates top general to Politburo"
+        "title": "China's Communist Party expels 33 senior officials at Fifth Plenum, elevates top general to Politburo",
+        "summary": "The four-day conclave in Beijing formally expelled 33 senior party, government and military officials, including former military chief Zhang Youxia, and set the 21st Party Congress for the second half of 2027, when Xi Jinping's bid for a fourth term will be decided."
       },
       "featured": false,
       "hi": {
-        "summary": "बीजिंग में चार दिन चले पांचवें प्लेनम में पार्टी ने 33 वरिष्ठ पार्टी, सरकारी और सैन्य अधिकारियों को औपचारिक रूप से बाहर कर दिया, जिनमें पूर्व सैन्य प्रमुख झांग युशिया भी हैं, और 21वीं पार्टी कांग्रेस 2027 की दूसरी छमाही में तय की, जहां शी जिनपिंग के चौथे कार्यकाल पर फैसला होगा।",
-        "title": "चीन की कम्युनिस्ट पार्टी ने 33 बड़े अधिकारियों को बाहर निकाला, जनरल झांग शेंगमिन पोलितब्यूरो में"
+        "title": "चीन की कम्युनिस्ट पार्टी ने 33 बड़े अधिकारियों को बाहर निकाला, जनरल झांग शेंगमिन पोलितब्यूरो में",
+        "summary": "बीजिंग में चार दिन चले पांचवें प्लेनम में पार्टी ने 33 वरिष्ठ पार्टी, सरकारी और सैन्य अधिकारियों को औपचारिक रूप से बाहर कर दिया, जिनमें पूर्व सैन्य प्रमुख झांग युशिया भी हैं, और 21वीं पार्टी कांग्रेस 2027 की दूसरी छमाही में तय की, जहां शी जिनपिंग के चौथे कार्यकाल पर फैसला होगा।"
       },
       "id": "china-fifth-plenum-expels-33-officials-zhang-shengmin-politburo-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-fifth-plenum-expels-33-officials-zhang-shengmin-politburo-october-29.jpg",
@@ -9925,13 +9967,13 @@
       "breaking": false,
       "category": "Crime & Law",
       "en": {
-        "summary": "Justice P. Gopinath struck down Rule 7(37) of the Kerala Abkari Shops Disposal Rules, 2002, holding it violated Articles 14, 15, 19 and 21. The case was brought by Sophy of Thrissur, who was denied a toddy-shop job on compassionate grounds after her husband's death only because she is a woman.",
-        "title": "Kerala High Court strikes down ban on women working in toddy shops, says safety cannot mean exclusion"
+        "title": "Kerala High Court strikes down ban on women working in toddy shops, says safety cannot mean exclusion",
+        "summary": "Justice P. Gopinath struck down Rule 7(37) of the Kerala Abkari Shops Disposal Rules, 2002, holding it violated Articles 14, 15, 19 and 21. The case was brought by Sophy of Thrissur, who was denied a toddy-shop job on compassionate grounds after her husband's death only because she is a woman."
       },
       "featured": false,
       "hi": {
-        "summary": "जस्टिस पी. गोपीनाथ ने केरल आबकारी दुकान निपटान नियम, 2002 के नियम 7(37) को असंवैधानिक करार दिया, जो टॉडी शॉप में महिलाओं के किसी भी पद पर काम करने पर रोक लगाता था। यह याचिका त्रिशूर की सोफी ने दायर की थी, जिन्हें पति की मौत के बाद अनुकंपा के आधार पर नौकरी सिर्फ इसलिए नहीं मिली क्योंकि वह महिला हैं।",
-        "title": "केरल हाईकोर्ट ने टॉडी शॉप में महिलाओं पर लगी रोक हटाई, कहा — सुरक्षा के नाम पर काम से बाहर नहीं किया जा सकता"
+        "title": "केरल हाईकोर्ट ने टॉडी शॉप में महिलाओं पर लगी रोक हटाई, कहा — सुरक्षा के नाम पर काम से बाहर नहीं किया जा सकता",
+        "summary": "जस्टिस पी. गोपीनाथ ने केरल आबकारी दुकान निपटान नियम, 2002 के नियम 7(37) को असंवैधानिक करार दिया, जो टॉडी शॉप में महिलाओं के किसी भी पद पर काम करने पर रोक लगाता था। यह याचिका त्रिशूर की सोफी ने दायर की थी, जिन्हें पति की मौत के बाद अनुकंपा के आधार पर नौकरी सिर्फ इसलिए नहीं मिली क्योंकि वह महिला हैं।"
       },
       "id": "kerala-high-court-strikes-down-ban-women-toddy-shops-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kerala-high-court-strikes-down-ban-women-toddy-shops-october-29.jpg",
@@ -10052,13 +10094,13 @@
       "category": "Weather",
       "district": "Ganjam",
       "en": {
-        "summary": "Odisha is working with the Union Home Ministry to airlift stranded people from Ganjam district, where Cyclone Arnab's rain and flash floods have marooned around 300 villages. The state plans to fly out 120 people in the first phase, though low cloud and continuing rain could delay the flights.",
-        "title": "Cyclone Arnab's floods maroon 300 villages in Odisha's Ganjam; state plans airlift of 120 people"
+        "title": "Cyclone Arnab's floods maroon 300 villages in Odisha's Ganjam; state plans airlift of 120 people",
+        "summary": "Odisha is working with the Union Home Ministry to airlift stranded people from Ganjam district, where Cyclone Arnab's rain and flash floods have marooned around 300 villages. The state plans to fly out 120 people in the first phase, though low cloud and continuing rain could delay the flights."
       },
       "featured": false,
       "hi": {
-        "summary": "ओडिशा सरकार केंद्रीय गृह मंत्रालय के साथ मिलकर गंजाम जिले में फँसे लोगों को हवाई मार्ग से निकालने की तैयारी कर रही है, जहाँ चक्रवात अर्नब की बारिश और अचानक आई बाढ़ से करीब 300 गाँवों का संपर्क कट गया है। पहले चरण में 120 लोगों को निकालने की योजना है, हालाँकि बादल छाए रहने और बारिश जारी रहने से उड़ानें देर से शुरू हो सकती हैं।",
-        "title": "चक्रवात अर्नब की बाढ़ से गंजाम के करीब 300 गाँवों का संपर्क कटा, 120 लोगों को एयरलिफ्ट करने की तैयारी"
+        "title": "चक्रवात अर्नब की बाढ़ से गंजाम के करीब 300 गाँवों का संपर्क कटा, 120 लोगों को एयरलिफ्ट करने की तैयारी",
+        "summary": "ओडिशा सरकार केंद्रीय गृह मंत्रालय के साथ मिलकर गंजाम जिले में फँसे लोगों को हवाई मार्ग से निकालने की तैयारी कर रही है, जहाँ चक्रवात अर्नब की बारिश और अचानक आई बाढ़ से करीब 300 गाँवों का संपर्क कट गया है। पहले चरण में 120 लोगों को निकालने की योजना है, हालाँकि बादल छाए रहने और बारिश जारी रहने से उड़ानें देर से शुरू हो सकती हैं।"
       },
       "id": "cyclone-arnab-ganjam-300-villages-marooned-airlift-planned-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-arnab-ganjam-300-villages-marooned-airlift-planned-october-29.jpg",
@@ -10074,13 +10116,13 @@
       "breaking": false,
       "category": "India",
       "en": {
-        "summary": "Prime Minister Narendra Modi on Wednesday chaired the 54th meeting of PRAGATI at Seva Teerth, reviewing infrastructure projects worth more than ₹16,000 crore across 31 states and Union Territories — from railway station redevelopment and PM Ekta Malls to bulk drug parks — and pressed chief secretaries to chase outcomes, not just outlays.",
-        "title": "PM Modi chairs 54th PRAGATI meeting, reviews ₹16,000-crore projects across 31 states and UTs"
+        "title": "PM Modi chairs 54th PRAGATI meeting, reviews ₹16,000-crore projects across 31 states and UTs",
+        "summary": "Prime Minister Narendra Modi on Wednesday chaired the 54th meeting of PRAGATI at Seva Teerth, reviewing infrastructure projects worth more than ₹16,000 crore across 31 states and Union Territories — from railway station redevelopment and PM Ekta Malls to bulk drug parks — and pressed chief secretaries to chase outcomes, not just outlays."
       },
       "featured": false,
       "hi": {
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने बुधवार को सेवा तीर्थ में प्रगति की 54वीं बैठक की अध्यक्षता की, जिसमें 31 राज्यों और केंद्र शासित प्रदेशों में 16,000 करोड़ रुपये से अधिक की बुनियादी ढाँचा परियोजनाओं की समीक्षा हुई — रेलवे स्टेशन पुनर्विकास और पीएम एकता मॉल से लेकर बल्क ड्रग पार्क तक — और मुख्य सचिवों से कहा कि खर्च से ज़्यादा नतीजों पर ध्यान दिया जाए।",
-        "title": "पीएम मोदी ने की 54वीं प्रगति बैठक की अध्यक्षता, 31 राज्यों और केंद्र शासित प्रदेशों में 16,000 करोड़ रुपये से अधिक की परियोजनाओं की समीक्षा"
+        "title": "पीएम मोदी ने की 54वीं प्रगति बैठक की अध्यक्षता, 31 राज्यों और केंद्र शासित प्रदेशों में 16,000 करोड़ रुपये से अधिक की परियोजनाओं की समीक्षा",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने बुधवार को सेवा तीर्थ में प्रगति की 54वीं बैठक की अध्यक्षता की, जिसमें 31 राज्यों और केंद्र शासित प्रदेशों में 16,000 करोड़ रुपये से अधिक की बुनियादी ढाँचा परियोजनाओं की समीक्षा हुई — रेलवे स्टेशन पुनर्विकास और पीएम एकता मॉल से लेकर बल्क ड्रग पार्क तक — और मुख्य सचिवों से कहा कि खर्च से ज़्यादा नतीजों पर ध्यान दिया जाए।"
       },
       "id": "pm-modi-chairs-54th-pragati-meeting-16000-crore-projects-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-chairs-54th-pragati-meeting-16000-crore-projects-october-29.jpg",
@@ -10305,13 +10347,13 @@
       "breaking": false,
       "category": "Entertainment",
       "en": {
-        "summary": "A new Bigg Boss 20 promo shows Gullu and Yung DSA shoving each other during a captaincy task, sparking viewer demands for Gullu's eviction — though the makers have confirmed nothing. In the same episode, Mahhi Vij lost her captaincy and Love Gill broke down after ScoutOP nominated her.",
-        "title": "Bigg Boss 20: Gullu and Yung DSA clash physically in captaincy task, eviction calls grow; Mahhi Vij loses captaincy"
+        "title": "Bigg Boss 20: Gullu and Yung DSA clash physically in captaincy task, eviction calls grow; Mahhi Vij loses captaincy",
+        "summary": "A new Bigg Boss 20 promo shows Gullu and Yung DSA shoving each other during a captaincy task, sparking viewer demands for Gullu's eviction — though the makers have confirmed nothing. In the same episode, Mahhi Vij lost her captaincy and Love Gill broke down after ScoutOP nominated her."
       },
       "featured": false,
       "hi": {
-        "summary": "बिग बॉस 20 के नए प्रोमो में गुल्लू और यंग डीएसए कप्तानी टास्क के दौरान हाथापाई करते दिखे, जिसके बाद दर्शकों ने गुल्लू को बाहर करने की माँग तेज़ कर दी है — हालाँकि मेकर्स ने अभी कुछ घोषित नहीं किया है। उसी एपिसोड में माही विज की कप्तानी गई और स्काउटओपी के नॉमिनेट करने पर लव गिल भावुक हो गईं।",
-        "title": "बिग बॉस 20: कप्तानी टास्क में गुल्लू और यंग डीएसए के बीच हाथापाई, बाहर करने की माँग तेज़; माही विज से छिनी कप्तानी"
+        "title": "बिग बॉस 20: कप्तानी टास्क में गुल्लू और यंग डीएसए के बीच हाथापाई, बाहर करने की माँग तेज़; माही विज से छिनी कप्तानी",
+        "summary": "बिग बॉस 20 के नए प्रोमो में गुल्लू और यंग डीएसए कप्तानी टास्क के दौरान हाथापाई करते दिखे, जिसके बाद दर्शकों ने गुल्लू को बाहर करने की माँग तेज़ कर दी है — हालाँकि मेकर्स ने अभी कुछ घोषित नहीं किया है। उसी एपिसोड में माही विज की कप्तानी गई और स्काउटओपी के नॉमिनेट करने पर लव गिल भावुक हो गईं।"
       },
       "id": "bigg-boss-20-gullu-yung-clash-mahhi-loses-captaincy-october-29",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-gullu-yung-clash-mahhi-loses-captaincy-october-29.jpg",
@@ -10375,12 +10417,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-court-reserves-order-charges-november-18-october-29-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-court-reserves-order-charges-november-18-october-29-en.mp3",
       "en": {
-        "summary": "A special CBI court at Delhi's Rouse Avenue has reserved its order on framing of charges against the 14 accused in the NEET-UG 2026 paper leak case, and will pronounce it on November 18. The CBI alleges the 14th accused arranged the purported leaked questions for candidates before the exam and collected money from them.",
-        "title": "NEET-UG leak case: Delhi court reserves order on framing of charges against 14 accused, decision on November 18"
+        "title": "NEET-UG leak case: Delhi court reserves order on framing of charges against 14 accused, decision on November 18",
+        "summary": "A special CBI court at Delhi's Rouse Avenue has reserved its order on framing of charges against the 14 accused in the NEET-UG 2026 paper leak case, and will pronounce it on November 18. The CBI alleges the 14th accused arranged the purported leaked questions for candidates before the exam and collected money from them."
       },
       "hi": {
-        "summary": "दिल्ली के राउज़ एवेन्यू स्थित विशेष सीबीआई अदालत ने नीट-यूजी 2026 पेपर लीक मामले में 14 आरोपियों पर आरोप तय करने के मुद्दे पर अपना आदेश सुरक्षित रख लिया है, जो 18 नवंबर को सुनाया जाएगा। सीबीआई का आरोप है कि 14वें आरोपी ने परीक्षा से पहले अभ्यर्थियों को कथित लीक प्रश्न उपलब्ध कराए और उनसे पैसे वसूले।",
-        "title": "नीट-यूजी पेपर लीक मामला: दिल्ली कोर्ट ने 14 आरोपियों पर आरोप तय करने पर फैसला सुरक्षित रखा, 18 नवंबर को आएगा आदेश"
+        "title": "नीट-यूजी पेपर लीक मामला: दिल्ली कोर्ट ने 14 आरोपियों पर आरोप तय करने पर फैसला सुरक्षित रखा, 18 नवंबर को आएगा आदेश",
+        "summary": "दिल्ली के राउज़ एवेन्यू स्थित विशेष सीबीआई अदालत ने नीट-यूजी 2026 पेपर लीक मामले में 14 आरोपियों पर आरोप तय करने के मुद्दे पर अपना आदेश सुरक्षित रख लिया है, जो 18 नवंबर को सुनाया जाएगा। सीबीआई का आरोप है कि 14वें आरोपी ने परीक्षा से पहले अभ्यर्थियों को कथित लीक प्रश्न उपलब्ध कराए और उनसे पैसे वसूले।"
       }
     },
     {
@@ -10396,12 +10438,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cea-nageswaran-2026-resembles-1991-inflection-point-october-29-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cea-nageswaran-2026-resembles-1991-inflection-point-october-29-en.mp3",
       "en": {
-        "summary": "Chief Economic Adviser V Anantha Nageswaran has called 2025-26 an inflection point for India comparable to 1991 — not a balance-of-payments crisis, he stressed, but a moment of similar significance, shaped by six years of supply-side shocks from the pandemic to tariffs and the Gulf war.",
-        "title": "'2026 resembles 1991': CEA Nageswaran calls 2025-26 a critical inflection point for India's economy"
+        "title": "'2026 resembles 1991': CEA Nageswaran calls 2025-26 a critical inflection point for India's economy",
+        "summary": "Chief Economic Adviser V Anantha Nageswaran has called 2025-26 an inflection point for India comparable to 1991 — not a balance-of-payments crisis, he stressed, but a moment of similar significance, shaped by six years of supply-side shocks from the pandemic to tariffs and the Gulf war."
       },
       "hi": {
-        "summary": "मुख्य आर्थिक सलाहकार वी अनंत नागेश्वरन ने 2025-26 को भारत के लिए 1991 जैसा अहम मोड़ बताया है — उन्होंने साफ किया कि यह तुलना भुगतान संतुलन के संकट से नहीं, बल्कि उस दौर के महत्व से है, जो बीते छह साल के आपूर्ति पक्ष के झटकों से बना है, महामारी से लेकर टैरिफ और खाड़ी युद्ध तक।",
-        "title": "‘2026, 1991 जैसा’: मुख्य आर्थिक सलाहकार नागेश्वरन ने 2025-26 को भारत की अर्थव्यवस्था के लिए अहम मोड़ बताया"
+        "title": "‘2026, 1991 जैसा’: मुख्य आर्थिक सलाहकार नागेश्वरन ने 2025-26 को भारत की अर्थव्यवस्था के लिए अहम मोड़ बताया",
+        "summary": "मुख्य आर्थिक सलाहकार वी अनंत नागेश्वरन ने 2025-26 को भारत के लिए 1991 जैसा अहम मोड़ बताया है — उन्होंने साफ किया कि यह तुलना भुगतान संतुलन के संकट से नहीं, बल्कि उस दौर के महत्व से है, जो बीते छह साल के आपूर्ति पक्ष के झटकों से बना है, महामारी से लेकर टैरिफ और खाड़ी युद्ध तक।"
       }
     },
     {
@@ -11373,13 +11415,13 @@
       "breaking": false,
       "category": "Business",
       "en": {
-        "summary": "The US Federal Reserve left its benchmark interest rate unchanged on Wednesday, holding the federal funds range at 3.75% to 4.00%. Two members of the rate-setting committee dissented, preferring another quarter-point rise, and Chair Kevin Warsh was due to face reporters at midnight in India with markets listening for a signal on December.",
-        "title": "US Fed holds rates at 3.75% to 4.00% in a 10-2 vote, pausing a month after its first hike in three years"
+        "title": "US Fed holds rates at 3.75% to 4.00% in a 10-2 vote, pausing a month after its first hike in three years",
+        "summary": "The US Federal Reserve left its benchmark interest rate unchanged on Wednesday, holding the federal funds range at 3.75% to 4.00%. Two members of the rate-setting committee dissented, preferring another quarter-point rise, and Chair Kevin Warsh was due to face reporters at midnight in India with markets listening for a signal on December."
       },
       "featured": false,
       "hi": {
-        "summary": "अमेरिका के केंद्रीय बैंक फ़ेडरल रिज़र्व ने बुधवार को अपनी प्रमुख ब्याज दर में कोई बदलाव नहीं किया और फ़ेडरल फ़ंड्स दर को 3.75 से 4.00 प्रतिशत के दायरे में ही रखा। दर तय करने वाली समिति के दो सदस्यों ने एक-चौथाई प्रतिशत अंक की और बढ़ोतरी की पक्ष में मत दिया, और अध्यक्ष केविन वॉर्श को भारत में आधी रात को पत्रकारों से बात करनी थी, जिस पर बाज़ार दिसंबर के संकेत के लिए नज़र रखेंगे।",
-        "title": "अमेरिकी फ़ेडरल रिज़र्व ने ब्याज दरें 3.75 से 4.00 प्रतिशत पर बरक़रार रखीं, दस-दो के मत से फ़ैसला"
+        "title": "अमेरिकी फ़ेडरल रिज़र्व ने ब्याज दरें 3.75 से 4.00 प्रतिशत पर बरक़रार रखीं, दस-दो के मत से फ़ैसला",
+        "summary": "अमेरिका के केंद्रीय बैंक फ़ेडरल रिज़र्व ने बुधवार को अपनी प्रमुख ब्याज दर में कोई बदलाव नहीं किया और फ़ेडरल फ़ंड्स दर को 3.75 से 4.00 प्रतिशत के दायरे में ही रखा। दर तय करने वाली समिति के दो सदस्यों ने एक-चौथाई प्रतिशत अंक की और बढ़ोतरी की पक्ष में मत दिया, और अध्यक्ष केविन वॉर्श को भारत में आधी रात को पत्रकारों से बात करनी थी, जिस पर बाज़ार दिसंबर के संकेत के लिए नज़र रखेंगे।"
       },
       "id": "us-fed-holds-rates-3-75-4-00-october-28",
       "source": "PrimeFeed Desk",
@@ -11711,13 +11753,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "MEA spokesperson Randhir Jaiswal told Wednesday's briefing that 22 Indian nationals, including 14 seafarers, have been killed in the West Asia conflict since February; three died in Saudi Arabia, and New Delhi says it is in close touch with the Indian community across the Gulf over their safety.",
-        "title": "22 Indians killed in West Asia conflict since February, 14 of them seafarers, MEA says"
+        "title": "22 Indians killed in West Asia conflict since February, 14 of them seafarers, MEA says",
+        "summary": "MEA spokesperson Randhir Jaiswal told Wednesday's briefing that 22 Indian nationals, including 14 seafarers, have been killed in the West Asia conflict since February; three died in Saudi Arabia, and New Delhi says it is in close touch with the Indian community across the Gulf over their safety."
       },
       "featured": false,
       "hi": {
-        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने बुधवार की ब्रीफिंग में बताया कि पश्चिम एशिया संघर्ष में फरवरी से अब तक 22 भारतीय नागरिक मारे गए हैं, जिनमें 14 नाविक शामिल हैं; सऊदी अरब में तीन भारतीयों की मौत हुई है, और सरकार खाड़ी क्षेत्र में भारतीय समुदाय के संपर्क में है।",
-        "title": "पश्चिम एशिया संघर्ष में फरवरी से अब तक 22 भारतीयों की मौत, 14 नाविक थे: विदेश मंत्रालय"
+        "title": "पश्चिम एशिया संघर्ष में फरवरी से अब तक 22 भारतीयों की मौत, 14 नाविक थे: विदेश मंत्रालय",
+        "summary": "विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने बुधवार की ब्रीफिंग में बताया कि पश्चिम एशिया संघर्ष में फरवरी से अब तक 22 भारतीय नागरिक मारे गए हैं, जिनमें 14 नाविक शामिल हैं; सऊदी अरब में तीन भारतीयों की मौत हुई है, और सरकार खाड़ी क्षेत्र में भारतीय समुदाय के संपर्क में है।"
       },
       "id": "mea-22-indians-killed-west-asia-conflict-october-28",
       "source": "PrimeFeed Desk",
@@ -11732,13 +11774,13 @@
       "breaking": false,
       "category": "Business",
       "en": {
-        "summary": "Tata Trusts chairman Noel Tata will leave the boards of six Tata Group companies on November 12, when he turns 70, under the group's retirement policy for non-executive directors — while staying on as a Tata Trusts nominee director on the Tata Sons board.",
-        "title": "Noel Tata to step down from six Tata Group boards on November 12 as he turns 70"
+        "title": "Noel Tata to step down from six Tata Group boards on November 12 as he turns 70",
+        "summary": "Tata Trusts chairman Noel Tata will leave the boards of six Tata Group companies on November 12, when he turns 70, under the group's retirement policy for non-executive directors — while staying on as a Tata Trusts nominee director on the Tata Sons board."
       },
       "featured": false,
       "hi": {
-        "summary": "टाटा ट्रस्ट्स के चेयरमैन नोएल टाटा 12 नवंबर को छह टाटा ग्रुप कंपनियों के बोर्ड से हट जाएंगे, जब वह 70 साल के हो जाएंगे — समूह की सेवानिवृत्ति नीति के तहत। वह टाटा संस के बोर्ड में टाटा ट्रस्ट्स के नॉमिनी निदेशक बने रहेंगे।",
-        "title": "नोएल टाटा 12 नवंबर को छह टाटा कंपनियों के बोर्ड से हटेंगे, 70 साल के हो रहे हैं"
+        "title": "नोएल टाटा 12 नवंबर को छह टाटा कंपनियों के बोर्ड से हटेंगे, 70 साल के हो रहे हैं",
+        "summary": "टाटा ट्रस्ट्स के चेयरमैन नोएल टाटा 12 नवंबर को छह टाटा ग्रुप कंपनियों के बोर्ड से हट जाएंगे, जब वह 70 साल के हो जाएंगे — समूह की सेवानिवृत्ति नीति के तहत। वह टाटा संस के बोर्ड में टाटा ट्रस्ट्स के नॉमिनी निदेशक बने रहेंगे।"
       },
       "id": "noel-tata-steps-down-six-tata-boards-november-12",
       "source": "PrimeFeed Desk",
@@ -11799,13 +11841,13 @@
       "breaking": false,
       "category": "Cricket & Sports",
       "en": {
-        "summary": "The Women's Premier League mini-auction in Kochi on Wednesday ended with just 10 of 150 players sold, as franchises kept their purses largely shut. Australia captain Sophie Molineux, bought by UP Warriorz for Rs 1.1 crore, was the costliest pick, while Royal Challengers Bengaluru did not buy a single player.",
-        "title": "WPL 2027 auction ends with only 10 buys: Molineux costliest at Rs 1.1 crore, RCB sign nobody"
+        "title": "WPL 2027 auction ends with only 10 buys: Molineux costliest at Rs 1.1 crore, RCB sign nobody",
+        "summary": "The Women's Premier League mini-auction in Kochi on Wednesday ended with just 10 of 150 players sold, as franchises kept their purses largely shut. Australia captain Sophie Molineux, bought by UP Warriorz for Rs 1.1 crore, was the costliest pick, while Royal Challengers Bengaluru did not buy a single player."
       },
       "featured": false,
       "hi": {
-        "summary": "कोच्चि में बुधवार को हुई वीमेंस प्रीमियर लीग की मिनी नीलामी में 150 में से सिर्फ 10 खिलाड़ी बिके। ऑस्ट्रेलिया की कप्तान सोफ़ी मोलिन्यू को यूपी वॉरियर्स ने ₹1.1 करोड़ में खरीदा, वह नीलामी की सबसे महंगी खिलाड़ी रहीं, जबकि रॉयल चैलेंजर्स बेंगलुरु ने एक भी खिलाड़ी नहीं खरीदा।",
-        "title": "डब्ल्यूपीएल 2027 नीलामी में सिर्फ 10 खिलाड़ी बिके, मोलिन्यू ₹1.1 करोड़ में सबसे महंगी"
+        "title": "डब्ल्यूपीएल 2027 नीलामी में सिर्फ 10 खिलाड़ी बिके, मोलिन्यू ₹1.1 करोड़ में सबसे महंगी",
+        "summary": "कोच्चि में बुधवार को हुई वीमेंस प्रीमियर लीग की मिनी नीलामी में 150 में से सिर्फ 10 खिलाड़ी बिके। ऑस्ट्रेलिया की कप्तान सोफ़ी मोलिन्यू को यूपी वॉरियर्स ने ₹1.1 करोड़ में खरीदा, वह नीलामी की सबसे महंगी खिलाड़ी रहीं, जबकि रॉयल चैलेंजर्स बेंगलुरु ने एक भी खिलाड़ी नहीं खरीदा।"
       },
       "id": "wpl-2027-auction-final-list-ten-sold-molineux-costliest-kochi",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wpl-2027-auction-final-list-ten-sold-molineux-costliest-kochi.jpg",
@@ -11820,13 +11862,13 @@
       "breaking": false,
       "category": "Entertainment",
       "en": {
-        "summary": "Veteran television producer-director Brijendra Pal Singh, the man behind CID and Aahat, died on Tuesday morning after a massive heart attack. He was 77. His funeral was held in Mumbai on Wednesday, where the CID cast led by Shivaji Satam paid its last respects.",
-        "title": "CID and Aahat creator BP Singh dies at 77; CID cast bids farewell at Mumbai funeral"
+        "title": "CID and Aahat creator BP Singh dies at 77; CID cast bids farewell at Mumbai funeral",
+        "summary": "Veteran television producer-director Brijendra Pal Singh, the man behind CID and Aahat, died on Tuesday morning after a massive heart attack. He was 77. His funeral was held in Mumbai on Wednesday, where the CID cast led by Shivaji Satam paid its last respects."
       },
       "featured": false,
       "hi": {
-        "summary": "सीआईडी और आहट जैसी यादगार धारावाहिकों के रचयिता, दिग्गज टेलीविज़न निर्माता निर्देशक बृजेंद्र पाल सिंह का मंगलवार सुबह दिल का दौरा पड़ने से निधन हो गया। वह 77 साल के थे। बुधवार को मुंबई में उनका अंतिम संस्कार हुआ, जहाँ शिवाजी साटम के नेतृत्व में सीआईडी की टीम ने उन्हें अंतिम विदाई दी।",
-        "title": "सीआईडी और आहट के रचयिता बीपी सिंह का 77 साल की उम्र में निधन, मुंबई में हुआ अंतिम संस्कार"
+        "title": "सीआईडी और आहट के रचयिता बीपी सिंह का 77 साल की उम्र में निधन, मुंबई में हुआ अंतिम संस्कार",
+        "summary": "सीआईडी और आहट जैसी यादगार धारावाहिकों के रचयिता, दिग्गज टेलीविज़न निर्माता निर्देशक बृजेंद्र पाल सिंह का मंगलवार सुबह दिल का दौरा पड़ने से निधन हो गया। वह 77 साल के थे। बुधवार को मुंबई में उनका अंतिम संस्कार हुआ, जहाँ शिवाजी साटम के नेतृत्व में सीआईडी की टीम ने उन्हें अंतिम विदाई दी।"
       },
       "id": "cid-aahat-creator-bp-singh-dies-77-funeral-mumbai-october-28",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cid-aahat-creator-bp-singh-dies-77-funeral-mumbai-october-28.jpg",
@@ -11869,12 +11911,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spain-toledo-train-toll-rises-64-dead-october-28-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spain-toledo-train-toll-rises-64-dead-october-28-en.mp3",
       "en": {
-        "summary": "The death toll from Wednesday morning's high-speed collision near Urda in Toledo province has risen to 64, regional president Emiliano García-Page announced, with 40 of the dead on the Iryo train and 24 on the Renfe service. Officials warn the toll may rise further as rescue teams work through the two most damaged carriages.",
-        "title": "Spain train disaster toll climbs to 64, now the country's deadliest rail crash since 2013"
+        "title": "Spain train disaster toll climbs to 64, now the country's deadliest rail crash since 2013",
+        "summary": "The death toll from Wednesday morning's high-speed collision near Urda in Toledo province has risen to 64, regional president Emiliano García-Page announced, with 40 of the dead on the Iryo train and 24 on the Renfe service. Officials warn the toll may rise further as rescue teams work through the two most damaged carriages."
       },
       "hi": {
-        "summary": "मध्य स्पेन में बुधवार सुबह उरदा के पास हुई हाई-स्पीड ट्रेन टक्कर में मरने वालों की संख्या बढ़कर चौंसठ हो गई है। कास्तिया-ला मांचा क्षेत्र के अध्यक्ष एमिलियानो गार्सिया-पेज ने बताया कि इरियो ट्रेन में चालीस और रेनफ़े सेवा में चौबीस लोगों की मौत हुई है। अधिकारियों ने चेतावनी दी है कि सबसे ज़्यादा क्षतिग्रस्त दो डिब्बों में बचाव कार्य जारी रहने के कारण यह आंकड़ा अभी और बढ़ सकता है।",
-        "title": "स्पेन ट्रेन हादसे में मरने वालों की संख्या चौंसठ हुई, दो हज़ार तेरह के बाद सबसे घातक रेल दुर्घटना"
+        "title": "स्पेन ट्रेन हादसे में मरने वालों की संख्या चौंसठ हुई, दो हज़ार तेरह के बाद सबसे घातक रेल दुर्घटना",
+        "summary": "मध्य स्पेन में बुधवार सुबह उरदा के पास हुई हाई-स्पीड ट्रेन टक्कर में मरने वालों की संख्या बढ़कर चौंसठ हो गई है। कास्तिया-ला मांचा क्षेत्र के अध्यक्ष एमिलियानो गार्सिया-पेज ने बताया कि इरियो ट्रेन में चालीस और रेनफ़े सेवा में चौबीस लोगों की मौत हुई है। अधिकारियों ने चेतावनी दी है कि सबसे ज़्यादा क्षतिग्रस्त दो डिब्बों में बचाव कार्य जारी रहने के कारण यह आंकड़ा अभी और बढ़ सकता है।"
       }
     },
     {
@@ -11890,12 +11932,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neelam-sirohi-wins-silver-wrestling-worlds-astana-october-28-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neelam-sirohi-wins-silver-wrestling-worlds-astana-october-28-en.mp3",
       "en": {
-        "summary": "Neelam Sirohi won silver in the women's 50kg at the World Wrestling Championships in Astana on Wednesday, losing the final to four-time world champion Yui Susaki of Japan. The 26-year-old from Mathura is only the second Indian woman ever to reach a senior Worlds final.",
-        "title": "Neelam Sirohi takes wrestling Worlds silver after final loss to Japan's Susaki"
+        "title": "Neelam Sirohi takes wrestling Worlds silver after final loss to Japan's Susaki",
+        "summary": "Neelam Sirohi won silver in the women's 50kg at the World Wrestling Championships in Astana on Wednesday, losing the final to four-time world champion Yui Susaki of Japan. The 26-year-old from Mathura is only the second Indian woman ever to reach a senior Worlds final."
       },
       "hi": {
-        "summary": "नीलम सिरोही ने बुधवार को अस्ताना में विश्व कुश्ती चैंपियनशिप में महिलाओं के पचास किलो वर्ग में रजत पदक जीता। फ़ाइनल में वे जापान की चार बार की विश्व चैंपियन यूई सुसाकी से हार गईं। मथुरा की छब्बीस साल की नीलम सीनियर विश्व चैंपियनशिप के फ़ाइनल में पहुंचने वाली दूसरी भारतीय महिला हैं।",
-        "title": "नीलम सिरोही ने कुश्ती विश्व चैंपियनशिप में जीता रजत, फ़ाइनल में जापान की सुसाकी से हारीं"
+        "title": "नीलम सिरोही ने कुश्ती विश्व चैंपियनशिप में जीता रजत, फ़ाइनल में जापान की सुसाकी से हारीं",
+        "summary": "नीलम सिरोही ने बुधवार को अस्ताना में विश्व कुश्ती चैंपियनशिप में महिलाओं के पचास किलो वर्ग में रजत पदक जीता। फ़ाइनल में वे जापान की चार बार की विश्व चैंपियन यूई सुसाकी से हार गईं। मथुरा की छब्बीस साल की नीलम सीनियर विश्व चैंपियनशिप के फ़ाइनल में पहुंचने वाली दूसरी भारतीय महिला हैं।"
       }
     },
     {
@@ -12079,12 +12121,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spain-toledo-train-collision-50-dead-october-28-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spain-toledo-train-collision-50-dead-october-28-en.mp3",
       "en": {
-        "summary": "A Renfe AVE train struck the rear of a stopped Iryo service near Urda on Wednesday morning, derailing two carriages down an embankment. Spanish media put the death toll at at least 50, with 179 people injured, and officials warned the toll could still rise.",
-        "title": "At least 50 killed as high-speed train rams stationary service in Spain's Toledo province"
+        "title": "At least 50 killed as high-speed train rams stationary service in Spain's Toledo province",
+        "summary": "A Renfe AVE train struck the rear of a stopped Iryo service near Urda on Wednesday morning, derailing two carriages down an embankment. Spanish media put the death toll at at least 50, with 179 people injured, and officials warned the toll could still rise."
       },
       "hi": {
-        "summary": "बुधवार सुबह उरदा के पास रेनफ़े की एवीई ट्रेन रुकी हुई इरियो ट्रेन के पीछे से टकरा गई, जिससे दो डिब्बे पटरी से उतरकर ढलान पर जा गिरे। स्पेनिश मीडिया के अनुसार कम से कम पचास लोगों की मौत हुई है और एक सौ उन्यासी लोग घायल हैं, और अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या अभी और बढ़ सकती है।",
-        "title": "स्पेन के टोलेडो में खड़ी ट्रेन से टकराई हाई-स्पीड ट्रेन, कम से कम पचास लोगों की मौत"
+        "title": "स्पेन के टोलेडो में खड़ी ट्रेन से टकराई हाई-स्पीड ट्रेन, कम से कम पचास लोगों की मौत",
+        "summary": "बुधवार सुबह उरदा के पास रेनफ़े की एवीई ट्रेन रुकी हुई इरियो ट्रेन के पीछे से टकरा गई, जिससे दो डिब्बे पटरी से उतरकर ढलान पर जा गिरे। स्पेनिश मीडिया के अनुसार कम से कम पचास लोगों की मौत हुई है और एक सौ उन्यासी लोग घायल हैं, और अधिकारियों ने चेतावनी दी है कि मृतकों की संख्या अभी और बढ़ सकती है।"
       }
     },
     {
@@ -12498,13 +12540,13 @@
       "breaking": false,
       "category": "Crime & Law",
       "en": {
-        "summary": "A bench led by Chief Justice Surya Kant refused to consolidate more than 30 cyber-crime complaints against Gourab Kumar Saha and Nidhi Bhandari, saying digital arrests targeting senior citizens are 'digital dacoity' and the accused cannot use one proceeding to disrupt investigations across states.",
-        "title": "Supreme Court calls digital arrests 'digital dacoity', refuses to club 30-plus cyber cases against two accused"
+        "title": "Supreme Court calls digital arrests 'digital dacoity', refuses to club 30-plus cyber cases against two accused",
+        "summary": "A bench led by Chief Justice Surya Kant refused to consolidate more than 30 cyber-crime complaints against Gourab Kumar Saha and Nidhi Bhandari, saying digital arrests targeting senior citizens are 'digital dacoity' and the accused cannot use one proceeding to disrupt investigations across states."
       },
       "featured": false,
       "hi": {
-        "summary": "मुख्य न्यायाधीश सूर्यकांत की अध्यक्षता वाली पीठ ने गौरब कुमार साहा और निधि भंडारी के खिलाफ 12 राज्यों में लंबित 30 से ज़्यादा साइबर अपराध शिकायतों को एक साथ जोड़ने से इनकार कर दिया। कोर्ट ने कहा कि वरिष्ठ नागरिकों को निशाना बनाने वाले डिजिटल अरेस्ट 'डिजिटल डकैती' हैं और आरोपी एक कार्यवाही के ज़रिए अलग-अलग राज्यों की जांच में बाधा नहीं डाल सकते।",
-        "title": "सुप्रीम कोर्ट ने डिजिटल अरेस्ट को 'डिजिटल डकैती' कहा, दो आरोपियों के खिलाफ 30 से ज़्यादा साइबर मामलों को एक साथ जोड़ने से इनकार"
+        "title": "सुप्रीम कोर्ट ने डिजिटल अरेस्ट को 'डिजिटल डकैती' कहा, दो आरोपियों के खिलाफ 30 से ज़्यादा साइबर मामलों को एक साथ जोड़ने से इनकार",
+        "summary": "मुख्य न्यायाधीश सूर्यकांत की अध्यक्षता वाली पीठ ने गौरब कुमार साहा और निधि भंडारी के खिलाफ 12 राज्यों में लंबित 30 से ज़्यादा साइबर अपराध शिकायतों को एक साथ जोड़ने से इनकार कर दिया। कोर्ट ने कहा कि वरिष्ठ नागरिकों को निशाना बनाने वाले डिजिटल अरेस्ट 'डिजिटल डकैती' हैं और आरोपी एक कार्यवाही के ज़रिए अलग-अलग राज्यों की जांच में बाधा नहीं डाल सकते।"
       },
       "id": "supreme-court-digital-arrest-digital-dacoity-refuses-consolidate-cases",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-digital-arrest-digital-dacoity-refuses-consolidate-cases.jpg",
@@ -12568,12 +12610,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/centre-high-level-team-probe-kuno-cheetah-death-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/centre-high-level-team-probe-kuno-cheetah-death-en.mp3",
       "en": {
-        "summary": "A day after 19-month-old KNG22 died at Kuno, the Union environment ministry has deputed a three-member team of National Tiger Conservation Authority and Wildlife Crime Control Bureau officers to investigate the shooting, the first reported killing of a cheetah since the species returned to India in 2022.",
-        "title": "Centre sends high-level team to probe Kuno cheetah's death from pellet injuries"
+        "title": "Centre sends high-level team to probe Kuno cheetah's death from pellet injuries",
+        "summary": "A day after 19-month-old KNG22 died at Kuno, the Union environment ministry has deputed a three-member team of National Tiger Conservation Authority and Wildlife Crime Control Bureau officers to investigate the shooting, the first reported killing of a cheetah since the species returned to India in 2022."
       },
       "hi": {
-        "summary": "19 महीने के केएनजी22 की कूनो में मौत के एक दिन बाद केंद्रीय पर्यावरण मंत्रालय ने राष्ट्रीय बाघ संरक्षण प्राधिकरण और वन्यजीव अपराध नियंत्रण ब्यूरो के अधिकारियों की तीन सदस्यीय टीम को गोलीबारी की जांच के लिए भेजा है। 2022 में भारत में चीते की वापसी के बाद किसी चीते की हत्या का यह पहला मामला है।",
-        "title": "कूनो चीते की मौत की जांच के लिए केंद्र ने भेजी उच्चस्तरीय टीम, पेलेट की चोटों से हुई थी मौत"
+        "title": "कूनो चीते की मौत की जांच के लिए केंद्र ने भेजी उच्चस्तरीय टीम, पेलेट की चोटों से हुई थी मौत",
+        "summary": "19 महीने के केएनजी22 की कूनो में मौत के एक दिन बाद केंद्रीय पर्यावरण मंत्रालय ने राष्ट्रीय बाघ संरक्षण प्राधिकरण और वन्यजीव अपराध नियंत्रण ब्यूरो के अधिकारियों की तीन सदस्यीय टीम को गोलीबारी की जांच के लिए भेजा है। 2022 में भारत में चीते की वापसी के बाद किसी चीते की हत्या का यह पहला मामला है।"
       }
     },
     {
@@ -12589,12 +12631,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sambhal-ganga-expressway-sleeper-bus-overturns-20-injured-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sambhal-ganga-expressway-sleeper-bus-overturns-20-injured-en.mp3",
       "en": {
-        "summary": "A double-decker sleeper bus carrying 150 to 200 migrant workers and their families home for Diwali and Chhath overturned near Pawasa in Uttar Pradesh's Sambhal district early on Wednesday, injuring more than 20 people, who were taken to Sambhal District Hospital.",
-        "title": "Over 20 injured as overcrowded Bihar-bound sleeper bus overturns on Ganga Expressway in Sambhal"
+        "title": "Over 20 injured as overcrowded Bihar-bound sleeper bus overturns on Ganga Expressway in Sambhal",
+        "summary": "A double-decker sleeper bus carrying 150 to 200 migrant workers and their families home for Diwali and Chhath overturned near Pawasa in Uttar Pradesh's Sambhal district early on Wednesday, injuring more than 20 people, who were taken to Sambhal District Hospital."
       },
       "hi": {
-        "summary": "दिवाली और छठ के लिए घर लौट रहे 150 से 200 प्रवासी मजदूरों और उनके परिवारों को लेकर जा रही डबल-डेकर स्लीपर बस बुधवार तड़के उत्तर प्रदेश के संभल जिले में पवांसा के पास पलट गई, जिसमें 20 से अधिक लोग घायल हो गए। सभी घायलों को संभल जिला अस्पताल पहुंचाया गया है।",
-        "title": "संभल में गंगा एक्सप्रेसवे पर पलटी बिहार जा रही खचाखच भरी स्लीपर बस, 20 से अधिक घायल"
+        "title": "संभल में गंगा एक्सप्रेसवे पर पलटी बिहार जा रही खचाखच भरी स्लीपर बस, 20 से अधिक घायल",
+        "summary": "दिवाली और छठ के लिए घर लौट रहे 150 से 200 प्रवासी मजदूरों और उनके परिवारों को लेकर जा रही डबल-डेकर स्लीपर बस बुधवार तड़के उत्तर प्रदेश के संभल जिले में पवांसा के पास पलट गई, जिसमें 20 से अधिक लोग घायल हो गए। सभी घायलों को संभल जिला अस्पताल पहुंचाया गया है।"
       },
       "district": "Sambhal",
       "state": "Uttar Pradesh"
@@ -12738,12 +12780,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jailer-2-crosses-744-crore-worldwide-day-13-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jailer-2-crosses-744-crore-worldwide-day-13-en.mp3",
       "en": {
-        "summary": "Rajinikanth's Jailer 2 has grossed Rs 744 crore worldwide in 13 days, with Rs 415.65 crore net in India and Rs 257.50 crore overseas, making it the highest-grossing Indian film of 2026 so far and the first Tamil film to cross Rs 700 crore worldwide.",
-        "title": "Jailer 2 crosses Rs 744 crore worldwide in 13 days, becomes Kollywood's first Rs 700-crore film"
+        "title": "Jailer 2 crosses Rs 744 crore worldwide in 13 days, becomes Kollywood's first Rs 700-crore film",
+        "summary": "Rajinikanth's Jailer 2 has grossed Rs 744 crore worldwide in 13 days, with Rs 415.65 crore net in India and Rs 257.50 crore overseas, making it the highest-grossing Indian film of 2026 so far and the first Tamil film to cross Rs 700 crore worldwide."
       },
       "hi": {
-        "summary": "रजनीकांत की फिल्म जेलर 2 ने 13 दिनों में दुनिया भर में 744 करोड़ रुपये की कमाई कर ली है। भारत में इसका नेट कलेक्शन 415.65 करोड़ रुपये और विदेशों में 257.50 करोड़ रुपये रहा है। यह 2026 की अब तक की सबसे ज्यादा कमाई करने वाली भारतीय फिल्म बन गई है और 700 करोड़ पार करने वाली पहली तमिल फिल्म भी है।",
-        "title": "जेलर 2 ने 13 दिन में पार किया 744 करोड़ का आंकड़ा, 700 करोड़ वाली पहली तमिल फिल्म बनी"
+        "title": "जेलर 2 ने 13 दिन में पार किया 744 करोड़ का आंकड़ा, 700 करोड़ वाली पहली तमिल फिल्म बनी",
+        "summary": "रजनीकांत की फिल्म जेलर 2 ने 13 दिनों में दुनिया भर में 744 करोड़ रुपये की कमाई कर ली है। भारत में इसका नेट कलेक्शन 415.65 करोड़ रुपये और विदेशों में 257.50 करोड़ रुपये रहा है। यह 2026 की अब तक की सबसे ज्यादा कमाई करने वाली भारतीय फिल्म बन गई है और 700 करोड़ पार करने वाली पहली तमिल फिल्म भी है।"
       }
     },
     {
@@ -12759,12 +12801,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-umesh-dwivedi-lucknow-teachers-hat-trick-up-mlc-tally-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-umesh-dwivedi-lucknow-teachers-hat-trick-up-mlc-tally-en.mp3",
       "en": {
-        "summary": "BJP candidate Umesh Dwivedi has won the Lucknow Teachers' constituency for the third consecutive time, taking the BJP's tally to four seats against the Samajwadi Party's one in the Uttar Pradesh Legislative Council elections, with counting still under way in the remaining six seats.",
-        "title": "BJP's Umesh Dwivedi wins Lucknow Teachers' seat for a third time as BJP takes 4-1 lead in UP Council polls"
+        "title": "BJP's Umesh Dwivedi wins Lucknow Teachers' seat for a third time as BJP takes 4-1 lead in UP Council polls",
+        "summary": "BJP candidate Umesh Dwivedi has won the Lucknow Teachers' constituency for the third consecutive time, taking the BJP's tally to four seats against the Samajwadi Party's one in the Uttar Pradesh Legislative Council elections, with counting still under way in the remaining six seats."
       },
       "hi": {
-        "summary": "भाजपा उम्मीदवार उमेश द्विवेदी ने लगातार तीसरी बार लखनऊ शिक्षक निर्वाचन क्षेत्र से जीत हासिल की है। इसके साथ उत्तर प्रदेश विधान परिषद चुनाव में भाजपा की सीटों की संख्या चार हो गई है, जबकि समाजवादी पार्टी के पास अब तक एक सीट है और बाकी छह सीटों पर गिनती जारी है।",
-        "title": "उमेश द्विवेदी ने तीसरी बार जीती लखनऊ शिक्षक सीट, यूपी परिषद चुनाव में भाजपा 4-1 से आगे"
+        "title": "उमेश द्विवेदी ने तीसरी बार जीती लखनऊ शिक्षक सीट, यूपी परिषद चुनाव में भाजपा 4-1 से आगे",
+        "summary": "भाजपा उम्मीदवार उमेश द्विवेदी ने लगातार तीसरी बार लखनऊ शिक्षक निर्वाचन क्षेत्र से जीत हासिल की है। इसके साथ उत्तर प्रदेश विधान परिषद चुनाव में भाजपा की सीटों की संख्या चार हो गई है, जबकि समाजवादी पार्टी के पास अब तक एक सीट है और बाकी छह सीटों पर गिनती जारी है।"
       }
     },
     {
@@ -12780,12 +12822,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-tumbles-647-points-nifty-below-22600-october-28-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-tumbles-647-points-nifty-below-22600-october-28-en.mp3",
       "en": {
-        "summary": "Indian benchmarks opened sharply lower on Wednesday — the Sensex down 646.71 points to 72,951.96 and the Nifty down 155.20 to 22,594.55 — as Brent crude held above $115 a barrel and investors waited on the US Federal Reserve's policy decision, with Jio Platforms' market debut also in focus.",
-        "title": "Sensex plunges 647 points at open, Nifty slips below 22,600 as crude spikes and Fed decision looms"
+        "title": "Sensex plunges 647 points at open, Nifty slips below 22,600 as crude spikes and Fed decision looms",
+        "summary": "Indian benchmarks opened sharply lower on Wednesday — the Sensex down 646.71 points to 72,951.96 and the Nifty down 155.20 to 22,594.55 — as Brent crude held above $115 a barrel and investors waited on the US Federal Reserve's policy decision, with Jio Platforms' market debut also in focus."
       },
       "hi": {
-        "summary": "बुधवार को भारतीय बाजार कमजोर खुले — सेंसेक्स 646.71 अंक गिरकर 72,951.96 पर और निफ्टी 155.20 अंक टूटकर 22,594.55 पर आ गया। ब्रेंट कच्चा तेल 115 डॉलर प्रति बैरल से ऊपर बना हुआ है और निवेशक अमेरिकी फेडरल रिज़र्व के फैसले का इंतजार कर रहे हैं, साथ ही जियो प्लेटफॉर्म्स की लिस्टिंग पर भी सबकी नजर है।",
-        "title": "खुलते ही सेंसेक्स 647 अंक टूटा, निफ्टी 22,600 के नीचे; कच्चा तेल महंगा, फेड के फैसले पर टिकी नजर"
+        "title": "खुलते ही सेंसेक्स 647 अंक टूटा, निफ्टी 22,600 के नीचे; कच्चा तेल महंगा, फेड के फैसले पर टिकी नजर",
+        "summary": "बुधवार को भारतीय बाजार कमजोर खुले — सेंसेक्स 646.71 अंक गिरकर 72,951.96 पर और निफ्टी 155.20 अंक टूटकर 22,594.55 पर आ गया। ब्रेंट कच्चा तेल 115 डॉलर प्रति बैरल से ऊपर बना हुआ है और निवेशक अमेरिकी फेडरल रिज़र्व के फैसले का इंतजार कर रहे हैं, साथ ही जियो प्लेटफॉर्म्स की लिस्टिंग पर भी सबकी नजर है।"
       }
     },
     {
@@ -12943,13 +12985,13 @@
       "breaking": false,
       "category": "Politics",
       "en": {
-        "summary": "The first two declared results from Uttar Pradesh's 11 Legislative Council seats have gone to the BJP, with Dinesh Kumar Goyal winning the Meerut graduates' seat and Shri Chand Sharma the teachers' seat. Counting was still under way late on Tuesday for the other nine seats, with the Samajwadi Party leading the Varanasi teachers' race, even as SP chief Akhilesh Yadav accused the administration of deliberately slowing the count.",
-        "title": "BJP takes both Meerut seats in UP Council polls as counting drags on in nine others"
+        "title": "BJP takes both Meerut seats in UP Council polls as counting drags on in nine others",
+        "summary": "The first two declared results from Uttar Pradesh's 11 Legislative Council seats have gone to the BJP, with Dinesh Kumar Goyal winning the Meerut graduates' seat and Shri Chand Sharma the teachers' seat. Counting was still under way late on Tuesday for the other nine seats, with the Samajwadi Party leading the Varanasi teachers' race, even as SP chief Akhilesh Yadav accused the administration of deliberately slowing the count."
       },
       "featured": false,
       "hi": {
-        "summary": "उत्तर प्रदेश की 11 विधान परिषद सीटों में से पहले दो घोषित नतीजे भाजपा के पक्ष में गए हैं — मेरठ स्नातक सीट से दिनेश कुमार गोयल और शिक्षक सीट से श्री चंद शर्मा जीते हैं। मंगलवार देर रात तक बाकी नौ सीटों पर गिनती जारी थी, वाराणसी शिक्षक सीट पर सपा आगे है, वहीं सपा अध्यक्ष अखिलेश यादव ने गिनती जानबूझकर धीमी करने का आरोप लगाया है।",
-        "title": "यूपी एमएलसी चुनाव: मेरठ की दोनों सीटें भाजपा ने जीतीं, नौ सीटों पर गिनती जारी"
+        "title": "यूपी एमएलसी चुनाव: मेरठ की दोनों सीटें भाजपा ने जीतीं, नौ सीटों पर गिनती जारी",
+        "summary": "उत्तर प्रदेश की 11 विधान परिषद सीटों में से पहले दो घोषित नतीजे भाजपा के पक्ष में गए हैं — मेरठ स्नातक सीट से दिनेश कुमार गोयल और शिक्षक सीट से श्री चंद शर्मा जीते हैं। मंगलवार देर रात तक बाकी नौ सीटों पर गिनती जारी थी, वाराणसी शिक्षक सीट पर सपा आगे है, वहीं सपा अध्यक्ष अखिलेश यादव ने गिनती जानबूझकर धीमी करने का आरोप लगाया है।"
       },
       "id": "up-mlc-bjp-wins-both-meerut-seats-counting-continues",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-mlc-bjp-wins-both-meerut-seats-counting-continues.jpg",
@@ -13189,12 +13231,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-bloc-public-impeachment-cec-kharge-residence-hi.mp3",
       "audioEn": null,
       "en": {
-        "summary": "After Hotel Ashok and Ramlila Maidan plans ran into trouble, the INDIA bloc will now hold its 'public impeachment' of Chief Election Commissioner Gyanesh Kumar at Congress president Mallikarjun Kharge's official residence on Friday, as a curtain-raiser to its November 1 rally — while Delhi Police insists the rally permission stands.",
-        "title": "INDIA bloc to stage 'public impeachment' of CEC Gyanesh Kumar at Kharge's residence after venues fall through"
+        "title": "INDIA bloc to stage 'public impeachment' of CEC Gyanesh Kumar at Kharge's residence after venues fall through",
+        "summary": "After Hotel Ashok and Ramlila Maidan plans ran into trouble, the INDIA bloc will now hold its 'public impeachment' of Chief Election Commissioner Gyanesh Kumar at Congress president Mallikarjun Kharge's official residence on Friday, as a curtain-raiser to its November 1 rally — while Delhi Police insists the rally permission stands."
       },
       "hi": {
-        "summary": "होटल अशोक और रामलीला मैदान की योजना अटकने के बाद इंडिया गठबंधन अब शुक्रवार को कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे के सरकारी आवास पर मुख्य चुनाव आयुक्त ज्ञानेश कुमार का 'सार्वजनिक महाभियोग' करेगा। यह कार्यक्रम एक नवंबर की महारैली का आगाज़ होगा — वहीं दिल्ली पुलिस का कहना है कि रैली की अनुमति बरकरार है।",
-        "title": "वेन्यू नहीं मिला तो अब खरगे के आवास पर होगा सीईसी ज्ञानेश कुमार का 'सार्वजनिक महाभियोग'"
+        "title": "वेन्यू नहीं मिला तो अब खरगे के आवास पर होगा सीईसी ज्ञानेश कुमार का 'सार्वजनिक महाभियोग'",
+        "summary": "होटल अशोक और रामलीला मैदान की योजना अटकने के बाद इंडिया गठबंधन अब शुक्रवार को कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे के सरकारी आवास पर मुख्य चुनाव आयुक्त ज्ञानेश कुमार का 'सार्वजनिक महाभियोग' करेगा। यह कार्यक्रम एक नवंबर की महारैली का आगाज़ होगा — वहीं दिल्ली पुलिस का कहना है कि रैली की अनुमति बरकरार है।"
       }
     },
     {
@@ -13210,12 +13252,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-emerging-science-technology-innovation-conclave-2026-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-emerging-science-technology-innovation-conclave-2026-en.mp3",
       "en": {
-        "summary": "Prime Minister Narendra Modi on Tuesday inaugurated the Emerging Science, Technology and Innovation Conclave 2026 at Bharat Mandapam in New Delhi, telling scientists and industry leaders that a developed India will rest on research and a spirit of innovation. The three-day conclave runs till October 29.",
-        "title": "Science will build Viksit Bharat: PM Modi opens three-day innovation conclave in Delhi"
+        "title": "Science will build Viksit Bharat: PM Modi opens three-day innovation conclave in Delhi",
+        "summary": "Prime Minister Narendra Modi on Tuesday inaugurated the Emerging Science, Technology and Innovation Conclave 2026 at Bharat Mandapam in New Delhi, telling scientists and industry leaders that a developed India will rest on research and a spirit of innovation. The three-day conclave runs till October 29."
       },
       "hi": {
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने मंगलवार को नई दिल्ली के भारत मंडपम में इमर्जिंग साइंस, टेक्नोलॉजी एंड इनोवेशन कॉन्क्लेव 2026 का उद्घाटन किया और कहा कि विकसित भारत वैज्ञानिक शोध और इनोवेशन की मजबूत बुनियाद पर खड़ा होगा। तीन दिन का यह कॉन्क्लेव 29 अक्टूबर तक चलेगा।",
-        "title": "विज्ञान से बनेगा विकसित भारत: पीएम मोदी ने दिल्ली में तीन दिन के इनोवेशन कॉन्क्लेव का उद्घाटन किया"
+        "title": "विज्ञान से बनेगा विकसित भारत: पीएम मोदी ने दिल्ली में तीन दिन के इनोवेशन कॉन्क्लेव का उद्घाटन किया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने मंगलवार को नई दिल्ली के भारत मंडपम में इमर्जिंग साइंस, टेक्नोलॉजी एंड इनोवेशन कॉन्क्लेव 2026 का उद्घाटन किया और कहा कि विकसित भारत वैज्ञानिक शोध और इनोवेशन की मजबूत बुनियाद पर खड़ा होगा। तीन दिन का यह कॉन्क्लेव 29 अक्टूबर तक चलेगा।"
       }
     },
     {
@@ -13231,12 +13273,12 @@
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sonia-gandhi-my-turn-to-tell-my-story-memoir-belonging-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sonia-gandhi-my-turn-to-tell-my-story-memoir-belonging-en.mp3",
       "en": {
-        "summary": "Congress Parliamentary Party chairperson Sonia Gandhi on Tuesday posted a fresh glimpse of her memoir, ‘Belonging: A Journey of Love’, saying others have spent decades telling her story and now it is her turn. The book releases on November 10.",
-        "title": "‘There’s bound to be some tamasha’: Sonia Gandhi says it’s her turn to tell her own story"
+        "title": "‘There’s bound to be some tamasha’: Sonia Gandhi says it’s her turn to tell her own story",
+        "summary": "Congress Parliamentary Party chairperson Sonia Gandhi on Tuesday posted a fresh glimpse of her memoir, ‘Belonging: A Journey of Love’, saying others have spent decades telling her story and now it is her turn. The book releases on November 10."
       },
       "hi": {
-        "summary": "कांग्रेस संसदीय दल की अध्यक्ष सोनिया गांधी ने मंगलवार को अपने संस्मरण ‘बिलॉन्गिंग: अ जर्नी ऑफ़ लव’ की नई झलक साझा करते हुए कहा कि दशकों तक दूसरों ने उनकी कहानी सुनाई है, अब उनकी बारी है। यह किताब 10 नवंबर को आ रही है।",
-        "title": "‘किताब आते ही तमाशा तो होगा ही’: सोनिया गांधी बोलीं, अब मेरी बारी है अपनी कहानी कहने की"
+        "title": "‘किताब आते ही तमाशा तो होगा ही’: सोनिया गांधी बोलीं, अब मेरी बारी है अपनी कहानी कहने की",
+        "summary": "कांग्रेस संसदीय दल की अध्यक्ष सोनिया गांधी ने मंगलवार को अपने संस्मरण ‘बिलॉन्गिंग: अ जर्नी ऑफ़ लव’ की नई झलक साझा करते हुए कहा कि दशकों तक दूसरों ने उनकी कहानी सुनाई है, अब उनकी बारी है। यह किताब 10 नवंबर को आ रही है।"
       }
     },
     {
@@ -13310,13 +13352,13 @@
       "breaking": false,
       "category": "Science",
       "en": {
-        "summary": "A 19-month-old male cub born to Nirva at Kuno National Park died in Jabalpur on Tuesday after being found with pellet injuries in Madhya Pradesh's Morena forests — the first suspected shooting of a cheetah since the species returned to India in 2022. The State Tiger Strike Force is investigating poaching and human-animal conflict angles, while wildlife activists have demanded a CBI probe.",
-        "title": "Kuno cheetah cub dies after suspected shooting — the first such killing since the species returned to India"
+        "title": "Kuno cheetah cub dies after suspected shooting — the first such killing since the species returned to India",
+        "summary": "A 19-month-old male cub born to Nirva at Kuno National Park died in Jabalpur on Tuesday after being found with pellet injuries in Madhya Pradesh's Morena forests — the first suspected shooting of a cheetah since the species returned to India in 2022. The State Tiger Strike Force is investigating poaching and human-animal conflict angles, while wildlife activists have demanded a CBI probe."
       },
       "featured": false,
       "hi": {
-        "summary": "कूनो नेशनल पार्क में निर्वा के 19 महीने के नर शावक की मंगलवार को जबलपुर में इलाज के दौरान मौत हो गई — मध्य प्रदेश के मुरैना के जंगलों में वह पेलेट की चोटों के साथ मिला था। 2022 में भारत में चीते की वापसी के बाद संदिग्ध गोलीबारी का यह पहला मामला है। स्टेट टाइगर स्ट्राइक फोर्स शिकार और मानव-वन्यजीव संघर्ष दोनों पहलुओं की जांच कर रही है, वहीं वन्यजीव कार्यकर्ताओं ने सीबीआई जांच की मांग की है।",
-        "title": "कूनो के चीता शावक की संदिग्ध गोलीबारी में मौत, प्रोजेक्ट चीता शुरू होने के बाद पहली ऐसी घटना"
+        "title": "कूनो के चीता शावक की संदिग्ध गोलीबारी में मौत, प्रोजेक्ट चीता शुरू होने के बाद पहली ऐसी घटना",
+        "summary": "कूनो नेशनल पार्क में निर्वा के 19 महीने के नर शावक की मंगलवार को जबलपुर में इलाज के दौरान मौत हो गई — मध्य प्रदेश के मुरैना के जंगलों में वह पेलेट की चोटों के साथ मिला था। 2022 में भारत में चीते की वापसी के बाद संदिग्ध गोलीबारी का यह पहला मामला है। स्टेट टाइगर स्ट्राइक फोर्स शिकार और मानव-वन्यजीव संघर्ष दोनों पहलुओं की जांच कर रही है, वहीं वन्यजीव कार्यकर्ताओं ने सीबीआई जांच की मांग की है।"
       },
       "id": "kuno-cheetah-cub-dies-suspected-shooting-first-since-reintroduction",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kuno-cheetah-cub-dies-suspected-shooting-first-since-reintroduction.jpg",
@@ -13357,12 +13399,12 @@
       "source": "PrimeFeed Desk",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maharashtra-cabinet-rs5000-advance-drought-farmers-diwali.jpg",
       "hi": {
-        "summary": "मुख्यमंत्री देवेंद्र फडणवीस की अध्यक्षता में हुई कैबिनेट बैठक में 33 प्रतिशत से ज़्यादा फसल नुकसान वाले किसानों के खातों में दिवाली से पहले सीधे 5,000 रुपये भेजने का फैसला हुआ है। यह मदद राज्य के 304 सूखा प्रभावित तालुकों के करीब डेढ़ करोड़ किसानों तक पहुँचेगी।",
-        "title": "महाराष्ट्र कैबिनेट ने सूखा प्रभावित 1.5 करोड़ किसानों को दिवाली से पहले 5,000 रुपये अग्रिम देने को मंज़ूरी दी"
+        "title": "महाराष्ट्र कैबिनेट ने सूखा प्रभावित 1.5 करोड़ किसानों को दिवाली से पहले 5,000 रुपये अग्रिम देने को मंज़ूरी दी",
+        "summary": "मुख्यमंत्री देवेंद्र फडणवीस की अध्यक्षता में हुई कैबिनेट बैठक में 33 प्रतिशत से ज़्यादा फसल नुकसान वाले किसानों के खातों में दिवाली से पहले सीधे 5,000 रुपये भेजने का फैसला हुआ है। यह मदद राज्य के 304 सूखा प्रभावित तालुकों के करीब डेढ़ करोड़ किसानों तक पहुँचेगी।"
       },
       "en": {
-        "summary": "The Maharashtra Cabinet, chaired by Chief Minister Devendra Fadnavis, has approved a direct transfer of Rs 5,000 each to farmers who suffered more than 33 per cent crop damage, reaching nearly 1.5 crore farmers across 304 drought-hit talukas before Diwali.",
-        "title": "Maharashtra Cabinet clears Rs 5,000 advance for 1.5 crore drought-hit farmers before Diwali"
+        "title": "Maharashtra Cabinet clears Rs 5,000 advance for 1.5 crore drought-hit farmers before Diwali",
+        "summary": "The Maharashtra Cabinet, chaired by Chief Minister Devendra Fadnavis, has approved a direct transfer of Rs 5,000 each to farmers who suffered more than 33 per cent crop damage, reaching nearly 1.5 crore farmers across 304 drought-hit talukas before Diwali."
       },
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-cabinet-rs5000-advance-drought-farmers-diwali-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-cabinet-rs5000-advance-drought-farmers-diwali-en.mp3"
@@ -13378,12 +13420,12 @@
       "source": "PrimeFeed Desk",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-final-voter-roll-sir-99-lakh-names-removed-455-crore.jpg",
       "hi": {
-        "summary": "कर्नाटक की अंतिम मतदाता सूची मंगलवार को प्रकाशित हो गई है। विशेष गहन पुनरीक्षण के बाद राज्य में मतदाताओं की संख्या 5.54 करोड़ से घटकर 4.55 करोड़ रह गई है, यानी 99.32 लाख नाम हटा दिए गए हैं।",
-        "title": "कर्नाटक की अंतिम मतदाता सूची: एसआईआर के बाद 99.32 लाख नाम हटे, मतदाता 4.55 करोड़ रह गए"
+        "title": "कर्नाटक की अंतिम मतदाता सूची: एसआईआर के बाद 99.32 लाख नाम हटे, मतदाता 4.55 करोड़ रह गए",
+        "summary": "कर्नाटक की अंतिम मतदाता सूची मंगलवार को प्रकाशित हो गई है। विशेष गहन पुनरीक्षण के बाद राज्य में मतदाताओं की संख्या 5.54 करोड़ से घटकर 4.55 करोड़ रह गई है, यानी 99.32 लाख नाम हटा दिए गए हैं।"
       },
       "en": {
-        "summary": "Karnataka's final electoral roll, published on Tuesday after the Special Intensive Revision, lists 4.55 crore voters, down from 5.54 crore before the exercise — a reduction of 99.32 lakh names.",
-        "title": "Karnataka's final voter roll after SIR: 99.32 lakh names gone, electorate down to 4.55 crore"
+        "title": "Karnataka's final voter roll after SIR: 99.32 lakh names gone, electorate down to 4.55 crore",
+        "summary": "Karnataka's final electoral roll, published on Tuesday after the Special Intensive Revision, lists 4.55 crore voters, down from 5.54 crore before the exercise — a reduction of 99.32 lakh names."
       },
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-final-voter-roll-sir-99-lakh-names-removed-455-crore-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-final-voter-roll-sir-99-lakh-names-removed-455-crore-en.mp3"
@@ -13422,12 +13464,12 @@
       "source": "PrimeFeed Desk",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-arnab-170-km-sea-floods-kakinada-villages-landfall-wednesday.jpg",
       "hi": {
-        "summary": "भीषण चक्रवाती तूफ़ान अर्नब मंगलवार को विशाखापत्तनम से 170 किलोमीटर दूर रह गया और काकीनाडा तट पर समुद्र का पानी गाँवों में घुस गया। सिर्फ़ काकीनाडा तट से करीब 89,000 लोगों को शिविरों में पहुँचाया जा रहा है, 72 ट्रेनें रद्द हो चुकी हैं, और बुधवार सुबह यनम के पास तट से टकराते समय 150 किलोमीटर प्रति घंटे तक के झोंके चल सकते हैं।",
-        "title": "अर्नब अब विशाखापत्तनम से सिर्फ 170 किमी दूर, समुद्र काकीनाडा के गाँवों में घुसा, बुधवार सुबह यनम के पास लैंडफॉल"
+        "title": "अर्नब अब विशाखापत्तनम से सिर्फ 170 किमी दूर, समुद्र काकीनाडा के गाँवों में घुसा, बुधवार सुबह यनम के पास लैंडफॉल",
+        "summary": "भीषण चक्रवाती तूफ़ान अर्नब मंगलवार को विशाखापत्तनम से 170 किलोमीटर दूर रह गया और काकीनाडा तट पर समुद्र का पानी गाँवों में घुस गया। सिर्फ़ काकीनाडा तट से करीब 89,000 लोगों को शिविरों में पहुँचाया जा रहा है, 72 ट्रेनें रद्द हो चुकी हैं, और बुधवार सुबह यनम के पास तट से टकराते समय 150 किलोमीटर प्रति घंटे तक के झोंके चल सकते हैं।"
       },
       "en": {
-        "summary": "Seawater has flooded villages near Kakinada and Visakhapatnam has had its heaviest rain of the season so far as very severe cyclonic storm Arnab closed to 170 km off the coast on Tuesday. Nearly 89,000 people are being moved to camps on the Kakinada coast alone, 72 trains have been cancelled, and the storm is expected to cross the coast near Yanam on Wednesday morning with winds gusting to 150 kmph.",
-        "title": "Sea floods Kakinada villages as Cyclone Arnab closes to 170 km off Visakhapatnam; landfall near Yanam on Wednesday morning"
+        "title": "Sea floods Kakinada villages as Cyclone Arnab closes to 170 km off Visakhapatnam; landfall near Yanam on Wednesday morning",
+        "summary": "Seawater has flooded villages near Kakinada and Visakhapatnam has had its heaviest rain of the season so far as very severe cyclonic storm Arnab closed to 170 km off the coast on Tuesday. Nearly 89,000 people are being moved to camps on the Kakinada coast alone, 72 trains have been cancelled, and the storm is expected to cross the coast near Yanam on Wednesday morning with winds gusting to 150 kmph."
       },
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-arnab-170-km-sea-floods-kakinada-villages-landfall-wednesday-hi.mp3",
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-arnab-170-km-sea-floods-kakinada-villages-landfall-wednesday-en.mp3"
@@ -13714,13 +13756,13 @@
       "category": "State & Local",
       "district": "Amritsar",
       "en": {
-        "summary": "Tirath Singh, the son of an Aam Aadmi Party sarpanch, was shot dead outside a gurdwara in Cheete Kalan village of Amritsar district on Monday evening as he returned after prayers with his friend Ranjit Singh, who was injured. Police have registered an FIR against four men, all of whom are absconding, with raids under way to trace them.",
-        "title": "AAP Sarpanch's Son Shot Dead Outside Amritsar Gurdwara, Friend Injured; Four Named in FIR"
+        "title": "AAP Sarpanch's Son Shot Dead Outside Amritsar Gurdwara, Friend Injured; Four Named in FIR",
+        "summary": "Tirath Singh, the son of an Aam Aadmi Party sarpanch, was shot dead outside a gurdwara in Cheete Kalan village of Amritsar district on Monday evening as he returned after prayers with his friend Ranjit Singh, who was injured. Police have registered an FIR against four men, all of whom are absconding, with raids under way to trace them."
       },
       "featured": false,
       "hi": {
-        "summary": "अमृतसर ज़िले के चीते कलां गांव में सोमवार शाम गुरुद्वारे से लौट रहे आप सरपंच के बेटे तिरथ सिंह पर मोटरसाइकिल सवार हमलावरों ने सात-आठ राउंड गोलियां चलाईं। तिरथ की अस्पताल में मौत हो गई, उनके दोस्त रणजीत सिंह घायल हैं और खतरे से बाहर बताए जा रहे हैं। पुलिस ने चार लोगों के खिलाफ एफ़आईआर दर्ज की है, सभी फरार हैं और उनकी तलाश में छापे पड़ रहे हैं।",
-        "title": "अमृतसर में गुरुद्वारे के बाहर आप सरपंच के बेटे की गोली मारकर हत्या, दोस्त घायल; चार के खिलाफ एफ़आईआर"
+        "title": "अमृतसर में गुरुद्वारे के बाहर आप सरपंच के बेटे की गोली मारकर हत्या, दोस्त घायल; चार के खिलाफ एफ़आईआर",
+        "summary": "अमृतसर ज़िले के चीते कलां गांव में सोमवार शाम गुरुद्वारे से लौट रहे आप सरपंच के बेटे तिरथ सिंह पर मोटरसाइकिल सवार हमलावरों ने सात-आठ राउंड गोलियां चलाईं। तिरथ की अस्पताल में मौत हो गई, उनके दोस्त रणजीत सिंह घायल हैं और खतरे से बाहर बताए जा रहे हैं। पुलिस ने चार लोगों के खिलाफ एफ़आईआर दर्ज की है, सभी फरार हैं और उनकी तलाश में छापे पड़ रहे हैं।"
       },
       "id": "aap-sarpanch-son-shot-dead-amritsar-gurdwara-four-named-fir",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/aap-sarpanch-son-shot-dead-amritsar-gurdwara-four-named-fir.jpg",
@@ -14184,13 +14226,13 @@
       "category": "Politics",
       "district": null,
       "en": {
-        "summary": "Counting began at 8 am on Tuesday for 28 Legislative Council seats across Uttar Pradesh, Bihar, Maharashtra and Karnataka. The seats were polled on October 23, results are expected by the evening, and the contests are being read as a prestige test — for the BJP against the Samajwadi Party in UP, for the NDA in Bihar, and for the rival alliances in Maharashtra and Karnataka.",
-        "title": "Counting under way for 28 council seats in four states — a prestige test for BJP, SP and the regional alliances"
+        "title": "Counting under way for 28 council seats in four states — a prestige test for BJP, SP and the regional alliances",
+        "summary": "Counting began at 8 am on Tuesday for 28 Legislative Council seats across Uttar Pradesh, Bihar, Maharashtra and Karnataka. The seats were polled on October 23, results are expected by the evening, and the contests are being read as a prestige test — for the BJP against the Samajwadi Party in UP, for the NDA in Bihar, and for the rival alliances in Maharashtra and Karnataka."
       },
       "featured": false,
       "hi": {
-        "summary": "उत्तर प्रदेश, बिहार, महाराष्ट्र और कर्नाटक की 28 विधान परिषद सीटों पर मंगलवार सुबह 8 बजे से मतगणना चल रही है। इन सीटों पर 23 अक्टूबर को मतदान हुआ था और नतीजे शाम तक आने की उम्मीद है। यूपी में BJP और समाजवादी पार्टी के बीच, बिहार में NDA के लिए और महाराष्ट्र-कर्नाटक में विरोधी गठबंधनों के बीच इसे प्रतिष्ठा की लड़ाई के तौर पर देखा जा रहा है।",
-        "title": "चार राज्यों की 28 विधान परिषद सीटों पर मतगणना जारी — यूपी में BJP-SP की प्रतिष्ठा दांव पर"
+        "title": "चार राज्यों की 28 विधान परिषद सीटों पर मतगणना जारी — यूपी में BJP-SP की प्रतिष्ठा दांव पर",
+        "summary": "उत्तर प्रदेश, बिहार, महाराष्ट्र और कर्नाटक की 28 विधान परिषद सीटों पर मंगलवार सुबह 8 बजे से मतगणना चल रही है। इन सीटों पर 23 अक्टूबर को मतदान हुआ था और नतीजे शाम तक आने की उम्मीद है। यूपी में BJP और समाजवादी पार्टी के बीच, बिहार में NDA के लिए और महाराष्ट्र-कर्नाटक में विरोधी गठबंधनों के बीच इसे प्रतिष्ठा की लड़ाई के तौर पर देखा जा रहा है।"
       },
       "id": "mlc-election-counting-28-seats-up-bihar-maharashtra-karnataka",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mlc-election-counting-28-seats-up-bihar-maharashtra-karnataka.jpg",
@@ -14271,13 +14313,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "Luiz Inácio Lula da Silva has won a historic fourth term as Brazil's president, beating Flávio Bolsonaro in Sunday's runoff with 51.8% of the vote. His rival is seeking to annul the result, but his own Liberal Party has now recognised it — leaving Lula to govern a deeply divided country against the most conservative Congress since Brazil's return to democracy.",
-        "title": "Lula wins historic fourth term in Brazil as Bolsonaro's party accepts the result"
+        "title": "Lula wins historic fourth term in Brazil as Bolsonaro's party accepts the result",
+        "summary": "Luiz Inácio Lula da Silva has won a historic fourth term as Brazil's president, beating Flávio Bolsonaro in Sunday's runoff with 51.8% of the vote. His rival is seeking to annul the result, but his own Liberal Party has now recognised it — leaving Lula to govern a deeply divided country against the most conservative Congress since Brazil's return to democracy."
       },
       "featured": false,
       "hi": {
-        "summary": "लुइज़ इनासियो लूला दा सिल्वा ब्राज़ील के राष्ट्रपति के तौर पर ऐतिहासिक चौथी बार जीत गए हैं — रविवार के दूसरे दौर में उन्होंने फ्लावियो बोल्सोनारो को 51.8% वोटों से हराया। हारने वाले उम्मीदवार ने नतीजा रद्द कराने की बात कही है, लेकिन उनकी अपनी लिबरल पार्टी ने अब नतीजा मान लिया है। अब लूला के सामने बंटा हुआ देश और लोकतंत्र लौटने के बाद की सबसे रूढ़िवादी संसद है।",
-        "title": "ब्राज़ील में लूला की ऐतिहासिक जीत: चौथी बार राष्ट्रपति बनेंगे, बोल्सोनारो की पार्टी ने माना नतीजा"
+        "title": "ब्राज़ील में लूला की ऐतिहासिक जीत: चौथी बार राष्ट्रपति बनेंगे, बोल्सोनारो की पार्टी ने माना नतीजा",
+        "summary": "लुइज़ इनासियो लूला दा सिल्वा ब्राज़ील के राष्ट्रपति के तौर पर ऐतिहासिक चौथी बार जीत गए हैं — रविवार के दूसरे दौर में उन्होंने फ्लावियो बोल्सोनारो को 51.8% वोटों से हराया। हारने वाले उम्मीदवार ने नतीजा रद्द कराने की बात कही है, लेकिन उनकी अपनी लिबरल पार्टी ने अब नतीजा मान लिया है। अब लूला के सामने बंटा हुआ देश और लोकतंत्र लौटने के बाद की सबसे रूढ़िवादी संसद है।"
       },
       "id": "lula-wins-fourth-term-brazil-bolsonaro-party-accepts-result",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lula-wins-fourth-term-brazil-bolsonaro-party-accepts-result.jpg",
@@ -14294,13 +14336,13 @@
       "breaking": false,
       "category": "World",
       "en": {
-        "summary": "Russia and Ukraine have begun a localised ceasefire around the Russian-occupied town of Oleshky, confirmed by both sides early on Tuesday, to let humanitarian aid in and give trapped civilians a way out. The pause is due to last through Saturday — but it covers only the Oleshky sector, not the wider war.",
-        "title": "Ceasefire begins in Oleshky: Russia and Ukraine halt fire so food and medicine can reach trapped residents"
+        "title": "Ceasefire begins in Oleshky: Russia and Ukraine halt fire so food and medicine can reach trapped residents",
+        "summary": "Russia and Ukraine have begun a localised ceasefire around the Russian-occupied town of Oleshky, confirmed by both sides early on Tuesday, to let humanitarian aid in and give trapped civilians a way out. The pause is due to last through Saturday — but it covers only the Oleshky sector, not the wider war."
       },
       "featured": false,
       "hi": {
-        "summary": "रूस के कब्जे वाले ओलेश्की शहर के आसपास रूस और यूक्रेन ने मंगलवार सुबह से एक स्थानीय युद्धविराम शुरू कर दिया है, जिसकी पुष्टि दोनों पक्षों ने की है। इसका मकसद फंसे हुए नागरिकों तक खाना-दवा पहुंचाना और उन्हें निकलने का रास्ता देना है। यह विराम शनिवार तक चलने वाला है — लेकिन यह पूरे युद्ध का युद्धविराम नहीं है, सिर्फ ओलेश्की इलाके तक सीमित है।",
-        "title": "ओलेश्की में युद्धविराम शुरू: रूस और यूक्रेन ने गोलीबारी रोकी, फंसे लोगों तक पहुंचेगी दवा और खाना"
+        "title": "ओलेश्की में युद्धविराम शुरू: रूस और यूक्रेन ने गोलीबारी रोकी, फंसे लोगों तक पहुंचेगी दवा और खाना",
+        "summary": "रूस के कब्जे वाले ओलेश्की शहर के आसपास रूस और यूक्रेन ने मंगलवार सुबह से एक स्थानीय युद्धविराम शुरू कर दिया है, जिसकी पुष्टि दोनों पक्षों ने की है। इसका मकसद फंसे हुए नागरिकों तक खाना-दवा पहुंचाना और उन्हें निकलने का रास्ता देना है। यह विराम शनिवार तक चलने वाला है — लेकिन यह पूरे युद्ध का युद्धविराम नहीं है, सिर्फ ओलेश्की इलाके तक सीमित है।"
       },
       "id": "russia-ukraine-oleshky-ceasefire-aid-trapped-residents",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russia-ukraine-oleshky-ceasefire-aid-trapped-residents.jpg",
@@ -14481,13 +14523,13 @@
       "breaking": false,
       "category": "State & Local",
       "en": {
-        "summary": "All of Delhi's district courts will see lawyers abstain from judicial work on Tuesday, October 27, after the Coordination Committee of All District Courts Bar Associations of Delhi called a one-day strike, demanding the suspension of a Shahdara ACP and SHO over alleged threats to advocates.",
-        "title": "Delhi District Courts to Remain Closed on October 27 as Lawyers Strike Over Alleged Shahdara Police Threat"
+        "title": "Delhi District Courts to Remain Closed on October 27 as Lawyers Strike Over Alleged Shahdara Police Threat",
+        "summary": "All of Delhi's district courts will see lawyers abstain from judicial work on Tuesday, October 27, after the Coordination Committee of All District Courts Bar Associations of Delhi called a one-day strike, demanding the suspension of a Shahdara ACP and SHO over alleged threats to advocates."
       },
       "featured": false,
       "hi": {
-        "summary": "दिल्ली की सभी जिला अदालतों में मंगलवार, 27 अक्टूबर को वकील न्यायिक कार्य से दूर रहेंगे। दिल्ली की सभी जिला अदालत बार एसोसिएशनों की समन्वय समिति ने एक दिन की हड़ताल का आह्वान किया है और शाहदरा के एसीपी व एसएचओ के निलंबन की मांग की है।",
-        "title": "दिल्ली की जिला अदालतें 27 अक्टूबर को बंद रहेंगी: शाहदरा पुलिस पर धमकी के आरोप में वकीलों की हड़ताल"
+        "title": "दिल्ली की जिला अदालतें 27 अक्टूबर को बंद रहेंगी: शाहदरा पुलिस पर धमकी के आरोप में वकीलों की हड़ताल",
+        "summary": "दिल्ली की सभी जिला अदालतों में मंगलवार, 27 अक्टूबर को वकील न्यायिक कार्य से दूर रहेंगे। दिल्ली की सभी जिला अदालत बार एसोसिएशनों की समन्वय समिति ने एक दिन की हड़ताल का आह्वान किया है और शाहदरा के एसीपी व एसएचओ के निलंबन की मांग की है।"
       },
       "id": "delhi-district-courts-closed-october-27-lawyers-strike",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-district-courts-closed-october-27-lawyers-strike.jpg",
@@ -14502,13 +14544,13 @@
       "breaking": false,
       "category": "Entertainment",
       "en": {
-        "summary": "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer has crossed ₹22 crore in net collections in India in its first four days, trade estimates show, after a steady first Monday following a growing opening weekend.",
-        "title": "Udta Teer Crosses ₹22 Crore Net in India in Four Days as First Monday Holds Steady"
+        "title": "Udta Teer Crosses ₹22 Crore Net in India in Four Days as First Monday Holds Steady",
+        "summary": "Ayushmann Khurrana and Sara Ali Khan's spy comedy Udta Teer has crossed ₹22 crore in net collections in India in its first four days, trade estimates show, after a steady first Monday following a growing opening weekend."
       },
       "featured": false,
       "hi": {
-        "summary": "आयुष्मान खुराना और सारा अली खान की जासूसी कॉमेडी उड़ता तीर ने रिलीज के पहले चार दिनों में भारत में ₹22 करोड़ से अधिक नेट कमाई कर ली है। ट्रेड अनुमानों के अनुसार, बढ़ते हुए पहले वीकेंड के बाद पहले सोमवार को भी फिल्म की कमाई स्थिर रही।",
-        "title": "उड़ता तीर ने चार दिन में भारत में ₹22 करोड़ नेट पार किए, पहले सोमवार को भी पकड़ बरकरार"
+        "title": "उड़ता तीर ने चार दिन में भारत में ₹22 करोड़ नेट पार किए, पहले सोमवार को भी पकड़ बरकरार",
+        "summary": "आयुष्मान खुराना और सारा अली खान की जासूसी कॉमेडी उड़ता तीर ने रिलीज के पहले चार दिनों में भारत में ₹22 करोड़ से अधिक नेट कमाई कर ली है। ट्रेड अनुमानों के अनुसार, बढ़ते हुए पहले वीकेंड के बाद पहले सोमवार को भी फिल्म की कमाई स्थिर रही।"
       },
       "id": "udta-teer-crosses-22-crore-net-india-four-days-first-monday",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/udta-teer-crosses-22-crore-net-india-four-days-first-monday.jpg",
@@ -14525,13 +14567,13 @@
       "breaking": true,
       "category": "State & Local",
       "en": {
-        "summary": "Hours after gunfire near Hotel Bilas Inn in Guwahati's Bora Service area on Monday evening, police have arrested the accused, Ghanakanta Gogoi, and seized the pistol used in the attack. Police now put the death toll at five, with one injured person under treatment, and say a dispute over the hotel's lease is emerging as the motive.",
-        "title": "Guwahati Shooting: Accused Ghanakanta Gogoi Arrested, Death Toll Rises to Five as Hotel Lease Dispute Emerges"
+        "title": "Guwahati Shooting: Accused Ghanakanta Gogoi Arrested, Death Toll Rises to Five as Hotel Lease Dispute Emerges",
+        "summary": "Hours after gunfire near Hotel Bilas Inn in Guwahati's Bora Service area on Monday evening, police have arrested the accused, Ghanakanta Gogoi, and seized the pistol used in the attack. Police now put the death toll at five, with one injured person under treatment, and say a dispute over the hotel's lease is emerging as the motive."
       },
       "featured": false,
       "hi": {
-        "summary": "सोमवार शाम गुवाहाटी के बोरा सर्विस इलाके में होटल बिलास इन के पास हुई गोलीबारी के कुछ घंटे बाद पुलिस ने आरोपी घनकांत गोगोई को गिरफ्तार कर लिया है और हमले में इस्तेमाल पिस्तौल भी जब्त कर ली है। पुलिस के अनुसार अब मृतकों की संख्या पांच हो गई है और एक घायल का इलाज चल रहा है; होटल की लीज को लेकर विवाद इस घटना के पीछे की वजह के रूप में सामने आ रहा है।",
-        "title": "गुवाहाटी गोलीबारी: आरोपी घनकांत गोगोई गिरफ्तार, मृतकों की संख्या बढ़कर पांच हुई; होटल लीज विवाद सामने आया"
+        "title": "गुवाहाटी गोलीबारी: आरोपी घनकांत गोगोई गिरफ्तार, मृतकों की संख्या बढ़कर पांच हुई; होटल लीज विवाद सामने आया",
+        "summary": "सोमवार शाम गुवाहाटी के बोरा सर्विस इलाके में होटल बिलास इन के पास हुई गोलीबारी के कुछ घंटे बाद पुलिस ने आरोपी घनकांत गोगोई को गिरफ्तार कर लिया है और हमले में इस्तेमाल पिस्तौल भी जब्त कर ली है। पुलिस के अनुसार अब मृतकों की संख्या पांच हो गई है और एक घायल का इलाज चल रहा है; होटल की लीज को लेकर विवाद इस घटना के पीछे की वजह के रूप में सामने आ रहा है।"
       },
       "id": "guwahati-shooting-accused-arrested-death-toll-rises-to-five",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/guwahati-shooting-accused-arrested-death-toll-rises-to-five.jpg",
@@ -14590,13 +14632,13 @@
       "breaking": false,
       "category": "Politics",
       "en": {
-        "summary": "The Election Commission of India told the Supreme Court on Monday that all three orders linked to the Special Intensive Revision (SIR) of electoral rolls were unanimous decisions of the Commission, rejecting the charge that Chief Election Commissioner Gyanesh Kumar acted alone.",
-        "title": "ECI Tells Supreme Court: All SIR Orders Were Unanimous"
+        "title": "ECI Tells Supreme Court: All SIR Orders Were Unanimous",
+        "summary": "The Election Commission of India told the Supreme Court on Monday that all three orders linked to the Special Intensive Revision (SIR) of electoral rolls were unanimous decisions of the Commission, rejecting the charge that Chief Election Commissioner Gyanesh Kumar acted alone."
       },
       "featured": false,
       "hi": {
-        "summary": "चुनाव आयोग ने सोमवार को सुप्रीम कोर्ट में कहा कि मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) से जुड़े तीनों आदेश आयोग के सर्वसम्मत फैसले थे। आयोग ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर अकेले फैसले लेने के आरोप को खारिज करते हुए कहा कि याचिका सिर्फ एक अखबार की खबर पर टिकी है।",
-        "title": "सुप्रीम कोर्ट में चुनाव आयोग का जवाब: SIR के तीनों आदेश सर्वसम्मति से हुए, CEC ने अकेले फैसला नहीं लिया"
+        "title": "सुप्रीम कोर्ट में चुनाव आयोग का जवाब: SIR के तीनों आदेश सर्वसम्मति से हुए, CEC ने अकेले फैसला नहीं लिया",
+        "summary": "चुनाव आयोग ने सोमवार को सुप्रीम कोर्ट में कहा कि मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) से जुड़े तीनों आदेश आयोग के सर्वसम्मत फैसले थे। आयोग ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर अकेले फैसले लेने के आरोप को खारिज करते हुए कहा कि याचिका सिर्फ एक अखबार की खबर पर टिकी है।"
       },
       "id": "eci-tells-supreme-court-all-sir-orders-were-unanimous",
       "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eci-tells-supreme-court-all-sir-orders-were-unanimous.jpg",
