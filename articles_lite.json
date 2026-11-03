@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-03T13:26:35+05:30",
+ "updatedAt": "2026-11-03T13:36:04+05:30",
  "articles": [
+  {
+   "id": "supreme-court-cant-occupy-protest-site-all-times-delhi-november-03",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T13:36:04+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-cant-occupy-protest-site-all-times-delhi-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-cant-occupy-protest-site-all-times-delhi-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-cant-occupy-protest-site-all-times-delhi-november-03-en.mp3",
+   "en": {
+    "title": "You can't occupy a protest site for all times: Supreme Court balances protest right with traders' losses in Delhi hearing",
+    "summary": "A bench led by Chief Justice Surya Kant said designated protest sites must be shared for fixed periods, issued notices to the Centre on the Kirana Committee Delhi's plea for a two-month protest ban during the festive season, and told traders to make the anti-CEC protest organisers parties to the case."
+   },
+   "hi": {
+    "title": "कोई भी प्रदर्शन स्थल हमेशा के लिए नहीं घेर सकता: दिल्ली विरोध प्रदर्शनों पर सुप्रीम कोर्ट की अहम टिप्पणी",
+    "summary": "मुख्य न्यायाधीश सूर्यकांत की अध्यक्षता वाली पीठ ने कहा कि तय प्रदर्शन स्थल तय अवधि के लिए साझा होने चाहिए, त्योहारी मौसम में दो महीने के लिए प्रदर्शनों पर रोक की किराना कमेटी दिल्ली की याचिका पर केंद्र को नोटिस जारी किया और व्यापारियों से चुनाव आयुक्त विरोधी प्रदर्शन के आयोजकों को पक्षकार बनाने को कहा।"
+   }
+  },
+  {
+   "id": "new-zealand-national-labour-dead-heat-final-poll-november-03",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T13:36:04+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/new-zealand-national-labour-dead-heat-final-poll-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/new-zealand-national-labour-dead-heat-final-poll-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/new-zealand-national-labour-dead-heat-final-poll-november-03-en.mp3",
+   "en": {
+    "title": "New Zealand's National and Labour neck-and-neck at 30% and 29% in final poll before Saturday's election",
+    "summary": "The last 1News-Verian poll puts National one point ahead of Labour, with the Greens at 16%, ACT at 10% and New Zealand First at 8%; on seat projections neither bloc reaches a majority without the Opportunity Party's seven seats."
+   },
+   "hi": {
+    "title": "न्यूज़ीलैंड में अंतिम सर्वेक्षण में नेशनल और लेबर बराबरी पर, शनिवार के चुनाव से पहले कोई भी खेमा बहुमत से दूर",
+    "summary": "आखिरी वन न्यूज़-वेरियन सर्वेक्षण में नेशनल लेबर से एक अंक आगे है, ग्रीन्स सोलह प्रतिशत, एसीटी दस प्रतिशत और न्यूज़ीलैंड फर्स्ट आठ प्रतिशत पर हैं; सीटों के अनुमान में किसी भी खेमे को ऑपर्च्युनिटी पार्टी की सात सीटों के बिना बहुमत नहीं मिलता।"
+   }
+  },
   {
    "id": "indian-killed-two-helicopters-collide-nepal-pheriche-november-03",
    "category": "World",
