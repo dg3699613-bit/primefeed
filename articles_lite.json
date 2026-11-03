@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T17:35:44+05:30",
+ "updatedAt": "2026-11-03T17:45:00+05:30",
  "articles": [
+  {
+   "id": "zelenskyy-arrives-berlin-merz-talks-november-03",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "en": {
+    "title": "Zelenskyy lands in Berlin for Merz talks on air defence and energy, days before Abu Dhabi peace round",
+    "summary": "Ukrainian President Volodymyr Zelenskyy arrived in Berlin on Tuesday for talks with Chancellor Friedrich Merz, putting air defence and energy support at the top of the agenda a week before Russia, Ukraine and the United States sit down again in Abu Dhabi."
+   },
+   "hi": {
+    "title": "बर्लिन पहुंचे ज़ेलेंस्की, मर्ज़ से हवाई रक्षा और ऊर्जा पर होगी अहम बातचीत",
+    "summary": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की मंगलवार को जर्मन चांसलर फ्रेडरिक मर्ज़ से बातचीत के लिए बर्लिन पहुंचे। अबू धाबी में रूस, यूक्रेन और अमेरिका की त्रिपक्षीय वार्ता से एक हफ़्ते पहले हवाई रक्षा और ऊर्जा क्षेत्र की मदद एजेंडे में सबसे ऊपर है।"
+   },
+   "publishedAt": "2026-11-03T17:45:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/zelenskyy-arrives-berlin-merz-talks-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zelenskyy-arrives-berlin-merz-talks-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zelenskyy-arrives-berlin-merz-talks-november-03-en.mp3"
+  },
   {
    "id": "aga-ruhullah-resigns-nc-lok-sabha-budgam-november-03",
    "category": "Politics",
