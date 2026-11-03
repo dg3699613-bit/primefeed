@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-03T17:00:41+05:30",
+ "updatedAt": "2026-11-03T17:35:44+05:30",
  "articles": [
+  {
+   "id": "aga-ruhullah-resigns-nc-lok-sabha-budgam-november-03",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "en": {
+    "title": "Aga Ruhullah quits National Conference, resigns as Srinagar MP at Budgam rally",
+    "summary": "Srinagar MP Aga Syed Ruhullah Mehdi on Tuesday quit the National Conference and signed his Lok Sabha resignation letter before thousands at Behishti Zehra Park in Budgam, ending a 24-year association with the party and accusing the Abdullah leadership of betraying its 2024 mandate on Article 370, statehood and jobs."
+   },
+   "hi": {
+    "title": "आगा रुहुल्लाह ने नेशनल कॉन्फ्रेंस छोड़ी, बडगाम रैली में श्रीनगर सांसद पद से दिया इस्तीफ़ा",
+    "summary": "श्रीनगर के सांसद आगा सैयद रुहुल्लाह मेहदी ने मंगलवार को बडगाम के बेहिश्ती ज़ेहरा पार्क में हज़ारों लोगों के सामने नेशनल कॉन्फ्रेंस छोड़ दी और लोकसभा से इस्तीफ़े के पत्र पर हस्ताक्षर कर दिए। उन्होंने पार्टी से चौबीस साल पुराना नाता तोड़ते हुए अब्दुल्ला नेतृत्व पर अनुच्छेद तीन सौ सत्तर, राज्य के दर्जे और नौकरियों के वादों से धोखा करने का आरोप लगाया।"
+   },
+   "publishedAt": "2026-11-03T17:35:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/aga-ruhullah-resigns-nc-lok-sabha-budgam-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/aga-ruhullah-resigns-nc-lok-sabha-budgam-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/aga-ruhullah-resigns-nc-lok-sabha-budgam-november-03-en.mp3"
+  },
+  {
+   "id": "tiger-shroff-firing-case-13th-arrest-karnal-woman-november-03",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "district": "Mumbai Suburban",
+   "state": "Maharashtra",
+   "en": {
+    "title": "Tiger Shroff firing case: 13th arrest as Crime Branch picks up woman from Karnal over alleged money trail",
+    "summary": "The Mumbai Police Crime Branch has arrested a 22-year-old woman from Karnal in Haryana in the Tiger Shroff firing case, taking the total number of arrests to 13. Police allege the woman, the sister-in-law of alleged mastermind Anil Pandit, moved money through several bank accounts to finance the October 18 attack in Juhu."
+   },
+   "hi": {
+    "title": "टाइगर श्रॉफ़ फायरिंग केस: करनाल से महिला की गिरफ़्तारी के साथ पकड़े गए लोगों की संख्या तेरह हुई",
+    "summary": "मुंबई पुलिस की अपराध शाखा ने टाइगर श्रॉफ़ फायरिंग मामले में हरियाणा के करनाल से बाईस साल की एक महिला को गिरफ़्तार किया है, जिसके साथ इस मामले में पकड़े गए लोगों की संख्या तेरह हो गई है। पुलिस का आरोप है कि महिला ने कथित सरगना अनिल पंडित के निर्देश पर कई बैंक खातों से पैसे भेजकर अट्ठारह अक्टूबर के हमले के लिए रक़म जुटाने में मदद की।"
+   },
+   "publishedAt": "2026-11-03T17:35:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tiger-shroff-firing-case-13th-arrest-karnal-woman-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-shroff-firing-case-13th-arrest-karnal-woman-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-shroff-firing-case-13th-arrest-karnal-woman-november-03-en.mp3"
+  },
   {
    "id": "sirsa-accuses-punjab-police-setting-stubble-fire-aap-hits-back-november-03",
    "category": "Politics",
@@ -344,7 +388,7 @@
    "category": "State & Local",
    "sub": "Maharashtra",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-03T13:57:53+05:30",
    "source": "PrimeFeed Desk",
