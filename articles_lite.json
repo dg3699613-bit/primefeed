@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-03T08:05:14+05:30",
+  "updatedAt": "2026-11-03T08:48:48+05:30",
   "articles": [
+    {
+      "id": "andhra-pradesh-urban-local-body-counting-begins-november-03",
+      "category": "Politics",
+      "sub": "Elections",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "source": "PrimeFeed Desk",
+      "en": {
+        "title": "Counting begins for Andhra Pradesh's 92 urban local bodies, NDA and YSRCP face off for 13 corporations",
+        "summary": "Votes polled on November 1 for 92 urban local bodies in Andhra Pradesh are being counted from 8 am on Tuesday, with postal ballots first and most results expected by 8 pm. The ruling NDA/Kutami and the YSRCP are the principal contenders for 13 municipal corporations and the state's municipalities and nagar panchayats."
+      },
+      "hi": {
+        "title": "आंध्र प्रदेश के 92 शहरी निकायों में मतगणना शुरू, 13 नगर निगमों पर एनडीए और वाईएसआरसीपी की सीधी टक्कर",
+        "summary": "आंध्र प्रदेश में 1 नवंबर को हुए 92 शहरी निकायों के चुनावों के वोटों की गिनती मंगलवार सुबह 8 बजे से हो रही है। पहले डाक मतपत्र गिने जा रहे हैं और ज़्यादातर नतीजे रात 8 बजे तक आने की उम्मीद है। 13 नगर निगमों और नगरपालिकाओं व नगर पंचायतों के लिए सत्तारूढ़ एनडीए/कुटमी और वाईएसआरसीपी मुख्य दावेदार हैं।"
+      },
+      "publishedAt": "2026-11-03T08:48:48+05:30",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/andhra-pradesh-urban-local-body-counting-begins-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-pradesh-urban-local-body-counting-begins-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-pradesh-urban-local-body-counting-begins-november-03-en.mp3"
+    },
     {
       "id": "cyclone-murasu-landfall-complete-ongole-november-03",
       "category": "Weather",
