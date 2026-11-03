@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T16:45:06+05:30",
+ "updatedAt": "2026-11-03T17:00:41+05:30",
  "articles": [
+  {
+   "id": "sirsa-accuses-punjab-police-setting-stubble-fire-aap-hits-back-november-03",
+   "category": "Politics",
+   "sub": "BJP",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T17:00:41+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sirsa-accuses-punjab-police-setting-stubble-fire-aap-hits-back-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sirsa-accuses-punjab-police-setting-stubble-fire-aap-hits-back-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sirsa-accuses-punjab-police-setting-stubble-fire-aap-hits-back-november-03-en.mp3",
+   "en": {
+    "title": "Delhi minister accuses Punjab Police of setting stubble on fire; AAP hits back, calls it a lie",
+    "summary": "Delhi Environment Minister Manjinder Singh Sirsa on Tuesday accused the Punjab government and its police of deliberately setting crop residue on fire to worsen Delhi's air, citing 271 FIRs filed against unidentified persons despite more than 1,000 reported incidents; the AAP hit back, saying the photograph at the centre of the row shows officials extinguishing a fire, not lighting one."
+   },
+   "hi": {
+    "title": "दिल्ली के मंत्री का आरोप — पंजाब पुलिस खुद पराली जला रही है; आप ने कहा, झूठ फैलाया जा रहा है",
+    "summary": "दिल्ली के पर्यावरण मंत्री मनजिंदर सिंह सिरसा ने मंगलवार को आरोप लगाया कि पंजाब सरकार और वहां की पुलिस दिल्ली की हवा खराब करने के लिए जानबूझकर पराली जला रही है — एक हज़ार से ज़्यादा घटनाओं के बावजूद दो सौ इकहत्तर एफ़आईआर अज्ञात लोगों के खिलाफ दर्ज की गई हैं; आम आदमी पार्टी ने पलटवार करते हुए कहा कि विवाद की तस्वीर में अधिकारी आग बुझाते दिख रहे हैं, लगाते नहीं।"
+   }
+  },
   {
    "id": "indian-navy-rescues-20-azini-crew-somali-pirates-november-03",
    "category": "India",
