@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T15:46:19+05:30",
+ "updatedAt": "2026-11-03T15:57:15+05:30",
  "articles": [
+  {
+   "id": "delhi-high-court-refuses-suo-motu-acp-vashishtha-remarks-november-03",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T15:57:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-high-court-refuses-suo-motu-acp-vashishtha-remarks-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-refuses-suo-motu-acp-vashishtha-remarks-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-refuses-suo-motu-acp-vashishtha-remarks-november-03-en.mp3",
+   "hi": {
+    "title": "दिल्ली हाई कोर्ट ने एसीपी वशिष्ठ की कथित धमकियों पर स्वतः संज्ञान लेने से इनकार किया, औपचारिक याचिका दाखिल करने को कहा",
+    "summary": "कार्यवाहक मुख्य न्यायाधीश नितिन वासुदेव सांबरे और न्यायमूर्ति संजय शर्मा की पीठ ने निलंबित दिल्ली पुलिस एसीपी मानसवी वशिष्ठ की कथित टिप्पणियों पर स्वतः संज्ञान लेने से इनकार करते हुए वकीलों से औपचारिक याचिका दाखिल करने को कहा; उधर रोहिणी कोर्ट बार एसोसिएशन ने निलंबन के बाद काम से दूर रहने का आह्वान वापस ले लिया।"
+   },
+   "en": {
+    "title": "Delhi High Court refuses suo motu case over ACP Vashishtha's alleged remarks, asks lawyers to file formal petition",
+    "summary": "A bench of Acting Chief Justice Nitin Wasudeo Sambre and Justice Sanjay Sharma declined to take suo motu cognisance of alleged threatening remarks by suspended Delhi Police ACP Manasvi Vashishtha, telling lawyers to file a formal petition — while the Rohini Court Bar Association called off its work boycott after the suspension."
+   }
+  },
   {
    "id": "tenerife-striker-jesus-de-miguel-dies-after-andorra-collision-november-03",
    "category": "Cricket & Sports",
