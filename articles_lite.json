@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-03T10:03:09+05:30",
+  "updatedAt": "2026-11-03T10:22:02+05:30",
   "articles": [
+    {
+      "id": "delhi-aqi-jahangirpuri-451-eight-stations-severe-november-03",
+      "category": "State & Local",
+      "sub": "Delhi",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "source": "PrimeFeed Desk",
+      "publishedAt": "2026-11-03T10:22:02+05:30",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-jahangirpuri-451-eight-stations-severe-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-jahangirpuri-451-eight-stations-severe-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-jahangirpuri-451-eight-stations-severe-november-03-en.mp3",
+      "hi": {
+        "title": "दिल्ली में हवा 'गंभीर' श्रेणी में, जहांगीरपुरी का एक्यूआई 451; आठ केंद्रों पर स्तर 400 पार",
+        "summary": "मंगलवार सुबह दिल्ली घने धुएँ में लिपटी रही, जहांगीरपुरी में दिन का सबसे ऊँचा एक्यूआई 451 दर्ज हुआ और आठ निगरानी केंद्र 'गंभीर' श्रेणी में पहुँच गए। यह बिगड़ाव सोमवार को एनसीआर में ग्रैप चरण-दो लागू होने के एक दिन बाद आया है।"
+      },
+      "en": {
+        "title": "Delhi chokes as Jahangirpuri AQI hits 451 and eight stations turn 'severe' ahead of Diwali",
+        "summary": "Delhi woke to thick smog on Tuesday, with Jahangirpuri recording the day's highest AQI at 451 and eight monitoring stations crossing into the 'severe' zone, a day after GRAP Stage II curbs were invoked across the NCR."
+      }
+    },
+    {
+      "id": "disney-thousands-job-cuts-20-percent-savings-bloomberg-november-03",
+      "category": "Business",
+      "sub": "Economy",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "source": "PrimeFeed Desk",
+      "publishedAt": "2026-11-03T10:22:02+05:30",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/disney-thousands-job-cuts-20-percent-savings-bloomberg-november-03.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/disney-thousands-job-cuts-20-percent-savings-bloomberg-november-03-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/disney-thousands-job-cuts-20-percent-savings-bloomberg-november-03-en.mp3",
+      "hi": {
+        "title": "डिज़्नी में हज़ारों नौकरियों पर तलवार, प्रबंधकों से 20% लागत बचत का लक्ष्य — ब्लूमबर्ग रिपोर्ट",
+        "summary": "ब्लूमबर्ग की रिपोर्ट के अनुसार, वॉल्ट डिज़्नी हज़ारों नौकरियों में कटौती पर विचार कर रही है और प्रबंधकों से सालाना लागत में 20% बचत का लक्ष्य तय करने को कहा गया है। कंपनी ने इस योजना की पुष्टि नहीं की है।"
+      },
+      "en": {
+        "title": "Disney weighs thousands of job cuts as managers told to find 20% savings, Bloomberg reports",
+        "summary": "Walt Disney is considering cutting thousands of jobs and has asked some managers to target 20% in annual cost savings, Bloomberg News reported on Monday, citing people familiar with the matter. The company has not confirmed the plan."
+      }
+    },
     {
       "id": "us-confirms-defensive-strikes-iranian-targets-strait-of-hormuz",
       "category": "World",
