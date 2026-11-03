@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T19:26:32+05:30",
+ "updatedAt": "2026-11-03T19:36:57+05:30",
  "articles": [
+  {
+   "id": "europe-flights-bomb-threats-four-flights-november-03",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/europe-flights-bomb-threats-four-flights-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-flights-bomb-threats-four-flights-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-flights-bomb-threats-four-flights-november-03-en.mp3",
+   "publishedAt": "2026-11-03T19:36:57+05:30",
+   "en": {
+    "title": "Bomb threats target four passenger flights across Europe in a day; all land safely, no link found yet",
+    "summary": "Four flights in Poland, Spain and Bulgaria faced suspected bomb threats within hours on Tuesday, forcing a LOT diversion to Warsaw-Modlin and security checks on SAS, Ryanair and an Israel-origin flight at Sofia; all aircraft landed safely, no explosive was reported found, and authorities have not established any link between the threats."
+   },
+   "hi": {
+    "title": "यूरोप में एक दिन में चार यात्री विमानों को बम की धमकी, सभी सुरक्षित उतरे; आपसी संबंध का पता नहीं",
+    "summary": "मंगलवार को कुछ ही घंटों में पोलैंड, स्पेन और बुल्गारिया में चार उड़ानों को बम की धमकी मिली, जिसके बाद लॉट का विमान वॉरसा-मोडलिन की ओर मोड़ा गया और एसएएस, रेयानएयर व सोफ़िया में इज़रायल से आई उड़ान की सुरक्षा जाँच हुई; सभी विमान सुरक्षित उतरे, कहीं विस्फोटक नहीं मिला और धमकियों के बीच संबंध अब तक स्थापित नहीं हुआ है।"
+   }
+  },
   {
    "id": "mea-23-indians-killed-west-asia-conflict-black-sea-november-03",
    "category": "World",
