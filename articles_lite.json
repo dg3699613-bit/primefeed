@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T10:45:31+05:30",
+ "updatedAt": "2026-11-03T11:07:25+05:30",
  "articles": [
+  {
+   "id": "shah-rukh-khan-king-first-song-tu-mil-jaaye-birthday",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T11:07:25+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/shah-rukh-khan-king-first-song-tu-mil-jaaye-birthday.jpg",
+   "audioHi": null,
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shah-rukh-khan-king-first-song-tu-mil-jaaye-birthday-en.mp3",
+   "en": {
+    "title": "Shah Rukh Khan's 61st birthday gift to fans: 'Tu Mil Jaaye', King's first song with Deepika, Arijit and Ed Sheeran",
+    "summary": "Unveiled at midnight on his 61st birthday, the first song from Shah Rukh Khan's King reunites him with Deepika Padukone, pairs Arijit Singh with Ed Sheeran, and crossed 8.5 million YouTube views in 11 hours."
+   },
+   "hi": {
+    "title": "शाहरुख़ ख़ान का 61वें जन्मदिन पर तोहफ़ा: 'तू मिल जाए', दीपिका के साथ किंग का पहला गाना, अरिजीत और एड शीरन की जुगलबंदी",
+    "summary": "61वें जन्मदिन की आधी रात को रिलीज़ हुआ शाहरुख़ ख़ान की फ़िल्म किंग का पहला गाना 'तू मिल जाए', दीपिका पादुकोण के साथ वापसी, अरिजीत सिंह और एड शीरन की जोड़ी, और 11 घंटे में 85 लाख से ज़्यादा व्यूज़।"
+   }
+  },
   {
    "id": "andhra-urban-body-early-trends-tdp-leads-visakhapatnam-november-03",
    "category": "Politics",
