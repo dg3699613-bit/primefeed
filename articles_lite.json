@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-03T12:52:59+05:30",
+ "updatedAt": "2026-11-03T13:04:58+05:30",
  "articles": [
+  {
+   "id": "andhra-municipal-results-tdp-alliance-sweeps-counting-lapses-november-03",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T13:04:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/andhra-municipal-results-tdp-alliance-sweeps-counting-lapses-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-municipal-results-tdp-alliance-sweeps-counting-lapses-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-municipal-results-tdp-alliance-sweeps-counting-lapses-november-03-en.mp3",
+   "hi": {
+    "title": "आंध्र निकाय नतीजे: बाडवेल, येर्रागुंटला, पुंगनूर और पेनुकोंडा गठबंधन के खाते में; परवतिपुरम में स्ट्रॉन्ग रूम की चाबी गुम, दो अधिकारी निलंबित",
+    "summary": "आंध्र प्रदेश के शहरी निकाय चुनावों की मतगणना में दोपहर तक टीडीपी के नेतृत्व वाले गठबंधन ने बाडवेल, येर्रागुंटला, पुंगनूर और पेनुकोंडा अपने खाते में कर लिए हैं; परवतिपुरम में स्ट्रॉन्ग रूम की चाबी गुम होने से गिनती करीब दो घंटे रुकी और दो अधिकारी निलंबित हुए, जबकि उच्च न्यायालय ने पुलिवेंदुला में गिनती का रास्ता साफ कर दिया।"
+   },
+   "en": {
+    "title": "Andhra civic results: Alliance takes Badvel, Yerraguntla, Punganur and Penukonda; missing strong-room keys stall Parvathipuram count",
+    "summary": "By Tuesday afternoon the TDP-led Kutami alliance had confirmed Badvel, Yerraguntla, Punganur and Penukonda in Andhra Pradesh's urban body counting, while missing strong-room keys delayed the Parvathipuram count by about two hours and led to two officers being suspended; the High Court cleared counting in Pulivendula and cyclone rain pushed back counting in Prakasam and Bapatla."
+   }
+  },
+  {
+   "id": "tusshar-kapoor-rs-5-crore-extortion-threat-bishnoi-name-police-suspect-hoax-november-03",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-03T13:04:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tusshar-kapoor-rs-5-crore-extortion-threat-bishnoi-name-police-suspect-hoax-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tusshar-kapoor-rs-5-crore-extortion-threat-bishnoi-name-police-suspect-hoax-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tusshar-kapoor-rs-5-crore-extortion-threat-bishnoi-name-police-suspect-hoax-november-03-en.mp3",
+   "hi": {
+    "title": "तुषार कपूर को बिश्नोई गैंग के नाम पर 5 करोड़ की धमकी, पुलिस को शक — कॉलर नकली, आवाज़ का नमूना मेल नहीं खाया",
+    "summary": "बॉलीवुड अभिनेता तुषार कपूर को हरि बॉक्सर के नाम पर 5 करोड़ रुपये की धमकी मिली है, लेकिन क्राइम ब्रांच की आवाज़ की जाँच में कॉलर का नमूना मेल नहीं खाया है, जिससे पुलिस को शक है कि किसी नकली शख्स ने गैंग का नाम इस्तेमाल किया है; अब तक कोई प्राथमिकी दर्ज नहीं हुई है और कॉलर की पहचान की कोशिश जारी है।"
+   },
+   "en": {
+    "title": "Tusshar Kapoor gets Rs 5 crore extortion threat in Bishnoi gang's name; police suspect impersonator after voice mismatch",
+    "summary": "Bollywood actor Tusshar Kapoor received a Rs 5 crore extortion threat from a caller claiming to be Hari Boxer of the Lawrence Bishnoi gang, but a Crime Branch voice comparison found no match with Boxer's samples, leading police to suspect an impersonator; no FIR has been registered yet and the caller is still being traced."
+   },
+   "district": "Mumbai Suburban",
+   "state": "Maharashtra"
+  },
   {
    "id": "ladakh-admin-halts-hial-desert-flower-school-leh-november-03",
    "category": "State & Local",
