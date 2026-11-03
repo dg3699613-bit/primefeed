@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-03T10:34:00+05:30",
+ "updatedAt": "2026-11-03T10:45:31+05:30",
  "articles": [
+  {
+   "id": "andhra-urban-body-early-trends-tdp-leads-visakhapatnam-november-03",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "en": {
+    "summary": "Postal-ballot trends from Visakhapatnam give the TDP an early edge in the mayoral contest, with the party leading in eight wards, but officials stress these are trends, not results. Counting across Andhra Pradesh's 92 urban local bodies began at 8 am, and most outcomes are expected by 8 pm.",
+    "title": "Early trends put TDP ahead in Visakhapatnam mayoral race as Andhra counts votes in 92 urban bodies"
+   },
+   "hi": {
+    "summary": "विशाखापत्तनम में डाक मतपत्रों के शुरुआती रुझानों में मेयर पद की दौड़ में टीडीपी आगे है और पार्टी आठ वार्डों में बढ़त बनाए हुए है, लेकिन अधिकारी साफ कर रहे हैं कि ये रुझान हैं, नतीजे नहीं। आंध्र प्रदेश के 92 शहरी निकायों में वोटों की गिनती सुबह 8 बजे से हो रही है और ज़्यादातर नतीजे रात 8 बजे तक आने की उम्मीद है।",
+    "title": "आंध्र प्रदेश में मतगणना के शुरुआती रुझानों में विशाखापत्तनम में टीडीपी आगे, मेयर की दौड़ में 53-29 की बढ़त"
+   },
+   "publishedAt": "2026-11-03T10:45:31+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/andhra-urban-body-early-trends-tdp-leads-visakhapatnam-november-03.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-urban-body-early-trends-tdp-leads-visakhapatnam-november-03-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-urban-body-early-trends-tdp-leads-visakhapatnam-november-03-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Entertainment",
