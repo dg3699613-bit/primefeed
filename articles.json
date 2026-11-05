@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-05T06:58:33+05:30",
+ "updatedAt": "2026-11-05T07:08:08+05:30",
  "articles": [
+  {
+   "id": "delhi-aqi-377-worst-288-days-november-05",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-05T07:08:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-377-worst-288-days-november-05.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-377-worst-288-days-november-05-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-377-worst-288-days-november-05-en.mp3",
+   "hi": {
+    "title": "दिल्ली की हवा २८८ दिन में सबसे खराब: बुधवार का एक्यूआई ३७७, २२ केंद्र 'गंभीर', छह-सात नवंबर को और बिगड़ने का अनुमान",
+    "summary": "बुधवार को दिल्ली का औसत एक्यूआई ३७७ रहा, जो बीस जनवरी के बाद का सबसे खराब आँकड़ा है। ५९ में से २२ केंद्रों पर हवा 'गंभीर' रही, आईआईटी दिल्ली में सबसे ज़्यादा ४५८ दर्ज हुआ, और पूर्वानुमान है कि छह-सात नवंबर को हवा 'गंभीर' श्रेणी में जा सकती है।",
+    "body": "नई दिल्ली: दिल्ली की हवा बुधवार को २८८ दिन में सबसे खराब दौर में पहुँच गई। शहर का चौबीस घंटे का औसत वायु गुणवत्ता सूचकांक ३७७ दर्ज किया गया, जो 'बेहद खराब' श्रेणी में आता है। बीस जनवरी को एक्यूआई ३७८ था, और उसके बाद से हवा इतनी खराब नहीं हुई थी।\n\nराजधानी के ५९ निगरानी केंद्रों में से २२ पर हवा 'गंभीर' श्रेणी में रही, जबकि बाकी केंद्रों पर 'बेहद खराब' या 'खराब' दर्ज की गई। सबसे खराब हालत आईआईटी दिल्ली क्षेत्र में रही, जहाँ एक्यूआई ४५८ रहा। जहांगीरपुरी और पंजाबी बाग में ४४८-४४८ और मुंडका में ४३९ दर्ज किया गया।\n\nबुधवार को मुख्य प्रदूषक भी बदल गया। तीन दिन तक पीएम२.५ के बाद अब पीएम१० सबसे बड़ा प्रदूषक रहा, जो आमतौर पर सड़क और निर्माण की धूल से जुड़ा होता है। आईआईटीएम पुणे के डिसीज़न सपोर्ट सिस्टम के मुताबिक पराली जलाने की हिस्सेदारी २०.२ प्रतिशत रही, जो सबसे बड़ा एकल स्रोत था, जबकि वाहनों से होने वाले उत्सर्जन की हिस्सेदारी १५.५ प्रतिशत रही।\n\nउपग्रह आँकड़ों के मुताबिक बुधवार को छह राज्यों में ४६७ पराली जलाने की घटनाएँ दर्ज की गईं, जिनमें मध्य प्रदेश में १५७ और पंजाब में १५१ शामिल हैं। दिल्ली में कोई पराली की घटना नहीं मिली। इसी बीच वायु गुणवत्ता प्रबंधन आयोग ने बुधवार को बारह ज़िलों के अधिकारियों के साथ बैठक कर पराली जलाने पर रोक के कदमों की समीक्षा की।\n\nराहत की उम्मीद फिलहाल नहीं है। वायु गुणवत्ता पूर्व चेतावनी प्रणाली का अनुमान है कि गुरुवार को हवा 'बेहद खराब' ही रहेगी और छह से सात नवंबर के बीच 'गंभीर' श्रेणी में जा सकती है। ग्रैप का चरण-दो दो नवंबर से लागू है, जब एक्यूआई ३२४ पर पहुँचा था, और दिवाली से ठीक पहले हवा का यह रुख राजधानी के लिए चिंता बढ़ा रहा है।\n\nफ़ोटो साभार: सायंतन घोष, ईपीएस"
+   },
+   "en": {
+    "title": "Delhi's air hits its worst in 288 days: Wednesday's AQI 377, 22 stations 'severe', worse forecast for November 6-7",
+    "summary": "Delhi's 24-hour average AQI settled at 377 on Wednesday, its worst reading since January 20. Twenty-two of 59 stations recorded 'severe' air, IIT Delhi logged the highest at 458, and the forecast says air could turn 'severe' between November 6 and 7.",
+    "body": "New Delhi: Delhi's air turned its worst in 288 days on Wednesday, with the city's 24-hour average Air Quality Index settling at 377, in the 'very poor' category. The last worse reading was 378 on January 20, and the capital has not breathed air this bad since.\n\nOf the city's 59 monitoring stations, 22 recorded 'severe' air, while the rest were 'very poor' or 'poor'. IIT Delhi recorded the highest reading at 458, followed by Jahangirpuri and Punjabi Bagh at 448 each and Mundka at 439.\n\nThe dominant pollutant also changed. After three days of PM2.5, PM10, coarse dust typically linked to road and construction dust, led on Wednesday. The IITM-Pune decision support system put stubble burning at 20.2 percent of Delhi's pollution, the single largest share, with transport emissions at 15.5 percent.\n\nSatellites picked up 467 farm fires across six states on Wednesday, including 157 in Madhya Pradesh and 151 in Punjab; none was detected in Delhi itself. The Commission for Air Quality Management met officials from 12 districts on Wednesday to review steps against stubble burning.\n\nNo relief is in sight. The Air Quality Early Warning System expects air to stay 'very poor' on Thursday and deteriorate to 'severe' between November 6 and 7. Stage II of the Graded Response Action Plan has been in force since November 2, when the AQI touched 324, and the timing, days before Diwali, makes the trend harder to ignore.\n\nPhoto: Sayantan Ghosh, EPS"
+   }
+  },
   {
    "id": "supreme-court-tulu-mondal-return-november-17-warrant-held-november-05",
    "category": "Crime & Law",
