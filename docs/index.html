@@ -431,6 +431,83 @@ var PF_CONFIG = {
   defaultLang: "hi",
   version: "1.9.1"
 };
+/* ---------- vc39 (1.9.2) — RESILIENT FEED FETCH (offline fix) ----------
+   Malik ki shikayat (2026-11-05): app kabhi-kabhi khulne par
+   "ऑफ़लाइन — सहेजी हुई ख़बरें" strip ke saath 3 Nov wali purani
+   cache par atak jaata tha aur kuch der waisa hi rehta tha, jabki
+   desk lagatar nayi khabrein publish kar raha hota tha. Asal wajah:
+   phone se raw.githubusercontent.com tak ka raasta kabhi-kabhi
+   atak jaata hai aur purana code EK hi koshish karke baith jaata
+   tha. Ab repo ki har file (lite feed, full feed, per-article body)
+   chaar raaston se aati hai, is kram me: (1) raw.githubusercontent
+   .com (pehle jaisa, sabse taaza), (2) api.github.com ka contents
+   raasta (Accept: application/vnd.github.raw), (3) jsDelivr CDN,
+   (4) Statically CDN. Har raaste par 2 koshish (2s, phir 5s ke
+   antar par), har koshish ka 12 second timeout. Freshness guard:
+   jo copy app ke paas pehle se hai (cache / bundled / current)
+   usse PURANI (chhota updatedAt) copy kabhi sweekar nahi hoti —
+   CDN ki stale copy app ko peeche nahi dhakel sakti; aisi copy
+   aaye to agla raasta try hota hai. Aur jab tak feedState "live"
+   na ho, har 30 second me poora chain khud dobara chalta hai
+   (pfScheduleHealRetry), 'online' event aur page ke dobara
+   visible hone par turant retry pehle se maujud hai. */
+function pfMirrorUrls(url){
+  var out = [];
+  if (!url) return out;
+  out.push(url);
+  var marker = "raw.githubusercontent.com/dg3699613-bit/primefeed/main/";
+  var i = url.indexOf(marker);
+  if (i < 0) return out;
+  var path = url.slice(i + marker.length);
+  out.push("https://api.github.com/repos/dg3699613-bit/primefeed/contents/" + path);
+  out.push("https://cdn.jsdelivr.net/gh/dg3699613-bit/primefeed@main/" + path);
+  out.push("https://cdn.statically.io/gh/dg3699613-bit/primefeed/main/" + path);
+  return out;
+}
+function pfFetchTextOnce(url, timeoutMs){
+  return new Promise(function(resolve, reject){
+    var ctl = ("AbortController" in window) ? new AbortController() : null;
+    var tm = setTimeout(function(){ if (ctl) ctl.abort(); }, timeoutMs);
+    var headers = {};
+    if (url.indexOf("https://api.github.com/") === 0) headers["Accept"] = "application/vnd.github.raw";
+    fetch(url, { cache:"no-store", signal: ctl ? ctl.signal : undefined, headers: headers })
+      .then(function(r){ if (!r.ok) throw new Error("http " + r.status); return r.text(); })
+      .then(function(txt){ clearTimeout(tm); resolve(txt); })
+      .catch(function(e){ clearTimeout(tm); reject(e); });
+  });
+}
+function pfSleep(ms){ return new Promise(function(res){ setTimeout(res, ms); }); }
+/* App ke paas abhi jo sabse taaza updatedAt hai (lite/full tracking,
+   dono cache, bundled) — freshness guard isi se tulna karta hai. */
+function pfHeldUpdatedAt(){
+  var best = null;
+  function consider(ts){ if (ts && (!best || Date.parse(ts) > Date.parse(best))) best = ts; }
+  try{ consider(typeof pfLiteUpdatedAt !== "undefined" ? pfLiteUpdatedAt : null); }catch(e){}
+  try{ consider(typeof pfFeedUpdatedAt !== "undefined" ? pfFeedUpdatedAt : null); }catch(e){}
+  try{ var lc = lsGet(LITE_CACHE_KEY, null); if (lc) consider(lc.updatedAt); }catch(e){}
+  try{ var fc = lsGet(FEED_CACHE_KEY, null); if (fc) consider(fc.updatedAt); }catch(e){}
+  return best;
+}
+/* Ek repo file ko saare raaston se kheenchna: safal parse + validate
+   true aaye tabhi safal; sab raaste fail hon to null resolve hota hai. */
+function pfFetchRepoJson(url, validate){
+  var urls = pfMirrorUrls(url);
+  function attempt(idx, n){
+    if (idx >= urls.length) return Promise.resolve(null);
+    var u = urls[idx] + (urls[idx].indexOf("?") >= 0 ? "&" : "?") + "t=" + Date.now();
+    return pfFetchTextOnce(u, 12000)
+      .then(function(txt){
+        var d = JSON.parse(txt);
+        if (validate && !validate(d)) throw new Error("stale-or-invalid");
+        return d;
+      })
+      .catch(function(){
+        if (n === 0) return pfSleep(2000).then(function(){ return attempt(idx, 1); });
+        return pfSleep(5000).then(function(){ return attempt(idx + 1, 0); });
+      });
+  }
+  return attempt(0, 0);
+}
 /* ---------- Analytics (vc38 / 1.9.1) ----------
    Native Firebase Analytics bridge (PFAnalytics) ko sirf KUL
    (aggregate) ginti bhejna hai: article khulne par article_open
@@ -1557,15 +1634,18 @@ function loadFeed(manual, isAuto){
   if (pfFeedFetching) return;
   if (!PF_CONFIG.feedUrl || !window.fetch){ if (!isAuto) feedFallback(manual); return; }
   pfFeedFetching = true;
-  var url = PF_CONFIG.liteUrl + "?t=" + Date.now();
-  var ctl = ("AbortController" in window) ? new AbortController() : null;
-  var tm = setTimeout(function(){ if (ctl) ctl.abort(); }, 30000);
-  fetch(url, { cache:"no-store", signal: ctl ? ctl.signal : undefined })
-    .then(function(r){ if (!r.ok) throw new Error("lite http " + r.status); return r.json(); })
+  /* vc39 (1.9.2): lite feed ab pfFetchRepoJson se aati hai — chaar
+     raaste, har raaste par 2 koshish + 12s timeout, stale copy
+     reject. Safal hone ka matlab aur vyavhaar pehle jaisa hi hai. */
+  pfFetchRepoJson(PF_CONFIG.liteUrl, function(d){
+    if (!validLiteFeed(d)) return false;
+    var held = pfHeldUpdatedAt();
+    if (held && d.updatedAt && Date.parse(d.updatedAt) < Date.parse(held)) return false;
+    return true;
+  })
     .then(function(d){
-      clearTimeout(tm);
       pfFeedFetching = false;
-      if (!validLiteFeed(d)) throw new Error("lite malformed");
+      if (!d) throw new Error("lite all routes failed");
       var arts = d.articles.filter(validLiteArticle);
       var changed = pfLiteHasNew(d, arts);
       lsSet(LITE_CACHE_KEY, { updatedAt: d.updatedAt || null, articles: arts });
@@ -1583,17 +1663,17 @@ function loadFeed(manual, isAuto){
       }
       /* vc37 (1.9.0): lite safal hone par poori feed (bodies wali badi
          file) ab background me NAHI kheenchti — bodies per-article
-         on-demand aati hain (pfFetchArticleBody). Yehi bandwidth fix
-         hai: slow net par list ke saath 2 MB ki file nahi ghisatti. */
+         on-demand aati hain (pfFetchArticleBody). */
     })
     .catch(function(){
-      clearTimeout(tm);
       pfFeedFetching = false;
       if (isAuto) pfCheckTodayRollover();
       else feedFallback(manual);
       pfFetchFull();
+      pfScheduleHealRetry();
     });
 }
+
 /* vc37 (1.9.0) — PER-ARTICLE BODY FETCH (malik ka fix, 2026-11-03):
    khabar kholne par ab poori 2 MB wali feed NAHI kheenchti; sirf usi
    ek khabar ki chhoti body file (articles_body/<id>.json, ~5-13 KB)
@@ -1614,14 +1694,12 @@ function pfFetchArticleBody(id){
   if (pfBodyFetching[id]) return;
   if (!window.fetch || !PF_CONFIG.bodyUrlBase){ pfFetchFull(); return; }
   pfBodyFetching[id] = true;
-  var url = PF_CONFIG.bodyUrlBase + id + ".json?t=" + Date.now();
-  var ctl = ("AbortController" in window) ? new AbortController() : null;
-  var tm = setTimeout(function(){ if (ctl) ctl.abort(); }, 30000);
-  fetch(url, { cache:"no-store", signal: ctl ? ctl.signal : undefined })
-    .then(function(r){ if (!r.ok) throw new Error("body http " + r.status); return r.json(); })
+  /* vc39 (1.9.2): body file bhi pfFetchRepoJson (chaar raaste) se
+     aati hai; sab raaste fail hon to purana fallback pfFetchFull. */
+  pfFetchRepoJson(PF_CONFIG.bodyUrlBase + id + ".json", null)
     .then(function(d){
-      clearTimeout(tm);
       delete pfBodyFetching[id];
+      if (!d){ pfFetchFull(); return; }
       var hiB = (d && d.hi && typeof d.hi.body === "string") ? d.hi.body : null;
       var enB = (d && d.en && typeof d.en.body === "string") ? d.en.body : null;
       if ((hiB && hiB.length) || (enB && enB.length)){
@@ -1647,11 +1725,6 @@ function pfFetchArticleBody(id){
       } else {
         pfFetchFull();
       }
-    })
-    .catch(function(){
-      clearTimeout(tm);
-      delete pfBodyFetching[id];
-      pfFetchFull();
     });
 }
 /* Full feed (bodies ke saath) background me: safal hone par cache +
@@ -1663,15 +1736,17 @@ function pfFetchArticleBody(id){
 function pfFetchFull(){
   if (pfFullFetching || !PF_CONFIG.feedUrl || !window.fetch) return;
   pfFullFetching = true;
-  var url = PF_CONFIG.feedUrl + "?t=" + Date.now();
-  var ctl = ("AbortController" in window) ? new AbortController() : null;
-  var tm = setTimeout(function(){ if (ctl) ctl.abort(); }, 120000);
-  fetch(url, { cache:"no-store", signal: ctl ? ctl.signal : undefined })
-    .then(function(r){ if (!r.ok) throw new Error("feed http " + r.status); return r.json(); })
+  /* vc39 (1.9.2): full feed bhi pfFetchRepoJson (chaar raaste) se;
+     stale copy (paas wali se purani) kabhi sweekar nahi hoti. */
+  pfFetchRepoJson(PF_CONFIG.feedUrl, function(d){
+    if (!validFeed(d)) return false;
+    var held = pfHeldUpdatedAt();
+    if (held && d.updatedAt && Date.parse(d.updatedAt) < Date.parse(held)) return false;
+    return true;
+  })
     .then(function(d){
-      clearTimeout(tm);
       pfFullFetching = false;
-      if (!validFeed(d)) return;
+      if (!d) return;
       var arts = d.articles.filter(validArticle);
       var hasNew = pfFeedHasNew(d, arts);
       lsSet(FEED_CACHE_KEY, { updatedAt: d.updatedAt || null, articles: arts });
@@ -1689,7 +1764,22 @@ function pfFetchFull(){
         pfRefillArticleBody();
       }
     })
-    .catch(function(){ clearTimeout(tm); pfFullFetching = false; });
+    .catch(function(){ pfFullFetching = false; });
+}
+/* vc39 (1.9.2) — OFFLINE SELF-HEAL: jab tak feedState "live" na ho,
+   har 30 second me poora fetch chain apne aap dobara chalta hai.
+   Safal hote hi loadFeed feedState "live" kar deta hai (strip khud
+   gayab) aur ye timer khud band ho jaata hai. 'online' event aur
+   page ke dobara visible hone par turant retry pfStartAutoRefresh
+   me pehle se hai — wahi loadFeed path, jo ab chaar-raaste wala hai. */
+var pfHealTimer = null;
+function pfScheduleHealRetry(){
+  if (pfHealTimer) return;
+  if (typeof feedState !== "undefined" && feedState === "live") return;
+  pfHealTimer = setInterval(function(){
+    if (feedState === "live"){ clearInterval(pfHealTimer); pfHealTimer = null; return; }
+    loadFeed(false, true);
+  }, 30000);
 }
 function pfRefillArticleBody(){
   if (!cur || cur.screen !== "article" || !cur.param) return;
@@ -1706,6 +1796,7 @@ function pfAutoRefresh(){ loadFeed(false, true); }
 function pfStartAutoRefresh(){
   if (pfAutoTimer) return;
   pfAutoTimer = setInterval(pfAutoRefresh, 60 * 1000);
+  pfScheduleHealRetry(); /* vc39: offline ho to 30s self-heal bhi saath chale */
   document.addEventListener("visibilitychange", function(){ if (!document.hidden && document.visibilityState === "visible") pfAutoRefresh(); });
   window.addEventListener("focus", pfAutoRefresh);
   window.addEventListener("online", pfAutoRefresh);
