@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-05T12:45:20+05:30",
+ "updatedAt": "2026-11-05T13:07:08+05:30",
  "articles": [
+  {
+   "id": "ntt-docomo-nationwide-outage-unauthorised-access-november-05",
+   "category": "Technology",
+   "sub": "Internet",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "hi": {
+    "title": "जापान भर में एनटीटी डोकोमो की सेवाएँ लड़खड़ाईं, सर्वर में संदिग्ध अनधिकृत पहुँच की जाँच जारी",
+    "summary": "देर सुबह से देशभर में कॉल, डेटा और एसएमएस का इस्तेमाल मुश्किल हो गया, जबकि कुछ घंटे पहले ही कंपनी ने सर्वर में संदिग्ध अनधिकृत पहुँच के बाद अपनी ऑनलाइन दुकान और ग्राहक पोर्टल बंद कर दिया था।",
+    "body": "टोक्यो: जापान की सबसे बड़ी मोबाइल कंपनी एनटीटी डोकोमो की सेवाएँ गुरुवार को देशभर में लड़खड़ा गईं। देर सुबह से देश के कई हिस्सों में वॉयस कॉल, मोबाइल डेटा और टेक्स्ट मैसेज का इस्तेमाल मुश्किल हो गया। कंपनी ने कहा है कि गड़बड़ी की वजह की जाँच चल रही है और अभी यह नहीं बताया गया है कि सेवाएँ पूरी तरह कब सामान्य होंगी।\n\nकंपनी के मुताबिक़ दिक्कत स्थानीय समय के अनुसार सुबह करीब ११ बजकर १८ मिनट पर शुरू हुई। जापान के कई हिस्सों में कॉल, डेटा और एसएमएस का इस्तेमाल मुश्किल हो गया, और इसका असर उन छोटे ऑपरेटरों पर भी पड़ा जो डोकोमो के नेटवर्क पर अपनी सेवाएँ चलाते हैं। कंपनी यह भी जाँच रही है कि पुलिस और दमकल सेवा के आपातकालीन नंबरों पर इसका कोई असर पड़ा है या नहीं।\n\nयह गड़बड़ी कंपनी की एक और मुसीबत के कुछ ही घंटे बाद सामने आई। गुरुवार तड़के डोकोमो ने अपनी ऑनलाइन दुकान और माय डोकोमो ग्राहक पोर्टल बंद कर दिया था, क्योंकि कंपनी इस नतीजे पर पहुँची थी कि किसी बाहरी व्यक्ति ने उसके सर्वरों तक अनधिकृत पहुँच बना ली होगी। यह बंदी रात करीब १ बजकर ५ मिनट पर शुरू हुई, जिसके बाद ग्राहक ऑनलाइन नया मोबाइल प्लान नहीं ले पा रहे थे, न अपना बिल देख पा रहे थे और न अपने कॉन्ट्रैक्ट में बदलाव कर पा रहे थे।\n\nडोकोमो ने कहा है कि अभी यह साफ़ नहीं है कि सर्वर में संदिग्ध अनधिकृत पहुँच और नेटवर्क की गड़बड़ी का आपस में कोई संबंध है या नहीं। दोनों मामलों की अलग-अलग जाँच हो रही है, और कंपनी ने किसी भी सेवा के बहाल होने का कोई समय नहीं दिया है।\n\nयह गड़बड़ी इसलिए भी अहम है क्योंकि डोकोमो जापान का सबसे बड़ा मोबाइल ऑपरेटर है। देशभर में फैली गड़बड़ी का असर सिर्फ़ लोगों के फ़ोन तक सीमित नहीं रहता — कंपनियों, भुगतान व्यवस्था और लॉजिस्टिक्स का काम भी मोबाइल नेटवर्क पर चलता है। और नेटवर्क लड़खड़ाने से पहले ही कंपनी की अपनी ऑनलाइन सेवाएँ बंद हो चुकी थीं।\n\nफ़िलहाल ग्राहकों को कंपनी के अगले अपडेट का इंतज़ार है। डोकोमो ने कहा है कि गड़बड़ी की वजह और सर्वर में संदिग्ध घुसपैठ के बारे में जैसे ही जानकारी मिलेगी, वह उसे साझा करेगी।\n\nफ़ोटो साभार: क्योडो न्यूज़"
+   },
+   "en": {
+    "title": "NTT Docomo services falter across Japan after suspected unauthorised access to its servers",
+    "summary": "Voice calls, mobile data and texting turned unstable across Japan from late morning, hours after Docomo shut its online shop and customer portal over suspected unauthorised access to its servers.",
+    "body": "Tokyo: Japan's largest mobile carrier, NTT Docomo, ran into nationwide service trouble on Thursday, with voice calls, mobile data and text messaging turning unstable across the country from late morning. The company said it was investigating the cause and had not yet said when services would be fully back to normal.\n\nAccording to the carrier, the problems began at around 11:18 a.m. local time. Calls, data and text messages were difficult to use in many parts of Japan, and the disruption also hit smaller operators that run their services on Docomo's network. The company said it was checking whether emergency calls to the police and fire services were affected.\n\nThe outage came hours after a separate problem at the company. Early on Thursday, Docomo shut down its online shop and the My docomo customer portal after concluding that an outside party had probably gained unauthorised access to its servers. The suspension began at about 1:05 a.m., leaving customers unable to sign up for mobile plans, check their bills or change their contracts online.\n\nDocomo said it was not yet clear whether the suspected unauthorised access and the network disruption were connected. The two problems are being looked into separately, and the company has given no time for restoration of either service.\n\nThe disruption matters because of Docomo's size. It is Japan's biggest mobile operator, and a nationwide fault reaches far beyond individual phones. Companies, payment systems and logistics all run on mobile networks, and the carrier's own online services for its customers were already down before the network itself began to falter.\n\nFor now, customers have been left waiting for the company's next update. Docomo said it would share more information as soon as it had details on the cause of the outage and on the suspected intrusion into its servers.\n\nPhoto: Kyodo News"
+   },
+   "publishedAt": "2026-11-05T13:07:08+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ntt-docomo-nationwide-outage-unauthorised-access-november-05.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntt-docomo-nationwide-outage-unauthorised-access-november-05-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntt-docomo-nationwide-outage-unauthorised-access-november-05-en.mp3"
+  },
+  {
+   "id": "upessc-assistant-teacher-eligibility-relaxation-november-05",
+   "category": "Rozgar",
+   "sub": "Sarkari Naukri",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "source": "PrimeFeed Desk",
+   "hi": {
+    "title": "यूपी शिक्षक भर्ती: जुलाई २०११ से पहले बीएड में दाखिला लेने वालों को स्नातक अंकों में छूट",
+    "summary": "२९ जुलाई २०११ से पहले बीएड, बीएलएड या समकक्ष कोर्स में दाखिला लेने वाले अभ्यर्थियों को अब असिस्टेंट टीचर (प्रशिक्षित स्नातक श्रेणी) के पदों के लिए स्नातक में न्यूनतम अंकों की शर्त पूरी नहीं करनी होगी।",
+    "body": "प्रयागराज: उत्तर प्रदेश शिक्षा सेवा चयन आयोग ने असिस्टेंट टीचर भर्ती के लिए पात्रता के नियमों में ढील दी है। इससे उन अभ्यर्थियों को राहत मिली है जिन्होंने सालों पहले शिक्षक प्रशिक्षण में दाखिला लिया था और स्नातक में अंकों की शर्त की वजह से बाहर रह जा रहे थे।\n\nचार नवंबर की अधिसूचना के अनुसार, जिन अभ्यर्थियों ने २९ जुलाई २०११ से पहले बीएड, बीएलएड या समकक्ष शिक्षक प्रशिक्षण कार्यक्रम में दाखिला लिया था, उन्हें असिस्टेंट टीचर (प्रशिक्षित स्नातक श्रेणी) के पदों के लिए आवेदन करने के लिए स्नातक में न्यूनतम प्रतिशत अंक की शर्त पूरी नहीं करनी होगी। अब तक स्नातक में तय अंक न होने पर ऐसे अभ्यर्थी अयोग्य हो जाते थे, भले ही उनका शिक्षक प्रशिक्षण पूरा हो।\n\nयह बदलाव राज्य सरकार की उस मंज़ूरी के बाद हुआ है जिसमें भर्ती की पात्रता शर्तों में एक प्रावधान जोड़ने को कहा गया है, ताकि उत्तर प्रदेश के नियम राष्ट्रीय अध्यापक शिक्षा परिषद के दिशानिर्देशों के अनुरूप हो जाएँ। राष्ट्रीय अध्यापक शिक्षा परिषद ने १३ नवंबर २०१९ को अपनी अधिसूचना में संशोधन किया था, और उत्तर प्रदेश माध्यमिक शिक्षा परिषद ने २२ अक्टूबर की अधिसूचना में इस मामले को आगे बढ़ाया था।\n\nसंशोधित नियम राज्य भर के सरकारी मान्यता प्राप्त और सहायता प्राप्त माध्यमिक विद्यालयों में असिस्टेंट टीचर के रिक्त पदों पर लागू होगा। आयोग ने पात्र अभ्यर्थियों से कहा है कि वे आवेदन करने से पहले आधिकारिक भर्ती अधिसूचना और संशोधित पात्रता शर्तों को ध्यान से देख लें और तय आवेदन अवधि के भीतर आवेदन करें।\n\nआयोग ने यह भी साफ़ किया है कि ताज़ा अधिसूचना से आवेदन की मौजूदा आख़िरी तारीख़ में कोई बदलाव नहीं हुआ है। इसलिए जिन अभ्यर्थियों को इस छूट का इंतज़ार था, उन्हें पहले से तय समय के भीतर ही आवेदन करना होगा।\n\nफ़ोटो साभार: द टाइम्स ऑफ़ इंडिया"
+   },
+   "en": {
+    "title": "UP teacher recruitment: Graduation-marks relief for B.Ed candidates enrolled before July 2011",
+    "summary": "Candidates admitted to B.Ed, B.El.Ed or equivalent courses before July 29, 2011 will no longer need to meet the minimum graduation-marks requirement for Assistant Teacher (Trained Graduate Grade) posts in UP's recognised and aided secondary schools.",
+    "body": "Prayagraj: The Uttar Pradesh Education Service Selection Commission has relaxed the eligibility rules for Assistant Teacher recruitment, giving relief to a group of teacher-training candidates who enrolled years ago and have been kept out by the graduation-marks condition.\n\nUnder a notification dated November 4, candidates who were admitted to a Bachelor of Education, Bachelor of Elementary Education or equivalent teacher education programme before July 29, 2011, will not have to meet the minimum percentage of marks in graduation to apply for Assistant Teacher (Trained Graduate Grade) posts. Until now, falling short of the prescribed graduation marks could disqualify such a candidate, even if their teacher training was complete.\n\nThe change follows the state government's approval to add a proviso to the recruitment eligibility conditions, bringing Uttar Pradesh's rules in line with the guidelines of the National Council for Teacher Education. The National Council for Teacher Education had amended its own notification on November 13, 2019, and the Uttar Pradesh Board of High School and Intermediate Education had taken up the matter in a notification on October 22.\n\nThe revised rule will apply to Assistant Teacher vacancies in government-recognised and aided secondary schools across the state. The commission has advised eligible candidates to check the official recruitment notification and the revised eligibility conditions carefully before applying, and to apply within the prescribed application period.\n\nThe commission has also made it clear that the latest notification does not extend or change the existing application deadline. Candidates who were waiting on this relaxation will therefore need to move within the time already fixed.\n\nPhoto: The Times of India"
+   },
+   "publishedAt": "2026-11-05T13:07:08+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/upessc-assistant-teacher-eligibility-relaxation-november-05.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/upessc-assistant-teacher-eligibility-relaxation-november-05-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/upessc-assistant-teacher-eligibility-relaxation-november-05-en.mp3"
+  },
   {
    "id": "delhi-artificial-rain-cloud-seeding-post-diwali-plan-november-05",
    "category": "State & Local",
