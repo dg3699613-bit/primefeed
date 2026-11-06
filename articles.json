@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-06T19:16:59+05:30",
+ "updatedAt": "2026-11-06T19:35:52+05:30",
  "articles": [
+  {
+   "id": "kia-showroom-fire-saidulajab-delhi-seven-injured-november-06",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "district": "New Delhi",
+   "state": "Delhi",
+   "hi": {
+    "title": "साकेत में किया शोरूम में भीषण आग, सात घायल; १२-१५ लोग बचाए गए",
+    "summary": "शुक्रवार दोपहर साकेत मेट्रो स्टेशन के सामने स्थित शोरूम में आग लगी; दस दमकल गाड़ियाँ मौके पर पहुँचीं और १२-१५ लोगों को बचाया गया। आग पर काबू पा लिया गया है, किसी की मौत नहीं हुई।",
+    "body": "नई दिल्ली: दक्षिण दिल्ली के सैदुलअजैब इलाके में शुक्रवार दोपहर एक किया कार शोरूम में भीषण आग लग गई, जिसमें सात लोग घायल हो गए और कई गाड़ियाँ जलकर खाक हो गईं। शोरूम साकेत मेट्रो स्टेशन के सामने है।\n\nदक्षिण दिल्ली के ज़िलाधिकारी लक्ष्य सिंघल ने बताया कि दोपहर करीब पौने चार बजे आग की सूचना मिली थी। दिल्ली अग्निशमन सेवा को करीब ३.४७ बजे फोन आया, जिसके बाद दस दमकल गाड़ियाँ मौके पर भेजी गईं। पुलिस, अग्निशमन विभाग, राजस्व विभाग, दिल्ली आपदा प्रबंधन प्राधिकरण और एंबुलेंस सेवाओं की टीमें भी वहाँ पहुँचीं।\n\nआग की चपेट में आए भवन से १२ से १५ लोगों को बाहर निकाला गया। ऊपरी मंज़िलों पर फँसे लोगों को निकालने के लिए पड़ोसी इमारतों पर सीढ़ियाँ लगाई गईं, और स्थानीय लोगों ने भी बचाव में मदद की। घायलों में से चार को मैक्स अस्पताल और तीन को मदन मोहन मालवीय अस्पताल में भर्ती कराया गया है।\n\nआग पर काबू पा लिया गया है, लेकिन भवन के अंदर अब भी तलाशी चल रही है ताकि यह पक्का किया जा सके कि कोई और अंदर तो नहीं फँसा है। अब तक किसी की मौत की खबर नहीं है। आग लगने की वजह अभी तय नहीं हुई है; शुरुआती जाँच में शॉर्ट सर्किट की आशंका जताई जा रही है।\n\nआग से शोरूम से काले धुएँ के गुबार उठते दिखे, जो दूर से भी नज़र आ रहे थे। मौके पर भीड़ जुट गई और सड़क पर जाम जैसी स्थिति बन गई, जिसके बाद पुलिस को लोगों को हटाकर आपात वाहनों के लिए रास्ता बनाना पड़ा।\n\nफ़ोटो साभार: PTI / The Federal"
+   },
+   "en": {
+    "title": "Fire guts Kia showroom near Saket Metro in Delhi, seven injured; 12-15 rescued",
+    "summary": "Fire broke out at the showroom opposite Saket Metro station on Friday afternoon; 10 fire tenders were rushed in and 12-15 people rescued. The blaze is under control and no deaths have been reported.",
+    "body": "New Delhi: A massive fire broke out at a Kia car showroom in south Delhi's Saidulajab area on Friday afternoon, leaving seven people injured and gutting several vehicles. The showroom stands opposite the Saket Metro station.\n\nSouth Delhi District Magistrate Lakshya Singhal said the administration received information about the fire at around 3.45 pm. The Delhi Fire Services got a call at about 3.47 pm and rushed 10 fire tenders to the spot. Teams from the Delhi Police, the fire department, the revenue department, the Delhi Disaster Management Authority and ambulance services were also deployed.\n\nBetween 12 and 15 people were rescued from the building, including those trapped on the upper floors. Ladders were placed against adjoining buildings to bring them down, and local residents helped in the rescue. Of the seven injured, four were admitted to MAX Hospital and three to Madan Mohan Malviya Hospital.\n\nThe blaze has been brought under control, but a search of the building is still under way to make sure nobody else is trapped inside. No casualties have been reported so far. The cause of the fire has not been established yet, though a short circuit is suspected.\n\nThick plumes of black smoke rose from the showroom and were visible from a considerable distance. A crowd gathered at the spot and traffic piled up on the adjoining road, forcing police to clear the way for emergency vehicles.\n\nPhoto: PTI / The Federal"
+   },
+   "publishedAt": "2026-11-06T19:33:43+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kia-showroom-fire-saidulajab-delhi-seven-injured-november-06.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kia-showroom-fire-saidulajab-delhi-seven-injured-november-06-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kia-showroom-fire-saidulajab-delhi-seven-injured-november-06-en.mp3"
+  },
+  {
+   "id": "gadchiroli-police-seize-maoist-explosives-tavve-forest-november-06",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "district": "Gadchiroli",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "गडचिरोली के जंगल में माओवादियों का विस्फोटक ज़खीरा बरामद",
+    "summary": "तव्वे के जंगल में ४ नवंबर को चले तलाशी अभियान में ११ प्रेशर कुकर, कॉर्टेक्स तार, बारूद और डेटोनेटर बरामद; पुलिस के मुताबिक सामान सुरक्षा बलों पर हमले के लिए छिपाया गया था।",
+    "body": "गडचिरोली: महाराष्ट्र के गडचिरोली ज़िले में पुलिस ने जंगल में छिपाकर रखा गया माओवादियों का विस्फोटक ज़खीरा बरामद किया है। यह बरामदगी तव्वे के जंगल में हुई, जो गरापट्टी थाने के इलाके में आता है।\n\nपुलिस को सूचना मिली थी कि जंगल में विस्फोटक और माओवादी गतिविधियों से जुड़ा सामान छिपाया गया है। इसी सूचना पर विशेष अभियान समूह (एसओजी) की चार टीमों और बम निरोधक दस्ते (बीडीडीएस) की दो टीमों ने ४ नवंबर को इलाके में तलाशी अभियान चलाया। अभियान गडचिरोली के पुलिस अधीक्षक एम. रमेश के मार्गदर्शन में हुआ।\n\nतलाशी में ११ प्रेशर कुकर, कॉर्टेक्स तार के तीन बंडल, करीब तीन किलो बारूद और चार डेटोनेटर मिले। इसके अलावा १२ वोल्ट की बैटरी, २५० ग्राम पटाखा बारूद, चार स्टील के डिब्बे, तार के आठ बंडल, एक सोलर पैनल और माओवादी गतिविधियों से जुड़ा समझा जाने वाला अन्य सामान भी बरामद हुआ।\n\nपुलिस के मुताबिक बरामद विस्फोटक का इस्तेमाल कथित तौर पर सुरक्षा बलों पर हमलों के लिए किया जाना था। इस मामले में अब तक किसी की गिरफ़्तारी की खबर नहीं है।\n\nगौरतलब है कि इससे पहले २७ अक्टूबर को भी गडचिरोली पुलिस ने वांगेतुरी थाने के माचुवानछा जंगल से पाँच हथियार, १२ क्लेमोर माइन और १०० देसी बम बरामद किए थे।\n\nफ़ोटो साभार: ANI / Asianet News"
+   },
+   "en": {
+    "title": "Gadchiroli police unearth Maoist explosives cache in Tavve forest",
+    "summary": "A search operation in Tavve forest on November 4 yielded 11 pressure cookers, cortex wire, gunpowder and detonators; police say the cache was meant for attacks on security forces.",
+    "body": "Gadchiroli: Police in Maharashtra's Gadchiroli district have recovered a large cache of explosives and Maoist-related material hidden in a forest area. The recovery was made in the Tavve forest, which falls under the jurisdiction of Garapatti police station.\n\nActing on intelligence inputs that explosives and other material had been concealed in the forest, four teams of the Special Operations Group (SOG) and two teams of the Bomb Detection and Disposal Squad (BDDS) launched a search operation there on November 4. The operation was conducted under the guidance of Gadchiroli Superintendent of Police M Ramesh.\n\nThe search yielded 11 pressure cookers, three bundles of cortex wire, approximately 3 kg of gunpowder and four detonators. The teams also recovered a 12-volt battery, 250 grams of firecracker powder, four steel containers, eight bundles of wire, a solar panel and other items suspected to be linked to Maoist activities.\n\nPolice said the explosives were allegedly intended to be used in attacks on security forces. No arrests have been reported in connection with the recovery so far.\n\nThe seizure comes days after Gadchiroli Police recovered five firearms, 12 Claymore mines and 100 crude bombs from the Machuvanchha forest under Wangeturi police station limits on October 27.\n\nPhoto: ANI / Asianet News"
+   },
+   "publishedAt": "2026-11-06T19:33:43+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gadchiroli-police-seize-maoist-explosives-tavve-forest-november-06.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gadchiroli-police-seize-maoist-explosives-tavve-forest-november-06-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gadchiroli-police-seize-maoist-explosives-tavve-forest-november-06-en.mp3"
+  },
   {
    "id": "cbi-books-future-retail-kishore-biyani-904-crore-bank-fraud-november-06",
    "category": "Crime & Law",
