@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-06T07:03:57+05:30",
+ "updatedAt": "2026-11-06T07:12:38+05:30",
  "articles": [
+  {
+   "id": "cyclone-murasu-damage-1918-crore-eight-dead-andhra-november-05",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "hi": {
+    "title": "चक्रवात मुरासु: आंध्र प्रदेश में १,९१८.५५ करोड़ का नुकसान, आठ लोगों की मौत — नायडू आज प्रभावित इलाकों का दौरा करेंगे",
+    "summary": "चक्रवात मुरासु से आंध्र प्रदेश को १,९१८.५५ करोड़ रुपये का शुरुआती नुकसान हुआ है और आठ लोगों की मौत हुई है। १.४३ लाख हेक्टेयर फ़सल बर्बाद, १.८६ लाख किसान प्रभावित; मुख्यमंत्री चंद्रबाबू नायडू शुक्रवार को प्रभावित इलाकों का दौरा करेंगे।"
+   },
+   "en": {
+    "title": "Cyclone Murasu: Andhra Pradesh counts ₹1,918.55 crore in damage, eight dead — Naidu to visit affected areas today",
+    "summary": "Cyclone Murasu has left Andhra Pradesh with a preliminary loss of ₹1,918.55 crore and eight dead. Crops across 1.43 lakh hectares were damaged, affecting 1.86 lakh farmers; Chief Minister Chandrababu Naidu will visit the affected areas on Friday."
+   },
+   "publishedAt": "2026-11-06T07:12:38+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-murasu-damage-1918-crore-eight-dead-andhra-november-05.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-murasu-damage-1918-crore-eight-dead-andhra-november-05-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-murasu-damage-1918-crore-eight-dead-andhra-november-05-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
