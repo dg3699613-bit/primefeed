@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-08T02:27:12+05:30",
+  "updatedAt": "2026-11-08T02:48:12+05:30",
   "articles": [
+    {
+      "id": "indigo-flight-6e451-hijack-threat-note-hoax-bengaluru-november-07",
+      "category": "Crime & Law",
+      "sub": "Police & Crime",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-08T02:48:12+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indigo-flight-6e451-hijack-threat-note-hoax-bengaluru-november-07.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indigo-flight-6e451-hijack-threat-note-hoax-bengaluru-november-07-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indigo-flight-6e451-hijack-threat-note-hoax-bengaluru-november-07-en.mp3",
+      "district": "Bengaluru Urban",
+      "state": "Karnataka",
+      "hi": {
+        "title": "इंडिगो फ्लाइट में 'हाइजैक' की धमकी वाला नोट मिला, विमान बेंगलुरु लौटा — जाँच में धमकी निकली झूठी",
+        "summary": "बेंगलुरु से लखनऊ जा रही इंडिगो की फ्लाइट ६ई-४५१ में शनिवार शाम एक यात्री को शौचालय में हाथ से लिखा धमकी भरा नोट मिला। विमान को वापस बेंगलुरु लाया गया, करीब डेढ़ घंटे की जाँच के बाद धमकी झूठी निकली और फ्लाइट रात में लखनऊ के लिए रवाना हो गई।"
+      },
+      "en": {
+        "title": "Hijack-threat note in toilet forces IndiGo flight 6E-451 back to Bengaluru — threat declared a hoax",
+        "summary": "A handwritten hijack-threat note found in the lavatory of IndiGo flight 6E-451 from Bengaluru to Lucknow on Saturday evening forced the aircraft to return to Bengaluru with 178 passengers on board. A 90-minute security check found nothing suspicious, the threat was declared a hoax, and the flight later resumed to Lucknow."
+      }
+    },
     {
       "id": "netanyahu-calls-national-unity-government-israel-november-07",
       "category": "World",
