@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-08T05:17:18+05:30",
+ "updatedAt": "2026-11-08T05:21:52+05:30",
  "articles": [
+  {
+   "id": "us-strikes-cargo-ship-huda-gulf-oman-iran-blockade-november-07",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-08T05:21:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-strikes-cargo-ship-huda-gulf-oman-iran-blockade-november-07.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-strikes-cargo-ship-huda-gulf-oman-iran-blockade-november-07-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-strikes-cargo-ship-huda-gulf-oman-iran-blockade-november-07-en.mp3",
+   "hi": {
+    "title": "ओमान की खाड़ी में अमेरिकी हमला: ईरान की नाकेबंदी तोड़ने की कोशिश कर रहा मालवाहक जहाज़ एमवी हूदा निष्क्रिय",
+    "summary": "अमेरिकी सेना ने शनिवार को ओमान की खाड़ी में सेंट किट्स ध्वज वाले मालवाहक जहाज़ एमवी हूदा पर सटीक हमला करके उसे निष्क्रिय कर दिया। अमेरिकी केंद्रीय कमान के मुताबिक जहाज़ ईरानी बंदरगाह से लौटकर ईरान पर लगी अमेरिकी नौसैनिक नाकेबंदी तोड़ने की कोशिश कर रहा था और उसने बार-बार दी गई चेतावनियों को नज़रअंदाज़ किया था।",
+    "body": "ओमान की खाड़ी: अमेरिकी सेना ने शनिवार को ओमान की खाड़ी में एक मालवाहक जहाज़ पर सटीक हमला करके उसे निष्क्रिय कर दिया। अमेरिकी केंद्रीय कमान (सेंटकॉम) ने कहा कि जहाज़ ईरान पर लगी अमेरिकी नौसैनिक नाकेबंदी तोड़ने की कोशिश कर रहा था।\n\nसेंट किट्स ध्वज वाला जहाज़ एमवी हूदा एक ईरानी बंदरगाह से लौट रहा था और क्षेत्रीय जलक्षेत्र से बाहर निकलने की कोशिश कर रहा था। सेंटकॉम के मुताबिक जहाज़ के चालक दल ने बार-बार दी गई चेतावनियों को नज़रअंदाज़ किया और नाकेबंदी तोड़ने की कई बार कोशिश की। इसके बाद अमेरिकी सैन्य विमान ने जहाज़ के पिछले हिस्से पर सटीक हथियारों से हमला किया। हमले से पहले अमेरिकी बलों ने चालक दल को निशाना बनाए गए हिस्सों को खाली करने का निर्देश दिया था।\n\nसेंटकॉम ने यह नहीं बताया कि हमले में जहाज़ पर सवार किसी व्यक्ति को चोट लगी या नहीं, जहाज़ पर कितने लोग थे और उसमें क्या सामान लदा था।\n\nकेंद्रीय कमान ने कहा कि जुलाई से अब तक उसकी नौसैनिक नाकेबंदी के दौरान 147 वाणिज्यिक जहाज़ों ने आदेश मानकर अपना रास्ता बदल लिया है, जबकि आदेश न मानने वाले पाँच व्यापारी जहाज़ों को निष्क्रिय किया जा चुका है। सेंटकॉम के मुताबिक उसके बलों ने ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स से जुड़े छाया नेटवर्क के 10 ईरानी वाणिज्यिक तेल टैंकर भी नष्ट किए हैं।\n\nरॉयटर्स के मुताबिक सेंटकॉम का अनुमान है कि इस नाकेबंदी से ईरान के 25 अरब डॉलर से ज़्यादा के कच्चे तेल का निर्यात रुक गया है।\n\nअमेरिकी सेना ने शनिवार को यह भी कहा कि वह तेहरान के उन्नत हथियारों और प्रतिबंधित सामग्री की आवाजाही रोकने के लिए एक नया कार्यबल बना रही है, जो ईरान की ज़मीनी सीमाओं और कैस्पियन सागर के रास्ते होने वाली आवाजाही पर नज़र रखेगा।\n\nयह घटना ऐसे समय पर हुई है जब राष्ट्रपति डोनाल्ड ट्रंप ईरान के खिलाफ नए हमले की धमकी देते रहे हैं और तेहरान ने खाड़ी क्षेत्र के ढाँचे के खिलाफ व्यापक जवाबी कार्रवाई की चेतावनी दी है।\n\nफ़ोटो साभार: यूएस सेंट्रल कमांड"
+   },
+   "en": {
+    "title": "US aircraft disables cargo ship M/V Huda in the Gulf of Oman after it tried to break the Iran blockade",
+    "summary": "The US military fired on and disabled the St Kitts-flagged cargo ship M/V Huda in the Gulf of Oman on Saturday, saying the vessel had visited an Iranian port and repeatedly ignored warnings while trying to break the American naval blockade on Iran.",
+    "body": "Gulf of Oman: The US military fired on and disabled a commercial cargo vessel in the Gulf of Oman on Saturday, saying the ship was trying to break the American naval blockade on Iran.\n\nThe St Kitts-flagged vessel, M/V Huda, had visited an Iranian port and was trying to leave regional waters when it was struck. According to US Central Command (CENTCOM), the crew ignored repeated warnings and made several attempts to breach the blockade. A US military aircraft then fired precision munitions at the ship's stern. Before the strike, US forces directed the crew to abandon the targeted spaces.\n\nCENTCOM did not say whether anyone on board was hurt, how many crew members the ship carried, or what cargo it was carrying.\n\nThe command said that since July, its forces have redirected 147 commercial vessels that complied with the blockade, and disabled five merchant ships that refused. It said US forces had also destroyed 10 Iranian commercial oil tankers it described as part of a shadow shipping network run by Iran's Islamic Revolutionary Guard Corps.\n\nCENTCOM estimated that the naval blockade has prevented Iran from exporting more than $25 billion in crude oil, Reuters reported.\n\nThe US military also said on Saturday that it is launching a task force to crack down on Tehran's movement of advanced weapons and other sanctioned material over its land borders and through the Caspian Sea.\n\nThe strike comes as President Donald Trump has been threatening a new offensive against Iran, and Tehran has threatened broad retaliation against Gulf infrastructure.\n\nPhoto: US Central Command"
+   }
+  },
+  {
+   "id": "krakow-shooting-three-bodies-suspects-home-nine-dead-november-07",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-08T05:21:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/krakow-shooting-three-bodies-suspects-home-nine-dead-november-07.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krakow-shooting-three-bodies-suspects-home-nine-dead-november-07-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krakow-shooting-three-bodies-suspects-home-nine-dead-november-07-en.mp3",
+   "hi": {
+    "title": "क्राको हमले में मरने वालों की संख्या नौ हुई: बंदूकधारी के घर से उसके परिवार के तीन सदस्यों के शव मिले",
+    "summary": "पोलैंड के क्राको में शनिवार को हुए गोलीकांड में मरने वालों की संख्या नौ हो गई है। हमलावर के घर की तलाशी में उसके परिवार के तीन सदस्यों के शव मिले हैं। प्रधानमंत्री डोनाल्ड टस्क ने कहा है कि इस बात के प्रबल संकेत हैं कि तीनों शव बंदूकधारी के निकटतम परिवार के हैं।",
+    "body": "क्राको: पोलैंड के क्राको शहर में शनिवार को हुए गोलीकांड में मरने वालों की संख्या नौ हो गई है। हमलावर के घर की तलाशी के दौरान पुलिस को उसके परिवार के तीन सदस्यों के शव मिले हैं।\n\nशनिवार दोपहर करीब तीन बजे 25 वर्षीय एक व्यक्ति ने कार से क्राको के मुख्य बाज़ार चौक (मेन मार्केट स्क्वायर) में घुसकर लोगों पर अंधाधुंध गोलीबारी की थी। हमले में चार महिलाओं और दो पुरुषों समेत छह लोगों की मौत हो गई थी और 15 लोग घायल हुए थे। मरने वालों में एक ब्रिटिश नागरिक भी शामिल है।\n\nपुलिस ने हमलावर को गोली मारकर घायल कर दिया था और उसे अस्पताल में भर्ती कराया गया है। पुलिस के मुताबिक हमलावर ने अकेले ही हमला किया था। उसके पास से सैन्य तरह का लंबा हथियार मिला है और उसकी कार से कई अन्य हथियार और गोलाबारूद भी बरामद हुए हैं।\n\nहमले के कुछ घंटे बाद पुलिस ने हमलावर के घर की तलाशी ली। क्राको से करीब 150 किलोमीटर दूर ओस्त्रोविएत्स श्वियेंतोक्शिस्की स्थित उसके घर से दो महिलाओं और एक पुरुष के शव मिले। प्रधानमंत्री डोनाल्ड टस्क ने कहा कि इस बात के प्रबल संकेत हैं कि तीनों शव बंदूकधारी के निकटतम परिवार के सदस्य हैं। टस्क ने कहा, 'हमारे सामने इस त्रासदी के अगले अध्याय हैं।'\n\nपोलैंड के गृह मंत्री मार्सिन किएरविंस्की ने कहा है कि हमलावर चरम दक्षिणपंथी विचारधारा से प्रभावित था और उसके विचार 'बेहद कट्टर' थे। रक्षा मंत्री व्लादिस्वाव कोसिन्याक-कामिश ने इस हमले को 'आतंकवादी कृत्य' बताया है।\n\nगोलीबारी में दो पुलिसकर्मी भी घायल हुए हैं, जिनमें से एक की हालत गंभीर बताई गई है। घायलों में ऑस्ट्रिया, जर्मनी, पुर्तगाल, रूस और ब्रिटेन के नागरिक भी शामिल हैं।\n\nक्राको के मेयर ने शहर में 11 नवंबर तक शोक की घोषणा की है। पुलिस ने अभी हमलावर का नाम जारी नहीं किया है और हमले के मकसद के बारे में भी कोई जानकारी नहीं दी है।\n\nफ़ोटो साभार: बीटा ज़ावर्ज़ेल / एपी"
+   },
+   "en": {
+    "title": "Krakow toll rises to nine as three bodies found at gunman's home, likely his family",
+    "summary": "The death toll from Saturday's shooting in the Polish city of Krakow has risen to nine after police found the bodies of three people at the gunman's home. Prime Minister Donald Tusk said there were strong indications the three were members of the attacker's immediate family.",
+    "body": "Krakow: The death toll from Saturday's shooting in the Polish city of Krakow has risen to nine, after police found the bodies of three people at the gunman's home.\n\nA 25-year-old man drove into Krakow's Main Market Square at around 3 p.m. on Saturday and opened fire at random from his car. Six people were killed — four women and two men — and 15 were injured. One of the dead was a British citizen.\n\nPolice shot and wounded the gunman, who is now in hospital. According to police, he acted alone. He was carrying a military-type long gun, and officers found several other weapons and ammunition in his car.\n\nHours after the attack, police searched the gunman's home in Ostrowiec Swietokrzyski, about 150 kilometres from Krakow, and found the bodies of two women and a man. Prime Minister Donald Tusk said there were strong indications that the three were members of the gunman's immediate family. 'We have the next acts of this tragedy,' Tusk told reporters.\n\nInterior Minister Marcin Kierwinski said the attacker was fascinated by far-right ideologies and held 'very radical' views. Defence Minister Wladyslaw Kosiniak-Kamysz described the shooting as an 'act of terror'.\n\nTwo police officers were also wounded by gunfire, one of them seriously. The injured included nationals of Austria, Germany, Portugal, Russia and Britain.\n\nThe mayor of Krakow has declared a period of mourning in the city until November 11. Police have not released the gunman's name and have not given a motive for the attack.\n\nPhoto: Beata Zawrzel / AP"
+   }
+  },
   {
    "id": "east-bengal-first-indian-club-afc-womens-champions-league-quarter-finals-november-07",
    "category": "Cricket & Sports",
