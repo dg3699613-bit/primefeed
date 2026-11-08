@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-09T02:48:55+05:30",
+ "updatedAt": "2026-11-09T03:19:28+05:30",
  "articles": [
+  {
+   "id": "trump-calls-midterm-rout-giant-step-back-vows-comeback-november-08",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T03:19:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-calls-midterm-rout-giant-step-back-vows-comeback-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-calls-midterm-rout-giant-step-back-vows-comeback-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-calls-midterm-rout-giant-step-back-vows-comeback-november-08-en.mp3",
+   "hi": {
+    "title": "मध्यावधि चुनाव की हार को ट्रंप ने 'इतिहास में बड़ा कदम पीछे' कहा, वापसी का वादा — 'हम पहले से बड़े और मज़बूत होकर लौटेंगे'",
+    "summary": "रविवार को डोनाल्ड ट्रंप ने मध्यावधि चुनाव में दोनों सदनों की हार के बाद राजनीतिक वापसी का वादा किया — नतीजे को 'इतिहास में बड़ा कदम पीछे' बताया, और माना कि ईरान युद्ध ने वोट पर असर डाला।"
+   },
+   "en": {
+    "title": "Trump calls midterm rout a 'giant step back in history', vows comeback: 'We will be back, bigger and stronger than ever before'",
+    "summary": "Donald Trump vowed a political comeback on Sunday after his party lost both houses of Congress in the midterm elections, calling the result 'a giant step back in history' — while conceding his deputy's claim that the Iran war cost them the vote."
+   }
+  },
+  {
+   "id": "bikaner-train-tragedy-couple-rescuer-killed-gharsisar-november-08",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T03:19:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bikaner-train-tragedy-couple-rescuer-killed-gharsisar-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bikaner-train-tragedy-couple-rescuer-killed-gharsisar-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bikaner-train-tragedy-couple-rescuer-killed-gharsisar-november-08-en.mp3",
+   "district": "Bikaner",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "बीकानेर में दिवाली पर रेलवे ट्रैक पर हादसा: झगड़ते दंपती और बचाने आए लोगों को ट्रेन ने कुचला, तीन की मौत",
+    "summary": "बीकानेर में रविवार दोपहर घरेलू झगड़े के बाद रेलवे ट्रैक पर दौड़े पति-पत्नी और उन्हें बचाने आए एक व्यक्ति की ट्रेन की चपेट में आकर मौत हो गई। चौथा व्यक्ति गंभीर रूप से घायल है।"
+   },
+   "en": {
+    "title": "Three killed as train hits quarrelling couple and rescuers on Bikaner track on Diwali",
+    "summary": "A husband and wife who ran onto the railway track after a domestic dispute in Bikaner were killed along with a man who rushed to save them, after a train hit all four on Sunday afternoon. A fourth man is seriously injured."
+   }
+  },
   {
    "id": "nottingham-forest-beat-man-city-3-1-delap-double-november-08",
    "category": "Cricket & Sports",
@@ -3191,50 +3235,6 @@
    "en": {
     "title": "30 lakh diyas, one glowing river: Ayodhya's 10th Deepotsav lights up the Saryu on Diwali eve",
     "summary": "More than 30 lakh diyas lit up 56 ghats along the Saryu as Ayodhya celebrated the 10th Deepotsav, with the Vice-President lighting the first lamp and a 2,100-drone Ramayana show in the night sky."
-   }
-  },
-  {
-   "id": "chawri-bazar-collapse-toll-six-owner-arrested-november-07",
-   "category": "State & Local",
-   "sub": "Delhi",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-07T20:58:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chawri-bazar-collapse-toll-six-owner-arrested-november-07.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chawri-bazar-collapse-toll-six-owner-arrested-november-07-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chawri-bazar-collapse-toll-six-owner-arrested-november-07-en.mp3",
-   "district": "Central Delhi",
-   "state": "Delhi",
-   "hi": {
-    "title": "चावड़ी बाज़ार हादसा: मौतों का आंकड़ा छह हुआ, मकान मालिक गिरफ़्तार; दीवाली से पहले शव लेने बिहार से आए परिजन",
-    "summary": "चावड़ी बाज़ार में गिरी इमारत के मलबे से तीन और शव मिले, मौतों का आंकड़ा छह हुआ; तीन ठेकेदारों के बाद मकान मालिक भी गिरफ़्तार।"
-   },
-   "en": {
-    "title": "Toll in Chawri Bazar collapse rises to six; building owner arrested as Bihar families claim bodies days before Diwali",
-    "summary": "Three more bodies were pulled from the rubble of the collapsed Chawri Bazar building, taking the toll to six; the building owner was arrested a day after three contractors were held."
-   }
-  },
-  {
-   "id": "cancer-drug-prices-fall-up-to-96-percent-november-09",
-   "category": "Health",
-   "sub": "Diseases",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-07T20:43:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cancer-drug-prices-fall-up-to-96-percent-november-09.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cancer-drug-prices-fall-up-to-96-percent-november-09-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cancer-drug-prices-fall-up-to-96-percent-november-09-en.mp3",
-   "hi": {
-    "title": "कैंसर की १३७ दवाएँ ९ नवंबर से सस्ती: कीमतें ९६% तक घटीं, मरीज़ों को सालाना ₹३,५०२ करोड़ की राहत",
-    "summary": "९ नवंबर से १३७ कैंसर दवाओं की नई कीमतें लागू — एनपीपीए ने ट्रेड मार्जिन ३०% पर सीमित किया; १,०३१ फॉर्म्युलेशन सस्ते हुए, सबसे बड़ी कटौती ९६.४५%; मरीज़ों को सालाना करीब ३,५०२ करोड़ रुपये की बचत का अनुमान।"
-   },
-   "en": {
-    "title": "137 cancer drugs get cheaper from November 9: prices cut by up to 96%, patients to save ₹3,502 crore a year",
-    "summary": "Revised prices for 137 anti-cancer drugs take effect on 9 November after the NPPA capped trade margins at 30%; 1,031 formulations get cheaper, the steepest cut at 96.45%, with estimated annual savings of Rs 3,502 crore for patients."
    }
   }
  ]
