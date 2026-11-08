@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-08T19:31:47+05:30",
+ "updatedAt": "2026-11-08T19:49:44+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "body": "Enerhodar: Europe's largest nuclear power plant lost all of its external electricity on Sunday and is running on emergency diesel generators to keep its reactors cool, the International Atomic Energy Agency (IAEA) said.\n\nThe Zaporizhzhia plant in south-eastern Ukraine, under Russian control since the first weeks of the war, lost its off-site power after the 330 kV Ferosplavna line disconnected, the agency said. The plant generates no electricity itself — it depends on outside lines to keep its nuclear fuel cool.\n\n'The cause and location of the latest disconnection are not yet known,' the IAEA said in a post on X, adding that the plant has enough fuel to run a limited number of emergency diesel generators for about two weeks.\n\nThe plant's other main connection, the Dniprovska line, has been unavailable since October 23, the IAEA said. Only in early September did a local ceasefire brokered by the agency allow repairs that restored external power, after the plant had gone without it since August 20.\n\nThe Russian-installed management of the plant said the Ferosplavna line had been shut down by 'automatic protection' and that radiation levels at the site and in the surrounding surveillance zone were normal. 'Staff at the Zaporizhzhia nuclear power plant are monitoring all operational parameters of the equipment. All necessary measures to maintain the safe condition of the power units are being taken in full,' the management said in a statement.\n\nRussia seized the plant, which has six reactors, in the first weeks of its full-scale invasion of Ukraine in February 2022. Since then Moscow and Kyiv have regularly accused each other of military action that puts nuclear safety at risk, and the plant has lost external power repeatedly during the war.\n\nUkraine's nuclear operator said the blackout creates a critical nuclear and radiation safety risk.\n\nPhoto: Reuters",
+    "summary": "Europe's largest nuclear plant lost its last external power line on Sunday and is running on emergency diesel generators, the IAEA said, with enough fuel for about two weeks while the cause of the outage remains unknown.",
+    "title": "Zaporizhzhia nuclear plant loses all external power, runs on diesel generators again"
+   },
+   "featured": false,
+   "hi": {
+    "body": "एनरहोदार: यूरोप के सबसे बड़े परमाणु बिजली संयंत्र की बाहरी बिजली रविवार को पूरी तरह गुल हो गई और अब इसके रिएक्टरों को ठंडा रखने का काम आपातकालीन डीजल जनरेटर कर रहे हैं। अंतरराष्ट्रीय परमाणु ऊर्जा एजेंसी (आईएईए) ने यह जानकारी दी।\n\nदक्षिण-पूर्वी यूक्रेन में स्थित ज़ापोरिज़्ज़िया संयंत्र फरवरी २०२२ में युद्ध शुरू होने के शुरुआती हफ़्तों से रूस के नियंत्रण में है। आईएईए ने बताया कि ३३० केवी की फ़ेरोस्प्लाव्ना लाइन के कट जाने के बाद संयंत्र की बाहरी बिजली चली गई। यह संयंत्र खुद बिजली नहीं बनाता — इसके परमाणु ईंधन को ठंडा रखने के लिए बाहरी लाइन पर निर्भर रहना पड़ता है।\n\nआईएईए ने एक्स पर एक पोस्ट में कहा, 'बिजली गुल होने की वजह और जगह अब तक पता नहीं चली है।' एजेंसी ने यह भी बताया कि संयंत्र के पास सीमित संख्या में आपातकालीन डीजल जनरेटर चलाने के लिए करीब दो हफ़्तों का ईंधन मौजूद है।\n\nसंयंत्र की दूसरी मुख्य लाइन, नीप्रोव्स्का, २३ अक्टूबर से ही बंद पड़ी है। इसी साल सितंबर की शुरुआत में आईएईए की मध्यस्थता से हुए स्थानीय युद्धविराम के बाद ही मरम्मत करके बाहरी बिजली बहाल की गई थी — उससे पहले संयंत्र २० अगस्त से ही बिना बाहरी बिजली के चल रहा था।\n\nसंयंत्र के रूस-नियुक्त प्रबंधन ने कहा कि फ़ेरोस्प्लाव्ना लाइन 'ऑटोमैटिक प्रोटेक्शन' की वजह से बंद हुई और संयंत्र परिसर तथा आसपास के निगरानी क्षेत्र में विकिरण का स्तर सामान्य है। प्रबंधन ने बयान में कहा, 'ज़ापोरिज़्ज़िया परमाणु संयंत्र के कर्मचारी उपकरणों के सभी मानकों पर नज़र रख रहे हैं। बिजली इकाइयों की सुरक्षित स्थिति बनाए रखने के लिए ज़रूरी सभी उपाय पूरी तरह किए जा रहे हैं।'\n\nरूस ने फरवरी २०२२ में यूक्रेन पर बड़े हमले के शुरुआती हफ़्तों में छह रिएक्टरों वाले इस संयंत्र पर कब्ज़ा कर लिया था। तब से मॉस्को और कीव एक-दूसरे पर परमाणु सुरक्षा को खतरे में डालने वाली सैन्य कार्रवाई का आरोप लगाते रहे हैं, और युद्ध के दौरान यह संयंत्र कई बार बाहरी बिजली खो चुका है।\n\nयूक्रेन के परमाणु ऑपरेटर ने कहा कि बिजली गुल होने से परमाणु और विकिरण सुरक्षा के लिए गंभीर खतरा पैदा हो गया है।\n\nफ़ोटो साभार: रॉयटर्स",
+    "summary": "यूरोप के सबसे बड़े परमाणु संयंत्र की आखिरी बाहरी बिजली लाइन रविवार को बंद हो गई और संयंत्र अब आपातकालीन डीजल जनरेटरों पर चल रहा है; आईएईए ने कहा कि करीब दो हफ़्तों का ईंधन है, जबकि बिजली गुल होने की वजह अब तक पता नहीं चली है।",
+    "title": "ज़ापोरिज़्ज़िया परमाणु संयंत्र की बाहरी बिजली फिर गुल, डीजल जनरेटर से चल रहा कूलिंग सिस्टम"
+   },
+   "id": "zaporizhzhia-nuclear-plant-loses-external-power-diesel-generators-november-08",
+   "source": "PrimeFeed Desk",
+   "sub": "Europe",
+   "trending": true,
+   "publishedAt": "2026-11-08T19:49:44+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/zaporizhzhia-nuclear-plant-loses-external-power-diesel-generators-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zaporizhzhia-nuclear-plant-loses-external-power-diesel-generators-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zaporizhzhia-nuclear-plant-loses-external-power-diesel-generators-november-08-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Entertainment",
