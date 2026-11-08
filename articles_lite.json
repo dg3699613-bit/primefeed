@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-09T02:27:37+05:30",
+ "updatedAt": "2026-11-09T02:48:55+05:30",
  "articles": [
+  {
+   "id": "nottingham-forest-beat-man-city-3-1-delap-double-november-08",
+   "category": "Cricket & Sports",
+   "sub": "Football",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T02:48:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nottingham-forest-beat-man-city-3-1-delap-double-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nottingham-forest-beat-man-city-3-1-delap-double-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nottingham-forest-beat-man-city-3-1-delap-double-november-08-en.mp3",
+   "hi": {
+    "title": "डेलैप के दो गोलों से फ़ॉरेस्ट ने सिटी को ३-१ से हराया: चैंपियन की लगातार तीसरी हार, आर्सेनल से छह अंक पीछे",
+    "summary": "नॉटिंघम फ़ॉरेस्ट ने शनिवार रात मैनचेस्टर सिटी को सिटी ग्राउंड पर ३-१ से हराकर सत्र का सबसे बड़ा उलटफेर किया। लियाम डेलैप ने अपने पुराने क्लब के ख़िलाफ़ दो गोल दागे; सिटी की यह लीग में लगातार तीसरी हार है।"
+   },
+   "en": {
+    "title": "Delap's double sinks Man City 3-1 as Forest climb out of the drop zone; champions lose three in a row",
+    "summary": "Nottingham Forest stunned Manchester City 3-1 at the City Ground on Saturday, with Liam Delap scoring twice against his former club. It was City's third consecutive Premier League defeat, leaving them six points behind leaders Arsenal."
+   }
+  },
+  {
+   "id": "congress-demonetisation-10-years-notebandi-votebandi-november-08",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T02:48:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-demonetisation-10-years-notebandi-votebandi-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-demonetisation-10-years-notebandi-votebandi-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-demonetisation-10-years-notebandi-votebandi-november-08-en.mp3",
+   "hi": {
+    "title": "नोटबंदी के दस साल: कांग्रेस बोली — 'नोटबंदी' ने अर्थव्यवस्था तबाह की, 'वोटबंदी' राजनीति बर्बाद कर रही है",
+    "summary": "८ नवंबर २०१६ की नोटबंदी के दस साल पूरे होने पर कांग्रेस ने रविवार को मोदी सरकार पर हमला बोला। जयराम रमेश ने कहा — 'नोटबंदी' ने अर्थव्यवस्था तबाह की, 'वोटबंदी' अब राजनीति को बर्बाद कर रही है।"
+   },
+   "en": {
+    "title": "Ten years of demonetisation: Congress says 'notebandi' wrecked the economy, 'votebandi' is wrecking democracy",
+    "summary": "Marking ten years since the 8 November 2016 demonetisation, the Congress said the decision devastated the economy and accused the Modi government of now undermining democracy through 'votebandi'."
+   }
+  },
   {
    "id": "cancer-drugs-cheaper-from-today-137-medicines-price-cut-november-09",
    "category": "Health",
@@ -3193,50 +3235,6 @@
    "en": {
     "title": "137 cancer drugs get cheaper from November 9: prices cut by up to 96%, patients to save ₹3,502 crore a year",
     "summary": "Revised prices for 137 anti-cancer drugs take effect on 9 November after the NPPA capped trade margins at 30%; 1,031 formulations get cheaper, the steepest cut at 96.45%, with estimated annual savings of Rs 3,502 crore for patients."
-   }
-  },
-  {
-   "id": "mohammed-shami-retires-from-test-cricket-november-07",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-07T20:43:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mohammed-shami-retires-from-test-cricket-november-07.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mohammed-shami-retires-from-test-cricket-november-07-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mohammed-shami-retires-from-test-cricket-november-07-en.mp3",
-   "hi": {
-    "title": "सफ़ेद जर्सी को अलविदा: मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास लिया, १३ साल में २२९ विकेट",
-    "summary": "शुक्रवार की रात मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास का ऐलान किया — ठीक १३ साल बाद, उसी दिन जब उन्होंने ईडन गार्डन्स में डेब्यू किया था; ६४ टेस्ट में २२९ विकेट, अब सफेद गेंद की क्रिकेट जारी रखेंगे।"
-   },
-   "en": {
-    "title": "Shami bids farewell to the white jersey: Mohammed Shami retires from Test cricket after 229 wickets in 13 years",
-    "summary": "Mohammed Shami announced his retirement from Test cricket on Friday night, exactly 13 years after his debut at Eden Gardens; he finishes with 229 wickets from 64 Tests and will continue playing white-ball cricket."
-   }
-  },
-  {
-   "id": "naveen-patnaik-ganjam-flood-visit-aid-row-november-07",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-07T20:28:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/naveen-patnaik-ganjam-flood-visit-aid-row-november-07.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/naveen-patnaik-ganjam-flood-visit-aid-row-november-07-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/naveen-patnaik-ganjam-flood-visit-aid-row-november-07-en.mp3",
-   "district": "Ganjam",
-   "state": "Odisha",
-   "hi": {
-    "title": "गंजाम में बाढ़ पीड़ितों से मिले नवीन पटनायक: 'मदद नुकसान के मुकाबले नगण्य', सरकार पर तीखा हमला",
-    "summary": "शनिवार को शेरगढ़, हिंजिली, अस्का और सोरड़ा के दौरे में नवीन पटनायक ने कहा — किसानों की सड़ी धान देखकर नुकसान 'अकल्पनीय' लगा, सरकार तुरंत मुआवज़ा दे। दक्षिण ओडिशा में अब तक कम से कम ११ लोगों की मौत, १० लापता; मुख्यमंत्री और नेता प्रतिपक्ष दोनों ने दिवाली नहीं मनाने का फैसला किया।"
-   },
-   "en": {
-    "title": "Patnaik tours flood-hit Ganjam, calls relief 'negligible' as Odisha toll reaches 11",
-    "summary": "Touring Shergarh, Hinjili, Aska and Sorada on Saturday, Naveen Patnaik said the flood damage was 'unimaginable' after seeing farmers' rotting paddy, and demanded immediate compensation. At least 11 people have died in southern Odisha and 10 remain missing; the CM and the LoP have both decided to skip Diwali."
    }
   }
  ]
