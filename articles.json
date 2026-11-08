@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-09T01:07:41+05:30",
+ "updatedAt": "2026-11-09T01:18:19+05:30",
  "articles": [
+  {
+   "id": "egypt-giza-train-crash-toll-rises-seven-dead-112-injured-november-08",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T01:18:19+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/egypt-giza-train-crash-toll-rises-seven-dead-112-injured-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/egypt-giza-train-crash-toll-rises-seven-dead-112-injured-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/egypt-giza-train-crash-toll-rises-seven-dead-112-injured-november-08-en.mp3",
+   "hi": {
+    "title": "मिस्र ट्रेन हादसे में मरने वालों की संख्या बढ़कर सात हुई, ११२ घायल; कंडक्टर की भी मौत",
+    "summary": "स्वास्थ्य मंत्रालय ने गीज़ा ट्रेन हादसे में मरने वालों की संख्या सात और घायलों की एक सौ बारह बताई है। पैंतालीस घायलों को अस्पताल से छुट्टी मिल गई है, और मरने वालों में एक कंडक्टर भी है।",
+    "body": "काहिरा: मिस्र में रविवार को हुई ट्रेन टक्कर में मरने वालों की संख्या बढ़कर सात हो गई है, जबकि एक सौ बारह लोग घायल हुए हैं। देश के स्वास्थ्य मंत्रालय ने यह ताज़ा आँकड़ा जारी किया है। हादसे के बाद गीज़ा प्रांत के अल-अय्यात इलाके में बचाव दल रात भर काम करते रहे।\n\nमंत्रालय के मुताबिक घायलों में से पैंतालीस लोगों को हालत में सुधार के बाद अस्पताल से छुट्टी दे दी गई है। हादसे के कुछ घंटे बाद जारी पहले आँकड़े में चार लोगों की मौत और अठासी लोगों के घायल होने की बात कही गई थी।\n\nहादसा रविवार को काहिरा से करीब बावन किलोमीटर दक्षिण में अल-अय्यात इलाके में हुआ, जहाँ गीज़ा से फ़य्यूम जा रही ट्रेन ने काहिरा से अस्वान जा रही ट्रेन के पिछले हिस्से को टक्कर मार दी। टक्कर इतनी ज़ोरदार थी कि कई डिब्बे पटरी से उतर गए। मलबा हटाने के लिए क्रेनें लगाई गईं, जबकि काहिरा से दक्षिणी मिस्र जाने वाली रेल लाइन पर यातायात ठप रहा।\n\nमुख्य अभियोजक के कार्यालय ने बताया कि मरने वालों में एक ट्रेन का कंडक्टर भी शामिल है। जाँच दल मौके पर पहुँच चुका है और टक्कर के तकनीकी कारणों की जाँच कर रहा है।\n\nराष्ट्रपति अब्देल फ़त्ताह अल-सीसी ने हादसे की तेज़ जाँच के आदेश दिए हैं और कहा है कि लापरवाही पाए जाने पर ज़िम्मेदारों के खिलाफ कार्रवाई होनी चाहिए। उन्होंने मारे गए लोगों के परिवारों के प्रति संवेदना भी जताई है।\n\nअल-अय्यात वही इलाका है, जहाँ दो हज़ार दो में मिस्र का सबसे भयानक रेल हादसा हुआ था — एक ट्रेन में आग लगने से तीन सौ सत्तर से ज़्यादा लोग मारे गए थे।\n\nफ़ोटो साभार: एपी"
+   },
+   "en": {
+    "title": "Egypt train crash toll rises to seven dead, 112 injured; conductor among the victims",
+    "summary": "Egypt's health ministry raised the toll from the Giza train collision to seven dead and 112 injured, with 45 discharged; a conductor was among those killed and President Sisi has ordered a swift investigation.",
+    "body": "Cairo: The death toll from Sunday's train collision in Egypt has risen to seven, with 112 people injured, the country's health ministry said, as rescue teams worked through the night at the crash site in Giza province.\n\nOf the 112 injured, 45 have been discharged from hospital after their condition improved, the ministry said. The first count issued hours after the crash had put the toll at four dead and 88 injured.\n\nThe crash happened on Sunday in the Al-Ayyat district, about 52 kilometres south of Cairo, when a train travelling from Giza to Fayoum ran into the rear of a train heading from Cairo to Aswan. Several carriages derailed in the impact. Cranes were brought in to lift the wreckage clear, while traffic on the Cairo–Upper Egypt line stood disrupted.\n\nOne of the train's conductors was among those killed, the chief prosecutor's office said. Investigators have reached the site and are examining the technical reasons for the collision.\n\nPresident Abdel Fattah el-Sisi has ordered a swift investigation and said anyone found negligent should be held accountable. He also offered his condolences to the families of those killed.\n\nAl-Ayyat is the same area where Egypt's worst rail disaster unfolded in 2002, when a fire on a train killed more than 370 people.\n\nPhoto: AP"
+   }
+  },
   {
    "id": "bangladesh-renews-hasina-extradition-demand-convicted-criminal-november-08",
    "category": "World",
