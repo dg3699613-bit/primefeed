@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-08T05:42:50+05:30",
+ "updatedAt": "2026-11-08T05:59:49+05:30",
  "articles": [
+  {
+   "id": "india-beat-new-zealand-4-runs-dls-2nd-odi-wellington",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-08T05:59:49+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-new-zealand-4-runs-dls-2nd-odi-wellington.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-new-zealand-4-runs-dls-2nd-odi-wellington-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-new-zealand-4-runs-dls-2nd-odi-wellington-en.mp3",
+   "hi": {
+    "title": "वेलिंग्टन में बारिश से रुके दूसरे वनडे में भारत ने न्यूज़ीलैंड को ४ रन से हराया, सीरीज़ में २-० की बढ़त",
+    "summary": "बारिश से प्रभावित दूसरे वनडे में भारत ने न्यूज़ीलैंड को डीएलएस पद्धति से चार रन से हराया — गुरनूर बराड़ के चार विकेट और केएल राहुल की नाबाद पारी के दम पर टीम ने पाँच मैचों की सीरीज़ में २-० की बढ़त बना ली।"
+   },
+   "en": {
+    "title": "India edge New Zealand by 4 runs on DLS in rain-hit Wellington ODI, take 2-0 series lead",
+    "summary": "India beat New Zealand by four runs on the DLS method in a rain-hit second ODI in Wellington — Gurnoor Brar's four wickets and KL Rahul's unbeaten knock sealing a 2-0 lead in the five-match series."
+   }
+  },
   {
    "id": "hardik-arshdeep-ipl-trade-punjab-kings-mumbai-indians",
    "category": "Cricket & Sports",
