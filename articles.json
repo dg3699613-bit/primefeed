@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-08T13:17:47+05:30",
+  "updatedAt": "2026-11-08T13:27:40+05:30",
   "articles": [
+    {
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanpur-panki-roof-collapse-three-dead-newborn-november-08-en.mp3",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanpur-panki-roof-collapse-three-dead-newborn-november-08-hi.mp3",
+      "breaking": false,
+      "category": "State & Local",
+      "district": "Kanpur Nagar",
+      "en": {
+        "body": "Kanpur: Three members of a family, including a newborn baby, were killed after the roof of their house collapsed in Kanpur on Sunday morning. The dead include a woman, her newborn son and her mother-in-law.\n\nThe collapse happened at around 8 am in the Panki Padao area, under the Panki police station limits. The three were trapped under the debris as the roof came down. Police and rescue teams reached the spot after being alerted and pulled them out of the rubble. They were rushed to a hospital, where doctors declared all three dead.\n\nDeputy Commissioner of Police (West) Qasim Abidi said the roof collapsed at around 8 am in the Panki Padao area, killing three people. He said the dead include a woman, her newborn son and her mother-in-law, and a rescue operation was immediately carried out at the spot.\n\nThe cause of the collapse is not yet known. Police have sent the bodies for post-mortem examination and begun an investigation into the incident.\n\nThe accident comes a day after a concrete roof slab collapsed at an under-construction house in Modinagar, Ghaziabad, killing one worker and injuring five others. Earlier in the week, seven people died when an under-construction building collapsed in Delhi's Chawri Bazar area.\n\nPhoto: IANS",
+        "summary": "A house roof collapsed in Kanpur's Panki area on Sunday morning, killing three members of a family — a woman, her newborn son and her mother-in-law. Police have begun an investigation.",
+        "title": "House roof collapses in Kanpur's Panki, three of a family killed including newborn"
+      },
+      "featured": false,
+      "hi": {
+        "body": "कानपुर: उत्तर प्रदेश के कानपुर में रविवार सुबह एक घर की छत गिर गई, जिससे एक ही परिवार के तीन लोगों की मौत हो गई। मरने वालों में एक महिला, उनका नवजात बेटा और उनकी सास शामिल हैं।\n\nहादसा पंकी थाना क्षेत्र के पंकी पड़ाव इलाके में सुबह करीब आठ बजे हुआ। पुलिस के मुताबिक छत गिरते ही तीनों मलबे के नीचे दब गए। सूचना मिलते ही पुलिस और बचाव दल मौके पर पहुँचे और मलबा हटाकर तीनों को बाहर निकाला गया। उन्हें अस्पताल ले जाया गया, जहाँ डॉक्टरों ने तीनों को मृत घोषित कर दिया।\n\nपुलिस उपायुक्त (पश्चिम) कासिम आब्दी ने बताया कि सुबह करीब आठ बजे पंकी पड़ाव इलाके में एक घर की छत गिर गई, जिससे तीन लोगों की दुखद मौत हो गई। उन्होंने कहा कि मरने वालों में एक महिला, उनका नवजात बेटा और उनकी सास शामिल हैं, और मौके पर तुरंत बचाव अभियान चलाया गया।\n\nछत गिरने की वजह अभी साफ नहीं है। पुलिस ने शवों को पोस्टमॉर्टम के लिए भेज दिया है और हादसे की जाँच शुरू कर दी है।\n\nगौरतलब है कि शनिवार को ही गाज़ियाबाद के मोदीनगर में एक निर्माणाधीन मकान की छत का स्लैब गिरने से एक मज़दूर की मौत हो गई थी और पाँच घायल हुए थे। इससे पहले गुरुवार को दिल्ली के चावड़ी बाज़ार में एक इमारत गिरने से सात लोगों की जान गई थी।\n\nफ़ोटो साभार: आईएएनएस",
+        "summary": "कानपुर के पंकी इलाके में रविवार सुबह एक घर की छत गिर गई। मलबे में दबकर एक महिला, उनके नवजात बेटे और उनकी सास की मौत हो गई। पुलिस ने जाँच शुरू कर दी है।",
+        "title": "कानपुर के पंकी में घर की छत गिरी, एक ही परिवार के तीन लोगों की मौत, नवजात भी शामिल"
+      },
+      "id": "kanpur-panki-roof-collapse-three-dead-newborn-november-08",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kanpur-panki-roof-collapse-three-dead-newborn-november-08.jpg",
+      "source": "PrimeFeed Desk",
+      "state": "Uttar Pradesh",
+      "sub": "Uttar Pradesh",
+      "trending": true,
+      "publishedAt": "2026-11-08T13:27:40+05:30"
+    },
     {
       "id": "arjun-rajput-hundred-rescues-india-u19-pakistan-asia-cup-november-08",
       "category": "Cricket & Sports",
