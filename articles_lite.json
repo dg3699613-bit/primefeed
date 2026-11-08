@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-08T06:22:31+05:30",
+ "updatedAt": "2026-11-08T06:31:39+05:30",
  "articles": [
+  {
+   "id": "mumbai-lokhandwala-runwal-tower-fire-no-injuries-november-08",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-08T06:31:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-lokhandwala-runwal-tower-fire-no-injuries-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lokhandwala-runwal-tower-fire-no-injuries-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lokhandwala-runwal-tower-fire-no-injuries-november-08-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "मुंबई के लोखंडवाला की ऊँची इमारत में आग लगी, कोई हताहत नहीं; आग पर काबू पा लिया गया",
+    "summary": "शनिवार रात अंधेरी पश्चिम के लोखंडवाला इलाके में बत्तीस मंज़िला रनवाल टावर के एक फ्लैट में आग लग गई। दमकल विभाग की चार गाड़ियाँ मौके पर पहुँचीं; किसी के घायल होने की सूचना नहीं है और आग पर पूरी तरह काबू पा लिया गया है।"
+   },
+   "en": {
+    "title": "Fire breaks out in Mumbai's Lokhandwala high-rise; no injuries as blaze is doused",
+    "summary": "A fire broke out in a flat in the 32-storey Runwal Tower in Mumbai's Lokhandwala area on Saturday night. Four fire engines were rushed to the spot, no one was injured, and the blaze has been brought fully under control."
+   }
+  },
   {
    "id": "abohar-hardware-shop-fire-lakkar-mandi-november-08",
    "category": "State & Local",
