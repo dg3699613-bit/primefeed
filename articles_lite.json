@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-09T01:52:03+05:30",
+ "updatedAt": "2026-11-09T02:03:44+05:30",
  "articles": [
+  {
+   "id": "trump-offers-dana-white-white-house-press-secretary-job-november-07",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T02:03:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-offers-dana-white-white-house-press-secretary-job-november-07.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-offers-dana-white-white-house-press-secretary-job-november-07-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-offers-dana-white-white-house-press-secretary-job-november-07-en.mp3",
+   "hi": {
+    "title": "ट्रंप ने यूएफसी प्रमुख डाना व्हाइट को प्रेस सेक्रेटरी बनने का ऑफर दिया, व्हाइट सोमवार को मिलेंगे — पर सहयोगी बोले, 'ये मज़ाक था'",
+    "summary": "डोनाल्ड ट्रंप ने शनिवार को ट्रुथ सोशल पर लिखा कि यूएफसी प्रमुख डाना व्हाइट को व्हाइट हाउस का प्रेस सेक्रेटरी बनने का ऑफर दिया गया है। व्हाइट ने कहा है कि वह सोमवार को ट्रंप से मिलेंगे, लेकिन सीएनएन के एक सूत्र के मुताबिक उन्होंने ऑफर ठुकरा दिया है।"
+   },
+   "en": {
+    "title": "Trump offers UFC chief Dana White the White House press secretary job; White to meet him Monday — but an aide calls it a joke",
+    "summary": "Donald Trump posted on Truth Social on Saturday offering UFC chief Dana White the White House press secretary job. White says he will meet Trump on Monday, but CNN reports a source saying he declined the offer."
+   }
+  },
+  {
+   "id": "kumaraswamy-alleges-hassan-dc-paid-75-lakh-bribe-avoid-transfer-november-08",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T02:03:44+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Hassan",
+   "state": "Karnataka",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kumaraswamy-alleges-hassan-dc-paid-75-lakh-bribe-avoid-transfer-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kumaraswamy-alleges-hassan-dc-paid-75-lakh-bribe-avoid-transfer-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kumaraswamy-alleges-hassan-dc-paid-75-lakh-bribe-avoid-transfer-november-08-en.mp3",
+   "hi": {
+    "title": "कुमारस्वामी का आरोप: हसन डीसी ने तबादला रुकवाने के लिए ७५ लाख की रिश्वत दी; डीसी बोलीं — 'फेक न्यूज़, पुलिस केस होगा'",
+    "summary": "केंद्रीय मंत्री एचडी कुमारस्वामी ने रविवार को हसन में आरोप लगाया कि ज़िला उपायुक्त के एस लता कुमारी ने तबादला रुकवाने के लिए ७५ लाख रुपये की रिश्वत दी। उपायुक्त ने आरोपों को फेक न्यूज़ बताते हुए पुलिस में शिकायत दर्ज कराने की बात कही है।"
+   },
+   "en": {
+    "title": "Kumaraswamy alleges Hassan DC paid Rs 75 lakh bribe to stall transfer; DC calls it 'fake news', files police complaint",
+    "summary": "Union Minister H.D. Kumaraswamy alleged on Sunday in Hassan that Deputy Commissioner K.S. Latha Kumari paid a Rs 75 lakh bribe to stall her transfer. The officer has denied the charge as fake news and says a police complaint is being filed."
+   }
+  },
   {
    "id": "ramayana-nearly-500-crore-worldwide-day-4-november-09",
    "category": "Entertainment",
@@ -3193,50 +3237,6 @@
    "en": {
     "title": "Cut from the voter rolls? Election Commission gives 4.5 crore voters a second chance",
     "summary": "In a letter dated November 6, the Election Commission said voters struck off as Absent, Shifted, Dead or Duplicate during the SIR can submit their enumeration forms afresh to return to the final rolls. Around 4.52 crore deleted voters across Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland can use the route; those who already filed Form 6 need not apply again."
-   }
-  },
-  {
-   "id": "nine-bullets-over-parking-space-former-tech-mahindra-head-shot-dead-faridabad",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-07T19:44:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nine-bullets-over-parking-space-former-tech-mahindra-head-shot-dead-faridabad.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nine-bullets-over-parking-space-former-tech-mahindra-head-shot-dead-faridabad-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nine-bullets-over-parking-space-former-tech-mahindra-head-shot-dead-faridabad-en.mp3",
-   "district": "Faridabad",
-   "state": "Haryana",
-   "hi": {
-    "title": "पार्किंग विवाद में नौ गोलियां: फरीदाबाद में पूर्व टेक महिंद्रा अधिकारी की हत्या, पड़ोसी गिरफ्तार",
-    "summary": "सिंगापुर से भतीजे की शादी के लिए लौटे पूर्व टेक महिंद्रा अधिकारी परमजीत धांकर की शुक्रवार रात फरीदाबाद के सेक्टर २१सी में पार्किंग विवाद के बाद पड़ोसी ने गोली मारकर हत्या कर दी। पुलिस के मुताबिक आरोपी मोहन उर्फ़ मोनू शर्मा ने लाइसेंसी पिस्तौल से करीब १५ राउंड फायर किए; उसे शनिवार को गिरफ्तार कर लिया गया।"
-   },
-   "en": {
-    "title": "Nine bullets over a parking space: former Tech Mahindra head shot dead in Faridabad",
-    "summary": "Paramjeet Dhankhar, 42, a former Tech Mahindra Asia-Pacific business head who had returned from Singapore for his nephew's wedding, was shot dead by his neighbour in Faridabad's Sector 21C on Friday night after a parking row. Police say the accused, Mohan alias Monu Sharma, fired around 15 rounds from a licensed pistol; he was arrested on Saturday."
-   }
-  },
-  {
-   "id": "india-beat-new-zealand-4-runs-dls-wellington-2nd-odi-november-07",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-07T19:33:39+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-new-zealand-4-runs-dls-wellington-2nd-odi-november-07.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-new-zealand-4-runs-dls-wellington-2nd-odi-november-07-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-new-zealand-4-runs-dls-wellington-2nd-odi-november-07-en.mp3",
-   "hi": {
-    "title": "बारिश के बीच चार रन की साँस रोक देने वाली जीत: भारत ने वेलिंगटन वनडे में न्यूज़ीलैंड को हराकर सीरीज़ में २-० की बढ़त बनाई",
-    "summary": "दूसरे वनडे में भारत ने न्यूज़ीलैंड को डकवर्थ-लुईस-स्टर्न पद्धति से चार रन से हराया। बारिश रुकने पर भारत ११३/७ था, बराबरी के स्कोर १०९ से चार रन आगे। गुरनूर बरार के चार विकेट और केएल राहुल की नाबाद २६ रन की पारी ने भारत को सीरीज़ में २-० से आगे कर दिया।"
-   },
-   "en": {
-    "title": "Four runs and a rain cloud: India edge New Zealand in Wellington thriller to go 2-0 up",
-    "summary": "India beat New Zealand by four runs (DLS method) in the rain-hit second ODI in Wellington. India were 113/7 when rain stopped play, four runs ahead of the par score of 109. Gurnoor Brar's four wickets and KL Rahul's unbeaten 26 put India 2-0 up in the series."
    }
   }
  ]
