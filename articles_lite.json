@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-09T04:28:27+05:30",
+ "updatedAt": "2026-11-09T04:55:40+05:30",
  "articles": [
+  {
+   "id": "nvidia-ceo-jensen-huang-admits-affair-board-probe-spy-claims-november-08",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-09T04:55:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-ceo-jensen-huang-admits-affair-board-probe-spy-claims-november-08.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-ceo-jensen-huang-admits-affair-board-probe-spy-claims-november-08-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-ceo-jensen-huang-admits-affair-board-probe-spy-claims-november-08-en.mp3",
+   "hi": {
+    "title": "एनवीडिया के सीईओ जेन्सेन हुआंग ने कबूला अफेयर, बोर्ड ने जासूसी के आरोपों की जाँच शुरू की",
+    "summary": "एनवीडिया के बोर्ड ने रविवार को स्वतंत्र जाँच का एलान किया — आरोप है कि सीईओ जेन्सेन हुआंग को चीनी खुफिया एजेंसी ने निशाना बनाया था। हुआंग ने कर्मचारियों को लिखे मेल में पत्नी से बेवफाई कबूल की और माफी माँगी। बोर्ड का कहना है कि कंपनी के रहस्य लीक होने का कोई सबूत नहीं है।"
+   },
+   "en": {
+    "title": "Nvidia CEO Jensen Huang admits affair as board opens probe into alleged Chinese spy operation",
+    "summary": "Nvidia's board has opened an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence operation. Huang admitted in a staff email that he had been unfaithful to his wife, while the board said it had no reason to believe company secrets were compromised."
+   }
+  },
+  {
+   "id": "pakistani-astronaut-first-foreigner-tiangong-shenzhou-24-november-07",
+   "category": "Science",
+   "sub": "Space",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T04:55:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pakistani-astronaut-first-foreigner-tiangong-shenzhou-24-november-07.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistani-astronaut-first-foreigner-tiangong-shenzhou-24-november-07-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistani-astronaut-first-foreigner-tiangong-shenzhou-24-november-07-en.mp3",
+   "hi": {
+    "title": "पाकिस्तानी अंतरिक्ष यात्री चीन के तियांगोंग स्टेशन पर जाने वाले पहले विदेशी होंगे",
+    "summary": "चीन की मानव अंतरिक्ष एजेंसी ने पुष्टि की है कि एक पाकिस्तानी अंतरिक्ष यात्री शेनझोउ-२४ से तियांगोंग अंतरिक्ष स्टेशन जाएँगे और पेलोड विशेषज्ञ के तौर पर वहाँ रुकेंगे — यह स्टेशन पर किसी विदेशी की पहली यात्रा होगी।"
+   },
+   "en": {
+    "title": "Pakistani astronaut to become first foreigner aboard China's Tiangong space station",
+    "summary": "China's manned space agency has confirmed that a Pakistani astronaut will fly to the Tiangong space station aboard Shenzhou-24 as a payload specialist — the first foreign visitor to the outpost. The astronaut will return aboard Shenzhou-23 after a short stay."
+   }
+  },
   {
    "id": "real-madrid-beat-valencia-3-0-mbappe-seventh-match-running-november-08",
    "category": "Cricket & Sports",
@@ -241,7 +283,7 @@
    "category": "World",
    "sub": "Middle East",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-09T01:39:58+05:30",
    "source": "PrimeFeed Desk",
@@ -3191,48 +3233,6 @@
    "en": {
     "title": "Vance takes charge of the quiet US-Iran backchannel: ceasefire and nuclear talks pursued through Qatar and Pakistan",
     "summary": "US Vice President JD Vance has spent the past fortnight leading indirect talks with Iran. He has spoken almost daily with Qatar's prime minister and Pakistan's army chief, and has written to Iran's security council secretary proposing direct talks."
-   }
-  },
-  {
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-hc-ed-not-super-cop-pmla-private-complaint-november-07-en.mp3",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-hc-ed-not-super-cop-pmla-private-complaint-november-07-hi.mp3",
-   "breaking": false,
-   "category": "Crime & Law",
-   "featured": false,
-   "id": "karnataka-hc-ed-not-super-cop-pmla-private-complaint-november-07",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-hc-ed-not-super-cop-pmla-private-complaint-november-07.jpg",
-   "publishedAt": "2026-11-07T21:43:37+05:30",
-   "source": "PrimeFeed Desk",
-   "sub": "Courts",
-   "trending": true,
-   "hi": {
-    "title": "ईडी 'सुपर कॉप' नहीं: कर्नाटक हाई कोर्ट ने कहा — निजी शिकायत के सहारे मनी लॉन्ड्रिंग की जाँच नहीं शुरू कर सकती",
-    "summary": "जस्टिस एम. आई. अरुण ने कांग्रेस विधायक के. वाई. नांजेगौड़ा समेत याचिकाकर्ताओं के ख़िलाफ़ ईडी की २०२३ की ईसीआईआर, समन, संपत्ति ज़ब्ती का आदेश और निजी शिकायत रद्द कर दी — पीएमएलए के तहत ईडी की शक्ति 'व्युत्पन्न है, मौलिक नहीं'।"
-   },
-   "en": {
-    "title": "'ED is not a super cop': Karnataka High Court says agency cannot start a money-laundering probe on its own private complaint",
-    "summary": "Justice M.I. Arun quashed the ED's 2023 ECIR, summons, seizure order and private complaint against Congress MLA K.Y. Nanjegowda and others, holding the agency's PMLA power is 'derivative and not original'."
-   }
-  },
-  {
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/secret-service-arrests-armed-man-white-house-trump-threat-november-07-en.mp3",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/secret-service-arrests-armed-man-white-house-trump-threat-november-07-hi.mp3",
-   "breaking": false,
-   "category": "World",
-   "featured": false,
-   "id": "secret-service-arrests-armed-man-white-house-trump-threat-november-07",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/secret-service-arrests-armed-man-white-house-trump-threat-november-07.jpg",
-   "publishedAt": "2026-11-07T21:43:37+05:30",
-   "source": "PrimeFeed Desk",
-   "sub": "USA",
-   "trending": true,
-   "hi": {
-    "title": "व्हाइट हाउस के पास चोरी की गाड़ी में तीन हथियार: युवक ने कहा — 'आवाज़ें कह रही थीं ट्रंप को मार दो'",
-    "summary": "गुरुवार की रात कॉन्स्टिट्यूशन एवेन्यू पर सीक्रेट सर्विस ने एक युवक को गिरफ़्तार किया — उसकी चोरी की गाड़ी से एआर-१५ राइफ़ल, मैक-१० पिस्टल और ग्लॉक हैंडगन मिलीं; डीएचएस के मुताबिक उसने कहा कि आवाज़ों ने उसे ट्रंप को मारने को कहा था।"
-   },
-   "en": {
-    "title": "Armed man arrested near White House with three guns in a stolen truck after allegedly saying voices told him to kill Trump",
-    "summary": "Secret Service officers arrested a man on Constitution Avenue on Thursday night after finding an AR-15-style rifle, a MAC-10 pistol and a Glock handgun in his stolen truck; DHS says he told officers voices had told him to kill President Donald Trump."
    }
   }
  ]
