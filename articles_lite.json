@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-10T03:55:03+05:30",
+ "updatedAt": "2026-11-10T04:12:35+05:30",
  "articles": [
+  {
+   "id": "messi-record-18th-fifpro-world-11-kane-misses-out",
+   "category": "Cricket & Sports",
+   "sub": "Football",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/messi-record-18th-fifpro-world-11-kane-misses-out.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/messi-record-18th-fifpro-world-11-kane-misses-out-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/messi-record-18th-fifpro-world-11-kane-misses-out-en.mp3",
+   "publishedAt": "2026-11-10T04:12:35+05:30",
+   "hi": {
+    "title": "मेसी रिकॉर्ड १८वीं बार फिफप्रो वर्ल्ड इलेवन में, बैलन डिओर विजेता केन बाहर",
+    "summary": "फिफप्रो ने सोमवार को २०२६ की मेन्स और वीमेंस वर्ल्ड इलेवन घोषित की। ३९ साल के लियोनेल मेसी रिकॉर्ड १८वीं बार टीम में चुने गए, जबकि इस साल के बैलन डिओर विजेता हैरी केन जगह नहीं बना सके — २००५ में टीम शुरू होने के बाद ऐसा पहली बार हुआ है।"
+   },
+   "en": {
+    "title": "Messi back in FIFPRO World 11 for a record 18th time as Ballon d'Or winner Kane misses out",
+    "summary": "Lionel Messi returned to the FIFPRO Men's World 11 for a record-extending 18th selection on Monday, voted by 19,806 professional players from 73 countries. Ballon d'Or winner Harry Kane was the surprise omission — the first time a Ballon d'Or winner has missed the team in the year he won it."
+   }
+  },
   {
    "id": "ramayana-day-5-final-107-crore-single-day-november-10",
    "category": "Entertainment",
@@ -3226,27 +3247,6 @@
    "en": {
     "title": "Nigeria's Flamingos stun Japan 2-1 to become first African champions of the U-17 Women's World Cup",
     "summary": "Awawu Bashiru and Oluebube Umejiaku scored either side of half-time as Nigeria beat Japan 2-1 in the final in Rabat on Saturday, becoming the first African nation to win the FIFA U-17 Women's World Cup. Umejiaku, who also won the Golden Ball, scored the winner."
-   }
-  },
-  {
-   "id": "tamil-nadu-crop-loan-waiver-75000-13-lakh-farmers-november-08",
-   "category": "Agriculture",
-   "sub": "Farming",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-08T22:59:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-crop-loan-waiver-75000-13-lakh-farmers-november-08.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-crop-loan-waiver-75000-13-lakh-farmers-november-08-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-crop-loan-waiver-75000-13-lakh-farmers-november-08-en.mp3",
-   "hi": {
-    "title": "तमिलनाडु में फसल कर्ज़ माफ़ी बढ़ी: १३.२५ लाख किसानों को ७५,००० रुपये तक राहत, २,८४२ करोड़ और मंज़ूर",
-    "summary": "तमिलनाडु सरकार ने फसल कर्ज़ माफ़ी योजना का दायरा बढ़ा दिया है — अब १ मई २०२५ से ३१ मार्च २०२६ के बीच सहकारी समितियों से कर्ज़ लेने वाले सभी पात्र किसानों को ७५,००० रुपये तक की माफ़ी मिलेगी। करीब १३.२५ लाख किसानों को फायदा होगा, और योजना के लिए २,८४२.७७ करोड़ रुपये और मंज़ूर किए गए हैं।"
-   },
-   "en": {
-    "title": "Tamil Nadu expands crop loan waiver to Rs 75,000 for all eligible farmers; 13.25 lakh to benefit",
-    "summary": "Tamil Nadu has expanded its crop loan waiver scheme — every eligible farmer who took a crop loan from a cooperative society between May 1, 2025 and March 31, 2026 will now get relief of up to Rs 75,000. Around 13.25 lakh farmers will benefit, with an additional Rs 2,842.77 crore sanctioned for the scheme."
    }
   }
  ]
