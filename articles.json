@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-09T21:40:00+05:30",
+ "updatedAt": "2026-11-09T21:50:33+05:30",
  "articles": [
+  {
+   "id": "google-tpu-8tx-8i-max-november-09",
+   "category": "Technology",
+   "sub": "AI",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T21:50:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/google-tpu-8tx-8i-max-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-tpu-8tx-8i-max-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-tpu-8tx-8i-max-november-09-en.mp3",
+   "hi": {
+    "title": "गूगल के दो नए एआई चिप सिस्टम: गोपनीय कंप्यूटिंग के लिए टीपीयू आठ टीएक्स, बड़े कॉन्टेक्स्ट के लिए टीपीयू आठ आई मैक्स",
+    "summary": "गूगल ने अपनी आठवीं पीढ़ी की टीपीयू लाइनअप में दो नए सिस्टम जोड़े हैं — गोपनीय कंप्यूटिंग के लिए टीपीयू आठ टीएक्स और बड़े कॉन्टेक्स्ट विंडो के लिए टीपीयू आठ आई मैक्स। दोनों दो हज़ार सत्ताईस में उपलब्ध होंगे, और ये एनवीडिया के दबदबे वाले एआई चिप बाज़ार में गूगल की चुनौती को और मज़बूत करते हैं।",
+    "body": "माउंटेन व्यू: गूगल ने सोमवार को अपनी आठवीं पीढ़ी की टेंसर प्रोसेसिंग यूनिट लाइनअप में दो नए सिस्टम जोड़ दिए — टीपीयू आठ टीएक्स और टीपीयू आठ आई मैक्स। कंपनी का कहना है कि एक ही साल में चार टीपीयू सिस्टम लाना उसके लिए पहली बार है।\n\nटीपीयू आठ टीएक्स उन ग्राहकों के लिए बनाया गया है जिन्हें अपने सबसे संवेदनशील डेटा के साथ काम करना होता है — सरकारें और कड़ाई से नियंत्रित उद्योगों की कंपनियाँ। यह टीपीयू आठ टी वाले सिलिकॉन पर ही चलता है, लेकिन इसके साथ पाँचवीं पीढ़ी के एएमडी एपिक प्रोसेसर लगे होते हैं। गूगल का कहना है कि इसमें सुरक्षा हार्डवेयर के स्तर पर ही बनी हुई है — डेटा और मॉडल के वज़न इस्तेमाल के दौरान भी सुरक्षित और अलग-थलग रहते हैं। कंपनी के मुताबिक, टीपीयू आठ टी के मुकाबले इसकी लेटेंसी आधी तक कम हो जाती है, और प्रदर्शन पर लगभग कोई असर नहीं पड़ता।\n\nदूसरा सिस्टम, टीपीयू आठ आई मैक्स, एक अलग समस्या सुलझाता है — मेमोरी की दीवार। जब दर्जनों एआई एजेंट एक साथ पूरे कोडबेस या घंटों के वीडियो पर काम करते हैं, तो मेमोरी बैंडविड्थ ही अड़चन बन जाती है। गूगल ने दो टीपीयू आठ आई चिप एक ही पैकेज में रख दिए हैं, जिससे टीपीयू आठ आई के मुकाबले कंप्यूट, एसरेम और एचबीएम बैंडविड्थ — तीनों दोगुने हो गए हैं। रैक में उतनी ही जगह में दोगुना सिलिकॉन बैठता है, इसलिए डेटा सेंटर कम जगह में ज़्यादा ताकत लगा सकते हैं।\n\nये दोनों सिस्टम दो हज़ार सत्ताईस में उपलब्ध होंगे, ब्लूमबर्ग की रिपोर्ट के मुताबिक। अप्रैल में गूगल ने इसी पीढ़ी के टीपीयू आठ टी और टीपीयू आठ आई पेश किए थे — पहला बड़े पैमाने पर ट्रेनिंग के लिए, दूसरा तेज़ रीज़निंग के लिए। गूगल का कहना है कि अब उसके टीपीयू के करीब सौ ग्राहक हैं, जिनमें फ्रंटियर लैब, ट्रेडिंग फर्म, रिटेलर और यूनिवर्सिटी शामिल हैं।\n\nगूगल के ये चिप एआई वर्कलोड में एनवीडिया के ग्राफिक्स प्रोसेसरों के सामने खड़े हो रहे हैं। टीपीयू की बिक्री ने सितंबर तिमाही के नतीजों में अच्छी-खासी भूमिका निभाई, कंपनी के मुताबिक, और गूगल क्लाउड का राजस्व दोगुने से ज़्यादा बढ़कर तीस दशमलव इकहत्तर अरब डॉलर हो गया।\n\nगूगल के एआई इन्फ्रास्ट्रक्चर के मुख्य प्रौद्योगिकी अधिकारी अमीन वहदात ने कंपनी के ब्लॉग में लिखा है कि चारों सिस्टम मिलकर एआई एजेंटों के पूरे जीवनचक्र के लिए एक-एक खास एक्सेलरेटर देते हैं — ट्रेनिंग के लिए आठ टी, रीज़निंग के लिए आठ आई, गोपनीय कंप्यूटिंग के लिए आठ टीएक्स और बड़े कॉन्टेक्स्ट के लिए आठ आई मैक्स।\n\nफ़ोटो साभार: गूगल"
+   },
+   "en": {
+    "title": "Google adds two new AI chip systems: TPU 8tx for confidential computing, TPU 8i Max for massive context",
+    "summary": "Google has added two new systems to its eighth-generation TPU lineup — the TPU 8tx for confidential computing and the TPU 8i Max for massive context windows. Both arrive in 2027, sharpening Google's challenge to Nvidia in the AI chip market.",
+    "body": "Mountain View: Google on Monday added two new systems to its eighth-generation tensor processing unit (TPU) lineup — the TPU 8tx and the TPU 8i Max. The company says it is the first time it has introduced four TPU systems in a single year.\n\nThe TPU 8tx is built for customers who work with their most sensitive data — governments and companies in heavily regulated industries. It runs on the same silicon as the TPU 8t, paired with fifth-generation AMD EPYC CPU hosts. Google says security is built into the hardware itself, keeping data and model weights protected and isolated even while they are being used. The company claims latency up to two times lower than the TPU 8t, with almost no performance penalty.\n\nThe second system, the TPU 8i Max, tackles a different problem — the memory wall. When dozens of AI agents work together across an entire codebase or hours of video, memory bandwidth becomes the bottleneck. Google has put two TPU 8i chips into a single package, doubling the compute, SRAM and high-bandwidth memory (HBM) bandwidth of the TPU 8i. Twice the silicon fits into the same rack footprint, so data centres can pack more power into the same floor space.\n\nBoth systems will be available in 2027, according to a Bloomberg report. Google introduced the TPU 8t and TPU 8i from the same generation in April — the first for large-scale training, the second for fast reasoning. Google says it now has nearly 100 TPU customers, including frontier labs, trading firms, retailers and universities.\n\nGoogle's chips are emerging as a challenger to Nvidia's graphics processors in AI workloads. TPU sales made a meaningful contribution to results in the September quarter, according to Alphabet, with Google Cloud revenue more than doubling to $30.71 billion.\n\nAmin Vahdat, Google's chief technologist for AI infrastructure, wrote in the company's blog post that the four systems together give customers a purpose-built accelerator for every stage of the agentic lifecycle — the 8t for training, the 8i for reasoning, the 8tx for confidential computing and the 8i Max for massive context.\n\nPhoto: Google"
+   }
+  },
   {
    "id": "nvidia-shares-plunge-huang-probe-november-09",
    "category": "Business",
