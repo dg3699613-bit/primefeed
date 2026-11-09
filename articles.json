@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-09T14:46:38+05:30",
+ "updatedAt": "2026-11-09T14:59:25+05:30",
  "articles": [
+  {
+   "id": "krakow-gunman-dies-hospital-november-09",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T14:59:25+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/krakow-gunman-dies-hospital-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krakow-gunman-dies-hospital-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krakow-gunman-dies-hospital-november-09-en.mp3",
+   "hi": {
+    "title": "क्राको के हमलावर की अस्पताल में मौत, शनिवार के हमले में छह लोगों की जान गई थी",
+    "summary": "क्राको में शनिवार को छह लोगों की हत्या करने वाला चौबीस साल का हमलावर सोमवार सुबह अस्पताल में मर गया। पुलिस की गोली से घायल वह दो दिन से गंभीर हालत में था। उसके घर से उसके माता-पिता और बहन के शव भी मिले थे, और जाँच जारी है।",
+    "body": "क्राको: पोलैंड के क्राको शहर में शनिवार को छह लोगों की जान लेने वाले हमलावर की सोमवार सुबह अस्पताल में मौत हो गई। पुलिस ने बताया कि हमले के बाद पुलिस की गोली से घायल हुआ चौबीस साल का युवक अस्पताल में गंभीर हालत में था।\n\nमालोपोल्स्का पुलिस ने सोमवार सुबह सोशल मीडिया पर लिखा कि दुखद घटनाओं का अपराधी आज सुबह अस्पताल में मर गया। क्षेत्रीय गवर्नर ने बताया कि युवक की मौत सुबह साढ़े चार बजे हुई और उसकी कम से कम तीन बार सर्जरी हुई थी।\n\nशनिवार दोपहर चौबीस साल के हमलावर ने क्राको के ऐतिहासिक मेन मार्केट स्क्वायर में कार से लोगों पर अंधाधुंध गोलीबारी की थी। इस हमले में छह लोग मारे गए, जिनमें एक ब्रितानी नागरिक भी शामिल है, और पंद्रह अन्य घायल हुए। पुलिस ने जवाबी कार्रवाई में उसे गोली मारी थी।\n\nहमलावर के गृहनगर ओस्त्रोविएत्स श्विएंतोक्शिस्की में पुलिस को उसके घर से उसके माता-पिता और इक्कीस साल की बहन के शव मिले थे। आशंका है कि उसने क्राको जाने से पहले अपने ही परिवार के तीन लोगों की हत्या की थी।\n\nपोलैंड के न्याय मंत्री ने कहा कि हमलावर की मौत के बावजूद जाँच जारी रहेगी, ताकि यह पता चल सके कि उसने अकेले हमला किया था या किसी समूह से प्रेरित था। अभियोजकों ने आतंकवाद की जाँच शुरू की है। गृह मंत्री के मुताबिक़ शुरुआती जाँच में हमलावर के चरमपंथी और अति-राष्ट्रवादी विचारों से प्रभावित होने के संकेत मिले हैं।\n\nहमले में घायल एक पुलिस अधिकारी अब भी अस्पताल में गंभीर हालत में है। उसे रविवार को दवा से बेहोशी की हालत से बाहर लाया गया था। पोलैंड में दो दिन का राष्ट्रीय शोक जारी है।\n\nफ़ोटो साभार: रॉयटर्स"
+   },
+   "en": {
+    "title": "Krakow gunman dies in hospital two days after killing six in Main Market Square shooting",
+    "summary": "The 24-year-old gunman who killed six people in Krakow's Main Market Square on Saturday has died in hospital. Shot and wounded by police during the attack, he had been in critical condition for two days. The bodies of his parents and sister were also found at his home, and the investigation continues.",
+    "body": "Krakow: The gunman who killed six people in a shooting in Poland's Krakow on Saturday has died in hospital, police said early on Monday. The 24-year-old was shot and wounded by police during the attack and had been in critical condition since.\n\nMalopolska police wrote on X on Monday morning: 'We would like to inform you that the perpetrator of the tragic events died in hospital early this morning.' The regional governor said the man died at 4:30 am and had undergone surgery at least three times.\n\nOn Saturday afternoon, the 24-year-old drove a car into Krakow's historic Main Market Square and opened fire on people there. Six people were killed, including a British national, and 15 others were injured, before police shot and wounded him.\n\nPolice later found the bodies of the gunman's parents and his 21-year-old sister at the family home in his hometown of Ostrowiec Swietokrzyski. He is suspected of killing the three of them before driving to Krakow.\n\nPoland's justice minister said the investigation will continue despite the gunman's death, to establish whether he acted alone or was inspired by a group. Prosecutors have opened a terrorism investigation. The interior minister said preliminary findings suggested the attacker held far-right and ultranationalist views.\n\nA police officer wounded in the attack remains in serious condition in hospital. He was brought out of a medically induced coma on Sunday. Poland is observing two days of national mourning.\n\nPhoto: Reuters"
+   }
+  },
+  {
+   "id": "muzaffarnagar-car-fire-six-killed-panipat-khatima-november-09",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T14:59:25+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/muzaffarnagar-car-fire-six-killed-panipat-khatima-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/muzaffarnagar-car-fire-six-killed-panipat-khatima-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/muzaffarnagar-car-fire-six-killed-panipat-khatima-november-09-en.mp3",
+   "hi": {
+    "title": "मुज़फ़्फ़रनगर हाईवे पर कार डिवाइडर और खंभे से टकराकर आग की चपेट में आई, एक ही परिवार के छह लोगों की मौत",
+    "summary": "सोमवार तड़के पानीपत–खटीमा हाईवे पर हरियाणा से हरिद्वार जा रही एक कार डिवाइडर और बिजली के खंभे से टकराने के बाद आग की चपेट में आ गई। कार में सवार एक ही परिवार के छह लोगों की मौत हो गई, जिनमें एक बच्चा भी शामिल है।",
+    "body": "मुज़फ़्फ़रनगर: सोमवार तड़के पानीपत–खटीमा हाईवे पर एक कार के डिवाइडर और बिजली के खंभे से टकराकर आग की चपेट में आने से उसमें सवार छह लोगों की मौत हो गई। हादसा तितावी थाना क्षेत्र के जगाहेड़ी के पास सुबह करीब चार बजकर पचास मिनट पर हुआ।\n\nपुलिस के मुताबिक़ कार में हरियाणा से हरिद्वार जा रहा एक ही परिवार सवार था। तेज़ रफ़्तार कार पहले डिवाइडर से टकराई, फिर सड़क की दूसरी ओर जाकर बिजली के खंभे से जा भिड़ी और उसमें आग लग गई। कार में सवार सभी छह लोग आग में घिर गए।\n\nतितावी पुलिस और दमकल की टीम मौके पर पहुँची और आग बुझाकर सभी को बाहर निकाला। उन्हें ज़िला अस्पताल ले जाया गया, जहाँ डॉक्टरों ने छह को मृत घोषित कर दिया। मरने वालों में दस से बारह साल का एक बच्चा भी शामिल है।\n\nमुज़फ़्फ़रनगर के वरिष्ठ पुलिस अधीक्षक सूरज कुमार राय ने बताया कि हादसे की सूचना सुबह पाँच बजे मिली थी। उन्होंने बताया कि मृतकों की पहचान की जा रही है और उनके परिजनों से संपर्क करने की कोशिश हो रही है।\n\nपुलिस का शुरुआती अनुमान है कि टक्कर में कार की फ़्यूल टंकी फटने से आग लगी, लेकिन हादसे की असली वजह अभी साफ़ नहीं है। फ़ॉरेंसिक टीम ने मौके से नमूने लिए हैं और जाँच जारी है।\n\nफ़ोटो साभार: ईटीवी भारत"
+   },
+   "en": {
+    "title": "Six of a family burnt alive as car hits divider and pole, catches fire on Muzaffarnagar highway",
+    "summary": "A car carrying a family from Haryana to Haridwar hit a divider and an electricity pole on the Panipat-Khatima highway near Muzaffarnagar early on Monday and caught fire. All six occupants, including a child, were killed.",
+    "body": "Muzaffarnagar: Six people, including a child, were burnt alive after the car they were travelling in hit a divider and an electricity pole and caught fire on the Panipat-Khatima highway early on Monday. The accident happened near Jagaheri in the Titawi police station area at around 4:50 am, about 25 km from the Muzaffarnagar district headquarters.\n\nPolice said the six were members of one family from Haryana, on their way to Haridwar. The speeding car first struck the divider, crossed to the other side of the road and rammed into an electricity pole before bursting into flames, trapping everyone inside.\n\nTitawi police and fire brigade personnel reached the spot, put out the fire and pulled all six out of the burning car. They were taken to the district hospital, where doctors declared them dead. One of those killed was a child aged between 10 and 12.\n\nMuzaffarnagar Senior Superintendent of Police Suraj Kumar Rai said information about the accident was received at 5 am. He said efforts were under way to establish the identities of the dead and contact their families.\n\nPolice suspect the car's fuel tank ruptured in the impact, setting off the blaze, but the exact cause is yet to be established. A forensic team has collected samples from the spot and an investigation is under way.\n\nPhoto: ETV Bharat"
+   },
+   "district": "Muzaffarnagar",
+   "state": "Uttar Pradesh"
+  },
   {
    "id": "tamil-nadu-diwali-violence-ssi-killed-udhayanidhi-slams-vijay-november-09",
    "category": "Crime & Law",
