@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-09T10:09:33+05:30",
+ "updatedAt": "2026-11-09T10:21:46+05:30",
  "articles": [
+  {
+   "id": "narela-boy-dies-anar-firecracker-bursts-diwali-november-09",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T10:21:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/narela-boy-dies-anar-firecracker-bursts-diwali-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/narela-boy-dies-anar-firecracker-bursts-diwali-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/narela-boy-dies-anar-firecracker-bursts-diwali-november-09-en.mp3",
+   "hi": {
+    "title": "नरेला में दीवाली की रात हादसा: हाथ में फटा 'अनार' पटाखा, दस साल के लड़के की मौत",
+    "summary": "दिल्ली के नरेला में दीवाली की रात घर के बाहर पटाखा जला रहे दस साल के लड़के की मौत हो गई — हाथ में फूलझड़ी वाला 'अनार' फटने से उसके सीने में गंभीर चोट लगी। परिवार ने अस्पताल पर लापरवाही का आरोप लगाया है; पुलिस जांच कर रही है।"
+   },
+   "en": {
+    "title": "Boy, 10, dies in Delhi's Narela after 'anar' firecracker bursts in his hand on Diwali night",
+    "summary": "A 10-year-old boy died in Delhi's Narela on Diwali night after a hand-held flower-pot firecracker burst in his hand, injuring his chest. His family has alleged hospital negligence; police are investigating the circumstances."
+   },
+   "district": "North West Delhi",
+   "state": "Delhi"
+  },
+  {
+   "id": "karnataka-ethanol-report-today-kerala-fuel-tests-november-09",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-09T10:21:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-ethanol-report-today-kerala-fuel-tests-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-ethanol-report-today-kerala-fuel-tests-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-ethanol-report-today-kerala-fuel-tests-november-09-en.mp3",
+   "hi": {
+    "title": "पेट्रोल में ३१.५% इथेनॉल का विवाद: कर्नाटक आज जारी करेगा पूरी जांच रिपोर्ट, केरल ने भी दिए नमूना जांच के आदेश",
+    "summary": "कर्नाटक सरकार पेट्रोल में तय सीमा से ज़्यादा इथेनॉल मिलाए जाने की जांच रिपोर्ट आज जारी करेगी — राज्य भर में ६७ जगहों से नमूने लिए गए हैं। केरल ने भी अपने यहाँ पेट्रोल नमूनों की जांच के आदेश दे दिए हैं; तेल कंपनियाँ राज्य के नतीजों को खारिज कर रही हैं।"
+   },
+   "en": {
+    "title": "Ethanol row: Karnataka to release full fuel-test report today as Kerala orders its own checks",
+    "summary": "Karnataka will release its full report today on complaints of excess ethanol in petrol after testing samples from 67 locations. Kerala has ordered its own laboratory tests of petrol samples, while the oil companies continue to dispute the state's findings."
+   }
+  },
   {
    "id": "seoni-house-fire-six-family-killed-diwali-november-09",
    "category": "State & Local",
