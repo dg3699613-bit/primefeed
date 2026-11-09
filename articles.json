@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-10T03:02:01+05:30",
+ "updatedAt": "2026-11-10T03:22:13+05:30",
  "articles": [
+  {
+   "id": "sahibganj-businessman-murder-two-constables-arrested-november-09",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "hi": {
+    "title": "साहिबगंज में टेंट कारोबारी की गोली मारकर हत्या, दो पुलिस कांस्टेबल गिरफ़्तार — पिस्तौल और चौंतीस कारतूस बरामद",
+    "summary": "झारखंड के साहिबगंज ज़िले में सोमवार तड़के टेंट और कैटरिंग का कारोबार करने वाले पैंतालीस साल के मुन्ना साह की गोली मारकर हत्या कर दी गई। पुलिस ने इस मामले में दो पुलिस कांस्टेबलों को गिरफ़्तार किया है और उनके पास से एक पिस्तौल, चौंतीस ज़िंदा कारतूस और एक खाली खोल बरामद किया है।",
+    "body": "साहिबगंज: झारखंड के साहिबगंज ज़िले में सोमवार तड़के टेंट और कैटरिंग का कारोबार करने वाले पैंतालीस साल के मुन्ना साह की गोली मारकर हत्या कर दी गई। पुलिस ने इस मामले में दो पुलिस कांस्टेबलों को गिरफ़्तार कर लिया है।\n\nघटना जिरवाबाड़ी थाना क्षेत्र के केलाबाड़ी पोखरिया इलाके में पूर्वी फाटक के पास काली स्थान के नज़दीक हुई। पुलिस के अनुसार साह का एक कांस्टेबल से किसी चल रहे विवाद को लेकर कहासुनी हुई थी, जिसके बाद कांस्टेबल ने उन पर गोली चला दी। गोली की आवाज़ सुनकर आसपास के लोग मौके पर पहुँचे और साह को सदर अस्पताल ले गए, जहाँ से डॉक्टरों ने उन्हें बड़े अस्पताल के लिए रेफ़र कर दिया। रास्ते में ही उनकी मौत हो गई।\n\nपुलिस ने गिरफ़्तार कांस्टेबलों के पास से एक पिस्तौल, चौंतीस ज़िंदा कारतूस और एक खाली खोल बरामद किया है। साहिबगंज सदर के अनुमंडल पुलिस पदाधिकारी सुशील कुमार ने बताया कि मृतक के बेटे अंशु कुमार की शिकायत पर भारतीय न्याय संहिता और आर्म्स एक्ट की धाराओं में मामला दर्ज किया गया है।\n\nगोलीबारी की वजह अभी साफ़ नहीं हो पाई है।\n\nफ़ोटो साभार: टीओआई"
+   },
+   "en": {
+    "title": "Sahibganj businessman shot dead after dispute; two police constables arrested, pistol and 34 cartridges seized",
+    "summary": "A 45-year-old tent and catering businessman, Munna Sah, was shot dead at close range in the early hours of Monday in Jharkhand's Sahibganj district. Police have arrested two police constables in connection with the killing and recovered a pistol, 34 live cartridges and an empty cartridge from them.",
+    "body": "Sahibganj: A 45-year-old tent and catering businessman was shot dead at close range in the early hours of Monday in Jharkhand's Sahibganj district, and police have arrested two police constables in connection with the killing.\n\nThe victim, Munna Sah, was shot near Kali Sthan at Purvi Phatak in the Kelabari Pokharia locality, under Jirwabari police station limits. Police said Sah had a heated exchange with one of the constables over an ongoing dispute, after which the constable allegedly opened fire. Locals who heard the gunshots rushed Sah to Sadar Hospital, where doctors referred him to a bigger medical centre — but he died on the way.\n\nPolice said they recovered a pistol, 34 live cartridges and one empty cartridge from the arrested constables. A case has been registered on a complaint by Sah's son, Anshu Kumar, under provisions of the Bharatiya Nyaya Sanhita and the Arms Act, Sahibganj Sadar subdivisional police officer Sushil Kumar said in a statement.\n\nThe motive behind the shooting was not immediately known, police said.\n\nPhoto: TOI"
+   },
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sahibganj-businessman-murder-two-constables-arrested-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sahibganj-businessman-murder-two-constables-arrested-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sahibganj-businessman-murder-two-constables-arrested-november-09-en.mp3",
+   "publishedAt": "2026-11-10T03:22:13+05:30",
+   "district": "Sahibganj",
+   "state": "Jharkhand"
+  },
   {
    "id": "namo-yamuna-cruise-safari-launch-delhi-sonia-vihar-november-10",
    "category": "Lifestyle",
