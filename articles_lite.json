@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-11T03:08:09+05:30",
+ "updatedAt": "2026-11-11T03:23:00+05:30",
  "articles": [
+  {
+   "id": "jim-jordan-elected-house-republican-minority-leader-november-10",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-11T03:23:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jim-jordan-elected-house-republican-minority-leader-november-10.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jim-jordan-elected-house-republican-minority-leader-november-10-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jim-jordan-elected-house-republican-minority-leader-november-10-en.mp3",
+   "hi": {
+    "title": "जिम जॉर्डन बने अमेरिकी सदन में रिपब्लिकन के नेता, स्टीव स्कैलिस को १०६–७३ से हराया",
+    "summary": "मध्यावधि चुनाव में बहुमत गंवाने के एक हफ़्ते बाद अमेरिकी प्रतिनिधि सभा के रिपब्लिकनों ने जिम जॉर्डन को अपना नया नेता चुन लिया है। ओहायो के सांसद ने गुप्त मतदान में हाउस मेजॉरिटी लीडर स्टीव स्कैलिस को एक सौ छह के मुक़ाबले तिहत्तर मतों से हराया; जनवरी में डेमोक्रेट्स के सदन पर क़ब्ज़ा करने पर वह अल्पमत के नेता होंगे।"
+   },
+   "en": {
+    "title": "Jim Jordan elected House Republican minority leader, beats Steve Scalise 106–73",
+    "summary": "A week after losing their majority in the midterms, House Republicans have chosen Jim Jordan as their new leader. The Ohio congressman defeated House Majority Leader Steve Scalise 106–73 in a secret ballot; he will lead the Republican minority when Democrats take control of the House in January."
+   }
+  },
   {
    "id": "iran-unveils-underground-missile-city-retaliation-warning-november-10",
    "category": "World",
