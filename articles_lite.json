@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-10T09:40:21+05:30",
+ "updatedAt": "2026-11-10T09:59:25+05:30",
  "articles": [
+  {
+   "id": "houthi-strikes-escalate-riyadh-missiles-intercepted-pipeline-november-10",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-10T09:59:25+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-strikes-escalate-riyadh-missiles-intercepted-pipeline-november-10.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-strikes-escalate-riyadh-missiles-intercepted-pipeline-november-10-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-strikes-escalate-riyadh-missiles-intercepted-pipeline-november-10-en.mp3",
+   "hi": {
+    "title": "हूती हमले तेज़: रियाद पर दागी दो मिसाइलें हवा में रोकी गईं, सऊदी तेल पाइपलाइन पर भी हमला",
+    "summary": "मंगलवार तड़के सऊदी अरब की वायु रक्षा ने रियाद की ओर दागी गई दो मिसाइलें और दक्षिणी इलाके की ओर दागी गई एक बैलिस्टिक मिसाइल को हवा में नष्ट कर दिया; इससे एक दिन पहले हूती हमले में मदीना के पास ईस्ट-वेस्ट तेल पाइपलाइन पर सीमित आग लगी थी। किसी भी हमले में कोई हताहत नहीं हुआ।"
+   },
+   "en": {
+    "title": "Houthi strikes escalate: two missiles bound for Riyadh intercepted, Saudi oil pipeline hit",
+    "summary": "Early on Tuesday, Saudi air defences intercepted two missiles fired towards Riyadh and a ballistic missile aimed at the country's south, a day after a strike on the East-West oil pipeline near Medina caused a limited fire. No casualties were reported in either attack."
+   }
+  },
   {
    "id": "pawan-kalyan-anna-konidala-separation-13-years-november-10",
    "category": "Entertainment",
