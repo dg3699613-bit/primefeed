@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-10T12:47:31+05:30",
+ "updatedAt": "2026-11-10T13:00:33+05:30",
  "articles": [
+  {
+   "id": "malayalam-cinematographer-shaji-kumar-dies-57-november-10",
+   "category": "Entertainment",
+   "sub": "Celebrity",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-10T13:00:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/malayalam-cinematographer-shaji-kumar-dies-57-november-10.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malayalam-cinematographer-shaji-kumar-dies-57-november-10-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malayalam-cinematographer-shaji-kumar-dies-57-november-10-en.mp3",
+   "hi": {
+    "title": "मलयालम सिनेमा के मशहूर सिनेमैटोग्राफर शाजी कुमार का ५७ साल की उम्र में निधन, 'पुलिमुरुगन' से 'थुडारम' तक की विरासत",
+    "summary": "मलयालम सिनेमा के मशहूर सिनेमैटोग्राफर शाजी कुमार का मंगलवार तड़के कोच्चि में निधन हो गया। वह ५७ साल के थे। शनिवार रात अलप्पुझा में शूटिंग के दौरान तबीयत बिगड़ने के बाद उन्हें अस्पताल में भर्ती कराया गया था। 'पुलिमुरुगन' से 'थुडारम' तक, उन्होंने ५० से ज़्यादा फ़िल्मों की सिनेमैटोग्राफी की थी।"
+   },
+   "en": {
+    "title": "Malayalam cinematographer Shaji Kumar dies at 57, a month before his Mohanlal film Athimanoharam releases",
+    "summary": "Renowned Malayalam cinematographer Shaji Kumar died at a private hospital in Kochi early on Tuesday. He was 57. He had fallen ill on Saturday night while shooting in Alappuzha and was shifted to Kochi. In a 25-year career he shot more than 50 films, from Pulimurugan to Thudarum."
+   }
+  },
+  {
+   "id": "theni-ssi-senthil-kumar-beaten-death-diwali-night-november-10",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-10T13:00:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/theni-ssi-senthil-kumar-beaten-death-diwali-night-november-10.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/theni-ssi-senthil-kumar-beaten-death-diwali-night-november-10-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "थेनी में दीवाली की रात पुलिस अधिकारी की पीट-पीटकर हत्या, सड़क पर पटाखे फोड़ रहे युवकों को टोकना पड़ा भारी",
+    "summary": "थेनी में दीवाली की रात सड़क पर पटाखे फोड़ रहे युवकों को टोकने पर विशेष उप-निरीक्षक सेंथिल कुमार की पीट-पीटकर हत्या कर दी गई। वह सादे कपड़ों में घर लौट रहे थे। पुलिस ने कुछ युवकों को गिरफ्तार किया है; मुख्यमंत्री ने परिवार को ४० लाख रुपये की मदद का एलान किया है।"
+   },
+   "en": {
+    "title": "Theni policeman beaten to death on Diwali night for asking youths to stop bursting crackers on the road",
+    "summary": "Special Sub-Inspector K Senthil Kumar was beaten to death in Theni on Diwali night after asking youths bursting firecrackers in the middle of a road to move aside. He was returning home in civilian clothes. Police have arrested some of the youths; the Chief Minister has announced Rs 40 lakh for his family."
+   },
+   "district": "Theni",
+   "state": "Tamil Nadu"
+  },
   {
    "id": "us-pannun-lawsuit-papers-served-india-november-10",
    "category": "World",
