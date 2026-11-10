@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-10T06:57:17+05:30",
+ "updatedAt": "2026-11-10T07:11:22+05:30",
  "articles": [
+  {
+   "id": "canada-fresh-sanctions-russia-missile-tech-cyber-november-09",
+   "category": "World",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-10T07:11:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/canada-fresh-sanctions-russia-missile-tech-cyber-november-09.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/canada-fresh-sanctions-russia-missile-tech-cyber-november-09-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/canada-fresh-sanctions-russia-missile-tech-cyber-november-09-en.mp3",
+   "hi": {
+    "title": "कनाडा ने रूस पर नए प्रतिबंध लगाए: मिसाइल तकनीक, साइबर हमले और क्रिप्टो नेटवर्क निशाने पर",
+    "summary": "कनाडा की विदेश मंत्री अनीता आनंद ने पेरिस में जी-७ विदेश मंत्रियों की बैठक के दौरान रूस के ख़िलाफ़ नए प्रतिबंधों की घोषणा की। ३८ संस्थाओं और २४ व्यक्तियों पर लगाए गए ये प्रतिबंध मिसाइल तकनीक, साइबर गतिविधियों और युद्ध की अर्थव्यवस्था को सहारा देने वाले क्रिप्टो एक्सचेंजों को निशाना बनाते हैं।"
+   },
+   "en": {
+    "title": "Canada hits Russia with fresh sanctions targeting missile tech, cyber networks and crypto enablers",
+    "summary": "Canadian Foreign Minister Anita Anand announced fresh sanctions on Russia on the margins of the G7 foreign ministers' meeting in Paris, listing 38 entities and 24 individuals linked to ballistic missile technology, cyber activities and the financial networks sustaining Moscow's war economy."
+   }
+  },
   {
    "id": "anuj-shrivatri-india-100th-grandmaster-philippines-november-08",
    "category": "Cricket & Sports",
