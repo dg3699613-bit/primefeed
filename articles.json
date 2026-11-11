@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-11T15:10:18+05:30",
+ "updatedAt": "2026-11-11T15:24:00+05:30",
  "articles": [
+  {
+   "id": "kulgam-crpf-naka-firing-two-injured-november-11",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-11T15:24:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kulgam-crpf-naka-firing-two-injured-november-11.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kulgam-crpf-naka-firing-two-injured-november-11-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kulgam-crpf-naka-firing-two-injured-november-11-en.mp3",
+   "district": "Kulgam",
+   "state": "Jammu and Kashmir",
+   "hi": {
+    "title": "कुलगाम में सीआरपीएफ़ नाके पर हमला: बाइक सवार हमलावरों की गोलीबारी में दो जवान घायल, इलाक़े में तलाशी अभियान",
+    "summary": "कुलगाम: मीर बाज़ार के पास अखरान में बुधवार दोपहर मोटरसाइकिल सवार हमलावरों ने सीआरपीएफ़ के नाके पर गोलीबारी की, जिसमें दो जवान घायल हो गए। दोनों को इलाज के लिए अनंतनाग के अस्पताल ले जाया गया है। हमलावर मौके से फरार हो गए और इलाक़े में घेराबंदी व तलाशी अभियान चल रहा है।",
+    "body": "कुलगाम: जम्मू-कश्मीर के कुलगाम ज़िले में बुधवार दोपहर मोटरसाइकिल सवार हमलावरों ने सीआरपीएफ़ के एक नाके पर गोलीबारी की, जिसमें दो जवान घायल हो गए। सीआरपीएफ़ के मुताबिक़ हमला मीर बाज़ार के पास अखरान में दोपहर करीब २:१५ बजे हुआ। हमलावर गोली चलाकर मौके से फरार हो गए।\n\nसीआरपीएफ़ ने अपने बयान में कहा, “दो जवान घायल हुए हैं। अज्ञात मोटरसाइकिल सवार हमलावरों ने कुलगाम ज़िले में नाके पर तैनात सुरक्षाकर्मियों पर गोलीबारी की।” बयान के मुताबिक़ घटना दोपहर करीब २:१५ बजे हुई।\n\nघायल जवानों को इलाज के लिए अनंतनाग ज़िले के अस्पताल ले जाया गया है। दोनों की हालत के बारे में विस्तृत जानकारी अभी नहीं मिली है।\n\nहमले के बाद सुरक्षा बलों ने इलाक़े में घेराबंदी कर तलाशी अभियान शुरू कर दिया है। हमलावरों की तलाश की जा रही है। ख़बर लिखे जाने तक किसी की गिरफ़्तारी नहीं हुई थी और हमलावरों की पहचान भी सामने नहीं आई थी।\n\nफ़ोटो साभार: द हिंदू"
+   },
+   "en": {
+    "title": "Two CRPF personnel injured as motorcycle-borne assailants open fire at naka in J&K's Kulgam",
+    "summary": "Kulgam: Two CRPF personnel were injured after motorcycle-borne assailants opened fire on a security naka at Akhran near Mir Bazar on Wednesday afternoon. The injured were shifted to a hospital in Anantnag. The attackers fled the spot, and a cordon and search operation is under way.",
+    "body": "Kulgam: Two Central Reserve Police Force (CRPF) personnel were injured after motorcycle-borne assailants opened fire on a security naka at Akhran near Mir Bazar in Jammu and Kashmir's Kulgam district on Wednesday afternoon. The CRPF said the attack took place at around 2.15 pm. The assailants fired at the personnel deployed at the naka and fled the spot.\n\nIn its statement, the CRPF said, “Two Central Reserve Police Force (CRPF) personnel were injured after unidentified motorcycle-borne assailants opened fire on security personnel deployed at a naka in Kulgam district of Jammu and Kashmir this afternoon.” The force said the incident took place at around 2.15 pm.\n\nThe injured personnel were shifted to a hospital in Anantnag district for treatment, the statement added. No detailed update on their condition was available at the time of filing.\n\nA cordon and search operation has been launched in the area to track down the attackers. No arrests had been reported till the time of filing, and the identity of the assailants was not yet known.\n\nPhoto: The Hindu"
+   }
+  },
+  {
+   "id": "kurla-west-firing-vinod-pawar-shot-old-rivalry-november-11",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-11T15:24:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kurla-west-firing-vinod-pawar-shot-old-rivalry-november-11.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kurla-west-firing-vinod-pawar-shot-old-rivalry-november-11-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kurla-west-firing-vinod-pawar-shot-old-rivalry-november-11-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "कुर्ला पश्चिम में पुरानी रंजिश में गोलीबारी: ४० साल के विनोद पवार घायल, भाभा अस्पताल में इलाज जारी",
+    "summary": "मुंबई: कुर्ला पश्चिम के मकड़वाला कंपाउंड में बुधवार दोपहर पुरानी रंजिश के चलते ४० साल के विनोद मल्लप्पा पवार को गोली मार दी गई। उन्हें भाभा अस्पताल ले जाया गया है, जहाँ उनका इलाज चल रहा है। पुलिस गोलीबारी के पीछे की वजह और हमलावरों की पहचान की जाँच कर रही है।",
+    "body": "मुंबई: मुंबई के कुर्ला पश्चिम इलाक़े में बुधवार दोपहर पुरानी रंजिश के चलते एक व्यक्ति को गोली मार दी गई। घायल की पहचान ४० साल के विनोद मल्लप्पा पवार के रूप में हुई है। उन्हें भाभा अस्पताल ले जाया गया है, जहाँ उनका इलाज चल रहा है।\n\nपुलिस के मुताबिक़ घटना दोपहर करीब १२:४० बजे मकड़वाला कंपाउंड में हुई। यह इलाक़ा वी बी नगर थाने के अधिकार क्षेत्र में आता है। शुरुआती जानकारी के मुताबिक़ पुरानी दुश्मनी के चलते विरोधियों ने पवार पर गोली चलाई।\n\nघटना की सूचना मिलते ही वी बी नगर थाने की पुलिस टीम मौके पर पहुँची। पुलिस का कहना है कि गोलीबारी के पीछे की वजह और इसमें शामिल लोगों की पहचान की जाँच की जा रही है।\n\nपवार की हालत के बारे में विस्तृत जानकारी अभी नहीं मिली है। पुलिस ने यह भी नहीं बताया है कि हमलावरों की पहचान हुई है या नहीं। इस मामले में आगे की जानकारी का इंतज़ार है।\n\nफ़ोटो साभार: फ़्री प्रेस जर्नल"
+   },
+   "en": {
+    "title": "Man shot at in Mumbai's Kurla West over old rivalry; rushed to Bhabha Hospital",
+    "summary": "Mumbai: A 40-year-old man, Vinod Mallappa Pawar, was shot and injured at Makadwala Compound in Kurla West on Wednesday afternoon, allegedly over an old rivalry. He was rushed to Bhabha Hospital, where he is undergoing treatment. Police are investigating the motive and the identity of the attackers.",
+    "body": "Mumbai: A 40-year-old man was shot and injured in Kurla West on Wednesday afternoon, allegedly following an old rivalry. The victim, Vinod Mallappa Pawar, was rushed to Bhabha Hospital, where he is undergoing treatment.\n\nPolice said the incident took place at around 12.40 pm at Makadwala Compound, within the jurisdiction of V B Nagar police station. According to preliminary information, his rivals allegedly opened fire on him over a longstanding dispute.\n\nPolice teams from V B Nagar police station reached the spot soon after the incident was reported. Police said the circumstances leading to the firing and the identity of those involved are being investigated.\n\nFurther details about Pawar's condition are awaited, and police have not yet said whether the attackers have been identified. More information is expected as the investigation progresses.\n\nPhoto: Free Press Journal"
+   }
+  },
   {
    "id": "ganesh-naik-bungalow-fire-pawangad-churchgate-november-11",
    "category": "State & Local",
