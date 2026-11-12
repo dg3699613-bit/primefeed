@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-13T00:28:03+05:30",
+ "updatedAt": "2026-11-13T00:47:30+05:30",
  "articles": [
+  {
+   "id": "trump-pulls-vance-from-iran-talks-no-deal-needed-november-12",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-13T00:47:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-pulls-vance-from-iran-talks-no-deal-needed-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-pulls-vance-from-iran-talks-no-deal-needed-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-pulls-vance-from-iran-talks-no-deal-needed-november-12-en.mp3",
+   "hi": {
+    "title": "ट्रंप ने वेंस को ईरान वार्ता से हटाया: 'हमें ईरान से कोई सौदा नहीं चाहिए', अब ध्यान डेमोक्रेट राज्यों के 'भ्रष्टाचार' पर",
+    "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने गुरुवार को उपराष्ट्रपति जेडी वेंस को ईरान से बातचीत की ज़िम्मेदारी से हटा दिया और कहा कि अमेरिका को अब तेहरान से किसी समझौते की ज़रूरत नहीं है। वेंस से कहा गया है कि वे डेमोक्रेट शासित शहरों और राज्यों में हो रहे भ्रष्टाचार और अपराध पर अपना पूरा ध्यान लगाएँ।"
+   },
+   "en": {
+    "title": "Trump pulls Vance off Iran talks: 'We don't need a deal with Iran,' VP told to focus on blue-state 'corruption'",
+    "summary": "US President Donald Trump on Thursday pulled Vice President JD Vance off the Iran negotiations, saying America no longer needs a deal with Tehran, and told him to focus his full attention on alleged corruption and crime in Democratic-run cities and states instead."
+   }
+  },
   {
    "id": "kidambi-srikanth-stuns-naraoka-kumamoto-masters-quarterfinal-november-12",
    "category": "Cricket & Sports",
@@ -3230,29 +3251,6 @@
    "en": {
     "title": "Amul raises milk prices by Rs 2-4 a litre from tomorrow; Taaza at Rs 62, Gold at Rs 80",
     "summary": "Ahmedabad: Amul has raised the prices of its fresh milk variants by Rs 2 to Rs 4 a litre, effective Thursday, November 12. Amul Taaza will cost Rs 62 a litre and Amul Gold Rs 80, with the federation citing rising input costs."
-   }
-  },
-  {
-   "id": "south-africa-beat-india-408-runs-guwahati-series-2-0-november-11",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-11T23:02:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-africa-beat-india-408-runs-guwahati-series-2-0-november-11.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-india-408-runs-guwahati-series-2-0-november-11-hi.mp3",
-   "audioEn": null,
-   "district": "Kamrup Metro",
-   "state": "Assam",
-   "hi": {
-    "title": "गुवाहाटी में भारत की ४०८ रन से करारी हार, दक्षिण अफ़्रीका ने २५ साल बाद भारत में टेस्ट सीरीज़ जीती",
-    "summary": "गुवाहाटी: दक्षिण अफ़्रीका ने गुवाहाटी टेस्ट के पाँचवें दिन भारत को १४० रन पर समेटकर ४०८ रन से जीत दर्ज की और दो-शून्य से सीरीज़ अपने नाम कर ली, भारत में २५ साल बाद उसकी पहली टेस्ट सीरीज़ जीत, और घर पर भारत की रनों के लिहाज़ से सबसे बड़ी हार।"
-   },
-   "en": {
-    "title": "South Africa crush India by 408 runs in Guwahati to seal first series win in India in 25 years",
-    "summary": "Guwahati: South Africa bowled India out for 140 on the fifth day of the Guwahati Test to win by 408 runs and complete a 2-0 series sweep — their first Test series win in India in 25 years and India’s heaviest defeat by runs at home."
    }
   }
  ]
