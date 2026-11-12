@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-12T08:56:14+05:30",
+ "updatedAt": "2026-11-12T09:06:43+05:30",
  "articles": [
+  {
+   "id": "magnitude-4-9-earthquake-sikkim-nepal-border-gangtok-tremors-november-12",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-12T09:06:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/magnitude-4-9-earthquake-sikkim-nepal-border-gangtok-tremors-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/magnitude-4-9-earthquake-sikkim-nepal-border-gangtok-tremors-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/magnitude-4-9-earthquake-sikkim-nepal-border-gangtok-tremors-november-12-en.mp3",
+   "district": "Gyalshing",
+   "state": "Sikkim",
+   "hi": {
+    "title": "सिक्किम-नेपाल सीमा पर ४.९ तीव्रता का भूकंप, गंगटोक तक महसूस हुए झटके",
+    "summary": "गुरुवार तड़के सिक्किम-नेपाल सीमा के पास ४.९ तीव्रता का भूकंप आया। इसका केंद्र ग्यालशिंग ज़िले में युकसोम के पास था और गंगटोक समेत सिक्किम के कई इलाक़ों में झटके महसूस किए गए। किसी नुकसान की ख़बर नहीं है।",
+    "body": "गंगटोक: गुरुवार तड़के करीब साढ़े चार बजे सिक्किम-नेपाल सीमा के पास धरती हिल गई। राष्ट्रीय भूकंप विज्ञान केंद्र के अनुसार भूकंप की तीव्रता ४.९ मापी गई। इसका केंद्र सिक्किम के ग्यालशिंग ज़िले में युकसोम से करीब ४० किलोमीटर उत्तर-पश्चिम में, ७३ किलोमीटर की गहराई में था। केंद्र ने भूकंप का स्थान २७.६७१ डिग्री उत्तर अक्षांश और ८७.९८७ डिग्री पूर्व देशांतर पर दर्ज किया है।\n\nपश्चिम सिक्किम के कई इलाक़ों के साथ-साथ पूर्वी सिक्किम और राजधानी गंगटोक में भी हल्के झटके महसूस किए गए। झटके हल्के थे, लेकिन सुबह के सन्नाटे में उन्हें साफ़ महसूस किया गया। अधिकारियों के अनुसार ख़बर लिखे जाने तक कहीं से किसी नुकसान की सूचना नहीं मिली है।\n\nअमेरिकी भूगर्भ सर्वेक्षण ने इसी भूकंप को ४.६ तीव्रता और १० किलोमीटर गहराई पर दर्ज किया है। दोनों एजेंसियों के आंकड़ों में मामूली अंतर आम बात है, क्योंकि मापने के तरीके अलग होते हैं।\n\nसिक्किम हिमालय के भूकंप-संभावित क्षेत्र में आता है, जहाँ इस तरह के झटके समय-समय पर आते रहते हैं। विशेषज्ञों का कहना है कि भूकंप के दौरान घबराकर भागने के बजाय मज़बूत मेज़ या दीवार के सहारे सुरक्षित जगह पर रहना चाहिए और झटके थमने के बाद ही बाहर निकलना चाहिए।\n\nफ़ोटो साभार: यूएसजीएस"
+   },
+   "en": {
+    "title": "4.9-magnitude earthquake near Sikkim-Nepal border, tremors felt in Gangtok",
+    "summary": "A 4.9-magnitude earthquake struck near the Sikkim-Nepal border early on Thursday. Its epicentre was near Yuksom in Gyalshing district, and tremors were felt in Gangtok and across Sikkim. No damage has been reported.",
+    "body": "Gangtok: The ground shook near the Sikkim-Nepal border in the early hours of Thursday, when a 4.9-magnitude earthquake struck at about 4:30 am. According to the National Centre for Seismology, the epicentre was about 40 kilometres northwest of Yuksom in Gyalshing district of West Sikkim, at a depth of 73 kilometres. The centre recorded the location at 27.671 degrees north latitude and 87.987 degrees east longitude.\n\nMild tremors were felt across several parts of West Sikkim, as well as in East Sikkim, including the state capital, Gangtok. The tremors were light, but in the quiet of the early morning they were clearly felt. Officials said there were no reports of casualties or property damage at the time of filing.\n\nThe US Geological Survey recorded the same earthquake at a magnitude of 4.6 and a depth of 10 kilometres. Small differences between agencies are common, because they measure tremors in different ways.\n\nSikkim lies in the earthquake-prone Himalayan belt, where tremors of this kind occur from time to time. Experts advise people not to panic during a quake, to take cover under a sturdy table or beside a strong wall, and to step outside only after the shaking stops.\n\nPhoto: USGS"
+   }
+  },
   {
    "id": "ramayana-day-7-final-934-crore-worldwide-november-12",
    "category": "Entertainment",
