@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-12T08:36:34+05:30",
+ "updatedAt": "2026-11-12T08:45:06+05:30",
  "articles": [
+  {
+   "id": "noida-ghaziabad-schools-hybrid-classes-grap-3-november-12",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-12T08:45:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/noida-ghaziabad-schools-hybrid-classes-grap-3-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/noida-ghaziabad-schools-hybrid-classes-grap-3-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/noida-ghaziabad-schools-hybrid-classes-grap-3-november-12-en.mp3",
+   "district": "Gautam Buddha Nagar",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "नोएडा और गाज़ियाबाद में आज से पाँचवीं तक की कक्षाएँ हाइब्रिड मोड में, गाज़ियाबाद में निर्माण पर २० नवंबर तक रोक",
+    "summary": "गौतम बुद्ध नगर और गाज़ियाबाद ज़िले के स्कूलों में आज से पाँचवीं कक्षा तक की पढ़ाई हाइब्रिड मोड में होगी। ग्रैप के तीसरे चरण के तहत यह फ़ैसला लिया गया है। गाज़ियाबाद में निर्माण और तोड़फोड़ के काम पर २० नवंबर तक रोक लगा दी गई है।"
+   },
+   "en": {
+    "title": "Noida, Ghaziabad schools go hybrid for Classes 1 to 5 from today as GRAP-3 bites; construction banned in Ghaziabad till Nov 20",
+    "summary": "Schools in Gautam Buddha Nagar and Ghaziabad will run classes up to Class 5 in hybrid mode from Thursday, November 12, under Stage 3 of the Graded Response Action Plan. Ghaziabad has also banned all construction and demolition work till November 20 as air quality stays poor across Delhi-NCR."
+   }
+  },
+  {
+   "id": "msci-november-review-lic-coforge-adani-green-meesho-added-november-12",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-12T08:45:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/msci-november-review-lic-coforge-adani-green-meesho-added-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/msci-november-review-lic-coforge-adani-green-meesho-added-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/msci-november-review-lic-coforge-adani-green-meesho-added-november-12-en.mp3",
+   "hi": {
+    "title": "एमएससीआई के बड़े फेरबदल में एलआईसी, कोफ़ोर्ज, अदाणी ग्रीन और मीशो शामिल, करीब दो अरब डॉलर आने की उम्मीद",
+    "summary": "वैश्विक सूचकांक प्रदाता एमएससीआई ने नवंबर की समीक्षा में एलआईसी, कोफ़ोर्ज, अदाणी ग्रीन एनर्जी और मीशो को अपने ग्लोबल स्टैंडर्ड इंडेक्स में शामिल कर लिया है। पीआई इंडस्ट्रीज़ को बाहर कर दिया गया है। इस बदलाव से भारतीय शेयरों में करीब दो अरब डॉलर का निष्क्रिय निवेश आने का अनुमान है।"
+   },
+   "en": {
+    "title": "MSCI rejig: LIC, Coforge, Adani Green and Meesho enter Global Standard Index; $2 billion inflows expected",
+    "summary": "Index provider MSCI has added LIC, Coforge, Adani Green Energy and Meesho to its Global Standard Index in its November review, while PI Industries has been dropped. The changes are expected to bring around $2 billion of passive inflows into Indian stocks, with India’s weight in the MSCI Emerging Markets Index rising to 11.7% from 11.5%."
+   }
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-board-preparing-oust-ceo-jensen-huang-second-affair-november-12-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-board-preparing-oust-ceo-jensen-huang-second-affair-november-12-hi.mp3",
