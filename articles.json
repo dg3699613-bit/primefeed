@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-12T15:16:50+05:30",
+ "updatedAt": "2026-11-12T15:25:55+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-api-inference-residency-india-gpt-6-luna-november-12-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-api-inference-residency-india-gpt-6-luna-november-12-hi.mp3",
+   "breaking": false,
+   "category": "Technology",
+   "en": {
+    "body": "New Delhi: OpenAI on Thursday announced local processing and inference for its API in India, starting with the GPT-6 Luna model. For supported workloads, both the processing of an API request and the model computation that generates the response will now take place inside the country.\n\nUntil now, OpenAI's data residency offering in India covered only where customer data is stored. The new capability goes a step further: data will not just sit in India, it will be processed there too. That distinction matters for businesses that cannot send information outside the country under regulatory or internal rules — financial services firms in particular.\n\n'Some Indian businesses have not fully deployed AI for important work because they need the information involved to be processed within the country,' said Nitin Bawankule, head of enterprise, India, at OpenAI. 'Local inference gives them more control over where supported workloads run and helps address a practical barrier to adoption. It gives more businesses a way to put OpenAI's tools to work, and gives Indian developers and startups more scope to build for their own, and enterprise needs,' he added.\n\nThe offering covers direct API usage. For now, local processing supports GPT-6 Luna input and output through the Responses and Chat Completions APIs, for text-based tasks such as summarising documents, drafting responses and analysing information.\n\nTo use it, customers need to create a new API project with India selected for both data storage and processing, and route requests through the India regional endpoint. Eligibility requires Zero Data Retention enabled and Standard pay-as-you-go processing; hosted tools are not currently available for regional processing.\n\nOpenAI launched its OpenAI for India initiative earlier this year, covering AI infrastructure, enterprise adoption, skills development and local partnerships — including a partnership with Tata Group to build domestic AI data centre capacity. API inference residency is available in other regions too, with India, Australia and Japan the latest markets to receive it.\n\nPhoto: REUTERS/Carlos Barria",
+    "summary": "OpenAI on Thursday announced local processing and inference for its API in India, starting with the GPT-6 Luna model. Supported workloads will now be processed — and the responses computed — inside the country, a move aimed at businesses with data localisation needs, especially in financial services.",
+    "title": "OpenAI brings local AI processing to India, starting with GPT-6 Luna"
+   },
+   "featured": false,
+   "hi": {
+    "body": "नई दिल्ली: ओपनएआई ने गुरुवार को भारत में अपने एपीआई के लिए लोकल प्रोसेसिंग और इन्फ़रेंस शुरू करने का एलान किया। शुरुआत जीपीटी-६ लूना मॉडल से होगी — अब समर्थित वर्कलोड के लिए एपीआई रिक्वेस्ट की प्रोसेसिंग और जवाब बनाने वाला मॉडल कंप्यूटेशन, दोनों भारत में ही होंगे।\n\nअब तक ओपनएआई की डेटा रेज़िडेंसी सुविधा सिर्फ़ इतनी थी कि ग्राहकों का डेटा भारत में स्टोर रहे। नई सुविधा उससे एक कदम आगे है: डेटा सिर्फ़ रखा ही नहीं जाएगा, उसकी प्रोसेसिंग भी देश के अंदर होगी। यही फर्क उन कारोबारों के लिए मायने रखता है जिन्हें नियामक या अंदरूनी नियमों के तहत जानकारी देश से बाहर नहीं भेजनी होती — खासकर वित्तीय सेवाओं से जुड़ी कंपनियों के लिए।\n\nओपनएआई के भारत में एंटरप्राइज़ प्रमुख नितिन बावनकुले ने कहा, 'कुछ भारतीय कारोबारों ने एआई को अपने अहम कामों में पूरी तरह इसलिए नहीं लगाया था, क्योंकि उन्हें इससे जुड़ी जानकारी देश के अंदर ही प्रोसेस करनी थी।' उनके मुताबिक लोकल इन्फ़रेंस से कंपनियों को इस पर ज़्यादा नियंत्रण मिलेगा कि उनका समर्थित वर्कलोड कहाँ चल रहा है, और अपनाने की यह व्यावहारिक अड़चन दूर होगी।\n\nयह सुविधा सीधे एपीआई इस्तेमाल करने वालों के लिए है। फिलहाल यह जीपीटी-६ लूना मॉडल के इनपुट और आउटपुट पर, रिस्पॉन्सेस और चैट कंप्लीशंस एपीआई के ज़रिए उपलब्ध है। इसका इस्तेमाल दस्तावेज़ों को सारांश में बदलने, जवाबों का मसौदा तैयार करने और जानकारी का विश्लेषण जैसे टेक्स्ट आधारित कामों में किया जा सकेगा।\n\nइसे चालू करने के लिए ग्राहकों को एक नया एपीआई प्रोजेक्ट बनाना होगा, जिसमें स्टोरेज और प्रोसेसिंग दोनों के लिए भारत चुनना होगा, और फिर भारत के रीजनल एंडपॉइंट का इस्तेमाल करना होगा। पात्रता की शर्तों में ज़ीरो डेटा रिटेंशन चालू रखना और स्टैंडर्ड पे-एज़-यू-गो प्रोसेसिंग शामिल है; होस्टेड टूल्स फिलहाल रीजनल प्रोसेसिंग के लिए उपलब्ध नहीं हैं।\n\nओपनएआई ने इस साल की शुरुआत में 'ओपनएआई फ़ॉर इंडिया' पहल शुरू की थी, जिसमें एआई बुनियादी ढाँचा, एंटरप्राइज़ अपनाना, कौशल विकास और स्थानीय साझेदारियाँ शामिल हैं — इसी के तहत टाटा समूह के साथ देश में एआई डेटा सेंटर क्षमता बनाने की साझेदारी भी हुई थी। एपीआई इन्फ़रेंस रेज़िडेंसी दुनिया के दूसरे हिस्सों में भी उपलब्ध है; भारत, ऑस्ट्रेलिया और जापान इसके सबसे नए बाज़ार हैं।\n\nफ़ोटो साभार: रॉयटर्स / कार्लोस बारिया",
+    "summary": "ओपनएआई ने गुरुवार को भारत में अपने एपीआई के लिए लोकल प्रोसेसिंग और इन्फ़रेंस शुरू करने का एलान किया। शुरुआत जीपीटी-६ लूना मॉडल से होगी — अब समर्थित वर्कलोड की प्रोसेसिंग और मॉडल कंप्यूटेशन भारत में ही होगा, जिससे डेटा लोकलाइज़ेशन की ज़रूरत वाले कारोबारों को, खासकर वित्तीय सेवाओं को, मदद मिलेगी।",
+    "title": "ओपनएआई का बड़ा एलान: भारत में ही होगी एआई प्रोसेसिंग, जीपीटी-६ लूना से शुरुआत"
+   },
+   "id": "openai-api-inference-residency-india-gpt-6-luna-november-12",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/openai-api-inference-residency-india-gpt-6-luna-november-12.jpg",
+   "publishedAt": "2026-11-12T15:25:55+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "AI",
+   "trending": true
+  },
   {
    "id": "israeli-strike-nasser-hospital-khan-younis-six-killed-november-12",
    "category": "World",
