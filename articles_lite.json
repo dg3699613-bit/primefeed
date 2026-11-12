@@ -1,27 +1,6 @@
 {
- "updatedAt": "2026-11-13T04:39:52+05:30",
+ "updatedAt": "2026-11-13T04:49:32+05:30",
  "articles": [
-  {
-   "id": "india-lose-5-0-new-zealand-auckland-friendly-november-12",
-   "category": "Cricket & Sports",
-   "sub": "Football",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-13T04:39:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-lose-5-0-new-zealand-auckland-friendly-november-12.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-lose-5-0-new-zealand-auckland-friendly-november-12-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-lose-5-0-new-zealand-auckland-friendly-november-12-en.mp3",
-   "hi": {
-    "title": "ऑकलैंड में भारत की करारी हार: न्यूज़ीलैंड ने फ़्रेंडली में ५-० से हराया, रैंडल के दो गोल",
-    "summary": "गो मीडिया स्टेडियम में खेले गए पहले फ़्रेंडली मुकाबले में न्यूज़ीलैंड ने भारत को ५-० से हरा दिया। जेसी रैंडल ने दो गोल किए, जबकि क्रिस वुड और लैकलन बेलिस ने भी जाल हिलाया। दूसरा मुकाबला रविवार को क्राइस्टचर्च में होगा।"
-   },
-   "en": {
-    "title": "India thrashed 5-0 by New Zealand in Auckland friendly — Randall brace, Wood header seal the rout",
-    "summary": "New Zealand beat India 5-0 in the first friendly at Go Media Stadium in Auckland. Jesse Randall scored twice, while Chris Wood and Lachlan Bayliss also found the net. The second friendly is in Christchurch on Sunday."
-   }
-  },
   {
    "id": "trump-tim-cook-should-replace-jensen-huang-nvidia-ceo",
    "category": "Business",
