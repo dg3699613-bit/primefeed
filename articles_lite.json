@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-12T19:17:53+05:30",
+ "updatedAt": "2026-11-12T19:48:55+05:30",
  "articles": [
+  {
+   "id": "gonda-shri-ram-katha-dhirendra-shastri-yogi-november-12",
+   "category": "Dharm-Astrology",
+   "sub": "Mandir & Teerth",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-12T19:48:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-shri-ram-katha-dhirendra-shastri-yogi-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-shri-ram-katha-dhirendra-shastri-yogi-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-shri-ram-katha-dhirendra-shastri-yogi-november-12-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोंडा की जयप्रभा में १७ से २५ नवंबर तक श्रीराम कथा, धीरेंद्र शास्त्री १७ को आएँगे; योगी २० नवंबर को पहुँचेंगे",
+    "summary": "गोंडा जिले के जयप्रभा गाँव में १७ से २५ नवंबर तक श्रीराम कथा होगी। बागेश्वर धाम के पंडित धीरेंद्र कृष्ण शास्त्री १७ नवंबर को स्वामी रामदेव के साथ पहुँचेंगे और राजन जी महाराज की कथा का उद्घाटन करेंगे। मुख्यमंत्री योगी आदित्यनाथ २० नवंबर को कार्यक्रम में शामिल होंगे।"
+   },
+   "en": {
+    "title": "Nine-day Shri Ram Katha in Gonda's Jayprabha from November 17; Dhirendra Shastri to arrive on day one, Yogi on November 20",
+    "summary": "A nine-day Shri Ram Katha will be held at Jayprabha village in Gonda district from November 17 to 25. Pandit Dhirendra Krishna Shastri of Bageshwar Dham will arrive on November 17 with Swami Ramdev to inaugurate Rajan Ji Maharaj's katha, and Chief Minister Yogi Adityanath will attend the programme on November 20."
+   }
+  },
   {
    "id": "govt-plans-special-parliament-session-womens-quota-850-lok-sabha-november-12",
    "category": "Politics",
