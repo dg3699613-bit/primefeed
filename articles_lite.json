@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-12T15:46:56+05:30",
+ "updatedAt": "2026-11-12T16:02:00+05:30",
  "articles": [
+  {
+   "id": "jaipur-vijay-bajiya-murder-four-arrested-revenge-2019-november-12",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-12T16:02:00+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Jaipur",
+   "state": "Rajasthan",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jaipur-vijay-bajiya-murder-four-arrested-revenge-2019-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaipur-vijay-bajiya-murder-four-arrested-revenge-2019-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaipur-vijay-bajiya-murder-four-arrested-revenge-2019-november-12-en.mp3",
+   "hi": {
+    "title": "जयपुर में हिस्ट्रीशीटर विजय बाजिया की कुल्हाड़ी से हत्या, सात साल पुराना बदला: चार आरोपी गिरफ्तार",
+    "summary": "जयपुर के जगदंबा नगर में बुधवार रात हिस्ट्रीशीटर विजय बाजिया की गाड़ी को टक्कर मारकर रोका गया और कुल्हाड़ी से हमला कर हत्या कर दी गई। पुलिस ने गुरुवार तड़के चार आरोपियों को गिरफ्तार किया — पुलिस के मुताबिक हत्या 2019 में मुख्य आरोपी हनीश गोल्या के पिता कैलाश की हत्या का बदला थी।"
+   },
+   "en": {
+    "title": "Jaipur history-sheeter Vijay Bajiya hacked to death in revenge attack; four arrested within hours",
+    "summary": "History-sheeter Vijay Bajiya was killed in Jaipur's Jagdamba Nagar on Wednesday night after attackers rammed his Fortuner and attacked him with axes. Police arrested four accused early on Thursday, saying the killing was revenge for the 2019 murder of the main accused Hanish Golya's father, Kailash."
+   }
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nandurbar-castor-seeds-girl-dies-seven-children-hospital-november-12-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nandurbar-castor-seeds-girl-dies-seven-children-hospital-november-12-hi.mp3",
