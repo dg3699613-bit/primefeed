@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-12T07:25:17+05:30",
+ "updatedAt": "2026-11-12T07:47:59+05:30",
  "articles": [
+  {
+   "id": "seongnam-bus-crash-32-vehicles-57-injured-november-11",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-12T07:47:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/seongnam-bus-crash-32-vehicles-57-injured-november-11.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seongnam-bus-crash-32-vehicles-57-injured-november-11-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seongnam-bus-crash-32-vehicles-57-injured-november-11-en.mp3",
+   "hi": {
+    "title": "सियोल के पास बस बेकाबू: ट्रैफ़िक लाइट पर खड़ी ३२ गाड़ियों से टकराई, ५७ घायल, नौ गंभीर",
+    "summary": "दक्षिण कोरिया के सियॉन्गनाम शहर में बुधवार सुबह एक यात्री बस ट्रैफ़िक लाइट पर खड़ी ३२ गाड़ियों से टकरा गई। हादसे में ५७ लोग घायल हुए हैं, जिनमें नौ की हालत गंभीर है, लेकिन किसी की जान को ख़तरा नहीं है। ड्राइवर ने पुलिस को बताया कि बस के ब्रेक फेल हो गए थे।"
+   },
+   "en": {
+    "title": "Bus ploughs into 32 vehicles at traffic light near Seoul, 57 injured; driver says brakes failed",
+    "summary": "A commuter bus ploughed into 32 vehicles waiting at a traffic light in Seongnam, just south of Seoul, on Wednesday morning, injuring 57 people. Nine were seriously hurt, though none was in a life-threatening condition. The driver told police the brakes had failed."
+   }
+  },
+  {
+   "id": "iran-designates-argentina-navy-air-force-terrorist-organisations-november-11",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-12T07:47:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-designates-argentina-navy-air-force-terrorist-organisations-november-11.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-designates-argentina-navy-air-force-terrorist-organisations-november-11-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-designates-argentina-navy-air-force-terrorist-organisations-november-11-en.mp3",
+   "hi": {
+    "title": "ईरान ने अर्जेंटीना की नौसेना और वायुसेना को 'आतंकवादी संगठन' कहा, ब्यूनस आयर्स ने खारिज किया",
+    "summary": "ईरान ने अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित कर दिया है। तेहरान ने कहा कि यह कदम पारस्परिकता के सिद्धांत के तहत है, क्योंकि अर्जेंटीना ने इस साल मार्च में ईरान की इस्लामिक रिवॉल्यूशनरी गार्ड कॉर्प्स को आतंकवादी घोषित किया था। अर्जेंटीना ने इस फ़ैसले को सिरे से खारिज कर दिया है।"
+   },
+   "en": {
+    "title": "Iran designates Argentina's navy and air force as 'terrorist organisations'; Buenos Aires rejects move",
+    "summary": "Iran has designated Argentina's navy and air force as 'terrorist organisations', saying the move follows the principle of reciprocity after Argentina blacklisted Iran's Islamic Revolutionary Guard Corps in March. Argentina has categorically rejected the designation as completely baseless."
+   }
+  },
   {
    "id": "cabinet-62370-crore-fertiliser-subsidy-stand-up-india-2031-november-11",
    "category": "Government Schemes",
