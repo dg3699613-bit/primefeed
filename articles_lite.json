@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-13T05:32:10+05:30",
+ "updatedAt": "2026-11-13T05:52:32+05:30",
  "articles": [
+  {
+   "id": "katni-kisna-jewellers-heist-12-crore-wall-breach-november-12",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-13T05:52:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/katni-kisna-jewellers-heist-12-crore-wall-breach-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/katni-kisna-jewellers-heist-12-crore-wall-breach-november-12-hi.mp3",
+   "audioEn": null,
+   "district": "Katni",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "कटनी: नौ इंच मोटी दीवार तोड़कर ज्वेलरी शोरूम से १२ करोड़ के गहने चोरी, पुलिस को संगठित गिरोह का शक",
+    "summary": "कटनी में चोरों ने किसना ज्वेलर्स शोरूम की नौ इंच मोटी पिछली दीवार में छेद करके करीब १२ करोड़ रुपये के सोने-हीरे के गहने चुरा लिए। पुलिस को संगठित गिरोह का शक है। मौके से करीब ५० उंगलियों के निशान और एक गैस सिलेंडर मिला है।"
+   },
+   "en": {
+    "title": "Thieves drill through 9-inch wall, loot jewellery worth about Rs 12 crore from Katni showroom",
+    "summary": "Thieves cut through the nine-inch-thick rear wall of Kisna Jewellers in Katni and escaped with gold and diamond jewellery worth about Rs 12 crore. Police suspect an organised gang; around 50 fingerprints and a gas cylinder were recovered from the spot."
+   }
+  },
   {
    "id": "israel-orders-military-prepare-possible-iran-strike-tehran-widens-retaliation-threat",
    "category": "World",
@@ -3228,29 +3251,6 @@
    "en": {
     "title": "Manipur Police to destroy illegal poppy in 516 villages across 10 districts",
     "summary": "Manipur Police has finalised a plan to destroy illegal poppy plantations in 516 villages spread over 10 districts, with help from other security forces. Additional CRPF personnel have also been requisitioned from the Centre."
-   }
-  },
-  {
-   "id": "nisha-bhagat-death-cbi-probe-ordered-sho-removed-november-11",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-12T03:00:47+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Ranchi",
-   "state": "Jharkhand",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nisha-bhagat-death-cbi-probe-ordered-sho-removed-november-11.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nisha-bhagat-death-cbi-probe-ordered-sho-removed-november-11-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nisha-bhagat-death-cbi-probe-ordered-sho-removed-november-11-en.mp3",
-   "hi": {
-    "title": "निशा भगत की मौत की जाँच अब सीबीआई करेगी — हेमंत सोरेन का आदेश, पिथोरिया थानाध्यक्ष हटाए गए",
-    "summary": "झारखंड के मुख्यमंत्री हेमंत सोरेन ने आदिवासी कार्यकर्ता निशा कुमारी भगत की मौत के मामले की सीबीआई जाँच का आदेश दिया है। इससे कुछ घंटे पहले पिथोरिया थाने के प्रभारी को पद से हटाया गया था। भगत की छह नवंबर को फ़ेसबुक लाइव के बाद मौत हो गई थी, जिसमें उन्होंने सरकार और भूमि दलालों पर उत्पीड़न का आरोप लगाया था।"
-   },
-   "en": {
-    "title": "CBI probe ordered into tribal activist Nisha Bhagat's death; Pithoria SHO removed after conspiracy allegations",
-    "summary": "Jharkhand Chief Minister Hemant Soren has ordered a CBI probe into the death of tribal activist Nisha Kumari Bhagat, hours after the officer in charge of Pithoria police station was removed from his post. Bhagat, 39, allegedly died by suicide on November 6, shortly after a Facebook Live in which she accused the state government and land brokers of harassment."
    }
   }
  ]
