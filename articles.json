@@ -1,6 +1,31 @@
 {
- "updatedAt": "2026-11-13T12:12:49+05:30",
+ "updatedAt": "2026-11-13T13:10:02+05:30",
  "articles": [
+  {
+   "id": "microsoft-outage-delhi-flights-spicejet-cancels-three-november-13",
+   "category": "Technology",
+   "sub": "Internet",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-13T13:10:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/microsoft-outage-delhi-flights-spicejet-cancels-three-november-13.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/microsoft-outage-delhi-flights-spicejet-cancels-three-november-13-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/microsoft-outage-delhi-flights-spicejet-cancels-three-november-13-en.mp3",
+   "district": "South West Delhi",
+   "state": "Delhi",
+   "hi": {
+    "title": "माइक्रोसॉफ्ट आउटेज की मार दिल्ली हवाई अड्डे पर: स्पाइसजेट की ३ उड़ानें रद्द, इंडिगो की ईमेल सेवा ठप",
+    "summary": "वैश्विक माइक्रोसॉफ्ट ३६५ आउटेज के दूसरे दिन दिल्ली से स्पाइसजेट की तीन उड़ानें रद्द और दो देर से उड़ेंगी; इंडिगो और अकासा एयर ने कहा कि उनकी ईमेल सेवा प्रभावित है, जबकि एयर इंडिया ने कहा कि उसकी उड़ानें सामान्य हैं।",
+    "body": "नई दिल्ली: माइक्रोसॉफ्ट ३६५ की गड़बड़ी दूसरे दिन भी जारी है, और अब इसकी आंच दिल्ली हवाई अड्डे की उड़ानों तक पहुँच गई है। स्पाइसजेट ने शुक्रवार सुबह दिल्ली से रवाना होने वाली तीन उड़ानें रद्द कर दीं, जबकि दो उड़ानें देर से उड़ेंगी। यह गड़बड़ी उसी वैश्विक आउटेज की वजह से हुई है जिसने गुरुवार रात से आउटलुक, टीम्स और एक्सचेंज ऑनलाइन जैसी सेवाएँ ठप कर रखी हैं।\n\nस्पाइसजेट की रद्द उड़ानों में दिल्ली-पुणे, दिल्ली-लेह और दिल्ली-मुंबई शामिल हैं। दिल्ली-दरभंगा और दिल्ली-मुंबई की दो उड़ानें देर से रवाना होंगी। एयरलाइन ने यात्रियों से उड़ान की स्थिति जाँचकर ही हवाई अड्डे के लिए निकलने को कहा है।\n\nइंडिगो और अकासा एयर की उड़ानें तो चल रही हैं, लेकिन दोनों की ईमेल सेवा पर असर पड़ा है। इंडिगो ने सोशल मीडिया पर जारी सलाह में कहा कि माइक्रोसॉफ्ट की गड़बड़ी के कारण उसकी ईमेल सेवा प्रभावित है और हो सकता है कि यात्रियों के ईमेल उस तक न पहुँचें। अकासा एयर ने भी यात्रियों को ऐसी ही सलाह दी है। दोनों एयरलाइनों ने कहा है कि उनकी बाकी सेवाएँ सामान्य रूप से चल रही हैं।\n\nदिल्ली हवाई अड्डे के संचालक ने भी शुक्रवार सुबह १० बजकर ५ मिनट पर यात्रियों के लिए सलाह जारी की। इसमें स्पाइसजेट के यात्रियों से कहा गया है कि वे उड़ान की ताज़ा स्थिति के लिए सीधे एयरलाइन से संपर्क करें। हवाई अड्डे ने यह नहीं बताया कि कितनी उड़ानें प्रभावित हो सकती हैं।\n\nएयर इंडिया ने कहा है कि उसकी उड़ानों पर आउटेज का कोई असर नहीं पड़ा है। एयरलाइन के मुताबिक वह स्थिति पर नज़र रखे हुए है और उसके सभी संचार माध्यम सामान्य रूप से काम कर रहे हैं। ईमेल सेवा चालू रखने के लिए उसने ईमेल ट्रैफ़िक को अस्थायी रूप से दूसरे रास्ते से भेजना शुरू कर दिया है और २४ घंटे के भीतर जवाब देने की व्यवस्था बनी हुई है।\n\nमाइक्रोसॉफ्ट की ओर से अब तक पूरी बहाली की कोई समय-सीमा नहीं दी गई है। कंपनी ने कहा है कि उसके पहले उपाय उम्मीद के मुताबिक काम नहीं कर रहे और वह दूसरे रास्ते तलाश रही है। कंपनी ने यह भी साफ किया है कि यह किसी साइबर हमले की वजह से नहीं हुआ है।\n\nगौरतलब है कि स्पाइसजेट की दुबई से चार उड़ानें गुरुवार को भी रद्द हुई थीं, लेकिन वह मामला अलग है — वहाँ ग्राउंड हैंडलिंग कंपनी ने बकाया भुगतान को लेकर चेक-इन सेवा रोक दी थी। उसका माइक्रोसॉफ्ट आउटेज से कोई लेना-देना नहीं है।\n\nडाउनडिटेक्टर के मुताबिक आउटेज की पहली शिकायत गुरुवार रात ११ बजकर २ मिनट पर आई थी, और कुछ ही घंटों में यह ७४ देशों तक फैल गया। यात्रियों को सलाह दी गई है कि वे हवाई अड्डे के लिए निकलने से पहले अपनी उड़ान की स्थिति ज़रूर जाँच लें।\n\nफ़ोटो साभार: एबीपी लाइव"
+   },
+   "en": {
+    "title": "Microsoft outage reaches Delhi airport: SpiceJet cancels 3 flights, IndiGo email hit",
+    "summary": "SpiceJet cancelled three flights from Delhi and delayed two more as the global Microsoft 365 outage entered its second day; IndiGo and Akasa Air said their email support is hit, while Air India said its flights are unaffected.",
+    "body": "New Delhi: The Microsoft 365 outage has entered its second day, and its effects have now reached the departure boards at Delhi airport. SpiceJet cancelled three flights out of Delhi on Friday morning and delayed two more, blaming the global glitch that has kept Outlook, Teams and Exchange Online down since Thursday night.\n\nThe cancelled flights are Delhi-Pune, Delhi-Leh and Delhi-Mumbai. Two more SpiceJet services, Delhi-Darbhanga and a second Delhi-Mumbai flight, will leave late. The airline has asked passengers to check their flight status before heading to the airport.\n\nIndiGo and Akasa Air are still flying, but their email support has taken a hit. IndiGo said in an advisory on X that its email services are affected by the global Microsoft disruption and it may not be able to receive emails from passengers. Akasa Air issued a similar warning. Both airlines said their other channels are working normally.\n\nDelhi airport's operator also issued an advisory at 10:05 am, asking SpiceJet passengers to check the latest status of their flights directly with the airline before travelling. The airport did not say how many flights could be affected.\n\nAir India said its operations remain unaffected. The airline said it is closely monitoring the outage, its communication channels are working normally, and it has temporarily rerouted email traffic so messages keep reaching it, with replies within its usual 24 hours.\n\nMicrosoft has given no timeline for a full recovery. The company has said its first attempts at a fix are not working as expected and it is looking for alternative ways to restore service. It has also ruled out a cyberattack as the cause.\n\nSpiceJet also cancelled four flights from Dubai on Thursday, but that was a separate matter: the ground-handling company there suspended check-in services over unpaid dues. It has nothing to do with the Microsoft outage.\n\nAccording to Downdetector, the first complaints about the outage came in at 11:02 pm on Thursday, and within an hour the disruption had spread to 74 countries. Passengers flying out of Delhi have been advised to check their flight status before leaving for the airport.\n\nPhoto: ABP Live"
+   }
+  },
   {
    "id": "india-0-3-first-over-rohit-kohli-iyer-ducks-henry-november-13",
    "category": "Cricket & Sports",
