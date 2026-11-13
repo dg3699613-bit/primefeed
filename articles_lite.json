@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-13T13:38:56+05:30",
+ "updatedAt": "2026-11-13T13:47:17+05:30",
  "articles": [
+  {
+   "id": "rahul-gandhi-alleges-pm-modi-taps-phone-debate-challenge-november-13",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-13T13:47:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-alleges-pm-modi-taps-phone-debate-challenge-november-13.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-alleges-pm-modi-taps-phone-debate-challenge-november-13-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "‘मेरा फ़ोन टैप हो रहा है, सबूत इसी में है’: राहुल गांधी का पीएम मोदी पर बड़ा आरोप, फिर दी वन-टू-वन बहस की चुनौती",
+    "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने शुक्रवार को इंस्टाग्राम पर ‘आस्क मी’ सत्र के दौरान आरोप लगाया कि प्रधानमंत्री नरेंद्र मोदी उनका फ़ोन टैप करवाते हैं। उन्होंने अपना फ़ोन दिखाते हुए कहा कि उनके सारे आरोपों के सबूत इसी फ़ोन में हैं, और फिर प्रधानमंत्री को वन-टू-वन बहस की चुनौती दी।"
+   },
+   "en": {
+    "title": "‘The proof is in this phone, PM taps it’: Rahul Gandhi accuses PM Modi of phone tapping, renews one-on-one debate dare",
+    "summary": "Leader of Opposition Rahul Gandhi on Friday alleged during an Instagram 'Ask Me' session that Prime Minister Narendra Modi taps his phone. Holding up his phone, he said it holds proof of all his allegations, and renewed his challenge to the Prime Minister for a one-on-one debate."
+   }
+  },
   {
    "id": "pm-modi-flags-off-bengaluru-pink-line-metro-november-13",
    "category": "India",
