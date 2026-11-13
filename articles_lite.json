@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-13T06:20:51+05:30",
+ "updatedAt": "2026-11-13T06:57:39+05:30",
  "articles": [
+  {
+   "id": "iit-madras-pravartak-free-online-courses-classes-7-12-november-12",
+   "category": "Education",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-13T06:57:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iit-madras-pravartak-free-online-courses-classes-7-12-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iit-madras-pravartak-free-online-courses-classes-7-12-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iit-madras-pravartak-free-online-courses-classes-7-12-november-12-en.mp3",
+   "hi": {
+    "title": "आईआईटी मद्रास का तोहफ़ा: कक्षा ७ से १२ के छात्रों के लिए एआई, ईवी और उद्यमिता की मुफ़्त ऑनलाइन ट्रेनिंग",
+    "summary": "आईआईटी मद्रास प्रवर्तक ने बोधब्रिज एजुकेशन के साथ मिलकर कक्षा ७ से १२ के छात्रों और शिक्षकों के लिए मुफ़्त ऑनलाइन ट्रेनिंग शुरू की है। एआई, इलेक्ट्रिक वाहन, उद्यमिता और डिज़ाइन थिंकिंग जैसे विषयों पर नवंबर २०२६ से जनवरी २०२७ तक मासिक बैच चलेंगे।"
+   },
+   "en": {
+    "title": "IIT Madras opens free online courses in AI, EVs and entrepreneurship for Classes 7 to 12 students",
+    "summary": "IIT Madras Pravartak has launched free online training programmes in AI, electric vehicles, entrepreneurship and design thinking for school students of Classes 7 to 12 and teachers, in monthly batches from November 2026 to January 2027."
+   }
+  },
   {
    "id": "witkoff-kushner-meet-zelenskyy-dublin-europe-next-talks-november-12",
    "category": "World",
@@ -3228,29 +3249,6 @@
    "en": {
     "title": "Jay Bhanushali says his children will no longer watch Bigg Boss 20 after housemates drag 7-year-old Tara into fights",
     "summary": "Jay Bhanushali has said his children will no longer watch Bigg Boss 20 after housemates dragged seven-year-old Tara and the other children into fights inside the house, calling it a boundary no game should cross."
-   }
-  },
-  {
-   "id": "hardoi-ganga-expressway-family-killed-four-november-11",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-12T03:38:05+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Hardoi",
-   "state": "Uttar Pradesh",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hardoi-ganga-expressway-family-killed-four-november-11.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hardoi-ganga-expressway-family-killed-four-november-11-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hardoi-ganga-expressway-family-killed-four-november-11-en.mp3",
-   "hi": {
-    "title": "गंगा एक्सप्रेसवे पर दर्दनाक हादसा — हरदोई में डिवाइडर से टकराई कार, छठ मनाने जा रहे परिवार के चार लोगों की मौत",
-    "summary": "गंगा एक्सप्रेसवे पर हरदोई में तेज रफ्तार कार डिवाइडर से टकरा गई। छठ पूजा मनाने प्रयागराज जा रहे परिवार के चार लोगों — दंपति और उनके दो छोटे बेटों — की मौत हो गई।"
-   },
-   "en": {
-    "title": "Four of a family, including two children, killed as car hits divider on Ganga Expressway in Hardoi",
-    "summary": "A speeding car rammed into a divider on the Ganga Expressway in Hardoi, killing four members of a family — a couple and their two young sons — who were travelling to Prayagraj to celebrate Chhath Puja."
    }
   }
  ]
