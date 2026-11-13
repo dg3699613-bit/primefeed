@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-13T13:10:02+05:30",
+ "updatedAt": "2026-11-13T13:20:35+05:30",
  "articles": [
+  {
+   "id": "sensex-falls-610-points-nifty-below-25100-november-13",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-13T13:20:35+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-falls-610-points-nifty-below-25100-november-13.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-falls-610-points-nifty-below-25100-november-13-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-falls-610-points-nifty-below-25100-november-13-en.mp3",
+   "hi": {
+    "title": "सेंसेक्स ६१० अंक लुढ़का, निफ़्टी २५,१०० से नीचे — महँगाई के आँकड़े से रुकी तेज़ी की रफ़्तार",
+    "summary": "अक्टूबर में खुदरा महँगाई ६.०९ प्रतिशत पहुँचने के बाद शुक्रवार सुबह शेयर बाज़ार तेज़ी से गिरा — सेंसेक्स ८१,३०० तक फिसला और निफ़्टी २५,१०० से नीचे चला गया। दोपहर तक बाज़ार ने गिरावट का एक हिस्सा वापस पा लिया था।"
+   },
+   "en": {
+    "title": "Sensex plunges 610 points, Nifty slips below 25,100 as inflation data halts the rally",
+    "summary": "A day after October retail inflation printed 6.09%, breaching the RBI's tolerance limit, Indian equities fell sharply in early trade on Friday — the Sensex sliding 610 points to 81,300 and the Nifty below 25,100 — before recovering part of the losses by midday."
+   }
+  },
   {
    "id": "microsoft-outage-delhi-flights-spicejet-cancels-three-november-13",
    "category": "Technology",
