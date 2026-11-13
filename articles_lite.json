@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-13T05:52:32+05:30",
+ "updatedAt": "2026-11-13T06:20:51+05:30",
  "articles": [
+  {
+   "id": "witkoff-kushner-meet-zelenskyy-dublin-europe-next-talks-november-12",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-13T06:20:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/witkoff-kushner-meet-zelenskyy-dublin-europe-next-talks-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/witkoff-kushner-meet-zelenskyy-dublin-europe-next-talks-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/witkoff-kushner-meet-zelenskyy-dublin-europe-next-talks-november-12-en.mp3",
+   "hi": {
+    "title": "पुतिन से बात के बाद विटकॉफ़-कुशनर डबलिन में ज़ेलेंस्की से मिले — अगली वार्ता में यूरोप भी, सबसे बड़ी कैदी अदला-बदली होगी",
+    "summary": "अमेरिका के दूत स्टीव विटकॉफ़ और जेरेड कुशनर पुतिन से मिलने के बाद डबलिन में राष्ट्रपति ज़ेलेंस्की से मिले। ज़ेलेंस्की ने कहा कि अगली शांति वार्ता में यूरोप भी मेज़ पर होगा और युद्धबंदियों की अब तक की सबसे बड़ी अदला-बदली होगी।"
+   },
+   "en": {
+    "title": "After Putin talks, Witkoff and Kushner meet Zelenskyy in Dublin — Europe to join next round, biggest prisoner swap yet",
+    "summary": "US envoys Steve Witkoff and Jared Kushner briefed President Volodymyr Zelenskyy in Dublin after their Kremlin meeting with Vladimir Putin. Zelenskyy said Europe would join the next round of peace talks and the coming prisoner exchange would be the largest yet."
+   }
+  },
+  {
+   "id": "ec-draft-electoral-rolls-2027-revision-tamil-nadu-5-77-crore-november-12",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-13T06:20:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ec-draft-electoral-rolls-2027-revision-tamil-nadu-5-77-crore-november-12.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ec-draft-electoral-rolls-2027-revision-tamil-nadu-5-77-crore-november-12-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ec-draft-electoral-rolls-2027-revision-tamil-nadu-5-77-crore-november-12-en.mp3",
+   "hi": {
+    "title": "मतदाता सूची का मसौदा जारी: तमिलनाडु में ५.७७ करोड़ मतदाता, ११ दिसंबर तक दावे और आपत्तियाँ",
+    "summary": "चुनाव आयोग ने २०२७ के विशेष संक्षिप्त पुनरीक्षण के तहत मतदाता सूची का मसौदा जारी कर दिया है। तमिलनाडु में ५.७७ करोड़ मतदाता दर्ज हैं; दावे और आपत्तियाँ ११ दिसंबर तक दर्ज कराई जा सकती हैं।"
+   },
+   "en": {
+    "title": "Draft electoral rolls for 2027 revision released: Tamil Nadu lists 5.77 crore voters; claims open till December 11",
+    "summary": "The Election Commission released draft electoral rolls for the 2027 Special Summary Revision in 17 states and Union Territories. Tamil Nadu lists 5.77 crore voters; claims and objections can be filed till December 11."
+   }
+  },
   {
    "id": "katni-kisna-jewellers-heist-12-crore-wall-breach-november-12",
    "category": "Crime & Law",
@@ -3209,48 +3251,6 @@
    "en": {
     "title": "Four of a family, including two children, killed as car hits divider on Ganga Expressway in Hardoi",
     "summary": "A speeding car rammed into a divider on the Ganga Expressway in Hardoi, killing four members of a family — a couple and their two young sons — who were travelling to Prayagraj to celebrate Chhath Puja."
-   }
-  },
-  {
-   "id": "kohat-police-ambush-10-killed-18-militants-dead-november-11",
-   "category": "World",
-   "sub": "Pakistan",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-12T03:17:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kohat-police-ambush-10-killed-18-militants-dead-november-11.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kohat-police-ambush-10-killed-18-militants-dead-november-11-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kohat-police-ambush-10-killed-18-militants-dead-november-11-en.mp3",
-   "hi": {
-    "title": "पाकिस्तान के कोहाट में पुलिस दल पर हमला, डीएसपी समेत 10 पुलिसकर्मी मारे गए; 18 हमलावर ढेर",
-    "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत के कोहाट जिले में अवैध सोना खनन के ख़िलाफ़ अभियान से लौट रहे पुलिस दल पर हमला हुआ। डीएसपी हैदर ज़मान समेत 10 पुलिसकर्मी मारे गए, जबकि जवाबी कार्रवाई में 18 हमलावर मारे गए।"
-   },
-   "en": {
-    "title": "10 policemen killed, 18 attackers dead in ambush after anti-gold-mining operation in Pakistan's Kohat",
-    "summary": "Ten policemen, including DSP Haidar Zaman, were killed and 18 attackers shot dead when a police party was ambushed in Kohat district of Khyber Pakhtunkhwa after an operation against illegal gold mining. The Pakistani Taliban later claimed responsibility."
-   }
-  },
-  {
-   "id": "manipur-police-poppy-516-villages-10-districts-plan-november-10",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-12T03:17:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-police-poppy-516-villages-10-districts-plan-november-10.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-police-poppy-516-villages-10-districts-plan-november-10-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-police-poppy-516-villages-10-districts-plan-november-10-en.mp3",
-   "hi": {
-    "title": "मणिपुर पुलिस 10 जिलों के 516 गाँवों में अवैध अफीम की खेती खत्म करेगी",
-    "summary": "मणिपुर पुलिस ने अन्य सुरक्षा बलों की मदद से राज्य के 10 जिलों के 516 गाँवों में अवैध अफीम की खेती खत्म करने की योजना तैयार कर ली है। अतिरिक्त सीआरपीएफ जवानों के लिए भी केंद्र से माँग की गई है।"
-   },
-   "en": {
-    "title": "Manipur Police to destroy illegal poppy in 516 villages across 10 districts",
-    "summary": "Manipur Police has finalised a plan to destroy illegal poppy plantations in 516 villages spread over 10 districts, with help from other security forces. Additional CRPF personnel have also been requisitioned from the Centre."
    }
   }
  ]
