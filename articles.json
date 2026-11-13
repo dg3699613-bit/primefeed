@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-14T02:53:50+05:30",
+ "updatedAt": "2026-11-14T03:13:05+05:30",
  "articles": [
+  {
+   "id": "iran-claims-us-mq1-drone-downed-sirik-hormuz-november-13",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-14T03:13:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-claims-us-mq1-drone-downed-sirik-hormuz-november-13.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-claims-us-mq1-drone-downed-sirik-hormuz-november-13-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-claims-us-mq1-drone-downed-sirik-hormuz-november-13-en.mp3",
+   "hi": {
+    "title": "ईरान का दावा: होर्मुज़ के पास अमेरिकी एमक्यू-१ ड्रोन मार गिराया, अमेरिका ने टिप्पणी से इनकार किया",
+    "summary": "ईरान की सेना की नौसेना ने शुक्रवार को दावा किया कि उसने होर्मुज़ जलडमरूमध्य के पास एक अमेरिकी एमक्यू-१ ड्रोन को मार गिराया है। सरकारी एजेंसी आईआरएनए ने ड्रोन के मलबे की तस्वीरें जारी की हैं। अमेरिकी सेंट्रल कमान ने इस दावे पर टिप्पणी करने से इनकार कर दिया है और दावे की स्वतंत्र पुष्टि नहीं हो सकी है।",
+    "body": "तेहरान: ईरान की सेना की नौसेना ने शुक्रवार को दावा किया कि उसने होर्मुज़ जलडमरूमध्य के पास एक अमेरिकी एमक्यू-१ ड्रोन को मार गिराया है। नौसेना के बयान के अनुसार ड्रोन को दक्षिणी प्रांत होर्मोज़गान के सीरीक तट के पास कुहस्तक इलाके में एक उन्नत वायु रक्षा प्रणाली से निशाना बनाया गया।\n\nईरानी सेना ने कहा कि ड्रोन को पहले उसकी वायु रक्षा प्रणाली ने पकड़ा, फिर उस पर नज़र रखी गई और अंत में उसे मार गिराया गया। यह प्रणाली देश के एकीकृत वायु रक्षा तंत्र के तहत सीरीक तट पर काम कर रही थी। सरकारी समाचार एजेंसी आईआरएनए ने ड्रोन के मलबे की तस्वीरें भी जारी की हैं। नौसेना ने कहा कि वह देश की क्षेत्रीय अखंडता और समुद्री सीमाओं की रक्षा के लिए कोई कसर नहीं छोड़ेगी।\n\nअमेरिकी सेंट्रल कमान ने इस दावे पर टिप्पणी करने से इनकार कर दिया है। दावे की स्वतंत्र पुष्टि नहीं हो सकी है।\n\nयही शुक्रवार का दिन था जब ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने कहा था कि उसने बहरीन में अमेरिका के एक अर्ली-वॉर्निंग रडार को नष्ट कर दिया है। अमेरिका ने उस दावे को ख़ारिज करते हुए कहा था कि उसके बलों ने बहरीन की ओर बढ़ रहे ईरान के दो ड्रोन मार गिराए थे।\n\nईरान का यह नया दावा ऐसे समय आया है जब अमेरिका और इसराइल के साथ उसका युद्ध जारी है, जो २८ फ़रवरी को शुरू हुआ था। ईरान ने युद्ध के शुरुआती दिनों से ही होर्मुज़ जलडमरूमध्य से जहाज़ों की आवाजाही पर रोक लगा रखी है — यह दुनिया के सबसे अहम तेल मार्गों में से एक है। पिछले शुक्रवार को भी गार्ड कॉर्प्स ने कहा था कि उसने क़ेश्म द्वीप के ऊपर एक अमेरिकी एमक्यू-१ ड्रोन मार गिराया है। ईरान का कहना है कि उसने युद्ध शुरू होने के बाद से ५६ एमक्यू-९ और १६ एमक्यू-१ ड्रोन मार गिराए हैं, हालाँकि अमेरिका ने इन आँकड़ों की पुष्टि नहीं की है।\n\nएमक्यू-१ नाम को लेकर सवाल भी उठे हैं — अमेरिकी वायु सेना ने अपने आख़िरी एमक्यू-१बी प्रिडेटर विमान मार्च २०१८ में ही सेवा से हटा दिए थे।\n\nफ़ोटो साभार: आईआरएनए / प्रेस टीवी"
+   },
+   "en": {
+    "title": "Iran claims it shot down a US MQ-1 drone near the Strait of Hormuz; Washington declines to comment",
+    "summary": "Iran's Army Navy said on Friday that it shot down a US MQ-1 drone near the coast of Sirik, east of the Strait of Hormuz. The state news agency IRNA published photographs of what it said was the wreckage. US Central Command declined to comment, and the claim has not been independently verified.",
+    "body": "Tehran: Iran's Army Navy said on Friday that it shot down a US MQ-1 drone near the coast of Sirik in southern Iran, in the latest claim in the country's ongoing war with the United States and Israel.\n\nThe Navy said the drone was detected, tracked and destroyed by an advanced air defence system operating under the country's integrated air defence network, in the Kuhestak area along the coast of Sirik in Hormozgan Province, east of the Strait of Hormuz. The state news agency IRNA published photographs of what it said was the wreckage of the drone. The Navy said it would not hesitate to defend the country's territorial integrity, maritime borders and national interests.\n\nUS Central Command declined to comment on the claim. The shootdown has not been independently verified.\n\nThe claim came on the same day that Iran's Islamic Revolutionary Guard Corps said it had destroyed a US early-warning radar in Bahrain. Washington denied that claim, saying its forces had instead shot down two Iranian drones heading for the Gulf island.\n\nThe war between Iran and the United States and Israel began on February 28. Iran has restricted passage through the Strait of Hormuz since the early days of the war, one of the world's most important oil shipping routes. A week earlier, the Guard Corps said it had shot down what it called the 16th US MQ-1 of the war over Qeshm Island. Tehran claims it has now brought down 56 MQ-9 Reaper and 16 MQ-1 drones since the war began, though Washington has not confirmed those figures.\n\nThe MQ-1 designation itself has raised questions: the US Air Force retired its last MQ-1B Predators in March 2018.\n\nPhoto: IRNA / Press TV"
+   }
+  },
+  {
+   "id": "manipur-violence-probe-panel-seventh-extension-may-2027-november-13",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-14T03:13:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-violence-probe-panel-seventh-extension-may-2027-november-13.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-violence-probe-panel-seventh-extension-may-2027-november-13-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-violence-probe-panel-seventh-extension-may-2027-november-13-en.mp3",
+   "hi": {
+    "title": "मणिपुर हिंसा की जाँच को सातवीं बार छह महीने की मोहलत, रिपोर्ट अब २० मई २०२७ तक",
+    "summary": "केंद्र सरकार ने मणिपुर में २०२३ में हुई हिंसा की जाँच कर रहे आयोग को एक बार फिर छह महीने की मोहलत दे दी है। आयोग को अपनी रिपोर्ट अब २० मई २०२७ तक सौंपनी होगी। यह इस आयोग को मिली सातवीं समय-वृद्धि है।",
+    "body": "नई दिल्ली: मणिपुर में २०२३ में हुई हिंसा की जाँच कर रहे आयोग को केंद्र सरकार ने एक बार फिर छह महीने की मोहलत दे दी है। आयोग को अपनी रिपोर्ट अब २० मई २०२७ तक सौंपनी होगी। यह इस आयोग को मिली सातवीं समय-वृद्धि है।\n\nगृह मंत्रालय की ओर से जारी राजपत्र अधिसूचना में कहा गया है कि आयोग अपनी रिपोर्ट 'जितनी जल्दी हो सके, लेकिन २० मई २०२७ से पहले नहीं' सौंपे। इससे पहले आयोग को २० मई २०२६ तक का समय दिया गया था।\n\nतीन सदस्यीय यह आयोग ४ जून २०२३ को बनाया गया था। उस समय मणिपुर में ३ मई २०२३ को पहाड़ी ज़िलों में हुए 'ट्राइबल सॉलिडैरिटी मार्च' के बाद बड़े पैमाने पर जातीय हिंसा भड़क उठी थी, जिसमें २६० से अधिक लोग मारे गए थे।\n\nआयोग के अध्यक्ष अब सुप्रीम कोर्ट के पूर्व न्यायाधीश बलबीर सिंह चौहान हैं। उन्होंने इस साल मार्च में यह ज़िम्मेदारी सँभाली थी, जब गुवाहाटी हाई कोर्ट के पूर्व मुख्य न्यायाधीश अजय लांबा ने अध्यक्ष पद छोड़ दिया था।\n\nआयोग हिंसा के घटनाक्रम और उसके तथ्यों की जाँच कर रहा है। इसके दायरे में यह भी है कि कहीं अधिकारियों या किसी व्यक्ति की ओर से लापरवाही या कर्तव्य में कोताही तो नहीं हुई।\n\nफ़ोटो साभार: पीटीआई / डेक्कन हेराल्ड"
+   },
+   "en": {
+    "title": "Manipur violence probe gets seventh extension; panel now has till May 20, 2027 to submit report",
+    "summary": "The Centre has given another six months to the Commission of Inquiry probing the 2023 ethnic violence in Manipur, extending its deadline to submit its report to May 20, 2027. It is the seventh extension granted to the panel.",
+    "body": "New Delhi: The Centre has given another six months to the Commission of Inquiry probing the 2023 ethnic violence in Manipur, extending its deadline to submit its report to May 20, 2027. It is the seventh extension granted to the panel.\n\nA gazette notification issued by the Union Home Ministry said the commission shall submit its report to the Centre 'as soon as possible but not later than 20 May, 2027'. The panel's previous deadline was May 20 this year.\n\nThe three-member commission was set up on June 4, 2023, after large-scale ethnic violence broke out in Manipur on May 3 that year, following a 'Tribal Solidarity March' in the hill districts. More than 260 people were killed in the violence.\n\nThe panel is now headed by former Supreme Court judge Justice Balbir Singh Chauhan, who took charge on March 1 this year after former Gauhati High Court Chief Justice Ajai Lamba stepped down as chairman.\n\nThe commission is examining the sequence of events and facts relating to the violence, including whether there were any lapses or dereliction of duty on the part of the authorities or individuals responsible.\n\nPhoto: PTI / Deccan Herald"
+   }
+  },
   {
    "id": "london-police-investigate-david-walliams-sexual-misconduct-allegations-november-13",
    "category": "World",
