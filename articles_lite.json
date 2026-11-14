@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-14T15:07:37+05:30",
+ "updatedAt": "2026-11-14T15:16:58+05:30",
  "articles": [
+  {
+   "id": "cyclone-akvan-bay-of-bengal-well-marked-low-november-14",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-14T15:16:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-bay-of-bengal-well-marked-low-november-14.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-bay-of-bengal-well-marked-low-november-14-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-bay-of-bengal-well-marked-low-november-14-en.mp3",
+   "hi": {
+    "title": "बंगाल की खाड़ी में चक्रवात अकवान बनने की आशंका: आज सुस्पष्ट निम्न दबाव बना, १६ नवंबर की शाम तक तूफ़ान बन सकता है",
+    "summary": "बंगाल की खाड़ी के दक्षिण-पूर्व हिस्से में बना निम्न दबाव का क्षेत्र आज सुबह सुस्पष्ट निम्न दबाव में बदल गया है। मौसम विभाग का अनुमान है कि यह १५ नवंबर की सुबह तक अवदाब और १६ नवंबर की शाम तक चक्रवाती तूफ़ान बन सकता है, जिसे अकवान नाम दिया जाएगा। ओडिशा और आंध्र प्रदेश के तटों पर अलर्ट है, मछुआरों को समुद्र में न जाने की सलाह दी गई है।"
+   },
+   "en": {
+    "title": "Cyclone Akvan may form over the Bay of Bengal: system becomes a well-marked low today, could turn into a storm by the evening of November 16",
+    "summary": "The low-pressure area over the southeast Bay of Bengal became a well-marked low at 5:30 am today. The IMD expects it to become a depression by the morning of November 15 and a cyclonic storm by the evening of November 16, when it would be named Akvan. Odisha and Andhra Pradesh are on alert, and fishermen have been advised to stay ashore."
+   }
+  },
+  {
+   "id": "bengaluru-realtor-charan-gowda-hacked-death-yelahanka-november-13",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-14T15:16:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bengaluru-realtor-charan-gowda-hacked-death-yelahanka-november-13.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bengaluru-realtor-charan-gowda-hacked-death-yelahanka-november-13-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "बेंगलुरु में दिनदहाड़े कारोबारी की हत्या: दफ़्तर के बाहर पत्नी के सामने चरण गौड़ा पर धारदार हथियार से हमला, दो हमलावर फ़रार",
+    "summary": "बेंगलुरु के येलहंका न्यू टाउन में शुक्रवार सुबह करीब साढ़े दस बजे ३९ साल के कारोबारी चरण गौड़ा की उनके दफ़्तर के बाहर धारदार हथियार से हमला करके हत्या कर दी गई। पत्नी विमर्शिनी साथ थीं, जो दफ़्तर की सीढ़ियाँ चढ़ रही थीं, तभी मोटरसाइकिल पर आए दो हमलावरों ने गौड़ा पर हमला किया। पुलिस ने हत्या का मामला दर्ज कर जाँच शुरू कर दी है।"
+   },
+   "en": {
+    "title": "Bengaluru realtor hacked to death in broad daylight outside his office as wife watched; two attackers on the run",
+    "summary": "Charan Gowda, 39, was attacked with a sharp weapon outside his Dhani Properties office in Bengaluru's Yelahanka New Town on Friday morning at around 10:30 am, as his wife Vimarshini walked up to the office. Two men on a motorcycle fled after the attack. Police have registered a murder case and are examining CCTV footage."
+   },
+   "district": "Bengaluru Urban",
+   "state": "Karnataka"
+  },
   {
    "id": "ramayana-biggest-second-friday-uk-number-one-november-14",
    "category": "Entertainment",
