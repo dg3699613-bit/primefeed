@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-14T10:20:26+05:30",
+ "updatedAt": "2026-11-14T10:34:16+05:30",
  "articles": [
+  {
+   "id": "gurnoor-brar-added-india-test-squad-new-zealand-kuldeep-yadav-released-november-14",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-14T10:34:16+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gurnoor-brar-added-india-test-squad-new-zealand-kuldeep-yadav-released-november-14.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gurnoor-brar-added-india-test-squad-new-zealand-kuldeep-yadav-released-november-14-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gurnoor-brar-added-india-test-squad-new-zealand-kuldeep-yadav-released-november-14-en.mp3",
+   "hi": {
+    "title": "गुरनूर बराड़ को टेस्ट टीम में जगह, कुलदीप यादव बाहर; फिट होकर लौटे ऋषभ पंत वेलिंग्टन में टीम से जुड़े",
+    "summary": "बीसीसीआई ने न्यूज़ीलैंड के खिलाफ़ १९ नवंबर से वेलिंग्टन में शुरू हो रही दो टेस्ट की सीरीज़ के लिए तेज़ गेंदबाज़ गुरनूर बराड़ को भारतीय टीम में शामिल किया है। कुलदीप यादव को घरेलू क्रिकेट खेलने के लिए रिलीज़ कर दिया गया है, जबकि फिट होकर लौटे ऋषभ पंत वेलिंग्टन में टीम से जुड़ गए हैं।"
+   },
+   "en": {
+    "title": "Gurnoor Brar earns maiden Test call-up for New Zealand series as Kuldeep Yadav is released; fit-again Rishabh Pant joins squad",
+    "summary": "The BCCI has added fast bowler Gurnoor Brar to India's squad for the two-Test series against New Zealand starting November 19 in Wellington. Kuldeep Yadav has been released to play domestic cricket, while a fit-again Rishabh Pant has joined the squad in Wellington."
+   }
+  },
   {
    "id": "u19-asia-cup-final-pakistan-win-toss-opt-bat-november-14",
    "category": "Cricket & Sports",
