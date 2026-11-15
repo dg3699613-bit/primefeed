@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-15T08:06:31+05:30",
+ "updatedAt": "2026-11-15T08:15:00+05:30",
  "articles": [
+  {
+   "id": "mumbai-chabad-house-recce-20-year-old-arrested-november-14",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-15T08:15:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-chabad-house-recce-20-year-old-arrested-november-14.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-chabad-house-recce-20-year-old-arrested-november-14-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-chabad-house-recce-20-year-old-arrested-november-14-en.mp3",
+   "en": {
+    "title": "20-year-old arrested in Mumbai for recce of 26/11 target Chabad House; foreign handlers suspected",
+    "summary": "Maharashtra ATS has arrested 20-year-old Yash Singh from Navi Mumbai's Airoli for allegedly conducting reconnaissance of Chabad House in Colaba - a target of the 26/11 Mumbai attacks - and other sensitive locations on the instructions of foreign handlers. Kerala Police have taken him into custody in a UAPA case registered in Thrissur."
+   },
+   "hi": {
+    "title": "मुंबई में चबाड हाउस की रेकी करते २० साल का युवक गिरफ़्तार, विदेशी हैंडलरों से जुड़ाव का आरोप",
+    "summary": "महाराष्ट्र एटीएस ने नवी मुंबई के ऐरोली के रहने वाले २० साल के यश सिंह को मुंबई में चबाड हाउस समेत कई संवेदनशील जगहों की रेकी करने के आरोप में गिरफ़्तार किया है। चबाड हाउस २६/११ के मुंबई हमलों का निशाना बना था। केरल पुलिस ने उसे त्रिशूर में दर्ज यूएपीए मामले में हिरासत में लिया है।"
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
+  },
   {
    "id": "kaziranga-minibus-truck-collision-26-killed-november-13",
    "category": "State & Local",
