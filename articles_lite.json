@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-15T20:52:00+05:30",
+ "updatedAt": "2026-11-15T21:07:00+05:30",
  "articles": [
+  {
+   "id": "karnal-custody-death-jitender-cia-three-cops-suspended-november-15",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-15T21:07:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnal-custody-death-jitender-cia-three-cops-suspended-november-15.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnal-custody-death-jitender-cia-three-cops-suspended-november-15-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnal-custody-death-jitender-cia-three-cops-suspended-november-15-en.mp3",
+   "district": "Karnal",
+   "state": "Haryana",
+   "hi": {
+    "title": "करनाल में हिरासत में युवक की मौत — सीआईए-२ के तीन पुलिसकर्मी सस्पेंड, मजिस्ट्रेट जाँच के आदेश",
+    "summary": "करनाल के बीजना गाँव के जितेंद्र उर्फ़ जैकी की शनिवार सुबह सीआईए-२ कार्यालय में मौत हो गई। परिवार का आरोप है कि उसे ११ नवंबर को पूछताछ के लिए उठाया गया था। एसपी ने तीन पुलिसकर्मियों को सस्पेंड कर दिया है और मजिस्ट्रेट जाँच के आदेश दिए हैं।"
+   },
+   "en": {
+    "title": "Man dies in police custody in Karnal — three CIA-2 policemen suspended, magistrate inquiry ordered",
+    "summary": "Jitender, alias Jackie, from Bijna village in Karnal died on Saturday morning at the CIA-2 office, days after his family says he was picked up for questioning. The SP has suspended three policemen and ordered a magistrate inquiry."
+   }
+  },
   {
    "id": "hardeep-singh-puri-resigns-up-rajya-sabha-seat-november-14",
    "category": "Politics",
