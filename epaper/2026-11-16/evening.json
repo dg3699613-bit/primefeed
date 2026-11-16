@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-16",
+  "edition": "evening",
+  "editionHi": "शाम संस्करण",
+  "editionEn": "Evening Edition",
+  "generatedAt": "2026-11-16T19:57:44+05:30",
+  "pages": {
+    "hi": [
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/front-hi.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page2-hi.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page3-hi.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page4-hi.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page5-hi.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page6-hi.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page7-hi.png"
+    ],
+    "en": [
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/front-en.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page2-en.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page3-en.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page4-en.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page5-en.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page6-en.png",
+      "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/epaper/2026-11-16/evening/page7-en.png"
+    ]
+  }
+}
