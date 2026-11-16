@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-16T13:57:50+05:30",
+ "updatedAt": "2026-11-16T14:06:33+05:30",
  "articles": [
+  {
+   "id": "budget-2027-28-pre-budget-consultation-sitharaman-economists-november-16",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-16T14:06:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/budget-2027-28-pre-budget-consultation-sitharaman-economists-november-16.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/budget-2027-28-pre-budget-consultation-sitharaman-economists-november-16-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/budget-2027-28-pre-budget-consultation-sitharaman-economists-november-16-en.mp3",
+   "hi": {
+    "title": "बजट २०२७-२८ की तैयारी शुरू: वित्त मंत्री सीतारमण ने अर्थशास्त्रियों से की पहली चर्चा",
+    "summary": "वित्त मंत्री निर्मला सीतारमण ने सोमवार को नई दिल्ली में प्रमुख अर्थशास्त्रियों के साथ आम बजट २०२७-२८ पर पहली बजट-पूर्व बैठक की अध्यक्षता की। बैठक में आर्थिक मामलों के विभाग की सचिव अनुराधा ठाकुर और मुख्य आर्थिक सलाहकार वी अनंत नागेश्वरन भी मौजूद थे; बजट १ फरवरी २०२७ को पेश किए जाने की उम्मीद है।"
+   },
+   "en": {
+    "title": "Budget 2027-28 work begins as Sitharaman holds first pre-Budget talks with economists",
+    "summary": "Finance Minister Nirmala Sitharaman on Monday chaired the first pre-Budget consultation with leading economists in New Delhi, formally beginning preparations for the Union Budget 2027-28. DEA Secretary Anuradha Thakur and Chief Economic Adviser V Anantha Nageswaran attended; the Budget is expected on February 1, 2027."
+   }
+  },
   {
    "id": "pathankot-suv-snatched-gunpoint-high-alert-november-16",
    "category": "Crime & Law",
