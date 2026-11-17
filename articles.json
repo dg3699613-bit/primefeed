@@ -1,6 +1,56 @@
 {
- "updatedAt": "2026-11-17T11:42:21+05:30",
+ "updatedAt": "2026-11-17T11:54:22+05:30",
  "articles": [
+  {
+   "id": "delhi-vivek-vihar-building-collapse-two-dead-november-17",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-17T11:54:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-vivek-vihar-building-collapse-two-dead-november-17.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-vivek-vihar-building-collapse-two-dead-november-17-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-vivek-vihar-building-collapse-two-dead-november-17-en.mp3",
+   "district": "Shahdara",
+   "state": "Delhi",
+   "hi": {
+    "title": "दिल्ली के विवेक विहार में दो मंज़िला मकान गिरा: तीन महीने के बच्चे समेत दो की मौत, मलबे में कई दबे",
+    "summary": "पूर्वी दिल्ली के विवेक विहार में मंगलवार सुबह एक पुराना दो मंज़िला मकान गिर गया। हादसे में एक व्यक्ति और तीन महीने के बच्चे की मौत हो गई, जबकि छह से आठ लोगों को मलबे से निकाला गया है और बचाव का काम जारी है।",
+    "body": "नई दिल्ली: पूर्वी दिल्ली के विवेक विहार इलाके में मंगलवार सुबह एक पुराना दो मंज़िला मकान भरभराकर गिर गया। हादसे में एक व्यक्ति और तीन महीने के बच्चे की मौत हो गई, जबकि छह से आठ लोगों को मलबे से निकाल लिया गया है। मलबे के नीचे अब भी कई लोगों के दबे होने की आशंका है और बचाव का काम जारी है।\n\nहादसा ज्वाला नगर इलाके में हुआ, जो शाहदरा ज़िले के विवेक विहार थाना क्षेत्र में आता है। उत्तर दिल्ली नगर निगम के अध्यक्ष पंकज लूथरा के मुताबिक गिरा हुआ मकान चालीस से पचास साल पुराना था। सुबह हादसे की ख़बर मिलते ही दमकल विभाग, दिल्ली पुलिस और एंबुलेंस की गाड़ियाँ मौके पर पहुँच गईं।\n\nमलबे में टूटी हुई कंक्रीट की स्लैब और सरिया बिखरे पड़े थे, जिनके बीच से बचावकर्मी दबे लोगों को निकालने में जुटे रहे। अधिकारियों के मुताबिक छह से आठ लोगों को अब तक सुरक्षित निकाला जा चुका है, जबकि कुछ और लोगों के फँसे होने की आशंका बनी हुई है। घायलों को अस्पताल भेजा गया है।\n\nहादसे के कारणों का अभी पता नहीं चल पाया है। पुलिस और दमकल विभाग के अधिकारी मौके पर जाँच कर रहे हैं।\n\nदिल्ली में पुरानी और कमज़ोर इमारतों के गिरने की घटनाएँ पहले भी होती रही हैं। इसी साल सितंबर में दक्षिण दिल्ली के सत्य निकेतन में एक छह मंज़िला इमारत गिरने से सात लोगों की मौत हो गई थी।\n\nफ़ोटो साभार: एएनआई"
+   },
+   "en": {
+    "title": "Two-storey house collapses in Delhi's Vivek Vihar: man and three-month-old child killed, several feared trapped",
+    "summary": "A two-storey house collapsed in east Delhi's Vivek Vihar on Tuesday morning, killing a man and a three-month-old child. Six to eight people have been pulled out of the rubble, and the rescue operation is still under way.",
+    "body": "New Delhi: A two-storey house collapsed in east Delhi's Vivek Vihar area on Tuesday morning, killing a man and a three-month-old child. Six to eight people have been pulled out of the rubble, and rescuers fear several more may still be trapped underneath.\n\nThe collapse took place in Jwala Nagar, which falls under the Vivek Vihar police station in Shahdara district. According to North MCD chairman Pankaj Luthra, the house was 40 to 50 years old. Fire department teams, Delhi Police personnel and ambulances rushed to the spot as soon as the collapse was reported.\n\nBroken concrete slabs and twisted steel rods lay scattered across the debris as rescuers worked through the rubble to reach those trapped inside. Officials said six to eight people had been rescued so far, while the search continued for others who may be buried. The injured were taken to hospital.\n\nThe cause of the collapse is not yet known. Police and fire officials are examining the site.\n\nDelhi has seen a series of building collapses involving old and weak structures. In September this year, seven people were killed when a six-storey building used as a paying-guest accommodation collapsed in Satya Niketan in south Delhi.\n\nPhoto: ANI"
+   }
+  },
+  {
+   "id": "sheesh-mahal-public-tours-next-week-delhi",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-17T11:54:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sheesh-mahal-public-tours-next-week-delhi.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sheesh-mahal-public-tours-next-week-delhi-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sheesh-mahal-public-tours-next-week-delhi-en.mp3",
+   "district": "Central Delhi",
+   "state": "Delhi",
+   "hi": {
+    "title": "अगले हफ़्ते से जनता के लिए खुलेगा केजरीवाल का 'शीश महल': पहले मीडिया का दौरा, फिर टिकट से घूम सकेंगे लोग",
+    "summary": "दिल्ली सरकार ने पूर्व मुख्यमंत्री अरविंद केजरीवाल के 'शीश महल' आवास को अगले हफ़्ते से आम लोगों के लिए खोलने का एलान किया है। पहले दो-तीन दिन में मीडिया को बंगले का दौरा कराया जाएगा, फिर टिकट और आरक्षण की व्यवस्था से जनता अंदर जा सकेगी।",
+    "body": "नई दिल्ली: दिल्ली के पूर्व मुख्यमंत्री अरविंद केजरीवाल का सरकारी आवास 'शीश महल' अगले हफ़्ते से आम लोगों के लिए खोल दिया जाएगा। लोक निर्माण विभाग के मंत्री प्रवेश वर्मा ने मंगलवार को प्रेस कॉन्फ्रेंस में यह घोषणा की।\n\nसिविल लाइंस के ६, फ़्लैगस्टाफ़ रोड स्थित इस बंगले में केजरीवाल २०१५ से २०२४ तक मुख्यमंत्री रहते हुए रहे थे। उन्होंने २०२४ के आख़िर में इस्तीफ़ा देने के बाद यह आवास खाली कर दिया था।\n\nमंत्री ने कहा कि पहले दो-तीन दिन में देश के मीडिया को बंगले का दौरा कराया जाएगा, जिसकी जानकारी बुधवार को दी जाएगी। इसके बाद जनता के लिए टिकट और आरक्षण की व्यवस्था की जाएगी। वर्मा ने कहा कि वह पहले अपने मीडिया के साथियों को शीश महल दिखाना चाहते हैं।\n\nइससे पहले सरकार की योजना थी कि बंगले को राजकीय अतिथि गृह बनाया जाए, लेकिन अब इसे जनता के लिए खोलने का फ़ैसला किया गया है।\n\nभाजपा ने इस आवास को 'शीश महल' नाम दिया था और इसके नवीनीकरण में अनियमितताओं का आरोप लगाया था। दिल्ली विधानसभा में पेश कैग की रिपोर्ट में भी नवीनीकरण में गड़बड़ियों का उल्लेख था। रिपोर्ट के मुताबिक नवीनीकरण पर करीब ३३.६६ करोड़ रुपये ख़र्च हुए, जबकि अनुमान लगभग आठ करोड़ रुपये का था।\n\nवर्मा ने आरोप लगाया कि केजरीवाल ने बंगला बनाने से पहले कई बंगले, नौकरों के क्वार्टर और एक गैरेज तुड़वाए थे। उन्होंने यह भी कहा कि बंगले में रंग बदलने वाली स्मार्ट लाइटिंग, करोड़ों के पर्दे और वियतनाम का मार्बल लगा है। मंत्री ने कहा कि अब जनता को पूरा परिसर घुमाया जाएगा, ताकि सब अपनी आँखों से देख सकें।\n\nफ़ोटो साभार: इंडिया डॉट कॉम"
+   },
+   "en": {
+    "title": "'Sheesh Mahal' to open for public viewing from next week: media tour first, then ticketed visits",
+    "summary": "The Delhi government will open former chief minister Arvind Kejriwal's 'Sheesh Mahal' residence to the public from next week. The media will be taken on a tour of the bungalow over the next two to three days, followed by ticketed public visits.",
+    "body": "New Delhi: Former Delhi chief minister Arvind Kejriwal's official residence, known as 'Sheesh Mahal', will be opened to the public from next week. Public Works Department minister Parvesh Verma announced the decision at a press conference on Tuesday.\n\nKejriwal lived at the 6, Flagstaff Road bungalow in Civil Lines from 2015 to 2024, while he was chief minister. He vacated the house after resigning late in 2024.\n\nVerma said the media would be taken on a tour of the bungalow over the next two to three days, with details to be shared on Wednesday. A ticketing and reservation system for public visits will be announced shortly. He said he wanted the first tour to be organised for media colleagues.\n\nThe government had earlier planned to convert the bungalow into a state guest house, but has now decided to open it to the public instead.\n\nThe BJP had dubbed the residence 'Sheesh Mahal' and alleged irregularities in its renovation. A Comptroller and Auditor General report tabled in the Delhi Assembly also flagged irregularities, noting that the renovation cost around Rs 33.66 crore against an estimate of about Rs 8 crore.\n\nVerma alleged that Kejriwal had demolished several bungalows, servants' quarters and a garage before building the residence. He also referred to colour-changing smart lighting, curtains said to be worth crores of rupees and marble imported from Vietnam. He said the public would now be taken on a complete tour of the premises so that everyone could see it with their own eyes.\n\nPhoto: India.com"
+   }
+  },
   {
    "id": "ongc-gas-leak-konaseema-800-evacuated-nagaram-november-17",
    "category": "State & Local",
