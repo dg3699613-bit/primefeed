@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T03:56:28+05:30",
+ "updatedAt": "2026-11-19T04:10:11+05:30",
  "articles": [
+  {
+   "id": "bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T04:07:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19-en.mp3",
+   "hi": {
+    "title": "वेलिंगटन टेस्ट: बुमराह और काम्बोज ने चार ओवर में न्यूज़ीलैंड के दोनों ओपनर पवेलियन भेजे",
+    "summary": "जसप्रीत बुमराह ने पहले ही ओवर में टॉम लैथम को शून्य पर बोल्ड किया और अंशुल काम्बोज ने चौथे ओवर में डेवोन कॉनवे को विकेट के पीछे कैच कराया, जिससे शुभमन गिल के टॉस जीतकर गेंदबाज़ी चुनने के बाद न्यूज़ीलैंड बारह रन पर दो विकेट गंवा बैठा।"
+   },
+   "en": {
+    "title": "Bumrah and Kamboj send both New Zealand openers back inside four overs in Wellington",
+    "summary": "Jasprit Bumrah bowled Tom Latham for a duck in the first over and Anshul Kamboj had Devon Conway caught behind in the fourth, leaving New Zealand 12 for 2 after Shubman Gill won the toss and chose to bowl in the first Test at the Basin Reserve."
+   }
+  },
   {
    "id": "bigg-boss-20-extension-two-to-four-weeks-finale-january-november-19",
    "category": "Entertainment",
@@ -3180,27 +3201,6 @@
    "en": {
     "title": "India fight back to beat Pakistan 2-1 in Dhaka final and lift record 10th SAFF title",
     "summary": "A goal down at half-time in Dhaka, India turned the final around in the second half — Suhail Ahmed Bhat levelled and Sandip Mandi's late header sealed a 2-1 win and a record 10th SAFF title."
-   }
-  },
-  {
-   "id": "tara-gas-second-strike-one-indian-missing-two-injured-hormuz",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T21:31:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tara-gas-second-strike-one-indian-missing-two-injured-hormuz.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tara-gas-second-strike-one-indian-missing-two-injured-hormuz-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tara-gas-second-strike-one-indian-missing-two-injured-hormuz-en.mp3",
-   "hi": {
-    "title": "तारा गैस पर दूसरे हमले के बाद एक भारतीय नाविक लापता, दो घायल; २१ को ओमान के खसब में सुरक्षित उतारा गया",
-    "summary": "विदेश मंत्रालय ने कहा — १६ नवंबर को होर्मुज़ में हुए हमले के बाद जहाज़ पर दोबारा हमला हुआ, पूरा दल जहाज़ छोड़ने को मजबूर हुआ; लापता नाविक की तलाश जारी है, दो घायल अस्पताल में हैं।"
-   },
-   "en": {
-    "title": "Second strike on Tara Gas in Hormuz: one Indian seafarer missing, two injured; 21 brought ashore in Oman",
-    "summary": "The foreign ministry said the tanker was hit a second time after the November 16 attack, forcing the whole crew to abandon ship; the search for the missing seafarer continues and two injured crew are in hospital."
    }
   }
  ]
