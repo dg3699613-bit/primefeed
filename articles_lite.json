@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-18T21:20:05+05:30",
+ "updatedAt": "2026-11-18T21:37:29+05:30",
  "articles": [
+  {
+   "id": "two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T21:34:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18-en.mp3",
+   "hi": {
+    "title": "बाब अल-मंदेब के पास मालवाहक जहाज़ अल-फ़तह डूबा, दो भारतीय नाविक बचे, तीसरा अब भी लापता",
+    "summary": "बाब अल-मंदेब जलडमरूमध्य के पास मालवाहक जहाज़ अल-फ़तह के डूबने के बाद दो भारतीय नाविकों को बचा लिया गया है, केन्या में भारतीय उच्चायोग ने बुधवार को बताया कि तीसरे भारतीय नाविक का पता नहीं चला है और उसकी तलाश जारी है। जहाज़ कब डूबा और क्या उस पर हमला हुआ था, यह नहीं बताया गया है।"
+   },
+   "en": {
+    "title": "Two Indian sailors rescued as cargo vessel Al-Fatah sinks near Bab el-Mandeb, third still missing",
+    "summary": "Two Indian sailors have been rescued after the cargo vessel Al-Fatah sank near the Bab el-Mandeb Strait, the Indian High Commission in Kenya said on Wednesday, and a third Indian sailor is still missing with the search for him continuing. The mission has not said when the vessel sank or whether it was attacked."
+   }
+  },
   {
    "id": "air-india-ai171-crash-probe-final-stages-supreme-court-november-18",
    "category": "Crime & Law",
