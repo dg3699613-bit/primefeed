@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-18T15:05:46+05:30",
+ "updatedAt": "2026-11-18T15:14:03+05:30",
  "articles": [
+  {
+   "id": "adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T15:14:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18-en.mp3",
+   "hi": {
+    "title": "होर्मुज़ में एडनॉक के जहाज़ पर हमला, एक नाविक लापता और ग्यारह घायल",
+    "summary": "संयुक्त अरब अमीरात की सरकारी तेल कंपनी एडनॉक की शिपिंग इकाई ने बुधवार को कहा कि मंगलवार शाम होर्मुज़ जलडमरूमध्य से गुज़रते समय उसके एक जहाज़ पर हमला हुआ, जिसमें एक नाविक लापता हो गया और ग्यारह घायल हो गए।"
+   },
+   "en": {
+    "title": "ADNOC vessel attacked in Strait of Hormuz, one crew member missing, eleven injured",
+    "summary": "ADNOC Logistics & Services said on Wednesday that one of its vessels was attacked on Tuesday evening while transiting the Strait of Hormuz, leaving one crew member missing and 11 injured."
+   }
+  },
   {
    "id": "delhi-hc-centre-examine-acp-manasvi-videos-november-18",
    "category": "Crime & Law",
