@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T02:02:11+05:30",
+ "updatedAt": "2026-11-19T02:17:42+05:30",
  "articles": [
+  {
+   "id": "bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T02:14:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19-en.mp3",
+   "hi": {
+    "title": "भेंडी बाज़ार में दाऊद इब्राहिम के पुराने घर का बीएमसी ध्वस्तीकरण पहले दिन ही अटका, रोक के दावे के बीच",
+    "summary": "मुंबई के भेंडी बाज़ार में दाऊद इब्राहिम के कभी रहने वाले हाजी इस्माइल हाजी हबीब मुसाफिरखाना को गिराने की बीएमसी की योजना पहले ही दिन अटक गई। अठारह और उन्नीस नवंबर को तय ध्वस्तीकरण बुधवार को शुरू नहीं हो सका, क्योंकि स्थानीय लोगों ने विरोध किया और विधायक अमीन पटेल ने सुप्रीम कोर्ट की रोक का दावा किया। भवन उन्नीस सौ उनतालीस में हज यात्रियों के ठहरने के लिए बना था।"
+   },
+   "en": {
+    "title": "BMC demolition of Dawood Ibrahim's old Bhendi Bazaar home stalls on day one amid stay claims",
+    "summary": "The BMC's plan to demolish the Haji Ismail Haji Habib Musafirkhana in Mumbai's Bhendi Bazaar, the building where Dawood Ibrahim once lived, stalled on its first day. The demolition scheduled for November 18 and 19 did not begin on Wednesday, after residents objected and local MLA Amin Patel claimed a Supreme Court stay was in place. The building was built in 1939 as a lodging house for Haj pilgrims."
+   }
+  },
   {
    "id": "gta-6-launches-india-midnight-november-19-november-19",
    "category": "Technology",
@@ -3180,27 +3201,6 @@
    "en": {
     "title": "GTA 6 crosses $1 billion in pre-orders before launch, over 12 million copies sold",
     "summary": "Sensor Tower estimates GTA 6 has taken more than 12.13 million digital pre-orders worth about $1.18 billion ahead of its November 19 launch, the biggest pre-launch numbers the industry has seen."
-   }
-  },
-  {
-   "id": "pakistan-beat-india-one-wicket-blind-asia-cup-semi-final-november-17",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T20:35:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pakistan-beat-india-one-wicket-blind-asia-cup-semi-final-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-beat-india-one-wicket-blind-asia-cup-semi-final-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-beat-india-one-wicket-blind-asia-cup-semi-final-november-17-en.mp3",
-   "hi": {
-    "title": "आख़िरी गेंद पर पाकिस्तान ने भारत को एक विकेट से हराया, ब्लाइंड एशिया कप के फ़ाइनल में जगह बनाई",
-    "summary": "ढाका में खेले गए ब्लाइंड एशिया कप के सेमीफ़ाइनल में पाकिस्तान ने एक सौ अस्सी रन का लक्ष्य आख़िरी गेंद पर नौ विकेट खोकर पूरा किया। नियामत उल्लाह ने आख़िरी दो गेंदों पर छक्का और चौका जड़कर मैच पलट दिया।"
-   },
-   "en": {
-    "title": "Pakistan beat India by one wicket off the last ball to reach Blind Asia Cup final",
-    "summary": "Pakistan chased down India's 180 in the Blind Asia Cup semi-final in Dhaka, winning off the final ball with one wicket in hand. Niamat Ullah hit a six and a four off the last two deliveries to turn the match."
    }
   }
  ]
