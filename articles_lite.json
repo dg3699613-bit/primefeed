@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T04:24:46+05:30",
+ "updatedAt": "2026-11-19T05:16:10+05:30",
  "articles": [
+  {
+   "id": "india-charges-bulk-scotch-imports-162-5-percent-duty-uk-pact-standoff-november-18",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T05:03:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-charges-bulk-scotch-imports-162-5-percent-duty-uk-pact-standoff-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-charges-bulk-scotch-imports-162-5-percent-duty-uk-pact-standoff-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-charges-bulk-scotch-imports-162-5-percent-duty-uk-pact-standoff-november-18-en.mp3",
+   "hi": {
+    "title": "भारत-ब्रिटेन समझौते के पहले बड़े विवाद में थोक स्कॉच आयात पर एक सौ बासठ दशमलव पाँच प्रतिशत शुल्क",
+    "summary": "भारत थोक स्कॉच आयात पर एक सौ बासठ दशमलव पाँच प्रतिशत शुल्क और कर लगा रहा है, जो समझौते से पहले के एक सौ पचास प्रतिशत से भी ज़्यादा है। पर्नोड, डियाजियो और बकार्डी के अस्सी से ज़्यादा कंटेनर बंदरगाहों पर अटके हैं।"
+   },
+   "en": {
+    "title": "India charges 162.5% duty and tax on bulk Scotch imports in first big India-UK pact dispute",
+    "summary": "India is charging an effective 162.5% duty and tax on bulk Scotch imports, more than the 150% levied before the India-UK trade pact. Over 80 containers belonging to Pernod, Diageo and Bacardi are stuck at ports."
+   }
+  },
+  {
+   "id": "earth-missing-billion-years-great-unconformity-nature-study-november-16",
+   "category": "Science",
+   "sub": "Research",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T05:02:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/earth-missing-billion-years-great-unconformity-nature-study-november-16.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/earth-missing-billion-years-great-unconformity-nature-study-november-16-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/earth-missing-billion-years-great-unconformity-nature-study-november-16-en.mp3",
+   "hi": {
+    "title": "धरती के ग़ायब एक अरब साल: मेंटल की उठान और बर्फ़ की चादरें हो सकती हैं ग्रेट अनकन्फ़ॉर्मिटी की वजह",
+    "summary": "चार नवंबर को नेचर में छपे अध्ययन के मुताबिक धरती के मेंटल की हलचल ने महाद्वीपों को ऊपर उठाया और बर्फ़ की चादरों ने एक अरब साल से ज़्यादा की चट्टान खुरच डाली। इसी से ग्रेट अनकन्फ़ॉर्मिटी बनी हो सकती है।"
+   },
+   "en": {
+    "title": "Earth's missing billion years: deep mantle lift and giant ice sheets may explain the Great Unconformity",
+    "summary": "A study published in Nature on November 4 says movements deep inside Earth lifted whole continents, and giant ice sheets then scraped away more than a billion years of rock, forming the Great Unconformity."
+   }
+  },
   {
    "id": "jeffries-wins-democratic-nomination-first-black-house-speaker-november-18",
    "category": "World",
@@ -3157,48 +3199,6 @@
    "en": {
     "title": "Dhurandhar misses all nine Grammy entries — but Tamil song Varuvaaiy makes history with first nomination",
     "summary": "The 69th Grammy nominations left Dhurandhar: The Revenge with nothing from nine entries — while Varuvaaiy, by Devan Ekambaram featuring Susha, became the first Tamil song ever nominated for a Grammy."
-   }
-  },
-  {
-   "id": "trump-warns-iran-pay-price-dirty-bomb-threat-november-17",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T22:45:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-warns-iran-pay-price-dirty-bomb-threat-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-warns-iran-pay-price-dirty-bomb-threat-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-warns-iran-pay-price-dirty-bomb-threat-november-17-en.mp3",
-   "hi": {
-    "title": "ट्रंप की ईरान को चेतावनी: वाशिंगटन पर हमला हुआ तो 'ऐसी कीमत चुकानी होगी जो किसी देश ने कभी नहीं चुकाई'",
-    "summary": "मनीला में क्वाड बैठक के दौरान पूछे गए सवाल पर अमेरिकी राष्ट्रपति ने कहा — अमेरिका इस खतरे को 'बहुत गंभीरता से' ले रहा है; ईरान ने आरोपों को 'बेबुनियाद' बताया।"
-   },
-   "en": {
-    "title": "Trump warns Iran: an attack on Washington would carry 'a price no country has ever paid'",
-    "summary": "Asked in Manila about US intelligence reports of an Iranian dirty-bomb plot against Washington, Trump said the US was taking it 'very seriously' — and warned Tehran of an unprecedented price. Iran called the claims 'baseless'."
-   }
-  },
-  {
-   "id": "yogi-nabin-meet-amit-shah-delhi-up-2027-strategy-november-17",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T22:13:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yogi-nabin-meet-amit-shah-delhi-up-2027-strategy-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-nabin-meet-amit-shah-delhi-up-2027-strategy-november-17-hi.mp3",
-   "audioEn": null,
-   "hi": {
-    "title": "मथुरा का मंथन पूरा, अब दिल्ली में शाह के घर योगी-नबीन: २०२७ की रणनीति पर बैठक",
-    "summary": "मथुरा में दो दिन के चिंतन शिविर के बाद मुख्यमंत्री योगी आदित्यनाथ और भाजपा अध्यक्ष नितिन नबीन मंगलवार की रात दिल्ली में गृह मंत्री अमित शाह के घर पहुँचे, जहाँ २०२७ के विधानसभा चुनाव की रणनीति पर चर्चा हो रही है।"
-   },
-   "en": {
-    "title": "After Mathura brainstorming, Yogi and Nabin reach Amit Shah's residence for meet on UP 2027 strategy",
-    "summary": "Hours after the BJP's two-day brainstorming camp ended in Mathura, Chief Minister Yogi Adityanath and party president Nitin Nabin reached Home Minister Amit Shah's residence in Delhi on Tuesday night to discuss the strategy for the 2027 Uttar Pradesh Assembly elections."
    }
   }
  ]
