@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-18T12:45:22+05:30",
+ "updatedAt": "2026-11-18T13:00:00+05:30",
  "articles": [
+  {
+   "id": "nepal-import-350-mw-power-india-winter-november-18",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T13:00:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-import-350-mw-power-india-winter-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-import-350-mw-power-india-winter-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-import-350-mw-power-india-winter-november-18-en.mp3",
+   "hi": {
+    "title": "सर्दियों में नेपाल को भारत से ३५० मेगावाट बिजली, १७ नवंबर से ३१ जुलाई तक आयात की मंजूरी",
+    "summary": "भारत के केंद्रीय विद्युत प्राधिकरण ने नेपाल विद्युत प्राधिकरण को इंडियन एनर्जी एक्सचेंज से प्रतिस्पर्धी दरों पर रोज़ाना १७ घंटे तक बिजली खरीदने की मंजूरी दी है। सर्दियों में नदियों का जलस्तर घटने और अगस्त की बाढ़ से ४३१ मेगावाट क्षमता ठप होने के बाद नेपाल को आयात का सहारा लेना पड़ रहा है।",
+    "body": "काठमांडू: नेपाल को इस सर्दी भारत से ३५० मेगावाट तक बिजली आयात करने की मंजूरी मिल गई है। भारत के विद्युत मंत्रालय के तहत काम करने वाले केंद्रीय विद्युत प्राधिकरण ने नेपाल विद्युत प्राधिकरण को इंडियन एनर्जी एक्सचेंज से प्रतिस्पर्धी दरों पर बिजली खरीदने की अनुमति दी है।\n\nयह मंजूरी १७ नवंबर २०२६ से ३१ जुलाई २०२७ तक लागू रहेगी। इसके तहत नेपाल विद्युत प्राधिकरण रोज़ाना १७ घंटे तक बिजली खरीद सकेगा, डे-अहेड मार्केट और रियल-टाइम मार्केट, दोनों से। सुबह ५ से ८ बजे और शाम ५ से ९ बजे के बीच, जब माँग सबसे ज़्यादा होती है, इस व्यवस्था से बिजली नहीं खरीदी जा सकेगी।\n\nकुल ३५० मेगावाट में से ३०० मेगावाट कटैया-कुशहा, रामनगर-सूरजपुरा और रक्सौल-परवानीपुर की १३२ केवी लाइनों से आएगा। बाकी ५० मेगावाट न्यू नौतनवा-मैनहिया लाइन से मिलेगा।\n\nनेपाल को आयात की ज़रूरत इसलिए पड़ी क्योंकि वहाँ की ज़्यादातर बिजली नदियों पर बने पनबिजली संयंत्रों से आती है, और सर्दियों में नदियों का जलस्तर घटते ही उत्पादन गिर जाता है। अगस्त में रसुवा-भोटेकोशी में आई भीषण बाढ़ ने कई परियोजनाओं को नुकसान पहुँचाया, ४३१ मेगावाट क्षमता तब से राष्ट्रीय ग्रिड से कटी हुई है।\n\nनेपाल विद्युत प्राधिकरण के प्रबंध निदेशक दीर्घायु कुमार श्रेष्ठ ने कहा कि इस मंजूरी से सर्दियों में बिजली की माँग और घरेलू उत्पादन के बीच का अंतर पाटने में मदद मिलेगी। अधिकारियों के मुताबिक अप्रैल के मध्य से नदियों में पानी बढ़ने पर घरेलू उत्पादन सुधरेगा, आयात पर निर्भरता घटेगी और नेपाल फिर से बिजली निर्यात भी कर सकेगा।\n\nफ़ोटो साभार: द हिंदू / मुरली कुमार के."
+   },
+   "en": {
+    "title": "Nepal gets nod to import 350 MW power from India this winter, approval valid till July 31",
+    "summary": "India's Central Electricity Authority has authorised the Nepal Electricity Authority to buy electricity from the Indian Energy Exchange at competitive rates for up to 17 hours a day. The approval, valid from November 17, 2026 to July 31, 2027, comes as winter river flows fall and 431 MW of hydropower capacity stays disconnected after the August floods.",
+    "body": "Kathmandu: Nepal has received approval to import up to 350 MW of electricity from India this winter, as falling river flows and flood damage to hydropower plants strain its domestic supply.\n\nThe Central Electricity Authority (CEA), under India's Ministry of Power, has authorised the state-run Nepal Electricity Authority (NEA) to buy electricity at competitive rates from the Indian Energy Exchange (IEX), for up to 17 hours a day, through the exchange's Day-Ahead Market and Real-Time Market.\n\nThe approval is valid from November 17, 2026, to July 31, 2027. Power cannot be bought under this arrangement during the two peak windows, 5 am to 8 am and 5 pm to 9 pm, when demand is at its highest.\n\nOf the approved 350 MW, 300 MW will come through the 132 kV Kataiya-Kushaha, Ramnagar-Surajpura and Raxaul-Parwanipur transmission lines. The remaining 50 MW will be sourced through the New Nautanwa-Mainahiya line.\n\nNepal's need for imports is seasonal. Most of its electricity comes from run-of-the-river hydropower projects, and output falls sharply in winter as river flows drop. The devastating Rasuwa-Bhotekoshi floods in August damaged several projects in central Nepal, leaving 431 MW of installed capacity disconnected from the national grid.\n\nNEA Managing Director Dirghayu Kumar Shrestha said the approval would help the authority manage the seasonal gap between electricity demand and domestic generation. Officials said domestic generation is expected to improve from mid-April, as water levels in rivers rise, reducing Nepal's dependence on imported power and possibly allowing it to resume exports.\n\nPhoto: The Hindu / Murali Kumar K."
+   }
+  },
   {
    "id": "south-africa-crush-india-408-runs-guwahati-2-0-test-series-sweep-november-18",
    "category": "Cricket & Sports",
