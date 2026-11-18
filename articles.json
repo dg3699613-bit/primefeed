@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-18T11:58:31+05:30",
+ "updatedAt": "2026-11-18T12:10:08+05:30",
  "articles": [
+  {
+   "id": "magnitude-6-earthquake-strikes-papua-new-guinea-november-18",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T12:10:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/magnitude-6-earthquake-strikes-papua-new-guinea-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/magnitude-6-earthquake-strikes-papua-new-guinea-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/magnitude-6-earthquake-strikes-papua-new-guinea-november-18-en.mp3",
+   "en": {
+    "title": "Magnitude 6.0 earthquake strikes Papua New Guinea, no damage reported yet",
+    "summary": "A magnitude 6.0 earthquake struck Papua New Guinea on Wednesday morning, the German Research Centre for Geosciences said. The shallow quake was centred off the country's north coast near Madang, and there were no immediate reports of casualties, damage or a tsunami warning.",
+    "body": "Port Moresby: A magnitude 6.0 earthquake struck Papua New Guinea on Wednesday, the German Research Centre for Geosciences (GFZ) said, shaking the country's north coast in the morning.\n\nThe quake hit at 3:42am GMT (9:12am IST) at a depth of 10 kilometres, GFZ said. Its epicentre was placed at 5.82 degrees south and 146.65 degrees east, in the sea off the north coast. The US Geological Survey located it 99 kilometres east-southeast of Madang, the nearest large town.\n\nThere were no immediate reports of casualties or damage, and no tsunami warning was issued. The US Geological Survey put the quake's magnitude at 5.8 — agencies often revise their readings in the first hours after a tremor — and rated the alert level green, its lowest, meaning little or no damage was expected.\n\nPapua New Guinea sits on the Pacific Ring of Fire, one of the most seismically active regions in the world, where the movement of tectonic plates regularly produces strong earthquakes. A magnitude 6.4 quake hit the country's east on September 20.\n\nThe epicentre lay offshore and away from the largest population centres. A shallow quake usually means stronger shaking close to the centre, but with the centre out at sea, the effect on the coastal towns was limited.\n\nAuthorities in Papua New Guinea said they were gathering information from the affected areas. No damage assessment had been issued yet.\n\nPhoto: USGS"
+   },
+   "hi": {
+    "title": "पापुआ न्यू गिनी में ६.० तीव्रता का भूकंप, अभी तक नुकसान की कोई खबर नहीं",
+    "summary": "बुधवार सुबह पापुआ न्यू गिनी में ६.० तीव्रता का भूकंप आया। जर्मनी के भूविज्ञान अनुसंधान केंद्र के अनुसार भूकंप का केंद्र देश के उत्तरी तट के पास समुद्र में, मडांग के निकट था। अभी तक किसी के हताहत होने, नुकसान या सुनामी की चेतावनी की कोई खबर नहीं है।",
+    "body": "पोर्ट मोरेस्बी: पापुआ न्यू गिनी में बुधवार सुबह ६.० तीव्रता का भूकंप आया। जर्मनी के भूविज्ञान अनुसंधान केंद्र के अनुसार भूकंप का केंद्र देश के उत्तरी तट के पास समुद्र में था।\n\nभूकंप भारतीय समयानुसार सुबह ९ बजकर १२ मिनट पर आया और उसकी गहराई १० किलोमीटर थी। अमेरिकी भूवैज्ञानिक सर्वेक्षण के अनुसार भूकंप का केंद्र ५.८२ डिग्री दक्षिण और १४६.६५ डिग्री पूर्व पर, मडांग शहर से करीब ९९ किलोमीटर पूर्व-दक्षिण-पूर्व में था।\n\nअभी तक किसी के हताहत होने या नुकसान की कोई खबर नहीं मिली है और सुनामी की कोई चेतावनी जारी नहीं हुई है। अमेरिकी भूवैज्ञानिक सर्वेक्षण ने भूकंप की तीव्रता ५.८ मापी है। भूकंप के बाद शुरुआती घंटों में अलग-अलग एजेंसियों के आँकड़े अक्सर बदलते रहते हैं। सर्वेक्षण ने अलर्ट का स्तर सबसे निचला, हरा, रखा है, जिसका मतलब है कि बड़े नुकसान की आशंका नहीं है।\n\nपापुआ न्यू गिनी प्रशांत महासागर के अग्नि वलय पर स्थित है, जो दुनिया के सबसे भूकंप-प्रवण क्षेत्रों में से एक है। यहाँ धरती की प्लेटों की हलचल से अक्सर तेज़ भूकंप आते हैं। इसी साल २० सितंबर को देश के पूर्वी हिस्से में ६.४ तीव्रता का भूकंप आया था।\n\nभूकंप का केंद्र तट से दूर समुद्र में था और बड़े आबादी वाले इलाकों से दूर पड़ा। उथली गहराई वाले भूकंप में केंद्र के पास झटके आमतौर पर तेज़ महसूस होते हैं, लेकिन इस बार केंद्र तट से दूर होने की वजह से आबादी वाले शहरों में असर सीमित रहा।\n\nवहाँ के अधिकारी प्रभावित इलाकों से जानकारी जुटा रहे हैं। अब तक नुकसान का कोई आकलन जारी नहीं किया गया है।\n\nफ़ोटो साभार: यूएसजीएस"
+   }
+  },
+  {
+   "id": "pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-18T12:10:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18-en.mp3",
+   "en": {
+    "title": "PM Modi back in Delhi after ASEAN-Quad summits, chairs ministers' meet on Viksit Bharat 2047",
+    "summary": "Prime Minister Narendra Modi returned to New Delhi early on Wednesday after a two-day visit to Manila for the ASEAN and East Asia summits and a Quad leaders' meeting. Hours later, he chaired a Council of Ministers meeting at Bharat Mandapam on the Viksit Bharat 2047 roadmap.",
+    "body": "New Delhi: Prime Minister Narendra Modi returned to New Delhi in the early hours of Wednesday after a two-day visit to Manila, where he attended the ASEAN and East Asia summits and met the leaders of the Quad grouping.\n\nDuring the visit, Modi attended the 23rd ASEAN-India Summit and the 21st East Asia Summit, and joined US President Donald Trump, Japanese Prime Minister Sanae Takaichi and Australian Prime Minister Anthony Albanese for a Quad leaders' meeting on the sidelines.\n\nThe Ministry of External Affairs said the visit produced a series of outcomes, including the adoption of an ASEAN-India joint statement on cooperation in disaster management. Modi also announced free e-visas for tourists from ASEAN countries, a long-term maritime cooperation plan, joint training in cyber forensics and closer work on critical minerals, space and scholarships.\n\nHours after landing back in Delhi, Modi chaired a Council of Ministers meeting at Bharat Mandapam on the Viksit Bharat 2047 roadmap. Ministers arrived at the venue on Wednesday morning for the meeting, which officials said would review the progress made since the last council meeting and discuss the way forward, upcoming plans and the government's top priorities.\n\nThe last Council of Ministers meeting, in September, had focused on Viksit Bharat 2047. Ten sectoral groups of secretaries were set up after that meeting to prepare the Vision@2047 document and its short-term and long-term roadmap, with extensive consultation with stakeholders. Since then, eight presentations and discussions have been held before the council on different aspects of the vision, officials said.\n\nPhoto: ANI"
+   },
+   "hi": {
+    "title": "आसियान-क्वाड शिखर सम्मेलन से लौटे मोदी, विकसित भारत २०४७ पर मंत्रियों की बैठक की अध्यक्षता की",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी आसियान और पूर्व एशिया शिखर सम्मेलनों तथा क्वाड नेताओं की बैठक के लिए मनीला की दो दिन की यात्रा पूरी करके बुधवार तड़के नई दिल्ली लौट आए। कुछ ही घंटे बाद उन्होंने भारत मंडपम में विकसित भारत २०४७ की रूपरेखा पर मंत्रिपरिषद की बैठक की अध्यक्षता की।",
+    "body": "नई दिल्ली: प्रधानमंत्री नरेंद्र मोदी मनीला की दो दिन की यात्रा पूरी करके बुधवार तड़के नई दिल्ली लौट आए। वहाँ उन्होंने आसियान और पूर्व एशिया शिखर सम्मेलनों में हिस्सा लिया और क्वाड समूह के नेताओं से मुलाकात की।\n\nयात्रा के दौरान मोदी २३वें भारत-आसियान शिखर सम्मेलन और २१वें पूर्व एशिया शिखर सम्मेलन में शामिल हुए। इसके अलावा उन्होंने शिखर सम्मेलन के इतर अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप, जापान की प्रधानमंत्री सनाए ताकाइची और ऑस्ट्रेलिया के प्रधानमंत्री एंथनी अल्बानीज़ के साथ क्वाड नेताओं की बैठक में हिस्सा लिया।\n\nविदेश मंत्रालय के अनुसार यात्रा में कई फैसले हुए, जिनमें आपदा प्रबंधन में सहयोग पर भारत-आसियान संयुक्त बयान को अपनाना शामिल है। मोदी ने आसियान देशों के पर्यटकों के लिए मुफ्त ई-वीज़ा, लंबी अवधि की समुद्री सहयोग योजना, साइबर फोरेंसिक में साझा प्रशिक्षण और महत्वपूर्ण खनिजों, अंतरिक्ष तथा छात्रवृत्तियों पर करीबी सहयोग की घोषणा की।\n\nदिल्ली लौटने के कुछ ही घंटे बाद मोदी ने भारत मंडपम में विकसित भारत २०४७ की रूपरेखा पर मंत्रिपरिषद की बैठक की अध्यक्षता की। मंत्री बुधवार सुबह बैठक के लिए वहाँ पहुँचे। अधिकारियों के अनुसार बैठक में पिछली मंत्रिपरिषद की बैठक के बाद हुई प्रगति की समीक्षा होनी थी और आगे की राह, आगामी योजनाओं तथा सरकार की सर्वोच्च प्राथमिकताओं पर चर्चा होनी थी।\n\nमंत्रिपरिषद की पिछली बैठक सितंबर में हुई थी, जिसमें विकसित भारत २०४७ पर चर्चा हुई थी। उसके बाद सचिवों के दस क्षेत्रीय समूह बनाए गए थे, जिन्हें विज़न २०४७ दस्तावेज़ और उसकी अल्पकालिक तथा दीर्घकालिक रूपरेखा तैयार करनी थी। इसमें हितधारकों से व्यापक सलाह-मशविरा भी किया गया। तब से मंत्रिपरिषद के सामने इस विज़न के अलग-अलग पहलुओं पर आठ प्रस्तुतियाँ और चर्चाएँ हो चुकी हैं।\n\nफ़ोटो साभार: एएनआई"
+   }
+  },
   {
    "id": "board-of-peace-gaza-ceasefire-collapse-warning-november-18",
    "category": "World",
