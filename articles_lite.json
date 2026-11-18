@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-18T20:28:49+05:30",
+ "updatedAt": "2026-11-18T21:02:05+05:30",
  "articles": [
+  {
+   "id": "jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T20:55:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18-en.mp3",
+   "hi": {
+    "title": "टोक्यो में जयशंकर का बड़ा बयान: व्यापार-तकनीक का हथियारीकरण बदल रहा है दुनिया का नक्शा, भारत-जापान साथ चलें",
+    "summary": "विदेश मंत्री जयशंकर ने टोक्यो में कहा कि व्यापार, तकनीक और वित्त का हथियारीकरण आज की दुनिया की पहचान बन गया है — भारत और जापान को आर्थिक सुरक्षा के लिए मिलकर चलना होगा, और गुरुवार को होने वाली टू प्लस टू वार्ता से साझेदारी को नई रफ़्तार मिलेगी।"
+   },
+   "en": {
+    "title": "Jaishankar in Tokyo: weaponisation of trade and technology is redrawing the world order, India and Japan must deepen ties",
+    "summary": "External Affairs Minister Jaishankar told an audience in Tokyo that the weaponisation of trade, technology and finance now defines the global order — India and Japan must work together on economic security, with Thursday's 2+2 dialogue set to give the partnership fresh momentum."
+   }
+  },
+  {
+   "id": "bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T20:55:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18-en.mp3",
+   "hi": {
+    "title": "गुरुपर्व पर करतारपुर जाना चाहते हैं भगवंत मान, केंद्र से अनुमति माँगी — गलियारा मई से बंद",
+    "summary": "पंजाब के मुख्यमंत्री भगवंत मान चौबीस नवंबर को गुरु नानक देव के पाँच सौ सत्तावनवें प्रकाश पर्व पर पाकिस्तान के करतारपुर साहिब जाना चाहते हैं — आम आदमी पार्टी के अनुसार उन्होंने विदेश मंत्रालय से अनुमति माँगी है, जबकि करतारपुर गलियारा मई दो हज़ार पच्चीस से बंद है।"
+   },
+   "en": {
+    "title": "Bhagwant Mann seeks Centre's nod to visit Kartarpur Sahib on Gurpurab as corridor stays shut since May",
+    "summary": "Punjab Chief Minister Bhagwant Mann wants to visit Gurdwara Darbar Sahib in Pakistan's Kartarpur on November 24, Guru Nanak Dev's 557th birth anniversary — the Aam Aadmi Party says he has sought the Centre's permission, even as the Kartarpur Corridor has stayed shut since May 2025."
+   }
+  },
   {
    "id": "panchayat-season-5-premiere-december-3-prime-video-november-18",
    "category": "Entertainment",
