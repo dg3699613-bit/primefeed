@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T02:17:42+05:30",
+ "updatedAt": "2026-11-19T03:27:43+05:30",
  "articles": [
+  {
+   "id": "india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T03:19:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19-en.mp3",
+   "hi": {
+    "title": "वेलिंगटन टेस्ट में गिल ने टॉस जीता, भारत पहले गेंदबाज़ी करेगा; जडेजा बाहर, सुंदर को मौका",
+    "summary": "शुभमन गिल ने टॉस जीतकर न्यूज़ीलैंड को वेलिंगटन के बेसिन रिज़र्व में पहले बल्लेबाज़ी के लिए भेज दिया। भारत चार तेज़ गेंदबाज़ों के साथ उतरा है, वॉशिंगटन सुंदर स्पिन ऑलराउंडर हैं, जबकि रवींद्र जडेजा, मोहम्मद सिराज और गुरनूर बराड़ बाहर हैं। जसप्रीत बुमराह लगभग एक साल बाद टेस्ट में लौटे हैं।"
+   },
+   "en": {
+    "title": "Gill wins toss and India bowl first in Wellington Test; Jadeja benched, Sundar in",
+    "summary": "Shubman Gill won the toss and put New Zealand in to bat in the first Test at Basin Reserve, Wellington, on a green top. India picked four seamers with Washington Sundar as the spin all-rounder, leaving out Ravindra Jadeja, Mohammed Siraj and Gurnoor Brar, while Jasprit Bumrah returns after almost a year."
+   }
+  },
   {
    "id": "bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19",
    "category": "Crime & Law",
@@ -3180,27 +3201,6 @@
    "en": {
     "title": "IPL 2027 retentions: Starc, Head and Boult released as all 10 teams finalise squads; auction in Goa on December 16",
     "summary": "All 10 IPL franchises have confirmed their retention and release lists ahead of the IPL 2027 auction in Goa on December 16. Mitchell Starc, Travis Head and Trent Boult are among the big names released, while Lucknow head into the auction with the biggest purse."
-   }
-  },
-  {
-   "id": "gta-6-pre-orders-cross-1-billion-dollars-12-million-copies-november-17",
-   "category": "Technology",
-   "sub": "Gadgets",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T20:50:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-pre-orders-cross-1-billion-dollars-12-million-copies-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-pre-orders-cross-1-billion-dollars-12-million-copies-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-pre-orders-cross-1-billion-dollars-12-million-copies-november-17-en.mp3",
-   "hi": {
-    "title": "रिलीज़ से पहले ही जीटीए सिक्स ने एक अरब डॉलर पार किया, एक करोड़ इक्कीस लाख से ज़्यादा प्री-ऑर्डर दर्ज",
-    "summary": "सेंसर टावर के अनुमान के मुताबिक़ जीटीए सिक्स के एक करोड़ इक्कीस लाख से ज़्यादा प्री-ऑर्डर हो चुके हैं, जिनसे एक अरब अठारह करोड़ डॉलर की कमाई हुई है। गेम उन्नीस नवंबर को रिलीज़ होगा।"
-   },
-   "en": {
-    "title": "GTA 6 crosses $1 billion in pre-orders before launch, over 12 million copies sold",
-    "summary": "Sensor Tower estimates GTA 6 has taken more than 12.13 million digital pre-orders worth about $1.18 billion ahead of its November 19 launch, the biggest pre-launch numbers the industry has seen."
    }
   }
  ]
