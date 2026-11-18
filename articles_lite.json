@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T03:41:53+05:30",
+ "updatedAt": "2026-11-19T03:56:28+05:30",
  "articles": [
+  {
+   "id": "bigg-boss-20-extension-two-to-four-weeks-finale-january-november-19",
+   "category": "Entertainment",
+   "sub": "TV",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T03:53:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-extension-two-to-four-weeks-finale-january-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-extension-two-to-four-weeks-finale-january-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-extension-two-to-four-weeks-finale-january-november-19-en.mp3",
+   "hi": {
+    "title": "बिग बॉस बीस: दो से चार हफ्ते बढ़ सकता है सीज़न, फिनाले जनवरी तक खिसक सकता है",
+    "summary": "बिग बॉस बीस के मेकर्स सीज़न को दो से चार हफ्ते बढ़ाने पर विचार कर रहे हैं। रिपोर्ट के मुताबिक अंतिम फैसला बीस नवंबर तक आ सकता है, और फिनाले दिसंबर से खिसककर जनवरी दो हज़ार सत्ताईस में जा सकता है। होस्ट सलमान खान की उपलब्धता इस फैसले में अहम होगी।"
+   },
+   "en": {
+    "title": "Bigg Boss 20 may run two to four weeks longer, finale could shift to January",
+    "summary": "The makers of Bigg Boss 20 are reportedly considering a two-to-four-week extension for the season. A final decision is expected by November 20, and the finale could move from December into January 2027, with host Salman Khan's availability a key factor."
+   }
+  },
   {
    "id": "madhya-pradesh-scraps-two-child-norm-government-jobs-30000-teachers-november-18",
    "category": "State & Local",
@@ -3180,27 +3201,6 @@
    "en": {
     "title": "Second strike on Tara Gas in Hormuz: one Indian seafarer missing, two injured; 21 brought ashore in Oman",
     "summary": "The foreign ministry said the tanker was hit a second time after the November 16 attack, forcing the whole crew to abandon ship; the search for the missing seafarer continues and two injured crew are in hospital."
-   }
-  },
-  {
-   "id": "ukraine-crimean-bridge-arch-collapses-second-day-strike-november-17",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T21:11:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ukraine-crimean-bridge-arch-collapses-second-day-strike-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-crimean-bridge-arch-collapses-second-day-strike-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-crimean-bridge-arch-collapses-second-day-strike-november-17-en.mp3",
-   "hi": {
-    "title": "क्रीमिया पुल का सड़क वाला हिस्सा समंदर में गिरा, यूक्रेन ने दूसरी रात भी किया हमला, कीव के पुलों पर रूस का पलटवार",
-    "summary": "यूक्रेन ने मंगलवार को दूसरी रात भी क्रीमिया पुल पर हमला किया, जिससे पुल का सड़क वाला हिस्सा केर्च जलडमरूमध्य में गिर गया। जवाब में रूस ने कीव के दो बड़े पुलों पर हमला किया। दो लोगों की मौत हुई है, १९ किलोमीटर लंबे पुल पर यातायात ठप है, और उसी रात युद्ध का अब तक का सबसे बड़ा यूक्रेनी ड्रोन हमला भी हुआ।"
-   },
-   "en": {
-    "title": "Crimean Bridge's road arch collapses into the sea as Ukraine strikes a second night, Kyiv's bridges hit in reply",
-    "summary": "Ukraine struck the Crimean Bridge for a second straight night on Tuesday, collapsing its road arch into the Kerch Strait, while Russia hit two major bridges in Kyiv. Two people were killed, traffic across the 19-km crossing is suspended, and the night also saw what Russia called the largest Ukrainian drone attack of the war."
    }
   }
  ]
