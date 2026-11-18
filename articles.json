@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-18T12:10:08+05:30",
+ "updatedAt": "2026-11-18T12:24:15+05:30",
  "articles": [
+  {
+   "id": "chamoli-earthquake-4-1-joshimath-two-tremors-november-18",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-18T12:24:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chamoli-earthquake-4-1-joshimath-two-tremors-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chamoli-earthquake-4-1-joshimath-two-tremors-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chamoli-earthquake-4-1-joshimath-two-tremors-november-18-en.mp3",
+   "en": {
+    "title": "Two tremors shake Chamoli in half an hour, 4.1 magnitude quake; no damage reported",
+    "summary": "Two earthquake tremors shook Uttarakhand's Chamoli district within half an hour on Wednesday morning. The first, of magnitude 4.1, struck at 10:21 am with its epicentre near Joshimath. There were no reports of loss of life or property.",
+    "body": "Chamoli: Two earthquake tremors shook Uttarakhand's Chamoli district within half an hour on Wednesday morning, the National Centre for Seismology (NCS) said. The first struck at 10:21 am and measured 4.1 on the Richter scale.\n\nThe first quake's epicentre lay about 19 kilometres south of Joshimath, at a depth of 10 kilometres. The NCS placed it at 30.380 degrees north and 79.581 degrees east. The tremors were felt in Chamoli as well as in the neighbouring Pauri and Tehri Garhwal districts, and in several places people rushed out of their homes.\n\nHalf an hour later, at 10:52 am, Chamoli was shaken again. The second tremor measured 2.8, with its epicentre about 24 kilometres south-southwest of Joshimath at a depth of 5 kilometres.\n\nDistrict disaster management officer Nand Kishore confirmed the tremors. According to the administration, there were no reports of loss of life or property anywhere in the district, and the situation remained normal. Officials said they were keeping a watch.\n\nUttarakhand lies in the seismically sensitive Himalayan region, where tremors are frequent. Just last week, on November 13, a magnitude 4.2 earthquake shook Pithoragarh district in the state.\n\nPhoto: Wikimedia Commons"
+   },
+   "hi": {
+    "title": "चमोली में आधे घंटे के अंदर दो बार भूकंप, ४.१ तीव्रता के झटके; जान-माल के नुकसान की कोई खबर नहीं",
+    "summary": "उत्तराखंड के चमोली जिले में बुधवार सुबह आधे घंटे के अंदर भूकंप के दो झटके आए। पहला झटका सुबह १० बजकर २१ मिनट पर ४.१ तीव्रता का था, जिसका केंद्र जोशीमठ के पास था। जान-माल के नुकसान की कोई खबर नहीं है।",
+    "body": "चमोली: उत्तराखंड के चमोली जिले में बुधवार सुबह आधे घंटे के अंदर भूकंप के दो झटके आए। राष्ट्रीय भूकंप विज्ञान केंद्र के अनुसार पहला झटका सुबह १० बजकर २१ मिनट पर आया और रिक्टर पैमाने पर उसकी तीव्रता ४.१ मापी गई।\n\nपहले भूकंप का केंद्र जोशीमठ से करीब १९ किलोमीटर दक्षिण में, जमीन से १० किलोमीटर गहराई में था। इसके अक्षांश-देशांतर ३०.३८० डिग्री उत्तर और ७९.५८१ डिग्री पूर्व दर्ज किए गए। झटके चमोली के साथ-साथ पौड़ी और टिहरी गढ़वाल जिलों में भी महसूस किए गए। कई जगह लोग घबराकर घरों से बाहर निकल आए।\n\nइसके ठीक आधे घंटे बाद, सुबह १० बजकर ५२ मिनट पर, चमोली में फिर भूकंप आया। इस बार उसकी तीव्रता २.८ मापी गई और केंद्र जोशीमठ से करीब २४ किलोमीटर दक्षिण-दक्षिण-पश्चिम में, ५ किलोमीटर गहराई में था।\n\nजिला आपदा प्रबंधन अधिकारी नंद किशोर ने भूकंप की पुष्टि की है। प्रशासन के अनुसार जिले में कहीं भी जान-माल के नुकसान की कोई सूचना नहीं मिली है और स्थिति सामान्य बनी हुई है। अधिकारी हालात पर नजर रखे हुए हैं।\n\nउत्तराखंड हिमालयी क्षेत्र में आता है, जहाँ भूकंप के झटके अक्सर आते रहते हैं। इससे पहले १३ नवंबर को पिथौरागढ़ जिले में भी ४.२ तीव्रता का भूकंप आया था।\n\nफ़ोटो साभार: विकिमीडिया कॉमन्स"
+   },
+   "district": "Chamoli",
+   "state": "Uttarakhand"
+  },
+  {
+   "id": "java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18",
+   "category": "Technology",
+   "sub": "Internet",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T12:24:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18-en.mp3",
+   "en": {
+    "title": "Critical Java flaw sparks emergency meeting in South Korea; Oracle issues patches",
+    "summary": "A critical flaw found in Java prompted South Korea's presidential office to call an emergency meeting on Tuesday with the military, the science ministry and financial regulators. The US cyber agency has urged users to patch immediately, and Oracle has issued security updates for Java.",
+    "body": "Seoul: A critical security flaw in Java has prompted South Korea's presidential office to call an emergency meeting, and the US cyber security agency has urged Java users to install security updates immediately.\n\nThe meeting was convened on Tuesday by South Korea's national security office. Senior officials from the science, defence and interior ministries, the military, the National Intelligence Service and financial regulators took part, reviewing Java usage and security measures across the public, private and defence sectors and agreeing to share threat intelligence in real time.\n\nThe flaw, dubbed Java4Shell (CVE-2026-114938), stems from a memory corruption bug in OpenJDK's Base64 decoder. According to the Korea Herald, it could allow attackers to remotely execute malicious code without authentication under certain conditions, though exploiting it requires specific hardware and software conditions.\n\nOracle released patches on Tuesday addressing 11 vulnerabilities in Java SE, including flaws affecting certain versions of Java SE and GraalVM. The US Cybersecurity and Infrastructure Security Agency said the vulnerabilities required immediate patching. South Korea's Ministry of Science and ICT and the Korea Internet and Security Agency urged organisations to check their Java installations and apply the latest security updates, prioritising internet-facing services and critical business systems, and to verify that the patches had been applied.\n\nThe risk is especially large for South Korea because Java is used there far more heavily than elsewhere. A 2021 survey by programming tool maker JetBrains put Java's share of programming language use in South Korea at 53 percent, against a global average of 30 percent. Java runs in critical systems across government agencies, companies and financial institutions.\n\nThe discovery follows serious vulnerabilities found in PHP weeks earlier, which prompted South Korea to raise its private-sector cyber security alert level from 'interest' to 'caution' on October 22.\n\nPhoto: Yonhap"
+   },
+   "hi": {
+    "title": "जावा की बड़ी खामी से हड़कंप, दक्षिण कोरिया ने बुलाई आपात बैठक; ओरेकल ने जारी किए पैच",
+    "summary": "जावा में मिली एक गंभीर खामी के बाद दक्षिण कोरिया के राष्ट्रपति कार्यालय ने मंगलवार को सेना, विज्ञान मंत्रालय और वित्तीय नियामकों के साथ आपात बैठक की। अमेरिका की साइबर एजेंसी ने तुरंत पैच लगाने को कहा है और ओरेकल ने जावा के लिए सुरक्षा अपडेट जारी कर दिए हैं।",
+    "body": "सियोल: जावा प्रोग्रामिंग भाषा में एक गंभीर सुरक्षा खामी मिलने के बाद दक्षिण कोरिया के राष्ट्रपति कार्यालय ने आपात बैठक बुलाई है। अमेरिका की साइबर सुरक्षा एजेंसी ने भी जावा इस्तेमाल करने वालों को तुरंत सुरक्षा अपडेट लगाने की चेतावनी दी है।\n\nदक्षिण कोरिया के राष्ट्रीय सुरक्षा कार्यालय ने मंगलवार को यह बैठक बुलाई थी। इसमें सेना, विज्ञान और सूचना-संचार प्रौद्योगिकी मंत्रालय, गृह मंत्रालय, राष्ट्रीय खुफिया सेवा और वित्तीय नियामकों के वरिष्ठ अधिकारी शामिल हुए। बैठक में जावा के इस्तेमाल और सुरक्षा उपायों की समीक्षा की गई और खतरे की जानकारी तुरंत साझा करने पर सहमति बनी।\n\nइस खामी को जावा४शेल नाम दिया गया है। यह ओपनजेडीके की बेस६४ डिकोडर में मेमोरी से जुड़ी गड़बड़ी से पैदा हुई है। कोरिया हेराल्ड के अनुसार कुछ खास परिस्थितियों में इसके जरिए हमलावर बिना अनुमति के दूर से ही हानिकारक कोड चला सकता है।\n\nओरेकल ने मंगलवार को जावा के लिए पैच जारी कर दिए, जिनमें जावा एसई की ११ खामियों को ठीक किया गया है। अमेरिका की साइबर सुरक्षा और बुनियादी ढाँचा सुरक्षा एजेंसी ने कहा है कि इन खामियों को तुरंत ठीक करना जरूरी है। दक्षिण कोरिया के विज्ञान मंत्रालय और कोरिया इंटरनेट सुरक्षा एजेंसी ने भी सरकारी संस्थानों और निजी कंपनियों से कहा है कि वे अपने जावा सिस्टम की जाँच करें और इंटरनेट से जुड़ी सेवाओं और अहम कारोबारी प्रणालियों को पहले अपडेट करें।\n\nदक्षिण कोरिया के लिए यह खतरा इसलिए बड़ा है, क्योंकि वहाँ जावा का इस्तेमाल दुनिया के मुकाबले कहीं ज्यादा है। एक सर्वेक्षण के अनुसार दक्षिण कोरिया में प्रोग्रामिंग भाषाओं में जावा की हिस्सेदारी ५३ प्रतिशत है, जबकि दुनिया भर में यह औसत ३० प्रतिशत है। जावा सरकारी एजेंसियों, कंपनियों और वित्तीय संस्थानों के अहम सिस्टम में इस्तेमाल होता है।\n\nइससे कुछ हफ्ते पहले पीएचपी भाषा में भी गंभीर खामियाँ मिली थीं, जिसके बाद दक्षिण कोरिया ने निजी क्षेत्र के लिए साइबर सुरक्षा अलर्ट का स्तर 'रुचि' से बढ़ाकर 'सावधानी' कर दिया था।\n\nफ़ोटो साभार: योनहाप"
+   }
+  },
   {
    "id": "magnitude-6-earthquake-strikes-papua-new-guinea-november-18",
    "category": "World",
