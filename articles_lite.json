@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-18T20:15:04+05:30",
+ "updatedAt": "2026-11-18T20:28:49+05:30",
  "articles": [
+  {
+   "id": "panchayat-season-5-premiere-december-3-prime-video-november-18",
+   "category": "Entertainment",
+   "sub": "OTT / Web Series",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T20:25:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/panchayat-season-5-premiere-december-3-prime-video-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/panchayat-season-5-premiere-december-3-prime-video-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/panchayat-season-5-premiere-december-3-prime-video-november-18-en.mp3",
+   "hi": {
+    "title": "पंचायत सीज़न पाँच का ऐलान: तीन दिसंबर को प्राइम वीडियो पर लौटेगा फुलेरा, बनराकस बनेगा नया प्रधानपति",
+    "summary": "प्राइम वीडियो ने पंचायत के पाँचवें सीज़न की रिलीज़ तारीख़ का ऐलान कर दिया है — तीन दिसंबर दो हज़ार छब्बीस को फुलेरा लौटेगा, जहाँ क्रांति देवी और बनराकस की नई सत्ता के बीच सचिव जी की कहानी आगे बढ़ेगी।"
+   },
+   "en": {
+    "title": "Panchayat Season 5 gets a date: Phulera returns on Prime Video on December 3, Banrakas takes charge",
+    "summary": "Prime Video has confirmed December 3, 2026 as the premiere date for Panchayat Season 5, with Kranti Devi and Banrakas taking over Phulera's politics and Sachivji returning to face the village's new power equations."
+   }
+  },
   {
    "id": "india-beat-bangladesh-eight-wickets-blind-asia-cup-final-november-18",
    "category": "Cricket & Sports",
