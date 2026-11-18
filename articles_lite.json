@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-18T15:14:03+05:30",
+ "updatedAt": "2026-11-18T15:26:29+05:30",
  "articles": [
+  {
+   "id": "nvidia-stops-h200-chip-shipments-china-november-18",
+   "category": "Technology",
+   "sub": "AI",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-18T15:26:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-stops-h200-chip-shipments-china-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-stops-h200-chip-shipments-china-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-stops-h200-chip-shipments-china-november-18-en.mp3",
+   "hi": {
+    "title": "एनवीडिया ने चीन को एच-२०० चिप की सप्लाई रोकी, लाइसेंस वाली बिक्री बंद",
+    "summary": "एनवीडिया की अंतरिम मुख्य कार्यकारी कोलेट क्रेस ने कहा कि कंपनी ने चीन को एच-२०० एआई चिप की सप्लाई रोक दी है, जिससे जेन्सेन हुआंग और डॉनल्ड ट्रंप के बीच तय लाइसेंस वाली बिक्री व्यवस्था खत्म हो गई।"
+   },
+   "en": {
+    "title": "Nvidia stops shipping H200 AI chips to China, ends licensed sales",
+    "summary": "Nvidia has stopped shipping its H200 AI chips to China, interim chief executive Colette Kress said on the company earnings call, ending the licensed sales route brokered by Jensen Huang and Donald Trump."
+   }
+  },
   {
    "id": "adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18",
    "category": "World",
