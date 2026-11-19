@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T21:56:20+05:30",
+ "updatedAt": "2026-11-19T22:15:15+05:30",
  "articles": [
+  {
+   "id": "sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19",
+   "category": "Business",
+   "sub": "Banking & Finance",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T22:10:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19-en.mp3",
+   "hi": {
+    "title": "सेबी का रोडमैप: आईपीओ तेज़, विदेशी निवेशकों की राह आसान — केवीआर मूर्ति ने बताया पूरा खाका",
+    "summary": "बाज़ार नियामक सेबी आईपीओ और राइट्स इश्यू की समय-सीमा घटाने, लिस्टिंग के नियम सरल करने और विदेशी निवेशकों की पहुँच आसान बनाने की तैयारी में है। सेबी के पूर्णकालिक सदस्य केवीआर मूर्ति ने मुंबई में सीआईआई फाइनैंसिंग सम्मेलन में यह रोडमैप रखा।"
+   },
+   "en": {
+    "title": "Sebi roadmap: faster IPOs, easier foreign investor access, says KVR Murty",
+    "summary": "Market regulator Sebi is preparing to shorten IPO and rights issue timelines, simplify listing norms and make it easier for foreign investors to enter Indian markets. Whole-time member KVR Murty laid out the roadmap at the CII Financing Summit in Mumbai."
+   }
+  },
+  {
+   "id": "cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T22:10:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19-en.mp3",
+   "district": "Panchkula",
+   "state": "Haryana",
+   "hi": {
+    "title": "पंचकूला में सीजीएसटी अधीक्षक दस लाख रुपये की रिश्वत लेते रंगे हाथ पकड़ा, सीबीआई ने किया गिरफ्तार",
+    "summary": "सीबीआई ने पंचकूला में तैनात सीजीएसटी अधीक्षक लवकुश कुमार को एक निजी कंपनी से दस लाख रुपये की रिश्वत लेते हुए रंगे हाथ पकड़ा है। आरोप है कि अधिकारी ने जीएसटी कार्यवाही में राहत के बदले पचास लाख रुपये माँगे थे।"
+   },
+   "en": {
+    "title": "CBI arrests Panchkula CGST superintendent caught taking Rs 10 lakh bribe",
+    "summary": "The CBI has arrested CGST Superintendent Luvkush Kumar, posted in Panchkula, after catching him red-handed while allegedly accepting a bribe of Rs 10 lakh from a private firm. He is accused of demanding Rs 50 lakh for favours in GST proceedings."
+   }
+  },
   {
    "id": "indian-man-tushar-sharma-found-dead-burning-car-canada-targeted-killing-november-19",
    "category": "World",
@@ -3165,50 +3209,6 @@
    "en": {
     "title": "Supreme Court seeks response from Centre over 11-year delay in finalising procedure for appointment of judges",
     "summary": "The Supreme Court on Wednesday sought a response from the Centre on a petition over the nearly 11-year delay in finalising the revised Memorandum of Procedure for appointing judges. The petition also seeks to bring collegium decisions under the Right to Information Act."
-   }
-  },
-  {
-   "id": "nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T17:07:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18-en.mp3",
-   "district": "Patiala",
-   "state": "Punjab",
-   "hi": {
-    "title": "अमेरिका से निर्वासित केज़ेडएफ़ समर्थक सुरिंदर सिंह गिरफ़्तार, शंभू-राजपुरा रेल पटरी विस्फोट मामले में आठवीं गिरफ़्तारी",
-    "summary": "राष्ट्रीय अन्वेषण अभिकरण ने बुधवार को अमेरिका से निर्वासित खालिस्तान ज़िंदाबाद फ़ोर्स के समर्थक सुरिंदर सिंह उर्फ़ ठिकरीवाल को दिल्ली हवाई अड्डे पर गिरफ़्तार कर लिया। वह शंभू-राजपुरा रेल पटरी विस्फोट मामले में आरोपी है। इस मामले में अब तक आठ लोगों को गिरफ़्तार किया जा चुका है।"
-   },
-   "en": {
-    "title": "KZF supporter Surinder Singh arrested after deportation from US; eighth arrest in Shambhu-Rajpura railway blast case",
-    "summary": "The National Investigation Agency on Wednesday arrested Surinder Singh alias Thikriwal, a supporter of the banned Khalistan Zindabad Force, at Delhi airport after his deportation from the United States. He is an accused in the Shambhu-Rajpura railway blast case, in which eight people have now been arrested."
-   }
-  },
-  {
-   "id": "spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T16:47:36+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18-en.mp3",
-   "hi": {
-    "title": "स्पाइसजेट बोर्ड ने पाँच हज़ार पाँच सौ करोड़ रुपये जुटाने की योजना को मंज़ूरी दी, शेयर पाँच फ़ीसदी उछले",
-    "summary": "नकदी की किल्लत से जूझ रही स्पाइसजेट के बोर्ड ने बुधवार को पाँच हज़ार पाँच सौ करोड़ रुपये तक जुटाने के प्रस्ताव को मंज़ूरी दे दी। कंपनी की अधिकृत शेयर पूँजी दो हज़ार करोड़ रुपये से बढ़ाकर सात हज़ार पाँच सौ करोड़ रुपये करने पर भी सहमति बनी। खबर के बाद बीएसई पर स्पाइसजेट का शेयर पाँच फ़ीसदी की ऊपरी सीमा तक चढ़ गया।"
-   },
-   "en": {
-    "title": "SpiceJet board clears plan to raise Rs 5,500 crore to revive airline; shares hit 5% upper circuit",
-    "summary": "Cash-strapped SpiceJet's board on Wednesday approved a proposal to raise up to Rs 5,500 crore to strengthen its finances and drive its revival. The board also cleared raising the airline's authorised share capital from Rs 2,000 crore to Rs 7,500 crore. SpiceJet shares jumped to the 5% upper circuit on the BSE after the announcement."
    }
   }
  ]
