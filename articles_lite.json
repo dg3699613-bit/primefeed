@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T14:30:43+05:30",
+ "updatedAt": "2026-11-19T14:39:23+05:30",
  "articles": [
+  {
+   "id": "ukraine-crimean-bridge-third-strike-rail-halted-november-19",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:37:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ukraine-crimean-bridge-third-strike-rail-halted-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-crimean-bridge-third-strike-rail-halted-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-crimean-bridge-third-strike-rail-halted-november-19-en.mp3",
+   "hi": {
+    "title": "क्रीमिया पुल पर हफ़्ते में तीसरा हमला, रेल सेवा ठप; पुतिन के शेनझेन जाने से कुछ घंटे पहले यूक्रेन का वार",
+    "summary": "बुधवार रात ड्रोन हमले में क्रीमिया पुल के रेल वाले हिस्से को निशाना बनाया गया, जिसके बाद पुल पर ट्रेनों की आवाजाही अस्थायी रूप से रोक दी गई। यह एक हफ़्ते में पुल पर तीसरा हमला है, मंगलवार को सड़क वाला मेहराब समंदर में गिर गया था। रूसी परिवहन मंत्रालय के अनुसार हमले में कोई हताहत नहीं हुआ।"
+   },
+   "en": {
+    "title": "Ukraine hits Crimean Bridge for third time in a week, rail services halted hours before Putin's Shenzhen summit",
+    "summary": "An overnight drone attack hit the railway section of the Crimean Bridge, forcing a temporary suspension of train services across the nineteen-kilometre crossing. It is the third strike on the bridge in a week — on Tuesday its road arch collapsed into the sea. The Russian transport ministry said nobody was hurt."
+   }
+  },
   {
    "id": "bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19",
    "category": "State & Local",
@@ -3174,29 +3195,6 @@
    "en": {
     "title": "Woman sub-inspector Rashmi Gautam found dead in police quarters bathroom in Greater Noida",
     "summary": "A 27-year-old woman sub-inspector, Rashmi Gautam, was found dead in the bathroom of her government quarters at the Jarcha police station in Greater Noida on Tuesday morning. Police said a silent cardiac attack is suspected prima facie, and the exact cause of death will be known only after the post-mortem."
-   }
-  },
-  {
-   "id": "lateef-bhat-killed-kulgam-encounter-mosque-november-18",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T10:49:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lateef-bhat-killed-kulgam-encounter-mosque-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lateef-bhat-killed-kulgam-encounter-mosque-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lateef-bhat-killed-kulgam-encounter-mosque-november-18-en.mp3",
-   "district": "Kulgam",
-   "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "कुलगाम में लश्कर कमांडर लतीफ़ भट मारा गया, मस्जिद में छिपकर सरेंडर से किया इनकार",
-    "summary": "दक्षिण कश्मीर के कुलगाम ज़िले में बुधवार सुबह सुरक्षा बलों के साथ मुठभेड़ में लश्कर-ए-तैयबा का कमांडर लतीफ़ भट मारा गया। वह देवसर के जंगलपोरा गाँव की एक मस्जिद में छिपा था और उसने बार-बार सरेंडर की अपील ठुकरा दी। पुलिस के मुताबिक़ वह घाटी में बचा हुआ आख़िरी स्थानीय आतंकी था।"
-   },
-   "en": {
-    "title": "Lashkar commander Lateef Bhat killed in Kulgam encounter after refusing to surrender from inside a mosque",
-    "summary": "Lashkar-e-Taiba commander Lateef Bhat was killed in an encounter with security forces in Jammu and Kashmir's Kulgam district on Wednesday morning. He had taken shelter inside a mosque in Zangalpora village in Devsar and turned down repeated appeals to surrender. Police described him as the last surviving local militant in the Kashmir Valley."
    }
   }
  ]
