@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T16:18:46+05:30",
+ "updatedAt": "2026-11-19T16:30:08+05:30",
  "articles": [
+  {
+   "id": "south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T16:27:35+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19-en.mp3",
+   "hi": {
+    "title": "जोहानिसबर्ग टेस्ट: दक्षिण अफ़्रीका ने बांग्लादेश को नौ विकेट से हराया, शृंखला में एक शून्य की बढ़त",
+    "summary": "पहले टेस्ट के पाँचवें और आख़िरी दिन दक्षिण अफ़्रीका ने बांग्लादेश को नौ विकेट से हरा दिया। बांग्लादेश दूसरी पारी में एक सौ अड़सठ रन पर सिमट गया और मेज़बान टीम ने बारह रन का लक्ष्य सिर्फ़ एक दशमलव तीन ओवर में हासिल कर लिया। कागिसो रबाडा मैच के सर्वश्रेष्ठ खिलाड़ी चुने गए।"
+   },
+   "en": {
+    "title": "South Africa crush Bangladesh by nine wickets in Johannesburg Test to go 1-0 up",
+    "summary": "South Africa wrapped up the first Test against Bangladesh by nine wickets on the fifth and final day at the Wanderers, bowling the visitors out for 168 in their second innings and knocking off a target of just 12 runs in 1.3 overs. Kagiso Rabada was named Player of the Match."
+   }
+  },
   {
    "id": "cyclone-akvan-105-lakh-evacuated-gopalpur-landfall-november-20-november-19",
    "category": "Weather",
@@ -34,6 +55,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anantapur-bus-overturns-40-injured-raptadu-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anantapur-bus-overturns-40-injured-raptadu-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anantapur-bus-overturns-40-injured-raptadu-november-19-en.mp3",
+   "district": "Anantapur",
+   "state": "Andhra Pradesh",
    "hi": {
     "title": "अनंतपुर के पास बेंगलुरु–हैदराबाद बस पलटी, चालीस यात्री घायल; चालक के नींद में होने की आशंका",
     "summary": "आंध्र प्रदेश के अनंतपुर ज़िले में गुरुवार तड़के बेंगलुरु से हैदराबाद जा रही एक निजी बस के पलट जाने से कम से कम चालीस यात्री घायल हो गए। सभी की हालत स्थिर बताई जा रही है। पुलिस को आशंका है कि चालक को गाड़ी चलाते समय नींद आ गई थी, और हादसे के बाद वह मौके से फ़रार हो गया।"
@@ -41,9 +64,7 @@
    "en": {
     "title": "Bengaluru-Hyderabad bus overturns near Raptadu in Anantapur, at least 40 injured; driver suspected to have dozed off",
     "summary": "At least 40 passengers were injured when a private bus travelling from Bengaluru to Hyderabad overturned near Raptadu in Andhra Pradesh's Anantapur district early on Thursday. Officials said all the injured are stable. Police suspect the driver dozed off at the wheel and fled the spot after the accident."
-   },
-   "district": "Anantapur",
-   "state": "Andhra Pradesh"
+   }
   },
   {
    "id": "upi-mdr-delay-paytm-shares-plunge-november-19",
@@ -78,6 +99,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19-en.mp3",
+   "district": "Gondia",
+   "state": "Maharashtra",
    "hi": {
     "title": "गोंदिया में वर्षा तुर्कर हत्याकांड का खुलासा: पत्नी ने पति की दोस्त की हत्या के लिए तेरह लाख की सुपारी दी, चार गिरफ़्तार",
     "summary": "गोंदिया पुलिस ने इंडिगो कर्मचारी वर्षा तुर्कर की हत्या के मामले का गुरुवार को खुलासा कर दिया। पुलिस के मुताबिक हत्या की साज़िश मृतका के दोस्त की पत्नी ने रची थी, जिसने कथित तौर पर तेरह लाख रुपये की सुपारी देकर हत्या करवाई। चार आरोपियों को गिरफ़्तार किया गया है, जबकि दो अब भी फ़रार हैं।"
@@ -85,9 +108,7 @@
    "en": {
     "title": "Gondia police crack Varsha Turkar murder: wife allegedly paid Rs 13 lakh contract to kill husband's friend, four arrested",
     "summary": "Gondia police on Thursday said they have cracked the murder of IndiGo employee Varsha Turkar, whose body was found in the Bondrani forest last week. Police said the murder was allegedly plotted by the wife of the victim's friend, who is accused of paying Rs 13 lakh to have her killed. Four people have been arrested, while two others are still absconding."
-   },
-   "district": "Gondia",
-   "state": "Maharashtra"
+   }
   },
   {
    "id": "modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19",
@@ -122,6 +143,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/polavaram-maoist-explosives-dump-670-bgl-shells-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/polavaram-maoist-explosives-dump-670-bgl-shells-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/polavaram-maoist-explosives-dump-670-bgl-shells-november-19-en.mp3",
+   "district": "Polavaram",
+   "state": "Andhra Pradesh",
    "hi": {
     "title": "पोलावरम में माओवादियों का बड़ा विस्फोटक भंडार बरामद: छह सौ सत्तर ज़िंदा बीजीएल शेल, डेटोनेटर और दवाइयाँ मिलीं",
     "summary": "आंध्र प्रदेश पुलिस और सीआरपीएफ़ ने बुधवार को आंध्र प्रदेश-छत्तीसगढ़ सीमा के पास पोलावरम ज़िले के रामपाचोड़ावरम के जंगलों में माओवादियों का छिपाया हुआ बड़ा विस्फोटक भंडार बरामद किया। इसमें छह सौ सत्तर ज़िंदा बीजीएल शेल, बयालीस डेटोनेटर, बारूद, कॉर्डेक्स और दवाइयाँ शामिल हैं।"
@@ -129,9 +152,7 @@
    "en": {
     "title": "Polavaram police unearth Maoist explosives dump: 670 live BGL shells, detonators and medicines seized",
     "summary": "Andhra Pradesh Police and the CRPF on Wednesday unearthed a large Maoist explosives dump hidden in the forests of Rampachodavaram in Polavaram district, near the Andhra Pradesh-Chhattisgarh border. The haul included 670 live BGL shells, 42 detonators, gunpowder, Cordex and medicines."
-   },
-   "district": "Polavaram",
-   "state": "Andhra Pradesh"
+   }
   },
   {
    "id": "anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19",
@@ -166,6 +187,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mahua-moitra-convoy-attacked-nadia-stones-eggs-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahua-moitra-convoy-attacked-nadia-stones-eggs-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahua-moitra-convoy-attacked-nadia-stones-eggs-november-19-en.mp3",
+   "district": "Nadia",
+   "state": "West Bengal",
    "hi": {
     "title": "महुआ मोइत्रा का आरोप: नादिया में काफ़िले पर पत्थर, अंडे और डंडे; पुलिस पर कोर्ट के आदेश के बावजूद सुरक्षा न देने का आरोप",
     "summary": "तृणमूल सांसद महुआ मोइत्रा ने आरोप लगाया है कि गुरुवार को पश्चिम बंगाल के नादिया ज़िले के कालीगंज में उनके काफ़िले पर भाजपा समर्थकों ने पत्थर, अंडे और डंडे बरसाए। उन्होंने कहा कि कलकत्ता हाई कोर्ट के आदेश के बावजूद पुलिस ने उनकी सुरक्षा नहीं की।"
@@ -173,9 +196,7 @@
    "en": {
     "title": "Mahua Moitra alleges stones, eggs and sticks hurled at her convoy in Nadia; accuses police of failing her despite court order",
     "summary": "Trinamool MP Mahua Moitra has alleged that BJP supporters attacked her car and convoy with stones, eggs and sticks at Kaliganj in West Bengal's Nadia district on Thursday, and accused the state police of failing to protect her despite a Calcutta High Court order."
-   },
-   "district": "Nadia",
-   "state": "West Bengal"
+   }
   },
   {
    "id": "one-blood-test-14-cancers-cancerspot-detects-72-percent-cases-november-19",
@@ -315,6 +336,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
    "hi": {
     "title": "दाऊद इब्राहिम के पुराने ठिकाने मुसाफिरखाना पर चला बीएमसी का बुलडोज़र, भारी पुलिस बल के बीच ध्वस्तीकरण शुरू",
     "summary": "मुंबई के भेंडी बाज़ार में दाऊद इब्राहिम के परिवार के पुराने ठिकाने हाजी इस्माइल हाजी हबीब मुसाफिरखाना का ध्वस्तीकरण गुरुवार को शुरू हो गया। बुधवार को स्थगन की माँगों के बीच रुका काम अब भारी पुलिस सुरक्षा में आगे बढ़ रहा है।"
@@ -322,9 +345,7 @@
    "en": {
     "title": "BMC begins demolishing Dawood Ibrahim's old Bhendi Bazaar base Musafirkhana amid heavy police security",
     "summary": "The Brihanmumbai Municipal Corporation on Thursday began demolishing the Haji Ismail Haji Habib Musafirkhana in Bhendi Bazaar, once home to Dawood Ibrahim's family. The work, stalled on Wednesday amid stay pleas over the ground-floor prayer hall, is now proceeding peacefully under heavy police deployment."
-   },
-   "district": "Mumbai",
-   "state": "Maharashtra"
+   }
   },
   {
    "id": "icmr-antibiotic-resistance-report-2025-common-drugs-failing-november-19",
@@ -359,13 +380,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19-hi.mp3",
    "audioEn": null,
-   "en": {
-    "title": "Alia Bhatt backs Deepika Padukone's 8-hour shift demand: 'This needs a rethink'",
-    "summary": "Alia Bhatt, the cover star of TIME's first TIME 100 Next India list, has backed Deepika Padukone's demand for eight-hour shifts in Bollywood, saying the industry's practice of 15-to-18-hour shoots needs a rethink and fair working hours should not depend on a star's clout."
-   },
    "hi": {
     "title": "आलिया भट्ट ने दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया: ‘इस पर दोबारा सोचने की ज़रूरत है’",
     "summary": "टाइम की पहली टाइम वन हंड्रेड नेक्स्ट इंडिया सूची की कवर स्टार आलिया भट्ट ने बॉलीवुड में दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया है। उन्होंने कहा कि इंडस्ट्री में पंद्रह से अठारह घंटे की शूटिंग की प्रथा पर दोबारा सोचने की ज़रूरत है, और काम के उचित घंटे किसी स्टार के रुतबे पर निर्भर नहीं होने चाहिए।"
+   },
+   "en": {
+    "title": "Alia Bhatt backs Deepika Padukone's 8-hour shift demand: 'This needs a rethink'",
+    "summary": "Alia Bhatt, the cover star of TIME's first TIME 100 Next India list, has backed Deepika Padukone's demand for eight-hour shifts in Bollywood, saying the industry's practice of 15-to-18-hour shoots needs a rethink and fair working hours should not depend on a star's clout."
    }
   },
   {
@@ -380,13 +401,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19-en.mp3",
-   "en": {
-    "title": "Sharad Kapoor says Shah Rukh Khan, Salman Khan and Sonu Sood reached out amid his health struggles",
-    "summary": "Actor Sharad Kapoor, known for films like Dastak and Josh, has said Shah Rukh Khan, Salman Khan, Sonu Sood, Rajpal Yadav and Javed Akhtar reached out to him after a video showing his difficult phase went viral, and that he is in talks with filmmakers Ahmed Khan and Rohit Shetty for a comeback in 2027."
-   },
    "hi": {
     "title": "शरद कपूर बोले, सेहत की परेशानियों के बीच शाहरुख़ ख़ान, सलमान ख़ान और सोनू सूद ने बढ़ाया मदद का हाथ",
     "summary": "दस्तक और जोश जैसी फ़िल्मों के अभिनेता शरद कपूर ने कहा है कि मुश्किल दौर की वीडियो वायरल होने के बाद शाहरुख़ ख़ान, सलमान ख़ान, सोनू सूद, राजपाल यादव और जावेद अख़्तर ने उनसे संपर्क किया। उन्होंने बताया कि वह फ़िल्म निर्माताओं अहमद ख़ान और रोहित शेट्टी से नए प्रोजेक्ट्स पर बात कर रहे हैं और दो हज़ार सत्ताईस में वापसी की उम्मीद है।"
+   },
+   "en": {
+    "title": "Sharad Kapoor says Shah Rukh Khan, Salman Khan and Sonu Sood reached out amid his health struggles",
+    "summary": "Actor Sharad Kapoor, known for films like Dastak and Josh, has said Shah Rukh Khan, Salman Khan, Sonu Sood, Rajpal Yadav and Javed Akhtar reached out to him after a video showing his difficult phase went viral, and that he is in talks with filmmakers Ahmed Khan and Rohit Shetty for a comeback in 2027."
    }
   },
   {
@@ -422,6 +443,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/versova-nana-nani-park-tree-felling-protest-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/versova-nana-nani-park-tree-felling-protest-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/versova-nana-nani-park-tree-felling-protest-november-19-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
    "hi": {
     "title": "वर्सोवा के नाना नानी पार्क में पेड़ों की कटाई पर बवाल: चिपको-स्टाइल विरोध, चार लोग हिरासत में, दिया मिर्ज़ा बोलीं, दिल टूट गया",
     "summary": "मुंबई के वर्सोवा में नाना नानी पार्क में पेड़ों की कटाई शुरू होते ही विरोध भड़क उठा है। स्थानीय लोगों ने गुरुवार को चिपको-स्टाइल विरोध किया, चार लोगों को हिरासत में लिया गया, और दिया मिर्ज़ा समेत कई कलाकारों ने बीएमसी के इस कदम पर सवाल उठाए हैं।"
@@ -429,9 +452,7 @@
    "en": {
     "title": "Tree felling at Versova Nana Nani Park sparks Chipko-style protest, four detained; Dia Mirza says hearts have been ripped apart",
     "summary": "Tree felling at Nana Nani Park in Versova has triggered a wave of protest in Mumbai. Residents held a Chipko-style demonstration on Thursday, four people were detained, and actors including Dia Mirza have questioned the civic body over the cutting."
-   },
-   "district": "Mumbai",
-   "state": "Maharashtra"
+   }
   },
   {
    "id": "gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19",
@@ -445,6 +466,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19-en.mp3",
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोरखपुर में अखिलेश यादव की रैली के दौरान फूल बरसाते बुलडोजर की चपेट में आकर छात्र की मौत",
     "summary": "गोरखपुर में अखिलेश यादव की पीडीए रथ यात्रा के दौरान फूल बरसाते बुलडोजर की चपेट में आकर दसवीं कक्षा के छात्र आर्यवर्धन सिंह की मौत हो गई। पुलिस ने बुलडोजर ज़ब्त कर लिया है और मुख्यमंत्री ने परिवार को पाँच लाख रुपये की सहायता की घोषणा की है।"
@@ -452,9 +475,7 @@
    "en": {
     "title": "Schoolboy killed by flower-showering bulldozer during Akhilesh Yadav roadshow in Gorakhpur",
     "summary": "A Class Ten student was killed in Gorakhpur after a bulldozer showering flower petals on the roadshow of Akhilesh Yadav hit him. Police have seized the vehicle, and the Chief Minister has announced five lakh rupees in assistance for the family."
-   },
-   "district": "Gorakhpur",
-   "state": "Uttar Pradesh"
+   }
   },
   {
    "id": "betul-herbal-concoction-two-dead-five-ill-november-19",
@@ -468,6 +489,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/betul-herbal-concoction-two-dead-five-ill-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-en.mp3",
+   "district": "Betul",
+   "state": "Madhya Pradesh",
    "hi": {
     "title": "बैतूल में शराब छुड़ाने के नाम पर लाल तरल पदार्थ पीने से दो की मौत, पाँच अस्पताल में",
     "summary": "बैतूल ज़िले के पाठाखेड़ा गाँव में शराब छुड़ाने के नाम पर पिलाए गए लाल तरल पदार्थ से दो लोगों की मौत हो गई और पाँच की हालत गंभीर है। पुलिस ने तीन लोगों को गिरफ़्तार किया है और तरल पदार्थ की जाँच की जा रही है।"
@@ -475,9 +498,7 @@
    "en": {
     "title": "Two die, five fall ill after drinking red liquid offered as alcohol addiction cure in Betul",
     "summary": "Two men died and five others fell seriously ill in Betul district after drinking a red liquid offered as a herbal cure for alcohol addiction. Police have arrested three people and seized the liquid for testing."
-   },
-   "district": "Betul",
-   "state": "Madhya Pradesh"
+   }
   },
   {
    "id": "bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19",
@@ -512,6 +533,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
    "hi": {
     "title": "मुंबई के लालबाग में दसवीं मंज़िल के फ्लैट में आग, चार लोग सुरक्षित बाहर निकाले गए",
     "summary": "लालबाग की पूनम पार्क बिल्डिंग की दसवीं मंज़िल के फ्लैट में गुरुवार सुबह आग लग गई। दमकल कर्मियों ने तीन बच्चों और एक महिला को सुरक्षित बाहर निकाला, किसी के घायल होने की खबर नहीं है।"
@@ -519,9 +542,7 @@
    "en": {
     "title": "Fire breaks out in tenth-floor flat in Mumbai's Lalbaug, four people rescued",
     "summary": "A fire broke out in a tenth-floor flat of Poonam Park Building in Mumbai's Lalbaug on Thursday morning. Firefighters rescued four people, including three children, and no injuries were reported."
-   },
-   "district": "Mumbai",
-   "state": "Maharashtra"
+   }
   },
   {
    "id": "shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19",
@@ -619,13 +640,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19-en.mp3",
-   "en": {
-    "title": "At FICCI's centenary convention, PM Modi says 50 crore Indians beat poverty in 12–13 years, growth at 7%",
-    "summary": "Prime Minister Narendra Modi inaugurated FICCI's centenary-year annual convention at Bharat Mandapam, saying India remains the world's fastest-growing major economy with growth projected at around 7 per cent, October exports of nearly $50 billion — the highest in a single month — and citing a World Bank report that about 50 crore Indians have come out of poverty in 12–13 years."
-   },
    "hi": {
     "title": "फ़िक्की के शताब्दी सम्मेलन में पीएम मोदी: बारह-तेरह साल में पचास करोड़ भारतीय ग़रीबी से बाहर, विकास दर सात प्रतिशत",
     "summary": "प्रधानमंत्री नरेंद्र मोदी ने भारत मंडपम में फ़िक्की के शताब्दी वर्ष के वार्षिक सम्मेलन का उद्घाटन किया। उन्होंने कहा कि भारत दुनिया की सबसे तेज़ी से बढ़ती बड़ी अर्थव्यवस्था है, विकास दर करीब सात प्रतिशत रहने का अनुमान है, अक्टूबर में निर्यात लगभग पचास अरब डॉलर रहा जो एक महीने में अब तक का सबसे ज़्यादा है, और विश्व बैंक की रिपोर्ट के अनुसार बारह-तेरह साल में करीब पचास करोड़ भारतीय ग़रीबी से बाहर आए हैं।"
+   },
+   "en": {
+    "title": "At FICCI's centenary convention, PM Modi says 50 crore Indians beat poverty in 12–13 years, growth at 7%",
+    "summary": "Prime Minister Narendra Modi inaugurated FICCI's centenary-year annual convention at Bharat Mandapam, saying India remains the world's fastest-growing major economy with growth projected at around 7 per cent, October exports of nearly $50 billion — the highest in a single month — and citing a World Bank report that about 50 crore Indians have come out of poverty in 12–13 years."
    }
   },
   {
@@ -640,13 +661,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19-hi.mp3",
    "audioEn": null,
-   "en": {
-    "title": "Bigg Boss 20: Arishfa Khan wins immunity, beats Love Gill in Uditi Singh's task; Love stays in the danger zone",
-    "summary": "Arishfa Khan has won immunity in Bigg Boss 20, beating Love Gill in a task set by captain Uditi Singh, and is safe from this week's elimination. Love Gill remains nominated and vulnerable as the Week 11 eviction approaches at the Weekend Ka Vaar."
-   },
    "hi": {
     "title": "बिग बॉस बीस: अरिश्फ़ा खान ने जीती इम्युनिटी, उदिति सिंह के टास्क में लव गिल को हराया; लव अब भी खतरे में",
     "summary": "बिग बॉस बीस में अरिश्फ़ा खान ने कप्तान उदिति सिंह के टास्क में लव गिल को हराकर इस हफ़्ते की इम्युनिटी जीत ली है और इस हफ़्ते के एलिमिनेशन से सुरक्षित हो गई हैं। लव गिल अब भी नॉमिनेटेड हैं और खतरे में हैं, जबकि ग्यारहवें हफ़्ते का एलिमिनेशन वीकेंड का वार में होगा।"
+   },
+   "en": {
+    "title": "Bigg Boss 20: Arishfa Khan wins immunity, beats Love Gill in Uditi Singh's task; Love stays in the danger zone",
+    "summary": "Arishfa Khan has won immunity in Bigg Boss 20, beating Love Gill in a task set by captain Uditi Singh, and is safe from this week's elimination. Love Gill remains nominated and vulnerable as the Week 11 eviction approaches at the Weekend Ka Vaar."
    }
   },
   {
@@ -682,6 +703,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-killed-scorpio-plunges-canal-araria-bihar-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-en.mp3",
+   "district": "Araria",
+   "state": "Bihar",
    "hi": {
     "title": "अररिया में नहर में गिरी स्कॉर्पियो, छह की मौत; तिलक समारोह से लौट रहे थे सात लोग",
     "summary": "बिहार के अररिया जिले में बुधवार देर रात बीड़ी पुल के पास एक स्कॉर्पियो नहर में गिर गई। गाड़ी में सवार सात लोगों में से छह की मौत हो गई, एक घायल है। सभी सुपौल जिले के थुम्हा गाँव के रहने वाले थे और सिकटी में तिलक समारोह से लौट रहे थे।"
@@ -689,9 +712,7 @@
    "en": {
     "title": "Six killed as Scorpio plunges into canal in Bihar's Araria; victims were returning from a tilak ceremony",
     "summary": "Six people were killed and one injured after a Scorpio carrying seven people plunged into a canal from a bridge in Bihar's Araria district late on Wednesday night. The victims, all from Thumha village in Supaul district, were returning home from a tilak ceremony in Araria's Sikti block."
-   },
-   "district": "Araria",
-   "state": "Bihar"
+   }
   },
   {
    "id": "elon-musk-pretty-foolish-500-million-republicans-midterms-november-19",
@@ -835,13 +856,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-accuses-pakistan-army-mineral-exploitation-un-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-en.mp3",
-   "en": {
-    "title": "India accuses Pakistan Army of looting mineral wealth at UN, cites Munir's mineral box shown to Trump",
-    "summary": "India's UN envoy Parvathaneni Harish accused Pakistan's military of exploiting the country's natural resources for personal gain at a Security Council meeting, pointing to Field Marshal Asim Munir displaying a box of mineral stones to foreign leaders last September."
-   },
    "hi": {
     "title": "संयुक्त राष्ट्र में भारत का पाकिस्तान की सेना पर तीखा हमला: खनिज संपदा की लूट का आरोप, मुनीर के मिनरल बॉक्स का हवाला",
     "summary": "संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पार्वथनेनि हरीश ने सुरक्षा परिषद की बैठक में पाकिस्तान की सेना पर देश की खनिज संपदा को निजी फायदे के लिए लूटने का आरोप लगाया और पिछले साल सितंबर में फील्ड मार्शल आसिम मुनीर के विदेशी नेताओं को खनिज पत्थरों का बक्सा दिखाने का हवाला दिया।"
+   },
+   "en": {
+    "title": "India accuses Pakistan Army of looting mineral wealth at UN, cites Munir's mineral box shown to Trump",
+    "summary": "India's UN envoy Parvathaneni Harish accused Pakistan's military of exploiting the country's natural resources for personal gain at a Security Council meeting, pointing to Field Marshal Asim Munir displaying a box of mineral stones to foreign leaders last September."
    }
   },
   {
@@ -856,13 +877,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/openai-amd-chip-design-14-percent-gains-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-en.mp3",
-   "en": {
-    "title": "OpenAI says its AI models squeezed up to 14% more from AMD's flagship chips, a year's work in five months",
-    "summary": "OpenAI said its AI models delivered up to 14% improvements in performance, power and area on AMD's flagship GPU designs, compressing roughly a year of chip-design progress into less than five months, with some changes already in a chip sent for manufacturing."
-   },
    "hi": {
     "title": "ओपनएआई का दावा: एआई मॉडल ने एएमडी के फ्लैगशिप चिप डिजाइन में चौदह प्रतिशत तक सुधार किया, साल भर का काम पाँच महीने में",
     "summary": "ओपनएआई ने कहा है कि उसके एआई मॉडल ने एएमडी के फ्लैगशिप ग्राफिक्स चिप डिजाइन में प्रदर्शन, बिजली की खपत और आकार में चौदह प्रतिशत तक सुधार किया है। कंपनी का कहना है कि यह करीब एक साल की डिजाइन प्रगति है, जो पाँच महीने से भी कम समय में हासिल हुई, और कुछ बदलाव पहले ही निर्माण के लिए भेजे गए चिप डिजाइन में शामिल कर लिए गए हैं।"
+   },
+   "en": {
+    "title": "OpenAI says its AI models squeezed up to 14% more from AMD's flagship chips, a year's work in five months",
+    "summary": "OpenAI said its AI models delivered up to 14% improvements in performance, power and area on AMD's flagship GPU designs, compressing roughly a year of chip-design progress into less than five months, with some changes already in a chip sent for manufacturing."
    }
   },
   {
@@ -1586,21 +1607,21 @@
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eu-45-billion-ukraine-loan-2027-reparations-november-18-hi.mp3",
    "breaking": false,
    "category": "World",
-   "en": {
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
-   },
    "featured": false,
-   "hi": {
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
-   },
    "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
    "source": "PrimeFeed Desk",
    "sub": "Europe",
    "trending": true,
-   "publishedAt": "2026-11-19T01:40:41+05:30"
+   "publishedAt": "2026-11-19T01:40:41+05:30",
+   "hi": {
+    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
+    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
+   },
+   "en": {
+    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
+    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
+   }
   },
   {
    "id": "thiruparankundram-deepam-supreme-court-tn-survey-pillars-november-18",
@@ -2204,6 +2225,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
    "hi": {
     "title": "बॉम्बे हाई कोर्ट ने बीएमसी को फटकारा: मेहमानों के लिए चमकी सड़कें, मुंबईकरों के लिए कचरे के ढेर",
     "summary": "बॉम्बे हाई कोर्ट ने बुधवार को बीएमसी को सिर्फ़ बड़े मेहमानों के आने पर मुंबई की सड़कें चमकाने को लेकर फटकार लगाई और पूछा कि आम मुंबईकरों को रोज़ यही सुविधा क्यों नहीं मिलनी चाहिए। अदालत ने प्लास्टिक पर पूर्ण प्रतिबंध पर विचार करने को कहा और कांजुरमार्ग डिपो का पंद्रह दिन में ऑडिट कराने का प्रस्ताव रखा।"
@@ -2211,9 +2234,7 @@
    "en": {
     "title": "Bombay High Court raps BMC: roads shine for royals, garbage piles up for Mumbaikars",
     "summary": "The Bombay High Court on Wednesday pulled up the BMC for cleaning up Mumbai's roads only for VIP visits, pointing to the polished Ballard Estate ahead of the British royals' visit, and asked why ordinary citizens should not get the same upkeep every day. The court also pressed for a complete plastic ban and proposed an audit of the Kanjurmarg dumping ground within 15 days."
-   },
-   "district": "Mumbai",
-   "state": "Maharashtra"
+   }
   },
   {
    "id": "durai-vaiko-dmk-40-crore-per-mla-tvk-defections-november-18",
@@ -2292,6 +2313,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18-en.mp3",
+   "district": "Kollam",
+   "state": "Kerala",
    "hi": {
     "title": "कोल्लम के कोट्टियम में बासठ स्कूली बच्चे अस्पताल में भर्ती, पास की तार-मिक्सिंग इकाई पर प्रदूषण का संदेह",
     "summary": "कोल्लम ज़िले के कोट्टियम में एक निजी स्कूल के बासठ बच्चे बुधवार को उल्टी और साँस लेने में तकलीफ़ की शिकायत के बाद अस्पताल में भर्ती कराए गए। पुलिस का कहना है कि सभी बच्चे स्थिर हैं और पास की तार-मिक्सिंग इकाई को दोबारा बंद कर दिया गया है।"
@@ -2299,9 +2322,7 @@
    "en": {
     "title": "62 students hospitalised in Kollam after breathing trouble near tar-mixing unit",
     "summary": "As many as 62 students of a private school at Kottiyam in Kollam district were hospitalised on Wednesday after complaining of nausea and breathing difficulties, allegedly due to pollution from a nearby tar-mixing unit. Police said all the children are stable and the unit has been shut down again."
-   },
-   "district": "Kollam",
-   "state": "Kerala"
+   }
   },
   {
    "id": "ramayana-1483-crore-worldwide-fifth-biggest-indian-film-november-18",
@@ -2420,6 +2441,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-army-captain-killed-vehicle-plunges-itam-river-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-army-captain-killed-vehicle-plunges-itam-river-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-army-captain-killed-vehicle-plunges-itam-river-november-18-en.mp3",
+   "district": "Imphal East",
+   "state": "Manipur",
    "hi": {
     "title": "मणिपुर में सेना का वाहन ईटाम नदी में गिरा, कैप्टन हनुमान राम की मौत, तीन जवान गंभीर",
     "summary": "इंफाल पूर्व ज़िले में लमलाई चल्लौ के पास आठवीं बिहार रेजिमेंट का बख्तरबंद वाहन ईटाम नदी में गिर गया। उनतीस साल के कैप्टन हनुमान राम की अस्पताल में मौत हो गई, तीन जवान गंभीर रूप से घायल हैं।"
@@ -2427,9 +2450,7 @@
    "en": {
     "title": "Army captain killed, three soldiers injured as vehicle plunges into Itam River in Manipur",
     "summary": "An armoured vehicle of the 8th Bihar Regiment plunged into the Itam River in Manipur's Imphal East district on Wednesday afternoon. Captain Hanuman Ram, 29, died at BABINA Hospital; three soldiers remain in critical condition."
-   },
-   "district": "Imphal East",
-   "state": "Manipur"
+   }
   },
   {
    "id": "sonia-gandhi-voter-list-case-delhi-court-seeks-police-report-november-18",
@@ -2506,13 +2527,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-notice-lokpal-show-cause-hearing-plea-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-notice-lokpal-show-cause-hearing-plea-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-notice-lokpal-show-cause-hearing-plea-november-18-en.mp3",
-   "en": {
-    "title": "Can the Lokpal issue a show-cause notice without a hearing? Supreme Court seeks its response",
-    "summary": "The Supreme Court on Wednesday sought the Lokpal's response to a plea challenging a Delhi High Court verdict which held that the anti-corruption ombudsman need not give a public servant a hearing before issuing a show-cause notice in an investigation."
-   },
    "hi": {
     "title": "बिना सुनवाई के कारण बताओ नोटिस जारी कर सकता है क्या लोकपाल? सुप्रीम कोर्ट ने माँगा जवाब",
     "summary": "सुप्रीम कोर्ट ने बुधवार को लोकपाल से उस याचिका पर जवाब माँगा है जिसमें दिल्ली हाई कोर्ट के फैसले को चुनौती दी गई है। हाई कोर्ट ने कहा था कि जाँच के सिलसिले में कारण बताओ नोटिस जारी करने से पहले लोक सेवक को सुनवाई का मौका देना ज़रूरी नहीं है।"
+   },
+   "en": {
+    "title": "Can the Lokpal issue a show-cause notice without a hearing? Supreme Court seeks its response",
+    "summary": "The Supreme Court on Wednesday sought the Lokpal's response to a plea challenging a Delhi High Court verdict which held that the anti-corruption ombudsman need not give a public servant a hearing before issuing a show-cause notice in an investigation."
    }
   },
   {
@@ -2527,16 +2548,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/azam-khan-release-order-dasna-jail-evening-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/azam-khan-release-order-dasna-jail-evening-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/azam-khan-release-order-dasna-jail-evening-november-18-en.mp3",
-   "en": {
-    "title": "Azam Khan's release order reaches Dasna jail, likely to walk free this evening",
-    "summary": "All bail formalities for Samajwadi Party leader Azam Khan were completed in the Ghaziabad Chief Judicial Magistrate's court on Wednesday. The release order has reached Dasna jail, and he is expected to walk out by around 7 pm."
-   },
+   "district": "Ghaziabad",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "दासना जेल पहुँचा आज़म खान का रिहाई परवाना, शाम सात बजे तक बाहर आने की उम्मीद",
     "summary": "गाज़ियाबाद की मुख्य न्यायिक मजिस्ट्रेट अदालत में समाजवादी पार्टी के नेता आज़म खान की जमानत की सारी औपचारिकताएँ पूरी हो गईं। रिहाई का परवाना दासना जेल पहुँच गया है और शाम सात बजे तक उनके बाहर आने की उम्मीद है।"
    },
-   "district": "Ghaziabad",
-   "state": "Uttar Pradesh"
+   "en": {
+    "title": "Azam Khan's release order reaches Dasna jail, likely to walk free this evening",
+    "summary": "All bail formalities for Samajwadi Party leader Azam Khan were completed in the Ghaziabad Chief Judicial Magistrate's court on Wednesday. The release order has reached Dasna jail, and he is expected to walk out by around 7 pm."
+   }
   },
   {
    "id": "sc-contempt-notice-pravin-singhal-cji-november-18",
@@ -2550,13 +2571,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-contempt-notice-pravin-singhal-cji-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-contempt-notice-pravin-singhal-cji-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-contempt-notice-pravin-singhal-cji-november-18-en.mp3",
-   "en": {
-    "title": "Supreme Court issues contempt notice to advocate who told CJI Surya Kant 'you do not deserve that chair'",
-    "summary": "The Supreme Court on Wednesday issued a criminal contempt notice to advocate Pravin Singhal over alleged derogatory remarks against Chief Justice of India Surya Kant in open court on November 16."
-   },
    "hi": {
     "title": "सीजेआई से 'आप इस कुर्सी के लायक नहीं' कहने वाले वकील प्रवीण सिंघल को सुप्रीम कोर्ट का अवमानना नोटिस",
     "summary": "सुप्रीम कोर्ट ने बुधवार को वकील प्रवीण सिंघल को आपराधिक अवमानना का नोटिस जारी किया। सिंघल पर सोलह नवंबर को खुली अदालत में भारत के मुख्य न्यायाधीश सूर्य कांत के खिलाफ अपमानजनक टिप्पणी करने का आरोप है।"
+   },
+   "en": {
+    "title": "Supreme Court issues contempt notice to advocate who told CJI Surya Kant 'you do not deserve that chair'",
+    "summary": "The Supreme Court on Wednesday issued a criminal contempt notice to advocate Pravin Singhal over alleged derogatory remarks against Chief Justice of India Surya Kant in open court on November 16."
    }
   },
   {
@@ -2571,13 +2592,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-centre-response-mop-judges-appointment-delay-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-centre-response-mop-judges-appointment-delay-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-centre-response-mop-judges-appointment-delay-november-18-en.mp3",
-   "en": {
-    "title": "Supreme Court seeks response from Centre over 11-year delay in finalising procedure for appointment of judges",
-    "summary": "The Supreme Court on Wednesday sought a response from the Centre on a petition over the nearly 11-year delay in finalising the revised Memorandum of Procedure for appointing judges. The petition also seeks to bring collegium decisions under the Right to Information Act."
-   },
    "hi": {
     "title": "जजों की नियुक्ति की कार्य-प्रणाली तय करने में देरी पर सुप्रीम कोर्ट ने केंद्र से जवाब माँगा",
     "summary": "सुप्रीम कोर्ट ने बुधवार को जजों की नियुक्ति की संशोधित कार्य-प्रणाली तय करने में करीब ग्यारह साल की देरी पर केंद्र सरकार से जवाब माँगा। कोर्ट ने लोक प्रहरी की याचिका पर नोटिस जारी किया, जिसमें कॉलेजियम के फ़ैसलों को सूचना के अधिकार के दायरे में लाने की माँग भी की गई है।"
+   },
+   "en": {
+    "title": "Supreme Court seeks response from Centre over 11-year delay in finalising procedure for appointment of judges",
+    "summary": "The Supreme Court on Wednesday sought a response from the Centre on a petition over the nearly 11-year delay in finalising the revised Memorandum of Procedure for appointing judges. The petition also seeks to bring collegium decisions under the Right to Information Act."
    }
   },
   {
@@ -2592,16 +2613,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-arrests-kzf-supporter-surinder-singh-us-deportation-shambhu-blast-november-18-en.mp3",
-   "en": {
-    "title": "KZF supporter Surinder Singh arrested after deportation from US; eighth arrest in Shambhu-Rajpura railway blast case",
-    "summary": "The National Investigation Agency on Wednesday arrested Surinder Singh alias Thikriwal, a supporter of the banned Khalistan Zindabad Force, at Delhi airport after his deportation from the United States. He is an accused in the Shambhu-Rajpura railway blast case, in which eight people have now been arrested."
-   },
+   "district": "Patiala",
+   "state": "Punjab",
    "hi": {
     "title": "अमेरिका से निर्वासित केज़ेडएफ़ समर्थक सुरिंदर सिंह गिरफ़्तार, शंभू-राजपुरा रेल पटरी विस्फोट मामले में आठवीं गिरफ़्तारी",
     "summary": "राष्ट्रीय अन्वेषण अभिकरण ने बुधवार को अमेरिका से निर्वासित खालिस्तान ज़िंदाबाद फ़ोर्स के समर्थक सुरिंदर सिंह उर्फ़ ठिकरीवाल को दिल्ली हवाई अड्डे पर गिरफ़्तार कर लिया। वह शंभू-राजपुरा रेल पटरी विस्फोट मामले में आरोपी है। इस मामले में अब तक आठ लोगों को गिरफ़्तार किया जा चुका है।"
    },
-   "district": "Patiala",
-   "state": "Punjab"
+   "en": {
+    "title": "KZF supporter Surinder Singh arrested after deportation from US; eighth arrest in Shambhu-Rajpura railway blast case",
+    "summary": "The National Investigation Agency on Wednesday arrested Surinder Singh alias Thikriwal, a supporter of the banned Khalistan Zindabad Force, at Delhi airport after his deportation from the United States. He is an accused in the Shambhu-Rajpura railway blast case, in which eight people have now been arrested."
+   }
   },
   {
    "id": "spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18",
@@ -2615,13 +2636,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spicejet-board-approves-rs-5500-crore-fundraise-revival-november-18-en.mp3",
-   "en": {
-    "title": "SpiceJet board clears plan to raise Rs 5,500 crore to revive airline; shares hit 5% upper circuit",
-    "summary": "Cash-strapped SpiceJet's board on Wednesday approved a proposal to raise up to Rs 5,500 crore to strengthen its finances and drive its revival. The board also cleared raising the airline's authorised share capital from Rs 2,000 crore to Rs 7,500 crore. SpiceJet shares jumped to the 5% upper circuit on the BSE after the announcement."
-   },
    "hi": {
     "title": "स्पाइसजेट बोर्ड ने पाँच हज़ार पाँच सौ करोड़ रुपये जुटाने की योजना को मंज़ूरी दी, शेयर पाँच फ़ीसदी उछले",
     "summary": "नकदी की किल्लत से जूझ रही स्पाइसजेट के बोर्ड ने बुधवार को पाँच हज़ार पाँच सौ करोड़ रुपये तक जुटाने के प्रस्ताव को मंज़ूरी दे दी। कंपनी की अधिकृत शेयर पूँजी दो हज़ार करोड़ रुपये से बढ़ाकर सात हज़ार पाँच सौ करोड़ रुपये करने पर भी सहमति बनी। खबर के बाद बीएसई पर स्पाइसजेट का शेयर पाँच फ़ीसदी की ऊपरी सीमा तक चढ़ गया।"
+   },
+   "en": {
+    "title": "SpiceJet board clears plan to raise Rs 5,500 crore to revive airline; shares hit 5% upper circuit",
+    "summary": "Cash-strapped SpiceJet's board on Wednesday approved a proposal to raise up to Rs 5,500 crore to strengthen its finances and drive its revival. The board also cleared raising the airline's authorised share capital from Rs 2,000 crore to Rs 7,500 crore. SpiceJet shares jumped to the 5% upper circuit on the BSE after the announcement."
    }
   },
   {
@@ -2636,13 +2657,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18-en.mp3",
-   "en": {
-    "title": "Shaina NC tears Bal Thackeray's photo while tearing up Sonia Gandhi's memoir — row erupts in BMC",
-    "summary": "At a protest in Mumbai on Wednesday against Sonia Gandhi's memoir 'Belonging', Shiv Sena (Shinde faction) leader Shaina NC tore up pages of the book — and, in the process, also tore a photograph of party founder Bal Thackeray. The Uddhav Thackeray faction and the Congress called it an insult to Balasaheb, while the Shinde faction insists the torn photograph was of Mani Shankar Aiyar."
-   },
    "hi": {
     "title": "किताब फाड़ते-फाड़ते बाल ठाकरे की तस्वीर फाड़ बैठीं शायना एनसी, बीएमसी में हंगामा",
     "summary": "मुंबई में बुधवार को सोनिया गांधी की किताब 'बिलॉन्गिंग' के विरोध में प्रदर्शन कर रही शिवसेना (शिंदे गुट) की नेता शायना एनसी किताब के पन्ने फाड़ते-फाड़ते पार्टी के संस्थापक बाल ठाकरे की तस्वीर भी फाड़ बैठीं। उद्धव ठाकरे गुट और कांग्रेस ने इसे बालासाहेब का अपमान बताकर हंगामा खड़ा कर दिया है, जबकि शिंदे गुट का कहना है कि फाड़ी गई तस्वीर मणिशंकर अय्यर की थी।"
+   },
+   "en": {
+    "title": "Shaina NC tears Bal Thackeray's photo while tearing up Sonia Gandhi's memoir — row erupts in BMC",
+    "summary": "At a protest in Mumbai on Wednesday against Sonia Gandhi's memoir 'Belonging', Shiv Sena (Shinde faction) leader Shaina NC tore up pages of the book — and, in the process, also tore a photograph of party founder Bal Thackeray. The Uddhav Thackeray faction and the Congress called it an insult to Balasaheb, while the Shinde faction insists the torn photograph was of Mani Shankar Aiyar."
    }
   },
   {
@@ -2657,13 +2678,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russell-brand-prison-message-investigation-hmp-littlehey-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russell-brand-prison-message-investigation-hmp-littlehey-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russell-brand-prison-message-investigation-hmp-littlehey-november-18-en.mp3",
-   "en": {
-    "title": "Russell Brand faces prison probe after message from jail is read out by his wife",
-    "summary": "Jailed comedian Russell Brand faces a fresh investigation after his wife Laura Gallacher read out a message from him on their YouTube show on Sunday, in which he maintained his innocence. Britain's Ministry of Justice is examining whether prison rules were broken, and the prime minister's office has called the episode 'clearly appalling'."
-   },
    "hi": {
     "title": "जेल से संदेश भेजने पर रसेल ब्रांड की बढ़ी मुश्किल, ब्रिटेन सरकार ने शुरू की जाँच",
     "summary": "बलात्कार और यौन उत्पीड़न के मामले में दोषी ठहराए गए कॉमेडियन रसेल ब्रांड की मुश्किलें जेल में भी बढ़ गई हैं। उनकी पत्नी लौरा गैलेचर ने रविवार को यूट्यूब शो में उनका संदेश पढ़कर सुनाया, जिसमें ब्रांड ने खुद को बेगुनाह बताया था। ब्रिटेन के न्याय मंत्रालय ने जाँच शुरू कर दी है कि क्या जेल के नियम तोड़े गए हैं।"
+   },
+   "en": {
+    "title": "Russell Brand faces prison probe after message from jail is read out by his wife",
+    "summary": "Jailed comedian Russell Brand faces a fresh investigation after his wife Laura Gallacher read out a message from him on their YouTube show on Sunday, in which he maintained his innocence. Britain's Ministry of Justice is examining whether prison rules were broken, and the prime minister's office has called the episode 'clearly appalling'."
    }
   },
   {
@@ -2678,13 +2699,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-recurves-narsapur-puri-landfall-november-20-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-recurves-narsapur-puri-landfall-november-20-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-recurves-narsapur-puri-landfall-november-20-november-18-en.mp3",
-   "en": {
-    "title": "Akvan turns north: landfall now likely between Narsapur and Puri on November 20, red alert on Odisha coast",
-    "summary": "In its latest bulletin, the IMD says Severe Cyclonic Storm Akvan has changed track — it is now likely to cross the north Andhra Pradesh and south Odisha coasts between Narsapur and Puri around noon on November 20, with winds of 90-100 kmph gusting to 110 kmph. A red message — a cyclone warning — has been issued for the north Andhra Pradesh, Yanam and south Odisha coasts."
-   },
    "hi": {
     "title": "अकवान ने मोड़ा रास्ता: अब २० नवंबर को नरसापुर–पुरी के बीच टकराएगा, ओडिशा तट पर रेड अलर्ट",
     "summary": "मौसम विभाग के ताज़ा बुलेटिन के मुताबिक भीषण चक्रवाती तूफ़ान अकवान ने रास्ता बदल लिया है — अब यह २० नवंबर की दोपहर के आसपास नरसापुर और पुरी के बीच उत्तर आंध्र प्रदेश और दक्षिण ओडिशा के तट को पार करेगा, उस समय हवा की रफ़्तार ९० से १०० किलोमीटर प्रति घंटा और झोंके ११० किलोमीटर प्रति घंटे तक रह सकते हैं। उत्तर आंध्र प्रदेश, यनम और दक्षिण ओडिशा के तटों के लिए रेड मैसेज जारी कर दिया गया है।"
+   },
+   "en": {
+    "title": "Akvan turns north: landfall now likely between Narsapur and Puri on November 20, red alert on Odisha coast",
+    "summary": "In its latest bulletin, the IMD says Severe Cyclonic Storm Akvan has changed track — it is now likely to cross the north Andhra Pradesh and south Odisha coasts between Narsapur and Puri around noon on November 20, with winds of 90-100 kmph gusting to 110 kmph. A red message — a cyclone warning — has been issued for the north Andhra Pradesh, Yanam and south Odisha coasts."
    }
   },
   {
@@ -2699,13 +2720,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/xi-greets-trump-tarmac-shenzhen-historic-trilateral-putin-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/xi-greets-trump-tarmac-shenzhen-historic-trilateral-putin-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/xi-greets-trump-tarmac-shenzhen-historic-trilateral-putin-november-18-en.mp3",
-   "en": {
-    "title": "Xi greets Trump on the tarmac in Shenzhen ahead of historic three-way summit with Putin",
-    "summary": "Chinese President Xi Jinping personally received US President Donald Trump at Shenzhen airport on Wednesday — the first time he has greeted a visiting foreign leader on arrival since taking office in 2013. The two leaders will join Russia's Vladimir Putin on Thursday for the first-ever trilateral summit of the three powers."
-   },
    "hi": {
     "title": "शी ने शेनझेन एयरपोर्ट पर खुद जाकर किया ट्रंप का स्वागत, कल पुतिन के साथ ऐतिहासिक त्रिपक्षीय बैठक",
     "summary": "चीन के राष्ट्रपति शी जिनपिंग बुधवार को शेनझेन एयरपोर्ट पर खुद पहुँचकर अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप का स्वागत किया। २०१३ में राष्ट्रपति बनने के बाद पहली बार शी ने किसी विदेशी नेता का एयरपोर्ट पर इस तरह स्वागत किया है। गुरुवार को दोनों नेता रूस के राष्ट्रपति व्लादिमीर पुतिन के साथ पहली बार होने वाली त्रिपक्षीय बैठक में शामिल होंगे।"
+   },
+   "en": {
+    "title": "Xi greets Trump on the tarmac in Shenzhen ahead of historic three-way summit with Putin",
+    "summary": "Chinese President Xi Jinping personally received US President Donald Trump at Shenzhen airport on Wednesday — the first time he has greeted a visiting foreign leader on arrival since taking office in 2013. The two leaders will join Russia's Vladimir Putin on Thursday for the first-ever trilateral summit of the three powers."
    }
   },
   {
@@ -2720,13 +2741,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cameron-bancroft-sandpapergate-whole-team-knew-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cameron-bancroft-sandpapergate-whole-team-knew-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cameron-bancroft-sandpapergate-whole-team-knew-november-18-en.mp3",
-   "en": {
-    "title": "Bancroft breaks silence on Sandpapergate: 'The whole team knew', I became the scapegoat",
-    "summary": "Former Australia opener Cameron Bancroft has broken an eight-year silence to say the whole team knew about the 2018 ball-tampering plan, and that he deliberately withheld the truth from Cricket Australia's investigation."
-   },
    "hi": {
     "title": "बैनक्रॉफ़्ट का बड़ा खुलासा: सैंडपेपर कांड में पूरी टीम शामिल थी, मैं बलि का बकरा बना",
     "summary": "ऑस्ट्रेलिया के पूर्व सलामी बल्लेबाज़ कैमरन बैनक्रॉफ़्ट ने आठ साल बाद चुप्पी तोड़ते हुए कहा है कि दो हज़ार अठारह के सैंडपेपर कांड के बारे में पूरी टीम जानती थी, और जाँच में उन्होंने जानबूझकर सच छिपाया था।"
+   },
+   "en": {
+    "title": "Bancroft breaks silence on Sandpapergate: 'The whole team knew', I became the scapegoat",
+    "summary": "Former Australia opener Cameron Bancroft has broken an eight-year silence to say the whole team knew about the 2018 ball-tampering plan, and that he deliberately withheld the truth from Cricket Australia's investigation."
    }
   },
   {
@@ -2741,13 +2762,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18-en.mp3",
-   "en": {
-    "title": "'Radhe Radhe, Kamal Khila De': BJP sounds 2027 UP poll bugle from Mathura",
-    "summary": "The BJP has unveiled a new slogan, 'Radhe Radhe, Kamal Khila De', at its two-day organisational meeting in Mathura, with party president Nitin Nabin endorsing a four-point roadmap for the 2027 Uttar Pradesh Assembly elections."
-   },
    "hi": {
     "title": "राधे राधे, कमल खिला दे: मथुरा में भाजपा ने दो हज़ार सत्ताईस के चुनाव का बिगुल बजाया",
     "summary": "मथुरा में भाजपा की दो दिन की बैठक में दो हज़ार सत्ताईस के विधानसभा चुनाव के लिए नया नारा राधे राधे, कमल खिला दे दिया गया, और पार्टी अध्यक्ष नितिन नबीन ने चार सूत्रीय कार्ययोजना पर मुहर लगाई।"
+   },
+   "en": {
+    "title": "'Radhe Radhe, Kamal Khila De': BJP sounds 2027 UP poll bugle from Mathura",
+    "summary": "The BJP has unveiled a new slogan, 'Radhe Radhe, Kamal Khila De', at its two-day organisational meeting in Mathura, with party president Nitin Nabin endorsing a four-point roadmap for the 2027 Uttar Pradesh Assembly elections."
    }
   },
   {
@@ -2762,13 +2783,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-first-bollywood-film-50-crore-kerala-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-first-bollywood-film-50-crore-kerala-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-first-bollywood-film-50-crore-kerala-november-18-en.mp3",
-   "en": {
-    "title": "Ramayana becomes first Bollywood film to cross Rs 50 crore in Kerala",
-    "summary": "Ramayana: Part 1 has become the first Bollywood film ever to gross Rs 50 crore in Kerala, crossing the mark in 13 days and leaving the previous Bollywood record far behind."
-   },
    "hi": {
     "title": "रामायण केरल में पचास करोड़ रुपये पार करने वाली पहली बॉलीवुड फिल्म बनी",
     "summary": "रामायण: भाग १ तेरह दिनों में केरल में पचास करोड़ रुपये की कमाई पार कर पहली बॉलीवुड फिल्म बन गई है, जो पिछले बॉलीवुड रिकॉर्ड से कहीं आगे है।"
+   },
+   "en": {
+    "title": "Ramayana becomes first Bollywood film to cross Rs 50 crore in Kerala",
+    "summary": "Ramayana: Part 1 has become the first Bollywood film ever to gross Rs 50 crore in Kerala, crossing the mark in 13 days and leaving the previous Bollywood record far behind."
    }
   },
   {
@@ -2783,13 +2804,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-first-indigenous-h5n1-bird-flu-vaccine-november-20-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-indigenous-h5n1-bird-flu-vaccine-november-20-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-indigenous-h5n1-bird-flu-vaccine-november-20-november-18-en.mp3",
-   "en": {
-    "title": "India develops first indigenous H5N1 bird flu vaccine for chickens, to be dedicated on November 20",
-    "summary": "India has developed its first indigenous vaccine against H5N1 bird flu for chickens, and Union Agriculture Minister Shivraj Singh Chouhan will dedicate it to the nation in Bhopal on November 20."
-   },
    "hi": {
     "title": "भारत ने बनाई बर्ड फ्लू की पहली स्वदेशी एच५एन१ वैक्सीन, बीस नवंबर को राष्ट्र को समर्पित होगी",
     "summary": "भारत ने मुर्गियों के लिए बर्ड फ्लू के खिलाफ पहली स्वदेशी वैक्सीन तैयार कर ली है, जिसे केंद्रीय कृषि मंत्री शिवराज सिंह चौहान बीस नवंबर को भोपाल में राष्ट्र को समर्पित करेंगे।"
+   },
+   "en": {
+    "title": "India develops first indigenous H5N1 bird flu vaccine for chickens, to be dedicated on November 20",
+    "summary": "India has developed its first indigenous vaccine against H5N1 bird flu for chickens, and Union Agriculture Minister Shivraj Singh Chouhan will dedicate it to the nation in Bhopal on November 20."
    }
   },
   {
@@ -2804,13 +2825,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-stops-h200-chip-shipments-china-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-stops-h200-chip-shipments-china-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-stops-h200-chip-shipments-china-november-18-en.mp3",
-   "en": {
-    "title": "Nvidia stops shipping H200 AI chips to China, ends licensed sales",
-    "summary": "Nvidia has stopped shipping its H200 AI chips to China, interim chief executive Colette Kress said on the company earnings call, ending the licensed sales route brokered by Jensen Huang and Donald Trump."
-   },
    "hi": {
     "title": "एनवीडिया ने चीन को एच-२०० चिप की सप्लाई रोकी, लाइसेंस वाली बिक्री बंद",
     "summary": "एनवीडिया की अंतरिम मुख्य कार्यकारी कोलेट क्रेस ने कहा कि कंपनी ने चीन को एच-२०० एआई चिप की सप्लाई रोक दी है, जिससे जेन्सेन हुआंग और डॉनल्ड ट्रंप के बीच तय लाइसेंस वाली बिक्री व्यवस्था खत्म हो गई।"
+   },
+   "en": {
+    "title": "Nvidia stops shipping H200 AI chips to China, ends licensed sales",
+    "summary": "Nvidia has stopped shipping its H200 AI chips to China, interim chief executive Colette Kress said on the company earnings call, ending the licensed sales route brokered by Jensen Huang and Donald Trump."
    }
   },
   {
@@ -2825,13 +2846,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adnoc-vessel-attacked-strait-of-hormuz-one-missing-eleven-injured-november-18-en.mp3",
-   "en": {
-    "title": "ADNOC vessel attacked in Strait of Hormuz, one crew member missing, eleven injured",
-    "summary": "ADNOC Logistics & Services said on Wednesday that one of its vessels was attacked on Tuesday evening while transiting the Strait of Hormuz, leaving one crew member missing and 11 injured."
-   },
    "hi": {
     "title": "होर्मुज़ में एडनॉक के जहाज़ पर हमला, एक नाविक लापता और ग्यारह घायल",
     "summary": "संयुक्त अरब अमीरात की सरकारी तेल कंपनी एडनॉक की शिपिंग इकाई ने बुधवार को कहा कि मंगलवार शाम होर्मुज़ जलडमरूमध्य से गुज़रते समय उसके एक जहाज़ पर हमला हुआ, जिसमें एक नाविक लापता हो गया और ग्यारह घायल हो गए।"
+   },
+   "en": {
+    "title": "ADNOC vessel attacked in Strait of Hormuz, one crew member missing, eleven injured",
+    "summary": "ADNOC Logistics & Services said on Wednesday that one of its vessels was attacked on Tuesday evening while transiting the Strait of Hormuz, leaving one crew member missing and 11 injured."
    }
   },
   {
@@ -2909,6 +2930,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18-en.mp3",
+   "district": "Chatra",
+   "state": "Jharkhand",
    "hi": {
     "title": "चतरा में एनटीपीसी प्लांट में बड़ा हादसा, निर्माणाधीन कन्वेयर बेल्ट गिरने से तीन मज़दूरों की मौत",
     "summary": "झारखंड के चतरा ज़िले के तंडवा स्थित एनटीपीसी के नॉर्थ कर्णपुरा प्रोजेक्ट में बुधवार को निर्माणाधीन कन्वेयर बेल्ट का ढांचा गिर गया। हादसे में तीन मज़दूरों की मौत हो गई और दो घायल हो गए।"
@@ -2916,9 +2939,7 @@
    "en": {
     "title": "Three workers killed as under-construction conveyor belt collapses at NTPC plant in Jharkhand's Chatra",
     "summary": "Three contract workers were killed and two injured when an under-construction coal conveyor belt structure collapsed at NTPC's North Karanpura project in Tandwa, Chatra district, on Wednesday."
-   },
-   "district": "Chatra",
-   "state": "Jharkhand"
+   }
   },
   {
    "id": "bombay-hc-quashes-icici-sanction-prosecute-chanda-kochhar-november-18",
@@ -2953,6 +2974,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-jhalidham-akshay-navami-parikrama-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-jhalidham-akshay-navami-parikrama-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-jhalidham-akshay-navami-parikrama-november-18-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "अक्षय नवमी पर गोंडा के झाली धाम में उमड़ा आस्था का सैलाब, चार किलोमीटर लंबी परिक्रमा",
     "summary": "अक्षय नवमी पर गोंडा के खरगूपुर स्थित झाली धाम आश्रम में श्रद्धालुओं का सैलाब उमड़ा। सुबह करीब नौ बजे शुरू हुई चार किलोमीटर लंबी परिक्रमा में गोंडा के साथ बहराइच, बलरामपुर और श्रावस्ती के श्रद्धालु शामिल हुए।"
@@ -2960,9 +2983,7 @@
    "en": {
     "title": "Akshay Navami: Devotees throng Jhalidham in Gonda for four-km parikrama",
     "summary": "Devotees gathered in large numbers at Jhalidham Ashram in Khargupur, Gonda, for the annual Akshay Navami parikrama on Wednesday. The four-kilometre procession, which began at nine in the morning, also drew devotees from Bahraich, Balrampur and Shravasti."
-   },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
+   }
   },
   {
    "id": "akhilesh-yadav-pda-rath-yatra-gorakhpur-roadshow-november-18",
@@ -2976,6 +2997,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/akhilesh-yadav-pda-rath-yatra-gorakhpur-roadshow-november-18.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akhilesh-yadav-pda-rath-yatra-gorakhpur-roadshow-november-18-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akhilesh-yadav-pda-rath-yatra-gorakhpur-roadshow-november-18-en.mp3",
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोरखपुर में अखिलेश की बीस किलोमीटर पीडीए रथ यात्रा, योगी के गढ़ में शक्ति प्रदर्शन",
     "summary": "समाजवादी पार्टी अध्यक्ष अखिलेश यादव ने बुधवार को गोरखपुर में करीब बीस किलोमीटर लंबी पीडीए रथ यात्रा निकाली। उन्होंने चौरी चौरा में स्वतंत्रता सेनानी बाबू बंधु सिंह की मूर्ति का अनावरण किया और शहीद स्मारक पर श्रद्धांजलि दी।"
@@ -2983,9 +3006,7 @@
    "en": {
     "title": "Akhilesh Yadav takes 20-km PDA Rath Yatra through Gorakhpur, Yogi's home turf",
     "summary": "Samajwadi Party chief Akhilesh Yadav on Wednesday took a nearly 20-km PDA Rath Yatra through Gorakhpur, Chief Minister Yogi Adityanath's home turf. He unveiled a statue of freedom fighter Babu Bandhu Singh at Chauri Chaura and paid tribute at the martyrs' memorial."
-   },
-   "district": "Gorakhpur",
-   "state": "Uttar Pradesh"
+   }
   },
   {
    "id": "sports-ministry-14-member-committee-sustainable-sports-leagues-november-18",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "BJP calls Rahul Gandhi 'leader of anti-India propaganda' over Columbia 'economic disaster' remark",
     "summary": "The BJP hit back sharply at Rahul Gandhi over his remarks at Columbia University, where he said India faces an 'economic disaster'. The party said running India down on foreign soil has become a recurring pattern for the Congress leader, and cited IMF, Moody's and World Bank data to counter the claim."
-   }
-  },
-  {
-   "id": "nepal-import-350-mw-power-india-winter-november-18",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T13:00:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-import-350-mw-power-india-winter-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-import-350-mw-power-india-winter-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-import-350-mw-power-india-winter-november-18-en.mp3",
-   "hi": {
-    "title": "सर्दियों में नेपाल को भारत से ३५० मेगावाट बिजली, १७ नवंबर से ३१ जुलाई तक आयात की मंजूरी",
-    "summary": "भारत के केंद्रीय विद्युत प्राधिकरण ने नेपाल विद्युत प्राधिकरण को इंडियन एनर्जी एक्सचेंज से प्रतिस्पर्धी दरों पर रोज़ाना १७ घंटे तक बिजली खरीदने की मंजूरी दी है। सर्दियों में नदियों का जलस्तर घटने और अगस्त की बाढ़ से ४३१ मेगावाट क्षमता ठप होने के बाद नेपाल को आयात का सहारा लेना पड़ रहा है।"
-   },
-   "en": {
-    "title": "Nepal gets nod to import 350 MW power from India this winter, approval valid till July 31",
-    "summary": "India's Central Electricity Authority has authorised the Nepal Electricity Authority to buy electricity from the Indian Energy Exchange at competitive rates for up to 17 hours a day. The approval, valid from November 17, 2026 to July 31, 2027, comes as winter river flows fall and 431 MW of hydropower capacity stays disconnected after the August floods."
    }
   }
  ]
