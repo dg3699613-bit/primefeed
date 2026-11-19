@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-19T18:13:06+05:30",
+ "updatedAt": "2026-11-19T18:35:58+05:30",
  "articles": [
+  {
+   "id": "bombay-hc-halts-dawood-musafirkhana-demolition-november-25-november-19",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T18:30:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-halts-dawood-musafirkhana-demolition-november-25-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-halts-dawood-musafirkhana-demolition-november-25-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-halts-dawood-musafirkhana-demolition-november-25-november-19-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "बॉम्बे हाईकोर्ट ने दाऊद इब्राहिम के पुराने घर मुसाफ़िरख़ाना का विध्वंस रोका, पच्चीस नवंबर तक यथास्थिति का आदेश",
+    "summary": "बॉम्बे हाईकोर्ट ने गुरुवार को दक्षिण मुंबई के भिंडी बाज़ार में भगोड़े गैंगस्टर दाऊद इब्राहिम के पुराने घर हाजी इस्माइल हाजी हबीब मुसाफ़िरख़ाना के आगे के विध्वंस पर रोक लगा दी। बीएमसी ने गुरुवार सुबह ही इमारत को तोड़ना शुरू कर दिया था, जिसके बाद अदालत ने पच्चीस नवंबर तक यथास्थिति बनाए रखने का आदेश दिया।"
+   },
+   "en": {
+    "title": "Bombay High Court halts demolition of Dawood Ibrahim's Musafirkhana home, orders status quo till November 25",
+    "summary": "The Bombay High Court on Thursday halted further demolition of the Haji Ismail Haji Habib Musafirkhana in Mumbai's Bhendi Bazaar, the building that once housed fugitive gangster Dawood Ibrahim. The BMC had begun pulling down the structure on Thursday morning before the court stepped in and ordered status quo till November 25."
+   }
+  },
   {
    "id": "ahmedabad-cyber-crime-dark-web-drug-network-telegram-fir-november-19",
    "category": "Crime & Law",
@@ -3184,27 +3207,6 @@
    "en": {
     "title": "Three workers killed as under-construction conveyor belt collapses at NTPC plant in Jharkhand's Chatra",
     "summary": "Three contract workers were killed and two injured when an under-construction coal conveyor belt structure collapsed at NTPC's North Karanpura project in Tandwa, Chatra district, on Wednesday."
-   }
-  },
-  {
-   "id": "bombay-hc-quashes-icici-sanction-prosecute-chanda-kochhar-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T14:43:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-quashes-icici-sanction-prosecute-chanda-kochhar-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-quashes-icici-sanction-prosecute-chanda-kochhar-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-quashes-icici-sanction-prosecute-chanda-kochhar-november-18-en.mp3",
-   "hi": {
-    "title": "बॉम्बे हाई कोर्ट से चंदा कोचर को बड़ी राहत, वीडियोकॉन लोन केस में अभियोजन की मंज़ूरी रद्द",
-    "summary": "बॉम्बे हाई कोर्ट ने बुधवार को आईसीआईसीआई बैंक की पूर्व सीईओ चंदा कोचर के ख़िलाफ़ वीडियोकॉन लोन मामले में अभियोजन की मंज़ूरी रद्द कर दी। कोर्ट ने कहा कि मंज़ूरी देने वाले प्राधिकारी ने अपने दिमाग़ का इस्तेमाल ही नहीं किया था।"
-   },
-   "en": {
-    "title": "Bombay High Court gives Chanda Kochhar big relief, quashes sanction to prosecute her in Videocon loan case",
-    "summary": "The Bombay High Court on Wednesday quashed the sanction granted by ICICI Bank to prosecute its former CEO Chanda Kochhar in the Videocon loan case, holding that the authority which granted it had failed to apply its mind."
    }
   }
  ]
