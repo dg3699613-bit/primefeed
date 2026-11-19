@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T00:10:54+05:30",
+ "updatedAt": "2026-11-20T00:24:25+05:30",
  "articles": [
+  {
+   "id": "kashmir-free-locally-recruited-terrorists-amit-shah-november-19",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-20T00:20:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kashmir-free-locally-recruited-terrorists-amit-shah-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-free-locally-recruited-terrorists-amit-shah-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-free-locally-recruited-terrorists-amit-shah-november-19-en.mp3",
+   "hi": {
+    "title": "पैंतीस साल बाद कश्मीर स्थानीय आतंकियों से मुक्त: अमित शाह ने कहा, बड़ी उपलब्धि हासिल हुई",
+    "summary": "केंद्रीय गृह मंत्री अमित शाह ने गुरुवार को नई दिल्ली में कहा कि लश्कर आतंकी लतीफ़ भट के मारे जाने के बाद कश्मीर में अब कोई स्थानीय आतंकी नहीं बचा है। उन्होंने इसे आतंकवाद के ख़िलाफ़ लड़ाई में पैंतीस साल बाद मिली बड़ी उपलब्धि बताया और कहा कि विदेश में छिपे अपराधियों को भी भारत लाया जाएगा।"
+   },
+   "en": {
+    "title": "Kashmir free of locally recruited terrorists after 35 years, says Amit Shah",
+    "summary": "Union Home Minister Amit Shah said on Thursday that with the killing of LeT terrorist Lateef Bhat, Kashmir no longer has any locally recruited terrorist left. Calling it a major milestone after 35 years, he said offenders hiding abroad must also be brought back to face Indian courts."
+   }
+  },
+  {
+   "id": "cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T00:20:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20-en.mp3",
+   "hi": {
+    "title": "चक्रवात अकवान: ओडिशा में एक लाख बीस हज़ार से ज़्यादा लोग सुरक्षित जगहों पर, उनहत्तर ट्रेनें रद्द",
+    "summary": "भीषण चक्रवाती तूफ़ान अकवान के शुक्रवार दोपहर गोपालपुर के पास तट से टकराने से पहले ओडिशा में एक लाख बीस हज़ार से ज़्यादा लोगों को सुरक्षित जगहों पर पहुँचाया जा चुका है। पूर्व तट रेलवे ने इकतालीस और दक्षिण पूर्व रेलवे ने अट्ठाईस ट्रेनें रद्द कर दी हैं।"
+   },
+   "en": {
+    "title": "Cyclone Akvan: Over 1.2 lakh evacuated in Odisha, 69 trains cancelled as landfall nears",
+    "summary": "Odisha has evacuated more than 1.2 lakh people to safety ahead of Severe Cyclonic Storm Akvan's landfall near Gopalpur on Friday afternoon. The East Coast Railway has cancelled 41 trains and the South Eastern Railway 28, while over 300 rescue teams stand deployed."
+   }
+  },
   {
    "id": "assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19",
    "category": "Crime & Law",
@@ -417,7 +459,7 @@
    "category": "World",
    "sub": "Asia",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-19T19:38:35+05:30",
    "source": "PrimeFeed Desk",
@@ -3171,48 +3213,6 @@
    "en": {
     "title": "Supreme Court issues notice to Congress, AAP and others on Delhi traders' plea against protests",
     "summary": "The Supreme Court has sought responses from the Congress, Aam Aadmi Party, CJP and AISA on a petition by Delhi traders who say last month's protests against the Chief Election Commissioner disrupted business in Central Delhi. The matter will be heard on November 27."
-   }
-  },
-  {
-   "id": "india-us-trade-deal-signing-delayed-tariff-framework-november-18",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T18:25:21+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-us-trade-deal-signing-delayed-tariff-framework-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-us-trade-deal-signing-delayed-tariff-framework-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-us-trade-deal-signing-delayed-tariff-framework-november-18-en.mp3",
-   "hi": {
-    "title": "भारत-अमेरिका व्यापार समझौता लगभग तैयार, पर हस्ताक्षर में अभी देर होगी: वाणिज्य सचिव",
-    "summary": "वाणिज्य सचिव राजेश अग्रवाल ने बुधवार को कहा कि भारत-अमेरिका व्यापार समझौते की बातचीत और कानूनी मसौदा लगभग पूरा हो चुका है, लेकिन औपचारिक हस्ताक्षर में अभी समय लगेगा, क्योंकि अमेरिका को पहले अपना नया टैरिफ ढाँचा तय करना है और धारा तीन सौ एक की जाँचें पूरी करनी हैं।"
-   },
-   "en": {
-    "title": "India-US trade deal nearly done, but signing will have to wait, says Commerce Secretary",
-    "summary": "Commerce Secretary Rajesh Agrawal said on Wednesday that negotiations and the legal text of the India-US trade agreement are almost complete, but the formal signing will take time until Washington finalises its new tariff framework and concludes its Section 301 investigations."
-   }
-  },
-  {
-   "id": "israel-concentrated-operation-central-gaza-yellow-line-november-18",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T18:32:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israel-concentrated-operation-central-gaza-yellow-line-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israel-concentrated-operation-central-gaza-yellow-line-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israel-concentrated-operation-central-gaza-yellow-line-november-18-en.mp3",
-   "hi": {
-    "title": "इज़रायल ने मध्य गाज़ा के तीन इलाकों में 'केंद्रित अभियान' शुरू किया",
-    "summary": "इज़रायली सेना ने कहा है कि उसने 'येलो लाइन' के पश्चिम में मध्य गाज़ा के तीन इलाकों में 'केंद्रित अभियान' शुरू कर दिया है। अक्टूबर के युद्धविराम के बावजूद पूरे इलाक़े में हमले और ध्वस्तीकरण जारी हैं।"
-   },
-   "en": {
-    "title": "Israel launches 'concentrated operation' in three areas of central Gaza",
-    "summary": "The Israeli military said it has begun a 'concentrated operation' in three areas of central Gaza, west of the 'yellow line' demarcation, to eliminate what it called a threat to its forces, as strikes and demolitions continued across the enclave despite the October ceasefire."
    }
   }
  ]
