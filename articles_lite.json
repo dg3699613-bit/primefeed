@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T15:01:57+05:30",
+ "updatedAt": "2026-11-19T15:09:18+05:30",
  "articles": [
+  {
+   "id": "neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19",
+   "category": "Education",
+   "sub": "Govt Exams",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T15:07:04+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19-en.mp3",
+   "hi": {
+    "title": "नीट पेपर लीक: चौदह आरोपियों पर चलेगा मुकदमा, पच्चीस नवंबर से रोज़ाना सुनवाई; तीन एनटीए विशेषज्ञ भी आरोपी",
+    "summary": "दिल्ली की फास्ट-ट्रैक अदालत ने नीट-यूजी दो हज़ार छब्बीस पेपर लीक मामले में चौदह आरोपियों के खिलाफ आरोप तय करने का आदेश दिया है। औपचारिक आरोप इक्कीस नवंबर को तय होंगे और रोज़ाना सुनवाई पच्चीस नवंबर से शुरू होगी।"
+   },
+   "en": {
+    "title": "NEET paper leak: Charges framed against 14 accused, day-to-day trial from November 25",
+    "summary": "A Delhi fast-track court has ordered framing of charges against fourteen accused in the NEET-UG twenty twenty-six paper leak case. Formal charges will be framed on November twenty-one and the day-to-day trial begins on November twenty-five."
+   }
+  },
   {
    "id": "trump-xi-putin-first-trilateral-summit-held-shenzhen-november-19",
    "category": "World",
@@ -3170,29 +3191,6 @@
    "en": {
     "title": "India condemns Hormuz tanker attack, one Indian seafarer still missing",
     "summary": "The foreign ministry said 21 of the 24 Indians on board the Panama-flagged LPG tanker MT Tara Gas were brought safely ashore at Khasab in Oman after the November 16 attack, two injured crew are in hospital, and one seafarer remains missing."
-   }
-  },
-  {
-   "id": "spicejet-mumbai-airport-no-departures-12-hours-hundreds-stranded-november-18",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T11:27:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/spicejet-mumbai-airport-no-departures-12-hours-hundreds-stranded-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spicejet-mumbai-airport-no-departures-12-hours-hundreds-stranded-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/spicejet-mumbai-airport-no-departures-12-hours-hundreds-stranded-november-18-en.mp3",
-   "district": "Mumbai Suburban",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "मुंबई हवाई अड्डे पर स्पाइसजेट की उड़ानें बारह घंटे ठप, सैकड़ों यात्री रातभर फँसे रहे",
-    "summary": "मंगलवार शाम सात बजे के बाद मुंबई से स्पाइसजेट की कोई उड़ान नहीं उड़ी। बारह उड़ानें रद्द हुईं, दिल्ली जाने वाली उड़ान साढ़े चार घंटे देरी से तड़के रवाना हुई और सैकड़ों यात्री रातभर हवाई अड्डे पर फँसे रहे।"
-   },
-   "en": {
-    "title": "SpiceJet flights from Mumbai grounded for over 12 hours, hundreds of passengers stranded overnight",
-    "summary": "No SpiceJet flight took off from Mumbai after 7 pm on Tuesday. Twelve flights were cancelled, the Delhi flight left nearly four-and-a-half hours late in the early hours, and hundreds of passengers spent the night stranded at the airport."
    }
   }
  ]
