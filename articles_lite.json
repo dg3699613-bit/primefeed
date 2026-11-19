@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T07:09:16+05:30",
+ "updatedAt": "2026-11-19T07:29:57+05:30",
  "articles": [
+  {
+   "id": "india-canada-defence-pact-modi-december-visit-patnaik-november-18",
+   "category": "World",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T07:26:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-canada-defence-pact-modi-december-visit-patnaik-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-defence-pact-modi-december-visit-patnaik-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-defence-pact-modi-december-visit-patnaik-november-18-en.mp3",
+   "hi": {
+    "title": "मोदी की दिसंबर यात्रा के दौरान भारत-कनाडा रक्षा समझौते की उम्मीद, दूत बोले — भरोसा अब तक के सबसे ऊँचे स्तर पर",
+    "summary": "भारत के उच्चायुक्त दिनेश पटनायक ने कहा है कि प्रधानमंत्री नरेंद्र मोदी की ग्यारह और बारह दिसंबर को कनाडा की आधिकारिक यात्रा के दौरान भारत और कनाडा रक्षा समझौते का ऐलान कर सकते हैं। उन्होंने कहा कि दोनों देश मुक्त व्यापार समझौते को अंतिम रूप देने के भी बेहद क़रीब हैं, जो बरसों से तनावपूर्ण रहे रिश्तों में बड़ा मोड़ होगा।"
+   },
+   "en": {
+    "title": "India, Canada eye defence pact during Modi's December visit as envoy says trust at 'highest levels'",
+    "summary": "India and Canada could announce a defence agreement during Prime Minister Narendra Modi's visit to Canada on December 11 and 12, India's High Commissioner Dinesh Patnaik has said, adding that the two countries are also on the cusp of finalising a free-trade deal after years of strained ties."
+   }
+  },
   {
    "id": "bumrah-third-wicket-new-zealand-89-5-second-session-wellington-test-november-19",
    "category": "Cricket & Sports",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "Hours after Bahrain drone attack, US strikes Iran's Qeshm Island — Tehran says no damage",
     "summary": "The United States carried out several strikes on Iran's Qeshm Island on Tuesday evening, hours after Iranian drones targeted a US-operated radar system in Bahrain. Iranian officials said the strikes caused no damage to homes or infrastructure."
-   }
-  },
-  {
-   "id": "russian-an12-crash-kemerovo-17-killed-november-17",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T00:41:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-an12-crash-kemerovo-17-killed-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-an12-crash-kemerovo-17-killed-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-an12-crash-kemerovo-17-killed-november-17-en.mp3",
-   "hi": {
-    "title": "साइबेरिया में रूसी सैन्य विमान हादसे का शिकार — एएन-12 के सवार सभी उन्नीस लोगों की मौत की खबर",
-    "summary": "रूस के केमेरोवो क्षेत्र में मंगलवार को एक सैन्य एएन-12 परिवहन विमान हादसे का शिकार हो गया। रूसी रक्षा मंत्रालय के मुताबिक विमान में सवार सभी उन्नीस लोगों की मौत हो गई है — शुरुआती जाँच में तकनीकी खराबी की आशंका जताई गई है।"
-   },
-   "en": {
-    "title": "Russian military An-12 crashes in Siberia, all 19 on board killed",
-    "summary": "A Russian military An-12 transport plane crashed near the village of Yagunovo in Siberia's Kemerovo region on Tuesday. Russia's Defence Ministry said all 19 people on board were killed; a technical malfunction is the preliminary cause."
    }
   }
  ]
