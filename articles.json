@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-19T05:16:10+05:30",
+ "updatedAt": "2026-11-19T05:30:18+05:30",
  "articles": [
+  {
+   "id": "russian-an-12-military-plane-crashes-siberia-19-killed-november-17",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T05:27:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-an-12-military-plane-crashes-siberia-19-killed-november-17.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-an-12-military-plane-crashes-siberia-19-killed-november-17-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-an-12-military-plane-crashes-siberia-19-killed-november-17-en.mp3",
+   "hi": {
+    "title": "साइबेरिया में रूसी सैन्य विमान दुर्घटनाग्रस्त, सवार सभी उन्नीस लोगों की मौत",
+    "summary": "रूस का एएन-बारह सैन्य परिवहन विमान मंगलवार को दक्षिण-पश्चिमी साइबेरिया के केमेरोवो क्षेत्र में दुर्घटनाग्रस्त हो गया। रक्षा मंत्रालय ने कहा कि विमान में सवार चालक दल सहित सभी उन्नीस लोगों की मौत हो गई है, और प्रारंभिक कारण तकनीकी खराबी माना जा रहा है।",
+    "body": "मॉस्को: रूस का एक सैन्य परिवहन विमान मंगलवार को दक्षिण-पश्चिमी साइबेरिया के केमेरोवो क्षेत्र में दुर्घटनाग्रस्त हो गया, जिससे उसमें सवार सभी उन्नीस लोगों की मौत हो गई। रूस के रक्षा मंत्रालय ने कहा कि एएन-बारह विमान एक निर्धारित उड़ान पर था, जब वह यागुनोवो गाँव के पास एक निर्जन इलाके में गिर गया।\n\nमंत्रालय ने कहा कि विमान में सवार सभी उन्नीस लोग, जिनमें चालक दल भी शामिल था, मारे गए। दुर्घटना के बाद लगी आग को आपातकालीन कर्मियों ने बुझाया, यह जानकारी केमेरोवो के गवर्नर इल्या सेरेद्युक ने दी, जो घटनास्थल पर पहुँचे थे।\n\nदुर्घटना का प्रारंभिक कारण तकनीकी खराबी बताया गया है। राज्य समाचार एजेंसी आरआईए ने मंत्रालय के हवाले से कहा कि तकनीकी खराबी ही हादसे की प्रारंभिक वजह मानी जा रही है। रूसी एयरोस्पेस बलों का एक आयोग दुर्घटना के कारणों का पता लगाने के लिए घटनास्थल पर काम कर रहा है।\n\nरूस की जाँच समिति ने भी उड़ान सुरक्षा नियमों के संभावित उल्लंघन की जाँच शुरू कर दी है, जो सैन्य हवाई दुर्घटना के बाद की सामान्य प्रक्रिया है।\n\nएएन-बारह सोवियत काल में बना चार इंजन वाला टर्बोप्रॉप परिवहन विमान है, जो उन्नीस सौ पचास के दशक के अंत से सेवा में है। इसके एक हज़ार से ज़्यादा विमान बनाए गए थे, और कई अब भी रूस और अन्य देशों में उड़ान भर रहे हैं।\n\nफ़ोटो साभार: विकिपीडिया / द इंडियन एक्सप्रेस"
+   },
+   "en": {
+    "title": "Russian military An-12 crashes in Siberia, all 19 on board killed",
+    "summary": "A Russian military An-12 transport aircraft crashed in the Kemerovo region of southwestern Siberia on Tuesday, killing all 19 people on board. The Defence Ministry said a technical malfunction was the preliminary cause, and an Aerospace Forces commission is investigating.",
+    "body": "Moscow: A Russian military An-12 transport aircraft crashed in the Kemerovo region of southwestern Siberia on Tuesday, killing all 19 people on board, Russia's Defence Ministry said.\n\nThe ministry said the aircraft was on a scheduled flight when it went down in an uninhabited area near the village of Yagunovo, around 3,000 kilometres east of Moscow and close to Kemerovo airport. All 19 people on board, including the crew, were killed.\n\nA fire broke out after the crash, and emergency crews put it out, Kemerovo Governor Ilya Seredyuk said after visiting the site. He confirmed the crash in a post on the MAX messaging platform.\n\nThe preliminary cause of the crash was a technical malfunction, state news agency RIA reported, citing the ministry. A commission from the Russian Aerospace Forces has been deployed to the site to establish the circumstances of the accident.\n\nRussia's Investigative Committee, the country's top criminal investigation agency, has also opened an inquiry into possible violations of flight safety rules, the standard procedure after a military air disaster.\n\nThe An-12 is a Soviet-designed four-engine turboprop transport aircraft that has been in service since the late 1950s. More than 1,000 of the aircraft were built, and some remain in service in Russia and other countries.\n\nPhoto: Wikipedia / The Indian Express"
+   }
+  },
   {
    "id": "india-charges-bulk-scotch-imports-162-5-percent-duty-uk-pact-standoff-november-18",
    "category": "Business",
