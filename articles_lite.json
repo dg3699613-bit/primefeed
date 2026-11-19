@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T18:35:58+05:30",
+ "updatedAt": "2026-11-19T18:55:50+05:30",
  "articles": [
+  {
+   "id": "india-japan-2-plus-2-japan-missile-tests-indian-ranges-unicorn-november-19",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T18:50:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-japan-2-plus-2-japan-missile-tests-indian-ranges-unicorn-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-japan-2-plus-2-japan-missile-tests-indian-ranges-unicorn-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-japan-2-plus-2-japan-missile-tests-indian-ranges-unicorn-november-19-en.mp3",
+   "hi": {
+    "title": "जापान अगले साल भारतीय फायरिंग रेंज में करेगा लंबी दूरी की मिसाइलों का परीक्षण, टू प्लस टू वार्ता में बड़ा फैसला",
+    "summary": "भारत और जापान के बीच गुरुवार को टोक्यो में हुई चौथी टू प्लस टू मंत्रिस्तरीय वार्ता में रक्षा सहयोग को लेकर एक बड़ा फैसला हुआ। जापान की आत्मरक्षा सेना अगले साल पहली बार भारतीय फायरिंग रेंज में लंबी दूरी की मिसाइलों का परीक्षण करेगी, और नौसेना के यूनिकॉर्न एंटीना के सह-उत्पादन पर भी तेज़ी लाने पर सहमति बनी।"
+   },
+   "en": {
+    "title": "Japan to test long-range missiles at Indian firing ranges next year in historic 2+2 outcome",
+    "summary": "Japan's Self-Defence Forces will use Indian firing ranges next year to test long-range missiles, in the biggest outcome of the fourth India-Japan 2+2 Ministerial Dialogue held in Tokyo on Thursday. The two sides also agreed to fast-track agreements on co-producing the UNICORN naval radio antenna."
+   }
+  },
+  {
+   "id": "sabarimala-two-lakh-devotees-48-hours-spot-booking-cap-november-19",
+   "category": "Dharm-Astrology",
+   "sub": "Mandir & Teerth",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-19T18:50:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sabarimala-two-lakh-devotees-48-hours-spot-booking-cap-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sabarimala-two-lakh-devotees-48-hours-spot-booking-cap-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sabarimala-two-lakh-devotees-48-hours-spot-booking-cap-november-19-en.mp3",
+   "district": "Pathanamthitta",
+   "state": "Kerala",
+   "hi": {
+    "title": "सबरीमला में दो दिन में करीब दो लाख श्रद्धालु, आज साठ हज़ार ने बुक किया दर्शन",
+    "summary": "सबरीमला में मंडल-मकरविलक्कु तीर्थयात्रा के पहले दो दिनों में ही करीब दो लाख श्रद्धालु दर्शन के लिए पहुँचे। मंगलवार को सैंतीस हज़ार श्रद्धालुओं ने दर्शन किए, और गुरुवार के लिए करीब साठ हज़ार लोगों ने पहले से बुकिंग कराई है। मौके पर बुकिंग शुक्रवार से फिर बीस हज़ार प्रतिदिन तक सीमित रहेगी।"
+   },
+   "en": {
+    "title": "Sabarimala sees nearly two lakh devotees in 48 hours, 60,000 booked for darshan today",
+    "summary": "Nearly two lakh devotees reached Sabarimala within 48 hours of the Mandala-Makaravilakku pilgrimage season opening, and around 60,000 have booked darshan for Thursday. On Tuesday, 37,000 devotees had darshan, and spot booking will be restricted to 20,000 a day from Friday."
+   }
+  },
   {
    "id": "bombay-hc-halts-dawood-musafirkhana-demolition-november-25-november-19",
    "category": "Crime & Law",
@@ -3163,50 +3207,6 @@
    "en": {
     "title": "Ayushman Bharat may reserve 112 treatments for government hospitals only, up from 23",
     "summary": "The National Health Authority has proposed expanding the list of treatments reserved exclusively for public hospitals under Ayushman Bharat PM-JAY from twenty-three to one hundred and twelve, a move that would mean beneficiaries need a government hospital for free care on procedures from C-sections to kidney stone treatment."
-   }
-  },
-  {
-   "id": "prince-william-kate-meet-pm-modi-delhi-november-18",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T14:54:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/prince-william-kate-meet-pm-modi-delhi-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prince-william-kate-meet-pm-modi-delhi-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prince-william-kate-meet-pm-modi-delhi-november-18-en.mp3",
-   "hi": {
-    "title": "आज दिल्ली में पीएम मोदी से मिलेंगे प्रिंस विलियम और प्रिंसेस केट, तीन दिन के भारत दौरे का आखिरी पड़ाव",
-    "summary": "ब्रिटेन के प्रिंस विलियम और प्रिंसेस केट बुधवार को नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी से मिलेंगे। मुंबई में अर्थशॉट पुरस्कार समारोह के इर्द-गिर्द घूमे तीन दिन के भारत दौरे का यह आखिरी पड़ाव होगा।"
-   },
-   "en": {
-    "title": "Prince William and Kate to meet PM Modi in Delhi today, closing three-day India visit",
-    "summary": "Prince William and Princess Kate of Britain are scheduled to meet Prime Minister Narendra Modi in New Delhi on Wednesday, bringing the curtain down on a three-day visit to India centred on the twenty twenty-six Earthshot Prize in Mumbai."
-   }
-  },
-  {
-   "id": "ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T14:43:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-tandwa-conveyor-belt-collapse-three-workers-killed-november-18-en.mp3",
-   "district": "Chatra",
-   "state": "Jharkhand",
-   "hi": {
-    "title": "चतरा में एनटीपीसी प्लांट में बड़ा हादसा, निर्माणाधीन कन्वेयर बेल्ट गिरने से तीन मज़दूरों की मौत",
-    "summary": "झारखंड के चतरा ज़िले के तंडवा स्थित एनटीपीसी के नॉर्थ कर्णपुरा प्रोजेक्ट में बुधवार को निर्माणाधीन कन्वेयर बेल्ट का ढांचा गिर गया। हादसे में तीन मज़दूरों की मौत हो गई और दो घायल हो गए।"
-   },
-   "en": {
-    "title": "Three workers killed as under-construction conveyor belt collapses at NTPC plant in Jharkhand's Chatra",
-    "summary": "Three contract workers were killed and two injured when an under-construction coal conveyor belt structure collapsed at NTPC's North Karanpura project in Tandwa, Chatra district, on Wednesday."
    }
   }
  ]
