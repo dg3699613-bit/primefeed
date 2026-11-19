@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T05:16:10+05:30",
+ "updatedAt": "2026-11-19T05:30:18+05:30",
  "articles": [
+  {
+   "id": "russian-an-12-military-plane-crashes-siberia-19-killed-november-17",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T05:27:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-an-12-military-plane-crashes-siberia-19-killed-november-17.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-an-12-military-plane-crashes-siberia-19-killed-november-17-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-an-12-military-plane-crashes-siberia-19-killed-november-17-en.mp3",
+   "hi": {
+    "title": "साइबेरिया में रूसी सैन्य विमान दुर्घटनाग्रस्त, सवार सभी उन्नीस लोगों की मौत",
+    "summary": "रूस का एएन-बारह सैन्य परिवहन विमान मंगलवार को दक्षिण-पश्चिमी साइबेरिया के केमेरोवो क्षेत्र में दुर्घटनाग्रस्त हो गया। रक्षा मंत्रालय ने कहा कि विमान में सवार चालक दल सहित सभी उन्नीस लोगों की मौत हो गई है, और प्रारंभिक कारण तकनीकी खराबी माना जा रहा है।"
+   },
+   "en": {
+    "title": "Russian military An-12 crashes in Siberia, all 19 on board killed",
+    "summary": "A Russian military An-12 transport aircraft crashed in the Kemerovo region of southwestern Siberia on Tuesday, killing all 19 people on board. The Defence Ministry said a technical malfunction was the preliminary cause, and an Aerospace Forces commission is investigating."
+   }
+  },
   {
    "id": "india-charges-bulk-scotch-imports-162-5-percent-duty-uk-pact-standoff-november-18",
    "category": "Business",
@@ -3178,27 +3199,6 @@
    "en": {
     "title": "Maharashtra's 34,000 court staff begin indefinite strike over pay parity with High Court",
     "summary": "Around 34,000 district and subordinate court employees across Maharashtra walked out on Tuesday, saying the state has sat on a Bombay High Court pay-revision proposal since January 2025. Courts stayed open, but work stalled."
-   }
-  },
-  {
-   "id": "dhurandhar-grammy-miss-varuvaaiy-first-tamil-nomination-november-17",
-   "category": "Entertainment",
-   "sub": "Music",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T23:00:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhurandhar-grammy-miss-varuvaaiy-first-tamil-nomination-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhurandhar-grammy-miss-varuvaaiy-first-tamil-nomination-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhurandhar-grammy-miss-varuvaaiy-first-tamil-nomination-november-17-en.mp3",
-   "hi": {
-    "title": "धुरंधर की नौ प्रविष्टियाँ ग्रैमी से बाहर — तमिल गाना वरुवाई पहले नामांकन के साथ इतिहास रच गया",
-    "summary": "उनहत्तरवें ग्रैमी नामांकनों में धुरंधर: द रिवेंज को नौ प्रविष्टियों में से कुछ नहीं मिला — जबकि देवन एकंबरम और सुषा का वरुवाई ग्रैमी नामांकन पाने वाला पहला तमिल गाना बन गया।"
-   },
-   "en": {
-    "title": "Dhurandhar misses all nine Grammy entries — but Tamil song Varuvaaiy makes history with first nomination",
-    "summary": "The 69th Grammy nominations left Dhurandhar: The Revenge with nothing from nine entries — while Varuvaaiy, by Devan Ekambaram featuring Susha, became the first Tamil song ever nominated for a Grammy."
    }
   }
  ]
