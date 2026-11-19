@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T00:57:06+05:30",
+ "updatedAt": "2026-11-20T01:11:19+05:30",
  "articles": [
+  {
+   "id": "goldy-brar-canada-most-wanted-250000-reward-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T01:07:31+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/goldy-brar-canada-most-wanted-250000-reward-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldy-brar-canada-most-wanted-250000-reward-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldy-brar-canada-most-wanted-250000-reward-november-19-en.mp3",
+   "hi": {
+    "title": "कनाडा की मोस्ट वांटेड सूची में नंबर वन गोल्डी बराड़, गिरफ़्तारी पर ढाई लाख डॉलर का इनाम",
+    "summary": "कनाडा के बोलो प्रोग्राम ने भगोड़े गैंगस्टर सतिंदरजीत सिंह उर्फ़ गोल्डी बराड़ को देश के सबसे वांछित अपराधियों की सूची में पहले नंबर पर रखा है। उसकी गिरफ़्तारी की जानकारी पर ढाई लाख डॉलर तक का इनाम रखा गया है।"
+   },
+   "en": {
+    "title": "Goldy Brar tops Canada's most-wanted list, $250,000 reward announced for his arrest",
+    "summary": "Canada's Bolo Program has placed fugitive gangster Satinderjeet Singh, also known as Goldy Brar, at number one on its new Top 25 list of the country's most wanted fugitives, with a reward of up to $250,000 for information leading to his arrest."
+   }
+  },
+  {
+   "id": "pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T01:07:31+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20-en.mp3",
+   "hi": {
+    "title": "आज पुराना क़िला में पहले एससीओ सभ्यता संवाद मंच का उद्घाटन करेंगे प्रधानमंत्री मोदी",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी आज शाम साढ़े पाँच बजे दिल्ली के पुराना क़िला में पहले शंघाई सहयोग संगठन सभ्यता संवाद मंच का उद्घाटन करेंगे। बीस से बाईस नवंबर तक चलने वाले इस मंच में पंद्रह देशों के प्रतिनिधि हिस्सा ले रहे हैं।"
+   },
+   "en": {
+    "title": "PM Modi to inaugurate first SCO Civilisational Dialogue Forum at Delhi's Purana Qila today",
+    "summary": "Prime Minister Narendra Modi will inaugurate the first Shanghai Cooperation Organisation Civilisational Dialogue Forum at Purana Qila in New Delhi on Friday at around 5:30 pm. The three-day forum, running from November 20 to 22, has confirmed participation from 15 countries."
+   }
+  },
   {
    "id": "ugc-net-december-2026-subject-wise-schedule-nta-november-19",
    "category": "Education",
@@ -3169,50 +3211,6 @@
    "en": {
     "title": "Telangana's Indiramma Family Insurance: ₹5 lakh life cover for one crore families, applications open tomorrow",
     "summary": "Telangana Chief Minister A. Revanth Reddy has announced the 'Indiramma Family Insurance' scheme, under which one earning member from each of one crore families in the state will get life insurance cover of ₹5 lakh. Applications open in Siddipet on November 19 and run till December 18."
-   }
-  },
-  {
-   "id": "indigo-cancels-saudi-flights-four-cities-november-30-november-18",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T19:07:04+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indigo-cancels-saudi-flights-four-cities-november-30-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indigo-cancels-saudi-flights-four-cities-november-30-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indigo-cancels-saudi-flights-four-cities-november-30-november-18-en.mp3",
-   "hi": {
-    "title": "इंडिगो ने सऊदी अरब के चार शहरों की सभी उड़ानें तीस नवंबर तक रद्द कीं, सुरक्षा हालात का हवाला दिया",
-    "summary": "इंडिगो ने सऊदी अरब के जेद्दा, मदीना, रियाद और दम्माम से आने-जाने वाली सभी उड़ानें तीस नवंबर तक रद्द कर दी हैं। एयरलाइन ने इसके पीछे सऊदी अरब में बने सुरक्षा हालात का हवाला दिया है। एयर इंडिया और अकासा एयर ने भी सऊदी उड़ानों पर लगी रोक महीने के अंत तक बढ़ा दी है।"
-   },
-   "en": {
-    "title": "IndiGo cancels all flights to four Saudi cities until November 30 over security situation",
-    "summary": "IndiGo has cancelled all flights to and from Jeddah, Madinah, Riyadh and Dammam until November 30, citing the prevailing security situation in Saudi Arabia. Air India and Akasa Air have also extended their suspensions to Saudi destinations till the end of the month."
-   }
-  },
-  {
-   "id": "kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T19:07:04+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-62-students-hospitalised-tar-mixing-unit-kottiyam-november-18-en.mp3",
-   "district": "Kollam",
-   "state": "Kerala",
-   "hi": {
-    "title": "कोल्लम के कोट्टियम में बासठ स्कूली बच्चे अस्पताल में भर्ती, पास की तार-मिक्सिंग इकाई पर प्रदूषण का संदेह",
-    "summary": "कोल्लम ज़िले के कोट्टियम में एक निजी स्कूल के बासठ बच्चे बुधवार को उल्टी और साँस लेने में तकलीफ़ की शिकायत के बाद अस्पताल में भर्ती कराए गए। पुलिस का कहना है कि सभी बच्चे स्थिर हैं और पास की तार-मिक्सिंग इकाई को दोबारा बंद कर दिया गया है।"
-   },
-   "en": {
-    "title": "62 students hospitalised in Kollam after breathing trouble near tar-mixing unit",
-    "summary": "As many as 62 students of a private school at Kottiyam in Kollam district were hospitalised on Wednesday after complaining of nausea and breathing difficulties, allegedly due to pollution from a nearby tar-mixing unit. Police said all the children are stable and the unit has been shut down again."
    }
   }
  ]
