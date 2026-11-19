@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T09:32:44+05:30",
+ "updatedAt": "2026-11-19T09:45:34+05:30",
  "articles": [
+  {
+   "id": "maharashtra-fda-suspends-12-food-licences-mumbai-thane-pune-november-19",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T09:42:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maharashtra-fda-suspends-12-food-licences-mumbai-thane-pune-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-fda-suspends-12-food-licences-mumbai-thane-pune-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-fda-suspends-12-food-licences-mumbai-thane-pune-november-19-en.mp3",
+   "hi": {
+    "title": "मुंबई के मशहूर चेतना, बेयरूट और नेचुरल आइसक्रीम समेत बारह खाने के ठिकानों के लाइसेंस रद्द",
+    "summary": "महाराष्ट्र खाद्य एवं औषधि प्रशासन ने सत्रह नवंबर को हुई जाँच के बाद दक्षिण मुंबई के नौ मशहूर रेस्तरां और ठाणे के तीन ठिकानों के लाइसेंस रद्द कर दिए हैं, पुणे में छह विक्रेताओं को कारोबार बंद करने का आदेश दिया गया है। राज्य भर में एक दशमलव दो सात करोड़ रुपये का मिलावटी खाना जब्त हुआ है।"
+   },
+   "en": {
+    "title": "Maharashtra FDA suspends licences of 12 food outlets in Mumbai and Thane, including Chetana and Natural Ice Cream",
+    "summary": "Maharashtra's Food and Drug Administration has suspended the licences of 12 food establishments in Mumbai and Thane, including well-known South Mumbai restaurants Chetana, Cafe Ideal, Bayroute and Natural Ice Cream, after inspectors found cockroaches, rodent activity and unhygienic kitchens. Six vendors in Pune were ordered to shut, and food stock worth 1.27 crore rupees was seized across the state."
+   }
+  },
   {
    "id": "anthropic-81-3-billion-ipo-biggest-ever-nasdaq-ant-november-19",
    "category": "Business",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "iCloud, App Store and Apple Music went down for thousands of users — Apple blames an internal update",
     "summary": "Apple's iCloud, App Store and Apple Music went down on Tuesday, locking thousands of users out of their accounts. Apple said an internal update was to blame, not a cyberattack, and most services were back by the afternoon."
-   }
-  },
-  {
-   "id": "sc-30-lakh-devilal-gond-jailed-seven-years-after-acquittal-november-17",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T02:45:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-30-lakh-devilal-gond-jailed-seven-years-after-acquittal-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-30-lakh-devilal-gond-jailed-seven-years-after-acquittal-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-30-lakh-devilal-gond-jailed-seven-years-after-acquittal-november-17-en.mp3",
-   "hi": {
-    "title": "२०१८ में बरी, २०२५ में रिहा: बरी होने के बाद भी सात साल जेल में रहे शख्स को सुप्रीम कोर्ट ने दिलाए तीस लाख रुपये",
-    "summary": "छत्तीसगढ़ हाई कोर्ट ने जनवरी दो हज़ार अठारह में देवीलाल गोंड को बरी कर दिया था, लेकिन आदेश जेल अधिकारियों तक कभी नहीं पहुँचा और वे मई दो हज़ार पच्चीस तक जेल में ही रहे। सुप्रीम कोर्ट ने अब उनका मुआवज़ा दो लाख रुपये से बढ़ाकर तीस लाख रुपये कर दिया है और कहा है कि गलत तरीके से जेल में रखे जाने पर मुआवज़ा न्यूनतम होना चाहिए।"
-   },
-   "en": {
-    "title": "Acquitted in 2018, freed in 2025: Supreme Court awards ₹30 lakh to man jailed seven years after acquittal",
-    "summary": "Devilal Gond was acquitted by the Chhattisgarh High Court in January 2018, but the order never reached the jail authorities and he stayed in prison until May 2025. The Supreme Court has now raised his compensation from ₹2 lakh to ₹30 lakh, calling the payout 'the bare minimum' for wrongful incarceration."
    }
   }
  ]
