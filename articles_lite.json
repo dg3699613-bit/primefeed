@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-19T20:14:05+05:30",
+ "updatedAt": "2026-11-19T20:35:18+05:30",
  "articles": [
+  {
+   "id": "dri-seizes-71-kg-heroin-chennai-sri-lanka-two-arrested-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T20:30:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dri-seizes-71-kg-heroin-chennai-sri-lanka-two-arrested-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dri-seizes-71-kg-heroin-chennai-sri-lanka-two-arrested-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dri-seizes-71-kg-heroin-chennai-sri-lanka-two-arrested-november-19-en.mp3",
+   "district": "Chennai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "चेन्नई में डीआरआई की बड़ी कार्रवाई: श्रीलंका भेजी जा रही इकहत्तर किलो हेरोइन जब्त, दो तस्कर गिरफ़्तार",
+    "summary": "राजस्व खुफिया निदेशालय ने चेन्नई में इकहत्तर दशमलव दो चार किलोग्राम हेरोइन जब्त की है, जो तटीय रास्ते से श्रीलंका भेजी जानी थी। दो तस्करों को गिरफ़्तार किया गया है और वित्त मंत्रालय ने कहा है कि यह इस साल भारत में हुई सबसे बड़ी हेरोइन बरामदगी में से एक है।"
+   },
+   "en": {
+    "title": "DRI seizes 71 kg heroin bound for Sri Lanka in Chennai — biggest haul of 2026, two arrested",
+    "summary": "The Directorate of Revenue Intelligence has seized 71.24 kg of heroin in Chennai, foiling an attempt to smuggle it to Sri Lanka through the coastal route. Two traffickers have been arrested, and the finance ministry says it is among the largest single heroin seizures in India this year."
+   }
+  },
   {
    "id": "epfo-swp-90-percent-withdrawal-two-month-wait-cbt-reforms-november-19",
    "category": "Business",
@@ -3186,27 +3209,6 @@
    "en": {
     "title": "Bancroft breaks silence on Sandpapergate: 'The whole team knew', I became the scapegoat",
     "summary": "Former Australia opener Cameron Bancroft has broken an eight-year silence to say the whole team knew about the 2018 ball-tampering plan, and that he deliberately withheld the truth from Cricket Australia's investigation."
-   }
-  },
-  {
-   "id": "bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T15:56:43+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-radhe-radhe-kamal-khila-de-mathura-slogan-november-18-en.mp3",
-   "hi": {
-    "title": "राधे राधे, कमल खिला दे: मथुरा में भाजपा ने दो हज़ार सत्ताईस के चुनाव का बिगुल बजाया",
-    "summary": "मथुरा में भाजपा की दो दिन की बैठक में दो हज़ार सत्ताईस के विधानसभा चुनाव के लिए नया नारा राधे राधे, कमल खिला दे दिया गया, और पार्टी अध्यक्ष नितिन नबीन ने चार सूत्रीय कार्ययोजना पर मुहर लगाई।"
-   },
-   "en": {
-    "title": "'Radhe Radhe, Kamal Khila De': BJP sounds 2027 UP poll bugle from Mathura",
-    "summary": "The BJP has unveiled a new slogan, 'Radhe Radhe, Kamal Khila De', at its two-day organisational meeting in Mathura, with party president Nitin Nabin endorsing a four-point roadmap for the 2027 Uttar Pradesh Assembly elections."
    }
   }
  ]
