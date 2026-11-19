@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T02:22:21+05:30",
+ "updatedAt": "2026-11-20T02:34:22+05:30",
  "articles": [
+  {
+   "id": "anthropic-nasdaq-debut-2-trillion-largest-ipo-november-19",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-20T02:30:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anthropic-nasdaq-debut-2-trillion-largest-ipo-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-nasdaq-debut-2-trillion-largest-ipo-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-nasdaq-debut-2-trillion-largest-ipo-november-19-en.mp3",
+   "hi": {
+    "title": "एंथ्रोपिक की नैस्डैक पर धमाकेदार एंट्री, पहले ही दिन शेयर चौंतीस प्रतिशत चढ़ा, कीमत दो ट्रिलियन डॉलर के पार",
+    "summary": "क्लॉड बनाने वाली कंपनी एंथ्रोपिक के शेयर गुरुवार को नैस्डैक पर पहली बार कारोबार के लिए उतरे और तिरासी डॉलर के आईपीओ मूल्य के मुकाबले एक सौ ग्यारह दशमलव पाँच डॉलर पर खुले। पहली सौदेबाज़ी में कंपनी की कीमत करीब दो ट्रिलियन डॉलर आँकी गई — यह अब तक का सबसे बड़ा आईपीओ है।"
+   },
+   "en": {
+    "title": "Anthropic soars 34% on Nasdaq debut, crosses $2 trillion in the largest IPO in history",
+    "summary": "Shares of Claude maker Anthropic opened at $111.50 on the Nasdaq on Thursday, 34 percent above their $83 IPO price, valuing the company at nearly $2.01 trillion on first trade — the largest initial public offering on record."
+   }
+  },
+  {
+   "id": "the-vvaan-prime-video-premiere-november-20",
+   "category": "Entertainment",
+   "sub": "OTT / Web Series",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T02:30:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/the-vvaan-prime-video-premiere-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/the-vvaan-prime-video-premiere-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/the-vvaan-prime-video-premiere-november-20-en.mp3",
+   "hi": {
+    "title": "द व्वान आज से प्राइम वीडियो पर मुफ्त, सिनेमाघरों में सत्तर करोड़ से ज़्यादा की कमाई",
+    "summary": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की फिल्म द व्वान: फ़ोर्स ऑफ़ द फ़ॉरेस्ट आज, बीस नवंबर से प्राइम वीडियो पर बिना किराए के देखी जा सकेगी। फिल्म पच्चीस सितंबर को सिनेमाघरों में आई थी और भारत में सत्तर दशमलव तीन पाँच करोड़ रुपये की कमाई की थी।"
+   },
+   "en": {
+    "title": "The Vvaan streams free on Prime Video from today after a ₹70-crore theatrical run",
+    "summary": "Sidharth Malhotra and Tamannaah Bhatia's fantasy thriller The Vvaan: Force of the Forrest premieres on Prime Video on Friday, November 20, free for subscribers after a rental-only window. The film released in theatres on September 25 and earned ₹70.35 crore net in India."
+   }
+  },
   {
    "id": "google-launches-gemini-4-neon-ai-model-november-18",
    "category": "Technology",
@@ -262,7 +304,7 @@
    "category": "India",
    "sub": "Defence",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-20T00:20:20+05:30",
    "source": "PrimeFeed Desk",
@@ -3169,48 +3211,6 @@
    "en": {
     "title": "Nepal PM Balendra Shah cuts first India visit to just 25 hours, to seek $2 billion package",
     "summary": "Nepal Prime Minister Balendra Shah has cut his first bilateral visit to India from three days to just 25 hours — he arrives in Delhi on November 22, meets Prime Minister Modi on November 23, and will seek a $2 billion package for flood reconstruction."
-   }
-  },
-  {
-   "id": "jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T20:55:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaishankar-tokyo-weaponisation-trade-india-japan-ties-november-18-en.mp3",
-   "hi": {
-    "title": "टोक्यो में जयशंकर का बड़ा बयान: व्यापार-तकनीक का हथियारीकरण बदल रहा है दुनिया का नक्शा, भारत-जापान साथ चलें",
-    "summary": "विदेश मंत्री जयशंकर ने टोक्यो में कहा कि व्यापार, तकनीक और वित्त का हथियारीकरण आज की दुनिया की पहचान बन गया है — भारत और जापान को आर्थिक सुरक्षा के लिए मिलकर चलना होगा, और गुरुवार को होने वाली टू प्लस टू वार्ता से साझेदारी को नई रफ़्तार मिलेगी।"
-   },
-   "en": {
-    "title": "Jaishankar in Tokyo: weaponisation of trade and technology is redrawing the world order, India and Japan must deepen ties",
-    "summary": "External Affairs Minister Jaishankar told an audience in Tokyo that the weaponisation of trade, technology and finance now defines the global order — India and Japan must work together on economic security, with Thursday's 2+2 dialogue set to give the partnership fresh momentum."
-   }
-  },
-  {
-   "id": "bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T20:55:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhagwant-mann-kartarpur-visit-gurpurab-centre-nod-november-18-en.mp3",
-   "hi": {
-    "title": "गुरुपर्व पर करतारपुर जाना चाहते हैं भगवंत मान, केंद्र से अनुमति माँगी — गलियारा मई से बंद",
-    "summary": "पंजाब के मुख्यमंत्री भगवंत मान चौबीस नवंबर को गुरु नानक देव के पाँच सौ सत्तावनवें प्रकाश पर्व पर पाकिस्तान के करतारपुर साहिब जाना चाहते हैं — आम आदमी पार्टी के अनुसार उन्होंने विदेश मंत्रालय से अनुमति माँगी है, जबकि करतारपुर गलियारा मई दो हज़ार पच्चीस से बंद है।"
-   },
-   "en": {
-    "title": "Bhagwant Mann seeks Centre's nod to visit Kartarpur Sahib on Gurpurab as corridor stays shut since May",
-    "summary": "Punjab Chief Minister Bhagwant Mann wants to visit Gurdwara Darbar Sahib in Pakistan's Kartarpur on November 24, Guru Nanak Dev's 557th birth anniversary — the Aam Aadmi Party says he has sought the Centre's permission, even as the Kartarpur Corridor has stayed shut since May 2025."
    }
   }
  ]
