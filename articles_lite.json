@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T05:57:42+05:30",
+ "updatedAt": "2026-11-19T06:24:37+05:30",
  "articles": [
+  {
+   "id": "prince-william-kate-meet-pm-modi-delhi-outcome-november-18",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T06:20:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/prince-william-kate-meet-pm-modi-delhi-outcome-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prince-william-kate-meet-pm-modi-delhi-outcome-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prince-william-kate-meet-pm-modi-delhi-outcome-november-18-en.mp3",
+   "hi": {
+    "title": "प्रिंस विलियम और केट ने दिल्ली में पीएम मोदी से मुलाकात की, रक्षा-स्वास्थ्य और भारत-ब्रिटेन साझेदारी पर बात",
+    "summary": "ब्रिटेन के प्रिंस विलियम और राजकुमारी कैथरीन ने तीन दिन की भारत यात्रा के आखिरी दिन नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। रक्षा, स्वास्थ्य, शिक्षा और वित्तीय तकनीक पर सहयोग बढ़ाने पर बात हुई, और मोदी ने अर्थशॉट पुरस्कार तथा भारत-ब्रिटेन व्यापार समझौते की सराहना की।"
+   },
+   "en": {
+    "title": "Prince William and Kate meet PM Modi in Delhi, discuss defence, health and India-UK partnership",
+    "summary": "Britain's Prince William and Princess Catherine met Prime Minister Narendra Modi in New Delhi on the final day of their three-day India visit, discussing defence, health, education and fintech cooperation, with Modi praising the Earthshot Prize and the India-UK trade agreement."
+   }
+  },
   {
    "id": "us-venezuela-sign-military-deal-hegseth-caracas-november-18",
    "category": "World",
@@ -3176,29 +3197,6 @@
    "en": {
     "title": "Supreme Court to hear Rahul Gandhi's 48 questions on SIR on December 9, will weigh Election Commission's objections too",
     "summary": "The Supreme Court on Tuesday said it will hold a detailed hearing on December 9 on Rahul Gandhi and INDIA bloc leaders' application seeking sworn answers from the Election Commission to 48 written questions on the nationwide Special Intensive Revision of electoral rolls."
-   }
-  },
-  {
-   "id": "gonda-ram-katha-begins-jaiprabha-ramdev-dhirendra-shastri-november-17",
-   "category": "Dharm-Astrology",
-   "sub": "Katha & Dharm News",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T23:38:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-ram-katha-begins-jaiprabha-ramdev-dhirendra-shastri-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-ram-katha-begins-jaiprabha-ramdev-dhirendra-shastri-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-ram-katha-begins-jaiprabha-ramdev-dhirendra-shastri-november-17-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा के जयप्रभा ग्राम में नौ दिवसीय श्रीराम कथा शुरू, बाबा रामदेव ने धीरेंद्र शास्त्री को बताया भगवान का अंशावतार",
-    "summary": "गोंडा ज़िले के जयप्रभा ग्राम में मंगलवार से नौ दिवसीय भव्य श्रीराम कथा शुरू हो गई। कथावाचक राजन जी महाराज कथा सुना रहे हैं, और पहले दिन बागेश्वर धाम के पीठाधीश्वर धीरेंद्र कृष्ण शास्त्री व योगगुरु बाबा रामदेव पहुँचे।"
-   },
-   "en": {
-    "title": "Nine-day Shri Ram Katha begins in Gonda's Jaiprabha village; Baba Ramdev calls Dhirendra Shastri an incarnation of God",
-    "summary": "A nine-day grand Shri Ram Katha began on Tuesday in Jaiprabha village of Uttar Pradesh's Gonda district. Narrator Rajan Ji Maharaj will deliver the discourse daily, and Bageshwar Dham chief Dhirendra Krishna Shastri and yoga guru Baba Ramdev attended on the opening day."
    }
   }
  ]
