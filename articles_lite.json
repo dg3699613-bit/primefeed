@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T05:45:36+05:30",
+ "updatedAt": "2026-11-19T05:57:42+05:30",
  "articles": [
+  {
+   "id": "us-venezuela-sign-military-deal-hegseth-caracas-november-18",
+   "category": "World",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T05:54:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-venezuela-sign-military-deal-hegseth-caracas-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-venezuela-sign-military-deal-hegseth-caracas-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-venezuela-sign-military-deal-hegseth-caracas-november-18-en.mp3",
+   "hi": {
+    "title": "अमेरिका-वेनेज़ुएला के बीच सैन्य समझौता: हेगसेथ का कराकस दौरा, दस महीने बाद फिर साथ प्रशिक्षण",
+    "summary": "अमेरिकी रक्षा मंत्री पीट हेगसेथ ने कराकस में अंतरिम राष्ट्रपति डेल्सी रोड्रिग्ज़ से मिलकर सैन्य संबंध बहाल करने का समझौता किया, जिसके तहत दोनों सेनाएँ साथ प्रशिक्षण करेंगी और खुफिया जानकारी साझा करेंगी। यह जनवरी में निकोलस मादुरो को पकड़े जाने के बाद वेनेज़ुएला की सबसे बड़ी अमेरिकी यात्रा है।"
+   },
+   "en": {
+    "title": "US and Venezuela sign military deal as Hegseth visits Caracas, ten months after Maduro's capture",
+    "summary": "US Defense Secretary Pete Hegseth met interim President Delcy Rodriguez in Caracas and signed an agreement to reestablish military ties, with joint training and intelligence sharing, in the highest-level American visit to Venezuela since Nicolas Maduro was captured in January."
+   }
+  },
   {
    "id": "india-pacers-dominate-first-session-new-zealand-60-4-lunch-wellington-test-november-19",
    "category": "Cricket & Sports",
@@ -3178,27 +3199,6 @@
    "en": {
     "title": "Nine-day Shri Ram Katha begins in Gonda's Jaiprabha village; Baba Ramdev calls Dhirendra Shastri an incarnation of God",
     "summary": "A nine-day grand Shri Ram Katha began on Tuesday in Jaiprabha village of Uttar Pradesh's Gonda district. Narrator Rajan Ji Maharaj will deliver the discourse daily, and Bageshwar Dham chief Dhirendra Krishna Shastri and yoga guru Baba Ramdev attended on the opening day."
-   }
-  },
-  {
-   "id": "maharashtra-court-staff-indefinite-strike-pay-parity-november-17",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T23:00:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maharashtra-court-staff-indefinite-strike-pay-parity-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-court-staff-indefinite-strike-pay-parity-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-court-staff-indefinite-strike-pay-parity-november-17-en.mp3",
-   "hi": {
-    "title": "महाराष्ट्र के चौंतीस हज़ार अदालत कर्मचारी वेतन समानता को लेकर अनिश्चितकालीन हड़ताल पर",
-    "summary": "महाराष्ट्र की ज़िला और अधीनस्थ अदालतों के लगभग चौंतीस हज़ार कर्मचारी मंगलवार को हड़ताल पर चले गए — उनका कहना है कि बॉम्बे हाई कोर्ट का वेतन संशोधन प्रस्ताव जनवरी, दो हज़ार पच्चीस से राज्य सरकार के पास लंबित है। अदालतें खुली रहीं, पर काम ठप रहा।"
-   },
-   "en": {
-    "title": "Maharashtra's 34,000 court staff begin indefinite strike over pay parity with High Court",
-    "summary": "Around 34,000 district and subordinate court employees across Maharashtra walked out on Tuesday, saying the state has sat on a Bombay High Court pay-revision proposal since January 2025. Courts stayed open, but work stalled."
    }
   }
  ]
