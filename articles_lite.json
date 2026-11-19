@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T03:56:04+05:30",
+ "updatedAt": "2026-11-20T04:10:39+05:30",
  "articles": [
+  {
+   "id": "glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T04:06:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20-en.mp3",
+   "en": {
+    "title": "Glenn Phillips brings up his second Test hundred as New Zealand stretch to 272 for 5 on day two in Wellington",
+    "summary": "Glenn Phillips completed his second Test hundred early on the second morning at the Basin Reserve, reaching the mark in 193 balls as New Zealand moved from 243 for 5 overnight to 272 for 5, with Henry Nicholls unbeaten on 124 in a sixth-wicket stand now past 200."
+   },
+   "hi": {
+    "title": "ग्लेन फ़िलिप्स का दूसरा टेस्ट शतक, वेलिंग्टन में दूसरे दिन न्यूज़ीलैंड २७२/५",
+    "summary": "ग्लेन फ़िलिप्स ने बेसिन रिज़र्व में दूसरे दिन की सुबह की शुरुआत में ही अपना दूसरा टेस्ट शतक पूरा कर लिया। उन्होंने १९३ गेंदों में शतक लगाया और न्यूज़ीलैंड रात के २४३/५ से बढ़कर २७२/५ पर पहुँच गया। हेनरी निकोल्स १२४ रन पर नाबाद हैं और दोनों की छठे विकेट की साझेदारी २०० रन पार कर चुकी है।"
+   }
+  },
   {
    "id": "cisf-foils-airport-security-breaches-delhi-jaipur-november-19",
    "category": "Crime & Law",
@@ -3192,27 +3213,6 @@
    "en": {
     "title": "Delhi air worsens to AQI 232 a day after GRAP-3 curbs lifted; coldest morning at 11°C, very poor likely by Friday",
     "summary": "Delhi's air turned worse again on Wednesday, with the Air Quality Index settling at 232 in the poor category, up by around 30 points from 204 on Tuesday, a day after the city recorded its cleanest air of the month. The capital also recorded its coldest morning of the season at 11 degrees Celsius, and the Air Quality Early Warning System has forecast the air will deteriorate to the very poor category by Friday."
-   }
-  },
-  {
-   "id": "lakshya-sen-seals-bwf-world-tour-finals-spot-srikanth-watanabe-november-18",
-   "category": "Cricket & Sports",
-   "sub": "Badminton",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T22:59:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lakshya-sen-seals-bwf-world-tour-finals-spot-srikanth-watanabe-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakshya-sen-seals-bwf-world-tour-finals-spot-srikanth-watanabe-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakshya-sen-seals-bwf-world-tour-finals-spot-srikanth-watanabe-november-18-en.mp3",
-   "hi": {
-    "title": "लक्ष्य सेन ने पक्की की वर्ल्ड टूर फ़ाइनल्स की जगह, श्रीकांत ने वातानाबे को हराकर खोला रास्ता",
-    "summary": "लक्ष्य सेन ने बीडब्ल्यूएफ़ वर्ल्ड टूर फ़ाइनल्स दो हज़ार छब्बीस के लिए क्वालिफ़ाई कर लिया है और वे दो हज़ार इक्कीस के बाद पहली बार साल के आखिरी टूर्नामेंट में लौट रहे हैं। हॉन्ग कॉन्ग ओपन के पहले दौर में किदांबी श्रीकांत की कोकी वातानाबे पर जीत ने लक्ष्य की जगह पक्की कर दी, जो चौहत्तर हज़ार एक सौ अस्सी अंकों के साथ रेस टू फ़ाइनल्स में छठे स्थान पर हैं।"
-   },
-   "en": {
-    "title": "Lakshya Sen seals BWF World Tour Finals spot as Srikanth stuns Watanabe in Hong Kong",
-    "summary": "Lakshya Sen has qualified for the BWF World Tour Finals 2026, returning to the season-ending championship for the first time since 2021. Kidambi Srikanth's 21-16, 16-21, 21-9 win over Koki Watanabe of Japan in the Hong Kong Open first round sealed the spot, with Lakshya on 74,180 points in sixth place in the Race to Finals."
    }
   }
  ]
