@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T14:48:56+05:30",
+ "updatedAt": "2026-11-19T15:01:57+05:30",
  "articles": [
+  {
+   "id": "trump-xi-putin-first-trilateral-summit-held-shenzhen-november-19",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:56:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-xi-putin-first-trilateral-summit-held-shenzhen-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-xi-putin-first-trilateral-summit-held-shenzhen-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-xi-putin-first-trilateral-summit-held-shenzhen-november-19-en.mp3",
+   "hi": {
+    "title": "ट्रंप, शी और पुतिन पहली बार एक मेज़ पर: शेनझेन में ऐतिहासिक त्रिपक्षीय बैठक शुरू, यूक्रेन और परमाणु हथियारों पर चर्चा",
+    "summary": "अमेरिका, चीन और रूस के नेताओं की पहली त्रिपक्षीय बैठक शेनझेन के काइलिन विला में शुरू हुई, जिसकी अध्यक्षता शी चिनफिंग कर रहे हैं। यूक्रेन युद्ध, ईरान और परमाणु हथियारों में कटौती एजेंडे में हैं, लेकिन अभी तक कोई संयुक्त बयान जारी नहीं हुआ है।"
+   },
+   "en": {
+    "title": "Trump, Xi and Putin sit down together for first-ever trilateral summit in Shenzhen",
+    "summary": "The leaders of the United States, China and Russia opened their first-ever trilateral meeting at the Kylin Villa in Shenzhen, with Xi Jinping presiding. The Ukraine war, Iran and nuclear arms cuts are on the agenda, but no joint statement has been issued yet."
+   }
+  },
+  {
+   "id": "cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:56:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19-en.mp3",
+   "hi": {
+    "title": "चक्रवात अक्वान: ओडिशा में अस्सी हज़ार से ज़्यादा लोग सुरक्षित स्थानों पर, गोपालपुर के पास शुक्रवार दोपहर लैंडफ़ॉल की आशंका",
+    "summary": "गंभीर चक्रवाती तूफ़ान अक्वान के शुक्रवार दोपहर तक गोपालपुर के पास तट से टकराने की आशंका है। ओडिशा में अस्सी हज़ार से ज़्यादा लोगों को सुरक्षित स्थानों पर पहुँचाया जा चुका है, चौहत्तर बचाव दल तैनात हैं और शुक्रवार को छह जिलों में भारी बारिश का रेड अलर्ट जारी है।"
+   },
+   "en": {
+    "title": "Cyclone Akvan: Over 80,000 evacuated in Odisha as landfall nears Gopalpur by Friday noon",
+    "summary": "Severe cyclonic storm Akvan is expected to cross the coast near Gopalpur by Friday noon. Odisha has moved more than eighty thousand people to safety, deployed seventy-four rescue teams, and put six districts on red alert for extremely heavy rain on Friday."
+   }
+  },
   {
    "id": "yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19",
    "category": "World",
@@ -927,7 +969,7 @@
    "category": "World",
    "sub": "China",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-19T07:50:53+05:30",
    "source": "PrimeFeed Desk",
@@ -3151,48 +3193,6 @@
    "en": {
     "title": "SpiceJet flights from Mumbai grounded for over 12 hours, hundreds of passengers stranded overnight",
     "summary": "No SpiceJet flight took off from Mumbai after 7 pm on Tuesday. Twelve flights were cancelled, the Delhi flight left nearly four-and-a-half hours late in the early hours, and hundreds of passengers spent the night stranded at the airport."
-   }
-  },
-  {
-   "id": "eci-extends-sir-deadlines-six-states-delhi-final-roll-december-22-november-18",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T11:27:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eci-extends-sir-deadlines-six-states-delhi-final-roll-december-22-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eci-extends-sir-deadlines-six-states-delhi-final-roll-december-22-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eci-extends-sir-deadlines-six-states-delhi-final-roll-december-22-november-18-en.mp3",
-   "hi": {
-    "title": "मतदाता सूची संशोधन की समय-सीमा बढ़ी, दो करोड़ से ज़्यादा छूटे मतदाताओं को फिर मौका",
-    "summary": "चुनाव आयोग ने छह राज्यों और केंद्रशासित प्रदेशों में मतदाता सूची के विशेष गहन पुनरीक्षण की समय-सीमा बढ़ा दी है। दावों और आपत्तियों के निपटारे की अंतिम तारीख़ अब १५ दिसंबर है और अंतिम मतदाता सूची २२ दिसंबर को प्रकाशित होगी।"
-   },
-   "en": {
-    "title": "Election Commission extends voter-roll revision deadlines, fresh window for over two crore left-out voters",
-    "summary": "The Election Commission has extended the deadlines for the Special Intensive Revision of electoral rolls in six states and Union Territories. Claims and objections will now be settled by December 15, and the final electoral roll will be published on December 22."
-   }
-  },
-  {
-   "id": "xi-putin-meet-shenzhen-ahead-of-trump-trilateral-november-18",
-   "category": "World",
-   "sub": "China",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T11:10:41+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/xi-putin-meet-shenzhen-ahead-of-trump-trilateral-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/xi-putin-meet-shenzhen-ahead-of-trump-trilateral-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/xi-putin-meet-shenzhen-ahead-of-trump-trilateral-november-18-en.mp3",
-   "hi": {
-    "title": "शी जिनपिंग और पुतिन की शेन्ज़ेन में मुलाकात, ट्रंप के साथ ऐतिहासिक त्रिपक्षीय शिखर सम्मेलन से एक दिन पहले",
-    "summary": "चीन के राष्ट्रपति शी जिनपिंग और रूस के राष्ट्रपति व्लादिमीर पुतिन ने बुधवार को शेन्ज़ेन में बातचीत शुरू की। गुरुवार को दोनों नेता अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के साथ पहली बार होने वाले त्रिपक्षीय शिखर सम्मेलन में शामिल होंगे।"
-   },
-   "en": {
-    "title": "Xi and Putin meet in Shenzhen, a day before historic three-way summit with Trump",
-    "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin began talks in Shenzhen on Wednesday, a day before the first-ever three-way summit with US President Donald Trump. The two leaders are expected to discuss energy and finance first, then Ukraine and North Korea in a smaller session, Russian officials said."
    }
   }
  ]
