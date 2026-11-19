@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T06:24:37+05:30",
+ "updatedAt": "2026-11-19T06:51:52+05:30",
  "articles": [
+  {
+   "id": "florida-pastor-convicted-haiti-president-moise-assassination-november-18",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T06:43:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/florida-pastor-convicted-haiti-president-moise-assassination-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/florida-pastor-convicted-haiti-president-moise-assassination-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/florida-pastor-convicted-haiti-president-moise-assassination-november-18-en.mp3",
+   "hi": {
+    "title": "हैती के राष्ट्रपति मोइज़ की हत्या के मामले में फ़्लोरिडा के पादरी दोषी करार",
+    "summary": "मियामी की संघीय अदालत की जूरी ने फ़्लोरिडा के पादरी क्रिश्चियन इमैनुएल सैनॉन को हैती के राष्ट्रपति जोवेनेल मोइज़ की हत्या से जुड़े सभी आठ आरोपों में दोषी करार दिया है। अड़सठ साल के सैनॉन को आजीवन कारावास तक की सज़ा हो सकती है।"
+   },
+   "en": {
+    "title": "Florida pastor convicted over 2021 assassination of Haiti's President Moïse",
+    "summary": "A federal jury in Miami has convicted Florida pastor Christian Emmanuel Sanon on all eight charges arising from the 2021 assassination of Haitian President Jovenel Moïse. Sanon, 68, faces up to life in prison when he is sentenced on February 10."
+   }
+  },
+  {
+   "id": "australia-sanctions-israeli-settlers-west-bank-expansion-november-18",
+   "category": "World",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T06:43:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/australia-sanctions-israeli-settlers-west-bank-expansion-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/australia-sanctions-israeli-settlers-west-bank-expansion-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/australia-sanctions-israeli-settlers-west-bank-expansion-november-18-en.mp3",
+   "hi": {
+    "title": "ऑस्ट्रेलिया ने वेस्ट बैंक में बस्तियों के विस्तार पर तीन इसराइली नागरिकों और चार संगठनों पर प्रतिबंध लगाए",
+    "summary": "ऑस्ट्रेलिया ने कब्ज़े वाले वेस्ट बैंक में अवैध बस्तियों के विस्तार और बसने वालों की हिंसा को लेकर तीन इसराइली नागरिकों और चार संगठनों पर प्रतिबंध लगा दिए हैं। विदेश मंत्री पेनी वॉन्ग ने कहा कि बस्तियों का विस्तार और हिंसा दो-राष्ट्र समाधान की संभावना खत्म कर रही है।"
+   },
+   "en": {
+    "title": "Australia sanctions three Israeli settlers and four groups over West Bank expansion",
+    "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations over illegal settlement expansion and settler violence in the occupied West Bank, a day after Britain sanctioned eight Israeli construction firms. Foreign Minister Penny Wong said the expansion and violence were extinguishing the possibility of a two-state solution."
+   }
+  },
   {
    "id": "prince-william-kate-meet-pm-modi-delhi-outcome-november-18",
    "category": "India",
@@ -3155,48 +3197,6 @@
    "en": {
     "title": "Iran fires drones at US radar in Bahrain for third time in five days as blasts echo over Manama",
     "summary": "Iran's Revolutionary Guards said their drones targeted a US-operated radar system at Sheikh Isa Air Base in Bahrain on Tuesday — the third Iranian attack on US targets in the kingdom in five days. Bahrain said its air defences intercepted the attack and no casualties or damage were reported."
-   }
-  },
-  {
-   "id": "south-africa-386-7-day-3-rain-bavuma-retired-hurt-bangladesh-test-november-17",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T23:51:53+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-africa-386-7-day-3-rain-bavuma-retired-hurt-bangladesh-test-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-386-7-day-3-rain-bavuma-retired-hurt-bangladesh-test-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-386-7-day-3-rain-bavuma-retired-hurt-bangladesh-test-november-17-en.mp3",
-   "hi": {
-    "title": "बारिश और बावुमा की चोट से दक्षिण अफ़्रीका तीन सौ छियासी पर सात विकेट पर अटका — बांग्लादेश अब भी चौदह रन आगे",
-    "summary": "जोहानिसबर्ग टेस्ट के तीसरे दिन दक्षिण अफ़्रीका तीन सौ छियासी रन पर सात विकेट पर रहा — बांग्लादेश के चार सौ रन से अब भी चौदह रन पीछे। बारिश, बिजली और ओलों ने दो सत्र धो दिए। कप्तान टेंबा बावुमा पिंडली की चोट से उनचास रन पर रिटायर्ड हर्ट हुए, फिर बांग्लादेश ने तीन विकेट झटक लिए।"
-   },
-   "en": {
-    "title": "Rain and a Bavuma injury stall South Africa on 386/7 — Bangladesh still 14 ahead on Day 3",
-    "summary": "South Africa closed Day 3 of the Johannesburg Test on 386 for seven, still 14 behind Bangladesh's 400, after rain, lightning and hail washed out two sessions. Captain Temba Bavuma retired hurt on 49 with a calf injury before Bangladesh struck three times."
-   }
-  },
-  {
-   "id": "sc-sir-hearing-december-9-rahul-gandhi-48-questions-november-17",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-17T23:38:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-sir-hearing-december-9-rahul-gandhi-48-questions-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-sir-hearing-december-9-rahul-gandhi-48-questions-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-sir-hearing-december-9-rahul-gandhi-48-questions-november-17-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट नौ दिसंबर को सुनेगा एसआईआर पर राहुल गांधी के अड़तालीस सवाल, चुनाव आयोग की आपत्तियों पर भी विचार होगा",
-    "summary": "सुप्रीम कोर्ट ने मंगलवार को कहा कि वह नौ दिसंबर को राहुल गांधी और विपक्षी दलों की उस अर्ज़ी पर विस्तार से सुनवाई करेगा, जिसमें चुनाव आयोग से मतदाता सूची के विशेष गहन पुनरीक्षण पर अड़तालीस लिखित सवालों के शपथपूर्वक जवाब माँगे गए हैं।"
-   },
-   "en": {
-    "title": "Supreme Court to hear Rahul Gandhi's 48 questions on SIR on December 9, will weigh Election Commission's objections too",
-    "summary": "The Supreme Court on Tuesday said it will hold a detailed hearing on December 9 on Rahul Gandhi and INDIA bloc leaders' application seeking sworn answers from the Election Commission to 48 written questions on the nationwide Special Intensive Revision of electoral rolls."
    }
   }
  ]
