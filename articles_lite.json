@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T10:22:59+05:30",
+ "updatedAt": "2026-11-19T10:40:34+05:30",
  "articles": [
+  {
+   "id": "amritpal-singh-72-hour-security-alert-punjab-parole-november-21",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T10:35:05+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Amritsar",
+   "state": "Punjab",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amritpal-singh-72-hour-security-alert-punjab-parole-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritpal-singh-72-hour-security-alert-punjab-parole-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritpal-singh-72-hour-security-alert-punjab-parole-november-21-en.mp3",
+   "hi": {
+    "title": "अमृतपाल सिंह की इक्कीस नवंबर की तीन घंटे की पैरोल से पहले पंजाब में बहत्तर घंटे का सुरक्षा अलर्ट",
+    "summary": "जेल में बंद खडूर साहिब के सांसद अमृतपाल सिंह के इक्कीस नवंबर को अपने गाँव जल्लूपुर खेड़ा लौटने से पहले पंजाब पुलिस ने बहत्तर घंटे का सुरक्षा बंदोबस्त और पूरे राज्य में अलर्ट लगा दिया है। अमृतसर की अदालत ने उन्हें दादी के अंतिम संस्कार के लिए दोपहर बारह बजे से तीन बजे तक तीन घंटे की हिरासत पैरोल दी है।"
+   },
+   "en": {
+    "title": "72-hour security alert in Punjab as Amritpal Singh returns home on 3-hour parole on November 21",
+    "summary": "Punjab Police have mounted a 72-hour security lockdown and state-wide alert ahead of jailed Khadoor Sahib MP Amritpal Singh's return to his native village Jallupur Khera in Amritsar on November 21, when a court has allowed him three hours of custody parole, from noon to 3 pm, to attend his grandmother's cremation."
+   }
+  },
+  {
+   "id": "eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19",
+   "category": "Education",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T10:35:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19-en.mp3",
+   "hi": {
+    "title": "ग्यारह राज्य और केंद्र शासित प्रदेश अब उल्लास के तहत 'पूर्ण साक्षर', मध्य प्रदेश वयस्क शिक्षार्थियों में आगे",
+    "summary": "केंद्र के वयस्क साक्षरता कार्यक्रम उल्लास-नव भारत साक्षरता कार्यक्रम के तहत ग्यारह राज्यों और केंद्र शासित प्रदेशों ने खुद को पूर्ण साक्षर घोषित कर दिया है। अधिकारियों ने बताया कि इस योजना से देश की साक्षरता दर इक्यासी दशमलव एक प्रतिशत तक पहुँच गई है, और मध्य प्रदेश बीस दशमलव चार तीन लाख वयस्क शिक्षार्थियों के साथ देश में सबसे आगे है।"
+   },
+   "en": {
+    "title": "Eleven states and UTs now 'fully literate' under ULLAS; Madhya Pradesh leads in adult learners",
+    "summary": "Eleven states and Union Territories have declared themselves fully literate under the Centre's adult literacy programme ULLAS-Nav Bharat Saaksharta Karyakram, officials said, as the scheme raised India's literacy rate to 81.1 per cent. Madhya Pradesh leads the country with 20.43 lakh adult learners."
+   }
+  },
   {
    "id": "nicholls-century-new-zealand-214-5-wellington-test-november-19",
    "category": "Cricket & Sports",
@@ -3151,52 +3195,6 @@
    "en": {
     "title": "India's first commercial green jet fuel plant ready at Panipat refinery ahead of 2027 blending",
     "summary": "Indian Oil's 30,000-tonne-a-year sustainable aviation fuel unit at Panipat has produced its first batch and won all approvals including DGCA clearance, putting India on course to meet its proposed 1% green jet fuel blending target for international flights from 2027."
-   }
-  },
-  {
-   "id": "ludhiana-pickup-rams-parked-tipper-three-pilgrims-killed-november-17",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T03:40:51+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ludhiana-pickup-rams-parked-tipper-three-pilgrims-killed-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ludhiana-pickup-rams-parked-tipper-three-pilgrims-killed-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ludhiana-pickup-rams-parked-tipper-three-pilgrims-killed-november-17-en.mp3",
-   "district": "Ludhiana",
-   "state": "Punjab",
-   "hi": {
-    "title": "नैना देवी से लौट रहे श्रद्धालुओं का पिकअप खड़े टिप्पर से टकराया, तीन की मौत, 27 घायल",
-    "summary": "सोमवार देर रात माछीवाड़ा के पास पवाट पुल के नज़दीक हादसा — पिकअप में सवार करीब 30 श्रद्धालु नैना देवी मंदिर से लौट रहे थे; तीन की मौके पर मौत, 27 घायल; पुलिस ने चालक पर तेज़ रफ़्तार और लापरवाही की जाँच शुरू की।"
-   },
-   "en": {
-    "title": "Pickup carrying Naina Devi pilgrims rams parked tipper in Ludhiana, three killed, 27 injured",
-    "summary": "The crash happened late on Monday night near Pawat Bridge in Machhiwara, Ludhiana, as around 30 pilgrims were returning from the Naina Devi temple; three died on the spot and 27 were injured, and police are investigating allegations of rash driving."
-   }
-  },
-  {
-   "id": "delhi-paharganj-bar-firing-accused-shot-leg-encounter-sonia-vihar-november-17",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T03:40:51+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-paharganj-bar-firing-accused-shot-leg-encounter-sonia-vihar-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-paharganj-bar-firing-accused-shot-leg-encounter-sonia-vihar-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-paharganj-bar-firing-accused-shot-leg-encounter-sonia-vihar-november-17-en.mp3",
-   "district": "North East Delhi",
-   "state": "Delhi",
-   "hi": {
-    "title": "पहाड़गंज बार फायरिंग का आरोपी सोनिया विहार में मुठभेड़ में पैर में गोली लगने से घायल, गिरफ़्तार",
-    "summary": "पंचकुइयाँ रोड के बार के बाहर कथित फायरिंग के बाद फरार सतिंदर उर्फ़ कांता को मध्य ज़िला पुलिस ने सोनिया विहार में घेर लिया; मुठभेड़ में उसके पैर में गोली लगी, उसे अस्पताल में भर्ती कराया गया और गिरफ़्तार कर लिया गया।"
-   },
-   "en": {
-    "title": "Paharganj bar firing accused shot in leg in police encounter in Sonia Vihar, arrested",
-    "summary": "Satinder alias Kanta, accused of firing outside a bar on Panchkuian Road, was traced by Central District Police to Sonia Vihar, where he was shot in the leg in an exchange of fire, taken to hospital and arrested."
    }
   }
  ]
