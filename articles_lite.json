@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T13:21:31+05:30",
+ "updatedAt": "2026-11-19T13:37:06+05:30",
  "articles": [
+  {
+   "id": "bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T13:33:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19-en.mp3",
+   "hi": {
+    "title": "बुमराह ने श्रीनाथ को पीछे छोड़ा — दो सौ सैंतीस विकेट के साथ भारत के दसवें सबसे सफल टेस्ट गेंदबाज़",
+    "summary": "जसप्रीत बुमराह ने वेलिंग्टन टेस्ट के पहले दिन दो सौ सैंतीस विकेट पूरे करके जवागल श्रीनाथ का रिकॉर्ड तोड़ दिया और भारत के सर्वकालिक टेस्ट विकेट लेने वालों की सूची में दसवें नंबर पर पहुँच गए।"
+   },
+   "en": {
+    "title": "Bumrah passes Srinath with 237 wickets to become India's tenth-highest Test wicket-taker",
+    "summary": "Jasprit Bumrah moved past Javagal Srinath into tenth place on India's all-time Test wicket-takers list on day one of the Wellington Test, reaching 237 wickets in his fifty third Test."
+   }
+  },
+  {
+   "id": "mumbai-lalbaug-poonam-park-fire-four-rescued-november-19",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-19T13:33:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "मुंबई के लालबाग में दसवीं मंज़िल के फ्लैट में आग, चार लोग सुरक्षित बाहर निकाले गए",
+    "summary": "लालबाग की पूनम पार्क बिल्डिंग की दसवीं मंज़िल के फ्लैट में गुरुवार सुबह आग लग गई। दमकल कर्मियों ने तीन बच्चों और एक महिला को सुरक्षित बाहर निकाला, किसी के घायल होने की खबर नहीं है।"
+   },
+   "en": {
+    "title": "Fire breaks out in tenth-floor flat in Mumbai's Lalbaug, four people rescued",
+    "summary": "A fire broke out in a tenth-floor flat of Poonam Park Building in Mumbai's Lalbaug on Thursday morning. Firefighters rescued four people, including three children, and no injuries were reported."
+   }
+  },
   {
    "id": "shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19",
    "category": "Entertainment",
@@ -3147,50 +3191,6 @@
    "en": {
     "title": "Rahul Gandhi at Columbia: 'India sitting on an economic disaster'; BJP accuses him of insulting India abroad",
     "summary": "Leader of Opposition Rahul Gandhi told an audience at Columbia University in New York that India is heading towards an economic disaster because of massive unemployment and deep flaws in its education system. He also repeated his charges on election spending and the electoral rolls, drawing a sharp attack from the BJP."
-   }
-  },
-  {
-   "id": "ipl-2027-shami-rajasthan-royals-curran-lucknow-trade-november-17",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T09:01:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ipl-2027-shami-rajasthan-royals-curran-lucknow-trade-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ipl-2027-shami-rajasthan-royals-curran-lucknow-trade-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ipl-2027-shami-rajasthan-royals-curran-lucknow-trade-november-17-en.mp3",
-   "hi": {
-    "title": "आईपीएल २०२७: मोहम्मद शमी राजस्थान रॉयल्स में, सैम करन लखनऊ जाएँगे — तीन खिलाड़ियों का बड़ा ट्रेड",
-    "summary": "राजस्थान रॉयल्स और लखनऊ सुपर जायंट्स के बीच आईपीएल २०२७ से पहले तीन खिलाड़ियों का ट्रेड पूरा हो गया है। मोहम्मद शमी आठ करोड़ रुपये की संशोधित फीस पर राजस्थान जाएँगे, जबकि इंग्लैंड के ऑलराउंडर सैम करन लखनऊ का हिस्सा बनेंगे।"
-   },
-   "en": {
-    "title": "IPL 2027: Mohammed Shami joins Rajasthan Royals in three-player trade; Sam Curran moves to Lucknow",
-    "summary": "Rajasthan Royals and Lucknow Super Giants have completed a three-player trade ahead of IPL 2027. Mohammed Shami moves to Rajasthan at a revised fee of Rs 8 crore, while England all-rounder Sam Curran heads to Lucknow."
-   }
-  },
-  {
-   "id": "seoni-cop-viral-video-ganja-plant-couple-frame-november-18",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T08:40:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/seoni-cop-viral-video-ganja-plant-couple-frame-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seoni-cop-viral-video-ganja-plant-couple-frame-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seoni-cop-viral-video-ganja-plant-couple-frame-november-18-en.mp3",
-   "district": "Seoni",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "‘बैग में गांजा रख दो’: सिवनी होटल में जोड़े को फँसाने की कथित साज़िश का वीडियो वायरल, थाना प्रभारी लाइन हाज़िर",
-    "summary": "सिवनी के एक होटल का कथित सीसीटीवी वीडियो वायरल हुआ है, जिसमें एक वरिष्ठ पुलिस अधिकारी होटल कर्मियों को युवक के बैग में गांजा रखकर मामला दर्ज करने को कहते सुने जा रहे हैं। कोतवाली थाना प्रभारी को लाइन हाज़िर कर जाँच के आदेश दिए गए हैं, जबकि वीडियो की प्रामाणिकता अभी तय नहीं हुई है।"
-   },
-   "en": {
-    "title": "'Plant ganja in his bag': Video allegedly showing MP cops plot to frame couple in Seoni hotel goes viral; station in-charge removed",
-    "summary": "A purported CCTV video from a Seoni hotel has gone viral, allegedly showing a senior police officer telling hotel staff to plant ganja in a man's bag and frame him in a drug case. The Kotwali station in-charge has been line-attached and a probe ordered, though the video's authenticity is yet to be established."
    }
   }
  ]
