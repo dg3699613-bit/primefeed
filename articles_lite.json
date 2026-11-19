@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T02:47:37+05:30",
+ "updatedAt": "2026-11-20T03:03:09+05:30",
  "articles": [
+  {
+   "id": "iffi-57th-edition-opens-goa-today-stories-without-borders-november-20",
+   "category": "Entertainment",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T02:57:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iffi-57th-edition-opens-goa-today-stories-without-borders-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iffi-57th-edition-opens-goa-today-stories-without-borders-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iffi-57th-edition-opens-goa-today-stories-without-borders-november-20-en.mp3",
+   "hi": {
+    "title": "गोवा में आज से सत्तावनवाँ इफ्फी: छियासी देशों की दो सौ तीस से ज़्यादा फ़िल्में, थीम 'स्टोरीज़ विदाउट बॉर्डर्स'",
+    "summary": "गोवा में आज से सत्तावनवाँ अंतरराष्ट्रीय फ़िल्म महोत्सव शुरू हो रहा है। 'स्टोरीज़ विदाउट बॉर्डर्स' थीम पर नौ दिन तक छियासी देशों की दो सौ तीस से ज़्यादा फ़िल्में दिखाई जाएँगी, स्पेन इस बार सम्मानित देश है और आज शाम भव्य उद्घाटन समारोह होगा।"
+   },
+   "en": {
+    "title": "57th IFFI opens in Goa today: over 230 films from 86 countries under 'Stories Without Borders'",
+    "summary": "The 57th International Film Festival of India opens in Goa today, with nine days of world cinema under the theme 'Stories Without Borders' — more than 230 films from 86 countries, Spain as the Country of Honour, and a grand opening ceremony this evening."
+   }
+  },
+  {
+   "id": "bullet-train-surat-bilimora-section-energised-25000-volts-november-20",
+   "category": "India",
+   "sub": "Railways",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T02:57:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bullet-train-surat-bilimora-section-energised-25000-volts-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bullet-train-surat-bilimora-section-energised-25000-volts-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bullet-train-surat-bilimora-section-energised-25000-volts-november-20-en.mp3",
+   "hi": {
+    "title": "बुलेट ट्रेन: सूरत–बिलीमोरा खंड की तारों में आज से पच्चीस हज़ार वोल्ट की बिजली",
+    "summary": "मुंबई–अहमदाबाद बुलेट ट्रेन गलियारे के पचास किलोमीटर लंबे सूरत–बिलीमोरा खंड की ओवरहेड तारों में आज से बिजली दौड़ेगी। यह देश की पहली हाई-स्पीड रेल लाइन का पहला हिस्सा है जिसे ऊर्जावान किया जा रहा है, और अब इन तारों को हमेशा चालू माना जाएगा।"
+   },
+   "en": {
+    "title": "Bullet train's Surat–Bilimora stretch goes live with 25,000 volts today, a first for the corridor",
+    "summary": "The overhead wires on the 50-km Surat–Bilimora section of the Mumbai–Ahmedabad bullet train corridor will carry live power from today — the first stretch of India's first high-speed rail line to be energised, with the wires to be treated as live at all times."
+   }
+  },
   {
    "id": "us-senate-rejects-iran-war-powers-resolution-51-48-november-19",
    "category": "World",
@@ -3169,48 +3211,6 @@
    "en": {
     "title": "Cyclone Akvan: Odisha shuts schools in six districts from November 19 to 21, Anganwadi centres also closed",
     "summary": "Ahead of Cyclone Akvan, the Odisha government has ordered all schools and Anganwadi centres in Ganjam, Gajapati, Puri, Jagatsinghpur, Kendrapara and Kandhamal to remain closed from November 19 to 21. Schools in Khordha and Malkangiri will stay shut on November 19 and 20."
-   }
-  },
-  {
-   "id": "two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T21:34:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-indian-sailors-rescued-al-fatah-sinks-bab-el-mandeb-november-18-en.mp3",
-   "hi": {
-    "title": "बाब अल-मंदेब के पास मालवाहक जहाज़ अल-फ़तह डूबा, दो भारतीय नाविक बचे, तीसरा अब भी लापता",
-    "summary": "बाब अल-मंदेब जलडमरूमध्य के पास मालवाहक जहाज़ अल-फ़तह के डूबने के बाद दो भारतीय नाविकों को बचा लिया गया है, केन्या में भारतीय उच्चायोग ने बुधवार को बताया कि तीसरे भारतीय नाविक का पता नहीं चला है और उसकी तलाश जारी है। जहाज़ कब डूबा और क्या उस पर हमला हुआ था, यह नहीं बताया गया है।"
-   },
-   "en": {
-    "title": "Two Indian sailors rescued as cargo vessel Al-Fatah sinks near Bab el-Mandeb, third still missing",
-    "summary": "Two Indian sailors have been rescued after the cargo vessel Al-Fatah sank near the Bab el-Mandeb Strait, the Indian High Commission in Kenya said on Wednesday, and a third Indian sailor is still missing with the search for him continuing. The mission has not said when the vessel sank or whether it was attacked."
-   }
-  },
-  {
-   "id": "air-india-ai171-crash-probe-final-stages-supreme-court-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T21:15:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/air-india-ai171-crash-probe-final-stages-supreme-court-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-ai171-crash-probe-final-stages-supreme-court-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-ai171-crash-probe-final-stages-supreme-court-november-18-en.mp3",
-   "hi": {
-    "title": "एयर इंडिया हादसे की जाँच अंतिम चरण में, केंद्र ने सुप्रीम कोर्ट को बताया — दो हफ़्ते में फिर सुनवाई",
-    "summary": "केंद्र ने सुप्रीम कोर्ट को बताया है कि जून दो हज़ार पच्चीस में अहमदाबाद में हुए एयर इंडिया हादसे की जाँच अंतिम चरण में है — सॉलिसिटर जनरल तुषार मेहता ने कहा कि जाँच पूरी होने के करीब है, और अदालत ने मामले को दो हफ़्ते के लिए स्थगित कर दिया है। अंतिम रिपोर्ट अक्तूबर के पहले हफ़्ते तक आने वाली थी, पर अब तक जारी नहीं हुई है।"
-   },
-   "en": {
-    "title": "Air India crash probe in final stages, Centre tells Supreme Court — hearing adjourned for two weeks",
-    "summary": "The Centre has told the Supreme Court that the probe into the June 2025 Air India crash in Ahmedabad, which killed 260 people, is in its final stages — Solicitor General Tushar Mehta said the investigation is close to completion, and the court adjourned the matter for two weeks. The final report was due in the first week of October but is yet to be released."
    }
   }
  ]
