@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-19T12:06:28+05:30",
+ "updatedAt": "2026-11-19T12:14:34+05:30",
  "articles": [
+  {
+   "id": "trump-putin-40-minute-talks-shenzhen-trilateral-november-19",
+   "category": "World",
+   "sub": "USA",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T12:12:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-putin-40-minute-talks-shenzhen-trilateral-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-putin-40-minute-talks-shenzhen-trilateral-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-putin-40-minute-talks-shenzhen-trilateral-november-19-en.mp3",
+   "hi": {
+    "title": "ट्रंप ने पुतिन को कहा ‘मेरा दोस्त’, शेनझेन में चालीस मिनट चली बातचीत",
+    "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और रूस के राष्ट्रपति व्लादिमीर पुतिन ने शेनझेन में करीब चालीस मिनट तक अलग से बातचीत की। यह पिछले साल अलास्का के बाद दोनों की पहली आमने-सामने की मुलाकात थी। इसके बाद ट्रंप शी जिनपिंग से मिले; तीनों नेता दिन में बाद में पहली त्रिपक्षीय बैठक करेंगे।",
+    "body": "शेनझेन: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और रूस के राष्ट्रपति व्लादिमीर पुतिन ने गुरुवार को चीन के शेनझेन में करीब चालीस मिनट तक अलग से बातचीत की। एपेक शिखर सम्मेलन के इतर हुई यह मुलाकात पिछले साल अलास्का में हुई उनकी बातचीत के बाद दोनों नेताओं की पहली आमने-सामने की बैठक थी।\n\nमुलाकात के बाद ट्रंप ने पुतिन को ‘मेरा दोस्त’ कहा और कहा कि दोनों के बीच कई सालों से अच्छे संबंध रहे हैं। उन्होंने कहा, ‘इससे अच्छी चीज़ें निकल सकती हैं, या कम से कम शुरुआत तो हो सकती है।’\n\nव्हाइट हाउस ने इस मुलाकात को ‘पुल-असाइड’ बताया, यानी औपचारिक द्विपक्षीय बैठक से कम औपचारिक बातचीत। क्रेमलिन के सहयोगी यूरी उशाकोव ने कहा कि दोनों नेताओं ने यूक्रेन युद्ध और अमेरिका-रूस संबंधों पर चर्चा की।\n\nइसके बाद ट्रंप शेनझेन के काइलिन विला पहुँचे, जहाँ उन्होंने चीन के राष्ट्रपति शी जिनपिंग से अलग से मुलाकात की। यह इस साल दोनों की तीसरी बड़ी मुलाकात थी। तीनों नेता दिन में बाद में पहली बार त्रिपक्षीय बैठक करेंगे, जिसमें परमाणु हथियारों पर नियंत्रण, यूक्रेन युद्ध और ईरान संघर्ष पर चर्चा होने की उम्मीद है।\n\nफ़ोटो साभार: एपी"
+   },
+   "en": {
+    "title": "Trump calls Putin 'my friend' as the two hold 40-minute talks in Shenzhen ahead of historic trilateral",
+    "summary": "US President Donald Trump and Russian President Vladimir Putin held a separate meeting lasting about 40 minutes in Shenzhen on Thursday, their first face-to-face talks since last year's Alaska summit. Trump later met Chinese President Xi Jinping, with the three leaders due to sit down together later in the day.",
+    "body": "Shenzhen: US President Donald Trump and Russian President Vladimir Putin held a separate meeting lasting about 40 minutes in Shenzhen on Thursday, on the sidelines of the Asia-Pacific Economic Cooperation summit. It was the first time the two leaders have met face to face since their talks in Alaska last year, which failed to broker a deal to ease Russia's war in Ukraine.\n\nAfter the meeting, Trump called Putin \"my friend\" and said the two had shared a good relationship for many years. \"Wonderful things can come out of this, or at least start,\" he said after shaking hands with the Russian leader.\n\nThe White House described the encounter as a \"pull-aside\", a less formal engagement than a full bilateral meeting. Kremlin aide Yuri Ushakov said the two leaders discussed the war in Ukraine and relations between the United States and Russia.\n\nTrump then headed to Kylin Villa, a lakeside resort in Shenzhen, for a separate meeting with Chinese President Xi Jinping, their third substantial meeting this year. The three leaders are due to hold a first-ever trilateral meeting later in the day, with nuclear arms control, the war in Ukraine and the conflict in Iran expected to be on the agenda. The last nuclear arms pact between Russia and the United States, known as New START, expired in February.\n\nPhoto: AP"
+   }
+  },
+  {
+   "id": "six-killed-scorpio-plunges-canal-araria-bihar-november-19",
+   "category": "State & Local",
+   "sub": "Bihar",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T12:12:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-killed-scorpio-plunges-canal-araria-bihar-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-en.mp3",
+   "hi": {
+    "title": "अररिया में नहर में गिरी स्कॉर्पियो, छह की मौत; तिलक समारोह से लौट रहे थे सात लोग",
+    "summary": "बिहार के अररिया जिले में बुधवार देर रात बीड़ी पुल के पास एक स्कॉर्पियो नहर में गिर गई। गाड़ी में सवार सात लोगों में से छह की मौत हो गई, एक घायल है। सभी सुपौल जिले के थुम्हा गाँव के रहने वाले थे और सिकटी में तिलक समारोह से लौट रहे थे।",
+    "body": "अररिया: बिहार के अररिया जिले में बुधवार देर रात एक स्कॉर्पियो के नहर में गिर जाने से छह लोगों की मौत हो गई, जबकि एक व्यक्ति घायल हो गया। हादसा ताराबारी थाना क्षेत्र के बीड़ी पुल के पास हुआ, जब गाड़ी पुल से उतरते वक्त एक तीखे मोड़ पर चालक के काबू से बाहर हो गई।\n\nपुलिस के मुताबिक गाड़ी में सवार सभी सात लोग सुपौल जिले के पिपरा प्रखंड के थुम्हा गाँव के रहने वाले थे। वे अररिया के सिकटी प्रखंड के भपटिया गाँव में एक तिलक समारोह से लौट रहे थे, तभी रात करीब पौने बारह बजे यह हादसा हुआ।\n\nहादसे में मारे गए लोगों की पहचान चालक कुंदन यादव, मुन्ना कुमार, आदित्य, यश कुमार, आर्यन और सौरभ के रूप में हुई है। इनमें तीन किशोर भी शामिल हैं। पुलिस और स्थानीय लोगों ने सभी को गाड़ी से निकालकर अररिया सदर अस्पताल पहुँचाया, जहाँ डॉक्टरों ने छह को मृत घोषित कर दिया। घायल का इलाज चल रहा है।\n\nअररिया के पुलिस अधीक्षक कार्यालय की ओर से जारी बयान में कहा गया है कि गाड़ी के नहर में गिरते ही पुलिस की टीम मौके पर पहुँच गई थी। सभी शवों का पोस्टमार्टम करा दिया गया है। पुलिस हादसे के सही कारणों की जाँच कर रही है।\n\nफ़ोटो साभार: इंडिया टीवी"
+   },
+   "en": {
+    "title": "Six killed as Scorpio plunges into canal in Bihar's Araria; victims were returning from a tilak ceremony",
+    "summary": "Six people were killed and one injured after a Scorpio carrying seven people plunged into a canal from a bridge in Bihar's Araria district late on Wednesday night. The victims, all from Thumha village in Supaul district, were returning home from a tilak ceremony in Araria's Sikti block.",
+    "body": "Araria: Six people were killed and one was injured after a Scorpio SUV plunged into a canal from a bridge in Bihar's Araria district late on Wednesday night. The accident took place near Bidi Bridge in the Tarabari police station area, when the driver apparently lost control of the vehicle while negotiating a sharp turn and the SUV broke through the roadside railing and fell into the water below.\n\nAll seven occupants were residents of Thumha village in Supaul district's Pipra block. They were returning home after attending a tilak ceremony, a pre-wedding function, at the bridegroom's residence in Bhaptia village in Araria's Sikti block, when the accident happened at around a quarter to midnight.\n\nThe dead have been identified as driver Kundan Yadav, 28, Munna Kumar, 22, Aditya, 20, Yash Kumar, 16, Aryan, 15, and Saurabh, 15. Three of them were teenagers. Police and local residents pulled all seven out of the vehicle and rushed them to Araria Sadar Hospital, where doctors declared six brought dead. The survivor is undergoing treatment.\n\nA statement issued by the Araria Superintendent of Police said a police team reached the spot soon after the accident. Post-mortem examinations of all six have been completed, and police are investigating the exact circumstances that led to the driver losing control.\n\nPhoto: India TV"
+   },
+   "district": "Araria",
+   "state": "Bihar"
+  },
   {
    "id": "elon-musk-pretty-foolish-500-million-republicans-midterms-november-19",
    "category": "World",
