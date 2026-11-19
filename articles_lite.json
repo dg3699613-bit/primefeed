@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T13:51:12+05:30",
+ "updatedAt": "2026-11-19T14:10:25+05:30",
  "articles": [
+  {
+   "id": "time100-next-india-alia-bhatt-aryan-khan-covers-november-19",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:05:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/time100-next-india-alia-bhatt-aryan-khan-covers-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/time100-next-india-alia-bhatt-aryan-khan-covers-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/time100-next-india-alia-bhatt-aryan-khan-covers-november-19-en.mp3",
+   "hi": {
+    "title": "टाइम वन हंड्रेड नेक्स्ट इंडिया की पहली सूची जारी: आलिया भट्ट कवर पर, आर्यन खान और दिलजीत दोसांझ भी शामिल",
+    "summary": "टाइम पत्रिका ने अपनी पहली टाइम वन हंड्रेड नेक्स्ट इंडिया सूची जारी की है, जिसमें देश के सौ उभरते हुए नेताओं को जगह मिली है। आलिया भट्ट तीन विश्वव्यापी कवरों में से एक पर हैं, जबकि आर्यन खान, पायल कपाड़िया और तेजा रियो एक साथ दूसरे कवर पर नज़र आ रहे हैं।"
+   },
+   "en": {
+    "title": "TIME unveils first TIME100 Next India list: Alia Bhatt on the cover, Aryan Khan and Diljit Dosanjh among one hundred emerging leaders",
+    "summary": "TIME magazine has unveiled its first TIME100 Next India list, naming one hundred emerging leaders from India and the diaspora. Alia Bhatt features on one of three worldwide covers, while Aryan Khan, Payal Kapadia and Theja Rio share another."
+   }
+  },
+  {
+   "id": "versova-nana-nani-park-tree-felling-protest-november-19",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:05:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/versova-nana-nani-park-tree-felling-protest-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/versova-nana-nani-park-tree-felling-protest-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/versova-nana-nani-park-tree-felling-protest-november-19-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "वर्सोवा के नाना नानी पार्क में पेड़ों की कटाई पर बवाल: चिपको-स्टाइल विरोध, चार लोग हिरासत में, दिया मिर्ज़ा बोलीं, दिल टूट गया",
+    "summary": "मुंबई के वर्सोवा में नाना नानी पार्क में पेड़ों की कटाई शुरू होते ही विरोध भड़क उठा है। स्थानीय लोगों ने गुरुवार को चिपको-स्टाइल विरोध किया, चार लोगों को हिरासत में लिया गया, और दिया मिर्ज़ा समेत कई कलाकारों ने बीएमसी के इस कदम पर सवाल उठाए हैं।"
+   },
+   "en": {
+    "title": "Tree felling at Versova Nana Nani Park sparks Chipko-style protest, four detained; Dia Mirza says hearts have been ripped apart",
+    "summary": "Tree felling at Nana Nani Park in Versova has triggered a wave of protest in Mumbai. Residents held a Chipko-style demonstration on Thursday, four people were detained, and actors including Dia Mirza have questioned the civic body over the cutting."
+   }
+  },
   {
    "id": "gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19",
    "category": "State & Local",
@@ -3151,50 +3195,6 @@
    "en": {
     "title": "Kuwait says air defences countering hostile drone attacks as Bahrain intercepts more strikes",
     "summary": "Kuwait's army said its air defences were countering hostile drone attacks early on Wednesday, hours after the United States struck Iranian targets on Qeshm Island in retaliation for Iran's drone attack on a US radar system in Bahrain. Bahrain said it intercepted more aerial attacks on Wednesday and accused Iran of ongoing attacks."
-   }
-  },
-  {
-   "id": "cyclone-akvan-severe-cyclonic-storm-november-18-landfall-november-20",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T09:53:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-severe-cyclonic-storm-november-18-landfall-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-severe-cyclonic-storm-november-18-landfall-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-severe-cyclonic-storm-november-18-landfall-november-20-en.mp3",
-   "hi": {
-    "title": "अक्वान और मज़बूत: आज सुबह भीषण चक्रवाती तूफ़ान बनेगा, २० नवंबर को १४५ किमी प्रति घंटे की रफ़्तार से आंध्र तट से टकराएगा",
-    "summary": "चक्रवात अक्वान के बुधवार सुबह भीषण चक्रवाती तूफ़ान में बदलने और गुरुवार शाम तक अति भीषण चक्रवाती तूफ़ान बनने का अनुमान है। मौसम विभाग के मुताबिक़ यह २० नवंबर की दोपहर के आसपास नेल्लोर और विशाखापत्तनम के बीच आंध्र तट को पार करेगा, उस समय हवा की रफ़्तार १२० से १३० किलोमीटर प्रति घंटा रह सकती है और झोंके १४५ किलोमीटर प्रति घंटे तक पहुँच सकते हैं। ओडिशा ने ७४ बचाव दल तैनात किए हैं और दक्षिणी ज़िलों के संवेदनशील इलाकों से लोगों को हटाना शुरू कर दिया है।"
-   },
-   "en": {
-    "title": "Cyclone Akvan set to become a severe storm this morning, landfall on November 20 with winds up to 145 kmph",
-    "summary": "Cyclone Akvan is likely to intensify into a severe cyclonic storm on Wednesday morning and into a very severe cyclonic storm by Thursday evening, the weather department said. It is expected to cross the Andhra Pradesh coast between Nellore and Visakhapatnam around noon on November 20, with winds of 120-130 kmph gusting to 145 kmph. Odisha has deployed 74 rescue teams and begun moving people out of vulnerable areas in its southern districts."
-   }
-  },
-  {
-   "id": "pune-timber-market-fire-50-shops-gutted-27-tenders-november-18",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T09:21:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-timber-market-fire-50-shops-gutted-27-tenders-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-timber-market-fire-50-shops-gutted-27-tenders-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-timber-market-fire-50-shops-gutted-27-tenders-november-18-en.mp3",
-   "district": "Pune",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "पुणे के टिम्बर मार्केट में रात दो बजे लगी भीषण आग, ५०–६० दुकानें खाक; २७ गाड़ियों ने दो घंटे में पाया काबू, कोई हताहत नहीं",
-    "summary": "पुणे के टिम्बर मार्केट में बुधवार तड़के करीब दो बजकर पाँच मिनट पर लकड़ी की दुकानों में लगी आग से ५० से ६० दुकानें खाक हो गईं। दमकल की २७ गाड़ियों और करीब १५० कर्मियों ने दो घंटे की मशक्कत के बाद आग पर काबू पा लिया। किसी के हताहत होने की खबर नहीं है।"
-   },
-   "en": {
-    "title": "Pune Timber Market fire guts 50-60 shops overnight; 27 tenders battle blaze for two hours, no casualties",
-    "summary": "A fire that broke out at Pune's Timber Market around 2.05 am on Wednesday gutted 50 to 60 timber shops. Twenty-seven fire tenders and around 150 personnel brought the blaze under control after nearly two hours of firefighting. No casualties were reported."
    }
   }
  ]
