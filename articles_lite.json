@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-19T13:37:06+05:30",
+ "updatedAt": "2026-11-19T13:51:12+05:30",
  "articles": [
+  {
+   "id": "gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T13:47:36+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19-en.mp3",
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोरखपुर में अखिलेश यादव की रैली के दौरान फूल बरसाते बुलडोजर की चपेट में आकर छात्र की मौत",
+    "summary": "गोरखपुर में अखिलेश यादव की पीडीए रथ यात्रा के दौरान फूल बरसाते बुलडोजर की चपेट में आकर दसवीं कक्षा के छात्र आर्यवर्धन सिंह की मौत हो गई। पुलिस ने बुलडोजर ज़ब्त कर लिया है और मुख्यमंत्री ने परिवार को पाँच लाख रुपये की सहायता की घोषणा की है।"
+   },
+   "en": {
+    "title": "Schoolboy killed by flower-showering bulldozer during Akhilesh Yadav roadshow in Gorakhpur",
+    "summary": "A Class Ten student was killed in Gorakhpur after a bulldozer showering flower petals on the roadshow of Akhilesh Yadav hit him. Police have seized the vehicle, and the Chief Minister has announced five lakh rupees in assistance for the family."
+   }
+  },
+  {
+   "id": "betul-herbal-concoction-two-dead-five-ill-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-19T13:47:36+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/betul-herbal-concoction-two-dead-five-ill-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-en.mp3",
+   "district": "Betul",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "बैतूल में शराब छुड़ाने के नाम पर लाल तरल पदार्थ पीने से दो की मौत, पाँच अस्पताल में",
+    "summary": "बैतूल ज़िले के पाठाखेड़ा गाँव में शराब छुड़ाने के नाम पर पिलाए गए लाल तरल पदार्थ से दो लोगों की मौत हो गई और पाँच की हालत गंभीर है। पुलिस ने तीन लोगों को गिरफ़्तार किया है और तरल पदार्थ की जाँच की जा रही है।"
+   },
+   "en": {
+    "title": "Two die, five fall ill after drinking red liquid offered as alcohol addiction cure in Betul",
+    "summary": "Two men died and five others fell seriously ill in Betul district after drinking a red liquid offered as a herbal cure for alcohol addiction. Police have arrested three people and seized the liquid for testing."
+   }
+  },
   {
    "id": "bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19",
    "category": "Cricket & Sports",
@@ -3149,48 +3195,6 @@
    "en": {
     "title": "Pune Timber Market fire guts 50-60 shops overnight; 27 tenders battle blaze for two hours, no casualties",
     "summary": "A fire that broke out at Pune's Timber Market around 2.05 am on Wednesday gutted 50 to 60 timber shops. Twenty-seven fire tenders and around 150 personnel brought the blaze under control after nearly two hours of firefighting. No casualties were reported."
-   }
-  },
-  {
-   "id": "horticulture-output-record-3869-lakh-tonnes-2025-26-november-17",
-   "category": "Agriculture",
-   "sub": "Crops",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T09:21:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/horticulture-output-record-3869-lakh-tonnes-2025-26-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/horticulture-output-record-3869-lakh-tonnes-2025-26-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/horticulture-output-record-3869-lakh-tonnes-2025-26-november-17-en.mp3",
-   "hi": {
-    "title": "बागवानी उत्पादन २०२५-२६ में रिकॉर्ड ३,८६९ लाख टन के पार, रकबा घटा फिर भी पैदावार ४.३६ प्रतिशत बढ़ी",
-    "summary": "केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने २०२५-२६ के बागवानी उत्पादन का तीसरा अग्रिम अनुमान जारी किया है। इसके मुताबिक़ देश का कुल बागवानी उत्पादन रिकॉर्ड ३,८६९.१५ लाख टन रहने का अनुमान है, जो पिछले साल से ४.३६ प्रतिशत ज़्यादा है। यह बढ़ोतरी तब आई है, जब बागवानी का रकबा घटा है।"
-   },
-   "en": {
-    "title": "India's horticulture output set for record 3,869 lakh tonnes in 2025-26, up 4.36% despite smaller cropped area",
-    "summary": "Union Agriculture Minister Shivraj Singh Chouhan has released the Third Advance Estimates for horticulture in 2025-26, projecting a record total output of 3,869.15 lakh tonnes — up 4.36 per cent over 2024-25 — even though the area under horticultural crops has shrunk."
-   }
-  },
-  {
-   "id": "rahul-gandhi-columbia-university-economic-disaster-vote-fraud-november-18",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T09:01:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-columbia-university-economic-disaster-vote-fraud-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-columbia-university-economic-disaster-vote-fraud-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-columbia-university-economic-disaster-vote-fraud-november-18-en.mp3",
-   "hi": {
-    "title": "कोलंबिया यूनिवर्सिटी में राहुल गांधी बोले, ‘भारत आर्थिक आपदा पर बैठा है’, बीजेपी ने कहा — विदेश में देश का अपमान",
-    "summary": "लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने न्यूयॉर्क की कोलंबिया यूनिवर्सिटी में कहा कि भारी बेरोज़गारी और शिक्षा व्यवस्था की कमियों के चलते भारत आर्थिक आपदा की ओर बढ़ रहा है। उन्होंने चुनावी खर्च और मतदाता सूची पर अपने आरोप भी दोहराए, जिसके बाद बीजेपी ने उन पर तीखा हमला बोला है।"
-   },
-   "en": {
-    "title": "Rahul Gandhi at Columbia: 'India sitting on an economic disaster'; BJP accuses him of insulting India abroad",
-    "summary": "Leader of Opposition Rahul Gandhi told an audience at Columbia University in New York that India is heading towards an economic disaster because of massive unemployment and deep flaws in its education system. He also repeated his charges on election spending and the electoral rolls, drawing a sharp attack from the BJP."
    }
   }
  ]
