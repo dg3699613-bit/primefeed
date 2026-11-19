@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-19T12:26:37+05:30",
+ "updatedAt": "2026-11-19T13:05:22+05:30",
  "articles": [
+  {
+   "id": "voyager-1-reaches-one-light-day-first-human-made-object-november-19",
+   "category": "Science",
+   "sub": "Space",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T13:00:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/voyager-1-reaches-one-light-day-first-human-made-object-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/voyager-1-reaches-one-light-day-first-human-made-object-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/voyager-1-reaches-one-light-day-first-human-made-object-november-19-en.mp3",
+   "hi": {
+    "title": "वॉयेजर वन पृथ्वी से एक प्रकाश-दिन दूर — मानव निर्मित कोई वस्तु इतनी दूर पहले कभी नहीं गई",
+    "summary": "नासा का वॉयेजर वन बुधवार को पृथ्वी से एक प्रकाश-दिन की दूरी पर पहुँच गया। अब धरती से भेजा गया कोई भी संदेश उस तक पहुँचने में पूरा एक दिन लेगा, और जवाब आने में एक और दिन।",
+    "body": "पसाडेना: नासा का अंतरिक्ष यान वॉयेजर वन बुधवार को पृथ्वी से एक प्रकाश-दिन की दूरी पर पहुँच गया। मानव इतिहास में कोई भी बनाई हुई चीज़ इससे पहले इतनी दूर नहीं गई थी। नासा की गणना के मुताबिक यान ने बुधवार सुबह पूर्वी समय के हिसाब से शुरुआती घंटों में यह पड़ाव पार किया।\n\nएक प्रकाश-दिन का मतलब है वह दूरी जो रोशनी चौबीस घंटों में तय करती है — करीब सोलह अरब मील, यानी पच्चीस अरब किलोमीटर से भी ज़्यादा। यह सूर्य से प्लूटो की दूरी से चार गुना से ज़्यादा है। अब वॉयेजर वन को भेजा गया कोई भी संदेश वहाँ पहुँचने में पूरा एक दिन लेगा, और उसका जवाब आने में एक और दिन।\n\nवॉयेजर वन को पाँच सितंबर उन्नीस सौ सत्तहत्तर को केप कैनावेरल से छोड़ा गया था। इसने बृहस्पति और शनि के पास से गुज़रते हुए सौरमंडल की सबसे मशहूर तस्वीरें भेजीं, और अगस्त दो हज़ार बारह में यह सूर्य के प्रभाव क्षेत्र से बाहर निकलकर तारों के बीच के अंतरिक्ष में पहुँचने वाली पहली मानव निर्मित वस्तु बन गया था।\n\nयान अब भी काम कर रहा है, हालाँकि उसके मूल दस उपकरणों में से आठ बंद हो चुके हैं। अब सिर्फ दो उपकरण चल रहे हैं — एक प्लाज़्मा तरंगों को मापने वाला और दूसरा चुंबकीय क्षेत्र को नापने वाला। उसका बिजली स्रोत प्लूटोनियम है, जिसकी क्षमता हर साल थोड़ी कम होती जा रही है।\n\nवॉयेजर परियोजना की प्रबंधक सुज़ैन डॉड ने कहा, ‘एक प्रकाश-दिन तक पहुँचना एक हैरान करने वाली उपलब्धि है, जिसे देखने की उम्मीद मैंने कभी नहीं की थी।’ नासा की जेट प्रोपल्शन प्रयोगशाला गुरुवार को इस पड़ाव पर एक कार्यक्रम भी कर रही है।\n\nवॉयेजर वन करीब अड़तीस हज़ार मील प्रति घंटे की रफ्तार से उड़ रहा है। उसका जुड़वाँ यान वॉयेजर टू इसी दूरी तक नवंबर दो हज़ार पैंतीस में पहुँचेगा।\n\nफ़ोटो साभार: नासा, जेपीएल-कैलटेक"
+   },
+   "en": {
+    "title": "Voyager 1 reaches one light-day from Earth — no human-made object has ever been this far",
+    "summary": "NASA's Voyager 1 crossed the one-light-day mark on Wednesday, travelling about 16 billion miles from home. A message sent from Earth now takes a full day to reach it, and another full day for the reply to come back.",
+    "body": "Pasadena: NASA's Voyager 1 spacecraft crossed a distance of one light-day from Earth on Wednesday, becoming the first human-made object ever to travel that far from home. NASA's calculations put the crossing in the early hours of the morning, Eastern time.\n\nA light-day is the distance light covers in 24 hours, about 16 billion miles, or nearly 26 billion kilometres, more than four times the distance from the Sun to Pluto. From here on, a radio signal sent from Earth takes a full day to reach the spacecraft, and another full day for its reply to travel back.\n\nVoyager 1 was launched from Cape Canaveral on September 5, 1977. It flew past Jupiter and Saturn, sending back the most famous images of the two planets ever taken, and in August 2012 it became the first human-made object to cross into interstellar space, beyond the bubble of charged particles blown out by the Sun.\n\nThe spacecraft is still working, although eight of its original ten instruments have been switched off. Only two are still running, one measuring plasma waves and the other measuring the magnetic field. Its power comes from plutonium, and the output falls a little every year.\n\nVoyager project manager Suzanne Dodd said: \"Reaching one light-day is an astounding feat, one that I never expected to see.\" NASA's Jet Propulsion Laboratory is holding an event on Thursday to discuss the milestone.\n\nVoyager 1 is flying at almost 38,000 miles an hour. Its twin, Voyager 2, will not reach one light-day until November 2035.\n\nPhoto: NASA, JPL-Caltech"
+   }
+  },
+  {
+   "id": "raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T13:00:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19-en.mp3",
+   "hi": {
+    "title": "दोनों घुटनों में सूजन ने धोनी को रोका, रैना ने बताया संन्यास के पीछे की वजह",
+    "summary": "सुरेश रैना ने जियोस्टार पर बताया कि महेंद्र सिंह धोनी आईपीएल दो हज़ार सत्ताईस के लिए फिट होने की खूब कोशिश कर रहे थे, लेकिन दोनों घुटनों में सूजन की वजह से शरीर अब पूरे सत्र का बोझ नहीं उठा पा रहा था।",
+    "body": "नई दिल्ली: चेन्नई सुपर किंग्स के पूर्व बल्लेबाज़ सुरेश रैना ने बताया है कि महेंद्र सिंह धोनी को आईपीएल से संन्यास क्यों लेना पड़ा। रैना के मुताबिक धोनी के दोनों घुटनों में सूजन थी, और सालों की विकेटकीपिंग और बल्लेबाज़ी का बोझ अब शरीर पर भारी पड़ने लगा था।\n\nरैना ने जियोस्टार के आईपीएल दो हज़ार सत्ताईस रिटेंशन विशेष कार्यक्रम में कहा, ‘माही भाई छुट्टियों में अलग-अलग खेल खेलते रहे हैं, लेकिन उनके घुटने में दिक्कत चल रही थी। अब दोनों घुटनों में सूजन है। उन्होंने जितनी विकेटकीपिंग की है और जितने मैच खेले हैं, उसका असर पड़ता ही है।’\n\nरैना ने कहा कि धोनी आखिरी पल तक फिट होने की कोशिश करते रहे। ‘वह अब तक कोशिश कर रहे थे कि फिट हो जाएँ। वह जिम में बहुत-बहुत मेहनत कर रहे थे। सूजन के बाद उन्होंने हमेशा इंटरव्यू में कहा था कि वह कभी इंपैक्ट खिलाड़ी नहीं बनना चाहते थे।’\n\n‘एक कप्तान के तौर पर यह उनके बारे में बहुत कुछ कहता है और इसमें बहुत हिम्मत दिखती है। वह खेलना जारी रखना चाहते थे, लेकिन उनका शरीर अब इतना बोझ नहीं उठा पा रहा था,’ रैना ने कहा।\n\nधोनी ने सत्रह नवंबर को आईपीएल से संन्यास की घोषणा की थी। वह अब चेन्नई सुपर किंग्स के मेंटर बनेंगे। पैंतालीस साल के धोनी ने अपना आखिरी आईपीएल मैच दो हज़ार पच्चीस में गुजरात टाइटन्स के खिलाफ खेला था, और चोट की वजह से वह पूरा दो हज़ार छब्बीस सत्र नहीं खेल पाए थे।\n\nधोनी ने दो सौ अठहत्तर आईपीएल मैचों में पाँच हज़ार चार सौ उनतालीस रन बनाए हैं। उनके नाम चौबीस अर्धशतक और दो सौ चौंसठ छक्के हैं, और उनकी कप्तानी में चेन्नई ने पाँच बार खिताब जीता है। रैना ने कहा, ‘उन्होंने सीएसके और आईपीएल के लिए बहुत कुछ किया है। एक खिलाड़ी और एक इंसान के तौर पर उन्होंने कमाल का काम किया है, और वह अब तक आईपीएल के सबसे बड़े ब्रांड हैं।’\n\nफ़ोटो साभार: एबीपी लाइव"
+   },
+   "en": {
+    "title": "Raina reveals why Dhoni had to quit the IPL — swelling in both knees, and a body that could take no more",
+    "summary": "Suresh Raina has revealed that MS Dhoni kept working hard in the gym to get fit for IPL 2027, but swelling in both knees meant his body could no longer carry a full season, and he refused to play on as an Impact Player.",
+    "body": "New Delhi: Former Chennai Super Kings batter Suresh Raina has revealed why MS Dhoni had to end his IPL playing career, saying swelling in both knees and the toll of years spent keeping wicket finally caught up with the 45-year-old.\n\nSpeaking on JioStar's IPL 2027 Retention Special, Raina said: \"Mahi bhai has been playing different sports in the off-season, but he has been struggling with his knee. Both his knees have swelling now. The amount of wicketkeeping he has done and the number of matches he has played, it takes a toll.\"\n\nRaina said Dhoni kept trying to get fit until the very end. \"He was trying till now, thinking he would get fit. He was trying very, very hard in the gym. After the swelling, he always said in interviews that he never wanted to be an Impact Player.\"\n\n\"That speaks volumes about him as a captain and shows a lot of courage. So, he wanted to continue playing, but his body is not able to take that load anymore,\" Raina added.\n\nDhoni announced his retirement from the IPL on November 17 and will now serve as Chennai Super Kings' team mentor from the 2027 season. His last IPL appearance came against Gujarat Titans in the 2025 season, and he missed the whole of the 2026 campaign with calf and thumb injuries.\n\nDhoni finished with 5,439 runs in 278 IPL matches, with 24 half-centuries and 264 sixes, and led Chennai to five titles in 17 seasons. Raina said Dhoni had done so much for CSK and for the IPL, calling him the biggest brand the league has had.\n\nPhoto: ABP Live"
+   }
+  },
   {
    "id": "pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19",
    "category": "India",
