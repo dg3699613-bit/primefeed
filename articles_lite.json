@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T03:03:09+05:30",
+ "updatedAt": "2026-11-20T03:20:11+05:30",
  "articles": [
+  {
+   "id": "punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19",
+   "category": "Rozgar",
+   "sub": "Sarkari Naukri",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T03:16:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19-en.mp3",
+   "en": {
+    "title": "Punjab and Haryana High Court stays PCS recruitment over alleged irregularities; 751 shortlisted candidates wait",
+    "summary": "The Punjab and Haryana High Court on Thursday stayed the Punjab Civil Services recruitment after candidates challenged the November 4 Mains result, alleging irregularities in the shortlist. Justice Sandeep Moudgil fixed December 16 as the next hearing; the 751 shortlisted candidates must wait."
+   },
+   "hi": {
+    "title": "पंजाब और हरियाणा हाईकोर्ट ने पीसीएस भर्ती पर लगाई रोक, सात सौ इक्यावन उम्मीदवारों का भविष्य अधर में",
+    "summary": "पंजाब और हरियाणा हाईकोर्ट ने गुरुवार को पंजाब सिविल सेवा भर्ती प्रक्रिया पर रोक लगा दी। चार नवंबर के मुख्य परीक्षा नतीजे को चुनौती देने वाली याचिकाओं पर न्यायमूर्ति संदीप मौदगिल ने सोलह दिसंबर की अगली सुनवाई तय की है।"
+   }
+  },
+  {
+   "id": "us-court-orders-summons-doval-goel-delhi-courts-november-19",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T03:16:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-court-orders-summons-doval-goel-delhi-courts-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-orders-summons-doval-goel-delhi-courts-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-orders-summons-doval-goel-delhi-courts-november-19-en.mp3",
+   "en": {
+    "title": "US court orders summonses for Ajit Doval and Samant Goel to be delivered through Delhi courts",
+    "summary": "A US federal court has ordered summonses for NSA Ajit Doval and former RAW chief Samant Goel to be delivered through three Delhi district courts in Gurpatwant Singh Pannun's civil lawsuit. The November 13 order, reported on Thursday, relies on the Hague Convention after the standard service route was rejected."
+   },
+   "hi": {
+    "title": "अमेरिकी अदालत का आदेश: डोभाल और गोयल को समन दिल्ली की अदालतों के ज़रिए भेजे जाएँगे",
+    "summary": "अमेरिका की एक संघीय अदालत ने गुरपतवंत सिंह पन्नून के दीवानी मुकदमे में अजित डोभाल और सामंत गोयल को समन दिल्ली की तीन ज़िला अदालतों के ज़रिए भेजने का आदेश दिया है। तेरह नवंबर का यह आदेश गुरुवार को सामने आया।"
+   }
+  },
   {
    "id": "iffi-57th-edition-opens-goa-today-stories-without-borders-november-20",
    "category": "Entertainment",
@@ -3169,48 +3211,6 @@
    "en": {
     "title": "A daughter is a daughter: Kerala High Court orders end to 'adopted' tag in official records",
     "summary": "The Kerala High Court has directed the state government to stop identifying children as adopted son or adopted daughter in official records. Justice P V Kunhikrishnan ordered the separate category for adopted children removed from the e-District portal and the legal heirship certificate guidelines changed."
-   }
-  },
-  {
-   "id": "pm-modi-emotional-drug-menace-council-ministers-november-18",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T22:10:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-emotional-drug-menace-council-ministers-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-emotional-drug-menace-council-ministers-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-emotional-drug-menace-council-ministers-november-18-en.mp3",
-   "hi": {
-    "title": "गला भर आया, फिर भी साफ़ संदेश: पीएम मोदी बोले, नक्सलवाद खत्म हो सकता है तो नशे का संकट भी",
-    "summary": "केंद्रीय मंत्रिपरिषद की बैठक में प्रधानमंत्री नरेंद्र मोदी नशे की समस्या पर बोलते हुए भावुक हो गए और उन्होंने कहा कि नशे को पूरी तरह खत्म करना होगा। उन्होंने कहा कि अगर नक्सलवाद खत्म हो सकता है, तो नशे की समस्या भी खत्म हो सकती है।"
-   },
-   "en": {
-    "title": "PM Modi's voice chokes as he calls for a drug-free India: if Naxalism can end, so can the drug menace",
-    "summary": "Prime Minister Narendra Modi was overcome with emotion at a meeting of the Union Council of Ministers as he spoke about the drug menace, stressing it must be eradicated completely. He said that if Naxalism can be eliminated, the drug problem can also be eradicated."
-   }
-  },
-  {
-   "id": "odisha-schools-closed-six-districts-cyclone-akvan-november-18",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T21:48:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-schools-closed-six-districts-cyclone-akvan-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-schools-closed-six-districts-cyclone-akvan-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-schools-closed-six-districts-cyclone-akvan-november-18-en.mp3",
-   "hi": {
-    "title": "चक्रवात अकवान: ओडिशा के छह ज़िलों में उन्नीस से इक्कीस नवंबर तक स्कूल बंद, आँगनबाड़ी केंद्र भी नहीं खुलेंगे",
-    "summary": "चक्रवात अकवान के मद्देनज़र ओडिशा सरकार ने गंजम, गजपति, पुरी, जगतसिंहपुर, केंद्रपाड़ा और कंधमाल ज़िलों के सभी स्कूल और आँगनबाड़ी केंद्र उन्नीस से इक्कीस नवंबर तक बंद रखने का आदेश दिया है। खुर्दा और मलकानगिरी में उन्नीस और बीस नवंबर को स्कूल बंद रहेंगे।"
-   },
-   "en": {
-    "title": "Cyclone Akvan: Odisha shuts schools in six districts from November 19 to 21, Anganwadi centres also closed",
-    "summary": "Ahead of Cyclone Akvan, the Odisha government has ordered all schools and Anganwadi centres in Ganjam, Gajapati, Puri, Jagatsinghpur, Kendrapara and Kandhamal to remain closed from November 19 to 21. Schools in Khordha and Malkangiri will stay shut on November 19 and 20."
    }
   }
  ]
