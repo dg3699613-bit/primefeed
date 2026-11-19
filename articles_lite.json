@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T18:55:50+05:30",
+ "updatedAt": "2026-11-19T19:23:27+05:30",
  "articles": [
+  {
+   "id": "sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T19:11:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19-en.mp3",
+   "hi": {
+    "title": "सेंसेक्स नौ सौ नब्बे अंक उछलकर तिरासी हज़ार के पार, निफ्टी फिर पच्चीस हज़ार पाँच सौ के ऊपर; बैंक निफ्टी रिकॉर्ड पर",
+    "summary": "गुरुवार को शेयर बाज़ार में ज़बरदस्त तेज़ी रही। सेंसेक्स नौ सौ नब्बे अंक चढ़कर तिरासी हज़ार बाईस पर बंद हुआ, निफ्टी पच्चीस हज़ार पाँच सौ चौदह पर पहुँचा और बैंक निफ्टी पहली बार तिरेसठ हज़ार के पार बंद हुआ। ऑटो और बैंकिंग शेयरों में खरीदारी से बाज़ार नौ महीने के उच्चतम स्तर पर पहुँचा।"
+   },
+   "en": {
+    "title": "Sensex jumps 990 points past 83,000, Nifty reclaims 25,500 as Bank Nifty hits record",
+    "summary": "Indian markets staged a sharp rally on Thursday. The Sensex surged 990 points to close at 83,022, the Nifty climbed to 25,514 — its first close above 25,500 since February 23, 2026 — and the Bank Nifty ended above 63,000 for the first time. Auto and banking stocks led the broad-based buying."
+   }
+  },
+  {
+   "id": "gold-silver-crash-14-month-low-below-130000-november-19",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T19:11:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-silver-crash-14-month-low-below-130000-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-14-month-low-below-130000-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-14-month-low-below-130000-november-19-en.mp3",
+   "hi": {
+    "title": "सोना एक लाख तीस हज़ार से नीचे, चाँदी भी लुढ़की; चौदह महीने के निचले स्तर पर बुलियन",
+    "summary": "सोने और चाँदी की कीमतों में गुरुवार को गिरावट का सिलसिला जारी रहा। एमसीएक्स पर सोना एक लाख तीस हज़ार रुपये प्रति दस ग्राम से नीचे आ गया, जबकि चाँदी एक लाख उनसठ हज़ार रुपये प्रति किलो के करीब पहुँच गई। मज़बूत डॉलर और अमेरिका में ब्याज़ दरें बढ़ने की आशंका ने दोनों धातुओं पर दबाव बनाया।"
+   },
+   "en": {
+    "title": "Gold slips below Rs 1,30,000, silver slides too as bullion hits 14-month low",
+    "summary": "Gold and silver extended their slide on Thursday, falling to their lowest levels in 14 months. MCX gold slipped below Rs 1,30,000 per 10 grams, while silver fell towards Rs 1,59,000 per kg, weighed down by a firm US dollar and expectations of further interest-rate hikes by the US Federal Reserve."
+   }
+  },
   {
    "id": "india-japan-2-plus-2-japan-missile-tests-indian-ranges-unicorn-november-19",
    "category": "India",
@@ -3165,48 +3207,6 @@
    "en": {
     "title": "ADNOC vessel attacked in Strait of Hormuz, one crew member missing, eleven injured",
     "summary": "ADNOC Logistics & Services said on Wednesday that one of its vessels was attacked on Tuesday evening while transiting the Strait of Hormuz, leaving one crew member missing and 11 injured."
-   }
-  },
-  {
-   "id": "delhi-hc-centre-examine-acp-manasvi-videos-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T15:05:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-hc-centre-examine-acp-manasvi-videos-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-hc-centre-examine-acp-manasvi-videos-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-hc-centre-examine-acp-manasvi-videos-november-18-en.mp3",
-   "hi": {
-    "title": "दिल्ली हाई कोर्ट का केंद्र को निर्देश — एसीपी मानसवी के कथित वीडियो की जाँच कर ज़रूरत पड़ने पर हटाने पर विचार करें",
-    "summary": "दिल्ली हाई कोर्ट ने बुधवार को केंद्र सरकार से कहा कि वह दिल्ली पुलिस के एसीपी मानसवी वशिष्ठ के कथित आपत्तिजनक वीडियो की जाँच करे और ज़रूरत पड़े तो उन्हें हटाने पर विचार करे। अदालत ने एसीपी और गृह मंत्रालय को नोटिस भी जारी किया है।"
-   },
-   "en": {
-    "title": "Delhi HC to Centre: Examine ACP Manasvi's alleged videos against lawyers, consider removal",
-    "summary": "The Delhi High Court on Wednesday directed the Central government to examine social media videos allegedly showing Delhi Police ACP Manasvi Vashistha making objectionable remarks against lawyers and consider removing them if required. The court also issued notice to the ACP and the Ministry of Home Affairs."
-   }
-  },
-  {
-   "id": "ayushman-bharat-112-packages-government-hospitals-november-18",
-   "category": "Government Schemes",
-   "sub": "Centre Schemes",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T14:54:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ayushman-bharat-112-packages-government-hospitals-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ayushman-bharat-112-packages-government-hospitals-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ayushman-bharat-112-packages-government-hospitals-november-18-en.mp3",
-   "hi": {
-    "title": "आयुष्मान भारत के तहत एक सौ बारह इलाज अब सिर्फ़ सरकारी अस्पतालों में मिलेंगे, अभी तेईस पैकेज आरक्षित हैं",
-    "summary": "राष्ट्रीय स्वास्थ्य प्राधिकरण ने आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना के तहत सिर्फ़ सरकारी अस्पतालों के लिए आरक्षित इलाजों की सूची तेईस से बढ़ाकर एक सौ बारह करने का प्रस्ताव दिया है। इससे सी-सेक्शन से लेकर पथरी के इलाज तक कई सुविधाएँ मुफ़्त में सिर्फ़ सरकारी अस्पतालों में मिलेंगी।"
-   },
-   "en": {
-    "title": "Ayushman Bharat may reserve 112 treatments for government hospitals only, up from 23",
-    "summary": "The National Health Authority has proposed expanding the list of treatments reserved exclusively for public hospitals under Ayushman Bharat PM-JAY from twenty-three to one hundred and twelve, a move that would mean beneficiaries need a government hospital for free care on procedures from C-sections to kidney stone treatment."
    }
   }
  ]
