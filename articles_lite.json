@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T01:11:19+05:30",
+ "updatedAt": "2026-11-20T01:22:18+05:30",
  "articles": [
+  {
+   "id": "india-israel-barak-missile-upgrade-1976-crore-navy-deal-november-18",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T01:20:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-israel-barak-missile-upgrade-1976-crore-navy-deal-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-israel-barak-missile-upgrade-1976-crore-navy-deal-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-israel-barak-missile-upgrade-1976-crore-navy-deal-november-18-en.mp3",
+   "hi": {
+    "title": "नौसेना के युद्धपोतों की बराक मिसाइल प्रणाली का होगा उन्नयन, इस्राइल से एक हज़ार नौ सौ छिहत्तर करोड़ रुपये का सौदा",
+    "summary": "रक्षा मंत्रालय ने बुधवार को इस्राइल एयरोस्पेस इंडस्ट्रीज़ के साथ एक हज़ार नौ सौ छिहत्तर दशमलव चार शून्य करोड़ रुपये का अनुबंध किया है। इसके तहत नौसेना के युद्धपोतों पर लगी बराक पॉइंट डिफेंस मिसाइल प्रणाली के हार्डवेयर और सॉफ़्टवेयर का व्यापक उन्नयन होगा।"
+   },
+   "en": {
+    "title": "Indian Navy's Barak missile systems to get a major upgrade in a Rs 1,976.40 crore deal with Israel's IAI",
+    "summary": "The Defence Ministry on Wednesday signed a Rs 1,976.40 crore contract with Israel Aerospace Industries to upgrade the Barak Point Defence Missile System fitted on Indian Navy warships, covering a comprehensive overhaul of its hardware and software."
+   }
+  },
   {
    "id": "goldy-brar-canada-most-wanted-250000-reward-november-19",
    "category": "Crime & Law",
@@ -3188,29 +3209,6 @@
    "en": {
     "title": "Durai Vaiko alleges DMK ready to pay 40 crore rupees per MLA to topple TVK government",
     "summary": "MDMK MP Durai Vaiko on Wednesday alleged that the DMK is trying to destabilise Tamil Nadu's TVK government by offering up to 40 crore rupees per MLA to engineer defections, six months after the assembly elections. He also claimed efforts are on to forge a covert DMK-AIADMK alliance. The DMK has denied similar claims in the past."
-   }
-  },
-  {
-   "id": "indiramma-family-insurance-5-lakh-cover-1-crore-families-november-18",
-   "category": "Government Schemes",
-   "sub": "State Schemes",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T19:21:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indiramma-family-insurance-5-lakh-cover-1-crore-families-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indiramma-family-insurance-5-lakh-cover-1-crore-families-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indiramma-family-insurance-5-lakh-cover-1-crore-families-november-18-en.mp3",
-   "district": "Siddipet",
-   "state": "Telangana",
-   "hi": {
-    "title": "तेलंगाना में इंदिरम्मा फैमिली इंश्योरेंस: एक करोड़ परिवारों को पाँच लाख रुपये का जीवन बीमा, आवेदन कल से",
-    "summary": "तेलंगाना के मुख्यमंत्री ए. रेवंत रेड्डी ने 'इंदिरम्मा फैमिली इंश्योरेंस' योजना की घोषणा की है, जिसके तहत राज्य के एक करोड़ परिवारों के एक कमाऊ सदस्य को पाँच लाख रुपये का जीवन बीमा मिलेगा। आवेदन उन्नीस नवंबर से सिद्दीपेट में शुरू होंगे और अठारह दिसंबर तक चलेंगे।"
-   },
-   "en": {
-    "title": "Telangana's Indiramma Family Insurance: ₹5 lakh life cover for one crore families, applications open tomorrow",
-    "summary": "Telangana Chief Minister A. Revanth Reddy has announced the 'Indiramma Family Insurance' scheme, under which one earning member from each of one crore families in the state will get life insurance cover of ₹5 lakh. Applications open in Siddipet on November 19 and run till December 18."
    }
   }
  ]
