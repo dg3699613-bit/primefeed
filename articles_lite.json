@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T11:25:19+05:30",
+ "updatedAt": "2026-11-19T11:38:56+05:30",
  "articles": [
+  {
+   "id": "new-zealand-243-5-stumps-day-1-wellington-test-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T11:35:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/new-zealand-243-5-stumps-day-1-wellington-test-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/new-zealand-243-5-stumps-day-1-wellington-test-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/new-zealand-243-5-stumps-day-1-wellington-test-november-19-en.mp3",
+   "hi": {
+    "title": "वेलिंगटन टेस्ट: निकोल्स के नाबाद एक सौ तेरह रन से न्यूज़ीलैंड पहले दिन स्टंप्स तक दो सौ तैंतालीस रन पर पाँच विकेट",
+    "summary": "हेनरी निकोल्स के नाबाद एक सौ तेरह और ग्लेन फ़िलिप्स के नाबाद चौरानवे रन की बदौलत न्यूज़ीलैंड भारत के खिलाफ़ पहले टेस्ट के पहले दिन स्टंप्स तक दो सौ तैंतालीस रन पर पाँच विकेट तक पहुँच गया। जसप्रीत बुमराह के शुरुआती झटकों से मेज़बान टीम एक समय सत्तर रन पर पाँच विकेट गंवा बैठी थी, लेकिन दोनों बल्लेबाज़ों ने छठे विकेट के लिए एक सौ तिहत्तर रन की अटूट साझेदारी कर ली।"
+   },
+   "en": {
+    "title": "Nicholls' unbeaten 113 lifts New Zealand to 243 for 5 at stumps on day one after Bumrah reduces hosts to 70 for 5",
+    "summary": "Henry Nicholls' unbeaten 113 and Glenn Phillips' unbeaten 94 carried New Zealand to 243 for 5 at stumps on the opening day of the first Test against India at the Basin Reserve. Jasprit Bumrah's early burst had left the hosts reeling at 70 for 5, before the pair's unbroken 173-run stand for the sixth wicket turned the day around."
+   }
+  },
   {
    "id": "bhakra-canal-bridge-collapse-patiala-two-trucks-trapped-november-19",
    "category": "State & Local",
@@ -3170,29 +3191,6 @@
    "en": {
     "title": "11 killed in Phuket shophouse fire; building had no fire escape as Thailand orders safety crackdown",
     "summary": "A pre-dawn fire tore through a motorcycle rental shop and guest rooms in Patong, Phuket, killing 11 people and injuring 16. Thai authorities found the building had no fire escape stairs and its upper floors were converted into rooms without permission, and the Interior Ministry has ordered a safety review of similar buildings across the country."
-   }
-  },
-  {
-   "id": "mv-vishva-uday-27-crew-rescued-paradip-odisha-november-17",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T05:27:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mv-vishva-uday-27-crew-rescued-paradip-odisha-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mv-vishva-uday-27-crew-rescued-paradip-odisha-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mv-vishva-uday-27-crew-rescued-paradip-odisha-november-17-en.mp3",
-   "district": "Jagatsinghpur",
-   "state": "Odisha",
-   "hi": {
-    "title": "ओडिशा तट पर डूबते जहाज़ एमवी विश्व उदय के सत्ताईस नाविक बचाए गए, पारादीप बंदरगाह ने खींचकर किनारे लगाया",
-    "summary": "ओडिशा तट से दूर समुद्र में फँसे मालवाहक जहाज़ एमवी विश्व उदय के सत्ताईस नाविकों को पारादीप बंदरगाह प्राधिकरण और भारतीय तटरक्षक बल ने बचा लिया। प्रोपेलर शाफ़्ट टूटने से जहाज़ के इंजन कक्ष में पानी भर गया था, जिसके बाद दो टग ने उसे खींचकर किनारे लगाया।"
-   },
-   "en": {
-    "title": "27 crew safe as Paradip Port tows flooding cargo ship MV Vishva Uday to shore",
-    "summary": "A major maritime disaster was averted off the Odisha coast after the Paradip Port Authority and the Indian Coast Guard rescued all 27 crew members of the cargo vessel MV Vishva Uday, which had begun taking in water 50 nautical miles from Paradip after a propeller shaft failure."
    }
   }
  ]
