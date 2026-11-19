@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T16:30:08+05:30",
+ "updatedAt": "2026-11-19T16:38:24+05:30",
  "articles": [
+  {
+   "id": "trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19",
+   "category": "World",
+   "sub": "China",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-19T16:36:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19-en.mp3",
+   "hi": {
+    "title": "ट्रंप, शी और पुतिन की ऐतिहासिक बैठक खत्म: परमाणु हथियारों पर बातचीत और स्थिर ऊर्जा पर 'शांति घोषणा'",
+    "summary": "शेनझेन में अमेरिका, चीन और रूस के नेताओं की पहली त्रिपक्षीय बैठक करीब डेढ़ घंटे चली। तीनों नेताओं ने परमाणु जोखिम घटाने पर बातचीत और स्थिर ऊर्जा आपूर्ति का वादा करते हुए संयुक्त 'शांति घोषणा' जारी की। यूक्रेन युद्ध पर भी चर्चा हुई, लेकिन किसी बाध्यकारी समझौते की घोषणा नहीं हुई।"
+   },
+   "en": {
+    "title": "Trump, Xi and Putin end historic 90-minute summit with 'peace declaration' on nuclear talks and energy",
+    "summary": "The first-ever trilateral meeting of the leaders of the United States, China and Russia ended in Shenzhen after about 90 minutes, with a joint 'peace declaration' pledging dialogue on reducing nuclear risks and stable energy flows. The Ukraine war was discussed, but no binding agreement was announced."
+   }
+  },
   {
    "id": "south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19",
    "category": "Cricket & Sports",
@@ -244,8 +265,8 @@
    "id": "trump-xi-putin-first-trilateral-summit-held-shenzhen-november-19",
    "category": "World",
    "sub": "Asia",
-   "breaking": true,
-   "featured": true,
+   "breaking": false,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-19T14:56:58+05:30",
    "source": "PrimeFeed Desk",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "Delhi Cabinet clears ₹5 crore upgrade for pollution testing centres, ₹10 lakh health cover for transgender community",
     "summary": "The Delhi Cabinet, chaired by Chief Minister Rekha Gupta, has approved a ₹5 crore plan to modernise the capital's pollution testing centres, with ₹1 lakh for each of nearly 500 eligible locations. The same meeting extended Ayushman Bharat health cover of up to ₹10 lakh a year to eligible transgender beneficiaries."
-   }
-  },
-  {
-   "id": "bjp-rahul-gandhi-anti-india-propaganda-columbia-remark-november-18",
-   "category": "Politics",
-   "sub": "BJP",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T13:03:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-rahul-gandhi-anti-india-propaganda-columbia-remark-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-rahul-gandhi-anti-india-propaganda-columbia-remark-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-rahul-gandhi-anti-india-propaganda-columbia-remark-november-18-en.mp3",
-   "hi": {
-    "title": "भाजपा ने राहुल गांधी को बताया 'भारत-विरोधी प्रचार का नेता', कोलंबिया वाले बयान पर पलटवार",
-    "summary": "राहुल गांधी के कोलंबिया विश्वविद्यालय में दिए गए 'आर्थिक तबाही' वाले बयान पर भाजपा ने तीखा पलटवार किया है। पार्टी ने कहा कि विदेशी धरती पर भारत की छवि ख़राब करना कांग्रेस नेता की आदत बन गई है, और अंतरराष्ट्रीय एजेंसियों के आँकड़ों का हवाला देते हुए दावे को ख़ारिज किया।"
-   },
-   "en": {
-    "title": "BJP calls Rahul Gandhi 'leader of anti-India propaganda' over Columbia 'economic disaster' remark",
-    "summary": "The BJP hit back sharply at Rahul Gandhi over his remarks at Columbia University, where he said India faces an 'economic disaster'. The party said running India down on foreign soil has become a recurring pattern for the Congress leader, and cited IMF, Moody's and World Bank data to counter the claim."
    }
   }
  ]
