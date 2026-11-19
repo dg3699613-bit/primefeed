@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T00:01:37+05:30",
+ "updatedAt": "2026-11-20T00:10:54+05:30",
  "articles": [
+  {
+   "id": "assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T00:08:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19-en.mp3",
+   "district": "Kamrup",
+   "state": "Assam",
+   "hi": {
+    "title": "असम में बड़ी कार्रवाई: कामरूप में दस दशमलव सात दो किलो हेरोइन बरामद, पचासी करोड़ का माल, दो कथित तस्कर गिरफ्तार",
+    "summary": "असम पुलिस की एसटीएफ़ ने कामरूप जिले के अमीनगांव में एक काली फ़ोर्ड एंडेवर से दस दशमलव सात दो किलोग्राम हेरोइन बरामद की है, जिसकी कीमत लगभग पचासी करोड़ रुपये बताई गई है। दो कथित तस्करों को गिरफ्तार किया गया है।"
+   },
+   "en": {
+    "title": "Assam STF seizes 10.72 kg heroin worth Rs 85 crore in Kamrup, two alleged traffickers arrested",
+    "summary": "The Assam Police Special Task Force has seized 10.72 kg of heroin, estimated to be worth around Rs 85 crore, from a black Ford Endeavour at Amingaon in Kamrup district. Two alleged traffickers have been arrested."
+   }
+  },
+  {
+   "id": "indonesia-passes-asset-forfeiture-law-18-years-november-19",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T00:08:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indonesia-passes-asset-forfeiture-law-18-years-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-passes-asset-forfeiture-law-18-years-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-passes-asset-forfeiture-law-18-years-november-19-en.mp3",
+   "hi": {
+    "title": "इंडोनेशिया में अठारह साल बाद ऐतिहासिक क़ानून: बिना सज़ा भी ज़ब्त होगी अपराध से कमाई संपत्ति",
+    "summary": "इंडोनेशिया की संसद ने अठारह साल के इंतज़ार के बाद संपत्ति ज़ब्ती क़ानून पारित कर दिया है। अब कुछ मामलों में अपराध से जुड़ी संपत्ति बिना दोषसिद्धि के भी ज़ब्त की जा सकेगी।"
+   },
+   "en": {
+    "title": "Indonesia passes landmark asset forfeiture law after 18 years: criminal assets can be seized without conviction",
+    "summary": "Indonesia's parliament has passed the country's first-ever asset forfeiture law, 18 years after the bill was first proposed. In certain cases, assets linked to corruption and other crimes can now be seized without a criminal conviction."
+   }
+  },
   {
    "id": "congress-aicc-81-secretaries-reshuffle-kharge-november-19",
    "category": "Politics",
@@ -3169,50 +3213,6 @@
    "en": {
     "title": "Israel launches 'concentrated operation' in three areas of central Gaza",
     "summary": "The Israeli military said it has begun a 'concentrated operation' in three areas of central Gaza, west of the 'yellow line' demarcation, to eliminate what it called a threat to its forces, as strikes and demolitions continued across the enclave despite the October ceasefire."
-   }
-  },
-  {
-   "id": "air-india-express-appoints-deepak-rajawat-ceo-december-1-november-18",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T18:11:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/air-india-express-appoints-deepak-rajawat-ceo-december-1-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-express-appoints-deepak-rajawat-ceo-december-1-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-express-appoints-deepak-rajawat-ceo-december-1-november-18-en.mp3",
-   "hi": {
-    "title": "एयर इंडिया एक्सप्रेस के नए सीईओ बने दीपक राजावत, पहली दिसंबर से संभालेंगे कमान",
-    "summary": "टाटा समूह की बजट एयरलाइन एयर इंडिया एक्सप्रेस ने अपने मुख्य वित्तीय अधिकारी दीपक राजावत को मुख्य कार्यकारी अधिकारी नियुक्त किया है। वह पहली दिसंबर से पद संभालेंगे; अलोक सिंह के मार्च में हटने के बाद से यह पद खाली था।"
-   },
-   "en": {
-    "title": "Air India Express names CFO Deepak Rajawat as CEO; takes charge on December 1",
-    "summary": "Tata Group's budget carrier Air India Express has appointed Chief Financial Officer Deepak Rajawat as its new Chief Executive Officer, effective December 1. The post has been vacant since Aloke Singh stepped down in March after a five-year tenure."
-   }
-  },
-  {
-   "id": "manipur-army-captain-killed-vehicle-plunges-itam-river-november-18",
-   "category": "India",
-   "sub": "Defence",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T18:11:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-army-captain-killed-vehicle-plunges-itam-river-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-army-captain-killed-vehicle-plunges-itam-river-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-army-captain-killed-vehicle-plunges-itam-river-november-18-en.mp3",
-   "district": "Imphal East",
-   "state": "Manipur",
-   "hi": {
-    "title": "मणिपुर में सेना का वाहन ईटाम नदी में गिरा, कैप्टन हनुमान राम की मौत, तीन जवान गंभीर",
-    "summary": "इंफाल पूर्व ज़िले में लमलाई चल्लौ के पास आठवीं बिहार रेजिमेंट का बख्तरबंद वाहन ईटाम नदी में गिर गया। उनतीस साल के कैप्टन हनुमान राम की अस्पताल में मौत हो गई, तीन जवान गंभीर रूप से घायल हैं।"
-   },
-   "en": {
-    "title": "Army captain killed, three soldiers injured as vehicle plunges into Itam River in Manipur",
-    "summary": "An armoured vehicle of the 8th Bihar Regiment plunged into the Itam River in Manipur's Imphal East district on Wednesday afternoon. Captain Hanuman Ram, 29, died at BABINA Hospital; three soldiers remain in critical condition."
    }
   }
  ]
