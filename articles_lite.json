@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T01:22:18+05:30",
+ "updatedAt": "2026-11-20T01:38:54+05:30",
  "articles": [
+  {
+   "id": "kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T01:34:04+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19-en.mp3",
+   "district": "Kollam",
+   "state": "Kerala",
+   "hi": {
+    "title": "कोट्टियम में तारकोल प्लांट के धुएँ से बासठ स्कूली बच्चे बीमार, अस्पताल में भर्ती; मानवाधिकार आयोग ने लिया संज्ञान",
+    "summary": "कोल्लम जिले के कोट्टियम में ऑक्ज़िलियम स्कूल के बासठ बच्चे बुधवार को अचानक बीमार पड़ गए। बच्चों को साँस लेने में तकलीफ़, उल्टी और चक्कर की शिकायत हुई। सभी बच्चे स्थिर हैं और प्लांट को फिर से बंद कर दिया गया है।"
+   },
+   "en": {
+    "title": "62 schoolchildren hospitalised in Kerala after fumes from tar plant drift into classrooms",
+    "summary": "Sixty-two students of Auxilium School in Kottiyam, Kollam district, were taken to hospital on Wednesday after complaining of breathlessness, nausea and vomiting. All are stable. The nearby tar-mixing unit has been shut again, and the state human rights commission has ordered an inquiry."
+   }
+  },
+  {
+   "id": "india-beat-new-zealand-3-2-hockey-series-opener-auckland-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Hockey",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T01:34:04+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-new-zealand-3-2-hockey-series-opener-auckland-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-new-zealand-3-2-hockey-series-opener-auckland-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-new-zealand-3-2-hockey-series-opener-auckland-november-19-en.mp3",
+   "hi": {
+    "title": "हॉकी: भारत ने न्यूज़ीलैंड को तीन-दो से हराकर सीरीज़ में बनाई बढ़त",
+    "summary": "ऑकलैंड में खेले गए पहले मैच में भारतीय पुरुष हॉकी टीम ने मेज़बान न्यूज़ीलैंड को तीन-दो से हरा दिया। उत्तम सिंह, शारदानंद तिवारी और कप्तान संजय ने भारत के लिए गोल किए। भारत तीन मैचों की सीरीज़ में एक-शून्य से आगे है।"
+   },
+   "en": {
+    "title": "India fight back to beat New Zealand 3-2 in hockey series opener in Auckland",
+    "summary": "India came from behind to beat hosts New Zealand 3-2 in the opening match of the 2026 India-New Zealand Century of Sporting Unity Event in Auckland on Thursday. Uttam Singh, Shardanand Tiwari and captain Sanjay scored for the visitors, who lead the three-match series 1-0."
+   }
+  },
   {
    "id": "india-israel-barak-missile-upgrade-1976-crore-navy-deal-november-18",
    "category": "India",
@@ -3165,50 +3209,6 @@
    "en": {
     "title": "Council of Ministers meet: poverty and Naxalism on top as PM Modi reviews 50 crore lifted out of poverty",
     "summary": "Prime Minister Narendra Modi chaired a meeting of the Union Council of Ministers at Bharat Mandapam, where poverty reduction and the elimination of Naxalism were the two key issues discussed, with 11 secretaries giving presentations."
-   }
-  },
-  {
-   "id": "bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T19:34:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-raps-bmc-vip-cleanup-ballard-estate-november-18-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "बॉम्बे हाई कोर्ट ने बीएमसी को फटकारा: मेहमानों के लिए चमकी सड़कें, मुंबईकरों के लिए कचरे के ढेर",
-    "summary": "बॉम्बे हाई कोर्ट ने बुधवार को बीएमसी को सिर्फ़ बड़े मेहमानों के आने पर मुंबई की सड़कें चमकाने को लेकर फटकार लगाई और पूछा कि आम मुंबईकरों को रोज़ यही सुविधा क्यों नहीं मिलनी चाहिए। अदालत ने प्लास्टिक पर पूर्ण प्रतिबंध पर विचार करने को कहा और कांजुरमार्ग डिपो का पंद्रह दिन में ऑडिट कराने का प्रस्ताव रखा।"
-   },
-   "en": {
-    "title": "Bombay High Court raps BMC: roads shine for royals, garbage piles up for Mumbaikars",
-    "summary": "The Bombay High Court on Wednesday pulled up the BMC for cleaning up Mumbai's roads only for VIP visits, pointing to the polished Ballard Estate ahead of the British royals' visit, and asked why ordinary citizens should not get the same upkeep every day. The court also pressed for a complete plastic ban and proposed an audit of the Kanjurmarg dumping ground within 15 days."
-   }
-  },
-  {
-   "id": "durai-vaiko-dmk-40-crore-per-mla-tvk-defections-november-18",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T19:34:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/durai-vaiko-dmk-40-crore-per-mla-tvk-defections-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/durai-vaiko-dmk-40-crore-per-mla-tvk-defections-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/durai-vaiko-dmk-40-crore-per-mla-tvk-defections-november-18-en.mp3",
-   "hi": {
-    "title": "दुरई वैको का आरोप: टीवीके सरकार गिराने के लिए डीएमके प्रति विधायक चालीस करोड़ रुपये देने को तैयार",
-    "summary": "एमडीएमके सांसद दुरई वैको ने बुधवार को आरोप लगाया कि डीएमके विधानसभा चुनाव के छह महीने बाद तमिलनाडु की टीवीके सरकार को गिराने के लिए प्रति विधायक चालीस करोड़ रुपये तक की पेशकश कर रही है। उन्होंने डीएमके और एआईएडीएमके के बीच गुप्त गठबंधन की कोशिश का दावा भी किया। डीएमके ने पहले भी ऐसे आरोपों से इनकार किया है।"
-   },
-   "en": {
-    "title": "Durai Vaiko alleges DMK ready to pay 40 crore rupees per MLA to topple TVK government",
-    "summary": "MDMK MP Durai Vaiko on Wednesday alleged that the DMK is trying to destabilise Tamil Nadu's TVK government by offering up to 40 crore rupees per MLA to engineer defections, six months after the assembly elections. He also claimed efforts are on to forge a covert DMK-AIADMK alliance. The DMK has denied similar claims in the past."
    }
   }
  ]
