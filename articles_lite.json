@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T03:20:11+05:30",
+ "updatedAt": "2026-11-20T03:37:52+05:30",
  "articles": [
+  {
+   "id": "indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T03:37:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19-en.mp3",
+   "en": {
+    "title": "Indian firms announce record $20.5 billion investment in US, highest from any country",
+    "summary": "Indian companies have announced a record $20.5 billion in new investments in the United States this year, the highest from any country, a senior American diplomat said on Thursday. Pharmaceuticals account for more than $19.1 billion of the total."
+   },
+   "hi": {
+    "title": "अमेरिका में भारतीय कंपनियों का रिकॉर्ड निवेश, बीस अरब डॉलर से ज़्यादा की घोषणा",
+    "summary": "भारतीय कंपनियों ने इस साल अमेरिका में बीस अरब डॉलर से ज़्यादा के नए निवेश की घोषणा की है। अमेरिकी दूतावास के अधिकारी जॉन कोरोनाडो ने कहा कि यह किसी भी देश की ओर से सबसे बड़ी प्रतिबद्धता है। दवा क्षेत्र का हिस्सा सबसे बड़ा है।"
+   }
+  },
+  {
+   "id": "india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T03:37:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19-en.mp3",
+   "en": {
+    "title": "India had 60 days of oil and gas supplies during Hormuz crisis, raised LPG output by 57%: Puri",
+    "summary": "Petroleum Minister Hardeep Singh Puri said India had enough crude oil and natural gas to last 60 days even if imports and domestic production had stopped during the Strait of Hormuz crisis. LPG stocks fell to 25 days at one point, prompting a 57% rise in domestic output."
+   },
+   "hi": {
+    "title": "होर्मुज़ संकट में भी भारत के पास था साठ दिन का तेल-गैस भंडार, एलपीजी उत्पादन सत्तावन प्रतिशत बढ़ाया",
+    "summary": "पेट्रोलियम मंत्री हरदीप सिंह पुरी ने कहा कि होर्मुज़ संकट के दौरान आयात और घरेलू उत्पादन रुकने पर भी भारत के पास कच्चे तेल और गैस का साठ दिन का भंडार था। एलपीजी का भंडार एक समय पच्चीस दिन का रह गया था, जिसके बाद घरेलू उत्पादन सत्तावन प्रतिशत बढ़ाया गया।"
+   }
+  },
   {
    "id": "punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19",
    "category": "Rozgar",
@@ -2860,13 +2902,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
+    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations.",
+    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations"
    },
    "featured": false,
    "hi": {
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
+    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।",
+    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई"
    },
    "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
@@ -3169,48 +3211,6 @@
    "en": {
     "title": "GTA 6 reviews are in: 99 on Metacritic, tied as the best-reviewed game of all time",
     "summary": "Grand Theft Auto 6 has debuted at 99 on Metacritic, tying The Legend of Zelda: Ocarina of Time as the highest-rated game ever, with a 98 average on OpenCritic and 100 per cent of critics recommending it. The game launches at midnight on November 19 on PlayStation 5 and Xbox Series X and S."
-   }
-  },
-  {
-   "id": "india-fined-35-percent-match-fee-slow-over-rate-new-zealand-odi-november-18",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T22:24:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-fined-35-percent-match-fee-slow-over-rate-new-zealand-odi-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-fined-35-percent-match-fee-slow-over-rate-new-zealand-odi-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-fined-35-percent-match-fee-slow-over-rate-new-zealand-odi-november-18-en.mp3",
-   "hi": {
-    "title": "सीरीज़ जीती, जुर्माना भी भरा: धीमी ओवर गति पर टीम इंडिया की मैच फ़ीस से पैंतीस प्रतिशत की कटौती",
-    "summary": "न्यूज़ीलैंड के खिलाफ आखिरी वनडे में धीमी ओवर गति के लिए आईसीसी ने भारतीय टीम पर मैच फ़ीस का पैंतीस प्रतिशत जुर्माना लगाया है। टीम तय दर से सात ओवर पीछे रही थी। कार्यवाहक कप्तान श्रेयस अय्यर ने अपराध स्वीकार कर सज़ा मान ली।"
-   },
-   "en": {
-    "title": "Series won, fine paid: India docked 35% of match fee for slow over-rate in final New Zealand ODI",
-    "summary": "The ICC has fined India 35 per cent of their match fee for maintaining a slow over-rate in the fifth ODI against New Zealand in Mount Maunganui. India were seven overs short of the required rate, and stand-in captain Shreyas Iyer pleaded guilty and accepted the sanction."
-   }
-  },
-  {
-   "id": "kerala-hc-adopted-tag-official-records-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T22:10:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kerala-hc-adopted-tag-official-records-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-hc-adopted-tag-official-records-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-hc-adopted-tag-official-records-november-18-en.mp3",
-   "hi": {
-    "title": "बेटी तो बेटी है: केरल हाई कोर्ट का आदेश, सरकारी दस्तावेज़ों में अब 'गोद लिया' शब्द नहीं लिखा जाएगा",
-    "summary": "केरल हाई कोर्ट ने कहा है कि सरकारी दस्तावेज़ों में बच्चों को गोद लिया बेटा या गोद ली हुई बेटी कहकर दर्ज नहीं किया जाएगा। जस्टिस पीवी कुन्हीकृष्णन ने सरकार को ई-डिस्ट्रिक्ट पोर्टल से गोद लिए बच्चों का अलग विकल्प हटाने और वारिस प्रमाणपत्र के नियम बदलने का आदेश दिया है।"
-   },
-   "en": {
-    "title": "A daughter is a daughter: Kerala High Court orders end to 'adopted' tag in official records",
-    "summary": "The Kerala High Court has directed the state government to stop identifying children as adopted son or adopted daughter in official records. Justice P V Kunhikrishnan ordered the separate category for adopted children removed from the e-District portal and the legal heirship certificate guidelines changed."
    }
   }
  ]
