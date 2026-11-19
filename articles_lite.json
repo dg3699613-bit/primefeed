@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T06:51:52+05:30",
+ "updatedAt": "2026-11-19T07:09:16+05:30",
  "articles": [
+  {
+   "id": "bumrah-third-wicket-new-zealand-89-5-second-session-wellington-test-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T07:05:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bumrah-third-wicket-new-zealand-89-5-second-session-wellington-test-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-third-wicket-new-zealand-89-5-second-session-wellington-test-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-third-wicket-new-zealand-89-5-second-session-wellington-test-november-19-en.mp3",
+   "hi": {
+    "title": "वेलिंगटन टेस्ट: बुमराह का तीसरा शिकार, दूसरे सत्र में न्यूज़ीलैंड नवासी रन पर पाँच विकेट",
+    "summary": "लंच के बाद जसप्रीत बुमराह ने टॉम ब्लंडेल को पाँच रन पर आउट कर अपना तीसरा विकेट लिया, और पहले टेस्ट के पहले दिन न्यूज़ीलैंड बत्तीस ओवर में नवासी रन पर पाँच विकेट पर पहुँच गया। हेनरी निकोल्स चवालीस रन पर नाबाद हैं, उनके साथ ग्लेन फ़िलिप्स चौदह रन पर खेल रहे हैं।"
+   },
+   "en": {
+    "title": "Bumrah's third strike leaves New Zealand five down in Wellington as Nicholls holds firm on 44",
+    "summary": "Jasprit Bumrah removed Tom Blundell for 5 soon after lunch to claim his third wicket, and New Zealand reached 89 for 5 in the second session on Day 1 of the Wellington Test. Henry Nicholls was unbeaten on 44, with Glenn Phillips on 14, after India had reduced the hosts to 60 for 4 at lunch."
+   }
+  },
   {
    "id": "florida-pastor-convicted-haiti-president-moise-assassination-november-18",
    "category": "World",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "Russian military An-12 crashes in Siberia, all 19 on board killed",
     "summary": "A Russian military An-12 transport plane crashed near the village of Yagunovo in Siberia's Kemerovo region on Tuesday. Russia's Defence Ministry said all 19 people on board were killed; a technical malfunction is the preliminary cause."
-   }
-  },
-  {
-   "id": "iran-drones-us-radar-bahrain-third-attack-five-days-november-17",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T00:23:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-drones-us-radar-bahrain-third-attack-five-days-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-drones-us-radar-bahrain-third-attack-five-days-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-drones-us-radar-bahrain-third-attack-five-days-november-17-en.mp3",
-   "hi": {
-    "title": "बहरीन में पाँच दिन में तीसरी बार ईरानी ड्रोन हमला — मनामा में धमाकों की आवाज़, अमेरिकी रडार निशाने पर",
-    "summary": "मंगलवार को ईरान के रिवोल्यूशनरी गार्ड्स ने कहा कि उसके ड्रोनों ने बहरीन के शेख ईसा एयर बेस पर अमेरिका से संचालित रडार प्रणाली को निशाना बनाया — पाँच दिन में बहरीन में अमेरिकी ठिकानों पर यह तीसरा ईरानी हमला है। बहरीन ने कहा कि उसकी वायु रक्षा ने हमला रोक लिया और किसी के हताहत होने या नुकसान की कोई खबर नहीं है।"
-   },
-   "en": {
-    "title": "Iran fires drones at US radar in Bahrain for third time in five days as blasts echo over Manama",
-    "summary": "Iran's Revolutionary Guards said their drones targeted a US-operated radar system at Sheikh Isa Air Base in Bahrain on Tuesday — the third Iranian attack on US targets in the kingdom in five days. Bahrain said its air defences intercepted the attack and no casualties or damage were reported."
    }
   }
  ]
