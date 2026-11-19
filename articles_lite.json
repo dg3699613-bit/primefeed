@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T03:37:52+05:30",
+ "updatedAt": "2026-11-20T03:56:04+05:30",
  "articles": [
+  {
+   "id": "cisf-foils-airport-security-breaches-delhi-jaipur-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T03:51:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cisf-foils-airport-security-breaches-delhi-jaipur-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cisf-foils-airport-security-breaches-delhi-jaipur-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cisf-foils-airport-security-breaches-delhi-jaipur-november-19-en.mp3",
+   "en": {
+    "title": "CISF foils two airport security breaches in a day: man forces way into Delhi's Terminal 3, another scales Jaipur airport wall",
+    "summary": "CISF personnel stopped two airport security breaches within a day: a Haryana athlete who tried to force his way into Terminal 3 of Delhi's IGI Airport on Wednesday, and a man who scaled the boundary wall of Jaipur airport on Tuesday night. Both were handed to police and cases registered."
+   },
+   "hi": {
+    "title": "दिल्ली हवाई अड्डे के टर्मिनल ३ में ज़बरदस्ती घुसने की कोशिश नाकाम, जयपुर में दीवार फाँदकर घुसा व्यक्ति भी पकड़ा",
+    "summary": "सीआईएसएफ़ के जवानों ने एक दिन के भीतर हवाई अड्डों पर सुरक्षा में सेंध लगाने की दो कोशिशें नाकाम कर दीं। दिल्ली के आईजीआई हवाई अड्डे के टर्मिनल ३ में बिना दस्तावेज़ घुसने की कोशिश कर रहे हरियाणा के एथलीट और जयपुर हवाई अड्डे की दीवार फाँदने वाले व्यक्ति को पुलिस को सौंप दिया गया है।"
+   },
+   "district": "New Delhi",
+   "state": "Delhi"
+  },
+  {
+   "id": "hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T03:51:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19-en.mp3",
+   "en": {
+    "title": "Commonwealth Games gold medallist Hafizuddin Roslin loses right arm in motorcycle crash",
+    "summary": "Malaysian weightlifter Mohd Hafizuddin Roslin, who won Commonwealth Games gold in the men's 88kg event in Glasgow in July, has had his right arm amputated above the elbow after a motorcycle crash on November 16. The 21-year-old is conscious and stable in hospital in Kuala Lumpur."
+   },
+   "hi": {
+    "title": "राष्ट्रमंडल खेलों के स्वर्ण पदक विजेता हाफ़िज़ुद्दीन रोसलिन का मोटरसाइकिल हादसे में दाहिना हाथ कटा",
+    "summary": "मलेशिया के भारोत्तोलक मोहम्मद हाफ़िज़ुद्दीन रोसलिन का सोलह नवंबर के मोटरसाइकिल हादसे के बाद दाहिना हाथ कोहनी के ऊपर से काटना पड़ा। ग्लासगो में अठासी किलोग्राम वर्ग में स्वर्ण जीतने वाले इक्कीस वर्षीय रोसलिन अस्पताल में स्थिर हैं।"
+   }
+  },
   {
    "id": "indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19",
    "category": "Business",
@@ -2902,13 +2946,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations.",
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations"
+    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
+    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
    },
    "featured": false,
    "hi": {
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।",
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई"
+    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
+    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
    },
    "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
@@ -3169,48 +3213,6 @@
    "en": {
     "title": "Lakshya Sen seals BWF World Tour Finals spot as Srikanth stuns Watanabe in Hong Kong",
     "summary": "Lakshya Sen has qualified for the BWF World Tour Finals 2026, returning to the season-ending championship for the first time since 2021. Kidambi Srikanth's 21-16, 16-21, 21-9 win over Koki Watanabe of Japan in the Hong Kong Open first round sealed the spot, with Lakshya on 74,180 points in sixth place in the Race to Finals."
-   }
-  },
-  {
-   "id": "ramayana-1500-crore-worldwide-1000-crore-india-gross-november-18",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T22:41:43+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-1500-crore-worldwide-1000-crore-india-gross-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-1500-crore-worldwide-1000-crore-india-gross-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-1500-crore-worldwide-1000-crore-india-gross-november-18-en.mp3",
-   "hi": {
-    "title": "दो हफ़्ते में पंद्रह सौ करोड़: रामायण ने रचा इतिहास, भारत में भी हज़ार करोड़ ग्रॉस पार",
-    "summary": "रामायण: भाग एक ने रिलीज़ के महज़ चौदह दिन में दुनिया भर में पंद्रह सौ करोड़ रुपये की कमाई कर ली है और भारत में भी हज़ार करोड़ रुपये ग्रॉस का आंकड़ा पार कर लिया है। नितेश तिवारी की यह फिल्म अब तक की पाँचवीं सबसे ज़्यादा कमाई करने वाली भारतीय फिल्म है।"
-   },
-   "en": {
-    "title": "Ramayana crosses Rs 1,500 crore worldwide in 14 days, enters Rs 1,000 crore club in India",
-    "summary": "Ramayana: Part 1 has crossed Rs 1,500 crore at the worldwide box office in just 14 days and entered the Rs 1,000 crore club for domestic gross. The Nitesh Tiwari epic, made at a combined franchise budget of Rs 4,000 crore, is now the second Bollywood film past 25 million dollars in North America."
-   }
-  },
-  {
-   "id": "gta-6-reviews-metacritic-99-best-reviewed-game-ever-november-18",
-   "category": "Technology",
-   "sub": "Gadgets",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T22:41:43+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-reviews-metacritic-99-best-reviewed-game-ever-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-reviews-metacritic-99-best-reviewed-game-ever-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-reviews-metacritic-99-best-reviewed-game-ever-november-18-en.mp3",
-   "hi": {
-    "title": "जीटीए सिक्स को मिले अब तक के सबसे बड़े नंबर: मेटाक्रिटिक पर निन्यानबे, इतिहास के सर्वश्रेष्ठ खेलों में शामिल",
-    "summary": "ग्रैंड थेफ़्ट ऑटो सिक्स को मेटाक्रिटिक पर निन्यानबे अंक मिले हैं, जिससे यह द लीजेंड ऑफ़ ज़ेल्डा: ओकैरिना ऑफ़ टाइम के साथ अब तक का सबसे ज़्यादा रेटिंग वाला खेल बन गया है। ओपनक्रिटिक पर इसका औसत अट्ठानबे है और हर समीक्षक ने इसे खेलने की सलाह दी है। यह खेल उन्नीस नवंबर की आधी रात को प्लेस्टेशन पाँच और एक्सबॉक्स सीरीज़ एक्स और एस पर आ रहा है।"
-   },
-   "en": {
-    "title": "GTA 6 reviews are in: 99 on Metacritic, tied as the best-reviewed game of all time",
-    "summary": "Grand Theft Auto 6 has debuted at 99 on Metacritic, tying The Legend of Zelda: Ocarina of Time as the highest-rated game ever, with a 98 average on OpenCritic and 100 per cent of critics recommending it. The game launches at midnight on November 19 on PlayStation 5 and Xbox Series X and S."
    }
   }
  ]
