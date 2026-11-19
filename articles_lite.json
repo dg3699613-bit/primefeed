@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T00:24:25+05:30",
+ "updatedAt": "2026-11-20T00:57:06+05:30",
  "articles": [
+  {
+   "id": "ugc-net-december-2026-subject-wise-schedule-nta-november-19",
+   "category": "Education",
+   "sub": "Govt Exams",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T00:49:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ugc-net-december-2026-subject-wise-schedule-nta-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ugc-net-december-2026-subject-wise-schedule-nta-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ugc-net-december-2026-subject-wise-schedule-nta-november-19-en.mp3",
+   "hi": {
+    "title": "यूजीसी नेट दिसंबर परीक्षा का विषयवार शेड्यूल जारी, चौदह से इक्कीस दिसंबर तक दो पालियों में होगी परीक्षा",
+    "summary": "राष्ट्रीय परीक्षा एजेंसी ने यूजीसी नेट दिसंबर दो हज़ार छब्बीस की परीक्षा का विषयवार कार्यक्रम जारी कर दिया है। परीक्षा चौदह से अठारह दिसंबर और इक्कीस दिसंबर को कंप्यूटर आधारित तरीके से दो पालियों में होगी।"
+   },
+   "en": {
+    "title": "UGC NET December 2026 subject-wise schedule out, exams from December 14 to 21 in two shifts",
+    "summary": "The National Testing Agency has released the subject-wise schedule for UGC NET December 2026. The computer-based exam for 87 subjects will be held on December 14 to 18 and on December 21, in two shifts each day."
+   }
+  },
+  {
+   "id": "south-korea-top-court-overturns-han-duck-soo-15-year-sentence-november-19",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T00:49:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-korea-top-court-overturns-han-duck-soo-15-year-sentence-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-korea-top-court-overturns-han-duck-soo-15-year-sentence-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-korea-top-court-overturns-han-duck-soo-15-year-sentence-november-19-en.mp3",
+   "hi": {
+    "title": "दक्षिण कोरिया: पूर्व प्रधानमंत्री हान डक-सू की पंद्रह साल की सज़ा रद्द, सुप्रीम कोर्ट ने मामला वापस भेजा",
+    "summary": "दक्षिण कोरिया के सर्वोच्च न्यायालय ने गुरुवार को पूर्व प्रधानमंत्री हान डक-सू को मार्शल लॉ मामले में मिली पंद्रह साल की सज़ा का एक हिस्सा रद्द कर दिया। अदालत ने कहा कि कैबिनेट बैठक बुलाने के प्रस्ताव से संविधान को पलटने का इरादा साबित नहीं होता, और मामला सियोल उच्च न्यायालय को वापस भेज दिया।"
+   },
+   "en": {
+    "title": "South Korea top court overturns ex-PM Han Duck-soo's 15-year sentence in part, orders retrial",
+    "summary": "South Korea's Supreme Court on Thursday overturned part of the 15-year prison sentence given to former Prime Minister Han Duck-soo over the December 2024 martial law declaration, sending the case back to the Seoul High Court. The court said there was insufficient evidence that Han intended to subvert the constitution when he proposed a Cabinet meeting before the declaration."
+   }
+  },
   {
    "id": "kashmir-free-locally-recruited-terrorists-amit-shah-november-19",
    "category": "India",
@@ -3171,48 +3213,6 @@
    "en": {
     "title": "62 students hospitalised in Kollam after breathing trouble near tar-mixing unit",
     "summary": "As many as 62 students of a private school at Kottiyam in Kollam district were hospitalised on Wednesday after complaining of nausea and breathing difficulties, allegedly due to pollution from a nearby tar-mixing unit. Police said all the children are stable and the unit has been shut down again."
-   }
-  },
-  {
-   "id": "ramayana-1483-crore-worldwide-fifth-biggest-indian-film-november-18",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T18:50:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-1483-crore-worldwide-fifth-biggest-indian-film-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-1483-crore-worldwide-fifth-biggest-indian-film-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-1483-crore-worldwide-fifth-biggest-indian-film-november-18-en.mp3",
-   "hi": {
-    "title": "रामायण ने तेरह दिन में दुनिया भर में एक हज़ार चार सौ तिरासी करोड़ रुपये कमाए, अब तक की पाँचवीं सबसे बड़ी भारतीय फिल्म",
-    "summary": "नितेश तिवारी की रामायण ने रिलीज़ के तेरह दिन में दुनिया भर में एक हज़ार चार सौ तिरासी करोड़ पचास लाख रुपये की कमाई कर ली है और धुरंधर को पीछे छोड़कर अब तक की पाँचवीं सबसे ज़्यादा कमाई करने वाली भारतीय फिल्म बन गई है, साथ ही यह पहली बॉलीवुड फिल्म है जिसने दक्षिण के पाँचों बड़े बाज़ारों में पचास करोड़ रुपये से ज़्यादा कमाए हैं।"
-   },
-   "en": {
-    "title": "Ramayana crosses Rs 1,483.50 crore worldwide in 13 days, now the fifth-biggest Indian film ever",
-    "summary": "Nitesh Tiwari's Ramayana has grossed Rs 1,483.50 crore worldwide in 13 days, passing Dhurandhar to become the fifth highest-grossing Indian film of all time, and the first Bollywood film to cross Rs 50 crore in every one of the five major southern markets."
-   }
-  },
-  {
-   "id": "sc-notice-congress-aap-traders-plea-delhi-protests-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T18:50:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-notice-congress-aap-traders-plea-delhi-protests-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-notice-congress-aap-traders-plea-delhi-protests-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-notice-congress-aap-traders-plea-delhi-protests-november-18-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने दिल्ली व्यापारियों की याचिका पर कांग्रेस, आप और अन्य संगठनों को नोटिस जारी किया",
-    "summary": "सुप्रीम कोर्ट ने दिल्ली के व्यापारियों की याचिका पर कांग्रेस, आम आदमी पार्टी, सीजेपी और आइसा से जवाब माँगा है। व्यापारियों का कहना है कि पिछले महीने मुख्य चुनाव आयुक्त के खिलाफ हुए प्रदर्शनों से मध्य दिल्ली में उनका कारोबार प्रभावित हुआ था। मामले की सुनवाई सत्ताईस नवंबर को होगी।"
-   },
-   "en": {
-    "title": "Supreme Court issues notice to Congress, AAP and others on Delhi traders' plea against protests",
-    "summary": "The Supreme Court has sought responses from the Congress, Aam Aadmi Party, CJP and AISA on a petition by Delhi traders who say last month's protests against the Chief Election Commissioner disrupted business in Central Delhi. The matter will be heard on November 27."
    }
   }
  ]
