@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T15:32:05+05:30",
+ "updatedAt": "2026-11-19T15:41:36+05:30",
  "articles": [
+  {
+   "id": "modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T15:37:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19-en.mp3",
+   "hi": {
+    "title": "टैक्स घटाया, तो नौकरियाँ और वेतन क्यों नहीं बढ़े? फ़िक्की के मंच से पीएम मोदी ने उद्योग जगत से पूछा सीधा सवाल",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने गुरुवार को नई दिल्ली में फ़िक्की की वार्षिक बैठक में कहा कि सरकार ने कॉरपोरेट टैक्स तीस फ़ीसदी से घटाकर बाईस फ़ीसदी किया और बारह लाख रुपये तक की आय पर कोई इनकम टैक्स नहीं रखा, फिर भी उद्योग जगत ने नौकरियाँ और कर्मचारियों का वेतन नहीं बढ़ाया। उन्होंने उद्योग से आगे के सुधारों के सुझाव भी माँगे।"
+   },
+   "en": {
+    "title": "Tax cuts given, but where are the jobs and higher wages? PM Modi puts India Inc on the spot at FICCI",
+    "summary": "Prime Minister Narendra Modi told industry leaders at FICCI's annual meeting in New Delhi on Thursday that the government cut corporate tax from 30 percent to 22 percent and removed income tax on earnings up to Rs 12 lakh, yet companies had not raised hiring or employee pay in return. He also asked industry to suggest further reforms."
+   }
+  },
+  {
+   "id": "polavaram-maoist-explosives-dump-670-bgl-shells-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T15:37:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/polavaram-maoist-explosives-dump-670-bgl-shells-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/polavaram-maoist-explosives-dump-670-bgl-shells-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/polavaram-maoist-explosives-dump-670-bgl-shells-november-19-en.mp3",
+   "district": "Polavaram",
+   "state": "Andhra Pradesh",
+   "hi": {
+    "title": "पोलावरम में माओवादियों का बड़ा विस्फोटक भंडार बरामद: छह सौ सत्तर ज़िंदा बीजीएल शेल, डेटोनेटर और दवाइयाँ मिलीं",
+    "summary": "आंध्र प्रदेश पुलिस और सीआरपीएफ़ ने बुधवार को आंध्र प्रदेश-छत्तीसगढ़ सीमा के पास पोलावरम ज़िले के रामपाचोड़ावरम के जंगलों में माओवादियों का छिपाया हुआ बड़ा विस्फोटक भंडार बरामद किया। इसमें छह सौ सत्तर ज़िंदा बीजीएल शेल, बयालीस डेटोनेटर, बारूद, कॉर्डेक्स और दवाइयाँ शामिल हैं।"
+   },
+   "en": {
+    "title": "Polavaram police unearth Maoist explosives dump: 670 live BGL shells, detonators and medicines seized",
+    "summary": "Andhra Pradesh Police and the CRPF on Wednesday unearthed a large Maoist explosives dump hidden in the forests of Rampachodavaram in Polavaram district, near the Andhra Pradesh-Chhattisgarh border. The haul included 670 live BGL shells, 42 detonators, gunpowder, Cordex and medicines."
+   }
+  },
   {
    "id": "anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19",
    "category": "Business",
@@ -3151,48 +3195,6 @@
    "en": {
     "title": "Critical Java flaw sparks emergency meeting in South Korea; Oracle issues patches",
     "summary": "A critical flaw found in Java prompted South Korea's presidential office to call an emergency meeting on Tuesday with the military, the science ministry and financial regulators. The US cyber agency has urged users to patch immediately, and Oracle has issued security updates for Java."
-   }
-  },
-  {
-   "id": "magnitude-6-earthquake-strikes-papua-new-guinea-november-18",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T12:10:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/magnitude-6-earthquake-strikes-papua-new-guinea-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/magnitude-6-earthquake-strikes-papua-new-guinea-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/magnitude-6-earthquake-strikes-papua-new-guinea-november-18-en.mp3",
-   "hi": {
-    "title": "पापुआ न्यू गिनी में ६.० तीव्रता का भूकंप, अभी तक नुकसान की कोई खबर नहीं",
-    "summary": "बुधवार सुबह पापुआ न्यू गिनी में ६.० तीव्रता का भूकंप आया। जर्मनी के भूविज्ञान अनुसंधान केंद्र के अनुसार भूकंप का केंद्र देश के उत्तरी तट के पास समुद्र में, मडांग के निकट था। अभी तक किसी के हताहत होने, नुकसान या सुनामी की चेतावनी की कोई खबर नहीं है।"
-   },
-   "en": {
-    "title": "Magnitude 6.0 earthquake strikes Papua New Guinea, no damage reported yet",
-    "summary": "A magnitude 6.0 earthquake struck Papua New Guinea on Wednesday morning, the German Research Centre for Geosciences said. The shallow quake was centred off the country's north coast near Madang, and there were no immediate reports of casualties, damage or a tsunami warning."
-   }
-  },
-  {
-   "id": "pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T12:10:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-returns-delhi-council-ministers-viksit-bharat-november-18-en.mp3",
-   "hi": {
-    "title": "आसियान-क्वाड शिखर सम्मेलन से लौटे मोदी, विकसित भारत २०४७ पर मंत्रियों की बैठक की अध्यक्षता की",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी आसियान और पूर्व एशिया शिखर सम्मेलनों तथा क्वाड नेताओं की बैठक के लिए मनीला की दो दिन की यात्रा पूरी करके बुधवार तड़के नई दिल्ली लौट आए। कुछ ही घंटे बाद उन्होंने भारत मंडपम में विकसित भारत २०४७ की रूपरेखा पर मंत्रिपरिषद की बैठक की अध्यक्षता की।"
-   },
-   "en": {
-    "title": "PM Modi back in Delhi after ASEAN-Quad summits, chairs ministers' meet on Viksit Bharat 2047",
-    "summary": "Prime Minister Narendra Modi returned to New Delhi early on Wednesday after a two-day visit to Manila for the ASEAN and East Asia summits and a Quad leaders' meeting. Hours later, he chaired a Council of Ministers meeting at Bharat Mandapam on the Viksit Bharat 2047 roadmap."
    }
   }
  ]
