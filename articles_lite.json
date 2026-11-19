@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T14:10:25+05:30",
+ "updatedAt": "2026-11-19T14:20:55+05:30",
  "articles": [
+  {
+   "id": "alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:20:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "आलिया भट्ट ने दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया: ‘इस पर दोबारा सोचने की ज़रूरत है’",
+    "summary": "टाइम की पहली टाइम वन हंड्रेड नेक्स्ट इंडिया सूची की कवर स्टार आलिया भट्ट ने बॉलीवुड में दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया है। उन्होंने कहा कि इंडस्ट्री में पंद्रह से अठारह घंटे की शूटिंग की प्रथा पर दोबारा सोचने की ज़रूरत है, और काम के उचित घंटे किसी स्टार के रुतबे पर निर्भर नहीं होने चाहिए।"
+   },
+   "en": {
+    "title": "Alia Bhatt backs Deepika Padukone's 8-hour shift demand: 'This needs a rethink'",
+    "summary": "Alia Bhatt, the cover star of TIME's first TIME 100 Next India list, has backed Deepika Padukone's demand for eight-hour shifts in Bollywood, saying the industry's practice of 15-to-18-hour shoots needs a rethink and fair working hours should not depend on a star's clout."
+   }
+  },
+  {
+   "id": "sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-19T14:20:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19-en.mp3",
+   "hi": {
+    "title": "शरद कपूर बोले, सेहत की परेशानियों के बीच शाहरुख़ ख़ान, सलमान ख़ान और सोनू सूद ने बढ़ाया मदद का हाथ",
+    "summary": "दस्तक और जोश जैसी फ़िल्मों के अभिनेता शरद कपूर ने कहा है कि मुश्किल दौर की वीडियो वायरल होने के बाद शाहरुख़ ख़ान, सलमान ख़ान, सोनू सूद, राजपाल यादव और जावेद अख़्तर ने उनसे संपर्क किया। उन्होंने बताया कि वह फ़िल्म निर्माताओं अहमद ख़ान और रोहित शेट्टी से नए प्रोजेक्ट्स पर बात कर रहे हैं और दो हज़ार सत्ताईस में वापसी की उम्मीद है।"
+   },
+   "en": {
+    "title": "Sharad Kapoor says Shah Rukh Khan, Salman Khan and Sonu Sood reached out amid his health struggles",
+    "summary": "Actor Sharad Kapoor, known for films like Dastak and Josh, has said Shah Rukh Khan, Salman Khan, Sonu Sood, Rajpal Yadav and Javed Akhtar reached out to him after a video showing his difficult phase went viral, and that he is in talks with filmmakers Ahmed Khan and Rohit Shetty for a comeback in 2027."
+   }
+  },
   {
    "id": "time100-next-india-alia-bhatt-aryan-khan-covers-november-19",
    "category": "Entertainment",
@@ -3153,48 +3195,6 @@
    "en": {
     "title": "Akvan now a severe cyclonic storm, but IMD says it is unlikely to strengthen further; landfall on November 20 with winds up to 120 kmph",
     "summary": "Cyclone Akvan strengthened into a severe cyclonic storm on Wednesday morning, but the weather department now says it is unlikely to become a very severe cyclonic storm. It is expected to cross the Andhra Pradesh and Yanam coasts between Nellore and Visakhapatnam around noon on November 20 as a severe cyclonic storm, with winds of 100-110 kmph gusting to 120 kmph."
-   }
-  },
-  {
-   "id": "mary-peltola-wins-alaska-senate-race-democrats-56-44-november-18",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T10:10:04+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mary-peltola-wins-alaska-senate-race-democrats-56-44-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mary-peltola-wins-alaska-senate-race-democrats-56-44-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mary-peltola-wins-alaska-senate-race-democrats-56-44-november-18-en.mp3",
-   "hi": {
-    "title": "मैरी पेल्टोला ने अलास्का सीनेट सीट जीती, डेमोक्रेट्स को ५६–४४ की बहुमत",
-    "summary": "डेमोक्रेट मैरी पेल्टोला ने २०२६ के मध्यावधि चुनावों की आखिरी अनिर्णीत सीनेट सीट पर दो बार के रिपब्लिकन सांसद डैन सुलिवन को हराया। पहली पसंद के ५०.१२ प्रतिशत वोट पाकर उन्होंने डेमोक्रेट्स को सीनेट में ५६–४४ की बहुमत दिलाई और अमेरिकी सीनेट में पहुँचने वाली पहली अलास्का नेटिव बनीं।"
-   },
-   "en": {
-    "title": "Mary Peltola wins Alaska Senate race, giving Democrats a 56-44 majority",
-    "summary": "Democrat Mary Peltola defeated two-term Republican incumbent Dan Sullivan in the last uncalled Senate race of the 2026 midterms, winning 50.12% of first-choice votes. Her victory - the Democrats' ninth flip - gives the party a 56-44 Senate majority, and makes her the first Alaska Native ever elected to the US Senate."
-   }
-  },
-  {
-   "id": "kuwait-air-defences-hostile-drone-attacks-bahrain-intercepts-november-18",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T09:53:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kuwait-air-defences-hostile-drone-attacks-bahrain-intercepts-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kuwait-air-defences-hostile-drone-attacks-bahrain-intercepts-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kuwait-air-defences-hostile-drone-attacks-bahrain-intercepts-november-18-en.mp3",
-   "hi": {
-    "title": "कुवैत पर ड्रोन हमला: सेना बोली, हवाई रक्षा प्रणाली हमले रोक रही है; बहरीन में भी अलर्ट जारी",
-    "summary": "कुवैत की सेना ने बुधवार सुबह कहा कि उसकी हवाई रक्षा प्रणाली दुश्मन के ड्रोन हमलों का जवाब दे रही है। यह घटनाक्रम बहरीन में अमेरिकी रडार पर ईरान के ड्रोन हमले के बाद अमेरिका के केश्म द्वीप पर पलटवार के कुछ ही घंटे बाद सामने आया है। बहरीन ने भी बुधवार को और हवाई हमले रोकने का दावा किया है।"
-   },
-   "en": {
-    "title": "Kuwait says air defences countering hostile drone attacks as Bahrain intercepts more strikes",
-    "summary": "Kuwait's army said its air defences were countering hostile drone attacks early on Wednesday, hours after the United States struck Iranian targets on Qeshm Island in retaliation for Iran's drone attack on a US radar system in Bahrain. Bahrain said it intercepted more aerial attacks on Wednesday and accused Iran of ongoing attacks."
    }
   }
  ]
