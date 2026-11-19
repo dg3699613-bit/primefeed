@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T12:06:28+05:30",
+ "updatedAt": "2026-11-19T12:14:34+05:30",
  "articles": [
+  {
+   "id": "trump-putin-40-minute-talks-shenzhen-trilateral-november-19",
+   "category": "World",
+   "sub": "USA",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T12:12:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-putin-40-minute-talks-shenzhen-trilateral-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-putin-40-minute-talks-shenzhen-trilateral-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-putin-40-minute-talks-shenzhen-trilateral-november-19-en.mp3",
+   "hi": {
+    "title": "ट्रंप ने पुतिन को कहा ‘मेरा दोस्त’, शेनझेन में चालीस मिनट चली बातचीत",
+    "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और रूस के राष्ट्रपति व्लादिमीर पुतिन ने शेनझेन में करीब चालीस मिनट तक अलग से बातचीत की। यह पिछले साल अलास्का के बाद दोनों की पहली आमने-सामने की मुलाकात थी। इसके बाद ट्रंप शी जिनपिंग से मिले; तीनों नेता दिन में बाद में पहली त्रिपक्षीय बैठक करेंगे।"
+   },
+   "en": {
+    "title": "Trump calls Putin 'my friend' as the two hold 40-minute talks in Shenzhen ahead of historic trilateral",
+    "summary": "US President Donald Trump and Russian President Vladimir Putin held a separate meeting lasting about 40 minutes in Shenzhen on Thursday, their first face-to-face talks since last year's Alaska summit. Trump later met Chinese President Xi Jinping, with the three leaders due to sit down together later in the day."
+   }
+  },
+  {
+   "id": "six-killed-scorpio-plunges-canal-araria-bihar-november-19",
+   "category": "State & Local",
+   "sub": "Bihar",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T12:12:06+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-killed-scorpio-plunges-canal-araria-bihar-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-en.mp3",
+   "district": "Araria",
+   "state": "Bihar",
+   "hi": {
+    "title": "अररिया में नहर में गिरी स्कॉर्पियो, छह की मौत; तिलक समारोह से लौट रहे थे सात लोग",
+    "summary": "बिहार के अररिया जिले में बुधवार देर रात बीड़ी पुल के पास एक स्कॉर्पियो नहर में गिर गई। गाड़ी में सवार सात लोगों में से छह की मौत हो गई, एक घायल है। सभी सुपौल जिले के थुम्हा गाँव के रहने वाले थे और सिकटी में तिलक समारोह से लौट रहे थे।"
+   },
+   "en": {
+    "title": "Six killed as Scorpio plunges into canal in Bihar's Araria; victims were returning from a tilak ceremony",
+    "summary": "Six people were killed and one injured after a Scorpio carrying seven people plunged into a canal from a bridge in Bihar's Araria district late on Wednesday night. The victims, all from Thumha village in Supaul district, were returning home from a tilak ceremony in Araria's Sikti block."
+   }
+  },
   {
    "id": "elon-musk-pretty-foolish-500-million-republicans-midterms-november-19",
    "category": "World",
@@ -3147,50 +3191,6 @@
    "en": {
     "title": "Fresh violence in Bangladesh: BNP leader killed in Faridpur, Tungipara police station torched",
     "summary": "Violence erupted again overnight in Gopalganj and neighbouring Faridpur in Bangladesh. BNP farmers' wing leader Raju Mollah was beaten and set on fire in Bhanga, and a mob stormed and torched the Tungipara police station, freeing detainees and burning police vehicles. The house of BNP MP SM Zilany was also set on fire."
-   }
-  },
-  {
-   "id": "ramayana-day-13-final-2870-crore-india-net-148350-crore-worldwide-november-18",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T07:03:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-day-13-final-2870-crore-india-net-148350-crore-worldwide-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-13-final-2870-crore-india-net-148350-crore-worldwide-november-18-hi.mp3",
-   "audioEn": null,
-   "hi": {
-    "title": "रामायण तेरहवें दिन: मंगलवार को अट्ठाईस करोड़ सत्तर लाख रुपये, दुनियाभर में एक हज़ार चार सौ तिरासी करोड़ पचास लाख",
-    "summary": "रामायण: पार्ट वन ने तेरहवें दिन भारत में अट्ठाईस करोड़ सत्तर लाख रुपये कमाए, जिससे इसका भारत में कुल कलेक्शन आठ सौ इक्कीस करोड़ तीस लाख रुपये और दुनियाभर का कुल कलेक्शन एक हज़ार चार सौ तिरासी करोड़ पचास लाख रुपये हो गया है। फ़िल्म अब एक हज़ार पाँच सौ करोड़ रुपये के आँकड़े से सिर्फ़ सोलह करोड़ पचास लाख रुपये दूर है, जिसे अब तक सिर्फ़ चार भारतीय फ़िल्में छू सकी हैं।"
-   },
-   "en": {
-    "title": "Ramayana Day 13 final: Rs 28.70 crore on Tuesday, worldwide total Rs 1,483.50 crore, Rs 1,500 crore in sight",
-    "summary": "Ramayana: Part One earned Rs 28.70 crore net in India on its 13th day, taking its domestic net total to Rs 821.30 crore and its worldwide gross to Rs 1,483.50 crore. The film is now Rs 16.50 crore short of the Rs 1,500 crore mark, which only four Indian films have crossed before."
-   }
-  },
-  {
-   "id": "kulgam-fresh-encounter-zangalpora-lateef-bhat-hunt-november-18",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T06:42:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kulgam-fresh-encounter-zangalpora-lateef-bhat-hunt-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kulgam-fresh-encounter-zangalpora-lateef-bhat-hunt-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kulgam-fresh-encounter-zangalpora-lateef-bhat-hunt-november-18-en.mp3",
-   "district": "Kulgam",
-   "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "कुलगाम: ज़ंगलपोरा में फिर मुठभेड़, लतीफ़ भट की तलाश में घेराबंदी जारी",
-    "summary": "जम्मू-कश्मीर के कुलगाम ज़िले के ज़ंगलपोरा इलाके में बुधवार सुबह सुरक्षा बलों और आतंकियों के बीच फिर मुठभेड़ शुरू हो गई। सोमवार को लारू में उमर निसार डार मारा गया था, जबकि लश्कर कमांडर लतीफ़ भट घेराबंदी से निकल गया था — उसी की तलाश में चल रहे अभियान के दौरान बुधवार तड़के फिर संपर्क हो गया।"
-   },
-   "en": {
-    "title": "Kulgam: Fresh encounter in Zangalpora as hunt for Lateef Bhat resumes",
-    "summary": "A fresh encounter broke out between security forces and terrorists in the Zangalpora area of Jammu and Kashmir's Kulgam district on Wednesday morning. The gunfight comes two days after Umar Nisar Dar was killed at Laroo while LeT commander Lateef Bhat slipped the cordon — contact was re-established during the search operation under way to track him down."
    }
   }
  ]
