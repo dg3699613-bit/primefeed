@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T04:10:39+05:30",
+ "updatedAt": "2026-11-20T05:04:39+05:30",
  "articles": [
+  {
+   "id": "cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T04:56:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20-en.mp3",
+   "en": {
+    "title": "Cyclone Akvan: nearly 3 lakh evacuated in Odisha as storm closes in for Friday noon landfall",
+    "summary": "Odisha has moved 2,98,676 people to 2,523 relief camps and deployed 423 rescue teams as Severe Cyclonic Storm Akvan closes in on the coast between Puri and Gopalpur, with landfall expected around noon on Friday and winds of 90-100 kmph, gusting to 110 kmph."
+   },
+   "hi": {
+    "title": "चक्रवात अकवान: ओडिशा में तीन लाख लोगों को सुरक्षित जगहों पर पहुँचाया गया, शुक्रवार दोपहर तट से टकराएगा तूफ़ान",
+    "summary": "ओडिशा ने भीषण चक्रवाती तूफ़ान अकवान के पुरी और गोपालपुर के बीच तट से टकराने से पहले २,९८,६७६ लोगों को २,५२३ राहत शिविरों में पहुँचा दिया है और ४२३ बचाव दल तैनात किए हैं। शुक्रवार दोपहर के आसपास तूफ़ान के टकराने का अनुमान है, हवा की रफ़्तार ९० से १०० किलोमीटर प्रति घंटा रहेगी।"
+   }
+  },
+  {
+   "id": "trump-pushes-iran-war-decision-2027-january-1-november-20",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T04:56:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-pushes-iran-war-decision-2027-january-1-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-pushes-iran-war-decision-2027-january-1-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-pushes-iran-war-decision-2027-january-1-november-20-en.mp3",
+   "en": {
+    "title": "Trump pushes Iran war decision into 2027: We will see what happens after January 1",
+    "summary": "President Donald Trump has said he will not decide on renewed major strikes against Iran until after the new year, telling Reuters he will talk about it after the beginning of the year as he flew home from his trilateral summit with Xi Jinping and Vladimir Putin in China."
+   },
+   "hi": {
+    "title": "ट्रंप ने ईरान पर युद्ध का फ़ैसला २०२७ तक टाला: पहली जनवरी के बाद देखेंगे क्या होता है",
+    "summary": "अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि वह ईरान पर नए सिरे से बड़े हमले करने का फ़ैसला नए साल के बाद ही लेंगे। चीन में शी चिनफिंग और व्लादिमीर पुतिन के साथ त्रिपक्षीय शिखर सम्मेलन से लौटते समय उन्होंने रॉयटर्स से कहा कि वह इस बारे में नए साल की शुरुआत के बाद बात करेंगे।"
+   }
+  },
   {
    "id": "glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20",
    "category": "Cricket & Sports",
@@ -3171,48 +3213,6 @@
    "en": {
     "title": "ECI extends SIR deadline: final voter lists in six states now on December 22, over two crore excluded Maharashtra voters get another chance",
     "summary": "The Election Commission of India has extended the Special Intensive Revision timeline in six states — Maharashtra, Andhra Pradesh, Telangana, Nagaland, Haryana and Jharkhand — pushing the final electoral roll publication from November 30 to December 22. Enumeration forms will be distributed and collected between November 18 and 30, and in Maharashtra more than two crore voters left out of the draft roll get another chance to submit their forms."
-   }
-  },
-  {
-   "id": "delhi-police-bust-rs-2-crore-digital-arrest-racket-lucknow-november-18",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T23:44:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-police-bust-rs-2-crore-digital-arrest-racket-lucknow-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-bust-rs-2-crore-digital-arrest-racket-lucknow-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-bust-rs-2-crore-digital-arrest-racket-lucknow-november-18-en.mp3",
-   "hi": {
-    "title": "दिल्ली पुलिस ने दो करोड़ रुपये के डिजिटल अरेस्ट रैकेट का भंडाफोड़ किया: रक्षा मंत्रालय के सेवानिवृत्त अधिकारी को ठगने के आरोप में लखनऊ से तीन गिरफ्तार",
-    "summary": "दिल्ली पुलिस की आईएफएसओ इकाई ने रक्षा मंत्रालय के सेवानिवृत्त अधिकारी से दो करोड़ दो लाख रुपये ठगने वाले डिजिटल अरेस्ट रैकेट का भंडाफोड़ करते हुए लखनऊ से तीन आरोपियों को गिरफ्तार किया है। आरोपियों के पास से चार मोबाइल फ़ोन, आठ डेबिट कार्ड और एक चेकबुक बरामद हुई है, और ठगी गई रकम में से सत्रह लाख रुपये एक आरोपी के खाते में गए थे।"
-   },
-   "en": {
-    "title": "Delhi Police bust 2.02 crore rupee digital arrest racket: three arrested from Lucknow after retired Defence Ministry official duped",
-    "summary": "Delhi Police have busted a cyber fraud racket that cheated a retired Defence Ministry official of 2.02 crore rupees through the digital arrest con, arresting three men from Lucknow. Four mobile phones, eight debit cards and a chequebook were recovered from the accused, and 17 lakh rupees of the cheated money had gone into one accused's bank account."
-   }
-  },
-  {
-   "id": "delhi-aqi-rises-232-coldest-morning-11c-very-poor-friday-november-18",
-   "category": "Weather",
-   "sub": "IMD Alerts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T23:29:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-rises-232-coldest-morning-11c-very-poor-friday-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-rises-232-coldest-morning-11c-very-poor-friday-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-rises-232-coldest-morning-11c-very-poor-friday-november-18-en.mp3",
-   "hi": {
-    "title": "दिल्ली की हवा फिर बिगड़ी: एक्यूआई दो सौ बत्तीस, सुबह का पारा ग्यारह डिग्री — शुक्रवार तक बहुत खराब होने का अनुमान",
-    "summary": "दिल्ली की हवा बुधवार को फिर बिगड़ गई और वायु गुणवत्ता सूचकांक दो सौ बत्तीस पर आकर खराब श्रेणी में रहा, जो मंगलवार के दो सौ चार से करीब तीस अंक ज़्यादा है। राजधानी में इस मौसम की अब तक की सबसे ठंडी सुबह दर्ज की गई, न्यूनतम तापमान ग्यारह डिग्री सेल्सियस रहा, और वायु गुणवत्ता पूर्व चेतावनी प्रणाली का अनुमान है कि हवा शुक्रवार तक बहुत खराब श्रेणी में चली जाएगी।"
-   },
-   "en": {
-    "title": "Delhi air worsens to AQI 232 a day after GRAP-3 curbs lifted; coldest morning at 11°C, very poor likely by Friday",
-    "summary": "Delhi's air turned worse again on Wednesday, with the Air Quality Index settling at 232 in the poor category, up by around 30 points from 204 on Tuesday, a day after the city recorded its cleanest air of the month. The capital also recorded its coldest morning of the season at 11 degrees Celsius, and the Air Quality Early Warning System has forecast the air will deteriorate to the very poor category by Friday."
    }
   }
  ]
