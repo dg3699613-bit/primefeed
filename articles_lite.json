@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T02:08:35+05:30",
+ "updatedAt": "2026-11-20T02:22:21+05:30",
  "articles": [
+  {
+   "id": "google-launches-gemini-4-neon-ai-model-november-18",
+   "category": "Technology",
+   "sub": "AI",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T02:16:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/google-launches-gemini-4-neon-ai-model-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-launches-gemini-4-neon-ai-model-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-launches-gemini-4-neon-ai-model-november-18-en.mp3",
+   "hi": {
+    "title": "गूगल ने लॉन्च किया जेमिनी फोर नीयॉन, कोडिंग और रिसर्च में कार्बन से बत्तीस प्रतिशत सस्ता",
+    "summary": "गूगल ने अठारह नवंबर को जेमिनी फोर नीयॉन पेश किया — जेमिनी फोर परिवार का चौथा मॉडल। कंपनी का दावा है कि यह जटिल कोडिंग, ज्ञान आधारित काम और वैज्ञानिक शोध को कार्बन के मुकाबले बत्तीस प्रतिशत कम लागत में पूरा करता है।"
+   },
+   "en": {
+    "title": "Google launches Gemini 4 Neon, its mid-tier AI model that tops the coding agent index",
+    "summary": "Google on November 18 launched Gemini 4 Neon, the fourth model in its Gemini 4 family. The company says the mid-tier model handles complex coding, knowledge work and scientific research at 32 percent lower cost per task than Carbon."
+   }
+  },
+  {
+   "id": "iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T02:16:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18-en.mp3",
+   "hi": {
+    "title": "आईएईए: उत्तर कोरिया योंगब्योन में यूरेनियम संवर्धन संयंत्र का कर रहा है विस्तार, 'गंभीर चिंता का विषय'",
+    "summary": "संयुक्त राष्ट्र की परमाणु निगरानी संस्था आईएईए के प्रमुख राफेल ग्रॉसी ने कहा है कि उत्तर कोरिया के योंगब्योन परिसर में यूरेनियम संवर्धन संयंत्र का एक और विस्तार बन चुका है। एजेंसी ने इसे गंभीर चिंता का विषय बताया है।"
+   },
+   "en": {
+    "title": "North Korea is expanding its Yongbyon uranium enrichment plant, IAEA chief says",
+    "summary": "The head of the UN nuclear watchdog, Rafael Grossi, has told the IAEA board that North Korea has built a further extension to its original uranium enrichment facility at Yongbyon, calling the programme's expansion a cause for serious concern."
+   }
+  },
   {
    "id": "india-beat-malaysia-4-1-womens-asian-champions-trophy-bhopal-november-19",
    "category": "Cricket & Sports",
@@ -3169,48 +3211,6 @@
    "en": {
     "title": "Bhagwant Mann seeks Centre's nod to visit Kartarpur Sahib on Gurpurab as corridor stays shut since May",
     "summary": "Punjab Chief Minister Bhagwant Mann wants to visit Gurdwara Darbar Sahib in Pakistan's Kartarpur on November 24, Guru Nanak Dev's 557th birth anniversary — the Aam Aadmi Party says he has sought the Centre's permission, even as the Kartarpur Corridor has stayed shut since May 2025."
-   }
-  },
-  {
-   "id": "panchayat-season-5-premiere-december-3-prime-video-november-18",
-   "category": "Entertainment",
-   "sub": "OTT / Web Series",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T20:25:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/panchayat-season-5-premiere-december-3-prime-video-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/panchayat-season-5-premiere-december-3-prime-video-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/panchayat-season-5-premiere-december-3-prime-video-november-18-en.mp3",
-   "hi": {
-    "title": "पंचायत सीज़न पाँच का ऐलान: तीन दिसंबर को प्राइम वीडियो पर लौटेगा फुलेरा, बनराकस बनेगा नया प्रधानपति",
-    "summary": "प्राइम वीडियो ने पंचायत के पाँचवें सीज़न की रिलीज़ तारीख़ का ऐलान कर दिया है — तीन दिसंबर दो हज़ार छब्बीस को फुलेरा लौटेगा, जहाँ क्रांति देवी और बनराकस की नई सत्ता के बीच सचिव जी की कहानी आगे बढ़ेगी।"
-   },
-   "en": {
-    "title": "Panchayat Season 5 gets a date: Phulera returns on Prime Video on December 3, Banrakas takes charge",
-    "summary": "Prime Video has confirmed December 3, 2026 as the premiere date for Panchayat Season 5, with Kranti Devi and Banrakas taking over Phulera's politics and Sachivji returning to face the village's new power equations."
-   }
-  },
-  {
-   "id": "india-beat-bangladesh-eight-wickets-blind-asia-cup-final-november-18",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T20:09:54+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-bangladesh-eight-wickets-blind-asia-cup-final-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-bangladesh-eight-wickets-blind-asia-cup-final-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-bangladesh-eight-wickets-blind-asia-cup-final-november-18-en.mp3",
-   "hi": {
-    "title": "भारत ब्लाइंड एशिया कप के फाइनल में: बांग्लादेश को आठ विकेट से हराया, अब बीस नवंबर को पाकिस्तान से टक्कर",
-    "summary": "सुनील रमेश के नाबाद तिरेसठ रन की मदद से भारत ने ढाका में मेज़बान बांग्लादेश को आठ विकेट से हराकर ब्लाइंड एशिया कप के फाइनल में जगह बना ली, जहाँ बीस नवंबर को चिर प्रतिद्वंद्वी पाकिस्तान से मुकाबला होगा।"
-   },
-   "en": {
-    "title": "India crush Bangladesh by eight wickets to set up Blind Asia Cup final against Pakistan",
-    "summary": "Sunil Ramesh's unbeaten 63 powered India to a comfortable eight-wicket win over hosts Bangladesh in Dhaka, setting up a title clash with arch-rivals Pakistan in the Asia Cup Cricket for the Blind final on November 20."
    }
   }
  ]
