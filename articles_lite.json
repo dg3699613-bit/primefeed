@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T10:56:46+05:30",
+ "updatedAt": "2026-11-19T11:13:12+05:30",
  "articles": [
+  {
+   "id": "india-accuses-pakistan-army-mineral-exploitation-un-november-19",
+   "category": "World",
+   "sub": "Pakistan",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T11:13:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-accuses-pakistan-army-mineral-exploitation-un-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-en.mp3",
+   "hi": {
+    "title": "संयुक्त राष्ट्र में भारत का पाकिस्तान की सेना पर तीखा हमला: खनिज संपदा की लूट का आरोप, मुनीर के मिनरल बॉक्स का हवाला",
+    "summary": "संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पार्वथनेनि हरीश ने सुरक्षा परिषद की बैठक में पाकिस्तान की सेना पर देश की खनिज संपदा को निजी फायदे के लिए लूटने का आरोप लगाया और पिछले साल सितंबर में फील्ड मार्शल आसिम मुनीर के विदेशी नेताओं को खनिज पत्थरों का बक्सा दिखाने का हवाला दिया।"
+   },
+   "en": {
+    "title": "India accuses Pakistan Army of looting mineral wealth at UN, cites Munir's mineral box shown to Trump",
+    "summary": "India's UN envoy Parvathaneni Harish accused Pakistan's military of exploiting the country's natural resources for personal gain at a Security Council meeting, pointing to Field Marshal Asim Munir displaying a box of mineral stones to foreign leaders last September."
+   }
+  },
+  {
+   "id": "openai-amd-chip-design-14-percent-gains-november-19",
+   "category": "Technology",
+   "sub": "AI",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T11:13:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/openai-amd-chip-design-14-percent-gains-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-en.mp3",
+   "hi": {
+    "title": "ओपनएआई का दावा: एआई मॉडल ने एएमडी के फ्लैगशिप चिप डिजाइन में चौदह प्रतिशत तक सुधार किया, साल भर का काम पाँच महीने में",
+    "summary": "ओपनएआई ने कहा है कि उसके एआई मॉडल ने एएमडी के फ्लैगशिप ग्राफिक्स चिप डिजाइन में प्रदर्शन, बिजली की खपत और आकार में चौदह प्रतिशत तक सुधार किया है। कंपनी का कहना है कि यह करीब एक साल की डिजाइन प्रगति है, जो पाँच महीने से भी कम समय में हासिल हुई, और कुछ बदलाव पहले ही निर्माण के लिए भेजे गए चिप डिजाइन में शामिल कर लिए गए हैं।"
+   },
+   "en": {
+    "title": "OpenAI says its AI models squeezed up to 14% more from AMD's flagship chips, a year's work in five months",
+    "summary": "OpenAI said its AI models delivered up to 14% improvements in performance, power and area on AMD's flagship GPU designs, compressing roughly a year of chip-design progress into less than five months, with some changes already in a chip sent for manufacturing."
+   }
+  },
   {
    "id": "census-2027-other-religions-76-predictive-text-entries-november-19",
    "category": "India",
@@ -3149,50 +3191,6 @@
    "en": {
     "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
     "summary": "Amazon has announced an additional $7 billion investment in renewable energy projects in India by 2030, alongside four new wind and solar projects totalling 934 megawatts in Karnataka, Madhya Pradesh and Rajasthan."
-   }
-  },
-  {
-   "id": "rajnath-singh-tokyo-india-japan-2-plus-2-dialogue-november-18",
-   "category": "India",
-   "sub": "Defence",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T05:02:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajnath-singh-tokyo-india-japan-2-plus-2-dialogue-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajnath-singh-tokyo-india-japan-2-plus-2-dialogue-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajnath-singh-tokyo-india-japan-2-plus-2-dialogue-november-18-en.mp3",
-   "hi": {
-    "title": "राजनाथ सिंह चौथी भारत-जापान टू प्लस टू वार्ता के लिए टोक्यो पहुँचे",
-    "summary": "रक्षा मंत्री राजनाथ सिंह दो दिन की यात्रा पर बुधवार को टोक्यो पहुँचे, जहाँ वह विदेश मंत्री एस. जयशंकर के साथ चौथी भारत-जापान टू प्लस टू मंत्रिस्तरीय वार्ता में हिस्सा लेंगे और जापानी रक्षा मंत्री शिंजिरो कोइज़ुमी से अलग से बातचीत करेंगे।"
-   },
-   "en": {
-    "title": "Rajnath Singh lands in Tokyo for fourth India-Japan 2+2 dialogue",
-    "summary": "Defence Minister Rajnath Singh arrived in Tokyo on Wednesday for a two-day visit, where he will join External Affairs Minister S. Jaishankar for the fourth India-Japan 2+2 ministerial dialogue and hold bilateral talks with Japanese Defence Minister Shinjiro Koizumi."
-   }
-  },
-  {
-   "id": "tehri-bus-plunges-100-metre-gorge-nine-killed-25-injured-november-17",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T04:44:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tehri-bus-plunges-100-metre-gorge-nine-killed-25-injured-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tehri-bus-plunges-100-metre-gorge-nine-killed-25-injured-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tehri-bus-plunges-100-metre-gorge-nine-killed-25-injured-november-17-en.mp3",
-   "district": "Tehri Garhwal",
-   "state": "Uttarakhand",
-   "hi": {
-    "title": "टिहरी गढ़वाल में खाई में गिरी बस, नौ की मौत, 25 घायल — हरिद्वार से जोशीमठ जा रही थी",
-    "summary": "मंगलवार तड़के गुलर पुल के पास बस लोहे की रेलिंग तोड़कर करीब सौ मीटर गहरी खाई में गिर गई; 34 यात्री सवार थे, घायलों को एम्स ऋषिकेश ले जाया गया और मुख्यमंत्री धामी ने शोक जताया।"
-   },
-   "en": {
-    "title": "Bus plunges into 100-metre gorge in Tehri Garhwal, nine killed, 25 injured",
-    "summary": "The bus was travelling from Haridwar to Joshimath with 34 people on board when it crashed through an iron railing near Gular bridge early on Tuesday and fell about 100 metres into the gorge; the injured were taken to AIIMS Rishikesh."
    }
   }
  ]
