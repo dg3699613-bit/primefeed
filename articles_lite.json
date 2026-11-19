@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T14:39:23+05:30",
+ "updatedAt": "2026-11-19T14:48:56+05:30",
  "articles": [
+  {
+   "id": "yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T14:45:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19-en.mp3",
+   "hi": {
+    "title": "बांग्लादेश में हिंसा भड़की: चटगाँव में मुहम्मद यूनुस के पैतृक घर में आग लगाई गई",
+    "summary": "बुधवार देर रात चटगाँव में पूर्व अंतरिम सरकार प्रमुख मुहम्मद यूनुस के पैतृक घर में अज्ञात लोगों ने आग लगा दी, ऊपरी मंजिलों पर रहने वाले उनके भाइयों के परिवार सुरक्षित हैं। प्रतिबंधित आवामी लीग के देशव्यापी बंद के दौरान बांग्लादेश भर में झड़पों, गिरफ्तारियों और आगजनी की घटनाएँ हुईं।"
+   },
+   "en": {
+    "title": "Muhammad Yunus's ancestral home set ablaze in Chattogram as Bangladesh lockdown turns violent",
+    "summary": "Arsonists set fire to the former interim government chief's family home in Chattogram late on Wednesday night; his brothers' families, who live on the upper floors, are safe. The attack came as the banned Awami League's nationwide lockdown brought fresh clashes, arrests and arson across Bangladesh."
+   }
+  },
   {
    "id": "ukraine-crimean-bridge-third-strike-rail-halted-november-19",
    "category": "World",
@@ -3172,29 +3193,6 @@
    "en": {
     "title": "Xi and Putin meet in Shenzhen, a day before historic three-way summit with Trump",
     "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin began talks in Shenzhen on Wednesday, a day before the first-ever three-way summit with US President Donald Trump. The two leaders are expected to discuss energy and finance first, then Ukraine and North Korea in a smaller session, Russian officials said."
-   }
-  },
-  {
-   "id": "woman-sub-inspector-rashmi-gautam-found-dead-greater-noida-november-17",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T11:00:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/woman-sub-inspector-rashmi-gautam-found-dead-greater-noida-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-sub-inspector-rashmi-gautam-found-dead-greater-noida-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-sub-inspector-rashmi-gautam-found-dead-greater-noida-november-17-en.mp3",
-   "district": "Gautam Buddha Nagar",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "ग्रेटर नोएडा में महिला सब-इंस्पेक्टर रश्मि गौतम की मौत, पुलिस क्वार्टर के बाथरूम में मिला शव",
-    "summary": "ग्रेटर नोएडा के जारचा थाने में तैनात २७ साल की महिला सब-इंस्पेक्टर रश्मि गौतम का शव मंगलवार सुबह उनके सरकारी आवास के बाथरूम में मिला। पुलिस के मुताबिक़ शुरुआती जाँच में साइलेंट कार्डियक अटैक की आशंका है, मौत की असली वजह पोस्टमार्टम के बाद ही पता चलेगी।"
-   },
-   "en": {
-    "title": "Woman sub-inspector Rashmi Gautam found dead in police quarters bathroom in Greater Noida",
-    "summary": "A 27-year-old woman sub-inspector, Rashmi Gautam, was found dead in the bathroom of her government quarters at the Jarcha police station in Greater Noida on Tuesday morning. Police said a silent cardiac attack is suspected prima facie, and the exact cause of death will be known only after the post-mortem."
    }
   }
  ]
