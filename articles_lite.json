@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T17:30:57+05:30",
+ "updatedAt": "2026-11-19T17:45:23+05:30",
  "articles": [
+  {
+   "id": "azam-khan-released-interim-bail-rampur-revolution-not-election-november-19",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T17:45:23+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/azam-khan-released-interim-bail-rampur-revolution-not-election-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/azam-khan-released-interim-bail-rampur-revolution-not-election-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/azam-khan-released-interim-bail-rampur-revolution-not-election-november-19-en.mp3",
+   "district": "Rampur",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "आज़म ख़ान जेल से बाहर आए, यूपी चुनाव को बताया ‘चुनाव नहीं, इंकलाब’",
+    "summary": "धन शोधन के एक मामले में अंतरिम ज़मानत पर ग़ाज़ियाबाद की दसना जेल से रिहा हुए समाजवादी पार्टी के नेता आज़म ख़ान बुधवार रात देर से रामपुर पहुँचे और दो हज़ार सत्ताईस में होने वाले उत्तर प्रदेश विधानसभा चुनाव को चुनाव नहीं, इंकलाब बताया। गुरुवार को सर्वोच्च न्यायालय ने उनकी ज़मानत को चुनौती देने वाली प्रवर्तन निदेशालय की याचिका ख़ारिज कर दी।"
+   },
+   "en": {
+    "title": "Azam Khan walks out of jail, calls UP polls 'a revolution, not an election'",
+    "summary": "Samajwadi Party leader Azam Khan, released from Ghaziabad's Dasna jail on interim bail in a money-laundering case, reached Rampur late on Wednesday night and described the Uttar Pradesh Assembly elections due in 2027 as a revolution, not an election. The Supreme Court on Thursday dismissed the Enforcement Directorate's plea challenging his bail."
+   }
+  },
+  {
+   "id": "puc-certificate-validity-revised-bs-vi-three-year-november-19",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T17:45:23+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/puc-certificate-validity-revised-bs-vi-three-year-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puc-certificate-validity-revised-bs-vi-three-year-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puc-certificate-validity-revised-bs-vi-three-year-november-19-en.mp3",
+   "hi": {
+    "title": "नए पीयूसी नियम: छह साल तक के बीएस-छह निजी वाहनों को तीन साल का प्रमाणपत्र",
+    "summary": "केंद्र सरकार ने प्रदूषण नियंत्रण प्रमाणपत्र की वैधता की अवधि बदल दी है। छह साल तक के निजी बीएस-छह वाहनों को अब तीन साल का प्रमाणपत्र मिलेगा, जबकि पुराने वाहनों के लिए नवीनीकरण का चक्र छोटा ही रहेगा। तेरह नवंबर को अधिसूचित ये बदलाव उन्नीस नवंबर से लागू हो गए।"
+   },
+   "en": {
+    "title": "New PUC rules: BS-VI private vehicles up to six years old get three-year certificates",
+    "summary": "The Centre has revised Pollution Under Control certificate validity periods, giving private BS-VI vehicles up to six years old a three-year certificate, while older vehicles keep shorter renewal cycles. The changes, notified on November 13, came into force on November 19."
+   }
+  },
   {
    "id": "kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19",
    "category": "Health",
@@ -3159,48 +3203,6 @@
    "en": {
     "title": "Sports Ministry sets up 14-member panel to build sustainable sports league ecosystem",
     "summary": "The Ministry of Youth Affairs and Sports has set up a 14-member committee to frame a roadmap for a professionally managed, financially sustainable sports league ecosystem in India. The panel will submit its recommendations within eight weeks."
-   }
-  },
-  {
-   "id": "sensex-slumps-700-points-nifty-below-25200-five-lakh-crore-wiped-november-18",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T14:14:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-slumps-700-points-nifty-below-25200-five-lakh-crore-wiped-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-slumps-700-points-nifty-below-25200-five-lakh-crore-wiped-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-slumps-700-points-nifty-below-25200-five-lakh-crore-wiped-november-18-en.mp3",
-   "hi": {
-    "title": "सेंसेक्स सात सौ अंक से ज़्यादा टूटा, निफ्टी पच्चीस हज़ार दो सौ से नीचे, पाँच लाख करोड़ रुपये डूबे",
-    "summary": "बुधवार दोपहर शेयर बाज़ार में भारी गिरावट आई। सेंसेक्स सात सौ अंक से ज़्यादा टूटकर इक्यासी हज़ार आठ सौ चौदह पर और निफ्टी दो सौ अंक से ज़्यादा गिरकर पच्चीस हज़ार दो सौ से नीचे आ गया। सेबी के मार्जिन नियमों पर विचार, अमेरिका-ईरान तनाव, अमेरिकी फेड की दर बढ़ोतरी की चिंता और मुनाफ़ावसूली गिरावट की बड़ी वजहें रहीं।"
-   },
-   "en": {
-    "title": "Sensex slumps over 700 points, Nifty slips below 25,200 as investors lose nearly ₹5 lakh crore",
-    "summary": "Indian markets fell sharply in mid-session trade on Wednesday. The Sensex dropped over 700 points to 81,814 and the Nifty slid more than 200 points to below 25,200, wiping out nearly ₹5 lakh crore of investor wealth. SEBI's margin-trading review, US-Iran tensions, Fed rate-hike worries and profit booking drove the fall."
-   }
-  },
-  {
-   "id": "supreme-court-refuses-stay-azam-khan-interim-bail-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T14:04:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-refuses-stay-azam-khan-interim-bail-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-refuses-stay-azam-khan-interim-bail-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-refuses-stay-azam-khan-interim-bail-november-18-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने आज़म खान की अंतरिम जमानत पर रोक लगाने से इनकार किया, ईडी की अपील पर गुरुवार को सुनवाई",
-    "summary": "सुप्रीम कोर्ट ने बुधवार को समाजवादी पार्टी के नेता मोहम्मद आज़म खान को इलाहाबाद हाई कोर्ट से मिली अंतरिम जमानत पर रोक लगाने से इनकार कर दिया। कोर्ट ने कहा कि जमानत का आदेश बना रहने से आसमान नहीं टूट पड़ेगा, और प्रवर्तन निदेशालय की अपील पर गुरुवार को सुनवाई करेगा।"
-   },
-   "en": {
-    "title": "Supreme Court refuses to stay Azam Khan's interim bail, will hear ED's appeal on Thursday",
-    "summary": "The Supreme Court on Wednesday refused to stay the interim bail granted to Samajwadi Party leader Mohammad Azam Khan by the Allahabad High Court in the Enforcement Directorate's money laundering case. The court said heavens will not fall if the order stands, and will hear the ED's appeal on Thursday."
    }
   }
  ]
