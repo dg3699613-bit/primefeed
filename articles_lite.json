@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T21:29:43+05:30",
+ "updatedAt": "2026-11-19T21:56:20+05:30",
  "articles": [
+  {
+   "id": "indian-man-tushar-sharma-found-dead-burning-car-canada-targeted-killing-november-19",
+   "category": "World",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T21:48:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indian-man-tushar-sharma-found-dead-burning-car-canada-targeted-killing-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indian-man-tushar-sharma-found-dead-burning-car-canada-targeted-killing-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indian-man-tushar-sharma-found-dead-burning-car-canada-targeted-killing-november-19-en.mp3",
+   "hi": {
+    "title": "कनाडा में जली कार में भारतीय युवक तुषार शर्मा मृत मिला, पुलिस को लक्षित हत्या का शक",
+    "summary": "कनाडा के ब्रिटिश कोलंबिया में जली हुई एक कार में पच्चीस साल के भारतीय युवक तुषार शर्मा का शव मिला है। पुलिस ने सत्रह नवंबर को उसकी पहचान की और कहा है कि शुरुआती सबूतों से यह लक्षित घटना लगती है, हालाँकि हत्या का मकसद अब तक साफ नहीं है।"
+   },
+   "en": {
+    "title": "Indian man Tushar Sharma found dead in burning car in Canada; police suspect targeted killing",
+    "summary": "Canadian homicide investigators have identified the man found dead in a burning car in Langley, British Columbia, as 25-year-old Indian national Tushar Sharma. Police say the evidence points to a targeted incident, though the motive is still under investigation."
+   }
+  },
+  {
+   "id": "nvidia-jay-puri-wife-cenly-chen-chip-smuggling-questions-november-19",
+   "category": "Technology",
+   "sub": "AI",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T21:48:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-jay-puri-wife-cenly-chen-chip-smuggling-questions-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-jay-puri-wife-cenly-chen-chip-smuggling-questions-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-jay-puri-wife-cenly-chen-chip-smuggling-questions-november-19-en.mp3",
+   "hi": {
+    "title": "एनवीडिया के पूर्व शीर्ष अधिकारी जय पुरी की पत्नी पर चिप तस्करी के आरोपों से जुड़े सवाल",
+    "summary": "शॉर्ट-सेलर कंपनी मडी वॉटर्स ने सवाल उठाया है कि क्या एनवीडिया के पूर्व शीर्ष अधिकारी जय पुरी की पत्नी सेनली चेन ही सुपर माइक्रो की वह पूर्व अधिकारी हैं, जिनका नाम चीन को चिप भेजने के आरोपों वाले मुकदमे में आया है। चेन पर कोई आपराधिक आरोप नहीं है और पुरी पर भी गलत काम का आरोप नहीं लगा है।"
+   },
+   "en": {
+    "title": "Questions raised over Nvidia ex-executive Jay Puri's wife in chip-smuggling case",
+    "summary": "Short-seller Muddy Waters has questioned whether Cenly Chen, the wife of former Nvidia executive Jay Puri, is the same former Super Micro executive named in a lawsuit over alleged illicit sales of Nvidia-powered servers to China. Chen has not been charged with any crime, and Puri has not been accused of wrongdoing."
+   }
+  },
   {
    "id": "somalia-expels-uae-ambassador-open-invasion-accusation-november-19",
    "category": "World",
@@ -3167,48 +3209,6 @@
    "en": {
     "title": "SpiceJet board clears plan to raise Rs 5,500 crore to revive airline; shares hit 5% upper circuit",
     "summary": "Cash-strapped SpiceJet's board on Wednesday approved a proposal to raise up to Rs 5,500 crore to strengthen its finances and drive its revival. The board also cleared raising the airline's authorised share capital from Rs 2,000 crore to Rs 7,500 crore. SpiceJet shares jumped to the 5% upper circuit on the BSE after the announcement."
-   }
-  },
-  {
-   "id": "shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T16:35:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shiv-sena-shaina-nc-tears-bal-thackeray-photo-sonia-memoir-row-november-18-en.mp3",
-   "hi": {
-    "title": "किताब फाड़ते-फाड़ते बाल ठाकरे की तस्वीर फाड़ बैठीं शायना एनसी, बीएमसी में हंगामा",
-    "summary": "मुंबई में बुधवार को सोनिया गांधी की किताब 'बिलॉन्गिंग' के विरोध में प्रदर्शन कर रही शिवसेना (शिंदे गुट) की नेता शायना एनसी किताब के पन्ने फाड़ते-फाड़ते पार्टी के संस्थापक बाल ठाकरे की तस्वीर भी फाड़ बैठीं। उद्धव ठाकरे गुट और कांग्रेस ने इसे बालासाहेब का अपमान बताकर हंगामा खड़ा कर दिया है, जबकि शिंदे गुट का कहना है कि फाड़ी गई तस्वीर मणिशंकर अय्यर की थी।"
-   },
-   "en": {
-    "title": "Shaina NC tears Bal Thackeray's photo while tearing up Sonia Gandhi's memoir — row erupts in BMC",
-    "summary": "At a protest in Mumbai on Wednesday against Sonia Gandhi's memoir 'Belonging', Shiv Sena (Shinde faction) leader Shaina NC tore up pages of the book — and, in the process, also tore a photograph of party founder Bal Thackeray. The Uddhav Thackeray faction and the Congress called it an insult to Balasaheb, while the Shinde faction insists the torn photograph was of Mani Shankar Aiyar."
-   }
-  },
-  {
-   "id": "russell-brand-prison-message-investigation-hmp-littlehey-november-18",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T16:35:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russell-brand-prison-message-investigation-hmp-littlehey-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russell-brand-prison-message-investigation-hmp-littlehey-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russell-brand-prison-message-investigation-hmp-littlehey-november-18-en.mp3",
-   "hi": {
-    "title": "जेल से संदेश भेजने पर रसेल ब्रांड की बढ़ी मुश्किल, ब्रिटेन सरकार ने शुरू की जाँच",
-    "summary": "बलात्कार और यौन उत्पीड़न के मामले में दोषी ठहराए गए कॉमेडियन रसेल ब्रांड की मुश्किलें जेल में भी बढ़ गई हैं। उनकी पत्नी लौरा गैलेचर ने रविवार को यूट्यूब शो में उनका संदेश पढ़कर सुनाया, जिसमें ब्रांड ने खुद को बेगुनाह बताया था। ब्रिटेन के न्याय मंत्रालय ने जाँच शुरू कर दी है कि क्या जेल के नियम तोड़े गए हैं।"
-   },
-   "en": {
-    "title": "Russell Brand faces prison probe after message from jail is read out by his wife",
-    "summary": "Jailed comedian Russell Brand faces a fresh investigation after his wife Laura Gallacher read out a message from him on their YouTube show on Sunday, in which he maintained his innocence. Britain's Ministry of Justice is examining whether prison rules were broken, and the prime minister's office has called the episode 'clearly appalling'."
    }
   }
  ]
