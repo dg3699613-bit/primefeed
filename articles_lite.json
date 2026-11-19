@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T10:07:24+05:30",
+ "updatedAt": "2026-11-19T10:22:59+05:30",
  "articles": [
+  {
+   "id": "nicholls-century-new-zealand-214-5-wellington-test-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T10:20:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nicholls-century-new-zealand-214-5-wellington-test-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nicholls-century-new-zealand-214-5-wellington-test-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nicholls-century-new-zealand-214-5-wellington-test-november-19-en.mp3",
+   "hi": {
+    "title": "वेलिंगटन टेस्ट: निकोल्स के नाबाद शतक से न्यूज़ीलैंड पहले दिन दो सौ चौदह रन पर पाँच विकेट तक पहुँचा",
+    "summary": "हेनरी निकोल्स ने एक सौ अट्ठासी गेंदों पर नाबाद सौ रन बनाए — टेस्ट में उनका बारहवाँ और भारत के खिलाफ़ पहला शतक — जिससे न्यूज़ीलैंड पहले टेस्ट के पहले दिन वेलिंगटन के बेसिन रिज़र्व में साठ रन पर चार विकेट से दो सौ चौदह रन पर पाँच विकेट तक पहुँच गया। ग्लेन फ़िलिप्स ने नाबाद अठहत्तर रन बनाकर उनका साथ दिया, दोनों ने छठे विकेट के लिए एक सौ चौवालीस रन जोड़े, जबकि भारत के लिए जसप्रीत बुमराह ने तीन विकेट लिए।"
+   },
+   "en": {
+    "title": "Nicholls' unbeaten century lifts New Zealand from 60/4 to 214/5 on Day 1 in Wellington",
+    "summary": "Henry Nicholls struck an unbeaten 100 off 188 balls — his twelfth Test century and his first against India — as New Zealand recovered from 60 for 4 to 214 for 5 on Day 1 of the first Test at Basin Reserve in Wellington. Glenn Phillips supported him with an unbeaten 78, the pair adding 144 for the sixth wicket, while Jasprit Bumrah took three wickets for India."
+   }
+  },
   {
    "id": "amit-shah-inaugurates-anti-terror-conference-delhi-november-19",
    "category": "India",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "Paharganj bar firing accused shot in leg in police encounter in Sonia Vihar, arrested",
     "summary": "Satinder alias Kanta, accused of firing outside a bar on Panchkuian Road, was traced by Central District Police to Sonia Vihar, where he was shot in the leg in an exchange of fire, taken to hospital and arrested."
-   }
-  },
-  {
-   "id": "nvidia-q3-earnings-115-8-billion-beats-forecasts-november-17",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T03:25:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-q3-earnings-115-8-billion-beats-forecasts-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-q3-earnings-115-8-billion-beats-forecasts-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-q3-earnings-115-8-billion-beats-forecasts-november-17-en.mp3",
-   "hi": {
-    "title": "हुआंग के जाने के बाद पहली रिपोर्ट में एनवीडिया ने तोड़े सारे अनुमान: एक सौ पंद्रह दशमलव आठ अरब डॉलर की कमाई",
-    "summary": "एनवीडिया ने तीसरी तिमाही में एक सौ पंद्रह दशमलव आठ अरब डॉलर की कमाई दर्ज की, जो पिछले साल से एक सौ तीन प्रतिशत ज़्यादा है और वॉल स्ट्रीट के एक सौ नौ दशमलव एक अरब डॉलर के अनुमान से काफी ऊपर है। कंपनी ने चौथी तिमाही के लिए एक सौ तीस अरब डॉलर की कमाई का अनुमान दिया है। यह संस्थापक जेन्सन हुआंग के ग्यारह नवंबर को मुख्य कार्यकारी पद से इस्तीफ़ा देने के बाद कंपनी की पहली रिपोर्ट है।"
-   },
-   "en": {
-    "title": "Nvidia beats forecasts with $115.8 billion quarter and $130 billion outlook, first results since Huang's exit",
-    "summary": "Nvidia reported third-quarter revenue of $115.8 billion, up 103% on a year ago and well ahead of Wall Street's $109.1 billion forecast, and guided fourth-quarter revenue of $130 billion. It is the chipmaker's first report since founder Jensen Huang resigned as chief executive on November 11."
    }
   }
  ]
