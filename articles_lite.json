@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T09:45:34+05:30",
+ "updatedAt": "2026-11-19T10:07:24+05:30",
  "articles": [
+  {
+   "id": "amit-shah-inaugurates-anti-terror-conference-delhi-november-19",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T10:04:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-inaugurates-anti-terror-conference-delhi-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-inaugurates-anti-terror-conference-delhi-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-inaugurates-anti-terror-conference-delhi-november-19-en.mp3",
+   "hi": {
+    "title": "दिल्ली में दो दिवसीय आतंकवाद निरोधी सम्मेलन शुरू, अमित शाह ने किया उद्घाटन, सीमा पार आतंकवाद पर होगा मंथन",
+    "summary": "केंद्रीय गृह मंत्री अमित शाह ने नई दिल्ली में दो दिवसीय आतंकवाद निरोधी सम्मेलन का उद्घाटन किया। राष्ट्रीय अन्वेषण अभिकरण की ओर से आयोजित सम्मेलन के छठे संस्करण का विषय सीमा पार आतंकवाद है। उन्नीस और बीस नवंबर को होने वाले इस सम्मेलन में देश भर के वरिष्ठ पुलिस अधिकारी, केंद्रीय एजेंसियों के अधिकारी और विशेषज्ञ विदेशी सबूत, डिजिटल फॉरेंसिक, आतंकी फंडिंग और नए आपराधिक कानूनों पर मंथन करेंगे।"
+   },
+   "en": {
+    "title": "Amit Shah inaugurates two-day Anti-Terror Conference in Delhi, focus on cross-border terrorism",
+    "summary": "Union Home Minister Amit Shah is inaugurating the sixth edition of the two-day Anti-Terror Conference in New Delhi, organised by the National Investigation Agency, with cross-border terrorism as its theme. Top police officers, central agencies and domain experts will deliberate on foreign evidence, digital forensics, terror financing and the new criminal laws over November 19 and 20."
+   }
+  },
   {
    "id": "maharashtra-fda-suspends-12-food-licences-mumbai-thane-pune-november-19",
    "category": "State & Local",
@@ -3176,27 +3197,6 @@
    "en": {
     "title": "Nvidia beats forecasts with $115.8 billion quarter and $130 billion outlook, first results since Huang's exit",
     "summary": "Nvidia reported third-quarter revenue of $115.8 billion, up 103% on a year ago and well ahead of Wall Street's $109.1 billion forecast, and guided fourth-quarter revenue of $130 billion. It is the chipmaker's first report since founder Jensen Huang resigned as chief executive on November 11."
-   }
-  },
-  {
-   "id": "apple-services-outage-icloud-app-store-down-november-17",
-   "category": "Technology",
-   "sub": "Apps",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T03:07:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/apple-services-outage-icloud-app-store-down-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/apple-services-outage-icloud-app-store-down-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/apple-services-outage-icloud-app-store-down-november-17-en.mp3",
-   "hi": {
-    "title": "आईक्लाउड, ऐप स्टोर और ऐपल म्यूज़िक ठप: हज़ारों यूज़र साइन-इन से बाहर, ऐपल ने कहा — अंदरूनी अपडेट से हुआ आउटेज",
-    "summary": "मंगलवार को आईक्लाउड, ऐप स्टोर और ऐपल म्यूज़िक की सेवाएँ ठप हो गईं, जिससे हज़ारों यूज़र अपने अकाउंट में साइन-इन नहीं कर पाए। ऐपल ने कहा कि वजह कंपनी का एक अंदरूनी अपडेट था, साइबर हमला नहीं; दोपहर तक ज़्यादातर सेवाएँ वापस आ गईं।"
-   },
-   "en": {
-    "title": "iCloud, App Store and Apple Music went down for thousands of users — Apple blames an internal update",
-    "summary": "Apple's iCloud, App Store and Apple Music went down on Tuesday, locking thousands of users out of their accounts. Apple said an internal update was to blame, not a cyberattack, and most services were back by the afternoon."
    }
   }
  ]
