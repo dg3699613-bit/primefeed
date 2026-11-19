@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T17:00:35+05:30",
+ "updatedAt": "2026-11-19T17:19:22+05:30",
  "articles": [
+  {
+   "id": "india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T17:10:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19-en.mp3",
+   "hi": {
+    "title": "निकोल्स के नाबाद शतक से न्यूज़ीलैंड की वापसी: सत्तर पर पाँच से दिन का अंत दो सौ तैंतालीस पर पाँच",
+    "summary": "वेलिंगटन के बेसिन रिज़र्व में भारत के खिलाफ़ पहले टेस्ट के पहले दिन न्यूज़ीलैंड ने सत्तर रन पर पाँच विकेट गंवाने के बाद वापसी करते हुए दिन का अंत दो सौ तैंतालीस रन पर पाँच विकेट पर किया। हेनरी निकोल्स एक सौ तेरह और ग्लेन फ़िलिप्स चौरानबे रन पर नाबाद रहे, जबकि जसप्रीत बुमराह ने शुरुआती स्पैल में तीन विकेट लिए।"
+   },
+   "en": {
+    "title": "Nicholls' 113* and Phillips' 94* rescue New Zealand from 70/5 to 243/5 on Day 1 in Wellington",
+    "summary": "Henry Nicholls made an unbeaten 113 and Glenn Phillips an unbeaten 94 as New Zealand recovered from 70 for 5 to close Day 1 of the first Test against India on 243 for 5 at the Basin Reserve in Wellington. Jasprit Bumrah took three wickets in a fiery opening spell before the pair's unbroken 173-run stand turned the day around."
+   }
+  },
   {
    "id": "up-fog-crashes-five-killed-36-injured-kanpur-dehat-azamgarh-november-19",
    "category": "State & Local",
@@ -3178,27 +3199,6 @@
    "en": {
     "title": "Bigg Boss 20: Uditi Singh named captain for the second time after captaincy task is cancelled",
     "summary": "The captaincy task in the Bigg Boss 20 house was cancelled after an alleged rule violation and a two-minute standoff in which no housemate stepped forward to press the button. Bigg Boss still named Uditi Singh the new captain, her second captaincy of the season."
-   }
-  },
-  {
-   "id": "india-new-zealand-first-test-wellington-november-19-preview-november-18",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T13:52:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-new-zealand-first-test-wellington-november-19-preview-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-new-zealand-first-test-wellington-november-19-preview-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-new-zealand-first-test-wellington-november-19-preview-november-18-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन में गुरुवार से भारत-न्यूज़ीलैंड पहला टेस्ट, चार तेज़ गेंदबाज़ों के साथ उतरने की तैयारी में टीम इंडिया",
-    "summary": "भारत और न्यूज़ीलैंड के बीच दो टेस्ट मैचों की सीरीज़ गुरुवार से वेलिंगटन में शुरू हो रही है। विश्व टेस्ट चैंपियनशिप के फाइनल की दौड़ में बने रहने के लिए भारत को यह सीरीज़ जीतनी ज़रूरी है, और कप्तान शुभमन गिल चार तेज़ गेंदबाज़ों के साथ उतरने की तैयारी में हैं।"
-   },
-   "en": {
-    "title": "India vs New Zealand 1st Test in Wellington from Thursday, Gill weighs four-pacer attack in must-win WTC clash",
-    "summary": "India begin a two-Test series against New Zealand in Wellington on Thursday with their World Test Championship final hopes on the line. Captain Shubman Gill has confirmed India are planning to play four fast bowlers, while New Zealand will miss the injured Mitchell Santner."
    }
   }
  ]
