@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-19T17:19:22+05:30",
+ "updatedAt": "2026-11-19T17:30:57+05:30",
  "articles": [
+  {
+   "id": "kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T17:27:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19-en.mp3",
+   "district": "Kollam",
+   "state": "Kerala",
+   "hi": {
+    "title": "कोल्लम में टार प्लांट के धुएँ से बासठ स्कूली बच्चे बीमार, तीन आईसीयू में; बाल अधिकार आयोग ने दर्ज किया केस",
+    "summary": "केरल के कोल्लम ज़िले के कोट्टियम में ऑक्ज़िलियम स्कूल के बासठ बच्चे बुधवार को पास के टार मिक्सिंग प्लांट से उठे धुएँ और बदबू के बाद बीमार पड़ गए। तीन बच्चों को आईसीयू में भर्ती कराया गया है, जबकि केरल बाल अधिकार आयोग ने गुरुवार को मामले में स्वतः केस दर्ज कर लिया है।"
+   },
+   "en": {
+    "title": "62 schoolchildren fall ill after tar-plant fumes in Kollam's Kottiyam; three in ICU, child rights panel registers case",
+    "summary": "Sixty-two students of Auxilium School in Kottiyam, Kollam, fell ill on Wednesday after smoke and fumes from a nearby tar-mixing plant drifted into the school. Three children are in intensive care, and Kerala's child rights panel registered a case in the matter on Thursday."
+   }
+  },
   {
    "id": "india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19",
    "category": "Cricket & Sports",
@@ -3178,27 +3201,6 @@
    "en": {
     "title": "Supreme Court refuses to stay Azam Khan's interim bail, will hear ED's appeal on Thursday",
     "summary": "The Supreme Court on Wednesday refused to stay the interim bail granted to Samajwadi Party leader Mohammad Azam Khan by the Allahabad High Court in the Enforcement Directorate's money laundering case. The court said heavens will not fall if the order stands, and will hear the ED's appeal on Thursday."
-   }
-  },
-  {
-   "id": "bigg-boss-20-uditi-singh-captain-second-time-task-cancelled-november-18",
-   "category": "Entertainment",
-   "sub": "TV",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T13:52:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-uditi-singh-captain-second-time-task-cancelled-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-uditi-singh-captain-second-time-task-cancelled-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-uditi-singh-captain-second-time-task-cancelled-november-18-en.mp3",
-   "hi": {
-    "title": "बिग बॉस बीस: कैप्टेंसी टास्क रद्द, फिर भी उदिति सिंह दूसरी बार बनीं घर की कप्तान",
-    "summary": "बिग बॉस बीस के घर में कैप्टेंसी टास्क नियमों के उल्लंघन और दो मिनट के गतिरोध के बाद रद्द कर दिया गया। इसके बाद भी बिग बॉस ने उदिति सिंह को घर की नई कप्तान घोषित कर दिया, इस सीज़न में यह उनकी दूसरी कप्तानी है।"
-   },
-   "en": {
-    "title": "Bigg Boss 20: Uditi Singh named captain for the second time after captaincy task is cancelled",
-    "summary": "The captaincy task in the Bigg Boss 20 house was cancelled after an alleged rule violation and a two-minute standoff in which no housemate stepped forward to press the button. Bigg Boss still named Uditi Singh the new captain, her second captaincy of the season."
    }
   }
  ]
