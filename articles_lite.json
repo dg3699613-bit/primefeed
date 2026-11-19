@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T15:41:36+05:30",
+ "updatedAt": "2026-11-19T16:06:46+05:30",
  "articles": [
+  {
+   "id": "upi-mdr-delay-paytm-shares-plunge-november-19",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T15:58:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/upi-mdr-delay-paytm-shares-plunge-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/upi-mdr-delay-paytm-shares-plunge-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/upi-mdr-delay-paytm-shares-plunge-november-19-en.mp3",
+   "hi": {
+    "title": "यूपीआई पर एमडीआर टल सकता है चुनावों के बाद तक, पेटीएम के शेयर करीब नौ फ़ीसदी गिरे",
+    "summary": "यूपीआई भुगतान पर व्यापारी शुल्क लागू होने में देरी की खबर से गुरुवार को पेटीएम के शेयर करीब नौ फ़ीसदी गिर गए। रिपोर्ट के मुताबिक एमडीआर दो हज़ार सत्ताईस की पहली छमाही में पाँच राज्यों के विधानसभा चुनावों के बाद तक टल सकता है, जबकि व्यापारी से व्यापारी भुगतान पर सिर्फ़ पाँच रुपये का तय शुल्क लगने की बात भी सामने आई है।"
+   },
+   "en": {
+    "title": "UPI MDR may slip past 2027 polls; Paytm shares plunge nearly 9% as investors fret over delayed fees",
+    "summary": "Paytm shares fell nearly 9 per cent on Thursday after reports said the rollout of merchant discount rate (MDR) charges on UPI payments could be delayed until after the assembly elections due in five states in the first half of 2027. Merchant-to-merchant UPI payments may also attract only a flat Rs 5 fee, far below what traders had feared."
+   }
+  },
+  {
+   "id": "gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T15:58:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19-en.mp3",
+   "district": "Gondia",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "गोंदिया में वर्षा तुर्कर हत्याकांड का खुलासा: पत्नी ने पति की दोस्त की हत्या के लिए तेरह लाख की सुपारी दी, चार गिरफ़्तार",
+    "summary": "गोंदिया पुलिस ने इंडिगो कर्मचारी वर्षा तुर्कर की हत्या के मामले का गुरुवार को खुलासा कर दिया। पुलिस के मुताबिक हत्या की साज़िश मृतका के दोस्त की पत्नी ने रची थी, जिसने कथित तौर पर तेरह लाख रुपये की सुपारी देकर हत्या करवाई। चार आरोपियों को गिरफ़्तार किया गया है, जबकि दो अब भी फ़रार हैं।"
+   },
+   "en": {
+    "title": "Gondia police crack Varsha Turkar murder: wife allegedly paid Rs 13 lakh contract to kill husband's friend, four arrested",
+    "summary": "Gondia police on Thursday said they have cracked the murder of IndiGo employee Varsha Turkar, whose body was found in the Bondrani forest last week. Police said the murder was allegedly plotted by the wife of the victim's friend, who is accused of paying Rs 13 lakh to have her killed. Four people have been arrested, while two others are still absconding."
+   }
+  },
   {
    "id": "modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19",
    "category": "Business",
@@ -3151,50 +3195,6 @@
    "en": {
     "title": "NEET-UG paper leak: Delhi court orders charges against 14 accused, trial to run day-to-day from November 25",
     "summary": "A Delhi court has ordered the framing of charges against 14 accused in the NEET-UG 2026 paper leak case. The accused will be produced in court on November 21 for the formal framing of charges, and the trial will run day-to-day from November 25."
-   }
-  },
-  {
-   "id": "chamoli-earthquake-4-1-joshimath-two-tremors-november-18",
-   "category": "India",
-   "sub": "National",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T12:24:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chamoli-earthquake-4-1-joshimath-two-tremors-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chamoli-earthquake-4-1-joshimath-two-tremors-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chamoli-earthquake-4-1-joshimath-two-tremors-november-18-en.mp3",
-   "district": "Chamoli",
-   "state": "Uttarakhand",
-   "hi": {
-    "title": "चमोली में आधे घंटे के अंदर दो बार भूकंप, ४.१ तीव्रता के झटके; जान-माल के नुकसान की कोई खबर नहीं",
-    "summary": "उत्तराखंड के चमोली जिले में बुधवार सुबह आधे घंटे के अंदर भूकंप के दो झटके आए। पहला झटका सुबह १० बजकर २१ मिनट पर ४.१ तीव्रता का था, जिसका केंद्र जोशीमठ के पास था। जान-माल के नुकसान की कोई खबर नहीं है।"
-   },
-   "en": {
-    "title": "Two tremors shake Chamoli in half an hour, 4.1 magnitude quake; no damage reported",
-    "summary": "Two earthquake tremors shook Uttarakhand's Chamoli district within half an hour on Wednesday morning. The first, of magnitude 4.1, struck at 10:21 am with its epicentre near Joshimath. There were no reports of loss of life or property."
-   }
-  },
-  {
-   "id": "java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18",
-   "category": "Technology",
-   "sub": "Internet",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T12:24:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/java4shell-flaw-south-korea-emergency-meeting-oracle-patch-november-18-en.mp3",
-   "hi": {
-    "title": "जावा की बड़ी खामी से हड़कंप, दक्षिण कोरिया ने बुलाई आपात बैठक; ओरेकल ने जारी किए पैच",
-    "summary": "जावा में मिली एक गंभीर खामी के बाद दक्षिण कोरिया के राष्ट्रपति कार्यालय ने मंगलवार को सेना, विज्ञान मंत्रालय और वित्तीय नियामकों के साथ आपात बैठक की। अमेरिका की साइबर एजेंसी ने तुरंत पैच लगाने को कहा है और ओरेकल ने जावा के लिए सुरक्षा अपडेट जारी कर दिए हैं।"
-   },
-   "en": {
-    "title": "Critical Java flaw sparks emergency meeting in South Korea; Oracle issues patches",
-    "summary": "A critical flaw found in Java prompted South Korea's presidential office to call an emergency meeting on Tuesday with the military, the science ministry and financial regulators. The US cyber agency has urged users to patch immediately, and Oracle has issued security updates for Java."
    }
   }
  ]
