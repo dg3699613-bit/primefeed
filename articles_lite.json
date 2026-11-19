@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-19T11:13:12+05:30",
+ "updatedAt": "2026-11-19T11:25:19+05:30",
  "articles": [
+  {
+   "id": "bhakra-canal-bridge-collapse-patiala-two-trucks-trapped-november-19",
+   "category": "State & Local",
+   "sub": "Others",
+   "district": "Patiala",
+   "state": "Punjab",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T11:21:35+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhakra-canal-bridge-collapse-patiala-two-trucks-trapped-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhakra-canal-bridge-collapse-patiala-two-trucks-trapped-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhakra-canal-bridge-collapse-patiala-two-trucks-trapped-november-19-en.mp3",
+   "hi": {
+    "title": "पटियाला में भाखड़ा नहर पर पुल गिरा: दो ट्रक फँसे, एक में आग लगी — दोनों चालक सुरक्षित",
+    "summary": "पंजाब के पटियाला ज़िले में गुरुवार तड़के भाखड़ा नहर पर बना लोहे का पुल अचानक गिर गया। पुल से गुज़र रहे रेत से लदे दो ट्रक मलबे में फँस गए और उनमें से एक में आग लग गई। दोनों चालकों को सुरक्षित निकालकर अस्पताल पहुँचाया गया है, किसी की जान नहीं गई।"
+   },
+   "en": {
+    "title": "Bailey bridge over Bhakra Canal collapses near Patiala, two trucks trapped and one catches fire; both drivers safe",
+    "summary": "An iron Bailey bridge over the Bhakra Canal on the Patiala-Sangrur bypass in Punjab collapsed early on Thursday, trapping two sand-laden trucks in the broken structure. One of the trucks caught fire, but both drivers were rescued and taken to hospital, and no one was killed."
+   }
+  },
+  {
+   "id": "rahul-gandhi-chicago-democracy-remark-bjp-backlash-november-19",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T11:21:35+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-chicago-democracy-remark-bjp-backlash-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-chicago-democracy-remark-bjp-backlash-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-chicago-democracy-remark-bjp-backlash-november-19-en.mp3",
+   "hi": {
+    "title": "शिकागो में राहुल गांधी बोले — 'भारतीय लोकतंत्र बीमार है', चुनाव का बहिष्कार नहीं करेंगे; भाजपा ने पलटवार किया",
+    "summary": "कांग्रेस नेता राहुल गांधी ने शिकागो विश्वविद्यालय में कहा है कि विपक्ष चुनावों का बहिष्कार नहीं करेगा, लेकिन मतदाता सूचियों में कथित गड़बड़ियों को जनता के सामने लाता रहेगा। उन्होंने भारतीय लोकतंत्र को 'बीमार' बताया, जिस पर भाजपा ने गुरुवार सुबह तीखा पलटवार किया।"
+   },
+   "en": {
+    "title": "In Chicago, Rahul Gandhi calls Indian democracy 'sick' but rules out poll boycott; BJP hits back",
+    "summary": "Congress leader Rahul Gandhi has said the opposition will not boycott elections, but will keep raising alleged irregularities in voter rolls before the public. Speaking at the University of Chicago, he described Indian democracy as 'sick', drawing a sharp response from the BJP on Thursday morning."
+   }
+  },
   {
    "id": "india-accuses-pakistan-army-mineral-exploitation-un-november-19",
    "category": "World",
@@ -3149,48 +3193,6 @@
    "en": {
     "title": "27 crew safe as Paradip Port tows flooding cargo ship MV Vishva Uday to shore",
     "summary": "A major maritime disaster was averted off the Odisha coast after the Paradip Port Authority and the Indian Coast Guard rescued all 27 crew members of the cargo vessel MV Vishva Uday, which had begun taking in water 50 nautical miles from Paradip after a propeller shaft failure."
-   }
-  },
-  {
-   "id": "west-bengal-exam-fee-waiver-age-relaxation-one-lakh-jobs-november-16",
-   "category": "Rozgar",
-   "sub": "Sarkari Naukri",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T05:27:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-exam-fee-waiver-age-relaxation-one-lakh-jobs-november-16.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-exam-fee-waiver-age-relaxation-one-lakh-jobs-november-16-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-exam-fee-waiver-age-relaxation-one-lakh-jobs-november-16-en.mp3",
-   "hi": {
-    "title": "पश्चिम बंगाल में सरकारी नौकरी की परीक्षा की फीस खत्म, उम्र में दो साल की छूट; छात्राओं को पचास हज़ार रुपये की मदद",
-    "summary": "पश्चिम बंगाल के मुख्यमंत्री सुवेंदु अधिकारी ने सरकारी भर्ती परीक्षाओं की आवेदन फीस माफ़ करने, दो हज़ार सत्ताईस से ऊपरी आयु सीमा में दो साल की छूट देने और दो नई योजनाओं — नौकरी के इच्छुक युवाओं के लिए भरोसा और छात्राओं के लिए भगिनी निवेदिता — की घोषणा की है। राज्य का लक्ष्य पाँच साल में एक लाख नौकरियाँ देना है।"
-   },
-   "en": {
-    "title": "West Bengal scraps exam fees for government jobs, adds two-year age relaxation; Rs 50,000 aid for girl students",
-    "summary": "West Bengal Chief Minister Suvendu Adhikari has announced a waiver of application fees for state government recruitment examinations, a two-year relaxation in the upper age limit from 2027, and two new support schemes — Bhorosa for job aspirants and Bhagini Nivedita, giving girl students Rs 50,000 for higher education — as the state targets one lakh jobs in five years."
-   }
-  },
-  {
-   "id": "amazon-7-billion-renewable-energy-india-2030-november-17",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T05:02:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amazon-7-billion-renewable-energy-india-2030-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amazon-7-billion-renewable-energy-india-2030-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amazon-7-billion-renewable-energy-india-2030-november-17-en.mp3",
-   "hi": {
-    "title": "अमेज़न 2030 तक भारत में अक्षय ऊर्जा में 7 अरब डॉलर लगाएगी, चार नई परियोजनाएँ भी",
-    "summary": "अमेज़न ने 2030 तक भारत में अक्षय ऊर्जा परियोजनाओं में 7 अरब डॉलर के अतिरिक्त निवेश की घोषणा की है; कर्नाटक, मध्य प्रदेश और राजस्थान में कुल 934 मेगावाट की चार नई पवन और सौर परियोजनाएँ भी शुरू होंगी।"
-   },
-   "en": {
-    "title": "Amazon to invest $7 billion in renewable energy in India by 2030",
-    "summary": "Amazon has announced an additional $7 billion investment in renewable energy projects in India by 2030, alongside four new wind and solar projects totalling 934 megawatts in Karnataka, Madhya Pradesh and Rajasthan."
    }
   }
  ]
