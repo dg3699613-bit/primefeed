@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T09:05:07+05:30",
+ "updatedAt": "2026-11-19T09:32:44+05:30",
  "articles": [
+  {
+   "id": "anthropic-81-3-billion-ipo-biggest-ever-nasdaq-ant-november-19",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T09:26:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anthropic-81-3-billion-ipo-biggest-ever-nasdaq-ant-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-81-3-billion-ipo-biggest-ever-nasdaq-ant-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-81-3-billion-ipo-biggest-ever-nasdaq-ant-november-19-en.mp3",
+   "hi": {
+    "title": "एंथ्रॉपिक ने इक्यासी दशमलव तीन अरब डॉलर जुटाए, इतिहास का सबसे बड़ा आईपीओ, स्पेसएक्स का रिकॉर्ड टूटा",
+    "summary": "क्लॉड चैटबॉट बनाने वाली एंथ्रॉपिक ने अपने शेयर तिरासी डॉलर प्रति शेयर के भाव पर बेचकर इक्यासी दशमलव तीन अरब डॉलर जुटाए हैं, यह शेयर बाज़ार के इतिहास की सबसे बड़ी लिस्टिंग है। कंपनी का मूल्यांकन करीब डेढ़ ट्रिलियन डॉलर आँका गया है, और उसके शेयर गुरुवार से नैस्डैक पर एएनटी टिकर के साथ कारोबार करेंगे।"
+   },
+   "en": {
+    "title": "Anthropic raises $81.3 billion in the biggest IPO in history, passing SpaceX",
+    "summary": "Anthropic has priced its shares at $83 apiece, raising $81.3 billion in the largest stock-market debut on record and valuing the AI company at about $1.5 trillion. Its shares start trading on the Nasdaq on Thursday under the ticker ANT."
+   }
+  },
+  {
+   "id": "defence-ministry-seeks-20-percent-fy28-capital-hike-rafale-submarines-november-18",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T09:26:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/defence-ministry-seeks-20-percent-fy28-capital-hike-rafale-submarines-november-18.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/defence-ministry-seeks-20-percent-fy28-capital-hike-rafale-submarines-november-18-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/defence-ministry-seeks-20-percent-fy28-capital-hike-rafale-submarines-november-18-en.mp3",
+   "hi": {
+    "title": "रक्षा मंत्रालय ने दो हज़ार सत्ताईस-अट्ठाईस के लिए पूँजीगत खर्च में बीस प्रतिशत बढ़ोतरी माँगी, एक सौ चौदह राफेल और छह पनडुब्बियों की तैयारी",
+    "summary": "रक्षा सचिव राजेश कुमार सिंह ने कहा है कि रक्षा मंत्रालय ने दो हज़ार सत्ताईस-अट्ठाईस के लिए पूँजीगत खर्च में बीस प्रतिशत बढ़ोतरी माँगी है, ताकि एक सौ चौदह राफेल लड़ाकू विमान और प्रोजेक्ट पचहत्तर-आई के तहत छह उन्नत पनडुब्बियाँ खरीदी जा सकें। इस वित्त वर्ष में अब तक करीब अस्सी हज़ार करोड़ रुपये के अनुबंध हो चुके हैं।"
+   },
+   "en": {
+    "title": "Defence Ministry seeks 20% more capital funds for FY28 to buy 114 Rafales and six submarines",
+    "summary": "The Defence Ministry has asked for a 20 per cent rise in its capital outlay for 2027-28, Defence Secretary Rajesh Kumar Singh said, to fund big-ticket buys including 114 Rafale jets and six advanced submarines under Project 75I. Contracts worth about Rs 80,000 crore have already been signed this financial year."
+   }
+  },
   {
    "id": "bangladesh-paramilitary-deployed-hasina-return-lockdown-november-19",
    "category": "World",
@@ -3155,48 +3197,6 @@
    "en": {
     "title": "Acquitted in 2018, freed in 2025: Supreme Court awards ₹30 lakh to man jailed seven years after acquittal",
     "summary": "Devilal Gond was acquitted by the Chhattisgarh High Court in January 2018, but the order never reached the jail authorities and he stayed in prison until May 2025. The Supreme Court has now raised his compensation from ₹2 lakh to ₹30 lakh, calling the payout 'the bare minimum' for wrongful incarceration."
-   }
-  },
-  {
-   "id": "imran-khan-letter-jail-may-not-return-alive-november-17",
-   "category": "World",
-   "sub": "Pakistan",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T02:45:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/imran-khan-letter-jail-may-not-return-alive-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/imran-khan-letter-jail-may-not-return-alive-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/imran-khan-letter-jail-may-not-return-alive-november-17-en.mp3",
-   "hi": {
-    "title": "मैं ज़िंदा वापस नहीं लौट सकता: जेल में इमरान खान ने बिगड़ती सेहत पर शीर्ष जजों को लिखा पत्र",
-    "summary": "पाकिस्तान के जेल में बंद पूर्व प्रधानमंत्री इमरान खान ने देश के शीर्ष जजों को पत्र लिखकर कहा है कि अडियाला जेल में उनकी सेहत बिगड़ रही है और वे ज़िंदा वापस नहीं लौट सकते। उनका कहना है कि उनकी दाहिनी आँख की रोशनी करीब पचासी फ़ीसदी चली गई है और उन्हें ब्रेन हैमरेज व कार्डियक अरेस्ट का ख़तरा है; सरकार का कहना है कि उन्हें सही इलाज मिल रहा है।"
-   },
-   "en": {
-    "title": "'I may not return alive': Jailed Imran Khan writes to Pakistan's top judges over failing health",
-    "summary": "Pakistan's jailed former prime minister Imran Khan has written to the country's top judges saying his health is failing in Adiala jail and warning he may not 'return alive'. He says he has lost 85% of the vision in one eye and faces a risk of brain haemorrhage and cardiac arrest; the government says he is receiving proper care."
-   }
-  },
-  {
-   "id": "uk-hands-us-army-officer-tyner-us-custody-espionage-november-17",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T02:08:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/uk-hands-us-army-officer-tyner-us-custody-espionage-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uk-hands-us-army-officer-tyner-us-custody-espionage-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uk-hands-us-army-officer-tyner-us-custody-espionage-november-17-en.mp3",
-   "hi": {
-    "title": "रूस के लिए जासूसी के आरोपी अमेरिकी सैन्य अधिकारी को ब्रिटेन ने अमेरिका को सौंपा",
-    "summary": "लेफ़्टिनेंट कर्नल ब्रैंडन टाइनर, इकतालीस साल, को दस नवंबर को ग्लॉस्टर के पास जासूसी के शक में गिरफ़्तार किया गया था। ब्रिटिश पुलिस ने मंगलवार को कहा कि जाँच अमेरिका को सौंप दी गई है, और एफ़बीआई ने पुष्टि की है कि वह अब अमेरिकी हिरासत में है।"
-   },
-   "en": {
-    "title": "UK hands US Army officer accused of spying for Russia to American military custody",
-    "summary": "Lieutenant Colonel Brandon Tyner, 41, was arrested near Gloucester on November 10 on suspicion of espionage. British police said on Tuesday they had passed the investigation to the United States, and the FBI confirmed he is now in American custody."
    }
   }
  ]
