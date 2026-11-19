@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T10:40:34+05:30",
+ "updatedAt": "2026-11-19T10:56:46+05:30",
  "articles": [
+  {
+   "id": "census-2027-other-religions-76-predictive-text-entries-november-19",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T10:51:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/census-2027-other-religions-76-predictive-text-entries-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/census-2027-other-religions-76-predictive-text-entries-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/census-2027-other-religions-76-predictive-text-entries-november-19-en.mp3",
+   "hi": {
+    "title": "जनगणना २०२७: 'अन्य' धर्मों की सूची से दो सौ से ज़्यादा नाम हटे, अब सिर्फ़ ७६ सुझाव",
+    "summary": "जनगणना दो हज़ार सत्ताईस के स्व-गणना पोर्टल पर 'अन्य' धर्मों के तहत अब सिर्फ़ छिहत्तर नाम दिख रहे हैं, और वे भी ड्रॉप-डाउन मेनू के रूप में नहीं, बल्कि पूर्वानुमानित पाठ के सुझावों के तौर पर। सरकार ने सोलह नवंबर को सूची में दिखे दो सौ से ज़्यादा नाम हटा दिए हैं, जिनमें इस्कॉन, रामकृष्ण परमहंस और सनातन भी थे।"
+   },
+   "en": {
+    "title": "Census 2027: 'Other' religions list cut to 76 predictive-text entries as 200-plus names dropped",
+    "summary": "The Census 2027 self-enumeration portal now shows just 76 entries under 'Other' religions — and they appear as predictive text suggestions, not as a drop-down menu. The government has removed over 200 names that appeared when the portal went live on November 16, including ISKCON, Ramkrishna Paramhans and Sanatan."
+   }
+  },
+  {
+   "id": "delhi-aqi-rises-286-twenty-stations-very-poor-november-19",
+   "category": "Weather",
+   "sub": "IMD Alerts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T10:51:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-rises-286-twenty-stations-very-poor-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-rises-286-twenty-stations-very-poor-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-rises-286-twenty-stations-very-poor-november-19-en.mp3",
+   "hi": {
+    "title": "दिल्ली की हवा फिर बिगड़ी: सुबह सात बजे एक्यूआई २८६, बीस स्टेशनों पर 'बहुत खराब' — शुक्रवार तक और खराब होने का अनुमान",
+    "summary": "दिल्ली की हवा गुरुवार को फिर बिगड़ गई। केंद्रीय प्रदूषण नियंत्रण बोर्ड के आँकड़ों के मुताबिक सुबह सात बजे शहर का समग्र वायु गुणवत्ता सूचकांक दो सौ छियासी रहा, जो 'खराब' श्रेणी में आता है, जबकि बीस निगरानी केंद्र 'बहुत खराब' श्रेणी में रहे। मौसम विभाग का अनुमान है कि शुक्रवार तक हवा और खराब हो सकती है।"
+   },
+   "en": {
+    "title": "Delhi air worsens: AQI 286, twenty stations 'very poor' as another pollution spell looms",
+    "summary": "Delhi's air quality deteriorated again on Thursday, with the city-level Air Quality Index rising to 286 at 7 am, in the 'poor' category, according to the Central Pollution Control Board, while 20 monitoring stations recorded 'very poor' air. The weather institute forecasts a further slide into 'very poor' by Friday."
+   }
+  },
   {
    "id": "amritpal-singh-72-hour-security-alert-punjab-parole-november-21",
    "category": "State & Local",
@@ -3151,50 +3193,6 @@
    "en": {
     "title": "Bus plunges into 100-metre gorge in Tehri Garhwal, nine killed, 25 injured",
     "summary": "The bus was travelling from Haridwar to Joshimath with 34 people on board when it crashed through an iron railing near Gular bridge early on Tuesday and fell about 100 metres into the gorge; the injured were taken to AIIMS Rishikesh."
-   }
-  },
-  {
-   "id": "china-sacks-gene-editing-scientist-girl-death-trial-november-17",
-   "category": "Science",
-   "sub": "Research",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T04:21:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-sacks-gene-editing-scientist-girl-death-trial-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-sacks-gene-editing-scientist-girl-death-trial-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-sacks-gene-editing-scientist-girl-death-trial-november-17-en.mp3",
-   "hi": {
-    "title": "दुनिया के पहले ब्रेन जीन-एडिटिंग ट्रायल में छह साल की बच्ची की मौत, चीन ने वैज्ञानिक को बर्खास्त किया",
-    "summary": "शंघाई की जाँच में सामने आया कि छिउ की टीम ने बंदर पर हुए सुरक्षा परीक्षण की चेतावनी छिपाई और बच्ची की मौत की जानकारी जर्नल से छिपाकर शोध छापा; दूसरे वैज्ञानिक को भी बर्खास्त किया गया है और दोनों पर पाँच साल तक सरकारी विज्ञान परियोजनाओं में रोक लगी है।"
-   },
-   "en": {
-    "title": "China sacks scientist after six-year-old dies in world-first brain gene-editing trial",
-    "summary": "Shanghai has sacked neuroscientist Zilong Qiu after its investigation found his team ignored a monkey safety report and hid a six-year-old girl's death from the journal that published their research; a second scientist was also dismissed and both are barred from state science projects for five years."
-   }
-  },
-  {
-   "id": "india-first-saf-plant-panipat-refinery-ready-november-17",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T04:21:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-first-saf-plant-panipat-refinery-ready-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-saf-plant-panipat-refinery-ready-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-saf-plant-panipat-refinery-ready-november-17-en.mp3",
-   "district": "Panipat",
-   "state": "Haryana",
-   "hi": {
-    "title": "पानीपत रिफाइनरी में देश का पहला कमर्शियल ग्रीन जेट फ्यूल प्लांट तैयार, 2027 की ब्लेंडिंग से पहले मंज़ूरी मिली",
-    "summary": "इंडियन ऑयल की पानीपत रिफाइनरी में 30,000 टन सालाना क्षमता वाली सस्टेनेबल एविएशन फ्यूल इकाई ने पहला बैच बना लिया है और डीजीसीए समेत सभी मंज़ूरियाँ मिल गई हैं; 2027 से अंतरराष्ट्रीय उड़ानों में 1% ग्रीन जेट फ्यूल ब्लेंडिंग का लक्ष्य अब पहुँच में है।"
-   },
-   "en": {
-    "title": "India's first commercial green jet fuel plant ready at Panipat refinery ahead of 2027 blending",
-    "summary": "Indian Oil's 30,000-tonne-a-year sustainable aviation fuel unit at Panipat has produced its first batch and won all approvals including DGCA clearance, putting India on course to meet its proposed 1% green jet fuel blending target for international flights from 2027."
    }
   }
  ]
