@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-19T12:26:37+05:30",
+ "updatedAt": "2026-11-19T13:05:22+05:30",
  "articles": [
+  {
+   "id": "voyager-1-reaches-one-light-day-first-human-made-object-november-19",
+   "category": "Science",
+   "sub": "Space",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T13:00:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/voyager-1-reaches-one-light-day-first-human-made-object-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/voyager-1-reaches-one-light-day-first-human-made-object-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/voyager-1-reaches-one-light-day-first-human-made-object-november-19-en.mp3",
+   "hi": {
+    "title": "वॉयेजर वन पृथ्वी से एक प्रकाश-दिन दूर — मानव निर्मित कोई वस्तु इतनी दूर पहले कभी नहीं गई",
+    "summary": "नासा का वॉयेजर वन बुधवार को पृथ्वी से एक प्रकाश-दिन की दूरी पर पहुँच गया। अब धरती से भेजा गया कोई भी संदेश उस तक पहुँचने में पूरा एक दिन लेगा, और जवाब आने में एक और दिन।"
+   },
+   "en": {
+    "title": "Voyager 1 reaches one light-day from Earth — no human-made object has ever been this far",
+    "summary": "NASA's Voyager 1 crossed the one-light-day mark on Wednesday, travelling about 16 billion miles from home. A message sent from Earth now takes a full day to reach it, and another full day for the reply to come back."
+   }
+  },
+  {
+   "id": "raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T13:00:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raina-reveals-why-dhoni-retired-knee-swelling-ipl-november-19-en.mp3",
+   "hi": {
+    "title": "दोनों घुटनों में सूजन ने धोनी को रोका, रैना ने बताया संन्यास के पीछे की वजह",
+    "summary": "सुरेश रैना ने जियोस्टार पर बताया कि महेंद्र सिंह धोनी आईपीएल दो हज़ार सत्ताईस के लिए फिट होने की खूब कोशिश कर रहे थे, लेकिन दोनों घुटनों में सूजन की वजह से शरीर अब पूरे सत्र का बोझ नहीं उठा पा रहा था।"
+   },
+   "en": {
+    "title": "Raina reveals why Dhoni had to quit the IPL — swelling in both knees, and a body that could take no more",
+    "summary": "Suresh Raina has revealed that MS Dhoni kept working hard in the gym to get fit for IPL 2027, but swelling in both knees meant his body could no longer carry a full season, and he refused to play on as an Impact Player."
+   }
+  },
   {
    "id": "pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19",
    "category": "India",
@@ -3149,48 +3191,6 @@
    "en": {
     "title": "Delhi Police to Supreme Court: Journalist protection order does not cover reel-makers, influencers",
     "summary": "Delhi Police has told the Supreme Court that its order protecting journalists covering the anti-CEC protests was never meant to cover 'so-called reel-makers and social media influencers', saying personnel on the ground struggled to tell genuine reporters from content creators carrying cameras."
-   }
-  },
-  {
-   "id": "india-slams-turkiye-un-oic-resolution-exclusion-vote-november-17",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T07:38:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-slams-turkiye-un-oic-resolution-exclusion-vote-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-slams-turkiye-un-oic-resolution-exclusion-vote-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-slams-turkiye-un-oic-resolution-exclusion-vote-november-17-en.mp3",
-   "hi": {
-    "title": "भारत ने संयुक्त राष्ट्र में तुर्किये पर 'जानबूझकर अलग रखने' का आरोप लगाया, ओआईसी प्रस्ताव के खिलाफ वोट दिया",
-    "summary": "संयुक्त राष्ट्र महासभा में ओआईसी सहयोग प्रस्ताव पर भारत ने खिलाफ वोट दिया। भारत का आरोप है कि बातचीत की अगुवाई कर रहे तुर्किये ने नई दिल्ली समेत कई देशों को परामर्श से जानबूझकर बाहर रखा। प्रस्ताव ११२-६ से पारित हुआ, ३९ देश दूर रहे।"
-   },
-   "en": {
-    "title": "India votes against UN-OIC resolution, accuses Turkiye of 'blatant and intentional' exclusion",
-    "summary": "India voted against a UN General Assembly resolution on cooperation with the OIC, accusing facilitator Turkiye of deliberately excluding New Delhi and other countries from consultations. The resolution passed 112-6, with 39 abstentions."
-   }
-  },
-  {
-   "id": "pakistani-man-27-years-us-prison-trump-assassination-plot-november-17",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T07:21:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pakistani-man-27-years-us-prison-trump-assassination-plot-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistani-man-27-years-us-prison-trump-assassination-plot-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistani-man-27-years-us-prison-trump-assassination-plot-november-17-en.mp3",
-   "hi": {
-    "title": "ट्रंप की हत्या की साज़िश रचने वाले पाकिस्तानी आसिफ मर्चेंट को अमेरिका में साढ़े सत्ताईस साल की जेल",
-    "summary": "ब्रुकलिन की अदालत ने ईरान के इशारे पर डोनाल्ड ट्रंप की हत्या की साज़िश रचने वाले आसिफ मर्चेंट को ३३० महीने की जेल सुनाई। सरकारी वकीलों ने उम्रकैद माँगी थी, लेकिन जज ने साज़िश के शुरुआती चरण में ही रुक जाने का हवाला दिया।"
-   },
-   "en": {
-    "title": "Pakistani man gets 27½ years in US prison for plot to kill Trump at Iran's bidding",
-    "summary": "A Brooklyn court sentenced Asif Merchant, 48, to 330 months in prison for an Iran-backed plot to hire hitmen to kill Donald Trump and other US leaders in 2024. Prosecutors had sought life; the judge cited the early disruption of the scheme."
    }
   }
  ]
