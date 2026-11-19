@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-19T11:55:41+05:30",
+ "updatedAt": "2026-11-19T12:06:28+05:30",
  "articles": [
+  {
+   "id": "elon-musk-pretty-foolish-500-million-republicans-midterms-november-19",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T12:04:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/elon-musk-pretty-foolish-500-million-republicans-midterms-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/elon-musk-pretty-foolish-500-million-republicans-midterms-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/elon-musk-pretty-foolish-500-million-republicans-midterms-november-19-en.mp3",
+   "hi": {
+    "title": "‘काफ़ी बेवकूफ़ी लगी’: मिडटर्म में रिपब्लिकन पर लगभग पाँच सौ मिलियन डॉलर खर्च करने पर एलन मस्क को अफ़सोस",
+    "summary": "एलन मस्क ने कहा है कि मिडटर्म चुनावों में रिपब्लिकन उम्मीदवारों पर लगभग पाँच सौ मिलियन डॉलर खर्च करके भी उन्हें कुछ हासिल नहीं हुआ। न्यूयॉर्क टाइम्स के डीलबुक समिट में उन्होंने कहा कि अगर वक़्त पीछे लौटाया जा सकता तो वे कम पैसा खर्च करते, और ख़ुद को मागा आंदोलन से भी अलग कर लिया।"
+   },
+   "en": {
+    "title": "‘Pretty foolish’: Elon Musk regrets spending nearly $500 million backing Republicans in the midterms",
+    "summary": "Elon Musk has said spending nearly $500 million to back Republican candidates in the US midterms left him feeling 'pretty foolish'. At The New York Times' DealBook Summit, he said he would have spent less if he could rewind the clock — and distanced himself from the MAGA label."
+   }
+  },
   {
    "id": "mahanadi-coalfields-ipo-opens-today-november-19",
    "category": "Business",
@@ -3170,29 +3191,6 @@
    "en": {
     "title": "Kulgam: Fresh encounter in Zangalpora as hunt for Lateef Bhat resumes",
     "summary": "A fresh encounter broke out between security forces and terrorists in the Zangalpora area of Jammu and Kashmir's Kulgam district on Wednesday morning. The gunfight comes two days after Umar Nisar Dar was killed at Laroo while LeT commander Lateef Bhat slipped the cordon — contact was re-established during the search operation under way to track him down."
-   }
-  },
-  {
-   "id": "delhi-shahdara-collapse-rescue-over-two-dead-cm-response-november-17",
-   "category": "State & Local",
-   "sub": "Delhi",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-18T06:26:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-shahdara-collapse-rescue-over-two-dead-cm-response-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-shahdara-collapse-rescue-over-two-dead-cm-response-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-shahdara-collapse-rescue-over-two-dead-cm-response-november-17-en.mp3",
-   "district": "Shahdara",
-   "state": "Delhi",
-   "hi": {
-    "title": "शाहदरा हादसा: मलबे से छह लोग निकाले गए, तीन साल के बच्चे समेत दो की मौत; मुख्यमंत्री ने मदद का भरोसा दिया",
-    "summary": "दिल्ली के ज्वाला नगर में मंगलवार सुबह गिरे दो मंज़िला मकान के मलबे से छह लोगों को निकाला गया। तीन साल के बच्चे और पैंतीस साल के एक व्यक्ति की मौत हो गई, चार घायल अस्पताल में हैं; मुख्यमंत्री रेखा गुप्ता ने कहा कि सरकार शोक संतप्त परिवारों के साथ खड़ी है।"
-   },
-   "en": {
-    "title": "Shahdara collapse: rescue over as six pulled out — three-year-old and man dead, CM assures help to families",
-    "summary": "Rescue work has ended at the two-storey house that collapsed in Delhi's Jwala Nagar, with six people pulled from the debris. A three-year-old child and a 35-year-old man died and four others were injured; Chief Minister Rekha Gupta said the government stands with the families and ordered the best treatment for the injured."
    }
   }
  ]
