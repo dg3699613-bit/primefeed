@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-19T16:38:24+05:30",
+ "updatedAt": "2026-11-19T16:47:42+05:30",
  "articles": [
+  {
+   "id": "tvk-mla-vs-babu-dies-75-kolathur-november-19",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-19T16:45:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tvk-mla-vs-babu-dies-75-kolathur-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tvk-mla-vs-babu-dies-75-kolathur-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tvk-mla-vs-babu-dies-75-kolathur-november-19-en.mp3",
+   "district": "Chennai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "कोलाथुर में स्टालिन को हराने वाले टीवीके विधायक वी एस बाबू का निधन, पचहत्तर साल की उम्र में ली अंतिम साँस",
+    "summary": "तमिलगा वेत्रि कड़गम के विधायक वी एस बाबू का गुरुवार दोपहर चेन्नई के एमजीएम हेल्थकेयर अस्पताल में निधन हो गया। वे पचहत्तर साल के थे और नौ सितंबर से साँस की तकलीफ़ के चलते अस्पताल में भर्ती थे। मई दो हज़ार छब्बीस के विधानसभा चुनाव में उन्होंने कोलाथुर से डीएमके अध्यक्ष और पूर्व मुख्यमंत्री एम के स्टालिन को हराया था।"
+   },
+   "en": {
+    "title": "TVK's 'giant killer' VS Babu, the MLA who defeated Stalin in Kolathur, dies at 75",
+    "summary": "Tamilaga Vettri Kazhagam MLA VS Babu died at MGM Healthcare in Chennai on Thursday afternoon after a cardiac arrest. He was 75 and had been in hospital since September 9 with a respiratory illness. In the May 2026 Assembly elections he had defeated DMK president and former chief minister MK Stalin in Kolathur."
+   }
+  },
   {
    "id": "trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19",
    "category": "World",
@@ -3176,27 +3199,6 @@
    "en": {
     "title": "Avengers: Doomsday storms India a month early — Rs 21 crore in advance sales in 24 hours",
     "summary": "Marvel's Avengers: Doomsday has sold more than three lakh tickets worth over Rs 21 crore in its first 24 hours of advance booking in India, nearly a month before its December 17 release, with bookings still limited to around 300 screens."
-   }
-  },
-  {
-   "id": "delhi-cabinet-puc-centres-upgrade-transgender-health-cover-november-18",
-   "category": "State & Local",
-   "sub": "Delhi",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-18T13:03:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-cabinet-puc-centres-upgrade-transgender-health-cover-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-cabinet-puc-centres-upgrade-transgender-health-cover-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-cabinet-puc-centres-upgrade-transgender-health-cover-november-18-en.mp3",
-   "hi": {
-    "title": "दिल्ली कैबिनेट का बड़ा फ़ैसला: प्रदूषण जाँच केंद्रों के लिए ५ करोड़, ट्रांसजेंडर समुदाय को १० लाख का स्वास्थ्य बीमा",
-    "summary": "मुख्यमंत्री रेखा गुप्ता की अध्यक्षता में हुई दिल्ली कैबिनेट की बैठक में राजधानी के ५०० प्रदूषण जाँच केंद्रों के आधुनिकीकरण के लिए ५ करोड़ रुपये मंज़ूर किए गए। साथ ही पात्र ट्रांसजेंडर लाभार्थियों को आयुष्मान भारत के तहत सालाना १० लाख रुपये तक का स्वास्थ्य बीमा देने का फ़ैसला भी हुआ।"
-   },
-   "en": {
-    "title": "Delhi Cabinet clears ₹5 crore upgrade for pollution testing centres, ₹10 lakh health cover for transgender community",
-    "summary": "The Delhi Cabinet, chaired by Chief Minister Rekha Gupta, has approved a ₹5 crore plan to modernise the capital's pollution testing centres, with ₹1 lakh for each of nearly 500 eligible locations. The same meeting extended Ayushman Bharat health cover of up to ₹10 lakh a year to eligible transgender beneficiaries."
    }
   }
  ]
