@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T06:49:51+05:30",
+ "updatedAt": "2026-11-20T07:04:36+05:30",
  "articles": [
+  {
+   "id": "rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T07:04:36+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20-en.mp3",
+   "en": {
+    "title": "No talks while our people are killed: Rahul Gandhi draws red line on dialogue with Pakistan",
+    "summary": "At the University of Chicago, Congress leader Rahul Gandhi told a Pakistani student that dialogue with Islamabad can begin only when Pakistan stops supporting terrorism in India — and used the same session to attack the Modi government's foreign policy, saying India has become a 'side player' while Pakistan mediated US-Iran talks."
+   },
+   "hi": {
+    "title": "हमारे लोग मारे जा रहे हों तो बातचीत नहीं हो सकती: पाकिस्तान से संवाद पर राहुल गांधी की लाल रेखा",
+    "summary": "शिकागो विश्वविद्यालय में कांग्रेस नेता राहुल गांधी ने एक पाकिस्तानी छात्र से कहा कि पाकिस्तान जब तक भारत में आतंकवाद को समर्थन देना बंद नहीं करता, तब तक इस्लामाबाद से बातचीत नहीं हो सकती। उसी कार्यक्रम में उन्होंने मोदी सरकार की विदेश नीति पर भी हमला बोला और कहा कि भारत साइड प्लेयर बनकर रह गया है, जबकि पाकिस्तान अमेरिका-ईरान वार्ता में मध्यस्थता कर रहा है।"
+   }
+  },
+  {
+   "id": "hayabusa2-drops-1998-ky26-target-engine-trouble-november-17",
+   "category": "Science",
+   "sub": "Space",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T07:04:36+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hayabusa2-drops-1998-ky26-target-engine-trouble-november-17.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hayabusa2-drops-1998-ky26-target-engine-trouble-november-17-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hayabusa2-drops-1998-ky26-target-engine-trouble-november-17-en.mp3",
+   "en": {
+    "title": "Engine trouble ends Hayabusa2's 2031 asteroid rendezvous; JAXA retargets probe to a 2028 flyby",
+    "summary": "Japan's space agency JAXA has cancelled Hayabusa2's planned 2031 rendezvous with asteroid 1998 KY26 after its last healthy ion engine failed in August. The veteran probe will now fly past a different, smaller asteroid, 2015 BM510, in April 2028."
+   },
+   "hi": {
+    "title": "इंजन की खराबी से हयाबुसा-दो का मिशन बदला, अब नए क्षुद्रग्रह के पास से गुज़रेगा यान",
+    "summary": "जापान की अंतरिक्ष एजेंसी जाक्सा ने अपने यान हयाबुसा-दो की एक क्षुद्रग्रह से मिलने की योजना रद्द कर दी है, क्योंकि अगस्त में इसका आख़िरी स्वस्थ आयन इंजन ख़राब हो गया। अब यह अनुभवी यान अप्रैल दो हज़ार अट्ठाईस में एक अलग छोटे क्षुद्रग्रह के पास से तेज़ गति से गुज़रेगा।"
+   }
+  },
   {
    "id": "gonda-atm-fraud-gang-busted-four-arrested-november-19",
    "category": "Crime & Law",
@@ -3171,50 +3213,6 @@
    "en": {
     "title": "UP panchayat elections deferred by six months as Yogi cabinet clears ordinance",
     "summary": "Panchayat elections in Uttar Pradesh have been deferred by six months. The Yogi Adityanath cabinet on Wednesday approved the Uttar Pradesh Panchayati Raj (Amendment) Ordinance, 2026, extending the tenure of administrators running the state's 57,694 gram panchayats. The elections are now likely to be held by May 2027, after the assembly polls."
-   }
-  },
-  {
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eu-45-billion-ukraine-loan-2027-reparations-november-18-en.mp3",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eu-45-billion-ukraine-loan-2027-reparations-november-18-hi.mp3",
-   "breaking": false,
-   "category": "World",
-   "en": {
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations.",
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations"
-   },
-   "featured": false,
-   "hi": {
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।",
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई"
-   },
-   "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
-   "source": "PrimeFeed Desk",
-   "sub": "Europe",
-   "trending": true,
-   "publishedAt": "2026-11-19T01:40:41+05:30"
-  },
-  {
-   "id": "thiruparankundram-deepam-supreme-court-tn-survey-pillars-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T01:08:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-deepam-supreme-court-tn-survey-pillars-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-deepam-supreme-court-tn-survey-pillars-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-deepam-supreme-court-tn-survey-pillars-november-18-en.mp3",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "अगर यह आदेश बरकरार रहा तो देश का हर सर्वे पिलर धार्मिक बन जाएगा, तमिलनाडु ने सुप्रीम कोर्ट से कहा",
-    "summary": "तमिलनाडु ने बुधवार को सुप्रीम कोर्ट से मद्रास हाईकोर्ट के उस आदेश पर रोक लगाने की माँग की, जिसमें तिरुप्परंकुंद्रम पहाड़ी पर दरगाह के पास स्थित एक विवादित पत्थर के स्तंभ पर कार्तिगई दीपम जलाने की अनुमति दी गई है। राज्य ने चेतावनी दी कि इससे देश भर के हज़ारों सर्वे पिलरों पर धार्मिक दावे की मिसाल बन सकती है। सुनवाई गुरुवार को जारी रहेगी, त्योहार चौबीस नवंबर को है।"
-   },
-   "en": {
-    "title": "If this order stands, every survey pillar in India could turn religious, Tamil Nadu tells Supreme Court",
-    "summary": "Tamil Nadu on Wednesday asked the Supreme Court to stay a Madras High Court order allowing the Karthigai Deepam lamp to be lit at a disputed stone pillar near a dargah on Thiruparankundram hill, warning it could set a precedent for thousands of survey pillars across the country. The hearing continues on Thursday, five days before the festival on November 24."
    }
   }
  ]
