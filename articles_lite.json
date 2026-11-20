@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T00:09:10+05:30",
+ "updatedAt": "2026-11-21T00:20:37+05:30",
  "articles": [
+  {
+   "id": "ed-summons-rs-mp-satnam-singh-sandhu-vuenow-cloud-particle-scam-november-20",
+   "category": "Crime & Law",
+   "sub": "Scams & Fraud",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T00:20:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-summons-rs-mp-satnam-singh-sandhu-vuenow-cloud-particle-scam-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-rs-mp-satnam-singh-sandhu-vuenow-cloud-particle-scam-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-rs-mp-satnam-singh-sandhu-vuenow-cloud-particle-scam-november-20-en.mp3",
+   "en": {
+    "title": "ED summons Rajya Sabha MP Satnam Singh Sandhu in multi-crore Vuenow 'cloud particle' fraud probe; asked to appear on November 25",
+    "summary": "The Enforcement Directorate has summoned nominated Rajya Sabha member Satnam Singh Sandhu, also the Chancellor of Chandigarh University, for examination in an alleged multi-crore fraud involving Punjab-based company Vuenow. He was first called on November 12 and did not appear; officials say he has no direct role in the case and has been called only to explain transactions linked to him."
+   },
+   "hi": {
+    "title": "ईडी ने राज्यसभा सांसद सतनाम सिंह संधू को करोड़ों के वूनॉव क्लाउड पार्टिकल घोटाले में तलब किया, पच्चीस नवंबर को पेश होने को कहा",
+    "summary": "प्रवर्तन निदेशालय ने पंजाब की कंपनी वूनॉव से जुड़े करोड़ों रुपये के कथित घोटाले के मामले में मनोनीत राज्यसभा सदस्य सतनाम सिंह संधू को पूछताछ के लिए तलब किया है। संधू चंडीगढ़ यूनिवर्सिटी के कुलाधिपति भी हैं। उन्हें पहले बारह नवंबर को बुलाया गया था, लेकिन वे पेश नहीं हुए। अधिकारियों का कहना है कि मामले में उनकी कोई सीधी भूमिका नहीं है, उन्हें सिर्फ़ उनसे जुड़े लेन-देन के बारे में पूछताछ के लिए बुलाया गया है।"
+   }
+  },
+  {
+   "id": "nia-china-yet-to-share-info-gopro-camera-pahalgam-terrorists-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T00:20:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-china-yet-to-share-info-gopro-camera-pahalgam-terrorists-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-china-yet-to-share-info-gopro-camera-pahalgam-terrorists-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-china-yet-to-share-info-gopro-camera-pahalgam-terrorists-november-20-en.mp3",
+   "en": {
+    "title": "China yet to share details on GoPro camera found on Pahalgam terrorists, says NIA chief; forensic evidence gathered",
+    "summary": "China has not yet responded to India's request for information about a US-made GoPro camera recovered from the terrorists behind the April 2025 Pahalgam massacre, NIA Director General Rakesh Aggarwal said on Friday. The camera was shipped to an authorised distributor in China, and investigators are tracing how it reached Lashkar-e-Taiba operatives."
+   },
+   "hi": {
+    "title": "पहलगाम के आतंकियों से मिला गोप्रो कैमरा: चीन ने अब तक नहीं दी जानकारी, एनआईए प्रमुख बोले, फॉरेंसिक सबूत मिले हैं",
+    "summary": "राष्ट्रीय जाँच एजेंसी के महानिदेशक राकेश अग्रवाल ने शुक्रवार को कहा कि पिछले साल पहलगाम नरसंहार के आतंकियों से बरामद अमेरिका में बने गोप्रो कैमरे के बारे में भारत के अनुरोध पर चीन ने अब तक कोई जवाब नहीं दिया है। जाँच में पता चला है कि यह कैमरा मूल रूप से चीन में एक अधिकृत वितरक को भेजा गया था, और अब यह पता लगाया जा रहा है कि वह लश्कर ए तैयबा के गुर्गों तक कैसे पहुँचा।"
+   }
+  },
   {
    "id": "trump-press-conference-after-xi-putin-summit-iran-data-centers-november-21",
    "category": "World",
@@ -3179,48 +3221,6 @@
    "en": {
     "title": "EPFO's big relief: Withdraw up to 90% of PF, job-loss wait cut to 2 months, retirement money in instalments",
     "summary": "The Employees' Provident Fund Organisation on Thursday approved sweeping changes to PF withdrawal rules. Members up to 55 can now withdraw up to 90 per cent of their corpus, the wait for final settlement after job loss has been cut from 12 months to two months, and retiring members will be able to take their savings in regular instalments."
-   }
-  },
-  {
-   "id": "allahabad-hc-partial-penetration-sufficient-rape-conviction-upheld-november-19",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T20:06:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/allahabad-hc-partial-penetration-sufficient-rape-conviction-upheld-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-partial-penetration-sufficient-rape-conviction-upheld-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-partial-penetration-sufficient-rape-conviction-upheld-november-19-en.mp3",
-   "hi": {
-    "title": "इलाहाबाद हाई कोर्ट: बलात्कार के लिए पूरा प्रवेश ज़रूरी नहीं, आंशिक प्रवेश ही काफी",
-    "summary": "इलाहाबाद उच्च न्यायालय ने कहा है कि बलात्कार का अपराध साबित करने के लिए पूरी तरह प्रवेश होना ज़रूरी नहीं है, आंशिक प्रवेश भी कानून में पर्याप्त है। अदालत ने उन्नीस सौ बयासी के मामले में उन्नीस सौ चौरासी में सुनाई गई चार साल की सज़ा को बरकरार रखा है।"
-   },
-   "en": {
-    "title": "Allahabad High Court: Complete penetration not needed to prove rape, partial penetration enough — 1982 conviction upheld",
-    "summary": "The Allahabad High Court has held that complete penetration is not necessary to establish the offence of rape and that even partial penetration is sufficient in law. The court upheld the 1984 conviction of a man in a 1982 case, affirming his four-year sentence under Section 376 of the IPC."
-   }
-  },
-  {
-   "id": "icj-rules-myanmar-committed-genocide-rohingya-landmark-verdict-november-19",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T19:38:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/icj-rules-myanmar-committed-genocide-rohingya-landmark-verdict-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icj-rules-myanmar-committed-genocide-rohingya-landmark-verdict-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icj-rules-myanmar-committed-genocide-rohingya-landmark-verdict-november-19-en.mp3",
-   "hi": {
-    "title": "अंतरराष्ट्रीय न्यायालय का ऐतिहासिक फ़ैसला: म्यांमार ने रोहिंग्या के खिलाफ़ नरसंहार किया",
-    "summary": "हेग स्थित अंतरराष्ट्रीय न्यायालय ने गुरुवार को कहा कि म्यांमार ने दो हज़ार सत्रह में रोहिंग्या मुसलमानों के खिलाफ़ नरसंहार किया। अदालत के अस्सी साल के इतिहास में पहली बार किसी देश को नरसंहार का दोषी ठहराया गया है। अदालत ने म्यांमार को रोहिंग्या की सुरक्षित वापसी और मुआवज़े का आदेश दिया है।"
-   },
-   "en": {
-    "title": "World court finds Myanmar committed genocide against Rohingya — a first in its 80-year history",
-    "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against its Rohingya minority during the 2017 military crackdown. It is the first time in the court's 80-year history that a state has been found responsible for genocide. The court ordered Myanmar to allow the safe return of refugees and pay compensation."
    }
   }
  ]
