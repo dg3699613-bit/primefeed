@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T04:50:05+05:30",
+ "updatedAt": "2026-11-21T05:12:14+05:30",
  "articles": [
+  {
+   "id": "trump-wont-let-us-firms-build-ai-data-centres-abroad-tremendous-tax-november-21",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "hi": {
+    "title": "ट्रंप की चेतावनी: अमेरिकी कंपनियाँ विदेश में एआई डेटा सेंटर नहीं बनाएँगी, वरना भारी टैक्स",
+    "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि अमेरिकी कंपनियों को देश के बाहर कृत्रिम बुद्धिमत्ता के डेटा सेंटर बनाने की इजाज़त नहीं होगी, और ऐसा करने वाली कंपनियों पर भारी टैक्स लगाया जाएगा। ट्रंप ने कहा कि चीन ऐसी सुविधाओं पर कब्ज़ा कर लेगा, इसलिए कृत्रिम बुद्धिमत्ता की दौड़ अमेरिका में ही जीती जानी चाहिए।"
+   },
+   "en": {
+    "title": "Trump says US firms building AI data centres abroad will face a tremendous tax",
+    "summary": "US President Donald Trump has said American companies will not be allowed to build artificial intelligence data centres outside the United States, warning that firms which do so will face a tremendous tax. He said China would take over such facilities, and that the US must keep the AI race at home."
+   },
+   "publishedAt": "2026-11-21T05:12:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-wont-let-us-firms-build-ai-data-centres-abroad-tremendous-tax-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-wont-let-us-firms-build-ai-data-centres-abroad-tremendous-tax-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-wont-let-us-firms-build-ai-data-centres-abroad-tremendous-tax-november-21-en.mp3"
+  },
+  {
+   "id": "up-special-tet-result-2026-41-percent-pass-38902-teachers-november-21",
+   "category": "Rozgar",
+   "sub": "Sarkari Naukri",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "यूपी स्पेशल टीईटी का रिजल्ट जारी, महज़ इकतालीस दशमलव पाँच प्रतिशत कार्यरत शिक्षक पास",
+    "summary": "उत्तर प्रदेश शिक्षा सेवा चयन आयोग ने स्पेशल टीईटी का परिणाम घोषित कर दिया है, जिसमें तिरानबे हज़ार छह सौ इक्यासी कार्यरत शिक्षकों में से अड़तीस हज़ार नौ सौ दो सफल हुए हैं। प्राथमिक स्तर पर करीब तीस प्रतिशत और उच्च प्राथमिक स्तर पर पचपन प्रतिशत अभ्यर्थी सफल हुए हैं, और सभी सफल अभ्यर्थियों के प्रमाण-पत्र जारी कर दिए गए हैं।"
+   },
+   "en": {
+    "title": "UP Special TET result out: only 41.5 per cent of working teachers pass, certificates issued",
+    "summary": "The Uttar Pradesh Education Service Selection Commission has declared the Special TET result, with 38,902 of 93,681 working teachers qualifying. About 30 per cent passed at the primary level and 55 per cent at the upper primary level, and certificates have been issued to all successful candidates."
+   },
+   "publishedAt": "2026-11-21T05:12:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-special-tet-result-2026-41-percent-pass-38902-teachers-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-special-tet-result-2026-41-percent-pass-38902-teachers-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-special-tet-result-2026-41-percent-pass-38902-teachers-november-21-en.mp3"
+  },
   {
    "id": "om-operation-mole-day-1-19-38-crore-gross-dhanush-mammootty-november-21",
    "category": "Entertainment",
@@ -535,7 +577,7 @@
    "category": "Crime & Law",
    "sub": "Police & Crime",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "district": "Chandel",
    "state": "Manipur",
@@ -3171,48 +3213,6 @@
    "en": {
     "title": "Indian Navy's Barak missile systems to get a major upgrade in a Rs 1,976.40 crore deal with Israel's IAI",
     "summary": "The Defence Ministry on Wednesday signed a Rs 1,976.40 crore contract with Israel Aerospace Industries to upgrade the Barak Point Defence Missile System fitted on Indian Navy warships, covering a comprehensive overhaul of its hardware and software."
-   }
-  },
-  {
-   "id": "goldy-brar-canada-most-wanted-250000-reward-november-19",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T01:07:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/goldy-brar-canada-most-wanted-250000-reward-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldy-brar-canada-most-wanted-250000-reward-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldy-brar-canada-most-wanted-250000-reward-november-19-en.mp3",
-   "hi": {
-    "title": "कनाडा की मोस्ट वांटेड सूची में नंबर वन गोल्डी बराड़, गिरफ़्तारी पर ढाई लाख डॉलर का इनाम",
-    "summary": "कनाडा के बोलो प्रोग्राम ने भगोड़े गैंगस्टर सतिंदरजीत सिंह उर्फ़ गोल्डी बराड़ को देश के सबसे वांछित अपराधियों की सूची में पहले नंबर पर रखा है। उसकी गिरफ़्तारी की जानकारी पर ढाई लाख डॉलर तक का इनाम रखा गया है।"
-   },
-   "en": {
-    "title": "Goldy Brar tops Canada's most-wanted list, $250,000 reward announced for his arrest",
-    "summary": "Canada's Bolo Program has placed fugitive gangster Satinderjeet Singh, also known as Goldy Brar, at number one on its new Top 25 list of the country's most wanted fugitives, with a reward of up to $250,000 for information leading to his arrest."
-   }
-  },
-  {
-   "id": "pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20",
-   "category": "India",
-   "sub": "National",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T01:07:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurate-first-sco-civilisational-dialogue-forum-purana-qila-november-20-en.mp3",
-   "hi": {
-    "title": "आज पुराना क़िला में पहले एससीओ सभ्यता संवाद मंच का उद्घाटन करेंगे प्रधानमंत्री मोदी",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी आज शाम साढ़े पाँच बजे दिल्ली के पुराना क़िला में पहले शंघाई सहयोग संगठन सभ्यता संवाद मंच का उद्घाटन करेंगे। बीस से बाईस नवंबर तक चलने वाले इस मंच में पंद्रह देशों के प्रतिनिधि हिस्सा ले रहे हैं।"
-   },
-   "en": {
-    "title": "PM Modi to inaugurate first SCO Civilisational Dialogue Forum at Delhi's Purana Qila today",
-    "summary": "Prime Minister Narendra Modi will inaugurate the first Shanghai Cooperation Organisation Civilisational Dialogue Forum at Purana Qila in New Delhi on Friday at around 5:30 pm. The three-day forum, running from November 20 to 22, has confirmed participation from 15 countries."
    }
   }
  ]
