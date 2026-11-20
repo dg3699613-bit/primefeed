@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T04:35:17+05:30",
+ "updatedAt": "2026-11-21T04:50:05+05:30",
  "articles": [
+  {
+   "id": "om-operation-mole-day-1-19-38-crore-gross-dhanush-mammootty-november-21",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "धनुष-ममूटी की 'ओ.एम: ऑपरेशन मोल' की धमाकेदार शुरुआत, पहले दिन उन्नीस करोड़ अड़तीस लाख रुपये की कमाई",
+    "summary": "धनुष और ममूटी की जासूसी थ्रिलर 'ओ.एम: ऑपरेशन मोल' बीस नवंबर को सिनेमाघरों में आई और पहले ही दिन भारत में करीब उन्नीस करोड़ अड़तीस लाख रुपये का कारोबार किया। तमिल शो से सबसे ज़्यादा बारह करोड़ उन्नीस लाख रुपये आए, और फ़िल्म के कलाकारों के अभिनय की तारीफ़ हो रही है।"
+   },
+   "en": {
+    "title": "Dhanush-Mammootty's O.M: Operation Mole opens to ₹19.38 crore gross on day 1",
+    "summary": "O.M: Operation Mole, starring Dhanush and Mammootty, opened strongly on November 20, grossing an estimated ₹19.38 crore in India on its first day, trade tracker Sacnilk reported. Tamil shows led the collections with ₹12.19 crore, and the film drew praise for its lead performances despite mixed reviews."
+   },
+   "publishedAt": "2026-11-21T04:50:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/om-operation-mole-day-1-19-38-crore-gross-dhanush-mammootty-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/om-operation-mole-day-1-19-38-crore-gross-dhanush-mammootty-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/om-operation-mole-day-1-19-38-crore-gross-dhanush-mammootty-november-21-en.mp3"
+  },
   {
    "id": "firouzja-wins-total-chess-world-championship-tour-pilot-november-20",
    "category": "Cricket & Sports",
@@ -3192,27 +3213,6 @@
    "en": {
     "title": "PM Modi to inaugurate first SCO Civilisational Dialogue Forum at Delhi's Purana Qila today",
     "summary": "Prime Minister Narendra Modi will inaugurate the first Shanghai Cooperation Organisation Civilisational Dialogue Forum at Purana Qila in New Delhi on Friday at around 5:30 pm. The three-day forum, running from November 20 to 22, has confirmed participation from 15 countries."
-   }
-  },
-  {
-   "id": "ugc-net-december-2026-subject-wise-schedule-nta-november-19",
-   "category": "Education",
-   "sub": "Govt Exams",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T00:49:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ugc-net-december-2026-subject-wise-schedule-nta-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ugc-net-december-2026-subject-wise-schedule-nta-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ugc-net-december-2026-subject-wise-schedule-nta-november-19-en.mp3",
-   "hi": {
-    "title": "यूजीसी नेट दिसंबर परीक्षा का विषयवार शेड्यूल जारी, चौदह से इक्कीस दिसंबर तक दो पालियों में होगी परीक्षा",
-    "summary": "राष्ट्रीय परीक्षा एजेंसी ने यूजीसी नेट दिसंबर दो हज़ार छब्बीस की परीक्षा का विषयवार कार्यक्रम जारी कर दिया है। परीक्षा चौदह से अठारह दिसंबर और इक्कीस दिसंबर को कंप्यूटर आधारित तरीके से दो पालियों में होगी।"
-   },
-   "en": {
-    "title": "UGC NET December 2026 subject-wise schedule out, exams from December 14 to 21 in two shifts",
-    "summary": "The National Testing Agency has released the subject-wise schedule for UGC NET December 2026. The computer-based exam for 87 subjects will be held on December 14 to 18 and on December 21, in two shifts each day."
    }
   }
  ]
