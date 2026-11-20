@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T05:18:19+05:30",
+ "updatedAt": "2026-11-20T05:44:02+05:30",
  "articles": [
+  {
+   "id": "rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Badminton",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T05:44:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19-en.mp3",
+   "en": {
+    "title": "19-year-old Rakshitha Ramraj stuns Olympic champion Chen Yufei at Hong Kong Open",
+    "summary": "Rakshitha Ramraj beat Tokyo Olympic champion and world No. 4 Chen Yufei 21-18, 24-22 in the Hong Kong Open second round on Thursday, the biggest win of the 19-year-old's career, taking her into her first Super 500 quarterfinal."
+   },
+   "hi": {
+    "title": "१९ साल की रक्षिता रामराज का कमाल, ओलंपिक चैंपियन चेन युफेई को हांगकांग ओपन में हराया",
+    "summary": "रक्षिता रामराज ने गुरुवार को हांगकांग ओपन के दूसरे दौर में टोक्यो ओलंपिक चैंपियन और दुनिया की चौथे नंबर की खिलाड़ी चेन युफेई को २१-१८, २४-२२ से हराया। १९ साल की भारतीय शटलर के करियर की यह सबसे बड़ी जीत है, जिससे वह अपने पहले सुपर ५०० क्वार्टर फ़ाइनल में पहुँचीं।"
+   }
+  },
   {
    "id": "yashwant-varma-resignation-not-admission-guilt-removal-proceedings-infructuous-november-20",
    "category": "Crime & Law",
@@ -3051,13 +3072,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations.",
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations"
+    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
+    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
    },
    "featured": false,
    "hi": {
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।",
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई"
+    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
+    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
    },
    "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
@@ -3192,27 +3213,6 @@
    "en": {
     "title": "Goldman Sachs upgrades India to overweight, sets Nifty target of 28,500 by end of 2027",
     "summary": "Goldman Sachs has upgraded Indian equities to overweight and set a Nifty target of 28,500 by the end of 2027, betting on 15 per cent earnings growth in each of the next two years, resilient domestic demand and foreign investors returning after a $64 billion selloff."
-   }
-  },
-  {
-   "id": "cea-nageswaran-rupee-strength-not-weakness-fy28-november-18",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T00:03:45+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cea-nageswaran-rupee-strength-not-weakness-fy28-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cea-nageswaran-rupee-strength-not-weakness-fy28-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cea-nageswaran-rupee-strength-not-weakness-fy28-november-18-en.mp3",
-   "hi": {
-    "title": "अगले वित्त वर्ष में रुपये की कमज़ोरी नहीं, मज़बूती संभालना चुनौती हो सकती है, मुख्य आर्थिक सलाहकार ने कहा",
-    "summary": "मुख्य आर्थिक सलाहकार वी अनंत नागेश्वरन ने कहा है कि अगले वित्त वर्ष में भारत की चुनौती रुपये की कमज़ोरी नहीं, बल्कि उसकी मज़बूती को संभालना हो सकती है। सस्ता कच्चा तेल, बेहतर पूंजी प्रवाह और अमेरिका से व्यापारिक रिश्तों में सुधार से वित्त वर्ष दो हज़ार सत्ताईस-अट्ठाईस वृद्धि और पूंजी प्रवाह के लिहाज़ से काफी अच्छा साल साबित हो सकता है।"
-   },
-   "en": {
-    "title": "Managing rupee strength, not weakness, may be India's challenge in fiscal year 2027-28, says Chief Economic Adviser",
-    "summary": "Chief Economic Adviser V Anantha Nageswaran said India may have to manage a strengthening rupee rather than a weakening one in fiscal year 2027-28, as cheaper crude oil, stronger capital inflows and improving trade ties with the United States brighten the outlook. He was speaking at the annual general meeting of the Federation of Indian Chambers of Commerce and Industry in New Delhi."
    }
   }
  ]
