@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T11:27:37+05:30",
+ "updatedAt": "2026-11-20T11:50:37+05:30",
  "articles": [
+  {
+   "id": "jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T11:50:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20-en.mp3",
+   "hi": {
+    "title": "जेपीमॉर्गन, वीज़ा और मास्टरकार्ड पर साइबर हमला, ग्राहकों का डेटा लीक — कार्ड की जानकारी सुरक्षित",
+    "summary": "जेपीमॉर्गन चेज़ ने खुलासा किया है कि हमलावरों ने उसके तीसरे पक्ष के सेवा प्रदाताओं को निशाना बनाकर ग्राहकों का मार्केटिंग डेटा हासिल कर लिया है। यह तब सामने आया जब एक रैनसमवेयर समूह ने जेपीमॉर्गन, वीज़ा और मास्टरकार्ड के ग्राहकों का डेटा लीक करने का दावा किया। तीनों कंपनियों ने कहा है कि उनके भुगतान तंत्र पर कोई असर नहीं पड़ा है और कार्ड की जानकारी सुरक्षित है।"
+   },
+   "en": {
+    "title": "JPMorgan, Visa and Mastercard hit in vendor cyberattacks; customer data leaked, card details safe",
+    "summary": "JPMorgan Chase has disclosed that attackers targeted its third-party service providers and accessed customer marketing data, after a ransomware group claimed to have leaked records belonging to JPMorgan, Visa and Mastercard. All three companies said their payment systems were untouched and no card details were exposed."
+   }
+  },
+  {
+   "id": "cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T11:50:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20-en.mp3",
+   "hi": {
+    "title": "चक्रवात अक्वान से ओडिशा में कोई बड़ा नुकसान नहीं, किसी की जान नहीं गई — तीन लाख सत्तर हज़ार लोग सुरक्षित",
+    "summary": "चक्रवात अक्वान शुक्रवार सुबह गोपालपुर के पास ओडिशा तट से टकराया। हवाएँ सत्तर से अस्सी किलोमीटर प्रति घंटा की रफ़्तार से चलीं, लेकिन राज्य में अब तक कोई बड़ा नुकसान या जान का नुकसान नहीं हुआ है। सरकार ने तीन लाख सत्तर हज़ार लोगों को सुरक्षित जगहों पर पहुँचाया है और चार सौ तेईस बचाव दल तैनात किए हैं।"
+   },
+   "en": {
+    "title": "Cyclone Akvan leaves Odisha with no major damage or loss of life; 3.7 lakh evacuated",
+    "summary": "Cyclone Akvan crossed the Odisha coast near Gopalpur on Friday morning with winds of 70-80 kmph, but Odisha has reported no major damage or loss of life so far. The state evacuated 3.7 lakh people and deployed 423 rescue teams as heavy rain lashed the coast."
+   },
+   "district": "Ganjam",
+   "state": "Odisha"
+  },
   {
    "id": "india-159-1-stumps-day-2-rahul-fifty-jaiswal-85-wellington-november-20",
    "category": "Cricket & Sports",
@@ -97,8 +141,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20-en.mp3",
-   "district": "Gorakhpur",
-   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोरखपुर बुलडोज़र हादसे में पाँच सपा नेताओं पर एफ़आईआर, योगी ने सख़्त कार्रवाई का वादा किया; अखिलेश बोले, बस ने टक्कर मारी, जेसीबी ने नहीं",
     "summary": "गोरखपुर में अखिलेश यादव के रोड शो के दौरान बुलडोज़र की चपेट में आकर मारे गए चौदह साल के आर्यवर्धन सिंह की मौत के मामले में पुलिस ने पाँच समाजवादी पार्टी नेताओं और छियासठ अज्ञात कार्यकर्ताओं के खिलाफ मामला दर्ज किया है। मुख्यमंत्री योगी आदित्यनाथ ने सख़्त कार्रवाई का वादा किया है, जबकि अखिलेश यादव का कहना है कि सीसीटीवी फुटेज में बस की टक्कर दिख रही है।"
@@ -106,7 +148,9 @@
    "en": {
     "title": "Five SP leaders booked in Gorakhpur bulldozer death; Yogi vows strict action as Akhilesh says bus, not JCB, hit boy",
     "summary": "Police have booked five Samajwadi Party leaders and 66 unidentified workers over the death of 14-year-old Aryavardhan Singh, allegedly hit by a bulldozer during Akhilesh Yadav's Gorakhpur roadshow. Chief Minister Yogi Adityanath has vowed stringent action, while Akhilesh says CCTV footage shows a roadways bus hit the boy."
-   }
+   },
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20",
@@ -183,8 +227,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
    "hi": {
     "title": "बॉम्बे हाई कोर्ट मुंबई में पटाखों पर पूरी रोक पर कर रहा विचार: 'लोगों की सोच बदलने वाली नहीं'",
     "summary": "बॉम्बे हाई कोर्ट ने गुरुवार को कहा कि वह मुंबई में पटाखों पर पूरी तरह रोक लगाने के 'कड़े आदेश' पर विचार कर रहा है, जिसमें सिर्फ तय जगहों पर सामुदायिक आतिशबाज़ी की छूट मिलेगी। दीवाली पर शहर में तीन सौ बत्तीस जगह आग लगी थी, हवा की गुणवत्ता सबसे खराब रही और कोर्ट के आदेश के बावजूद रात तीन बजे तक पटाखे फोड़े गए।"
@@ -192,7 +234,9 @@
    "en": {
     "title": "Bombay High Court weighs a total firecracker ban for Mumbai: 'People are not going to change their mindset'",
     "summary": "The Bombay High Court on Thursday said it was considering a 'drastic order' imposing a complete ban on firecrackers in Mumbai, allowing only community displays on permitted grounds, after Diwali in the city saw 332 fires, air quality at its worst and crackers burst till 3 am despite court orders. The bench has reserved its order."
-   }
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
   },
   {
    "id": "india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20",
@@ -206,13 +250,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20-en.mp3",
-   "hi": {
-    "title": "जायसवाल के अर्धशतक से भारत की मज़बूत शुरुआत, वेलिंग्टन में बिना विकेट गँवाए एक सौ छब्बीस रन",
-    "summary": "यशस्वी जायसवाल के अर्धशतक और केएल राहुल के नाबाद बयालीस रन की बदौलत भारत ने वेलिंग्टन में पहले टेस्ट के दूसरे दिन न्यूज़ीलैंड के तीन सौ अड़सठ रन के जवाब में बिना कोई विकेट गँवाए एक सौ छब्बीस रन बना लिए। इससे पहले हेनरी निकोल्स एक सौ पचहत्तर रन बनाकर नाबाद रहे थे।"
-   },
    "en": {
     "title": "Jaiswal's fifty powers India's reply as openers put on 126 without loss at Wellington",
     "summary": "Yashasvi Jaiswal reached his fifty and KL Rahul was unbeaten on 42 as India reached 126 without loss in reply to New Zealand's 368 on day two of the first Test at the Basin Reserve in Wellington. Henry Nicholls had earlier carried his bat for 175."
+   },
+   "hi": {
+    "title": "जायसवाल के अर्धशतक से भारत की मज़बूत शुरुआत, वेलिंग्टन में बिना विकेट गँवाए एक सौ छब्बीस रन",
+    "summary": "यशस्वी जायसवाल के अर्धशतक और केएल राहुल के नाबाद बयालीस रन की बदौलत भारत ने वेलिंग्टन में पहले टेस्ट के दूसरे दिन न्यूज़ीलैंड के तीन सौ अड़सठ रन के जवाब में बिना कोई विकेट गँवाए एक सौ छब्बीस रन बना लिए। इससे पहले हेनरी निकोल्स एक सौ पचहत्तर रन बनाकर नाबाद रहे थे।"
    }
   },
   {
@@ -227,13 +271,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nikhil-gupta-sentencing-today-new-york-pannun-court-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentencing-today-new-york-pannun-court-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentencing-today-new-york-pannun-court-november-20-en.mp3",
-   "hi": {
-    "title": "पन्नून हत्या साज़िश मामले में निखिल गुप्ता को आज न्यूयॉर्क में सुनाई जाएगी सज़ा, पन्नून भी रहेंगे अदालत में",
-    "summary": "भारतीय नागरिक निखिल गुप्ता को खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून की हत्या की साज़िश के मामले में आज न्यूयॉर्क की अदालत में सज़ा सुनाई जाएगी। अभियोजन ने लगभग चौबीस साल की सज़ा माँगी है, जबकि गुप्ता के वकीलों ने बारह साल की सज़ा की गुहार लगाई है।"
-   },
    "en": {
     "title": "Nikhil Gupta to be sentenced today in New York in Pannun murder plot; Pannun to attend hearing",
     "summary": "Indian national Nikhil Gupta is scheduled to be sentenced in New York on Friday in the alleged 2023 plot to assassinate Khalistani separatist Gurpatwant Singh Pannun. Prosecutors have sought about 24 years in prison, while his lawyers have asked for 12 years."
+   },
+   "hi": {
+    "title": "पन्नून हत्या साज़िश मामले में निखिल गुप्ता को आज न्यूयॉर्क में सुनाई जाएगी सज़ा, पन्नून भी रहेंगे अदालत में",
+    "summary": "भारतीय नागरिक निखिल गुप्ता को खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून की हत्या की साज़िश के मामले में आज न्यूयॉर्क की अदालत में सज़ा सुनाई जाएगी। अभियोजन ने लगभग चौबीस साल की सज़ा माँगी है, जबकि गुप्ता के वकीलों ने बारह साल की सज़ा की गुहार लगाई है।"
    }
   },
   {
@@ -271,13 +315,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dehradun-unidentified-woman-body-tattoo-appeal-november-20-en.mp3",
    "district": "Dehradun",
    "state": "Uttarakhand",
-   "hi": {
-    "title": "देहरादून: कूड़े के ढेर में बोरी में मिली अज्ञात महिला की लाश, टैटू की तस्वीर से पहचान की कोशिश",
-    "summary": "देहरादून के प्रेमनगर इलाके में कूड़े के ढेर से पच्चीस से तीस साल की अज्ञात महिला का शव मिला है। पुलिस ने पहचान के लिए उसके हाथ पर बने टैटू की तस्वीर जारी की है, और घटनास्थल के पास मंगलवार रात दिखी एक कार सीसीटीवी में कैद हुई है।"
-   },
    "en": {
     "title": "Unidentified woman's body found in sack at Dehradun garbage dump; police release tattoo photo to identify her",
     "summary": "The body of an unidentified woman, aged around 25 to 30, was found in a sack at a garbage dump in Dehradun's Premnagar area. Police have released an image of a tattoo on her hand to help identify her, and CCTV shows a car near the site on Tuesday night."
+   },
+   "hi": {
+    "title": "देहरादून: कूड़े के ढेर में बोरी में मिली अज्ञात महिला की लाश, टैटू की तस्वीर से पहचान की कोशिश",
+    "summary": "देहरादून के प्रेमनगर इलाके में कूड़े के ढेर से पच्चीस से तीस साल की अज्ञात महिला का शव मिला है। पुलिस ने पहचान के लिए उसके हाथ पर बने टैटू की तस्वीर जारी की है, और घटनास्थल के पास मंगलवार रात दिखी एक कार सीसीटीवी में कैद हुई है।"
    }
   },
   {
@@ -378,13 +422,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lajpat-nagar-fire-owner-arrested-bail-november-20-en.mp3",
    "district": "New Delhi",
    "state": "Delhi",
-   "hi": {
-    "title": "लाजपत नगर में आग से यूट्यूब एडिटर की मौत, बिल्डिंग मालिक गिरफ्तार; जमानत पर रिहा",
-    "summary": "दिल्ली पुलिस ने लाजपत नगर-दो की चार मंजिला इमारत के मालिक सुशांत मेहता को गिरफ्तार किया है। इमारत के बेसमेंट में लगी आग में एक कर्मचारी की मौत हो गई थी और दूसरा गंभीर रूप से झुलस गया था। लापरवाही से मौत का मामला दर्ज किया गया है, और मेहता को जमानत पर रिहा कर दिया गया है।"
-   },
    "en": {
     "title": "Lajpat Nagar fire: building owner arrested after basement blaze kills YouTube editor, one injured",
     "summary": "Delhi Police have arrested Sushant Mehta, the owner of a four-storey building in Lajpat Nagar-II, after a fire in its basement killed a young video editor and left another employee critically injured. A case of causing death by negligence has been registered, and Mehta was released on bail."
+   },
+   "hi": {
+    "title": "लाजपत नगर में आग से यूट्यूब एडिटर की मौत, बिल्डिंग मालिक गिरफ्तार; जमानत पर रिहा",
+    "summary": "दिल्ली पुलिस ने लाजपत नगर-दो की चार मंजिला इमारत के मालिक सुशांत मेहता को गिरफ्तार किया है। इमारत के बेसमेंट में लगी आग में एक कर्मचारी की मौत हो गई थी और दूसरा गंभीर रूप से झुलस गया था। लापरवाही से मौत का मामला दर्ज किया गया है, और मेहता को जमानत पर रिहा कर दिया गया है।"
    }
   },
   {
@@ -399,13 +443,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mp-high-court-fake-ai-judgment-state-rapped-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mp-high-court-fake-ai-judgment-state-rapped-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mp-high-court-fake-ai-judgment-state-rapped-november-20-en.mp3",
-   "hi": {
-    "title": "एआई से गढ़ा फर्ज़ी फ़ैसला अदालत में पेश, मध्य प्रदेश हाई कोर्ट ने राज्य सरकार को लगाई फटकार",
-    "summary": "मध्य प्रदेश उच्च न्यायालय ने राज्य सरकार को उस जवाब के लिए कड़ी फटकार लगाई है, जिसमें एक ऐसे उच्चतम न्यायालय के फ़ैसले का हवाला दिया गया था जो है ही नहीं। अदालत ने कहा कि साफ़ दिख रहा है कि राज्य ने अपनी दलीलें तैयार करने में कृत्रिम बुद्धिमत्ता यानी एआई उपकरणों का आँख मूँदकर सहारा लिया था। अदालत ने बिना विभागीय जाँच के हटाए गए एक पुलिस अधिकारी की बर्खास्तगी भी रद्द कर दी।"
-   },
    "en": {
     "title": "Madhya Pradesh High Court raps state for citing fake AI-generated Supreme Court judgment",
     "summary": "The Madhya Pradesh High Court has pulled up the state government for citing a Supreme Court judgment that does not exist, observing that the state had 'blindly resorted' to artificial intelligence tools to draft its pleadings. The court also quashed the dismissal of a police officer removed without a departmental inquiry."
+   },
+   "hi": {
+    "title": "एआई से गढ़ा फर्ज़ी फ़ैसला अदालत में पेश, मध्य प्रदेश हाई कोर्ट ने राज्य सरकार को लगाई फटकार",
+    "summary": "मध्य प्रदेश उच्च न्यायालय ने राज्य सरकार को उस जवाब के लिए कड़ी फटकार लगाई है, जिसमें एक ऐसे उच्चतम न्यायालय के फ़ैसले का हवाला दिया गया था जो है ही नहीं। अदालत ने कहा कि साफ़ दिख रहा है कि राज्य ने अपनी दलीलें तैयार करने में कृत्रिम बुद्धिमत्ता यानी एआई उपकरणों का आँख मूँदकर सहारा लिया था। अदालत ने बिना विभागीय जाँच के हटाए गए एक पुलिस अधिकारी की बर्खास्तगी भी रद्द कर दी।"
    }
   },
   {
@@ -420,13 +464,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/japan-live-fire-drills-indian-ranges-first-time-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/japan-live-fire-drills-indian-ranges-first-time-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/japan-live-fire-drills-indian-ranges-first-time-november-19-en.mp3",
-   "hi": {
-    "title": "पहली बार भारतीय फायरिंग रेंज पर जापान करेगा लाइव-फ़ायर मिसाइल अभ्यास",
-    "summary": "भारत और जापान ने एक आशय पत्र पर हस्ताक्षर किए हैं, जिसके तहत जापान की आत्मरक्षा सेनाएँ पहली बार भारतीय फायरिंग रेंज पर लाइव-फ़ायर प्रशिक्षण करेंगी, जिसमें सतह से जहाज़ पर मार करने वाली मिसाइलों का अभ्यास भी शामिल है। यह समझौता गुरुवार को टोक्यो में हुई चौथी भारत-जापान दो जमा दो मंत्रिस्तरीय वार्ता में हुआ।"
-   },
    "en": {
     "title": "Japan to hold live-fire missile drills on Indian ranges for the first time",
     "summary": "India and Japan have signed a Letter of Intent under which Japan's Self-Defence Forces will conduct live-fire training at Indian firing ranges for the first time, including exercises with surface-to-ship missiles. The agreement came at the fourth India-Japan 2+2 ministerial dialogue in Tokyo on Thursday."
+   },
+   "hi": {
+    "title": "पहली बार भारतीय फायरिंग रेंज पर जापान करेगा लाइव-फ़ायर मिसाइल अभ्यास",
+    "summary": "भारत और जापान ने एक आशय पत्र पर हस्ताक्षर किए हैं, जिसके तहत जापान की आत्मरक्षा सेनाएँ पहली बार भारतीय फायरिंग रेंज पर लाइव-फ़ायर प्रशिक्षण करेंगी, जिसमें सतह से जहाज़ पर मार करने वाली मिसाइलों का अभ्यास भी शामिल है। यह समझौता गुरुवार को टोक्यो में हुई चौथी भारत-जापान दो जमा दो मंत्रिस्तरीय वार्ता में हुआ।"
    }
   },
   {
@@ -441,13 +485,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/europe-berlin-ukraine-talks-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-berlin-ukraine-talks-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-berlin-ukraine-talks-november-19-en.mp3",
-   "hi": {
-    "title": "बर्लिन शिखर सम्मेलन के बाद यूरोप ने कहा — रूस से बातचीत को तैयार हैं",
-    "summary": "बर्लिन में कोएलिशन ऑफ द विलिंग के शिखर सम्मेलन में यूरोपीय नेताओं ने कहा है कि वे यूक्रेन युद्ध खत्म करने के लिए रूस से बातचीत को तैयार हैं। जर्मनी, फ़्रांस, ब्रिटेन और यूक्रेन के संयुक्त बयान में मॉस्को से सर्दियों में ऊर्जा ठहराव और काला सागर से खाद्य निर्यात के लिए युद्धविराम पर सहमत होने को कहा गया है, और युद्धविराम के बाद कीव को कानूनी रूप से बाध्यकारी सुरक्षा गारंटी देने का वादा किया गया है।"
-   },
    "en": {
     "title": "Europe ready for talks with Russia on ending Ukraine war, leaders say after Berlin summit",
     "summary": "European leaders said at a Coalition of the Willing summit in Berlin that they are ready to negotiate with Russia on ending the war in Ukraine. In a joint statement, Germany, France, Britain and Ukraine called on Moscow to agree to a winter energy ceasefire and a Black Sea food-export truce as first steps, and promised legally binding security guarantees for Kyiv once a ceasefire holds."
+   },
+   "hi": {
+    "title": "बर्लिन शिखर सम्मेलन के बाद यूरोप ने कहा — रूस से बातचीत को तैयार हैं",
+    "summary": "बर्लिन में कोएलिशन ऑफ द विलिंग के शिखर सम्मेलन में यूरोपीय नेताओं ने कहा है कि वे यूक्रेन युद्ध खत्म करने के लिए रूस से बातचीत को तैयार हैं। जर्मनी, फ़्रांस, ब्रिटेन और यूक्रेन के संयुक्त बयान में मॉस्को से सर्दियों में ऊर्जा ठहराव और काला सागर से खाद्य निर्यात के लिए युद्धविराम पर सहमत होने को कहा गया है, और युद्धविराम के बाद कीव को कानूनी रूप से बाध्यकारी सुरक्षा गारंटी देने का वादा किया गया है।"
    }
   },
   {
@@ -462,13 +506,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ongc-apprentice-3047-posts-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongc-apprentice-3047-posts-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongc-apprentice-3047-posts-november-20-en.mp3",
-   "hi": {
-    "title": "ओएनजीसी में तीन हज़ार सैंतालीस अप्रेंटिस पदों पर भर्ती, एनएपीएस की अंतिम तारीख़ उनतीस नवंबर तक बढ़ी",
-    "summary": "तेल एवं प्राकृतिक गैस निगम ने देश के छह सेक्टरों के चौबीस कार्य केंद्रों पर तीन हज़ार सैंतालीस अप्रेंटिस पदों के लिए आवेदन माँगे हैं। एनएटीएस से स्नातक और डिप्लोमा अप्रेंटिस के लिए आवेदन की अंतिम तारीख़ आज, बीस नवंबर है, जबकि एनएपीएस से ट्रेड अप्रेंटिस के लिए उन्नीस नवंबर को जारी शुद्धिपत्र के बाद अंतिम तारीख़ उनतीस नवंबर तक बढ़ा दी गई है।"
-   },
    "en": {
     "title": "ONGC apprentice recruitment: 3,047 posts on offer, NAPS last date extended to November 29",
     "summary": "Oil and Natural Gas Corporation has invited applications for 3,047 apprentice posts across 24 work centres in six sectors. The last date for graduate and diploma apprentices under NATS is today, November 20, while the last date for trade apprentices under NAPS has been extended to November 29 after a corrigendum issued on November 19."
+   },
+   "hi": {
+    "title": "ओएनजीसी में तीन हज़ार सैंतालीस अप्रेंटिस पदों पर भर्ती, एनएपीएस की अंतिम तारीख़ उनतीस नवंबर तक बढ़ी",
+    "summary": "तेल एवं प्राकृतिक गैस निगम ने देश के छह सेक्टरों के चौबीस कार्य केंद्रों पर तीन हज़ार सैंतालीस अप्रेंटिस पदों के लिए आवेदन माँगे हैं। एनएटीएस से स्नातक और डिप्लोमा अप्रेंटिस के लिए आवेदन की अंतिम तारीख़ आज, बीस नवंबर है, जबकि एनएपीएस से ट्रेड अप्रेंटिस के लिए उन्नीस नवंबर को जारी शुद्धिपत्र के बाद अंतिम तारीख़ उनतीस नवंबर तक बढ़ा दी गई है।"
    }
   },
   {
@@ -483,13 +527,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nz-india-368-nicholls-175-wellington-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nz-india-368-nicholls-175-wellington-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nz-india-368-nicholls-175-wellington-november-20-en.mp3",
-   "hi": {
-    "title": "हेनरी निकोल्स के नाबाद एक सौ पचहत्तर रन, न्यूज़ीलैंड तीन सौ अड़सठ पर ऑल आउट",
-    "summary": "वेलिंग्टन के बेसिन रिज़र्व में भारत के ख़िलाफ़ पहले टेस्ट के दूसरे दिन हेनरी निकोल्स एक सौ पचहत्तर रन बनाकर नाबाद रहे और न्यूज़ीलैंड की पहली पारी तीन सौ अड़सठ रन पर समाप्त हुई। ग्लेन फ़िलिप्स ने एक सौ अठारह रन बनाए और निकोल्स के साथ दो सौ सोलह रन की साझेदारी की, जबकि जसप्रीत बुमराह ने चार विकेट लिए।"
-   },
    "en": {
     "title": "Nicholls' unbeaten 175 carries New Zealand to 368 on day two at Wellington",
     "summary": "Henry Nicholls remained unbeaten on 175 as New Zealand were bowled out for 368 on day two of the first Test against India at the Basin Reserve in Wellington. Glenn Phillips made 118 in a 216-run stand with Nicholls, and Jasprit Bumrah took four wickets as India fought back after lunch."
+   },
+   "hi": {
+    "title": "हेनरी निकोल्स के नाबाद एक सौ पचहत्तर रन, न्यूज़ीलैंड तीन सौ अड़सठ पर ऑल आउट",
+    "summary": "वेलिंग्टन के बेसिन रिज़र्व में भारत के ख़िलाफ़ पहले टेस्ट के दूसरे दिन हेनरी निकोल्स एक सौ पचहत्तर रन बनाकर नाबाद रहे और न्यूज़ीलैंड की पहली पारी तीन सौ अड़सठ रन पर समाप्त हुई। ग्लेन फ़िलिप्स ने एक सौ अठारह रन बनाए और निकोल्स के साथ दो सौ सोलह रन की साझेदारी की, जबकि जसप्रीत बुमराह ने चार विकेट लिए।"
    }
   },
   {
@@ -504,13 +548,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rafale-count-32-flightglobal-defence-ministry-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rafale-count-32-flightglobal-defence-ministry-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rafale-count-32-flightglobal-defence-ministry-november-19-en.mp3",
-   "hi": {
-    "title": "फ़्लाइटग्लोबल की सूची में भारतीय वायुसेना के सक्रिय राफेल पैंतीस से घटकर बत्तीस, रक्षा मंत्रालय ने आँकड़े पर सवाल उठाए",
-    "summary": "ब्रिटिश विमानन प्रकाशन फ़्लाइटग्लोबल की ताज़ा वर्ल्ड एयर फ़ोर्सेज़ डायरेक्टरी में भारतीय वायुसेना के सक्रिय राफेल लड़ाकू विमानों की संख्या पैंतीस से घटकर बत्तीस रह गई है। रक्षा मंत्रालय के सूत्रों ने इस आकलन की प्रामाणिकता पर सवाल उठाते हुए कहा है कि ये आँकड़े वायुसेना या मंत्रालय से नहीं मिले हैं, और डायरेक्टरी में कटौती का कोई कारण भी नहीं बताया गया है।"
-   },
    "en": {
     "title": "FlightGlobal lists 32 active Rafales in IAF fleet, down from 35; Defence Ministry questions the count",
     "summary": "British aviation publication FlightGlobal's latest World Air Forces directory lists 32 active Rafale fighters in the Indian Air Force, down from 35 a year ago. Defence Ministry sources have questioned the authenticity of the assessment, saying the figures did not come from the IAF, and the directory itself gives no reason for the drop."
+   },
+   "hi": {
+    "title": "फ़्लाइटग्लोबल की सूची में भारतीय वायुसेना के सक्रिय राफेल पैंतीस से घटकर बत्तीस, रक्षा मंत्रालय ने आँकड़े पर सवाल उठाए",
+    "summary": "ब्रिटिश विमानन प्रकाशन फ़्लाइटग्लोबल की ताज़ा वर्ल्ड एयर फ़ोर्सेज़ डायरेक्टरी में भारतीय वायुसेना के सक्रिय राफेल लड़ाकू विमानों की संख्या पैंतीस से घटकर बत्तीस रह गई है। रक्षा मंत्रालय के सूत्रों ने इस आकलन की प्रामाणिकता पर सवाल उठाते हुए कहा है कि ये आँकड़े वायुसेना या मंत्रालय से नहीं मिले हैं, और डायरेक्टरी में कटौती का कोई कारण भी नहीं बताया गया है।"
    }
   },
   {
@@ -527,13 +571,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20-en.mp3",
    "district": "Bulandshahr",
    "state": "Uttar Pradesh",
-   "hi": {
-    "title": "दिल्ली में मंत्री के दफ़्तर के बाहर हत्या का आरोपी गैंगस्टर नसीम दुर्रानी बुलंदशहर एनकाउंटर में मारा गया",
-    "summary": "दिल्ली के मंत्री कपिल मिश्रा के कैंप दफ़्तर के बाहर सोलह नवंबर को छब्बीस साल के समीर की हत्या के आरोपी गैंगस्टर नसीम दुर्रानी को गुरुवार देर रात उत्तर प्रदेश के बुलंदशहर में दिल्ली पुलिस और नोएडा एसटीएफ़ की संयुक्त टीम के साथ हुई मुठभेड़ में मार गिराया गया। पुलिस के अनुसार दुर्रानी पर पचास हज़ार रुपये का इनाम था और उसके ख़िलाफ़ हत्या, लूट और हत्या के प्रयास समेत करीब पच्चीस गंभीर मामले दर्ज थे।"
-   },
    "en": {
     "title": "Gangster Naseem Durrani, wanted in Delhi murder outside minister Kapil Mishra's office, killed in encounter in Bulandshahr",
     "summary": "Gangster Naseem Durrani, accused in the murder of 26-year-old Sameer outside Delhi minister Kapil Mishra's camp office on November 16, was killed in an encounter with a joint team of Delhi Police and the Noida STF in Uttar Pradesh's Bulandshahr late on Thursday night. Police say Durrani, who carried a reward of Rs 50,000, had around 25 serious cases against him, including murder, robbery and attempted murder."
+   },
+   "hi": {
+    "title": "दिल्ली में मंत्री के दफ़्तर के बाहर हत्या का आरोपी गैंगस्टर नसीम दुर्रानी बुलंदशहर एनकाउंटर में मारा गया",
+    "summary": "दिल्ली के मंत्री कपिल मिश्रा के कैंप दफ़्तर के बाहर सोलह नवंबर को छब्बीस साल के समीर की हत्या के आरोपी गैंगस्टर नसीम दुर्रानी को गुरुवार देर रात उत्तर प्रदेश के बुलंदशहर में दिल्ली पुलिस और नोएडा एसटीएफ़ की संयुक्त टीम के साथ हुई मुठभेड़ में मार गिराया गया। पुलिस के अनुसार दुर्रानी पर पचास हज़ार रुपये का इनाम था और उसके ख़िलाफ़ हत्या, लूट और हत्या के प्रयास समेत करीब पच्चीस गंभीर मामले दर्ज थे।"
    }
   },
   {
@@ -550,13 +594,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/minibus-plunges-gorge-kodaikanal-palani-three-killed-november-20-en.mp3",
    "district": "Dindigul",
    "state": "Tamil Nadu",
-   "hi": {
-    "title": "कोडाइकनाल–पलानी घाट रोड पर मिनीबस सौ फुट गहरी खाई में गिरी, तीन की मौत",
-    "summary": "तमिलनाडु के डिंडीगुल ज़िले में गुरुवार रात कोडाइकनाल–पलानी घाट रोड पर सावरिक्काडु के पास चौबीस यात्रियों को ले जा रही एक मिनीबस सौ फुट गहरी खाई में गिर गई, जिससे तीन लोगों की मौत हो गई और कई अन्य घायल हो गए। यात्री कोडाइकनाल में एक शादी समारोह से लौट रहे थे, और डिंडीगुल के सांसद सच्चिथानंथम ने मौतों की पुष्टि की है।"
-   },
    "en": {
     "title": "Three killed as minibus carrying 24 plunges into 100-foot gorge on Kodaikanal–Palani road",
     "summary": "Three people were killed and several others injured when a minibus carrying 24 passengers plunged into a 100-foot-deep gorge near Savarikkadu on the Kodaikanal–Palani Ghat Road in Tamil Nadu's Dindigul district on Thursday night. The passengers were returning home after a wedding reception in Kodaikanal, and Dindigul MP Sachithanantham confirmed the deaths."
+   },
+   "hi": {
+    "title": "कोडाइकनाल–पलानी घाट रोड पर मिनीबस सौ फुट गहरी खाई में गिरी, तीन की मौत",
+    "summary": "तमिलनाडु के डिंडीगुल ज़िले में गुरुवार रात कोडाइकनाल–पलानी घाट रोड पर सावरिक्काडु के पास चौबीस यात्रियों को ले जा रही एक मिनीबस सौ फुट गहरी खाई में गिर गई, जिससे तीन लोगों की मौत हो गई और कई अन्य घायल हो गए। यात्री कोडाइकनाल में एक शादी समारोह से लौट रहे थे, और डिंडीगुल के सांसद सच्चिथानंथम ने मौतों की पुष्टि की है।"
    }
   },
   {
@@ -571,13 +615,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19-en.mp3",
-   "hi": {
-    "title": "एसआईआर: मुस्तफ़ाबाद में फ़र्ज़ी फ़ॉर्म सात की जाँच के आदेश, हटाए गए मतदाताओं को तीस नवंबर तक का मौक़ा",
-    "summary": "सुप्रीम कोर्ट ने गुरुवार को चुनाव आयोग से कहा कि दिल्ली के मुस्तफ़ाबाद में एसआईआर के दौरान फ़र्ज़ी फ़ॉर्म सात के ज़रिए मतदाताओं के नाम काटने के आरोपों की जाँच करे। साथ ही, अदालत ने सूची से हटाए गए मतदाताओं से कहा कि वे तीस नवंबर तक चुनाव आयोग की ओर से मिलने वाला हर मौक़ा आज़माएँ — अदालत दो दिसंबर को स्थिति की समीक्षा करेगी और ज़रूरत पड़ी तो समय-सीमा बढ़ा भी सकती है।"
-   },
    "en": {
     "title": "Supreme Court on SIR: verify fake Form 7 claims in Mustafabad; deleted voters get window till November 30",
     "summary": "The Supreme Court on Thursday directed the Election Commission to verify allegations that fake Form 7 applications were filed to delete voters in Delhi's Mustafabad during the SIR, and told voters struck off the rolls to use every chance the poll body gives them before the enumeration window closes on November 30 — saying it would review the position on December 2 and could extend the deadline if needed."
+   },
+   "hi": {
+    "title": "एसआईआर: मुस्तफ़ाबाद में फ़र्ज़ी फ़ॉर्म सात की जाँच के आदेश, हटाए गए मतदाताओं को तीस नवंबर तक का मौक़ा",
+    "summary": "सुप्रीम कोर्ट ने गुरुवार को चुनाव आयोग से कहा कि दिल्ली के मुस्तफ़ाबाद में एसआईआर के दौरान फ़र्ज़ी फ़ॉर्म सात के ज़रिए मतदाताओं के नाम काटने के आरोपों की जाँच करे। साथ ही, अदालत ने सूची से हटाए गए मतदाताओं से कहा कि वे तीस नवंबर तक चुनाव आयोग की ओर से मिलने वाला हर मौक़ा आज़माएँ — अदालत दो दिसंबर को स्थिति की समीक्षा करेगी और ज़रूरत पड़ी तो समय-सीमा बढ़ा भी सकती है।"
    }
   },
   {
@@ -594,13 +638,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaishali-nishant-kumar-pushed-cm-security-video-row-november-19-en.mp3",
    "district": "Vaishali",
    "state": "Bihar",
-   "hi": {
-    "title": "वैशाली में सीएम की सुरक्षा ने स्वास्थ्य मंत्री निशांत कुमार को धक्का दिया? वीडियो वायरल, जेडीयू ने जाँच माँगी",
-    "summary": "वैशाली में नीतीश सेतु पुल के निरीक्षण के दौरान मुख्यमंत्री सम्राट चौधरी की सुरक्षा में तैनात अधिकारी द्वारा स्वास्थ्य मंत्री निशांत कुमार को धक्का दिए जाने का वीडियो वायरल होने के बाद बिहार में सियासी हंगामा खड़ा हो गया है। जेडीयू ने पुलिस जाँच की माँग की है, राजद ने भाजपा नीत सरकार पर हमला बोला है, और मुख्यमंत्री की सुरक्षा टुकड़ी ने इसे मानवीय भूल बताया है।"
-   },
    "en": {
     "title": "Vaishali video row: CM's security 'pushes' minister Nishant Kumar during Nitish Setu inspection; JD(U) seeks probe",
     "summary": "A video from Vaishali, purportedly showing Chief Minister Samrat Choudhary's security officer pushing Health Minister Nishant Kumar during an inspection of the Nitish Setu bridge, has set off a political row in Bihar. The JD(U) has demanded a police probe, the RJD has attacked the BJP-led government, and the Chief Minister's security group has called the incident a 'human error'."
+   },
+   "hi": {
+    "title": "वैशाली में सीएम की सुरक्षा ने स्वास्थ्य मंत्री निशांत कुमार को धक्का दिया? वीडियो वायरल, जेडीयू ने जाँच माँगी",
+    "summary": "वैशाली में नीतीश सेतु पुल के निरीक्षण के दौरान मुख्यमंत्री सम्राट चौधरी की सुरक्षा में तैनात अधिकारी द्वारा स्वास्थ्य मंत्री निशांत कुमार को धक्का दिए जाने का वीडियो वायरल होने के बाद बिहार में सियासी हंगामा खड़ा हो गया है। जेडीयू ने पुलिस जाँच की माँग की है, राजद ने भाजपा नीत सरकार पर हमला बोला है, और मुख्यमंत्री की सुरक्षा टुकड़ी ने इसे मानवीय भूल बताया है।"
    }
   },
   {
@@ -615,13 +659,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20-en.mp3",
-   "hi": {
-    "title": "हमारे लोग मारे जा रहे हों तो बातचीत नहीं हो सकती: पाकिस्तान से संवाद पर राहुल गांधी की लाल रेखा",
-    "summary": "शिकागो विश्वविद्यालय में कांग्रेस नेता राहुल गांधी ने एक पाकिस्तानी छात्र से कहा कि पाकिस्तान जब तक भारत में आतंकवाद को समर्थन देना बंद नहीं करता, तब तक इस्लामाबाद से बातचीत नहीं हो सकती। उसी कार्यक्रम में उन्होंने मोदी सरकार की विदेश नीति पर भी हमला बोला और कहा कि भारत साइड प्लेयर बनकर रह गया है, जबकि पाकिस्तान अमेरिका-ईरान वार्ता में मध्यस्थता कर रहा है।"
-   },
    "en": {
     "title": "No talks while our people are killed: Rahul Gandhi draws red line on dialogue with Pakistan",
     "summary": "At the University of Chicago, Congress leader Rahul Gandhi told a Pakistani student that dialogue with Islamabad can begin only when Pakistan stops supporting terrorism in India — and used the same session to attack the Modi government's foreign policy, saying India has become a 'side player' while Pakistan mediated US-Iran talks."
+   },
+   "hi": {
+    "title": "हमारे लोग मारे जा रहे हों तो बातचीत नहीं हो सकती: पाकिस्तान से संवाद पर राहुल गांधी की लाल रेखा",
+    "summary": "शिकागो विश्वविद्यालय में कांग्रेस नेता राहुल गांधी ने एक पाकिस्तानी छात्र से कहा कि पाकिस्तान जब तक भारत में आतंकवाद को समर्थन देना बंद नहीं करता, तब तक इस्लामाबाद से बातचीत नहीं हो सकती। उसी कार्यक्रम में उन्होंने मोदी सरकार की विदेश नीति पर भी हमला बोला और कहा कि भारत साइड प्लेयर बनकर रह गया है, जबकि पाकिस्तान अमेरिका-ईरान वार्ता में मध्यस्थता कर रहा है।"
    }
   },
   {
@@ -636,13 +680,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hayabusa2-drops-1998-ky26-target-engine-trouble-november-17.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hayabusa2-drops-1998-ky26-target-engine-trouble-november-17-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hayabusa2-drops-1998-ky26-target-engine-trouble-november-17-en.mp3",
-   "hi": {
-    "title": "इंजन की खराबी से हयाबुसा-दो का मिशन बदला, अब नए क्षुद्रग्रह के पास से गुज़रेगा यान",
-    "summary": "जापान की अंतरिक्ष एजेंसी जाक्सा ने अपने यान हयाबुसा-दो की एक क्षुद्रग्रह से मिलने की योजना रद्द कर दी है, क्योंकि अगस्त में इसका आख़िरी स्वस्थ आयन इंजन ख़राब हो गया। अब यह अनुभवी यान अप्रैल दो हज़ार अट्ठाईस में एक अलग छोटे क्षुद्रग्रह के पास से तेज़ गति से गुज़रेगा।"
-   },
    "en": {
     "title": "Engine trouble ends Hayabusa2's 2031 asteroid rendezvous; JAXA retargets probe to a 2028 flyby",
     "summary": "Japan's space agency JAXA has cancelled Hayabusa2's planned 2031 rendezvous with asteroid 1998 KY26 after its last healthy ion engine failed in August. The veteran probe will now fly past a different, smaller asteroid, 2015 BM510, in April 2028."
+   },
+   "hi": {
+    "title": "इंजन की खराबी से हयाबुसा-दो का मिशन बदला, अब नए क्षुद्रग्रह के पास से गुज़रेगा यान",
+    "summary": "जापान की अंतरिक्ष एजेंसी जाक्सा ने अपने यान हयाबुसा-दो की एक क्षुद्रग्रह से मिलने की योजना रद्द कर दी है, क्योंकि अगस्त में इसका आख़िरी स्वस्थ आयन इंजन ख़राब हो गया। अब यह अनुभवी यान अप्रैल दो हज़ार अट्ठाईस में एक अलग छोटे क्षुद्रग्रह के पास से तेज़ गति से गुज़रेगा।"
    }
   },
   {
@@ -657,16 +701,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-atm-fraud-gang-busted-four-arrested-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-atm-fraud-gang-busted-four-arrested-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-atm-fraud-gang-busted-four-arrested-november-19-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "ATM fraud gang busted in Gonda: four arrested for trapping cards with glue and stealing PINs",
+    "summary": "Gonda police and the Cyber Cell have busted an inter-district gang that trapped ATM cards with glue, stole customers' PINs and withdrew money from their accounts. Four men were arrested on Thursday evening, and Rs. 34,910 in cash, 23 ATM cards, six mobile phones and the Hyundai i-10 car used in the crimes were seized."
+   },
    "hi": {
     "title": "गोंडा में एटीएम ठगी गिरोह का भंडाफोड़, फेविक्विक से कार्ड फँसाकर पिन चुराने वाले चार आरोपी गिरफ्तार",
     "summary": "गोंडा में कोतवाली नगर पुलिस और साइबर सेल ने एटीएम कार्ड फँसाकर ग्राहकों का पिन चुराने और उनके खातों से रुपये निकालने वाले अंतरजनपदीय गिरोह का भंडाफोड़ किया है। गुरुवार शाम चार आरोपियों को गिरफ्तार किया गया और उनके पास से चौंतीस हज़ार नौ सौ दस रुपये नकद, तेईस एटीएम कार्ड, छह मोबाइल फ़ोन और वारदात में इस्तेमाल हुंडई आई-टेन कार बरामद हुई है।"
    },
-   "en": {
-    "title": "ATM fraud gang busted in Gonda: four arrested for trapping cards with glue and stealing PINs",
-    "summary": "Gonda police and the Cyber Cell have busted an inter-district gang that trapped ATM cards with glue, stole customers' PINs and withdrew money from their accounts. Four men were arrested on Thursday evening, and Rs. 34,910 in cash, 23 ATM cards, six mobile phones and the Hyundai i-10 car used in the crimes were seized."
-   }
+   "district": "Gonda",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "cyclone-akvan-landfall-process-begins-gopalpur-november-20",
@@ -680,13 +724,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-landfall-process-begins-gopalpur-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-landfall-process-begins-gopalpur-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-landfall-process-begins-gopalpur-november-20-en.mp3",
-   "hi": {
-    "title": "चक्रवात अकवान का लैंडफॉल शुरू: तूफ़ान ओडिशा–आंध्र तट से टकराया, गोपालपुर के पास दोपहर से पहले पार करेगा",
-    "summary": "भारतीय मौसम विज्ञान विभाग ने बताया कि शुक्रवार सुबह चक्रवात अकवान के लैंडफॉल की प्रक्रिया शुरू हो गई, जब उसका बादल-समूह उत्तर आंध्र प्रदेश–दक्षिण ओडिशा तट से टकराया। कमज़ोर होकर चक्रवाती तूफ़ान रह गया अकवान दोपहर से पहले गोपालपुर के पास तट पार करेगा, हवा ७०–८० किलोमीटर प्रति घंटे की रफ़्तार से चलेगी और लैंडफॉल की प्रक्रिया सात से आठ घंटे चल सकती है।"
-   },
    "en": {
     "title": "Cyclone Akvan landfall begins: storm reaches Odisha–Andhra coast, to cross near Gopalpur by forenoon",
     "summary": "The land interaction of Cyclone Akvan began early on Friday as its sheared cloud mass entered the north Andhra Pradesh–south Odisha coasts, the IMD said. The storm, now weakened to a cyclonic storm, is expected to cross the coast close to Gopalpur by the forenoon with winds of 70–80 kmph, gusting to 90 kmph, in a landfall process that could last seven to eight hours."
+   },
+   "hi": {
+    "title": "चक्रवात अकवान का लैंडफॉल शुरू: तूफ़ान ओडिशा–आंध्र तट से टकराया, गोपालपुर के पास दोपहर से पहले पार करेगा",
+    "summary": "भारतीय मौसम विज्ञान विभाग ने बताया कि शुक्रवार सुबह चक्रवात अकवान के लैंडफॉल की प्रक्रिया शुरू हो गई, जब उसका बादल-समूह उत्तर आंध्र प्रदेश–दक्षिण ओडिशा तट से टकराया। कमज़ोर होकर चक्रवाती तूफ़ान रह गया अकवान दोपहर से पहले गोपालपुर के पास तट पार करेगा, हवा ७०–८० किलोमीटर प्रति घंटे की रफ़्तार से चलेगी और लैंडफॉल की प्रक्रिया सात से आठ घंटे चल सकती है।"
    }
   },
   {
@@ -701,13 +745,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19-en.mp3",
-   "hi": {
-    "title": "होंडा रेबेल पाँच सौ भारत में चार लाख पचास हज़ार रुपये में लौटी, ई-क्लच वर्ज़न चार लाख नब्बे हज़ार रुपये में",
-    "summary": "होंडा ने रेबेल पाँच सौ को भारत में स्थानीय रूप से बनी क्रूज़र बाइक के रूप में वापस लाया है — स्टैंडर्ड वर्ज़न की क़ीमत चार लाख पचास हज़ार रुपये और ई-क्लच वर्ज़न की चार लाख नब्बे हज़ार रुपये है, जिसमें बिना क्लच दबाए गियर बदले जा सकते हैं। पाँच हज़ार रुपये में बुकिंग शुरू, बिक्री सिर्फ़ बिगविंग डीलरशिप से होगी।"
-   },
    "en": {
     "title": "Honda Rebel 500 returns to India at ₹4.50 lakh, clutch-free E-Clutch version at ₹4.90 lakh",
     "summary": "Honda has brought the Rebel 500 back to India as a locally made cruiser, priced at ₹4.50 lakh for the Standard and ₹4.90 lakh for the E-Clutch version, which lets riders change gears without touching the clutch lever. Bookings are open for ₹5,000 at BigWing dealerships."
+   },
+   "hi": {
+    "title": "होंडा रेबेल पाँच सौ भारत में चार लाख पचास हज़ार रुपये में लौटी, ई-क्लच वर्ज़न चार लाख नब्बे हज़ार रुपये में",
+    "summary": "होंडा ने रेबेल पाँच सौ को भारत में स्थानीय रूप से बनी क्रूज़र बाइक के रूप में वापस लाया है — स्टैंडर्ड वर्ज़न की क़ीमत चार लाख पचास हज़ार रुपये और ई-क्लच वर्ज़न की चार लाख नब्बे हज़ार रुपये है, जिसमें बिना क्लच दबाए गियर बदले जा सकते हैं। पाँच हज़ार रुपये में बुकिंग शुरू, बिक्री सिर्फ़ बिगविंग डीलरशिप से होगी।"
    }
   },
   {
@@ -722,13 +766,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19-en.mp3",
-   "hi": {
-    "title": "हूती मिसाइल ने रियाद की सबसे ऊँची इमारत को निशाना बनाया, सऊदी अरब के नौ सौ अरब डॉलर वाले फंड का मुख्यालय है टावर",
-    "summary": "गुरुवार को एक संदिग्ध हूती मिसाइल ने रियाद की ३८५ मीटर ऊँची पीआईएफ़ टावर को निशाना बनाया, जिससे सऊदी अरब के नौ सौ अरब डॉलर वाले संप्रभु संपदा कोष का मुख्यालय रखने वाली इमारत की सात से आठ मंज़िलों की खिड़कियाँ उड़ गईं। कोई घायल नहीं हुआ, और दो हफ़्ते से कम समय में वित्तीय ज़िले की किसी बड़ी इमारत पर यह दूसरा हमला है।"
-   },
    "en": {
     "title": "Houthi missile hits Riyadh's tallest skyscraper, home to Saudi Arabia's $900 billion wealth fund",
     "summary": "A suspected Houthi missile struck the 385-metre PIF Tower in Riyadh on Thursday, blowing out windows across seven to eight floors of the skyscraper that houses Saudi Arabia's $900 billion sovereign wealth fund. No injuries were reported, and it was the second strike on a landmark in the capital's financial district in under two weeks."
+   },
+   "hi": {
+    "title": "हूती मिसाइल ने रियाद की सबसे ऊँची इमारत को निशाना बनाया, सऊदी अरब के नौ सौ अरब डॉलर वाले फंड का मुख्यालय है टावर",
+    "summary": "गुरुवार को एक संदिग्ध हूती मिसाइल ने रियाद की ३८५ मीटर ऊँची पीआईएफ़ टावर को निशाना बनाया, जिससे सऊदी अरब के नौ सौ अरब डॉलर वाले संप्रभु संपदा कोष का मुख्यालय रखने वाली इमारत की सात से आठ मंज़िलों की खिड़कियाँ उड़ गईं। कोई घायल नहीं हुआ, और दो हफ़्ते से कम समय में वित्तीय ज़िले की किसी बड़ी इमारत पर यह दूसरा हमला है।"
    }
   },
   {
@@ -743,13 +787,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19-en.mp3",
-   "hi": {
-    "title": "जीटीए सिक्स ने रिलीज़ के दिन तक करीब एक अरब चौरासी करोड़ डॉलर कमाए, द ओडिसी की पूरी कमाई को पीछे छोड़ा",
-    "summary": "सेंसर टावर के अनुमान के मुताबिक़ ग्रैंड थेफ़्ट ऑटो सिक्स ने उन्नीस नवंबर को रिलीज़ तक करीब एक करोड़ नब्बे लाख प्रतियाँ बेचकर लगभग एक अरब चौरासी करोड़ डॉलर कमाए, जो जीटीए फ़ाइव की पहले दिन की कमाई से दोगुने से ज़्यादा है और क्रिस्टोफ़र नोलन की फ़िल्म द ओडिसी की पूरी कमाई से भी ज़्यादा है। ये आँकड़े तीसरे पक्ष के अनुमान हैं, रॉकस्टार और टेक-टू ने आधिकारिक बिक्री के आँकड़े जारी नहीं किए हैं।"
-   },
    "en": {
     "title": "GTA 6 rakes in an estimated $1.84 billion by launch day, passing The Odyssey's entire box office",
     "summary": "Sensor Tower estimates Grand Theft Auto VI sold about 19.05 million copies worth roughly $1.84 billion by its November 19 launch, more than double GTA 5's first-day haul and more than Christopher Nolan's The Odyssey earned in its entire theatrical run. The figures are third-party estimates — Rockstar and Take-Two have not released official sales numbers."
+   },
+   "hi": {
+    "title": "जीटीए सिक्स ने रिलीज़ के दिन तक करीब एक अरब चौरासी करोड़ डॉलर कमाए, द ओडिसी की पूरी कमाई को पीछे छोड़ा",
+    "summary": "सेंसर टावर के अनुमान के मुताबिक़ ग्रैंड थेफ़्ट ऑटो सिक्स ने उन्नीस नवंबर को रिलीज़ तक करीब एक करोड़ नब्बे लाख प्रतियाँ बेचकर लगभग एक अरब चौरासी करोड़ डॉलर कमाए, जो जीटीए फ़ाइव की पहले दिन की कमाई से दोगुने से ज़्यादा है और क्रिस्टोफ़र नोलन की फ़िल्म द ओडिसी की पूरी कमाई से भी ज़्यादा है। ये आँकड़े तीसरे पक्ष के अनुमान हैं, रॉकस्टार और टेक-टू ने आधिकारिक बिक्री के आँकड़े जारी नहीं किए हैं।"
    }
   },
   {
@@ -764,13 +808,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19-en.mp3",
-   "hi": {
-    "title": "१९ साल की रक्षिता रामराज का कमाल, ओलंपिक चैंपियन चेन युफेई को हांगकांग ओपन में हराया",
-    "summary": "रक्षिता रामराज ने गुरुवार को हांगकांग ओपन के दूसरे दौर में टोक्यो ओलंपिक चैंपियन और दुनिया की चौथे नंबर की खिलाड़ी चेन युफेई को २१-१८, २४-२२ से हराया। १९ साल की भारतीय शटलर के करियर की यह सबसे बड़ी जीत है, जिससे वह अपने पहले सुपर ५०० क्वार्टर फ़ाइनल में पहुँचीं।"
-   },
    "en": {
     "title": "19-year-old Rakshitha Ramraj stuns Olympic champion Chen Yufei at Hong Kong Open",
     "summary": "Rakshitha Ramraj beat Tokyo Olympic champion and world No. 4 Chen Yufei 21-18, 24-22 in the Hong Kong Open second round on Thursday, the biggest win of the 19-year-old's career, taking her into her first Super 500 quarterfinal."
+   },
+   "hi": {
+    "title": "१९ साल की रक्षिता रामराज का कमाल, ओलंपिक चैंपियन चेन युफेई को हांगकांग ओपन में हराया",
+    "summary": "रक्षिता रामराज ने गुरुवार को हांगकांग ओपन के दूसरे दौर में टोक्यो ओलंपिक चैंपियन और दुनिया की चौथे नंबर की खिलाड़ी चेन युफेई को २१-१८, २४-२२ से हराया। १९ साल की भारतीय शटलर के करियर की यह सबसे बड़ी जीत है, जिससे वह अपने पहले सुपर ५०० क्वार्टर फ़ाइनल में पहुँचीं।"
    }
   },
   {
@@ -785,13 +829,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yashwant-varma-resignation-not-admission-guilt-removal-proceedings-infructuous-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yashwant-varma-resignation-not-admission-guilt-removal-proceedings-infructuous-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yashwant-varma-resignation-not-admission-guilt-removal-proceedings-infructuous-november-20-en.mp3",
-   "hi": {
-    "title": "इस्तीफ़ा गुनाह का इक़बाल नहीं, हटाने की कार्यवाही अब निरर्थक: जस्टिस वर्मा का संसद को पत्र",
-    "summary": "पूर्व जस्टिस यशवंत वर्मा ने लोकसभा सचिवालय को लिखा है कि ९ अप्रैल को इस्तीफ़ा देते ही उन्हें हटाने की कार्यवाही निरर्थक हो गई थी, और इस्तीफ़े को किसी भी आरोप का इक़बाल नहीं समझा जाना चाहिए। संसदीय जाँच समिति ने उनके ख़िलाफ़ तीनों आरोप साबित पाए थे।"
-   },
    "en": {
     "title": "My resignation is no admission of guilt, Justice Varma tells Parliament; removal proceedings now infructuous",
     "summary": "Former Justice Yashwant Varma has told the Lok Sabha Secretariat that proceedings to remove him as a high court judge became infructuous once he resigned on April 9, insisting his resignation was not an admission of any allegation, after a parliamentary inquiry committee found all three charges against him proved."
+   },
+   "hi": {
+    "title": "इस्तीफ़ा गुनाह का इक़बाल नहीं, हटाने की कार्यवाही अब निरर्थक: जस्टिस वर्मा का संसद को पत्र",
+    "summary": "पूर्व जस्टिस यशवंत वर्मा ने लोकसभा सचिवालय को लिखा है कि ९ अप्रैल को इस्तीफ़ा देते ही उन्हें हटाने की कार्यवाही निरर्थक हो गई थी, और इस्तीफ़े को किसी भी आरोप का इक़बाल नहीं समझा जाना चाहिए। संसदीय जाँच समिति ने उनके ख़िलाफ़ तीनों आरोप साबित पाए थे।"
    }
   },
   {
@@ -806,13 +850,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20-en.mp3",
-   "hi": {
-    "title": "आकाश दीप ने तोड़ा २१६ रन का साझा, ग्लेन फ़िलिप्स ११८ पर बोल्ड",
-    "summary": "वेलिंग्टन में दूसरे दिन की सुबह आकाश दीप ने ग्लेन फ़िलिप्स को ११८ रन पर बोल्ड कर हेनरी निकोल्स के साथ उनकी २१६ रन की छठे विकेट की साझेदारी तोड़ दी, जिसने न्यूज़ीलैंड को ७०/५ से २८६/६ तक पहुँचाया था।"
-   },
    "en": {
     "title": "Akash Deep breaks the 216-run stand as Glenn Phillips falls for 118 in Wellington",
     "summary": "Akash Deep bowled Glenn Phillips for 118 on the second morning in Wellington, ending a 216-run sixth-wicket stand with Henry Nicholls that had carried New Zealand from 70 for 5 to 286 for 6 in the first Test against India."
+   },
+   "hi": {
+    "title": "आकाश दीप ने तोड़ा २१६ रन का साझा, ग्लेन फ़िलिप्स ११८ पर बोल्ड",
+    "summary": "वेलिंग्टन में दूसरे दिन की सुबह आकाश दीप ने ग्लेन फ़िलिप्स को ११८ रन पर बोल्ड कर हेनरी निकोल्स के साथ उनकी २१६ रन की छठे विकेट की साझेदारी तोड़ दी, जिसने न्यूज़ीलैंड को ७०/५ से २८६/६ तक पहुँचाया था।"
    }
   },
   {
@@ -827,13 +871,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20-en.mp3",
-   "hi": {
-    "title": "चक्रवात अकवान: ओडिशा में तीन लाख लोगों को सुरक्षित जगहों पर पहुँचाया गया, शुक्रवार दोपहर तट से टकराएगा तूफ़ान",
-    "summary": "ओडिशा ने भीषण चक्रवाती तूफ़ान अकवान के पुरी और गोपालपुर के बीच तट से टकराने से पहले २,९८,६७६ लोगों को २,५२३ राहत शिविरों में पहुँचा दिया है और ४२३ बचाव दल तैनात किए हैं। शुक्रवार दोपहर के आसपास तूफ़ान के टकराने का अनुमान है, हवा की रफ़्तार ९० से १०० किलोमीटर प्रति घंटा रहेगी।"
-   },
    "en": {
     "title": "Cyclone Akvan: nearly 3 lakh evacuated in Odisha as storm closes in for Friday noon landfall",
     "summary": "Odisha has moved 2,98,676 people to 2,523 relief camps and deployed 423 rescue teams as Severe Cyclonic Storm Akvan closes in on the coast between Puri and Gopalpur, with landfall expected around noon on Friday and winds of 90-100 kmph, gusting to 110 kmph."
+   },
+   "hi": {
+    "title": "चक्रवात अकवान: ओडिशा में तीन लाख लोगों को सुरक्षित जगहों पर पहुँचाया गया, शुक्रवार दोपहर तट से टकराएगा तूफ़ान",
+    "summary": "ओडिशा ने भीषण चक्रवाती तूफ़ान अकवान के पुरी और गोपालपुर के बीच तट से टकराने से पहले २,९८,६७६ लोगों को २,५२३ राहत शिविरों में पहुँचा दिया है और ४२३ बचाव दल तैनात किए हैं। शुक्रवार दोपहर के आसपास तूफ़ान के टकराने का अनुमान है, हवा की रफ़्तार ९० से १०० किलोमीटर प्रति घंटा रहेगी।"
    }
   },
   {
@@ -848,13 +892,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-pushes-iran-war-decision-2027-january-1-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-pushes-iran-war-decision-2027-january-1-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-pushes-iran-war-decision-2027-january-1-november-20-en.mp3",
-   "hi": {
-    "title": "ट्रंप ने ईरान पर युद्ध का फ़ैसला २०२७ तक टाला: पहली जनवरी के बाद देखेंगे क्या होता है",
-    "summary": "अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि वह ईरान पर नए सिरे से बड़े हमले करने का फ़ैसला नए साल के बाद ही लेंगे। चीन में शी चिनफिंग और व्लादिमीर पुतिन के साथ त्रिपक्षीय शिखर सम्मेलन से लौटते समय उन्होंने रॉयटर्स से कहा कि वह इस बारे में नए साल की शुरुआत के बाद बात करेंगे।"
-   },
    "en": {
     "title": "Trump pushes Iran war decision into 2027: We will see what happens after January 1",
     "summary": "President Donald Trump has said he will not decide on renewed major strikes against Iran until after the new year, telling Reuters he will talk about it after the beginning of the year as he flew home from his trilateral summit with Xi Jinping and Vladimir Putin in China."
+   },
+   "hi": {
+    "title": "ट्रंप ने ईरान पर युद्ध का फ़ैसला २०२७ तक टाला: पहली जनवरी के बाद देखेंगे क्या होता है",
+    "summary": "अमेरिकी राष्ट्रपति डॉनल्ड ट्रंप ने कहा है कि वह ईरान पर नए सिरे से बड़े हमले करने का फ़ैसला नए साल के बाद ही लेंगे। चीन में शी चिनफिंग और व्लादिमीर पुतिन के साथ त्रिपक्षीय शिखर सम्मेलन से लौटते समय उन्होंने रॉयटर्स से कहा कि वह इस बारे में नए साल की शुरुआत के बाद बात करेंगे।"
    }
   },
   {
@@ -869,13 +913,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/glenn-phillips-century-new-zealand-272-5-day-2-wellington-test-november-20-en.mp3",
-   "hi": {
-    "title": "ग्लेन फ़िलिप्स का दूसरा टेस्ट शतक, वेलिंग्टन में दूसरे दिन न्यूज़ीलैंड २७२/५",
-    "summary": "ग्लेन फ़िलिप्स ने बेसिन रिज़र्व में दूसरे दिन की सुबह की शुरुआत में ही अपना दूसरा टेस्ट शतक पूरा कर लिया। उन्होंने १९३ गेंदों में शतक लगाया और न्यूज़ीलैंड रात के २४३/५ से बढ़कर २७२/५ पर पहुँच गया। हेनरी निकोल्स १२४ रन पर नाबाद हैं और दोनों की छठे विकेट की साझेदारी २०० रन पार कर चुकी है।"
-   },
    "en": {
     "title": "Glenn Phillips brings up his second Test hundred as New Zealand stretch to 272 for 5 on day two in Wellington",
     "summary": "Glenn Phillips completed his second Test hundred early on the second morning at the Basin Reserve, reaching the mark in 193 balls as New Zealand moved from 243 for 5 overnight to 272 for 5, with Henry Nicholls unbeaten on 124 in a sixth-wicket stand now past 200."
+   },
+   "hi": {
+    "title": "ग्लेन फ़िलिप्स का दूसरा टेस्ट शतक, वेलिंग्टन में दूसरे दिन न्यूज़ीलैंड २७२/५",
+    "summary": "ग्लेन फ़िलिप्स ने बेसिन रिज़र्व में दूसरे दिन की सुबह की शुरुआत में ही अपना दूसरा टेस्ट शतक पूरा कर लिया। उन्होंने १९३ गेंदों में शतक लगाया और न्यूज़ीलैंड रात के २४३/५ से बढ़कर २७२/५ पर पहुँच गया। हेनरी निकोल्स १२४ रन पर नाबाद हैं और दोनों की छठे विकेट की साझेदारी २०० रन पार कर चुकी है।"
    }
   },
   {
@@ -890,16 +934,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cisf-foils-airport-security-breaches-delhi-jaipur-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cisf-foils-airport-security-breaches-delhi-jaipur-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cisf-foils-airport-security-breaches-delhi-jaipur-november-19-en.mp3",
-   "district": "New Delhi",
-   "state": "Delhi",
+   "en": {
+    "title": "CISF foils two airport security breaches in a day: man forces way into Delhi's Terminal 3, another scales Jaipur airport wall",
+    "summary": "CISF personnel stopped two airport security breaches within a day: a Haryana athlete who tried to force his way into Terminal 3 of Delhi's IGI Airport on Wednesday, and a man who scaled the boundary wall of Jaipur airport on Tuesday night. Both were handed to police and cases registered."
+   },
    "hi": {
     "title": "दिल्ली हवाई अड्डे के टर्मिनल ३ में ज़बरदस्ती घुसने की कोशिश नाकाम, जयपुर में दीवार फाँदकर घुसा व्यक्ति भी पकड़ा",
     "summary": "सीआईएसएफ़ के जवानों ने एक दिन के भीतर हवाई अड्डों पर सुरक्षा में सेंध लगाने की दो कोशिशें नाकाम कर दीं। दिल्ली के आईजीआई हवाई अड्डे के टर्मिनल ३ में बिना दस्तावेज़ घुसने की कोशिश कर रहे हरियाणा के एथलीट और जयपुर हवाई अड्डे की दीवार फाँदने वाले व्यक्ति को पुलिस को सौंप दिया गया है।"
    },
-   "en": {
-    "title": "CISF foils two airport security breaches in a day: man forces way into Delhi's Terminal 3, another scales Jaipur airport wall",
-    "summary": "CISF personnel stopped two airport security breaches within a day: a Haryana athlete who tried to force his way into Terminal 3 of Delhi's IGI Airport on Wednesday, and a man who scaled the boundary wall of Jaipur airport on Tuesday night. Both were handed to police and cases registered."
-   }
+   "district": "New Delhi",
+   "state": "Delhi"
   },
   {
    "id": "hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19",
@@ -913,13 +957,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hafizuddin-roslin-loses-arm-motorcycle-crash-malaysia-november-19-en.mp3",
-   "hi": {
-    "title": "राष्ट्रमंडल खेलों के स्वर्ण पदक विजेता हाफ़िज़ुद्दीन रोसलिन का मोटरसाइकिल हादसे में दाहिना हाथ कटा",
-    "summary": "मलेशिया के भारोत्तोलक मोहम्मद हाफ़िज़ुद्दीन रोसलिन का सोलह नवंबर के मोटरसाइकिल हादसे के बाद दाहिना हाथ कोहनी के ऊपर से काटना पड़ा। ग्लासगो में अठासी किलोग्राम वर्ग में स्वर्ण जीतने वाले इक्कीस वर्षीय रोसलिन अस्पताल में स्थिर हैं।"
-   },
    "en": {
     "title": "Commonwealth Games gold medallist Hafizuddin Roslin loses right arm in motorcycle crash",
     "summary": "Malaysian weightlifter Mohd Hafizuddin Roslin, who won Commonwealth Games gold in the men's 88kg event in Glasgow in July, has had his right arm amputated above the elbow after a motorcycle crash on November 16. The 21-year-old is conscious and stable in hospital in Kuala Lumpur."
+   },
+   "hi": {
+    "title": "राष्ट्रमंडल खेलों के स्वर्ण पदक विजेता हाफ़िज़ुद्दीन रोसलिन का मोटरसाइकिल हादसे में दाहिना हाथ कटा",
+    "summary": "मलेशिया के भारोत्तोलक मोहम्मद हाफ़िज़ुद्दीन रोसलिन का सोलह नवंबर के मोटरसाइकिल हादसे के बाद दाहिना हाथ कोहनी के ऊपर से काटना पड़ा। ग्लासगो में अठासी किलोग्राम वर्ग में स्वर्ण जीतने वाले इक्कीस वर्षीय रोसलिन अस्पताल में स्थिर हैं।"
    }
   },
   {
@@ -934,13 +978,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indian-firms-record-20-5-billion-us-investment-highest-any-country-november-19-en.mp3",
-   "hi": {
-    "title": "अमेरिका में भारतीय कंपनियों का रिकॉर्ड निवेश, बीस अरब डॉलर से ज़्यादा की घोषणा",
-    "summary": "भारतीय कंपनियों ने इस साल अमेरिका में बीस अरब डॉलर से ज़्यादा के नए निवेश की घोषणा की है। अमेरिकी दूतावास के अधिकारी जॉन कोरोनाडो ने कहा कि यह किसी भी देश की ओर से सबसे बड़ी प्रतिबद्धता है। दवा क्षेत्र का हिस्सा सबसे बड़ा है।"
-   },
    "en": {
     "title": "Indian firms announce record $20.5 billion investment in US, highest from any country",
     "summary": "Indian companies have announced a record $20.5 billion in new investments in the United States this year, the highest from any country, a senior American diplomat said on Thursday. Pharmaceuticals account for more than $19.1 billion of the total."
+   },
+   "hi": {
+    "title": "अमेरिका में भारतीय कंपनियों का रिकॉर्ड निवेश, बीस अरब डॉलर से ज़्यादा की घोषणा",
+    "summary": "भारतीय कंपनियों ने इस साल अमेरिका में बीस अरब डॉलर से ज़्यादा के नए निवेश की घोषणा की है। अमेरिकी दूतावास के अधिकारी जॉन कोरोनाडो ने कहा कि यह किसी भी देश की ओर से सबसे बड़ी प्रतिबद्धता है। दवा क्षेत्र का हिस्सा सबसे बड़ा है।"
    }
   },
   {
@@ -955,13 +999,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-60-days-oil-gas-supplies-hormuz-crisis-lpg-57-percent-puri-november-19-en.mp3",
-   "hi": {
-    "title": "होर्मुज़ संकट में भी भारत के पास था साठ दिन का तेल-गैस भंडार, एलपीजी उत्पादन सत्तावन प्रतिशत बढ़ाया",
-    "summary": "पेट्रोलियम मंत्री हरदीप सिंह पुरी ने कहा कि होर्मुज़ संकट के दौरान आयात और घरेलू उत्पादन रुकने पर भी भारत के पास कच्चे तेल और गैस का साठ दिन का भंडार था। एलपीजी का भंडार एक समय पच्चीस दिन का रह गया था, जिसके बाद घरेलू उत्पादन सत्तावन प्रतिशत बढ़ाया गया।"
-   },
    "en": {
     "title": "India had 60 days of oil and gas supplies during Hormuz crisis, raised LPG output by 57%: Puri",
     "summary": "Petroleum Minister Hardeep Singh Puri said India had enough crude oil and natural gas to last 60 days even if imports and domestic production had stopped during the Strait of Hormuz crisis. LPG stocks fell to 25 days at one point, prompting a 57% rise in domestic output."
+   },
+   "hi": {
+    "title": "होर्मुज़ संकट में भी भारत के पास था साठ दिन का तेल-गैस भंडार, एलपीजी उत्पादन सत्तावन प्रतिशत बढ़ाया",
+    "summary": "पेट्रोलियम मंत्री हरदीप सिंह पुरी ने कहा कि होर्मुज़ संकट के दौरान आयात और घरेलू उत्पादन रुकने पर भी भारत के पास कच्चे तेल और गैस का साठ दिन का भंडार था। एलपीजी का भंडार एक समय पच्चीस दिन का रह गया था, जिसके बाद घरेलू उत्पादन सत्तावन प्रतिशत बढ़ाया गया।"
    }
   },
   {
@@ -976,13 +1020,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/punjab-haryana-hc-stays-pcs-recruitment-irregularities-november-19-en.mp3",
-   "hi": {
-    "title": "पंजाब और हरियाणा हाईकोर्ट ने पीसीएस भर्ती पर लगाई रोक, सात सौ इक्यावन उम्मीदवारों का भविष्य अधर में",
-    "summary": "पंजाब और हरियाणा हाईकोर्ट ने गुरुवार को पंजाब सिविल सेवा भर्ती प्रक्रिया पर रोक लगा दी। चार नवंबर के मुख्य परीक्षा नतीजे को चुनौती देने वाली याचिकाओं पर न्यायमूर्ति संदीप मौदगिल ने सोलह दिसंबर की अगली सुनवाई तय की है।"
-   },
    "en": {
     "title": "Punjab and Haryana High Court stays PCS recruitment over alleged irregularities; 751 shortlisted candidates wait",
     "summary": "The Punjab and Haryana High Court on Thursday stayed the Punjab Civil Services recruitment after candidates challenged the November 4 Mains result, alleging irregularities in the shortlist. Justice Sandeep Moudgil fixed December 16 as the next hearing; the 751 shortlisted candidates must wait."
+   },
+   "hi": {
+    "title": "पंजाब और हरियाणा हाईकोर्ट ने पीसीएस भर्ती पर लगाई रोक, सात सौ इक्यावन उम्मीदवारों का भविष्य अधर में",
+    "summary": "पंजाब और हरियाणा हाईकोर्ट ने गुरुवार को पंजाब सिविल सेवा भर्ती प्रक्रिया पर रोक लगा दी। चार नवंबर के मुख्य परीक्षा नतीजे को चुनौती देने वाली याचिकाओं पर न्यायमूर्ति संदीप मौदगिल ने सोलह दिसंबर की अगली सुनवाई तय की है।"
    }
   },
   {
@@ -997,13 +1041,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-court-orders-summons-doval-goel-delhi-courts-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-orders-summons-doval-goel-delhi-courts-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-orders-summons-doval-goel-delhi-courts-november-19-en.mp3",
-   "hi": {
-    "title": "अमेरिकी अदालत का आदेश: डोभाल और गोयल को समन दिल्ली की अदालतों के ज़रिए भेजे जाएँगे",
-    "summary": "अमेरिका की एक संघीय अदालत ने गुरपतवंत सिंह पन्नून के दीवानी मुकदमे में अजित डोभाल और सामंत गोयल को समन दिल्ली की तीन ज़िला अदालतों के ज़रिए भेजने का आदेश दिया है। तेरह नवंबर का यह आदेश गुरुवार को सामने आया।"
-   },
    "en": {
     "title": "US court orders summonses for Ajit Doval and Samant Goel to be delivered through Delhi courts",
     "summary": "A US federal court has ordered summonses for NSA Ajit Doval and former RAW chief Samant Goel to be delivered through three Delhi district courts in Gurpatwant Singh Pannun's civil lawsuit. The November 13 order, reported on Thursday, relies on the Hague Convention after the standard service route was rejected."
+   },
+   "hi": {
+    "title": "अमेरिकी अदालत का आदेश: डोभाल और गोयल को समन दिल्ली की अदालतों के ज़रिए भेजे जाएँगे",
+    "summary": "अमेरिका की एक संघीय अदालत ने गुरपतवंत सिंह पन्नून के दीवानी मुकदमे में अजित डोभाल और सामंत गोयल को समन दिल्ली की तीन ज़िला अदालतों के ज़रिए भेजने का आदेश दिया है। तेरह नवंबर का यह आदेश गुरुवार को सामने आया।"
    }
   },
   {
@@ -1186,8 +1230,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
    "hi": {
     "title": "आज गोंडा आएँगे सीएम योगी, जयप्रभा में रामकथा में होंगे शामिल; सुरक्षा के लिए दो हज़ार तीन सौ पुलिसकर्मी तैनात",
     "summary": "मुख्यमंत्री योगी आदित्यनाथ आज शुक्रवार को गोंडा के जयप्रभा ग्राम में चल रही नौ दिवसीय श्रीराम कथा में शामिल होंगे। दौरे को लेकर सुरक्षा के कड़े इंतजाम किए गए हैं — स्थल को पाँच ज़ोन और तीस सेक्टर में बाँटा गया है।"
@@ -1195,7 +1237,9 @@
    "en": {
     "title": "CM Yogi to attend Ram Katha in Gonda's Jaiprabha village today; 2,300 police personnel deployed for security",
     "summary": "Uttar Pradesh Chief Minister Yogi Adityanath will attend the nine-day Shri Ram Katha at Jaiprabha village in Gonda on Friday. Security has been tightened for the visit — the venue has been divided into five zones and 30 sectors, with 2,300 police personnel deployed."
-   }
+   },
+   "district": "Gonda",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "india-beat-pakistan-2-1-saff-championship-final-record-10th-title-november-17",
@@ -1209,13 +1253,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-pakistan-2-1-saff-championship-final-record-10th-title-november-17.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-pakistan-2-1-saff-championship-final-record-10th-title-november-17-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-pakistan-2-1-saff-championship-final-record-10th-title-november-17-en.mp3",
-   "hi": {
-    "title": "भारत ने पाकिस्तान को दो-एक से हराकर दसवाँ सैफ़ चैंपियनशिप खिताब जीता",
-    "summary": "भारत ने मंगलवार को ढाका में सैफ़ चैंपियनशिप के फ़ाइनल में पाकिस्तान को दो-एक से हराकर खिताब जीत लिया। सुहैल अहमद भट्ट और संदीप मंडी ने दूसरे हाफ़ में गोल किए। यह भारत का रिकॉर्ड दसवाँ खिताब है और लगातार तीसरी जीत है।"
-   },
    "en": {
     "title": "India fight back to beat Pakistan 2-1 and lift a record 10th SAFF Championship title",
     "summary": "India came from a goal down to beat Pakistan 2-1 in the SAFF Championship final in Dhaka on Tuesday, with Suhail Ahmad Bhat and Sandip Mandi scoring after the break. It is India's record-extending 10th title and a third in a row."
+   },
+   "hi": {
+    "title": "भारत ने पाकिस्तान को दो-एक से हराकर दसवाँ सैफ़ चैंपियनशिप खिताब जीता",
+    "summary": "भारत ने मंगलवार को ढाका में सैफ़ चैंपियनशिप के फ़ाइनल में पाकिस्तान को दो-एक से हराकर खिताब जीत लिया। सुहैल अहमद भट्ट और संदीप मंडी ने दूसरे हाफ़ में गोल किए। यह भारत का रिकॉर्ड दसवाँ खिताब है और लगातार तीसरी जीत है।"
    }
   },
   {
@@ -1230,8 +1274,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-kottiyam-school-62-students-hospitalised-tar-plant-fumes-november-19-en.mp3",
-   "district": "Kollam",
-   "state": "Kerala",
    "hi": {
     "title": "कोट्टियम में तारकोल प्लांट के धुएँ से बासठ स्कूली बच्चे बीमार, अस्पताल में भर्ती; मानवाधिकार आयोग ने लिया संज्ञान",
     "summary": "कोल्लम जिले के कोट्टियम में ऑक्ज़िलियम स्कूल के बासठ बच्चे बुधवार को अचानक बीमार पड़ गए। बच्चों को साँस लेने में तकलीफ़, उल्टी और चक्कर की शिकायत हुई। सभी बच्चे स्थिर हैं और प्लांट को फिर से बंद कर दिया गया है।"
@@ -1239,7 +1281,9 @@
    "en": {
     "title": "62 schoolchildren hospitalised in Kerala after fumes from tar plant drift into classrooms",
     "summary": "Sixty-two students of Auxilium School in Kottiyam, Kollam district, were taken to hospital on Wednesday after complaining of breathlessness, nausea and vomiting. All are stable. The nearby tar-mixing unit has been shut again, and the state human rights commission has ordered an inquiry."
-   }
+   },
+   "district": "Kollam",
+   "state": "Kerala"
   },
   {
    "id": "india-beat-new-zealand-3-2-hockey-series-opener-auckland-november-19",
@@ -1421,8 +1465,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-stf-seizes-10-72-kg-heroin-85-crore-amingaon-november-19-en.mp3",
-   "district": "Kamrup",
-   "state": "Assam",
    "hi": {
     "title": "असम में बड़ी कार्रवाई: कामरूप में दस दशमलव सात दो किलो हेरोइन बरामद, पचासी करोड़ का माल, दो कथित तस्कर गिरफ्तार",
     "summary": "असम पुलिस की एसटीएफ़ ने कामरूप जिले के अमीनगांव में एक काली फ़ोर्ड एंडेवर से दस दशमलव सात दो किलोग्राम हेरोइन बरामद की है, जिसकी कीमत लगभग पचासी करोड़ रुपये बताई गई है। दो कथित तस्करों को गिरफ्तार किया गया है।"
@@ -1430,7 +1472,9 @@
    "en": {
     "title": "Assam STF seizes 10.72 kg heroin worth Rs 85 crore in Kamrup, two alleged traffickers arrested",
     "summary": "The Assam Police Special Task Force has seized 10.72 kg of heroin, estimated to be worth around Rs 85 crore, from a black Ford Endeavour at Amingaon in Kamrup district. Two alleged traffickers have been arrested."
-   }
+   },
+   "district": "Kamrup",
+   "state": "Assam"
   },
   {
    "id": "indonesia-passes-asset-forfeiture-law-18-years-november-19",
@@ -1486,8 +1530,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19-en.mp3",
-   "district": "Ujjain",
-   "state": "Madhya Pradesh",
    "hi": {
     "title": "तकिया मस्जिद मामला: सुप्रीम कोर्ट ने पुनर्विचार याचिका खारिज की, महाकाल परिसर के पास ध्वस्त मस्जिद पर पहले का आदेश बरकरार",
     "summary": "सुप्रीम कोर्ट ने उज्जैन की तकिया मस्जिद के ध्वस्तीकरण को चुनौती देने वाली याचिका पर अपने पहले के फ़ैसले पर पुनर्विचार से इनकार कर दिया है। जस्टिस विक्रम नाथ और जस्टिस संदीप मेहता की पीठ ने कहा कि सात नवंबर दो हज़ार पच्चीस के आदेश में कोई स्पष्ट त्रुटि नहीं दिखती।"
@@ -1495,7 +1537,9 @@
    "en": {
     "title": "Takiya Masjid case: Supreme Court rejects review plea, upholds earlier order on Ujjain mosque demolition",
     "summary": "The Supreme Court has refused to reconsider its earlier decision dismissing a challenge to the demolition of Takiya Masjid in Ujjain. Justices Vikram Nath and Sandeep Mehta found no apparent error in the November 7, 2025 order and also rejected the request for an open-court hearing."
-   }
+   },
+   "district": "Ujjain",
+   "state": "Madhya Pradesh"
   },
   {
    "id": "delhi-hc-no-interim-relief-service-charge-restaurants-november-19",
@@ -1551,8 +1595,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
    "hi": {
     "title": "सैफ़ अली ख़ान को बाबा सिद्दीकी हत्याकांड के आरोपी के नाम पर जान से मारने की धमकी, मुंबई पुलिस जाँच में जुटी",
     "summary": "बॉलीवुड अभिनेता सैफ़ अली ख़ान को बाबा सिद्दीकी हत्याकांड के वांछित आरोपी ज़ीशान अख़्तर के नाम पर जान से मारने की धमकी मिली है। मुंबई पुलिस धमकी की सच्चाई और उसके स्रोत की जाँच कर रही है।"
@@ -1560,7 +1602,9 @@
    "en": {
     "title": "Saif Ali Khan gets death threat in name of Baba Siddique murder accused; Mumbai Police probe AI angle",
     "summary": "Bollywood actor Saif Ali Khan has received a death threat in the name of Zeeshan Akhtar, a wanted accused in the Baba Siddique murder case. Mumbai Police are investigating the message and verifying whether it genuinely came from Akhtar or an impersonator."
-   }
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
   },
   {
    "id": "selim-hossen-detained-west-bengal-bagdogra-recce-november-19",
@@ -1639,8 +1683,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19-en.mp3",
-   "district": "Panchkula",
-   "state": "Haryana",
    "hi": {
     "title": "पंचकूला में सीजीएसटी अधीक्षक दस लाख रुपये की रिश्वत लेते रंगे हाथ पकड़ा, सीबीआई ने किया गिरफ्तार",
     "summary": "सीबीआई ने पंचकूला में तैनात सीजीएसटी अधीक्षक लवकुश कुमार को एक निजी कंपनी से दस लाख रुपये की रिश्वत लेते हुए रंगे हाथ पकड़ा है। आरोप है कि अधिकारी ने जीएसटी कार्यवाही में राहत के बदले पचास लाख रुपये माँगे थे।"
@@ -1648,7 +1690,9 @@
    "en": {
     "title": "CBI arrests Panchkula CGST superintendent caught taking Rs 10 lakh bribe",
     "summary": "The CBI has arrested CGST Superintendent Luvkush Kumar, posted in Panchkula, after catching him red-handed while allegedly accepting a bribe of Rs 10 lakh from a private firm. He is accused of demanding Rs 50 lakh for favours in GST proceedings."
-   }
+   },
+   "district": "Panchkula",
+   "state": "Haryana"
   },
   {
    "id": "indian-man-tushar-sharma-found-dead-burning-car-canada-targeted-killing-november-19",
@@ -2052,16 +2096,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/azam-khan-released-interim-bail-rampur-revolution-not-election-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/azam-khan-released-interim-bail-rampur-revolution-not-election-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/azam-khan-released-interim-bail-rampur-revolution-not-election-november-19-en.mp3",
-   "district": "Rampur",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "Azam Khan walks out of jail, calls UP polls 'a revolution, not an election'",
+    "summary": "Samajwadi Party leader Azam Khan, released from Ghaziabad's Dasna jail on interim bail in a money-laundering case, reached Rampur late on Wednesday night and described the Uttar Pradesh Assembly elections due in 2027 as a revolution, not an election. The Supreme Court on Thursday dismissed the Enforcement Directorate's plea challenging his bail."
+   },
    "hi": {
     "title": "आज़म ख़ान जेल से बाहर आए, यूपी चुनाव को बताया ‘चुनाव नहीं, इंकलाब’",
     "summary": "धन शोधन के एक मामले में अंतरिम ज़मानत पर ग़ाज़ियाबाद की दसना जेल से रिहा हुए समाजवादी पार्टी के नेता आज़म ख़ान बुधवार रात देर से रामपुर पहुँचे और दो हज़ार सत्ताईस में होने वाले उत्तर प्रदेश विधानसभा चुनाव को चुनाव नहीं, इंकलाब बताया। गुरुवार को सर्वोच्च न्यायालय ने उनकी ज़मानत को चुनौती देने वाली प्रवर्तन निदेशालय की याचिका ख़ारिज कर दी।"
    },
-   "en": {
-    "title": "Azam Khan walks out of jail, calls UP polls 'a revolution, not an election'",
-    "summary": "Samajwadi Party leader Azam Khan, released from Ghaziabad's Dasna jail on interim bail in a money-laundering case, reached Rampur late on Wednesday night and described the Uttar Pradesh Assembly elections due in 2027 as a revolution, not an election. The Supreme Court on Thursday dismissed the Enforcement Directorate's plea challenging his bail."
-   }
+   "district": "Rampur",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "puc-certificate-validity-revised-bs-vi-three-year-november-19",
@@ -2075,13 +2119,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/puc-certificate-validity-revised-bs-vi-three-year-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puc-certificate-validity-revised-bs-vi-three-year-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puc-certificate-validity-revised-bs-vi-three-year-november-19-en.mp3",
-   "hi": {
-    "title": "नए पीयूसी नियम: छह साल तक के बीएस-छह निजी वाहनों को तीन साल का प्रमाणपत्र",
-    "summary": "केंद्र सरकार ने प्रदूषण नियंत्रण प्रमाणपत्र की वैधता की अवधि बदल दी है। छह साल तक के निजी बीएस-छह वाहनों को अब तीन साल का प्रमाणपत्र मिलेगा, जबकि पुराने वाहनों के लिए नवीनीकरण का चक्र छोटा ही रहेगा। तेरह नवंबर को अधिसूचित ये बदलाव उन्नीस नवंबर से लागू हो गए।"
-   },
    "en": {
     "title": "New PUC rules: BS-VI private vehicles up to six years old get three-year certificates",
     "summary": "The Centre has revised Pollution Under Control certificate validity periods, giving private BS-VI vehicles up to six years old a three-year certificate, while older vehicles keep shorter renewal cycles. The changes, notified on November 13, came into force on November 19."
+   },
+   "hi": {
+    "title": "नए पीयूसी नियम: छह साल तक के बीएस-छह निजी वाहनों को तीन साल का प्रमाणपत्र",
+    "summary": "केंद्र सरकार ने प्रदूषण नियंत्रण प्रमाणपत्र की वैधता की अवधि बदल दी है। छह साल तक के निजी बीएस-छह वाहनों को अब तीन साल का प्रमाणपत्र मिलेगा, जबकि पुराने वाहनों के लिए नवीनीकरण का चक्र छोटा ही रहेगा। तेरह नवंबर को अधिसूचित ये बदलाव उन्नीस नवंबर से लागू हो गए।"
    }
   },
   {
@@ -2270,8 +2314,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anantapur-bus-overturns-40-injured-raptadu-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anantapur-bus-overturns-40-injured-raptadu-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anantapur-bus-overturns-40-injured-raptadu-november-19-en.mp3",
-   "district": "Anantapur",
-   "state": "Andhra Pradesh",
    "hi": {
     "title": "अनंतपुर के पास बेंगलुरु–हैदराबाद बस पलटी, चालीस यात्री घायल; चालक के नींद में होने की आशंका",
     "summary": "आंध्र प्रदेश के अनंतपुर ज़िले में गुरुवार तड़के बेंगलुरु से हैदराबाद जा रही एक निजी बस के पलट जाने से कम से कम चालीस यात्री घायल हो गए। सभी की हालत स्थिर बताई जा रही है। पुलिस को आशंका है कि चालक को गाड़ी चलाते समय नींद आ गई थी, और हादसे के बाद वह मौके से फ़रार हो गया।"
@@ -2279,7 +2321,9 @@
    "en": {
     "title": "Bengaluru-Hyderabad bus overturns near Raptadu in Anantapur, at least 40 injured; driver suspected to have dozed off",
     "summary": "At least 40 passengers were injured when a private bus travelling from Bengaluru to Hyderabad overturned near Raptadu in Andhra Pradesh's Anantapur district early on Thursday. Officials said all the injured are stable. Police suspect the driver dozed off at the wheel and fled the spot after the accident."
-   }
+   },
+   "district": "Anantapur",
+   "state": "Andhra Pradesh"
   },
   {
    "id": "upi-mdr-delay-paytm-shares-plunge-november-19",
@@ -2314,8 +2358,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gondia-varsha-turkar-murder-case-cracked-13-lakh-contract-november-19-en.mp3",
-   "district": "Gondia",
-   "state": "Maharashtra",
    "hi": {
     "title": "गोंदिया में वर्षा तुर्कर हत्याकांड का खुलासा: पत्नी ने पति की दोस्त की हत्या के लिए तेरह लाख की सुपारी दी, चार गिरफ़्तार",
     "summary": "गोंदिया पुलिस ने इंडिगो कर्मचारी वर्षा तुर्कर की हत्या के मामले का गुरुवार को खुलासा कर दिया। पुलिस के मुताबिक हत्या की साज़िश मृतका के दोस्त की पत्नी ने रची थी, जिसने कथित तौर पर तेरह लाख रुपये की सुपारी देकर हत्या करवाई। चार आरोपियों को गिरफ़्तार किया गया है, जबकि दो अब भी फ़रार हैं।"
@@ -2323,7 +2365,9 @@
    "en": {
     "title": "Gondia police crack Varsha Turkar murder: wife allegedly paid Rs 13 lakh contract to kill husband's friend, four arrested",
     "summary": "Gondia police on Thursday said they have cracked the murder of IndiGo employee Varsha Turkar, whose body was found in the Bondrani forest last week. Police said the murder was allegedly plotted by the wife of the victim's friend, who is accused of paying Rs 13 lakh to have her killed. Four people have been arrested, while two others are still absconding."
-   }
+   },
+   "district": "Gondia",
+   "state": "Maharashtra"
   },
   {
    "id": "modi-questions-india-inc-jobs-wages-tax-cuts-ficci-november-19",
@@ -2358,8 +2402,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/polavaram-maoist-explosives-dump-670-bgl-shells-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/polavaram-maoist-explosives-dump-670-bgl-shells-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/polavaram-maoist-explosives-dump-670-bgl-shells-november-19-en.mp3",
-   "district": "Polavaram",
-   "state": "Andhra Pradesh",
    "hi": {
     "title": "पोलावरम में माओवादियों का बड़ा विस्फोटक भंडार बरामद: छह सौ सत्तर ज़िंदा बीजीएल शेल, डेटोनेटर और दवाइयाँ मिलीं",
     "summary": "आंध्र प्रदेश पुलिस और सीआरपीएफ़ ने बुधवार को आंध्र प्रदेश-छत्तीसगढ़ सीमा के पास पोलावरम ज़िले के रामपाचोड़ावरम के जंगलों में माओवादियों का छिपाया हुआ बड़ा विस्फोटक भंडार बरामद किया। इसमें छह सौ सत्तर ज़िंदा बीजीएल शेल, बयालीस डेटोनेटर, बारूद, कॉर्डेक्स और दवाइयाँ शामिल हैं।"
@@ -2367,7 +2409,9 @@
    "en": {
     "title": "Polavaram police unearth Maoist explosives dump: 670 live BGL shells, detonators and medicines seized",
     "summary": "Andhra Pradesh Police and the CRPF on Wednesday unearthed a large Maoist explosives dump hidden in the forests of Rampachodavaram in Polavaram district, near the Andhra Pradesh-Chhattisgarh border. The haul included 670 live BGL shells, 42 detonators, gunpowder, Cordex and medicines."
-   }
+   },
+   "district": "Polavaram",
+   "state": "Andhra Pradesh"
   },
   {
    "id": "anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19",
@@ -2402,8 +2446,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mahua-moitra-convoy-attacked-nadia-stones-eggs-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahua-moitra-convoy-attacked-nadia-stones-eggs-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahua-moitra-convoy-attacked-nadia-stones-eggs-november-19-en.mp3",
-   "district": "Nadia",
-   "state": "West Bengal",
    "hi": {
     "title": "महुआ मोइत्रा का आरोप: नादिया में काफ़िले पर पत्थर, अंडे और डंडे; पुलिस पर कोर्ट के आदेश के बावजूद सुरक्षा न देने का आरोप",
     "summary": "तृणमूल सांसद महुआ मोइत्रा ने आरोप लगाया है कि गुरुवार को पश्चिम बंगाल के नादिया ज़िले के कालीगंज में उनके काफ़िले पर भाजपा समर्थकों ने पत्थर, अंडे और डंडे बरसाए। उन्होंने कहा कि कलकत्ता हाई कोर्ट के आदेश के बावजूद पुलिस ने उनकी सुरक्षा नहीं की।"
@@ -2411,7 +2453,9 @@
    "en": {
     "title": "Mahua Moitra alleges stones, eggs and sticks hurled at her convoy in Nadia; accuses police of failing her despite court order",
     "summary": "Trinamool MP Mahua Moitra has alleged that BJP supporters attacked her car and convoy with stones, eggs and sticks at Kaliganj in West Bengal's Nadia district on Thursday, and accused the state police of failing to protect her despite a Calcutta High Court order."
-   }
+   },
+   "district": "Nadia",
+   "state": "West Bengal"
   },
   {
    "id": "one-blood-test-14-cancers-cancerspot-detects-72-percent-cases-november-19",
@@ -2551,8 +2595,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolishes-dawood-ibrahim-musafirkhana-bhendi-bazaar-november-19-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
    "hi": {
     "title": "दाऊद इब्राहिम के पुराने ठिकाने मुसाफिरखाना पर चला बीएमसी का बुलडोज़र, भारी पुलिस बल के बीच ध्वस्तीकरण शुरू",
     "summary": "मुंबई के भेंडी बाज़ार में दाऊद इब्राहिम के परिवार के पुराने ठिकाने हाजी इस्माइल हाजी हबीब मुसाफिरखाना का ध्वस्तीकरण गुरुवार को शुरू हो गया। बुधवार को स्थगन की माँगों के बीच रुका काम अब भारी पुलिस सुरक्षा में आगे बढ़ रहा है।"
@@ -2560,7 +2602,9 @@
    "en": {
     "title": "BMC begins demolishing Dawood Ibrahim's old Bhendi Bazaar base Musafirkhana amid heavy police security",
     "summary": "The Brihanmumbai Municipal Corporation on Thursday began demolishing the Haji Ismail Haji Habib Musafirkhana in Bhendi Bazaar, once home to Dawood Ibrahim's family. The work, stalled on Wednesday amid stay pleas over the ground-floor prayer hall, is now proceeding peacefully under heavy police deployment."
-   }
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
   },
   {
    "id": "icmr-antibiotic-resistance-report-2025-common-drugs-failing-november-19",
@@ -2595,13 +2639,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alia-bhatt-backs-deepika-padukone-8-hour-shift-demand-november-19-hi.mp3",
    "audioEn": null,
-   "hi": {
-    "title": "आलिया भट्ट ने दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया: ‘इस पर दोबारा सोचने की ज़रूरत है’",
-    "summary": "टाइम की पहली टाइम वन हंड्रेड नेक्स्ट इंडिया सूची की कवर स्टार आलिया भट्ट ने बॉलीवुड में दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया है। उन्होंने कहा कि इंडस्ट्री में पंद्रह से अठारह घंटे की शूटिंग की प्रथा पर दोबारा सोचने की ज़रूरत है, और काम के उचित घंटे किसी स्टार के रुतबे पर निर्भर नहीं होने चाहिए।"
-   },
    "en": {
     "title": "Alia Bhatt backs Deepika Padukone's 8-hour shift demand: 'This needs a rethink'",
     "summary": "Alia Bhatt, the cover star of TIME's first TIME 100 Next India list, has backed Deepika Padukone's demand for eight-hour shifts in Bollywood, saying the industry's practice of 15-to-18-hour shoots needs a rethink and fair working hours should not depend on a star's clout."
+   },
+   "hi": {
+    "title": "आलिया भट्ट ने दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया: ‘इस पर दोबारा सोचने की ज़रूरत है’",
+    "summary": "टाइम की पहली टाइम वन हंड्रेड नेक्स्ट इंडिया सूची की कवर स्टार आलिया भट्ट ने बॉलीवुड में दीपिका पादुकोण की आठ घंटे की शिफ्ट की माँग का समर्थन किया है। उन्होंने कहा कि इंडस्ट्री में पंद्रह से अठारह घंटे की शूटिंग की प्रथा पर दोबारा सोचने की ज़रूरत है, और काम के उचित घंटे किसी स्टार के रुतबे पर निर्भर नहीं होने चाहिए।"
    }
   },
   {
@@ -2616,13 +2660,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-kapoor-shah-rukh-khan-salman-sonu-sood-support-health-struggles-november-19-en.mp3",
-   "hi": {
-    "title": "शरद कपूर बोले, सेहत की परेशानियों के बीच शाहरुख़ ख़ान, सलमान ख़ान और सोनू सूद ने बढ़ाया मदद का हाथ",
-    "summary": "दस्तक और जोश जैसी फ़िल्मों के अभिनेता शरद कपूर ने कहा है कि मुश्किल दौर की वीडियो वायरल होने के बाद शाहरुख़ ख़ान, सलमान ख़ान, सोनू सूद, राजपाल यादव और जावेद अख़्तर ने उनसे संपर्क किया। उन्होंने बताया कि वह फ़िल्म निर्माताओं अहमद ख़ान और रोहित शेट्टी से नए प्रोजेक्ट्स पर बात कर रहे हैं और दो हज़ार सत्ताईस में वापसी की उम्मीद है।"
-   },
    "en": {
     "title": "Sharad Kapoor says Shah Rukh Khan, Salman Khan and Sonu Sood reached out amid his health struggles",
     "summary": "Actor Sharad Kapoor, known for films like Dastak and Josh, has said Shah Rukh Khan, Salman Khan, Sonu Sood, Rajpal Yadav and Javed Akhtar reached out to him after a video showing his difficult phase went viral, and that he is in talks with filmmakers Ahmed Khan and Rohit Shetty for a comeback in 2027."
+   },
+   "hi": {
+    "title": "शरद कपूर बोले, सेहत की परेशानियों के बीच शाहरुख़ ख़ान, सलमान ख़ान और सोनू सूद ने बढ़ाया मदद का हाथ",
+    "summary": "दस्तक और जोश जैसी फ़िल्मों के अभिनेता शरद कपूर ने कहा है कि मुश्किल दौर की वीडियो वायरल होने के बाद शाहरुख़ ख़ान, सलमान ख़ान, सोनू सूद, राजपाल यादव और जावेद अख़्तर ने उनसे संपर्क किया। उन्होंने बताया कि वह फ़िल्म निर्माताओं अहमद ख़ान और रोहित शेट्टी से नए प्रोजेक्ट्स पर बात कर रहे हैं और दो हज़ार सत्ताईस में वापसी की उम्मीद है।"
    }
   },
   {
@@ -2658,8 +2702,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/versova-nana-nani-park-tree-felling-protest-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/versova-nana-nani-park-tree-felling-protest-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/versova-nana-nani-park-tree-felling-protest-november-19-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
    "hi": {
     "title": "वर्सोवा के नाना नानी पार्क में पेड़ों की कटाई पर बवाल: चिपको-स्टाइल विरोध, चार लोग हिरासत में, दिया मिर्ज़ा बोलीं, दिल टूट गया",
     "summary": "मुंबई के वर्सोवा में नाना नानी पार्क में पेड़ों की कटाई शुरू होते ही विरोध भड़क उठा है। स्थानीय लोगों ने गुरुवार को चिपको-स्टाइल विरोध किया, चार लोगों को हिरासत में लिया गया, और दिया मिर्ज़ा समेत कई कलाकारों ने बीएमसी के इस कदम पर सवाल उठाए हैं।"
@@ -2667,7 +2709,9 @@
    "en": {
     "title": "Tree felling at Versova Nana Nani Park sparks Chipko-style protest, four detained; Dia Mirza says hearts have been ripped apart",
     "summary": "Tree felling at Nana Nani Park in Versova has triggered a wave of protest in Mumbai. Residents held a Chipko-style demonstration on Thursday, four people were detained, and actors including Dia Mirza have questioned the civic body over the cutting."
-   }
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
   },
   {
    "id": "gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19",
@@ -2681,8 +2725,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-kills-schoolboy-akhilesh-yadav-rally-november-19-en.mp3",
-   "district": "Gorakhpur",
-   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोरखपुर में अखिलेश यादव की रैली के दौरान फूल बरसाते बुलडोजर की चपेट में आकर छात्र की मौत",
     "summary": "गोरखपुर में अखिलेश यादव की पीडीए रथ यात्रा के दौरान फूल बरसाते बुलडोजर की चपेट में आकर दसवीं कक्षा के छात्र आर्यवर्धन सिंह की मौत हो गई। पुलिस ने बुलडोजर ज़ब्त कर लिया है और मुख्यमंत्री ने परिवार को पाँच लाख रुपये की सहायता की घोषणा की है।"
@@ -2690,7 +2732,9 @@
    "en": {
     "title": "Schoolboy killed by flower-showering bulldozer during Akhilesh Yadav roadshow in Gorakhpur",
     "summary": "A Class Ten student was killed in Gorakhpur after a bulldozer showering flower petals on the roadshow of Akhilesh Yadav hit him. Police have seized the vehicle, and the Chief Minister has announced five lakh rupees in assistance for the family."
-   }
+   },
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "betul-herbal-concoction-two-dead-five-ill-november-19",
@@ -2704,8 +2748,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/betul-herbal-concoction-two-dead-five-ill-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-en.mp3",
-   "district": "Betul",
-   "state": "Madhya Pradesh",
    "hi": {
     "title": "बैतूल में शराब छुड़ाने के नाम पर लाल तरल पदार्थ पीने से दो की मौत, पाँच अस्पताल में",
     "summary": "बैतूल ज़िले के पाठाखेड़ा गाँव में शराब छुड़ाने के नाम पर पिलाए गए लाल तरल पदार्थ से दो लोगों की मौत हो गई और पाँच की हालत गंभीर है। पुलिस ने तीन लोगों को गिरफ़्तार किया है और तरल पदार्थ की जाँच की जा रही है।"
@@ -2713,7 +2755,9 @@
    "en": {
     "title": "Two die, five fall ill after drinking red liquid offered as alcohol addiction cure in Betul",
     "summary": "Two men died and five others fell seriously ill in Betul district after drinking a red liquid offered as a herbal cure for alcohol addiction. Police have arrested three people and seized the liquid for testing."
-   }
+   },
+   "district": "Betul",
+   "state": "Madhya Pradesh"
   },
   {
    "id": "bumrah-overtakes-srinath-237-wickets-india-tenth-highest-test-november-19",
@@ -2748,8 +2792,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-lalbaug-poonam-park-fire-four-rescued-november-19-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
    "hi": {
     "title": "मुंबई के लालबाग में दसवीं मंज़िल के फ्लैट में आग, चार लोग सुरक्षित बाहर निकाले गए",
     "summary": "लालबाग की पूनम पार्क बिल्डिंग की दसवीं मंज़िल के फ्लैट में गुरुवार सुबह आग लग गई। दमकल कर्मियों ने तीन बच्चों और एक महिला को सुरक्षित बाहर निकाला, किसी के घायल होने की खबर नहीं है।"
@@ -2757,7 +2799,9 @@
    "en": {
     "title": "Fire breaks out in tenth-floor flat in Mumbai's Lalbaug, four people rescued",
     "summary": "A fire broke out in a tenth-floor flat of Poonam Park Building in Mumbai's Lalbaug on Thursday morning. Firefighters rescued four people, including three children, and no injuries were reported."
-   }
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
   },
   {
    "id": "shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19",
@@ -2855,13 +2899,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-ficci-centenary-convention-50-crore-poverty-7-percent-growth-november-19-en.mp3",
-   "hi": {
-    "title": "फ़िक्की के शताब्दी सम्मेलन में पीएम मोदी: बारह-तेरह साल में पचास करोड़ भारतीय ग़रीबी से बाहर, विकास दर सात प्रतिशत",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी ने भारत मंडपम में फ़िक्की के शताब्दी वर्ष के वार्षिक सम्मेलन का उद्घाटन किया। उन्होंने कहा कि भारत दुनिया की सबसे तेज़ी से बढ़ती बड़ी अर्थव्यवस्था है, विकास दर करीब सात प्रतिशत रहने का अनुमान है, अक्टूबर में निर्यात लगभग पचास अरब डॉलर रहा जो एक महीने में अब तक का सबसे ज़्यादा है, और विश्व बैंक की रिपोर्ट के अनुसार बारह-तेरह साल में करीब पचास करोड़ भारतीय ग़रीबी से बाहर आए हैं।"
-   },
    "en": {
     "title": "At FICCI's centenary convention, PM Modi says 50 crore Indians beat poverty in 12–13 years, growth at 7%",
     "summary": "Prime Minister Narendra Modi inaugurated FICCI's centenary-year annual convention at Bharat Mandapam, saying India remains the world's fastest-growing major economy with growth projected at around 7 per cent, October exports of nearly $50 billion — the highest in a single month — and citing a World Bank report that about 50 crore Indians have come out of poverty in 12–13 years."
+   },
+   "hi": {
+    "title": "फ़िक्की के शताब्दी सम्मेलन में पीएम मोदी: बारह-तेरह साल में पचास करोड़ भारतीय ग़रीबी से बाहर, विकास दर सात प्रतिशत",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने भारत मंडपम में फ़िक्की के शताब्दी वर्ष के वार्षिक सम्मेलन का उद्घाटन किया। उन्होंने कहा कि भारत दुनिया की सबसे तेज़ी से बढ़ती बड़ी अर्थव्यवस्था है, विकास दर करीब सात प्रतिशत रहने का अनुमान है, अक्टूबर में निर्यात लगभग पचास अरब डॉलर रहा जो एक महीने में अब तक का सबसे ज़्यादा है, और विश्व बैंक की रिपोर्ट के अनुसार बारह-तेरह साल में करीब पचास करोड़ भारतीय ग़रीबी से बाहर आए हैं।"
    }
   },
   {
@@ -2876,13 +2920,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19-hi.mp3",
    "audioEn": null,
-   "hi": {
-    "title": "बिग बॉस बीस: अरिश्फ़ा खान ने जीती इम्युनिटी, उदिति सिंह के टास्क में लव गिल को हराया; लव अब भी खतरे में",
-    "summary": "बिग बॉस बीस में अरिश्फ़ा खान ने कप्तान उदिति सिंह के टास्क में लव गिल को हराकर इस हफ़्ते की इम्युनिटी जीत ली है और इस हफ़्ते के एलिमिनेशन से सुरक्षित हो गई हैं। लव गिल अब भी नॉमिनेटेड हैं और खतरे में हैं, जबकि ग्यारहवें हफ़्ते का एलिमिनेशन वीकेंड का वार में होगा।"
-   },
    "en": {
     "title": "Bigg Boss 20: Arishfa Khan wins immunity, beats Love Gill in Uditi Singh's task; Love stays in the danger zone",
     "summary": "Arishfa Khan has won immunity in Bigg Boss 20, beating Love Gill in a task set by captain Uditi Singh, and is safe from this week's elimination. Love Gill remains nominated and vulnerable as the Week 11 eviction approaches at the Weekend Ka Vaar."
+   },
+   "hi": {
+    "title": "बिग बॉस बीस: अरिश्फ़ा खान ने जीती इम्युनिटी, उदिति सिंह के टास्क में लव गिल को हराया; लव अब भी खतरे में",
+    "summary": "बिग बॉस बीस में अरिश्फ़ा खान ने कप्तान उदिति सिंह के टास्क में लव गिल को हराकर इस हफ़्ते की इम्युनिटी जीत ली है और इस हफ़्ते के एलिमिनेशन से सुरक्षित हो गई हैं। लव गिल अब भी नॉमिनेटेड हैं और खतरे में हैं, जबकि ग्यारहवें हफ़्ते का एलिमिनेशन वीकेंड का वार में होगा।"
    }
   },
   {
@@ -2918,8 +2962,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-killed-scorpio-plunges-canal-araria-bihar-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-en.mp3",
-   "district": "Araria",
-   "state": "Bihar",
    "hi": {
     "title": "अररिया में नहर में गिरी स्कॉर्पियो, छह की मौत; तिलक समारोह से लौट रहे थे सात लोग",
     "summary": "बिहार के अररिया जिले में बुधवार देर रात बीड़ी पुल के पास एक स्कॉर्पियो नहर में गिर गई। गाड़ी में सवार सात लोगों में से छह की मौत हो गई, एक घायल है। सभी सुपौल जिले के थुम्हा गाँव के रहने वाले थे और सिकटी में तिलक समारोह से लौट रहे थे।"
@@ -2927,7 +2969,9 @@
    "en": {
     "title": "Six killed as Scorpio plunges into canal in Bihar's Araria; victims were returning from a tilak ceremony",
     "summary": "Six people were killed and one injured after a Scorpio carrying seven people plunged into a canal from a bridge in Bihar's Araria district late on Wednesday night. The victims, all from Thumha village in Supaul district, were returning home from a tilak ceremony in Araria's Sikti block."
-   }
+   },
+   "district": "Araria",
+   "state": "Bihar"
   },
   {
    "id": "elon-musk-pretty-foolish-500-million-republicans-midterms-november-19",
@@ -3071,13 +3115,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-accuses-pakistan-army-mineral-exploitation-un-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-en.mp3",
-   "hi": {
-    "title": "संयुक्त राष्ट्र में भारत का पाकिस्तान की सेना पर तीखा हमला: खनिज संपदा की लूट का आरोप, मुनीर के मिनरल बॉक्स का हवाला",
-    "summary": "संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पार्वथनेनि हरीश ने सुरक्षा परिषद की बैठक में पाकिस्तान की सेना पर देश की खनिज संपदा को निजी फायदे के लिए लूटने का आरोप लगाया और पिछले साल सितंबर में फील्ड मार्शल आसिम मुनीर के विदेशी नेताओं को खनिज पत्थरों का बक्सा दिखाने का हवाला दिया।"
-   },
    "en": {
     "title": "India accuses Pakistan Army of looting mineral wealth at UN, cites Munir's mineral box shown to Trump",
     "summary": "India's UN envoy Parvathaneni Harish accused Pakistan's military of exploiting the country's natural resources for personal gain at a Security Council meeting, pointing to Field Marshal Asim Munir displaying a box of mineral stones to foreign leaders last September."
+   },
+   "hi": {
+    "title": "संयुक्त राष्ट्र में भारत का पाकिस्तान की सेना पर तीखा हमला: खनिज संपदा की लूट का आरोप, मुनीर के मिनरल बॉक्स का हवाला",
+    "summary": "संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पार्वथनेनि हरीश ने सुरक्षा परिषद की बैठक में पाकिस्तान की सेना पर देश की खनिज संपदा को निजी फायदे के लिए लूटने का आरोप लगाया और पिछले साल सितंबर में फील्ड मार्शल आसिम मुनीर के विदेशी नेताओं को खनिज पत्थरों का बक्सा दिखाने का हवाला दिया।"
    }
   },
   {
@@ -3092,13 +3136,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/openai-amd-chip-design-14-percent-gains-november-19.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-en.mp3",
-   "hi": {
-    "title": "ओपनएआई का दावा: एआई मॉडल ने एएमडी के फ्लैगशिप चिप डिजाइन में चौदह प्रतिशत तक सुधार किया, साल भर का काम पाँच महीने में",
-    "summary": "ओपनएआई ने कहा है कि उसके एआई मॉडल ने एएमडी के फ्लैगशिप ग्राफिक्स चिप डिजाइन में प्रदर्शन, बिजली की खपत और आकार में चौदह प्रतिशत तक सुधार किया है। कंपनी का कहना है कि यह करीब एक साल की डिजाइन प्रगति है, जो पाँच महीने से भी कम समय में हासिल हुई, और कुछ बदलाव पहले ही निर्माण के लिए भेजे गए चिप डिजाइन में शामिल कर लिए गए हैं।"
-   },
    "en": {
     "title": "OpenAI says its AI models squeezed up to 14% more from AMD's flagship chips, a year's work in five months",
     "summary": "OpenAI said its AI models delivered up to 14% improvements in performance, power and area on AMD's flagship GPU designs, compressing roughly a year of chip-design progress into less than five months, with some changes already in a chip sent for manufacturing."
+   },
+   "hi": {
+    "title": "ओपनएआई का दावा: एआई मॉडल ने एएमडी के फ्लैगशिप चिप डिजाइन में चौदह प्रतिशत तक सुधार किया, साल भर का काम पाँच महीने में",
+    "summary": "ओपनएआई ने कहा है कि उसके एआई मॉडल ने एएमडी के फ्लैगशिप ग्राफिक्स चिप डिजाइन में प्रदर्शन, बिजली की खपत और आकार में चौदह प्रतिशत तक सुधार किया है। कंपनी का कहना है कि यह करीब एक साल की डिजाइन प्रगति है, जो पाँच महीने से भी कम समय में हासिल हुई, और कुछ बदलाव पहले ही निर्माण के लिए भेजे गए चिप डिजाइन में शामिल कर लिए गए हैं।"
    }
   },
   {
@@ -3185,48 +3229,6 @@
    "en": {
     "title": "Eleven states and UTs now 'fully literate' under ULLAS; Madhya Pradesh leads in adult learners",
     "summary": "Eleven states and Union Territories have declared themselves fully literate under the Centre's adult literacy programme ULLAS-Nav Bharat Saaksharta Karyakram, officials said, as the scheme raised India's literacy rate to 81.1 per cent. Madhya Pradesh leads the country with 20.43 lakh adult learners."
-   }
-  },
-  {
-   "id": "nicholls-century-new-zealand-214-5-wellington-test-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T10:20:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nicholls-century-new-zealand-214-5-wellington-test-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nicholls-century-new-zealand-214-5-wellington-test-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nicholls-century-new-zealand-214-5-wellington-test-november-19-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन टेस्ट: निकोल्स के नाबाद शतक से न्यूज़ीलैंड पहले दिन दो सौ चौदह रन पर पाँच विकेट तक पहुँचा",
-    "summary": "हेनरी निकोल्स ने एक सौ अट्ठासी गेंदों पर नाबाद सौ रन बनाए — टेस्ट में उनका बारहवाँ और भारत के खिलाफ़ पहला शतक — जिससे न्यूज़ीलैंड पहले टेस्ट के पहले दिन वेलिंगटन के बेसिन रिज़र्व में साठ रन पर चार विकेट से दो सौ चौदह रन पर पाँच विकेट तक पहुँच गया। ग्लेन फ़िलिप्स ने नाबाद अठहत्तर रन बनाकर उनका साथ दिया, दोनों ने छठे विकेट के लिए एक सौ चौवालीस रन जोड़े, जबकि भारत के लिए जसप्रीत बुमराह ने तीन विकेट लिए।"
-   },
-   "en": {
-    "title": "Nicholls' unbeaten century lifts New Zealand from 60/4 to 214/5 on Day 1 in Wellington",
-    "summary": "Henry Nicholls struck an unbeaten 100 off 188 balls — his twelfth Test century and his first against India — as New Zealand recovered from 60 for 4 to 214 for 5 on Day 1 of the first Test at Basin Reserve in Wellington. Glenn Phillips supported him with an unbeaten 78, the pair adding 144 for the sixth wicket, while Jasprit Bumrah took three wickets for India."
-   }
-  },
-  {
-   "id": "amit-shah-inaugurates-anti-terror-conference-delhi-november-19",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T10:04:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-inaugurates-anti-terror-conference-delhi-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-inaugurates-anti-terror-conference-delhi-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-inaugurates-anti-terror-conference-delhi-november-19-en.mp3",
-   "hi": {
-    "title": "दिल्ली में दो दिवसीय आतंकवाद निरोधी सम्मेलन शुरू, अमित शाह ने किया उद्घाटन, सीमा पार आतंकवाद पर होगा मंथन",
-    "summary": "केंद्रीय गृह मंत्री अमित शाह ने नई दिल्ली में दो दिवसीय आतंकवाद निरोधी सम्मेलन का उद्घाटन किया। राष्ट्रीय अन्वेषण अभिकरण की ओर से आयोजित सम्मेलन के छठे संस्करण का विषय सीमा पार आतंकवाद है। उन्नीस और बीस नवंबर को होने वाले इस सम्मेलन में देश भर के वरिष्ठ पुलिस अधिकारी, केंद्रीय एजेंसियों के अधिकारी और विशेषज्ञ विदेशी सबूत, डिजिटल फॉरेंसिक, आतंकी फंडिंग और नए आपराधिक कानूनों पर मंथन करेंगे।"
-   },
-   "en": {
-    "title": "Amit Shah inaugurates two-day Anti-Terror Conference in Delhi, focus on cross-border terrorism",
-    "summary": "Union Home Minister Amit Shah is inaugurating the sixth edition of the two-day Anti-Terror Conference in New Delhi, organised by the National Investigation Agency, with cross-border terrorism as its theme. Top police officers, central agencies and domain experts will deliberate on foreign evidence, digital forensics, terror financing and the new criminal laws over November 19 and 20."
    }
   }
  ]
