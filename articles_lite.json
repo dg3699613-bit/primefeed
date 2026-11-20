@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T20:19:24+05:30",
+ "updatedAt": "2026-11-20T20:42:44+05:30",
  "articles": [
+  {
+   "id": "drunk-punjab-cop-runs-over-schoolgirl-amritsar-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "district": "Amritsar",
+   "state": "Punjab",
+   "hi": {
+    "title": "अमृतसर: स्कूल से लौट रही बारह साल की बच्ची को पुलिसकर्मी की कार ने रौंदा, कार से शराब की बोतल बरामद, आरोपी हिरासत में",
+    "summary": "अमृतसर में सुल्तानविंड रोड पर स्कूल से घर लौट रही बारह साल की बच्ची को एक पुलिसकर्मी की तेज़ रफ़्तार कार ने कुचल दिया। बच्ची कार के नीचे फँस गई और उसे राहगीरों ने बाहर निकाला। लोगों का आरोप है कि सिपाही नशे में था, उसकी कार से शराब की बोतल मिली है और उसे हिरासत में ले लिया गया है।"
+   },
+   "en": {
+    "title": "Amritsar: Police constable's car runs over 12-year-old schoolgirl on her way home; liquor bottle found in vehicle, accused in custody",
+    "summary": "A 12-year-old schoolgirl returning home from school was run over by a speeding car allegedly driven by a Punjab Police constable on Sultanwind Road in Amritsar. The girl was trapped under the vehicle and pulled out by passersby. Residents allege the constable was drunk, a liquor bottle was found in his car, and he has been taken into custody."
+   },
+   "publishedAt": "2026-11-20T20:42:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/drunk-punjab-cop-runs-over-schoolgirl-amritsar-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/drunk-punjab-cop-runs-over-schoolgirl-amritsar-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/drunk-punjab-cop-runs-over-schoolgirl-amritsar-november-20-en.mp3"
+  },
+  {
+   "id": "tamil-nadu-andhra-investment-war-guidance-staff-row-november-20",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "तमिलनाडु-आंध्र निवेश जंग: गाइडेंस के पंद्रह कर्मचारियों पर आंध्र को जानकारी लीक करने का शक, तीन अधिकारी अब आंध्र सरकार से जुड़े",
+    "summary": "तमिलनाडु की निवेश एजेंसी गाइडेंस के पंद्रह संविदा कर्मचारियों को इस शक में हटाया गया है कि उन्होंने निवेश से जुड़ी गोपनीय जानकारी आंध्र प्रदेश को दी थी। गाइडेंस के तीन पूर्व कर्मचारी अब आंध्र प्रदेश के आर्थिक विकास बोर्ड से जुड़ चुके हैं, जबकि तीन कोरियाई कंपनियों ने अनंतपुर में एक हज़ार छह सौ चौदह करोड़ रुपये के निवेश का ऐलान किया है।"
+   },
+   "en": {
+    "title": "Tamil Nadu–Andhra investment war: 15 Guidance staff under cloud over 'leaks' to Andhra; three ex-officials now work for AP board",
+    "summary": "Fifteen contractual employees of Tamil Nadu's investment promotion agency Guidance have been removed amid suspicion that they passed confidential investment information to Andhra Pradesh. Three former Guidance staff members have since joined the Andhra Pradesh Economic Development Board, while three Korean companies have committed Rs 1,614 crore in Anantapur."
+   },
+   "publishedAt": "2026-11-20T20:42:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-andhra-investment-war-guidance-staff-row-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-andhra-investment-war-guidance-staff-row-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-andhra-investment-war-guidance-staff-row-november-20-en.mp3"
+  },
   {
    "id": "india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20",
    "category": "Science",
@@ -3181,50 +3225,6 @@
    "hi": {
     "title": "नए पीयूसी नियम: छह साल तक के बीएस-छह निजी वाहनों को तीन साल का प्रमाणपत्र",
     "summary": "केंद्र सरकार ने प्रदूषण नियंत्रण प्रमाणपत्र की वैधता की अवधि बदल दी है। छह साल तक के निजी बीएस-छह वाहनों को अब तीन साल का प्रमाणपत्र मिलेगा, जबकि पुराने वाहनों के लिए नवीनीकरण का चक्र छोटा ही रहेगा। तेरह नवंबर को अधिसूचित ये बदलाव उन्नीस नवंबर से लागू हो गए।"
-   }
-  },
-  {
-   "id": "kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19",
-   "category": "Health",
-   "sub": "Diseases",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T17:27:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kollam-tar-plant-fumes-62-students-hospitalised-kottiyam-november-19-en.mp3",
-   "district": "Kollam",
-   "state": "Kerala",
-   "hi": {
-    "title": "कोल्लम में टार प्लांट के धुएँ से बासठ स्कूली बच्चे बीमार, तीन आईसीयू में; बाल अधिकार आयोग ने दर्ज किया केस",
-    "summary": "केरल के कोल्लम ज़िले के कोट्टियम में ऑक्ज़िलियम स्कूल के बासठ बच्चे बुधवार को पास के टार मिक्सिंग प्लांट से उठे धुएँ और बदबू के बाद बीमार पड़ गए। तीन बच्चों को आईसीयू में भर्ती कराया गया है, जबकि केरल बाल अधिकार आयोग ने गुरुवार को मामले में स्वतः केस दर्ज कर लिया है।"
-   },
-   "en": {
-    "title": "62 schoolchildren fall ill after tar-plant fumes in Kollam's Kottiyam; three in ICU, child rights panel registers case",
-    "summary": "Sixty-two students of Auxilium School in Kottiyam, Kollam, fell ill on Wednesday after smoke and fumes from a nearby tar-mixing plant drifted into the school. Three children are in intensive care, and Kerala's child rights panel registered a case in the matter on Thursday."
-   }
-  },
-  {
-   "id": "india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T17:10:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-vs-new-zealand-day-1-nicholls-113-phillips-94-nz-243-5-wellington-november-19-en.mp3",
-   "hi": {
-    "title": "निकोल्स के नाबाद शतक से न्यूज़ीलैंड की वापसी: सत्तर पर पाँच से दिन का अंत दो सौ तैंतालीस पर पाँच",
-    "summary": "वेलिंगटन के बेसिन रिज़र्व में भारत के खिलाफ़ पहले टेस्ट के पहले दिन न्यूज़ीलैंड ने सत्तर रन पर पाँच विकेट गंवाने के बाद वापसी करते हुए दिन का अंत दो सौ तैंतालीस रन पर पाँच विकेट पर किया। हेनरी निकोल्स एक सौ तेरह और ग्लेन फ़िलिप्स चौरानबे रन पर नाबाद रहे, जबकि जसप्रीत बुमराह ने शुरुआती स्पैल में तीन विकेट लिए।"
-   },
-   "en": {
-    "title": "Nicholls' 113* and Phillips' 94* rescue New Zealand from 70/5 to 243/5 on Day 1 in Wellington",
-    "summary": "Henry Nicholls made an unbeaten 113 and Glenn Phillips an unbeaten 94 as New Zealand recovered from 70 for 5 to close Day 1 of the first Test against India on 243 for 5 at the Basin Reserve in Wellington. Jasprit Bumrah took three wickets in a fiery opening spell before the pair's unbroken 173-run stand turned the day around."
    }
   }
  ]
