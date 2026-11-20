@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T10:25:38+05:30",
+ "updatedAt": "2026-11-20T10:41:03+05:30",
  "articles": [
+  {
+   "id": "jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T10:41:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20-en.mp3",
+   "hi": {
+    "title": "जायसवाल पचासी रन बनाकर आउट, एक सौ तीस रन की सलामी साझेदारी टूटी; वेलिंग्टन में भारत एक विकेट पर एक सौ इकतालीस",
+    "summary": "यशस्वी जायसवाल ने पचासी रन की तेज़ पारी में सोलह चौके लगाए, फिर मैट हेनरी की गेंद पर रिव्यू में कैच आउट हो गए और वेलिंग्टन में पहले टेस्ट के दूसरे दिन एक सौ तीस रन की सलामी साझेदारी टूट गई। न्यूज़ीलैंड के तीन सौ अड़सठ रन के जवाब में भारत एक विकेट पर एक सौ इकतालीस रन पर था, केएल राहुल उनचास रन पर नाबाद थे।"
+   },
+   "en": {
+    "title": "Jaiswal falls for 85 as Henry breaks 130-run opening stand; India 141 for 1 at Wellington",
+    "summary": "Yashasvi Jaiswal struck 16 fours in a sparkling 85 before Matt Henry had him caught behind on review, ending a 130-run opening stand on day two of the first Test at Wellington. India were 141 for one in reply to New Zealand's 368, with KL Rahul unbeaten on 49."
+   }
+  },
+  {
+   "id": "nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T10:41:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20-en.mp3",
+   "hi": {
+    "title": "नितीश भारद्वाज ने रामायण को 'एजेंडा फिल्म' कहा, फंडिंग की जाँच की माँग की",
+    "summary": "बीआर चोपड़ा के महाभारत में भगवान कृष्ण की भूमिका निभाने वाले अभिनेता नितीश भारद्वाज ने नितेश तिवारी की रामायण: पार्ट वन को 'एजेंडा फिल्म' बताते हुए सरकार से इसकी फंडिंग की जाँच की माँग की है। उनका कहना है कि फिल्म में भगवान राम को आम इंसान बना दिया गया है और रावण को नायक बना दिया गया है।"
+   },
+   "en": {
+    "title": "Nitish Bharadwaj calls Ramayana an 'agenda film', demands probe into its funding",
+    "summary": "Actor, scholar and former MP Nitish Bharadwaj, best known as Lord Krishna in BR Chopra's Mahabharat, has called Nitesh Tiwari's Ramayana: Part 1 an 'agenda film' and urged the government to investigate its funding. He says the film reduces Lord Ram to an ordinary man and turns Ravan into a hero."
+   }
+  },
   {
    "id": "cyclone-akvan-crosses-odisha-coast-gopalpur-november-20",
    "category": "Weather",
@@ -3183,48 +3225,6 @@
    "en": {
     "title": "Supreme Court to set up permanent committee on disability rights, Chief Justice Surya Kant announces",
     "summary": "Chief Justice of India Surya Kant announced on Wednesday that the Supreme Court will set up a Permanent Committee on the Rights of Persons with Disabilities. He also directed the Supreme Court Legal Services Committee to form panels of young lawyers and sign language interpreters to assist advocates with disabilities in court proceedings."
-   }
-  },
-  {
-   "id": "nicholls-phillips-fightback-new-zealand-140-5-tea-wellington-test-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T08:39:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nicholls-phillips-fightback-new-zealand-140-5-tea-wellington-test-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nicholls-phillips-fightback-new-zealand-140-5-tea-wellington-test-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nicholls-phillips-fightback-new-zealand-140-5-tea-wellington-test-november-19-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन टेस्ट: निकोल्स की जुझारू फिफ्टी से चाय तक न्यूज़ीलैंड पाँच विकेट पर एक सौ चालीस रन",
-    "summary": "पहले टेस्ट के पहले दिन बेसिन रिज़र्व में हेनरी निकोल्स के नाबाद छियासठ रन और ग्लेन फ़िलिप्स के बयालीस रन की बदौलत न्यूज़ीलैंड चाय तक पाँच विकेट पर एक सौ चालीस रन पर पहुँच गया। लंच तक भारत ने मेज़बान टीम को चार विकेट पर साठ रन पर रोक दिया था, और जसप्रीत बुमराह तीन विकेट ले चुके हैं।"
-   },
-   "en": {
-    "title": "Wellington Test: Nicholls' fighting fifty lifts New Zealand to 140/5 at tea on Day 1",
-    "summary": "Henry Nicholls' unbeaten 66 and Glenn Phillips' 42 carried New Zealand to 140 for 5 at tea on the opening day of the first Test at Basin Reserve, after India had reduced the hosts to 60 for 4 at lunch. Jasprit Bumrah has taken three wickets for India."
-   }
-  },
-  {
-   "id": "cyclone-akvan-odisha-evacuates-50000-landfall-november-20-november-19",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T08:39:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-odisha-evacuates-50000-landfall-november-20-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-odisha-evacuates-50000-landfall-november-20-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-odisha-evacuates-50000-landfall-november-20-november-19-en.mp3",
-   "hi": {
-    "title": "चक्रवात अक्वान: ओडिशा में लगभग पचास हज़ार लोग सुरक्षित जगहों पर, शुक्रवार दोपहर तक तट से टकराएगा तूफ़ान",
-    "summary": "ओडिशा ने भीषण चक्रवाती तूफ़ान अक्वान से पहले लगभग पचास हज़ार लोगों को सुरक्षित जगहों पर पहुँचा दिया है। तूफ़ान शुक्रवार, बीस नवंबर की दोपहर तक आंध्र प्रदेश के नरसापुर और पुरी के बीच तट से टकरा सकता है, और उस दौरान हवा की रफ़्तार नब्बे से एक सौ किलोमीटर प्रति घंटा तक जा सकती है।"
-   },
-   "en": {
-    "title": "Cyclone Akvan: Odisha evacuates nearly 50,000 people as landfall nears; storm to cross coast by Friday noon",
-    "summary": "Odisha has moved nearly 50,000 people to safety ahead of severe cyclonic storm Akvan, which is expected to cross the coast between Narsapur in Andhra Pradesh and Puri by noon on Friday, November 20, with winds of 90 to 100 kmph gusting to 110 kmph."
    }
   }
  ]
