@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T05:44:02+05:30",
+ "updatedAt": "2026-11-20T06:05:43+05:30",
  "articles": [
+  {
+   "id": "houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T06:05:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19-en.mp3",
+   "en": {
+    "title": "Houthi missile hits Riyadh's tallest skyscraper, home to Saudi Arabia's $900 billion wealth fund",
+    "summary": "A suspected Houthi missile struck the 385-metre PIF Tower in Riyadh on Thursday, blowing out windows across seven to eight floors of the skyscraper that houses Saudi Arabia's $900 billion sovereign wealth fund. No injuries were reported, and it was the second strike on a landmark in the capital's financial district in under two weeks."
+   },
+   "hi": {
+    "title": "हूती मिसाइल ने रियाद की सबसे ऊँची इमारत को निशाना बनाया, सऊदी अरब के नौ सौ अरब डॉलर वाले फंड का मुख्यालय है टावर",
+    "summary": "गुरुवार को एक संदिग्ध हूती मिसाइल ने रियाद की ३८५ मीटर ऊँची पीआईएफ़ टावर को निशाना बनाया, जिससे सऊदी अरब के नौ सौ अरब डॉलर वाले संप्रभु संपदा कोष का मुख्यालय रखने वाली इमारत की सात से आठ मंज़िलों की खिड़कियाँ उड़ गईं। कोई घायल नहीं हुआ, और दो हफ़्ते से कम समय में वित्तीय ज़िले की किसी बड़ी इमारत पर यह दूसरा हमला है।"
+   }
+  },
+  {
+   "id": "gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19",
+   "category": "Technology",
+   "sub": "Gadgets",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T06:05:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19-en.mp3",
+   "en": {
+    "title": "GTA 6 rakes in an estimated $1.84 billion by launch day, passing The Odyssey's entire box office",
+    "summary": "Sensor Tower estimates Grand Theft Auto VI sold about 19.05 million copies worth roughly $1.84 billion by its November 19 launch, more than double GTA 5's first-day haul and more than Christopher Nolan's The Odyssey earned in its entire theatrical run. The figures are third-party estimates — Rockstar and Take-Two have not released official sales numbers."
+   },
+   "hi": {
+    "title": "जीटीए सिक्स ने रिलीज़ के दिन तक करीब एक अरब चौरासी करोड़ डॉलर कमाए, द ओडिसी की पूरी कमाई को पीछे छोड़ा",
+    "summary": "सेंसर टावर के अनुमान के मुताबिक़ ग्रैंड थेफ़्ट ऑटो सिक्स ने उन्नीस नवंबर को रिलीज़ तक करीब एक करोड़ नब्बे लाख प्रतियाँ बेचकर लगभग एक अरब चौरासी करोड़ डॉलर कमाए, जो जीटीए फ़ाइव की पहले दिन की कमाई से दोगुने से ज़्यादा है और क्रिस्टोफ़र नोलन की फ़िल्म द ओडिसी की पूरी कमाई से भी ज़्यादा है। ये आँकड़े तीसरे पक्ष के अनुमान हैं, रॉकस्टार और टेक-टू ने आधिकारिक बिक्री के आँकड़े जारी नहीं किए हैं।"
+   }
+  },
   {
    "id": "rakshitha-ramraj-stuns-chen-yufei-hong-kong-open-november-19",
    "category": "Cricket & Sports",
@@ -3171,48 +3213,6 @@
    "en": {
     "title": "Karnataka Lokayukta raids 31 premises of seven officials in disproportionate assets cases",
     "summary": "Karnataka Lokayukta police carried out simultaneous searches at 31 premises belonging to seven government officials across seven districts, uncovering houses, agricultural land, cash, jewellery, vehicles and fixed deposits allegedly beyond their known sources of income."
-   }
-  },
-  {
-   "id": "pv-sindhu-world-number-five-first-time-four-years-november-18",
-   "category": "Cricket & Sports",
-   "sub": "Badminton",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T00:27:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pv-sindhu-world-number-five-first-time-four-years-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pv-sindhu-world-number-five-first-time-four-years-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pv-sindhu-world-number-five-first-time-four-years-november-18-en.mp3",
-   "hi": {
-    "title": "चार साल बाद फिर दुनिया की टॉप पाँच में पीवी सिंधु, पैंतालीस दिन में ग्यारहवें से पाँचवें नंबर पर",
-    "summary": "पीवी सिंधु चार साल बाद फिर बैडमिंटन की विश्व रैंकिंग में शीर्ष पाँच में लौट आई हैं। ताज़ा बीडब्ल्यूएफ़ रैंकिंग में वह पाँचवें नंबर पर पहुँच गई हैं — पैंतालीस दिन में ग्यारहवें से पाँचवें स्थान तक का सफर। साल के आखिर में हांगझोऊ में होने वाले वर्ल्ड टूर फ़ाइनल्स के लिए भी उन्होंने जगह पक्की कर ली है।"
-   },
-   "en": {
-    "title": "PV Sindhu back in world top five after four years, climbing from 11th in 45 days",
-    "summary": "PV Sindhu has returned to the top five of the BWF women's singles rankings for the first time since November 2022, climbing from 11th to fifth in 45 days on the back of two titles and a French Open final in 2026. The 31-year-old has also qualified for the season-ending BWF World Tour Finals in Hangzhou."
-   }
-  },
-  {
-   "id": "goldman-sachs-upgrades-india-overweight-nifty-28500-december-2027-november-18",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T00:27:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/goldman-sachs-upgrades-india-overweight-nifty-28500-december-2027-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldman-sachs-upgrades-india-overweight-nifty-28500-december-2027-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldman-sachs-upgrades-india-overweight-nifty-28500-december-2027-november-18-en.mp3",
-   "hi": {
-    "title": "गोल्डमैन सैक्स ने भारत को ओवरवेट किया, दिसंबर दो हज़ार सत्ताईस तक निफ्टी का लक्ष्य अट्ठाईस हज़ार पाँच सौ",
-    "summary": "गोल्डमैन सैक्स ने भारतीय शेयरों को ओवरवेट कर दिया है और दिसंबर दो हज़ार सत्ताईस के अंत तक निफ्टी के लिए अट्ठाईस हज़ार पाँच सौ का लक्ष्य तय किया है। बैंक को अगले दो साल में पंद्रह-पंद्रह प्रतिशत की कमाई वृद्धि, मज़बूत घरेलू माँग और विदेशी निवेशकों की वापसी की उम्मीद है।"
-   },
-   "en": {
-    "title": "Goldman Sachs upgrades India to overweight, sets Nifty target of 28,500 by end of 2027",
-    "summary": "Goldman Sachs has upgraded Indian equities to overweight and set a Nifty target of 28,500 by the end of 2027, betting on 15 per cent earnings growth in each of the next two years, resilient domestic demand and foreign investors returning after a $64 billion selloff."
    }
   }
  ]
