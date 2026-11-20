@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T02:30:12+05:30",
+ "updatedAt": "2026-11-21T02:47:59+05:30",
  "articles": [
+  {
+   "id": "indonesia-wildfires-30-billion-losses-celios-study-november-20",
+   "category": "Science",
+   "sub": "Environment",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "इंडोनेशिया में जंगल की आग से तीस अरब डॉलर से ज़्यादा का नुकसान, स्वास्थ्य पर भी भारी बोझ",
+    "summary": "जकार्ता स्थित सेलियोस के अध्ययन के अनुसार दो हज़ार छब्बीस में इंडोनेशिया के जंगलों और पीटलैंड में लगी आग से आर्थिक और स्वास्थ्य संबंधी कुल नुकसान तीस अरब डॉलर से ज़्यादा हो सकता है। अब तक अट्ठाईस लाख अस्सी हज़ार हेक्टेयर ज़मीन जल चुकी है।"
+   },
+   "en": {
+    "title": "Indonesia's 2026 wildfires could cost more than 30 billion dollars, study finds",
+    "summary": "New research by the Jakarta-based Center of Economic and Law Studies, CELIOS, puts the total economic and health costs of Indonesia's 2026 wildfires at between 19.8 billion and 31.1 billion dollars. The fires have burned through 2.88 million hectares so far this year."
+   },
+   "publishedAt": "2026-11-21T02:47:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indonesia-wildfires-30-billion-losses-celios-study-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-wildfires-30-billion-losses-celios-study-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-wildfires-30-billion-losses-celios-study-november-20-en.mp3"
+  },
+  {
+   "id": "carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19",
+   "category": "Cricket & Sports",
+   "sub": "Chess",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "कार्लसन ने दो रैपिड मुक़ाबले छोड़े, फिर ज़रूरी क्लासिकल जीतकर दो हज़ार आठ सौ से ऊपर बचे",
+    "summary": "बुडापेस्ट में टोटल चेस पायलट में मैग्नस कार्लसन ने व्लादिस्लाव आर्टेमिएव के ख़िलाफ़ दोनों रैपिड मुक़ाबले छोड़ दिए, फिर फ़ास्ट क्लासिक का निर्णायक मुक़ाबला जीतकर अपनी लाइव रेटिंग दो हज़ार आठ सौ से ऊपर बचा ली। ड्रॉ होने पर रेटिंग सत्रह साल में पहली बार दो हज़ार आठ सौ से नीचे चली जाती।"
+   },
+   "en": {
+    "title": "Carlsen forfeits two rapid games — then wins the must-win classical to stay above 2800",
+    "summary": "World number one Magnus Carlsen forfeited both rapid games against Vladislav Artemiev at the Total Chess pilot in Budapest, then won the must-win Fast Classic game to keep his live rating above 2800. A draw would have taken him below 2800 for the first time in 17 years."
+   },
+   "publishedAt": "2026-11-21T02:47:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19-en.mp3"
+  },
   {
    "id": "trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed",
    "category": "World",
@@ -3173,50 +3215,6 @@
    "en": {
     "title": "Congress announces big organisational reshuffle: 81 AICC secretaries appointed, UP gets largest team",
     "summary": "Congress president Mallikarjun Kharge has appointed or reassigned 81 functionaries as AICC secretaries. Uttar Pradesh gets the largest team of six secretaries, and the party thanked 25 outgoing secretaries for their contributions."
-   }
-  },
-  {
-   "id": "sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T23:57:53+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-rejects-review-plea-takiya-masjid-demolition-ujjain-november-19-en.mp3",
-   "hi": {
-    "title": "तकिया मस्जिद मामला: सुप्रीम कोर्ट ने पुनर्विचार याचिका खारिज की, महाकाल परिसर के पास ध्वस्त मस्जिद पर पहले का आदेश बरकरार",
-    "summary": "सुप्रीम कोर्ट ने उज्जैन की तकिया मस्जिद के ध्वस्तीकरण को चुनौती देने वाली याचिका पर अपने पहले के फ़ैसले पर पुनर्विचार से इनकार कर दिया है। जस्टिस विक्रम नाथ और जस्टिस संदीप मेहता की पीठ ने कहा कि सात नवंबर दो हज़ार पच्चीस के आदेश में कोई स्पष्ट त्रुटि नहीं दिखती।"
-   },
-   "en": {
-    "title": "Takiya Masjid case: Supreme Court rejects review plea, upholds earlier order on Ujjain mosque demolition",
-    "summary": "The Supreme Court has refused to reconsider its earlier decision dismissing a challenge to the demolition of Takiya Masjid in Ujjain. Justices Vikram Nath and Sandeep Mehta found no apparent error in the November 7, 2025 order and also rejected the request for an open-court hearing."
-   },
-   "district": "Ujjain",
-   "state": "Madhya Pradesh"
-  },
-  {
-   "id": "delhi-hc-no-interim-relief-service-charge-restaurants-november-19",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T23:36:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-hc-no-interim-relief-service-charge-restaurants-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-hc-no-interim-relief-service-charge-restaurants-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-hc-no-interim-relief-service-charge-restaurants-november-19-en.mp3",
-   "hi": {
-    "title": "रेस्तरां को राहत नहीं: दिल्ली हाई कोर्ट ने कहा — खाने के बिल पर अनिवार्य सर्विस चार्ज पर रोक जारी रहेगी",
-    "summary": "दिल्ली हाई कोर्ट ने गुरुवार को साफ़ कर दिया कि अनिवार्य सर्विस चार्ज पर रोक के ख़िलाफ़ रेस्तरां और होटल संगठनों को कोई अंतरिम राहत नहीं दी गई है। अदालत ने केंद्र से कहा कि जो होटल-रेस्तरां अब भी यह शुल्क वसूल रहे हैं, उन पर कार्रवाई की जाए।"
-   },
-   "en": {
-    "title": "No relief for restaurants: Delhi High Court says mandatory service charge stays banned",
-    "summary": "The Delhi High Court on Thursday made it clear that it has granted no interim relief to restaurant and hotel bodies challenging the ban on mandatory service charge — and told the Centre to act against eateries that are still levying it."
    }
   }
  ]
