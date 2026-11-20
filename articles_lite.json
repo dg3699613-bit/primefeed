@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-20T14:23:11+05:30",
+ "updatedAt": "2026-11-20T14:34:25+05:30",
  "articles": [
+  {
+   "id": "yogi-adityanath-mother-savitri-devi-dies-91-pauri-garhwal-november-20",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-20T14:34:25+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Pauri Garhwal",
+   "state": "Uttarakhand",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yogi-adityanath-mother-savitri-devi-dies-91-pauri-garhwal-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-mother-savitri-devi-dies-91-pauri-garhwal-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-mother-savitri-devi-dies-91-pauri-garhwal-november-20-en.mp3",
+   "hi": {
+    "title": "मुख्यमंत्री योगी आदित्यनाथ की माँ सावित्री देवी का निधन, इक्यानवे वर्ष की उम्र में पौड़ी गढ़वाल में ली अंतिम साँस",
+    "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ की माँ सावित्री देवी का शुक्रवार सुबह उत्तराखंड के पौड़ी गढ़वाल ज़िले के पंचूर गाँव स्थित पैतृक घर में निधन हो गया। वे इक्यानवे वर्ष की थीं। अंतिम संस्कार शनिवार को हरिद्वार में होने की संभावना है।"
+   },
+   "en": {
+    "title": "UP Chief Minister Yogi Adityanath's mother Savitri Devi dies at 91 in Pauri Garhwal",
+    "summary": "Savitri Devi, the mother of Uttar Pradesh Chief Minister Yogi Adityanath, died at her ancestral home in Panchur village in Uttarakhand's Pauri Garhwal district on Friday morning. She was 91. Her last rites are likely to be held in Haridwar on Saturday."
+   }
+  },
   {
    "id": "wall-street-plunges-dow-1101-anthropic-ipo-november-20",
    "category": "Business",
@@ -455,7 +478,7 @@
    "category": "Weather",
    "sub": "Cyclone",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-20T10:25:38+05:30",
    "source": "PrimeFeed Desk",
@@ -3205,29 +3228,6 @@
     "title": "Trump calls Putin 'my friend' as the two hold 40-minute talks in Shenzhen ahead of historic trilateral",
     "summary": "US President Donald Trump and Russian President Vladimir Putin held a separate meeting lasting about 40 minutes in Shenzhen on Thursday, their first face-to-face talks since last year's Alaska summit. Trump later met Chinese President Xi Jinping, with the three leaders due to sit down together later in the day."
    }
-  },
-  {
-   "id": "six-killed-scorpio-plunges-canal-araria-bihar-november-19",
-   "category": "State & Local",
-   "sub": "Bihar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T12:12:06+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-killed-scorpio-plunges-canal-araria-bihar-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-killed-scorpio-plunges-canal-araria-bihar-november-19-en.mp3",
-   "hi": {
-    "title": "अररिया में नहर में गिरी स्कॉर्पियो, छह की मौत; तिलक समारोह से लौट रहे थे सात लोग",
-    "summary": "बिहार के अररिया जिले में बुधवार देर रात बीड़ी पुल के पास एक स्कॉर्पियो नहर में गिर गई। गाड़ी में सवार सात लोगों में से छह की मौत हो गई, एक घायल है। सभी सुपौल जिले के थुम्हा गाँव के रहने वाले थे और सिकटी में तिलक समारोह से लौट रहे थे।"
-   },
-   "en": {
-    "title": "Six killed as Scorpio plunges into canal in Bihar's Araria; victims were returning from a tilak ceremony",
-    "summary": "Six people were killed and one injured after a Scorpio carrying seven people plunged into a canal from a bridge in Bihar's Araria district late on Wednesday night. The victims, all from Thumha village in Supaul district, were returning home from a tilak ceremony in Araria's Sikti block."
-   },
-   "district": "Araria",
-   "state": "Bihar"
   }
  ]
 }
