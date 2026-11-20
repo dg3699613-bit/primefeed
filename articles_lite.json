@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-21T01:41:26+05:30",
+  "updatedAt": "2026-11-21T02:02:01+05:30",
   "articles": [
+    {
+      "id": "pm-modi-three-state-visit-iit-kharagpur-vaishali-lucknow-november-21",
+      "category": "India",
+      "sub": "National",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-21T02:02:01+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-three-state-visit-iit-kharagpur-vaishali-lucknow-november-21.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-three-state-visit-iit-kharagpur-vaishali-lucknow-november-21-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-three-state-visit-iit-kharagpur-vaishali-lucknow-november-21-en.mp3",
+      "hi": {
+        "title": "प्रधानमंत्री मोदी का तीन राज्यों का दौरा: आईआईटी खड़गपुर की पचहत्तरवीं वर्षगाँठ, वैशाली में चौंतीस हज़ार चार सौ सत्तर करोड़ की परियोजनाएँ, लखनऊ में कौशल समारोह",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी शनिवार, इक्कीस नवंबर को पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे — सुबह आईआईटी खड़गपुर की प्लेटिनम जयंती में शामिल होंगे, दोपहर में वैशाली में करीब चौंतीस हज़ार चार सौ सत्तर करोड़ रुपये की परियोजनाओं का लोकार्पण और शिलान्यास करेंगे, और दिन का समापन लखनऊ में कौशल दीक्षांत समारोह से होगा।"
+      },
+      "en": {
+        "title": "PM Modi's three-state day: IIT Kharagpur's 75th, ₹34,470-crore projects in Vaishali, skill event in Lucknow",
+        "summary": "Prime Minister Narendra Modi will spend Saturday, November 21, in West Bengal, Bihar and Uttar Pradesh — attending the platinum jubilee of IIT Kharagpur in the morning, inaugurating projects worth about ₹34,470 crore in Vaishali in the afternoon, and closing the day at the Kaushal Deekshant Samaroh in Lucknow."
+      }
+    },
+    {
+      "id": "india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21",
+      "category": "Business",
+      "sub": "Economy",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-21T02:02:01+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21-en.mp3",
+      "hi": {
+        "title": "पच्चीस दिन में बावन लाख शादियाँ: शादी के सीज़न से सात लाख पचास हज़ार करोड़ रुपये का कारोबार",
+        "summary": "अखिल भारतीय व्यापारी परिसंघ (कैट) के अनुमान के मुताबिक इक्कीस नवंबर से पंद्रह दिसंबर के बीच देशभर में करीब बावन लाख शादियाँ होंगी, जिनसे करीब सात लाख पचास हज़ार करोड़ रुपये का कारोबार होगा और करीब एक करोड़ पच्चीस लाख अस्थायी रोज़गार बनेंगे।"
+      },
+      "en": {
+        "title": "52 lakh weddings in 25 days: India's wedding season set to ring up ₹7.5 lakh crore",
+        "summary": "Around 52 lakh weddings are expected across India between November 21 and December 15, generating business worth an estimated ₹7.5 lakh crore and creating about 1.25 crore temporary jobs, according to traders' body CAIT."
+      }
+    },
     {
       "id": "nse-worlds-fifth-largest-listed-exchange-overtakes-nasdaq-hkex-november-20",
       "category": "Business",
@@ -3180,50 +3222,6 @@
         "title": "UN report: India's youth stay hopeful, but job insecurity is delaying marriage and family plans",
         "summary": "The United Nations Population Fund released its State of World Population 2026 report on Thursday. Based on a survey of more than 108,000 young adults across 73 countries, it finds young people still want partners and children, but financial insecurity is delaying those decisions. In India, more than one in four people are aged 10 to 24."
       }
-    },
-    {
-      "id": "sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19",
-      "category": "Business",
-      "sub": "Banking & Finance",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-19T22:10:43+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sebi-faster-ipos-easier-fpi-access-kvr-murty-roadmap-november-19-en.mp3",
-      "hi": {
-        "title": "सेबी का रोडमैप: आईपीओ तेज़, विदेशी निवेशकों की राह आसान — केवीआर मूर्ति ने बताया पूरा खाका",
-        "summary": "बाज़ार नियामक सेबी आईपीओ और राइट्स इश्यू की समय-सीमा घटाने, लिस्टिंग के नियम सरल करने और विदेशी निवेशकों की पहुँच आसान बनाने की तैयारी में है। सेबी के पूर्णकालिक सदस्य केवीआर मूर्ति ने मुंबई में सीआईआई फाइनैंसिंग सम्मेलन में यह रोडमैप रखा।"
-      },
-      "en": {
-        "title": "Sebi roadmap: faster IPOs, easier foreign investor access, says KVR Murty",
-        "summary": "Market regulator Sebi is preparing to shorten IPO and rights issue timelines, simplify listing norms and make it easier for foreign investors to enter Indian markets. Whole-time member KVR Murty laid out the roadmap at the CII Financing Summit in Mumbai."
-      }
-    },
-    {
-      "id": "cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19",
-      "category": "Crime & Law",
-      "sub": "Police & Crime",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-19T22:10:43+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-panchkula-cgst-superintendent-10-lakh-bribe-november-19-en.mp3",
-      "hi": {
-        "title": "पंचकूला में सीजीएसटी अधीक्षक दस लाख रुपये की रिश्वत लेते रंगे हाथ पकड़ा, सीबीआई ने किया गिरफ्तार",
-        "summary": "सीबीआई ने पंचकूला में तैनात सीजीएसटी अधीक्षक लवकुश कुमार को एक निजी कंपनी से दस लाख रुपये की रिश्वत लेते हुए रंगे हाथ पकड़ा है। आरोप है कि अधिकारी ने जीएसटी कार्यवाही में राहत के बदले पचास लाख रुपये माँगे थे।"
-      },
-      "en": {
-        "title": "CBI arrests Panchkula CGST superintendent caught taking Rs 10 lakh bribe",
-        "summary": "The CBI has arrested CGST Superintendent Luvkush Kumar, posted in Panchkula, after catching him red-handed while allegedly accepting a bribe of Rs 10 lakh from a private firm. He is accused of demanding Rs 50 lakh for favours in GST proceedings."
-      },
-      "district": "Panchkula",
-      "state": "Haryana"
     }
   ]
 }
