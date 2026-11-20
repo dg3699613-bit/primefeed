@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T14:34:25+05:30",
+ "updatedAt": "2026-11-20T14:47:11+05:30",
  "articles": [
+  {
+   "id": "russia-hits-three-kyiv-bridges-eight-killed-november-20",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T14:47:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russia-hits-three-kyiv-bridges-eight-killed-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-hits-three-kyiv-bridges-eight-killed-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-hits-three-kyiv-bridges-eight-killed-november-20-en.mp3",
+   "hi": {
+    "title": "रूसी मिसाइल हमले में कीव के तीन पुल क्षतिग्रस्त, आठ लोगों की मौत",
+    "summary": "रूस ने रातभर चले हमले में यूक्रेन की राजधानी कीव के नीप्रो नदी पर बने तीन पुलों को निशाना बनाया। हमले में आठ लोगों की मौत हो गई और बिजली-पानी की आपूर्ति ठप पड़ गई।"
+   },
+   "en": {
+    "title": "Russian missiles hit three Kyiv bridges in overnight barrage; eight killed across Ukraine",
+    "summary": "Russian ballistic missiles and drones damaged three bridges across the Dnipro in Kyiv in an overnight attack. At least eight people were killed across Ukraine and power and water supplies were disrupted in the capital."
+   }
+  },
+  {
+   "id": "supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T14:47:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20-en.mp3",
+   "hi": {
+    "title": "सुप्रीम कोर्ट ने यूपी के दो पेंशन कानून रद्द किए, वर्क-चार्ज कर्मचारियों की पुरानी सेवा भी पेंशन में गिनी जाएगी",
+    "summary": "सुप्रीम कोर्ट ने उत्तर प्रदेश के दो कानूनों को असंवैधानिक बताते हुए रद्द कर दिया, जो नियमित हुए वर्क-चार्ज कर्मचारियों की नियमितीकरण से पहले की सेवा को पेंशन की गणना से बाहर रखते थे।"
+   },
+   "en": {
+    "title": "Supreme Court strikes down two UP pension laws; work-charged service must count towards pension",
+    "summary": "The Supreme Court has struck down two Uttar Pradesh laws that kept the pre-regularisation service of regularised work-charged employees out of pension calculations, holding that regularisation wipes out the distinction of the initial appointment."
+   }
+  },
   {
    "id": "yogi-adityanath-mother-savitri-devi-dies-91-pauri-garhwal-november-20",
    "category": "State & Local",
@@ -3185,48 +3227,6 @@
    "hi": {
     "title": "फ़िक्की के शताब्दी सम्मेलन में पीएम मोदी: बारह-तेरह साल में पचास करोड़ भारतीय ग़रीबी से बाहर, विकास दर सात प्रतिशत",
     "summary": "प्रधानमंत्री नरेंद्र मोदी ने भारत मंडपम में फ़िक्की के शताब्दी वर्ष के वार्षिक सम्मेलन का उद्घाटन किया। उन्होंने कहा कि भारत दुनिया की सबसे तेज़ी से बढ़ती बड़ी अर्थव्यवस्था है, विकास दर करीब सात प्रतिशत रहने का अनुमान है, अक्टूबर में निर्यात लगभग पचास अरब डॉलर रहा जो एक महीने में अब तक का सबसे ज़्यादा है, और विश्व बैंक की रिपोर्ट के अनुसार बारह-तेरह साल में करीब पचास करोड़ भारतीय ग़रीबी से बाहर आए हैं।"
-   }
-  },
-  {
-   "id": "bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19",
-   "category": "Entertainment",
-   "sub": "TV",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-19T12:26:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-arishfa-khan-wins-immunity-love-gill-nominated-november-19-hi.mp3",
-   "audioEn": null,
-   "en": {
-    "title": "Bigg Boss 20: Arishfa Khan wins immunity, beats Love Gill in Uditi Singh's task; Love stays in the danger zone",
-    "summary": "Arishfa Khan has won immunity in Bigg Boss 20, beating Love Gill in a task set by captain Uditi Singh, and is safe from this week's elimination. Love Gill remains nominated and vulnerable as the Week 11 eviction approaches at the Weekend Ka Vaar."
-   },
-   "hi": {
-    "title": "बिग बॉस बीस: अरिश्फ़ा खान ने जीती इम्युनिटी, उदिति सिंह के टास्क में लव गिल को हराया; लव अब भी खतरे में",
-    "summary": "बिग बॉस बीस में अरिश्फ़ा खान ने कप्तान उदिति सिंह के टास्क में लव गिल को हराकर इस हफ़्ते की इम्युनिटी जीत ली है और इस हफ़्ते के एलिमिनेशन से सुरक्षित हो गई हैं। लव गिल अब भी नॉमिनेटेड हैं और खतरे में हैं, जबकि ग्यारहवें हफ़्ते का एलिमिनेशन वीकेंड का वार में होगा।"
-   }
-  },
-  {
-   "id": "trump-putin-40-minute-talks-shenzhen-trilateral-november-19",
-   "category": "World",
-   "sub": "USA",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T12:12:06+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-putin-40-minute-talks-shenzhen-trilateral-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-putin-40-minute-talks-shenzhen-trilateral-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-putin-40-minute-talks-shenzhen-trilateral-november-19-en.mp3",
-   "hi": {
-    "title": "ट्रंप ने पुतिन को कहा ‘मेरा दोस्त’, शेनझेन में चालीस मिनट चली बातचीत",
-    "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और रूस के राष्ट्रपति व्लादिमीर पुतिन ने शेनझेन में करीब चालीस मिनट तक अलग से बातचीत की। यह पिछले साल अलास्का के बाद दोनों की पहली आमने-सामने की मुलाकात थी। इसके बाद ट्रंप शी जिनपिंग से मिले; तीनों नेता दिन में बाद में पहली त्रिपक्षीय बैठक करेंगे।"
-   },
-   "en": {
-    "title": "Trump calls Putin 'my friend' as the two hold 40-minute talks in Shenzhen ahead of historic trilateral",
-    "summary": "US President Donald Trump and Russian President Vladimir Putin held a separate meeting lasting about 40 minutes in Shenzhen on Thursday, their first face-to-face talks since last year's Alaska summit. Trump later met Chinese President Xi Jinping, with the three leaders due to sit down together later in the day."
    }
   }
  ]
