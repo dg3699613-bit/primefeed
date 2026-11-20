@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T15:30:28+05:30",
+ "updatedAt": "2026-11-20T15:44:13+05:30",
  "articles": [
+  {
+   "id": "iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T15:44:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20-en.mp3",
+   "hi": {
+    "title": "दशक भर बाद इराकी सेना कताइब हिज़बुल्लाह के गढ़ जुर्फ अल-सखर में दाखिल, टैंक और बख़्तरबंद गाड़ियाँ तैनात",
+    "summary": "इराकी सुरक्षा बल शुक्रवार को कताइब हिज़बुल्लाह से हुए समझौते के तहत जुर्फ अल-सखर में दाखिल हुए। बगदाद से करीब साठ किलोमीटर दक्षिण-पश्चिम में स्थित यह ज़िला एक दशक से ज़्यादा समय से सरकार की पहुंच से बाहर था।"
+   },
+   "en": {
+    "title": "Iraqi forces roll into Kataib Hezbollah stronghold Jurf al-Sakhar after a decade out of reach",
+    "summary": "Iraqi security forces moved into Jurf al-Sakhar on Friday under a compromise deal with Kataib Hezbollah, reasserting state control over a district about 60 km south-west of Baghdad that has been closed to the government for more than a decade."
+   }
+  },
+  {
+   "id": "siraj-omission-row-imran-masood-religion-remark-bjp-november-20",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T15:44:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/siraj-omission-row-imran-masood-religion-remark-bjp-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/siraj-omission-row-imran-masood-religion-remark-bjp-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/siraj-omission-row-imran-masood-religion-remark-bjp-november-20-en.mp3",
+   "hi": {
+    "title": "'नाम सिराज है इसलिए जगह नहीं मिली': कांग्रेस सांसद के बयान पर सियासी बवाल, बीजेपी का पलटवार",
+    "summary": "कांग्रेस सांसद इमरान मसूद ने आरोप लगाया कि मोहम्मद सिराज को न्यूज़ीलैंड के ख़िलाफ़ पहले टेस्ट की प्लेइंग इलेवन से उनके धर्म की वजह से बाहर रखा गया। बीजेपी ने कांग्रेस पर क्रिकेट के चयन को सांप्रदायिक रंग देने का आरोप लगाते हुए पलटवार किया।"
+   },
+   "en": {
+    "title": "'His name is Siraj': Congress MP's religion remark over pacer's omission sparks row, BJP hits back",
+    "summary": "Congress MP Imran Masood alleged that Mohammed Siraj was left out of India's playing XI for the first Test against New Zealand because of his religion, triggering a sharp political exchange with the BJP, which accused the Congress of communalising cricket selection."
+   }
+  },
   {
    "id": "congress-rattled-pm-ficci-remarks-jairam-ramesh-november-20",
    "category": "Politics",
@@ -3186,48 +3228,6 @@
    },
    "district": "Mumbai",
    "state": "Maharashtra"
-  },
-  {
-   "id": "shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T13:15:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shah-rukh-khan-variety-100-greatest-movie-stars-only-indian-november-19-en.mp3",
-   "hi": {
-    "title": "वैरायटी के सर्वकालिक सौ महानतम सितारों में इकलौते भारतीय — शाहरुख़ ख़ान बानवे नंबर पर",
-    "summary": "वैरायटी के समीक्षकों ने शाहरुख़ ख़ान को सर्वकालिक सौ महानतम फ़िल्मी सितारों की सूची में बानवे नंबर पर रखा है, वह इस सूची में शामिल इकलौते भारतीय अभिनेता हैं। सूची में संजय लीला भंसाली की देवदास को उनके करियर की सबसे प्रतिनिधि फ़िल्म बताया गया है, पहले नंबर पर मर्लिन मुनरो हैं।"
-   },
-   "en": {
-    "title": "Shah Rukh Khan is the only Indian on Variety's 100 Greatest Movie Stars of All Time list",
-    "summary": "Variety's critics ranked Shah Rukh Khan at number 92 on their list of the 100 Greatest Movie Stars of All Time, making him the only Indian actor on it. The list names Sanjay Leela Bhansali's Devdas as his most representative film, and Marilyn Monroe tops the ranking."
-   }
-  },
-  {
-   "id": "pm-modi-gta-6-post-india-whole-new-game-november-19",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T13:15:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-gta-6-post-india-whole-new-game-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-gta-6-post-india-whole-new-game-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-gta-6-post-india-whole-new-game-november-19-en.mp3",
-   "hi": {
-    "title": "‘भारत अब एक नया खेल खेल रहा है’: पीएम मोदी ने जीटीए छह की लॉन्च को बनाया तेरह साल का रिपोर्ट कार्ड",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी ने ग्रैंड थेफ्ट ऑटो छह की दुनियाभर में हुई लॉन्च के मौके पर जीटीए शैली के ग्राफ़िक्स के साथ दो हज़ार तेरह और दो हज़ार छब्बीस के भारत की तुलना पेश की, 'फ्रैजाइल फाइव' से दुनिया की सबसे तेज़ी से बढ़ती बड़ी अर्थव्यवस्था तक। कांग्रेस ने पलटवार करते हुए इसे युवाओं से जुड़ने की कोशिश बताया।"
-   },
-   "en": {
-    "title": "'India is playing a whole new game': PM Modi turns the GTA 6 launch into a 13-year report card",
-    "summary": "Prime Minister Narendra Modi marked the worldwide launch of Grand Theft Auto VI with a set of GTA-styled graphics comparing India in 2013 with India in 2026, from the Fragile Five to the fastest-growing major economy. The Congress hit back, calling it a bid to connect with young voters."
-   }
   }
  ]
 }
