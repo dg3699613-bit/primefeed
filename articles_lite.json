@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T13:56:58+05:30",
+ "updatedAt": "2026-11-20T14:09:20+05:30",
  "articles": [
+  {
+   "id": "sensex-700-points-nifty-10-month-high-november-20",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T14:09:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-700-points-nifty-10-month-high-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-700-points-nifty-10-month-high-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-700-points-nifty-10-month-high-november-20-en.mp3",
+   "hi": {
+    "title": "सेंसेक्स सात सौ अंक उछला, निफ्टी दस महीने के उच्चतम स्तर पर — बैंकिंग और आईटी शेयरों की अगुवाई में बाज़ार की ज़ोरदार वापसी",
+    "summary": "वैश्विक बिकवाली के बीच गिरावट के साथ खुले भारतीय शेयर बाज़ार ने शुक्रवार दोपहर तक ज़ोरदार वापसी की। सेंसेक्स सात सौ अंक से ज़्यादा चढ़कर तिरासी हज़ार सात सौ के पार पहुँचा, जबकि निफ्टी पच्चीस हज़ार सात सौ तीस के दस महीने के उच्चतम स्तर को छू गया।"
+   },
+   "en": {
+    "title": "Sensex jumps 700 points, Nifty hits 10-month high as banks and IT lead a sharp rebound",
+    "summary": "Indian equities reversed a gap-down open on Friday to trade firmly higher by early afternoon. The Sensex rose more than 700 points past 83,700, while the Nifty touched 25,730 — its highest in ten months — led by banking and IT stocks."
+   }
+  },
   {
    "id": "gta-6-2-36-billion-launch-day-record-24-58-million-copies-november-20",
    "category": "Technology",
@@ -3206,29 +3227,6 @@
    "en": {
     "title": "Mahanadi Coalfields IPO opens today at 129 to 136 rupees a share; Coal India's 9,500-crore-rupee offer for sale",
     "summary": "Coal India subsidiary Mahanadi Coalfields' initial public offering opened for subscription today, with the price band set at 129 to 136 rupees a share. The pure offer for sale of 66.18 crore shares is expected to raise about 9,500 crore rupees, valuing India's largest single coal producer at up to 90,000 crore rupees."
-   }
-  },
-  {
-   "id": "omar-abdullah-local-hiring-directive-companies-jammu-kashmir-november-17",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-19T11:50:46+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Kathua",
-   "state": "Jammu and Kashmir",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/omar-abdullah-local-hiring-directive-companies-jammu-kashmir-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/omar-abdullah-local-hiring-directive-companies-jammu-kashmir-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/omar-abdullah-local-hiring-directive-companies-jammu-kashmir-november-17-en.mp3",
-   "hi": {
-    "title": "जम्मू-कश्मीर: उमर अब्दुल्ला की कंपनियों को चेतावनी, स्थानीय युवाओं को नौकरी दें, बाहर से भर्ती बर्दाश्त नहीं",
-    "summary": "मुख्यमंत्री उमर अब्दुल्ला ने जम्मू-कश्मीर में काम कर रही कंपनियों से कहा है कि वे स्थानीय युवाओं को नौकरी में पहली प्राथमिकता दें। उन्होंने कहा कि प्रशिक्षित युवाओं की कमी का बहाना अब नहीं चलेगा, और कंपनियों को स्थानीय युवाओं को तैयार करने के लिए छह महीने से एक साल का समय दिया जा सकता है।"
-   },
-   "en": {
-    "title": "Hire our youth first, Omar Abdullah tells companies in Jammu and Kashmir; no excuse of skill shortage, he says",
-    "summary": "Jammu and Kashmir Chief Minister Omar Abdullah has told companies setting up units in the Union Territory that they must give local youth priority in recruitment, warning that the excuse of a shortage of trained manpower will not be accepted. Companies can be given six months to a year to train local youngsters, he said."
    }
   }
  ]
