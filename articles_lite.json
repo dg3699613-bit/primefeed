@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T07:47:33+05:30",
+ "updatedAt": "2026-11-20T08:10:02+05:30",
  "articles": [
+  {
+   "id": "europe-berlin-ukraine-talks-november-19",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T08:10:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/europe-berlin-ukraine-talks-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-berlin-ukraine-talks-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/europe-berlin-ukraine-talks-november-19-en.mp3",
+   "en": {
+    "title": "Europe ready for talks with Russia on ending Ukraine war, leaders say after Berlin summit",
+    "summary": "European leaders said at a Coalition of the Willing summit in Berlin that they are ready to negotiate with Russia on ending the war in Ukraine. In a joint statement, Germany, France, Britain and Ukraine called on Moscow to agree to a winter energy ceasefire and a Black Sea food-export truce as first steps, and promised legally binding security guarantees for Kyiv once a ceasefire holds."
+   },
+   "hi": {
+    "title": "बर्लिन शिखर सम्मेलन के बाद यूरोप ने कहा — रूस से बातचीत को तैयार हैं",
+    "summary": "बर्लिन में कोएलिशन ऑफ द विलिंग के शिखर सम्मेलन में यूरोपीय नेताओं ने कहा है कि वे यूक्रेन युद्ध खत्म करने के लिए रूस से बातचीत को तैयार हैं। जर्मनी, फ़्रांस, ब्रिटेन और यूक्रेन के संयुक्त बयान में मॉस्को से सर्दियों में ऊर्जा ठहराव और काला सागर से खाद्य निर्यात के लिए युद्धविराम पर सहमत होने को कहा गया है, और युद्धविराम के बाद कीव को कानूनी रूप से बाध्यकारी सुरक्षा गारंटी देने का वादा किया गया है।"
+   }
+  },
+  {
+   "id": "ongc-apprentice-3047-posts-november-20",
+   "category": "Rozgar",
+   "sub": "Sarkari Naukri",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-20T08:10:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ongc-apprentice-3047-posts-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongc-apprentice-3047-posts-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongc-apprentice-3047-posts-november-20-en.mp3",
+   "en": {
+    "title": "ONGC apprentice recruitment: 3,047 posts on offer, NAPS last date extended to November 29",
+    "summary": "Oil and Natural Gas Corporation has invited applications for 3,047 apprentice posts across 24 work centres in six sectors. The last date for graduate and diploma apprentices under NATS is today, November 20, while the last date for trade apprentices under NAPS has been extended to November 29 after a corrigendum issued on November 19."
+   },
+   "hi": {
+    "title": "ओएनजीसी में तीन हज़ार सैंतालीस अप्रेंटिस पदों पर भर्ती, एनएपीएस की अंतिम तारीख़ उनतीस नवंबर तक बढ़ी",
+    "summary": "तेल एवं प्राकृतिक गैस निगम ने देश के छह सेक्टरों के चौबीस कार्य केंद्रों पर तीन हज़ार सैंतालीस अप्रेंटिस पदों के लिए आवेदन माँगे हैं। एनएटीएस से स्नातक और डिप्लोमा अप्रेंटिस के लिए आवेदन की अंतिम तारीख़ आज, बीस नवंबर है, जबकि एनएपीएस से ट्रेड अप्रेंटिस के लिए उन्नीस नवंबर को जारी शुद्धिपत्र के बाद अंतिम तारीख़ उनतीस नवंबर तक बढ़ा दी गई है।"
+   }
+  },
   {
    "id": "nz-india-368-nicholls-175-wellington-november-20",
    "category": "Cricket & Sports",
@@ -3177,48 +3219,6 @@
    "en": {
     "title": "Jeffries wins Democratic nomination, on course to become first Black Speaker of the US House",
     "summary": "House Democrats have nominated Hakeem Jeffries as their candidate for Speaker in a 251-11 secret ballot. If he wins the full House vote on January 3, 2027, the 56-year-old New Yorker will become the first Black Speaker in American history."
-   }
-  },
-  {
-   "id": "pew-islam-largest-religion-2035-projection-november-18",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T04:23:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pew-islam-largest-religion-2035-projection-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pew-islam-largest-religion-2035-projection-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pew-islam-largest-religion-2035-projection-november-18-en.mp3",
-   "hi": {
-    "title": "दो हज़ार पैंतीस तक इस्लाम दुनिया का सबसे बड़ा धर्म बन जाएगा, प्यू रिसर्च का अनुमान",
-    "summary": "प्यू रिसर्च सेंटर के नए अनुमानों के मुताबिक दो हज़ार पैंतीस तक दुनिया में मुसलमानों की संख्या दो दशमलव पाँच सात अरब हो जाएगी, जबकि ईसाइयों की संख्या दो दशमलव पाँच दो अरब रहेगी। इस बदलाव की वजह धर्मांतरण नहीं, बल्कि ज़्यादा जन्म दर है।"
-   },
-   "en": {
-    "title": "Islam set to overtake Christianity as world's largest religion by 2035, Pew projects",
-    "summary": "New Pew Research Center projections say Islam will overtake Christianity as the world's largest religion by 2035, with 2.57 billion Muslims against 2.52 billion Christians. Higher birth rates, not conversion, are driving the change."
-   }
-  },
-  {
-   "id": "bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T04:07:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bumrah-kamboj-remove-both-new-zealand-openers-inside-four-overs-wellington-test-november-19-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन टेस्ट: बुमराह और काम्बोज ने चार ओवर में न्यूज़ीलैंड के दोनों ओपनर पवेलियन भेजे",
-    "summary": "जसप्रीत बुमराह ने पहले ही ओवर में टॉम लैथम को शून्य पर बोल्ड किया और अंशुल काम्बोज ने चौथे ओवर में डेवोन कॉनवे को विकेट के पीछे कैच कराया, जिससे शुभमन गिल के टॉस जीतकर गेंदबाज़ी चुनने के बाद न्यूज़ीलैंड बारह रन पर दो विकेट गंवा बैठा।"
-   },
-   "en": {
-    "title": "Bumrah and Kamboj send both New Zealand openers back inside four overs in Wellington",
-    "summary": "Jasprit Bumrah bowled Tom Latham for a duck in the first over and Anshul Kamboj had Devon Conway caught behind in the fourth, leaving New Zealand 12 for 2 after Shubman Gill won the toss and chose to bowl in the first Test at the Basin Reserve."
    }
   }
  ]
