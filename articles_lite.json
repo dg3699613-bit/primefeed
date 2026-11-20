@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T07:04:36+05:30",
+ "updatedAt": "2026-11-20T07:20:18+05:30",
  "articles": [
+  {
+   "id": "supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T07:20:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19-en.mp3",
+   "en": {
+    "title": "Supreme Court on SIR: verify fake Form 7 claims in Mustafabad; deleted voters get window till November 30",
+    "summary": "The Supreme Court on Thursday directed the Election Commission to verify allegations that fake Form 7 applications were filed to delete voters in Delhi's Mustafabad during the SIR, and told voters struck off the rolls to use every chance the poll body gives them before the enumeration window closes on November 30 — saying it would review the position on December 2 and could extend the deadline if needed."
+   },
+   "hi": {
+    "title": "एसआईआर: मुस्तफ़ाबाद में फ़र्ज़ी फ़ॉर्म सात की जाँच के आदेश, हटाए गए मतदाताओं को तीस नवंबर तक का मौक़ा",
+    "summary": "सुप्रीम कोर्ट ने गुरुवार को चुनाव आयोग से कहा कि दिल्ली के मुस्तफ़ाबाद में एसआईआर के दौरान फ़र्ज़ी फ़ॉर्म सात के ज़रिए मतदाताओं के नाम काटने के आरोपों की जाँच करे। साथ ही, अदालत ने सूची से हटाए गए मतदाताओं से कहा कि वे तीस नवंबर तक चुनाव आयोग की ओर से मिलने वाला हर मौक़ा आज़माएँ — अदालत दो दिसंबर को स्थिति की समीक्षा करेगी और ज़रूरत पड़ी तो समय-सीमा बढ़ा भी सकती है।"
+   }
+  },
+  {
+   "id": "vaishali-nishant-kumar-pushed-cm-security-video-row-november-19",
+   "category": "State & Local",
+   "sub": "Bihar",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T07:20:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vaishali-nishant-kumar-pushed-cm-security-video-row-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaishali-nishant-kumar-pushed-cm-security-video-row-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaishali-nishant-kumar-pushed-cm-security-video-row-november-19-en.mp3",
+   "district": "Vaishali",
+   "state": "Bihar",
+   "en": {
+    "title": "Vaishali video row: CM's security 'pushes' minister Nishant Kumar during Nitish Setu inspection; JD(U) seeks probe",
+    "summary": "A video from Vaishali, purportedly showing Chief Minister Samrat Choudhary's security officer pushing Health Minister Nishant Kumar during an inspection of the Nitish Setu bridge, has set off a political row in Bihar. The JD(U) has demanded a police probe, the RJD has attacked the BJP-led government, and the Chief Minister's security group has called the incident a 'human error'."
+   },
+   "hi": {
+    "title": "वैशाली में सीएम की सुरक्षा ने स्वास्थ्य मंत्री निशांत कुमार को धक्का दिया? वीडियो वायरल, जेडीयू ने जाँच माँगी",
+    "summary": "वैशाली में नीतीश सेतु पुल के निरीक्षण के दौरान मुख्यमंत्री सम्राट चौधरी की सुरक्षा में तैनात अधिकारी द्वारा स्वास्थ्य मंत्री निशांत कुमार को धक्का दिए जाने का वीडियो वायरल होने के बाद बिहार में सियासी हंगामा खड़ा हो गया है। जेडीयू ने पुलिस जाँच की माँग की है, राजद ने भाजपा नीत सरकार पर हमला बोला है, और मुख्यमंत्री की सुरक्षा टुकड़ी ने इसे मानवीय भूल बताया है।"
+   }
+  },
   {
    "id": "rahul-gandhi-no-talks-pakistan-terrorism-chicago-november-20",
    "category": "Politics",
@@ -3171,48 +3215,6 @@
    "en": {
     "title": "BMC demolition of Dawood Ibrahim's old Bhendi Bazaar home stalls on day one amid stay claims",
     "summary": "The BMC's plan to demolish the Haji Ismail Haji Habib Musafirkhana in Mumbai's Bhendi Bazaar, the building where Dawood Ibrahim once lived, stalled on its first day. The demolition scheduled for November 18 and 19 did not begin on Wednesday, after residents objected and local MLA Amin Patel claimed a Supreme Court stay was in place. The building was built in 1939 as a lodging house for Haj pilgrims."
-   }
-  },
-  {
-   "id": "gta-6-launches-india-midnight-november-19-november-19",
-   "category": "Technology",
-   "sub": "Gadgets",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T01:58:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-launches-india-midnight-november-19-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-launches-india-midnight-november-19-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-launches-india-midnight-november-19-november-19-en.mp3",
-   "hi": {
-    "title": "जीटीए 6 भारत में आधी रात को खुला: तेरह साल बाद रॉकस्टार का वाइस सिटी वाला खेल आया",
-    "summary": "ग्रैंड थेफ्ट ऑटो छह भारत में उन्नीस नवंबर को रात बारह बजे खुल गया है — ग्रैंड थेफ्ट ऑटो पाँच के तेरह साल बाद। यह खेल प्लेस्टेशन पाँच और एक्सबॉक्स सीरीज़ एक्स और एस पर आया है, स्टैंडर्ड एडिशन पाँच हज़ार नौ सौ निन्यानवे रुपये और अल्टीमेट एडिशन सात हज़ार चार सौ निन्यानवे रुपये में। डाउनलोड के लिए दो सौ बारह जीबी तक जगह चाहिए, और पीसी पर रिलीज़ की तारीख़ अभी नहीं बताई गई है।"
-   },
-   "en": {
-    "title": "GTA 6 unlocks in India at midnight: Rockstar's Vice City epic arrives after 13 years",
-    "summary": "Grand Theft Auto 6 unlocked in India at 12 am IST on November 19, thirteen years after Grand Theft Auto 5. The game is out on PlayStation 5 and Xbox Series X and S, priced at Rs 5,999 for the Standard Edition and Rs 7,499 for the Ultimate Edition, with a download of up to 212 GB. There is no PC release date yet."
-   }
-  },
-  {
-   "id": "up-cabinet-panchayat-elections-postponed-six-months-30-proposals-november-18",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-19T01:58:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-cabinet-panchayat-elections-postponed-six-months-30-proposals-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-cabinet-panchayat-elections-postponed-six-months-30-proposals-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-cabinet-panchayat-elections-postponed-six-months-30-proposals-november-18-en.mp3",
-   "hi": {
-    "title": "यूपी में पंचायत चुनाव छह महीने टले, योगी कैबिनेट ने अध्यादेश को मंज़ूरी दी",
-    "summary": "उत्तर प्रदेश में पंचायत चुनाव छह महीने के लिए टल गए हैं। योगी आदित्यनाथ कैबिनेट ने बुधवार को पंचायती राज (संशोधन) अध्यादेश, दो हज़ार छब्बीस को मंज़ूरी दी, जिससे सत्तावन हज़ार छह सौ चौरानवे ग्राम पंचायतों के प्रशासकों का कार्यकाल छह महीने और बढ़ गया। चुनाव अब मई दो हज़ार सत्ताईस तक होने की संभावना है, विधानसभा चुनावों के बाद।"
-   },
-   "en": {
-    "title": "UP panchayat elections deferred by six months as Yogi cabinet clears ordinance",
-    "summary": "Panchayat elections in Uttar Pradesh have been deferred by six months. The Yogi Adityanath cabinet on Wednesday approved the Uttar Pradesh Panchayati Raj (Amendment) Ordinance, 2026, extending the tenure of administrators running the state's 57,694 gram panchayats. The elections are now likely to be held by May 2027, after the assembly polls."
    }
   }
  ]
