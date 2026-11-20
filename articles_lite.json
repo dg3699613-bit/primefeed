@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T00:37:27+05:30",
+ "updatedAt": "2026-11-21T00:46:34+05:30",
  "articles": [
+  {
+   "id": "nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T00:46:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe-en.mp3",
+   "en": {
+    "title": "NIA seeks UAE's help to trace 'Indian footprints' of co-pilot who attacked flydubai pilot Smit Machchhar",
+    "summary": "The NIA has sent a Mutual Legal Assistance Treaty request to the UAE seeking documents and permission to examine certain people in its probe into the September 30 mid-air attack on Indian flydubai pilot Captain Smit Machchhar. NIA chief Rakesh Aggarwal said the agency is also tracing the Omani co-pilot's 'Indian footprints', including his education in Australia and the UK and his contacts abroad."
+   },
+   "hi": {
+    "title": "एनआईए ने फ्लाईदुबई पायलट स्मित माच्छर पर हमले की जाँच में यूएई से माँगी मदद, सह-पायलट के भारतीय संपर्कों की पड़ताल",
+    "summary": "एनआईए ने फ्लाईदुबई पायलट कैप्टन स्मित माच्छर पर तीस सितंबर को हवा में हुए हमले की जाँच में संयुक्त अरब अमीरात से पारस्परिक कानूनी सहायता का अनुरोध भेजा है। एनआईए प्रमुख राकेश अग्रवाल ने कहा कि अभिकरण ओमानी सह-पायलट के भारतीय संपर्कों की भी पड़ताल कर रहा है।"
+   }
+  },
+  {
+   "id": "baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha",
+   "category": "Dharm-Astrology",
+   "sub": "Katha & Dharm News",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T00:46:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha-en.mp3",
+   "en": {
+    "title": "Baba Ramdev announces world's largest university in Jagadguru Ramanandacharya's name at Gonda Ram Katha",
+    "summary": "Yoga guru Baba Ramdev announced at the nine-day Shri Ram Katha in Gonda's Jai Prabha Gram that a university in the name of Jagadguru Ramanandacharya will be built in the district, calling it the world's largest in the saint's name. He also announced schools and development works in the name of Maharishi Patanjali, whose birthplace is in Gonda."
+   },
+   "hi": {
+    "title": "गोंडा राम कथा में बाबा रामदेव का बड़ा ऐलान: जगद्गुरु रामानंदाचार्य के नाम पर बनेगा विश्व का सबसे बड़ा विश्वविद्यालय",
+    "summary": "योग गुरु बाबा रामदेव ने गोंडा के जयप्रभा ग्राम में चल रही नौ दिवसीय श्रीराम कथा में ऐलान किया कि जिले में जगद्गुरु रामानंदाचार्य के नाम से विश्वविद्यालय बनाया जाएगा, जो संत के नाम पर दुनिया का सबसे बड़ा होगा। उन्होंने महर्षि पतंजलि के नाम पर विद्यालय और विकास कार्य कराने की भी घोषणा की।"
+   },
+   "district": "Gonda",
+   "state": "Uttar Pradesh"
+  },
   {
    "id": "ibps-po-mains-result-2026-out-7565-posts-november-20",
    "category": "Rozgar",
@@ -3179,48 +3223,6 @@
    "en": {
     "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of 'open invasion' of its sovereignty",
     "summary": "Somalia has ordered the United Arab Emirates ambassador to leave the country within 72 hours and withdrawn its own envoy from Abu Dhabi, accusing the Emirates of violations of sovereignty that amount to an open invasion. Mogadishu says Abu Dhabi backed regional governments against the federal government and signed port deals without it."
-   }
-  },
-  {
-   "id": "senegal-migrant-boat-capsizes-yenne-dozens-missing-november-19",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T21:22:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/senegal-migrant-boat-capsizes-yenne-dozens-missing-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/senegal-migrant-boat-capsizes-yenne-dozens-missing-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/senegal-migrant-boat-capsizes-yenne-dozens-missing-november-19-en.mp3",
-   "hi": {
-    "title": "सेनेगल के तट पर लगभग सौ प्रवासियों वाली नाव पलटी, दर्जनों लोग लापता",
-    "summary": "सेनेगल के तट पर यूरोप जा रही प्रवासियों की एक नाव पलट गई, जिससे दर्जनों लोग लापता हैं। बुरी तरह क्षतिग्रस्त नाव येने गाँव के पास किनारे पर आ गई, और तलाश बुधवार भर चली और गुरुवार को फिर शुरू हुई।"
-   },
-   "en": {
-    "title": "Dozens missing after migrant boat carrying about 100 people capsizes off Senegal",
-    "summary": "Dozens of people are missing after a boat carrying migrants bound for Europe capsized off Senegal's coast near the village of Yenne. The badly damaged vessel washed ashore, and search teams worked through Wednesday and resumed on Thursday."
-   }
-  },
-  {
-   "id": "dutch-watchdog-dont-buy-ai-smart-glasses-secret-filming-dangerous-advice-november-19",
-   "category": "Technology",
-   "sub": "Gadgets",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T20:55:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dutch-watchdog-dont-buy-ai-smart-glasses-secret-filming-dangerous-advice-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dutch-watchdog-dont-buy-ai-smart-glasses-secret-filming-dangerous-advice-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dutch-watchdog-dont-buy-ai-smart-glasses-secret-filming-dangerous-advice-november-19-en.mp3",
-   "hi": {
-    "title": "एआई स्मार्ट चश्मा मत खरीदिए, डच प्राइवेसी वॉचडॉग की चेतावनी — छिपकर फिल्मिंग और खतरनाक सलाह का खुलासा",
-    "summary": "नीदरलैंड की प्राइवेसी वॉचडॉग एपी ने कहा है कि लोग आम इस्तेमाल के लिए एआई कैमरा वाले स्मार्ट चश्मे न खरीदें। छह चश्मों की जाँच में छिपकर फिल्मिंग, कमज़ोर सुरक्षा और जानलेवा हालात में गलत सलाह देने के मामले सामने आए हैं।"
-   },
-   "en": {
-    "title": "Don't buy AI smart glasses, Dutch privacy watchdog warns after tests find secret filming and dangerous advice",
-    "summary": "The Netherlands' privacy watchdog has advised consumers not to buy AI-powered camera glasses for everyday use, after tests on six models found secret filming, weak security and dangerously wrong advice in emergencies."
    }
   }
  ]
