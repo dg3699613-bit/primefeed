@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T23:48:28+05:30",
+ "updatedAt": "2026-11-21T00:09:10+05:30",
  "articles": [
+  {
+   "id": "trump-press-conference-after-xi-putin-summit-iran-data-centers-november-21",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "शी–पुतिन शिखर सम्मेलन से लौटे ट्रंप की ईरान को चेतावनी — असली समझौता चाहिए, नकली नहीं; विदेश में डेटा सेंटर बनाने पर भारी टैक्स की धमकी",
+    "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने शेनझेन में चीन के शी चिनफिंग और रूस के व्लादिमीर पुतिन के साथ हुए पहले त्रिपक्षीय शिखर सम्मेलन से लौटने के बाद व्हाइट हाउस में प्रेस कॉन्फ्रेंस की। उन्होंने ईरान को चेताया कि वॉशिंगटन को असली समझौता चाहिए, बताया कि वे और शी एआई पर संयुक्त सुरक्षा उपायों पर सहमत हुए हैं, और विदेश में डेटा सेंटर बनाने वाली अमेरिकी कंपनियों पर भारी टैक्स की धमकी दी।"
+   },
+   "en": {
+    "title": "Trump, back from Xi–Putin summit, warns Iran: 'We want a real deal, not a fake deal'; vows heavy tax on data centers built abroad",
+    "summary": "US President Donald Trump held his first White House press conference since returning from the first-ever trilateral summit with China's Xi Jinping and Russia's Vladimir Putin in Shenzhen. He warned Iran that Washington wants a real deal, said he and Xi agreed on joint AI guardrails, and threatened a heavy tax on American companies that build data centers abroad."
+   },
+   "publishedAt": "2026-11-21T00:09:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-press-conference-after-xi-putin-summit-iran-data-centers-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-press-conference-after-xi-putin-summit-iran-data-centers-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-press-conference-after-xi-putin-summit-iran-data-centers-november-21-en.mp3"
+  },
   {
    "id": "manipur-hooch-toll-rises-15-chandel-shija-hospital-november-20",
    "category": "Crime & Law",
@@ -3200,27 +3221,6 @@
    "en": {
     "title": "World court finds Myanmar committed genocide against Rohingya — a first in its 80-year history",
     "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against its Rohingya minority during the 2017 military crackdown. It is the first time in the court's 80-year history that a state has been found responsible for genocide. The court ordered Myanmar to allow the safe return of refugees and pay compensation."
-   }
-  },
-  {
-   "id": "malaysia-ends-visa-free-entry-indians-january-1-2027-november-19",
-   "category": "Lifestyle",
-   "sub": "Travel",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T19:38:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/malaysia-ends-visa-free-entry-indians-january-1-2027-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malaysia-ends-visa-free-entry-indians-january-1-2027-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malaysia-ends-visa-free-entry-indians-january-1-2027-november-19-en.mp3",
-   "hi": {
-    "title": "मलेशिया में एक जनवरी से भारतीयों को वीज़ा लेना होगा, वीज़ा-मुक्त प्रवेश खत्म",
-    "summary": "मलेशिया एक जनवरी दो हज़ार सत्ताईस से भारतीय पासपोर्टधारकों के लिए तीस दिन की वीज़ा-मुक्त प्रवेश सुविधा खत्म कर देगा। उस तारीख़ से मलेशिया जाने वाले हर भारतीय को पहले से वीज़ा लेना होगा। वीज़ा के लिए आवेदन एक दिसंबर दो हज़ार छब्बीस से माईवीज़ा पोर्टल पर शुरू होंगे।"
-   },
-   "en": {
-    "title": "Malaysia to end visa-free entry for Indians from January 1 — a visa will be needed before travel",
-    "summary": "Malaysia will withdraw its 30-day visa-free entry facility for Indian passport holders from January 1, 2027. From that date every Indian entering the country will need a valid visa in hand before arrival. Visa applications open on December 1, 2026 through Malaysia's MyVISA online portal."
    }
   }
  ]
