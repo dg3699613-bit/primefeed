@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T10:15:30+05:30",
+ "updatedAt": "2026-11-20T10:25:38+05:30",
  "articles": [
+  {
+   "id": "cyclone-akvan-crosses-odisha-coast-gopalpur-november-20",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-20T10:25:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-crosses-odisha-coast-gopalpur-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-crosses-odisha-coast-gopalpur-november-20-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "चक्रवात अकवान गोपालपुर के पास ओडिशा तट से टकराया, किनारे आते-आते कमज़ोर पड़ा",
+    "summary": "चक्रवात अकवान शुक्रवार सुबह सात बजकर तीस मिनट से आठ बजकर तीस मिनट के बीच गोपालपुर के पास उत्तर आंध्र प्रदेश-दक्षिण ओडिशा तट से टकराया, उस समय हवा की गति सत्तर से अस्सी किलोमीटर प्रति घंटा थी और झोंके नब्बे किलोमीटर प्रति घंटा तक पहुँच रहे थे। करीब तीन लाख लोगों को सुरक्षित जगहों पर पहुँचाया जा चुका है और तट पर भारी बारिश जारी है।"
+   },
+   "en": {
+    "title": "Cyclone Akvan crosses the Odisha coast near Gopalpur, weakening as it comes ashore",
+    "summary": "Cyclone Akvan crossed the north Andhra Pradesh–south Odisha coast close to Gopalpur between 7:30 and 8:30 on Friday morning, with winds of 70-80 kmph gusting to 90 kmph, the India Meteorological Department said. Nearly three lakh people have been moved to safety and more than 400 rescue teams are on the ground as heavy rain lashes the coast."
+   }
+  },
+  {
+   "id": "bombay-hc-weighs-total-firecracker-ban-mumbai-november-20",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T10:25:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20-en.mp3",
+   "hi": {
+    "title": "बॉम्बे हाई कोर्ट मुंबई में पटाखों पर पूरी रोक पर कर रहा विचार: 'लोगों की सोच बदलने वाली नहीं'",
+    "summary": "बॉम्बे हाई कोर्ट ने गुरुवार को कहा कि वह मुंबई में पटाखों पर पूरी तरह रोक लगाने के 'कड़े आदेश' पर विचार कर रहा है, जिसमें सिर्फ तय जगहों पर सामुदायिक आतिशबाज़ी की छूट मिलेगी। दीवाली पर शहर में तीन सौ बत्तीस जगह आग लगी थी, हवा की गुणवत्ता सबसे खराब रही और कोर्ट के आदेश के बावजूद रात तीन बजे तक पटाखे फोड़े गए।"
+   },
+   "en": {
+    "title": "Bombay High Court weighs a total firecracker ban for Mumbai: 'People are not going to change their mindset'",
+    "summary": "The Bombay High Court on Thursday said it was considering a 'drastic order' imposing a complete ban on firecrackers in Mumbai, allowing only community displays on permitted grounds, after Diwali in the city saw 332 fires, air quality at its worst and crackers burst till 3 am despite court orders. The bench has reserved its order."
+   },
+   "district": "Mumbai",
+   "state": "Maharashtra"
+  },
   {
    "id": "india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20",
    "category": "Cricket & Sports",
@@ -480,7 +524,7 @@
    "category": "Weather",
    "sub": "Cyclone",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-20T06:34:47+05:30",
    "source": "PrimeFeed Desk",
@@ -3181,48 +3225,6 @@
    "en": {
     "title": "Cyclone Akvan: Odisha evacuates nearly 50,000 people as landfall nears; storm to cross coast by Friday noon",
     "summary": "Odisha has moved nearly 50,000 people to safety ahead of severe cyclonic storm Akvan, which is expected to cross the coast between Narsapur in Andhra Pradesh and Puri by noon on Friday, November 20, with winds of 90 to 100 kmph gusting to 110 kmph."
-   }
-  },
-  {
-   "id": "asif-merchant-sentenced-27-years-iran-trump-plot-november-17",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T08:09:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/asif-merchant-sentenced-27-years-iran-trump-plot-november-17.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asif-merchant-sentenced-27-years-iran-trump-plot-november-17-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asif-merchant-sentenced-27-years-iran-trump-plot-november-17-en.mp3",
-   "hi": {
-    "title": "ट्रंप की हत्या की साज़िश रचने वाले पाकिस्तानी को अमेरिका में सत्ताईस साल की जेल",
-    "summary": "ब्रुकलिन की संघीय अदालत ने अड़तालीस वर्षीय पाकिस्तानी नागरिक आसिफ़ मर्चेंट को डोनाल्ड ट्रंप और अन्य अमेरिकी नेताओं की हत्या की साज़िश रचने के आरोप में सत्ताईस साल छह महीने की जेल सुनाई है। जूरी ने मार्च में उसे दोषी ठहराया था; अभियोजन के मुताबिक यह साज़िश कासिम सुलेमानी की हत्या का बदला लेने के लिए ईरान के रिवोल्यूशनरी गार्ड की ओर से रची गई थी।"
-   },
-   "en": {
-    "title": "Pakistani man gets 27 years in US prison for Iran-backed plot to kill Trump",
-    "summary": "A federal court in Brooklyn has sentenced 48-year-old Pakistani national Asif Merchant to 27 years and six months in prison for trying to arrange the assassination of Donald Trump and other American politicians on behalf of Iran's Revolutionary Guard. A jury convicted him in March; prosecutors said the plot was revenge for the 2020 killing of Qasem Soleimani."
-   }
-  },
-  {
-   "id": "epfo-higher-pension-1-1-lakh-crore-445-lakh-applicants-november-18",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T08:09:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/epfo-higher-pension-1-1-lakh-crore-445-lakh-applicants-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/epfo-higher-pension-1-1-lakh-crore-445-lakh-applicants-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/epfo-higher-pension-1-1-lakh-crore-445-lakh-applicants-november-18-en.mp3",
-   "hi": {
-    "title": "चार लाख पैंतालीस हज़ार आवेदकों को बढ़ी पेंशन पर ईपीएफओ को एक लाख दस हज़ार करोड़ का खर्च",
-    "summary": "ईपीएफओ ने अपने केंद्रीय न्यासी बोर्ड को बताया है कि करीब चार लाख पैंतालीस हज़ार आवेदकों को बढ़ी हुई पेंशन देने पर उसे एक लाख दस हज़ार करोड़ रुपये से ज़्यादा का अतिरिक्त खर्च आ सकता है। बोर्ड की बैठक गुरुवार को हो रही है। सुप्रीम कोर्ट के दो हज़ार बाईस के आदेश के तहत अब तक चार लाख पैंतालीस हज़ार चार सौ इकहत्तर आवेदकों को माँग पत्र भेजे गए हैं और एक लाख इक्यावन हज़ार आठ सौ चौहत्तर पेंशनरों को पेंशन भुगतान आदेश जारी किए गए हैं।"
-   },
-   "en": {
-    "title": "Higher pension for 4.45 lakh applicants may cost EPFO ₹1.1 lakh crore",
-    "summary": "The EPFO has told its Central Board of Trustees that paying higher pensions to about 4.45 lakh applicants could cost it an additional ₹1.109 lakh crore. The board meets on Thursday. So far, demand letters have gone to 4,45,471 applicants and pension payment orders have been issued to 1,51,874 pensioners under the Supreme Court's 2022 order."
    }
   }
  ]
