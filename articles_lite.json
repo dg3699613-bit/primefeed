@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T09:10:44+05:30",
+ "updatedAt": "2026-11-20T09:29:32+05:30",
  "articles": [
+  {
+   "id": "maharashtra-drought-310-talukas-construction-halted-november-20",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T09:29:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maharashtra-drought-310-talukas-construction-halted-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-drought-310-talukas-construction-halted-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-drought-310-talukas-construction-halted-november-20-en.mp3",
+   "hi": {
+    "title": "महाराष्ट्र में सूखा प्रभावित तीन सौ दस तालुकों में गैर-ज़रूरी निर्माण पर रोक, पैसा पेयजल पर लगेगा",
+    "summary": "महाराष्ट्र सरकार ने ज़िला अधिकारियों को सूखा प्रभावित तालुकों में गैर-ज़रूरी नए निर्माण कार्य अस्थायी रूप से रोकने और वह पैसा पेयजल आपूर्ति व अन्य राहत कार्यों पर लगाने का आदेश दिया है। गुरुवार को दो और तालुके सूखाग्रस्त घोषित हुए, जिससे कुल संख्या राज्य के तीन सौ अठावन तालुकों में से तीन सौ दस हो गई है।"
+   },
+   "en": {
+    "title": "Maharashtra halts non-essential construction in 310 drought-hit talukas, funds diverted to drinking water",
+    "summary": "The Maharashtra government has ordered district authorities to temporarily suspend non-essential new construction in drought-hit talukas and divert the funds to drinking water supply and other relief works. Two more talukas were declared drought-hit on Thursday, taking the total to 310 of the state's 358 talukas."
+   }
+  },
+  {
+   "id": "ramayana-day-15-1547-crore-worldwide-passes-kgf-2-november-20",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T09:29:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-day-15-1547-crore-worldwide-passes-kgf-2-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-15-1547-crore-worldwide-passes-kgf-2-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-15-1547-crore-worldwide-passes-kgf-2-november-20-en.mp3",
+   "hi": {
+    "title": "रामायण पंद्रहवें दिन दुनिया भर में एक हज़ार पाँच सौ सैंतालीस करोड़ के पार, केजीएफ़ चैप्टर दो का रिकॉर्ड पीछे छोड़ा",
+    "summary": "नितेश तिवारी की रामायण ने पंद्रहवें दिन भी रिकॉर्डों की झड़ी जारी रखी — दुनिया भर में इसकी कमाई एक हज़ार पाँच सौ सैंतालीस करोड़ रुपये हो गई और भारत में नेट कलेक्शन आठ सौ इकसठ करोड़ रुपये के पार चला गया, जिससे यह केजीएफ़ चैप्टर दो के आठ सौ उनसठ दशमलव सात शून्य करोड़ रुपये के आजीवन भारतीय कलेक्शन से आगे निकल गई। व्यापार अनुमानों के मुताबिक यह अब तक की पाँचवीं सबसे ज़्यादा कमाने वाली भारतीय फ़िल्म है।"
+   },
+   "en": {
+    "title": "Ramayana crosses ₹1,547 crore worldwide on day 15, passes KGF Chapter 2's lifetime India haul",
+    "summary": "Nitesh Tiwari's Ramayana added to its record run on its 15th day, taking its worldwide gross to ₹1,547 crore and its India net past ₹861 crore — moving ahead of KGF: Chapter 2's lifetime India collection of ₹859.70 crore. Trade estimates call it the fifth highest-grossing Indian film ever."
+   }
+  },
   {
    "id": "anthropic-shares-close-17-percent-higher-nasdaq-debut-november-20",
    "category": "Business",
@@ -3179,48 +3221,6 @@
    "en": {
     "title": "Australia sanctions three Israeli settlers and four groups over West Bank expansion",
     "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations over illegal settlement expansion and settler violence in the occupied West Bank, a day after Britain sanctioned eight Israeli construction firms. Foreign Minister Penny Wong said the expansion and violence were extinguishing the possibility of a two-state solution."
-   }
-  },
-  {
-   "id": "prince-william-kate-meet-pm-modi-delhi-outcome-november-18",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T06:20:45+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/prince-william-kate-meet-pm-modi-delhi-outcome-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prince-william-kate-meet-pm-modi-delhi-outcome-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prince-william-kate-meet-pm-modi-delhi-outcome-november-18-en.mp3",
-   "hi": {
-    "title": "प्रिंस विलियम और केट ने दिल्ली में पीएम मोदी से मुलाकात की, रक्षा-स्वास्थ्य और भारत-ब्रिटेन साझेदारी पर बात",
-    "summary": "ब्रिटेन के प्रिंस विलियम और राजकुमारी कैथरीन ने तीन दिन की भारत यात्रा के आखिरी दिन नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। रक्षा, स्वास्थ्य, शिक्षा और वित्तीय तकनीक पर सहयोग बढ़ाने पर बात हुई, और मोदी ने अर्थशॉट पुरस्कार तथा भारत-ब्रिटेन व्यापार समझौते की सराहना की।"
-   },
-   "en": {
-    "title": "Prince William and Kate meet PM Modi in Delhi, discuss defence, health and India-UK partnership",
-    "summary": "Britain's Prince William and Princess Catherine met Prime Minister Narendra Modi in New Delhi on the final day of their three-day India visit, discussing defence, health, education and fintech cooperation, with Modi praising the Earthshot Prize and the India-UK trade agreement."
-   }
-  },
-  {
-   "id": "us-venezuela-sign-military-deal-hegseth-caracas-november-18",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T05:54:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-venezuela-sign-military-deal-hegseth-caracas-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-venezuela-sign-military-deal-hegseth-caracas-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-venezuela-sign-military-deal-hegseth-caracas-november-18-en.mp3",
-   "hi": {
-    "title": "अमेरिका-वेनेज़ुएला के बीच सैन्य समझौता: हेगसेथ का कराकस दौरा, दस महीने बाद फिर साथ प्रशिक्षण",
-    "summary": "अमेरिकी रक्षा मंत्री पीट हेगसेथ ने कराकस में अंतरिम राष्ट्रपति डेल्सी रोड्रिग्ज़ से मिलकर सैन्य संबंध बहाल करने का समझौता किया, जिसके तहत दोनों सेनाएँ साथ प्रशिक्षण करेंगी और खुफिया जानकारी साझा करेंगी। यह जनवरी में निकोलस मादुरो को पकड़े जाने के बाद वेनेज़ुएला की सबसे बड़ी अमेरिकी यात्रा है।"
-   },
-   "en": {
-    "title": "US and Venezuela sign military deal as Hegseth visits Caracas, ten months after Maduro's capture",
-    "summary": "US Defense Secretary Pete Hegseth met interim President Delcy Rodriguez in Caracas and signed an agreement to reestablish military ties, with joint training and intelligence sharing, in the highest-level American visit to Venezuela since Nicolas Maduro was captured in January."
    }
   }
  ]
