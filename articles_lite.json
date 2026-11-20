@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T12:49:22+05:30",
+ "updatedAt": "2026-11-20T13:13:09+05:30",
  "articles": [
+  {
+   "id": "rajasthan-panchayat-counting-congress-surges-ahead-november-20",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T13:13:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-panchayat-counting-congress-surges-ahead-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-counting-congress-surges-ahead-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-counting-congress-surges-ahead-november-20-en.mp3",
+   "hi": {
+    "title": "राजस्थान पंचायत चुनाव: मतगणना में कांग्रेस की बड़ी बढ़त, शुरुआती बढ़त गंवाकर भाजपा पिछड़ी; जयपुर और चित्तौड़गढ़ में कांग्रेस आगे",
+    "summary": "राजस्थान में जिला परिषद और पंचायत समिति चुनावों की मतगणना में कांग्रेस भाजपा से आगे निकल गई है। पंचायत समिति की एक सौ तिरपन सीटों पर कांग्रेस और छियासी पर भाजपा आगे है, जबकि जयपुर और चित्तौड़गढ़ में कांग्रेस मज़बूत स्थिति में है।"
+   },
+   "en": {
+    "title": "Rajasthan panchayat polls: Congress surges ahead in counting as early BJP lead flips; Jaipur, Chittorgarh tilt Congress",
+    "summary": "The Congress has surged ahead of the BJP in the counting of votes for Rajasthan's Zila Parishad and Panchayat Samiti elections, leading in 153 Panchayat Samiti seats to the BJP's 86, with Jaipur and Chittorgarh tilting firmly towards the Congress."
+   }
+  },
+  {
+   "id": "cop31-revised-draft-drops-fossil-fuels-antalya-november-20",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T13:13:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cop31-revised-draft-drops-fossil-fuels-antalya-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cop31-revised-draft-drops-fossil-fuels-antalya-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cop31-revised-draft-drops-fossil-fuels-antalya-november-20-en.mp3",
+   "hi": {
+    "title": "सीओपी इकतीस: अंतिम दिन से पहले मसौदा समझौते से जीवाश्म ईंधन का ज़िक्र गायब, डेढ़ डिग्री लक्ष्य से चूक की आशंका",
+    "summary": "अंताल्या में चल रहे सीओपी इकतीस सम्मेलन में वार्ताकारों ने संशोधित मसौदा समझौता जारी किया है, जिसमें जीवाश्म ईंधन से दूर जाने का कोई ज़िक्र नहीं है और एक सौ बीस अरब डॉलर की वार्षिक जलवायु सहायता का प्रस्ताव भी हटा दिया गया है।"
+   },
+   "en": {
+    "title": "COP31 draft drops all mention of fossil fuels as summit enters final day in Antalya",
+    "summary": "Negotiators at COP31 in Antalya have published a revised draft agreement that drops all references to moving away from fossil fuels and removes a proposed 120-billion-dollar annual adaptation finance target, as the summit enters its final day."
+   }
+  },
   {
    "id": "delhi-100-electric-buses-flagged-off-fleet-7088-november-20",
    "category": "State & Local",
@@ -3189,48 +3231,6 @@
    "en": {
     "title": "In Chicago, Rahul Gandhi calls Indian democracy 'sick' but rules out poll boycott; BJP hits back",
     "summary": "Congress leader Rahul Gandhi has said the opposition will not boycott elections, but will keep raising alleged irregularities in voter rolls before the public. Speaking at the University of Chicago, he described Indian democracy as 'sick', drawing a sharp response from the BJP on Thursday morning."
-   }
-  },
-  {
-   "id": "india-accuses-pakistan-army-mineral-exploitation-un-november-19",
-   "category": "World",
-   "sub": "Pakistan",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T11:13:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-accuses-pakistan-army-mineral-exploitation-un-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-accuses-pakistan-army-mineral-exploitation-un-november-19-en.mp3",
-   "en": {
-    "title": "India accuses Pakistan Army of looting mineral wealth at UN, cites Munir's mineral box shown to Trump",
-    "summary": "India's UN envoy Parvathaneni Harish accused Pakistan's military of exploiting the country's natural resources for personal gain at a Security Council meeting, pointing to Field Marshal Asim Munir displaying a box of mineral stones to foreign leaders last September."
-   },
-   "hi": {
-    "title": "संयुक्त राष्ट्र में भारत का पाकिस्तान की सेना पर तीखा हमला: खनिज संपदा की लूट का आरोप, मुनीर के मिनरल बॉक्स का हवाला",
-    "summary": "संयुक्त राष्ट्र में भारत के स्थायी प्रतिनिधि पार्वथनेनि हरीश ने सुरक्षा परिषद की बैठक में पाकिस्तान की सेना पर देश की खनिज संपदा को निजी फायदे के लिए लूटने का आरोप लगाया और पिछले साल सितंबर में फील्ड मार्शल आसिम मुनीर के विदेशी नेताओं को खनिज पत्थरों का बक्सा दिखाने का हवाला दिया।"
-   }
-  },
-  {
-   "id": "openai-amd-chip-design-14-percent-gains-november-19",
-   "category": "Technology",
-   "sub": "AI",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T11:13:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/openai-amd-chip-design-14-percent-gains-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/openai-amd-chip-design-14-percent-gains-november-19-en.mp3",
-   "en": {
-    "title": "OpenAI says its AI models squeezed up to 14% more from AMD's flagship chips, a year's work in five months",
-    "summary": "OpenAI said its AI models delivered up to 14% improvements in performance, power and area on AMD's flagship GPU designs, compressing roughly a year of chip-design progress into less than five months, with some changes already in a chip sent for manufacturing."
-   },
-   "hi": {
-    "title": "ओपनएआई का दावा: एआई मॉडल ने एएमडी के फ्लैगशिप चिप डिजाइन में चौदह प्रतिशत तक सुधार किया, साल भर का काम पाँच महीने में",
-    "summary": "ओपनएआई ने कहा है कि उसके एआई मॉडल ने एएमडी के फ्लैगशिप ग्राफिक्स चिप डिजाइन में प्रदर्शन, बिजली की खपत और आकार में चौदह प्रतिशत तक सुधार किया है। कंपनी का कहना है कि यह करीब एक साल की डिजाइन प्रगति है, जो पाँच महीने से भी कम समय में हासिल हुई, और कुछ बदलाव पहले ही निर्माण के लिए भेजे गए चिप डिजाइन में शामिल कर लिए गए हैं।"
    }
   }
  ]
