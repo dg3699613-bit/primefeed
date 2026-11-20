@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T09:29:32+05:30",
+ "updatedAt": "2026-11-20T09:40:24+05:30",
  "articles": [
+  {
+   "id": "ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T09:40:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet-en.mp3",
+   "hi": {
+    "title": "गंगा जल संधि खत्म होने में सिर्फ बाईस दिन, नवीनीकरण की बातचीत अब तक शुरू ही नहीं",
+    "summary": "उन्नीस सौ छियानबे की वह संधि, जिसके तहत भारत और बांग्लादेश फरक्का में गंगा के सूखे मौसम के पानी का बँटवारा करते हैं, बारह दिसंबर को खत्म हो रही है। ढाका ने दो बार दिल्ली से औपचारिक नवीनीकरण वार्ता शुरू करने को कहा है और अब वह गारंटी वाले हिस्से के साथ नई संधि चाहता है; दिल्ली ने बातचीत की कोई तारीख़ घोषित नहीं की है, और बिना समझौते के बँटवारे का फॉर्मूला अपने आप खत्म हो जाएगा।"
+   },
+   "en": {
+    "title": "Ganga water treaty runs out in 22 days — and renewal talks have not even begun",
+    "summary": "The 1996 treaty that governs how India and Bangladesh share the Ganga's dry-season water at Farakka expires on December 12. Dhaka has twice asked Delhi to begin formal renewal talks and now wants a new pact with a guaranteed share; Delhi has announced no date for talks, and without an agreement the sharing formula simply stops applying."
+   }
+  },
   {
    "id": "maharashtra-drought-310-talukas-construction-halted-november-20",
    "category": "State & Local",
@@ -3200,27 +3221,6 @@
    "en": {
     "title": "Florida pastor convicted over 2021 assassination of Haiti's President Moïse",
     "summary": "A federal jury in Miami has convicted Florida pastor Christian Emmanuel Sanon on all eight charges arising from the 2021 assassination of Haitian President Jovenel Moïse. Sanon, 68, faces up to life in prison when he is sentenced on February 10."
-   }
-  },
-  {
-   "id": "australia-sanctions-israeli-settlers-west-bank-expansion-november-18",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T06:43:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/australia-sanctions-israeli-settlers-west-bank-expansion-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/australia-sanctions-israeli-settlers-west-bank-expansion-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/australia-sanctions-israeli-settlers-west-bank-expansion-november-18-en.mp3",
-   "hi": {
-    "title": "ऑस्ट्रेलिया ने वेस्ट बैंक में बस्तियों के विस्तार पर तीन इसराइली नागरिकों और चार संगठनों पर प्रतिबंध लगाए",
-    "summary": "ऑस्ट्रेलिया ने कब्ज़े वाले वेस्ट बैंक में अवैध बस्तियों के विस्तार और बसने वालों की हिंसा को लेकर तीन इसराइली नागरिकों और चार संगठनों पर प्रतिबंध लगा दिए हैं। विदेश मंत्री पेनी वॉन्ग ने कहा कि बस्तियों का विस्तार और हिंसा दो-राष्ट्र समाधान की संभावना खत्म कर रही है।"
-   },
-   "en": {
-    "title": "Australia sanctions three Israeli settlers and four groups over West Bank expansion",
-    "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations over illegal settlement expansion and settler violence in the occupied West Bank, a day after Britain sanctioned eight Israeli construction firms. Foreign Minister Penny Wong said the expansion and violence were extinguishing the possibility of a two-state solution."
    }
   }
  ]
