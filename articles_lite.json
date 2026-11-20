@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T20:42:44+05:30",
+ "updatedAt": "2026-11-20T21:10:56+05:30",
  "articles": [
+  {
+   "id": "india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "राइजिंग स्टार्स एशिया कप: भारत ए ने नेपाल को तीन सौ छह रन से हराया, तिलक-कुशाग्र के शतक के बाद नेपाल सिर्फ छब्बीस रन पर ढेर",
+    "summary": "भारत ए ने एशिया कप राइजिंग स्टार्स के ग्रुप बी मुकाबले में नेपाल को तीन सौ छह रन से हरा दिया। तिलक वर्मा के एक सौ सात और कुमार कुशाग्र के एक सौ सत्रह रन की बदौलत भारत ए ने तीन सौ बत्तीस रन बनाए, फिर प्रिंस यादव के पाँच और हर्षित राणा के चार विकेट से नेपाल की टीम ग्यारह ओवर तीन गेंद में सिर्फ छब्बीस रन पर सिमट गई।"
+   },
+   "en": {
+    "title": "Rising Stars Asia Cup: India A crush Nepal by 306 runs after bowling them out for 26; Tilak, Kushagra hit hundreds",
+    "summary": "India A thrashed Nepal by 306 runs in their Group B match of the ACC Asia Cup Rising Stars in Doha. Centuries from captain Tilak Varma and Kumar Kushagra powered India A to 332 for 9, before Prince Yadav took five wickets and Harshit Rana four as Nepal were bowled out for just 26 in 11 overs and three balls."
+   },
+   "publishedAt": "2026-11-20T21:10:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20-en.mp3"
+  },
   {
    "id": "drunk-punjab-cop-runs-over-schoolgirl-amritsar-november-20",
    "category": "Crime & Law",
@@ -3205,27 +3226,6 @@
    },
    "district": "Rampur",
    "state": "Uttar Pradesh"
-  },
-  {
-   "id": "puc-certificate-validity-revised-bs-vi-three-year-november-19",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T17:45:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/puc-certificate-validity-revised-bs-vi-three-year-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puc-certificate-validity-revised-bs-vi-three-year-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puc-certificate-validity-revised-bs-vi-three-year-november-19-en.mp3",
-   "en": {
-    "title": "New PUC rules: BS-VI private vehicles up to six years old get three-year certificates",
-    "summary": "The Centre has revised Pollution Under Control certificate validity periods, giving private BS-VI vehicles up to six years old a three-year certificate, while older vehicles keep shorter renewal cycles. The changes, notified on November 13, came into force on November 19."
-   },
-   "hi": {
-    "title": "नए पीयूसी नियम: छह साल तक के बीएस-छह निजी वाहनों को तीन साल का प्रमाणपत्र",
-    "summary": "केंद्र सरकार ने प्रदूषण नियंत्रण प्रमाणपत्र की वैधता की अवधि बदल दी है। छह साल तक के निजी बीएस-छह वाहनों को अब तीन साल का प्रमाणपत्र मिलेगा, जबकि पुराने वाहनों के लिए नवीनीकरण का चक्र छोटा ही रहेगा। तेरह नवंबर को अधिसूचित ये बदलाव उन्नीस नवंबर से लागू हो गए।"
-   }
   }
  ]
 }
