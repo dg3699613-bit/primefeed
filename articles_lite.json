@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T08:56:36+05:30",
+ "updatedAt": "2026-11-20T09:10:44+05:30",
  "articles": [
+  {
+   "id": "anthropic-shares-close-17-percent-higher-nasdaq-debut-november-20",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T09:10:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anthropic-shares-close-17-percent-higher-nasdaq-debut-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-shares-close-17-percent-higher-nasdaq-debut-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-shares-close-17-percent-higher-nasdaq-debut-november-20-en.mp3",
+   "hi": {
+    "title": "एंथ्रोपिक के शेयर पहले दिन सत्रह प्रतिशत ऊपर बंद, शुरुआती चौंतीस प्रतिशत की उछाल फीकी पड़ी",
+    "summary": "एंथ्रोपिक के शेयर पहले दिन की ट्रेडिंग में सत्तानवे दशमलव एक सात डॉलर पर बंद हुए — आईपीओ मूल्य तिरासी डॉलर से सत्रह प्रतिशत ऊपर। शेयर एक सौ ग्यारह दशमलव पाँच डॉलर पर चौंतीस प्रतिशत की उछाल के साथ खुले थे, फिर पूरे सत्र में फिसलते रहे, जबकि नैस्डैक दो प्रतिशत से ज़्यादा गिरा।"
+   },
+   "en": {
+    "title": "Anthropic closes 17% higher on Nasdaq debut after early 34% surge fades",
+    "summary": "Anthropic shares ended their first day of trading at $97.17, up 17% from the $83 IPO price, after opening 34% higher at $111.50 and fading through a rough session in which the Nasdaq fell more than 2%."
+   }
+  },
   {
    "id": "lajpat-nagar-fire-owner-arrested-bail-november-20",
    "category": "Crime & Law",
@@ -3200,27 +3221,6 @@
    "en": {
     "title": "US and Venezuela sign military deal as Hegseth visits Caracas, ten months after Maduro's capture",
     "summary": "US Defense Secretary Pete Hegseth met interim President Delcy Rodriguez in Caracas and signed an agreement to reestablish military ties, with joint training and intelligence sharing, in the highest-level American visit to Venezuela since Nicolas Maduro was captured in January."
-   }
-  },
-  {
-   "id": "india-pacers-dominate-first-session-new-zealand-60-4-lunch-wellington-test-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T05:40:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-pacers-dominate-first-session-new-zealand-60-4-lunch-wellington-test-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-pacers-dominate-first-session-new-zealand-60-4-lunch-wellington-test-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-pacers-dominate-first-session-new-zealand-60-4-lunch-wellington-test-november-19-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन टेस्ट: पहले सत्र में भारत के तेज़ गेंदबाज़ों का कहर, लंच तक न्यूज़ीलैंड साठ रन पर चार विकेट",
-    "summary": "जसप्रीत बुमराह ने पहले ही ओवर में टॉम लैथम को शून्य पर बोल्ड किया, अंशुल काम्बोज ने डेवोन कॉनवे को पवेलियन भेजा, और आकाश दीप व बुमराह ने रचिन रवींद्र व डेरिल मिचेल को आउट कर न्यूज़ीलैंड को लंच तक तेईस ओवर में साठ रन पर चार विकेट पर रोक दिया। हेनरी निकोल्स उनतीस रन पर नाबाद हैं।"
-   },
-   "en": {
-    "title": "India's pacers run riot in first session, New Zealand 60 for 4 at lunch in Wellington Test",
-    "summary": "Jasprit Bumrah removed Tom Latham with the third ball of the match, Anshul Kamboj dismissed Devon Conway, and Akash Deep and Bumrah added Rachin Ravindra and Daryl Mitchell as New Zealand reached lunch on 60 for 4 in 23 overs. Henry Nicholls was unbeaten on 29."
    }
   }
  ]
