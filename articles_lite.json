@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-20T21:39:46+05:30",
+  "updatedAt": "2026-11-20T21:56:48+05:30",
   "articles": [
+    {
+      "id": "netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20",
+      "category": "World",
+      "sub": "Middle East",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "hi": {
+        "title": "नेतन्याहू बोले — ईरान पर एक और हमला 'अपरिहार्य', अमेरिका से चार से सात दिन के अभियान के लिए समर्थन माँगा; ट्रंप बोले — जल्दबाज़ी नहीं",
+        "summary": "इसराइल के कार्यवाहक प्रधानमंत्री बेंजामिन नेतन्याहू ने वरिष्ठ मंत्रियों और सुरक्षा अधिकारियों से कहा है कि ईरान के खिलाफ एक और सैन्य अभियान अपरिहार्य है, और वे तेहरान के खिलाफ चार से सात दिन के हवाई अभियान के लिए अमेरिका का समर्थन चाहते हैं। वहीं अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि उन्हें कोई जल्दबाज़ी नहीं है — वह इस पर फैसला दो हज़ार सत्ताईस की शुरुआत के बाद ही करेंगे।"
+      },
+      "en": {
+        "title": "Netanyahu calls another Iran operation 'unavoidable' and seeks US backing for a four-to-seven-day campaign; Trump says he is in no rush",
+        "summary": "Israel's caretaker Prime Minister Benjamin Netanyahu has told senior ministers and security officials that another military operation against Iran is 'unavoidable', and is seeking US backing for a four-to-seven-day air campaign against Tehran. US President Donald Trump, however, says he is in no rush to decide, and will take up the question only after the start of 2027."
+      },
+      "publishedAt": "2026-11-20T21:56:48+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20-en.mp3"
+    },
+    {
+      "id": "bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20",
+      "category": "Entertainment",
+      "sub": "TV",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "hi": {
+        "title": "बिग बॉस 20: कप्तान उदिति सिंह ने क़ाज़ी तौक़ीर को पहले और माहही विज को आख़िरी नंबर पर रखा; माहही टूट गईं, उदिति को कहा 'फेक'",
+        "summary": "बिग बॉस 20 में कप्तान उदिति सिंह की रैंकिंग ने घर में हंगामा मचा दिया है। उदिति ने क़ाज़ी तौक़ीर को पूरे दस में से दस नंबर देकर पहले स्थान पर रखा, जबकि सिर्फ एक नंबर पाने वाली माहही विज रो पड़ीं और तीखी बहस में उन्होंने उदिति को फेक कह दिया।"
+      },
+      "en": {
+        "title": "Bigg Boss 20: Captain Uditi Singh ranks Qazi Touqeer first and Mahhi Vij last; Mahhi breaks down and calls her 'fake'",
+        "summary": "Captain Uditi Singh's ranking of the Bigg Boss 20 housemates has set the house alight. Qazi Touqeer topped her list with a perfect 10, while Mahhi Vij, placed last with a single point, broke down in tears and called Uditi 'fake' in a heated argument."
+      },
+      "publishedAt": "2026-11-20T21:56:48+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20-en.mp3"
+    },
     {
       "id": "harjit-kaur-deportation-protect-our-neighbours-act-us-november-20",
       "category": "World",
@@ -3177,52 +3219,6 @@
       "en": {
         "title": "Ahmedabad cyber crime bust: Drugs sold via 5 Telegram groups and 24 dark web sites, FIR registered",
         "summary": "Ahmedabad Cyber Crime Police have busted an online drug-sale network operating through five Telegram groups and 24 dark web websites, where cocaine, MDMA, heroin and cannabis were allegedly advertised with photos and prices. An FIR was registered on November 18; the accused are yet to be identified."
-      }
-    },
-    {
-      "id": "ariyil-shukkoor-murder-case-seven-life-sentences-13-convicted-kochi-november-19",
-      "category": "Crime & Law",
-      "sub": "Courts",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-19T17:56:00+05:30",
-      "source": "PrimeFeed Desk",
-      "district": "Kannur",
-      "state": "Kerala",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ariyil-shukkoor-murder-case-seven-life-sentences-13-convicted-kochi-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ariyil-shukkoor-murder-case-seven-life-sentences-13-convicted-kochi-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ariyil-shukkoor-murder-case-seven-life-sentences-13-convicted-kochi-november-19-en.mp3",
-      "hi": {
-        "title": "अरियिल शुक्कूर हत्याकांड: सात को उम्रकैद, तेरह दोषी, पी जयराजन और टी वी राजेश बरी",
-        "summary": "कोच्चि की सीबीआई विशेष अदालत ने दो हज़ार बारह के अरियिल शुक्कूर हत्याकांड में सात दोषियों को उम्रकैद की सज़ा सुनाई है। तेरह आरोपी दोषी ठहराए गए, जबकि सीपीएम नेता पी जयराजन और पूर्व विधायक टी वी राजेश समेत अठारह आरोपी बरी हो गए।"
-      },
-      "en": {
-        "title": "Ariyil Shukkoor murder case: Seven get life term, 13 convicted; P Jayarajan, T V Rajesh acquitted",
-        "summary": "A CBI special court in Kochi has sentenced seven convicts to life imprisonment in the 2012 murder of Ariyil Shukkoor in Kerala's Kannur district. Thirteen accused were convicted, while CPI(M) leader P Jayarajan and former MLA T V Rajesh were among the 18 acquitted."
-      }
-    },
-    {
-      "id": "saket-court-takes-cognisance-aastha-kunj-chargesheet-december-1-november-19",
-      "category": "Crime & Law",
-      "sub": "Courts",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-19T17:56:00+05:30",
-      "source": "PrimeFeed Desk",
-      "district": "New Delhi",
-      "state": "Delhi",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saket-court-takes-cognisance-aastha-kunj-chargesheet-december-1-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saket-court-takes-cognisance-aastha-kunj-chargesheet-december-1-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saket-court-takes-cognisance-aastha-kunj-chargesheet-december-1-november-19-en.mp3",
-      "hi": {
-        "title": "आस्था कुंज गैंगरेप: साकेत कोर्ट ने चार्जशीट पर संज्ञान लिया, एक दिसंबर से आरोप तय करने पर बहस",
-        "summary": "दिल्ली की साकेत कोर्ट ने दक्षिण दिल्ली के आस्था कुंज पार्क में सत्रह साल की लड़की से कथित गैंगरेप के मामले में दिल्ली पुलिस की चार्जशीट पर संज्ञान ले लिया है। आरोप तय करने पर बहस एक दिसंबर से शुरू होगी।"
-      },
-      "en": {
-        "title": "Aastha Kunj gangrape: Saket Court takes cognisance of chargesheet, arguments on framing charges from December 1",
-        "summary": "A Delhi court has taken cognisance of Delhi Police's chargesheet in the alleged gangrape of a 17-year-old girl at Aastha Kunj Park in south Delhi. Arguments on framing charges against the three accused will begin on December 1."
       }
     }
   ]
