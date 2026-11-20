@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T20:00:09+05:30",
+ "updatedAt": "2026-11-20T20:19:24+05:30",
  "articles": [
+  {
+   "id": "india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20",
+   "category": "Science",
+   "sub": "Research",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "district": "Bhopal",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "भारत की पहली स्वदेशी बर्ड फ्लू वैक्सीन देश को समर्पित: भोपाल में बनी एच पाँच एन एक वैक्सीन, एक खुराक से छह महीने की सुरक्षा",
+    "summary": "भोपाल के राष्ट्रीय उच्च सुरक्षा पशु रोग संस्थान ने बर्ड फ्लू के खिलाफ देश की पहली स्वदेशी वैक्सीन तैयार की है। केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने शुक्रवार को इसे देश को समर्पित किया। वैक्सीन की एक खुराक से मुर्गियों को करीब छह महीने तक सुरक्षा मिलेगी और इसकी कीमत सिर्फ एक से दो रुपये होगी।"
+   },
+   "en": {
+    "title": "India's first indigenous bird flu vaccine dedicated to the nation: Bhopal-made H5N1 shot gives six months' protection from a single dose",
+    "summary": "Scientists at ICAR-NIHSAD in Bhopal have developed India's first indigenous vaccine against the H5N1 bird flu virus. Union Agriculture Minister Shivraj Singh Chouhan dedicated it to the nation on Friday — a single dose protects chickens for about six months and will cost just Rs 1 to Rs 2."
+   },
+   "publishedAt": "2026-11-20T20:19:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20-en.mp3"
+  },
+  {
+   "id": "nepal-pm-balendra-shah-india-visit-november-22-23-november-20",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "नेपाल के प्रधानमंत्री बालेंद्र शाह बाईस नवंबर से दो दिन के भारत दौरे पर, प्रधानमंत्री मोदी से बातचीत और ऊर्जा परियोजनाओं का उद्घाटन",
+    "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह बाईस से तेईस नवंबर तक भारत के दौरे पर रहेंगे। तेईस नवंबर को प्रधानमंत्री नरेंद्र मोदी से बातचीत के बाद ऊर्जा परियोजनाओं का उद्घाटन होगा और कई समझौतों पर हस्ताक्षर होंगे।"
+   },
+   "en": {
+    "title": "Nepal PM Balendra Shah on two-day India visit from November 22, talks with PM Modi and energy project inaugurations on agenda",
+    "summary": "Nepal Prime Minister Balendra Shah will visit India from November 22 to 23, his first bilateral visit since taking office in March. Delegation-level talks with PM Modi are scheduled for November 23, followed by the inauguration of energy projects and the signing of several agreements."
+   },
+   "publishedAt": "2026-11-20T20:19:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-pm-balendra-shah-india-visit-november-22-23-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-india-visit-november-22-23-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-india-visit-november-22-23-november-20-en.mp3"
+  },
   {
    "id": "mangaluru-medical-student-abducted-kanachur-college-campus-november-20",
    "category": "Crime & Law",
@@ -3181,50 +3225,6 @@
    "en": {
     "title": "Nicholls' 113* and Phillips' 94* rescue New Zealand from 70/5 to 243/5 on Day 1 in Wellington",
     "summary": "Henry Nicholls made an unbeaten 113 and Glenn Phillips an unbeaten 94 as New Zealand recovered from 70 for 5 to close Day 1 of the first Test against India on 243 for 5 at the Basin Reserve in Wellington. Jasprit Bumrah took three wickets in a fiery opening spell before the pair's unbroken 173-run stand turned the day around."
-   }
-  },
-  {
-   "id": "up-fog-crashes-five-killed-36-injured-kanpur-dehat-azamgarh-november-19",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T16:56:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-fog-crashes-five-killed-36-injured-kanpur-dehat-azamgarh-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-fog-crashes-five-killed-36-injured-kanpur-dehat-azamgarh-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-fog-crashes-five-killed-36-injured-kanpur-dehat-azamgarh-november-19-en.mp3",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "यूपी में कोहरे का कहर: दो सड़क हादसों में पाँच की मौत, छत्तीस घायल",
-    "summary": "उत्तर प्रदेश में गुरुवार तड़के दो अलग-अलग सड़क हादसों में पाँच लोगों की मौत हो गई और छत्तीस घायल हो गए। कानपुर देहात में राष्ट्रीय राजमार्ग-उन्नीस पर श्रद्धालुओं की बस ट्रक से टकरा गई, जबकि आजमगढ़ में घने कोहरे के बीच पूर्वांचल एक्सप्रेसवे पर कई वाहन आपस में भिड़ गए।"
-   },
-   "en": {
-    "title": "Five killed, 36 injured in two Uttar Pradesh road accidents as fog blinds Purvanchal Expressway",
-    "summary": "Five people were killed and 36 injured in two separate road accidents in Uttar Pradesh early on Thursday. A pilgrim bus rammed a truck on National Highway 19 in Kanpur Dehat, killing two, while dense fog caused a multi-vehicle pile-up on the Purvanchal Expressway in Azamgarh, killing three."
-   }
-  },
-  {
-   "id": "rssb-junior-engineer-1909-posts-applications-december-17-november-19",
-   "category": "Rozgar",
-   "sub": "Sarkari Naukri",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T16:56:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rssb-junior-engineer-1909-posts-applications-december-17-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rssb-junior-engineer-1909-posts-applications-december-17-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rssb-junior-engineer-1909-posts-applications-december-17-november-19-en.mp3",
-   "state": "Rajasthan",
-   "hi": {
-    "title": "राजस्थान में जूनियर इंजीनियर के एक हज़ार नौ सौ नौ पदों पर भर्ती, आवेदन सत्रह दिसंबर तक",
-    "summary": "राजस्थान कर्मचारी चयन बोर्ड ने जूनियर इंजीनियर संयुक्त सीधी भर्ती के लिए संशोधित विज्ञापन जारी कर दिया है। पदों की संख्या आठ सौ चौहत्तर से बढ़ाकर एक हज़ार नौ सौ नौ कर दी गई है और ऑनलाइन आवेदन अठारह नवंबर से सत्रह दिसंबर तक भरे जाएँगे। परीक्षा तीन से पाँच फरवरी दो हज़ार सत्ताईस को प्रस्तावित है।"
-   },
-   "en": {
-    "title": "Rajasthan Junior Engineer recruitment expanded to 1,909 posts; apply by December 17",
-    "summary": "The Rajasthan Staff Selection Board has issued a revised notification for the Junior Engineer Combined Direct Recruitment 2026, raising the vacancies from 874 to 1,909. Online applications reopened on November 18 and will close on December 17, with the examination proposed for February 3 to 5, 2027."
    }
   }
  ]
