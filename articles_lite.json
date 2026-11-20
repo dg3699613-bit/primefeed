@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-20T17:11:40+05:30",
+ "updatedAt": "2026-11-20T17:22:02+05:30",
  "articles": [
+  {
+   "id": "ysrcp-mp-avinash-reddy-convoy-attacked-kadapa-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T17:22:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ysrcp-mp-avinash-reddy-convoy-attacked-kadapa-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ysrcp-mp-avinash-reddy-convoy-attacked-kadapa-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ysrcp-mp-avinash-reddy-convoy-attacked-kadapa-november-20-en.mp3",
+   "hi": {
+    "title": "कडपा में वाईएसआरसीपी सांसद अविनाश रेड्डी के काफिले पर हमला, पत्थर और पेट्रोल बम फेंके जाने का आरोप",
+    "summary": "आंध्र प्रदेश के वाईएसआर कडपा ज़िले में शुक्रवार को वाईएसआरसीपी सांसद वाई एस अविनाश रेड्डी के काफिले पर हमला हुआ। पार्टी ने आरोप लगाया कि स्थानीय निकाय चुनाव के नामांकन के दौरान टीडीपी समर्थकों ने काफिले पर पत्थर और पेट्रोल बम फेंके।"
+   },
+   "en": {
+    "title": "YSRCP MP Avinash Reddy's convoy attacked in Kadapa; party alleges stones and petrol bombs",
+    "summary": "YSRCP MP Y S Avinash Reddy's convoy was attacked in Andhra Pradesh's YSR Kadapa district on Friday while he was travelling to support party candidates filing nominations for the local body elections. The party has alleged that TDP supporters targeted the convoy with stones and petrol bombs."
+   },
+   "district": "YSR",
+   "state": "Andhra Pradesh"
+  },
+  {
+   "id": "elephant-calf-raja-airlifted-assam-vantara-jamnagar-november-20",
+   "category": "Science",
+   "sub": "Environment",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T17:22:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/elephant-calf-raja-airlifted-assam-vantara-jamnagar-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/elephant-calf-raja-airlifted-assam-vantara-jamnagar-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/elephant-calf-raja-airlifted-assam-vantara-jamnagar-november-20-en.mp3",
+   "hi": {
+    "title": "सात हफ़्ते के हाथी के बच्चे राजा को असम से विमान से जामनगर लाया गया, टूटी जांघ का होगा इलाज",
+    "summary": "जन्म के कुछ ही घंटों बाद टूटी जांघ के साथ ज़िंदगी की जंग लड़ रहे सात हफ़्ते के हाथी के बच्चे राजा को असम से विमान से गुजरात के जामनगर लाया जा रहा है। वंतारा के पशु अस्पताल में उसका विशेष इलाज होगा।"
+   },
+   "en": {
+    "title": "Seven-week-old elephant calf Raja airlifted from Assam to Vantara in Jamnagar for treatment of fractured thigh",
+    "summary": "Raja, a seven-week-old elephant calf who has been fighting for survival since birth with a fractured thigh, is being airlifted from Assam to Vantara's animal hospital in Jamnagar, Gujarat, for specialist treatment."
+   },
+   "district": "Lakhimpur",
+   "state": "Assam"
+  },
   {
    "id": "samantha-ruth-prabhu-raj-nidimoru-welcome-baby-boy-dev-november-20",
    "category": "Entertainment",
@@ -3183,48 +3229,6 @@
    "en": {
     "title": "Trump, Xi and Putin sit down together for first-ever trilateral summit in Shenzhen",
     "summary": "The leaders of the United States, China and Russia opened their first-ever trilateral meeting at the Kylin Villa in Shenzhen, with Xi Jinping presiding. The Ukraine war, Iran and nuclear arms cuts are on the agenda, but no joint statement has been issued yet."
-   }
-  },
-  {
-   "id": "cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T14:56:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-80000-evacuated-gopalpur-landfall-november-20-november-19-en.mp3",
-   "hi": {
-    "title": "चक्रवात अक्वान: ओडिशा में अस्सी हज़ार से ज़्यादा लोग सुरक्षित स्थानों पर, गोपालपुर के पास शुक्रवार दोपहर लैंडफ़ॉल की आशंका",
-    "summary": "गंभीर चक्रवाती तूफ़ान अक्वान के शुक्रवार दोपहर तक गोपालपुर के पास तट से टकराने की आशंका है। ओडिशा में अस्सी हज़ार से ज़्यादा लोगों को सुरक्षित स्थानों पर पहुँचाया जा चुका है, चौहत्तर बचाव दल तैनात हैं और शुक्रवार को छह जिलों में भारी बारिश का रेड अलर्ट जारी है।"
-   },
-   "en": {
-    "title": "Cyclone Akvan: Over 80,000 evacuated in Odisha as landfall nears Gopalpur by Friday noon",
-    "summary": "Severe cyclonic storm Akvan is expected to cross the coast near Gopalpur by Friday noon. Odisha has moved more than eighty thousand people to safety, deployed seventy-four rescue teams, and put six districts on red alert for extremely heavy rain on Friday."
-   }
-  },
-  {
-   "id": "yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T14:45:32+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yunus-ancestral-home-set-ablaze-chattogram-bangladesh-unrest-november-19-en.mp3",
-   "hi": {
-    "title": "बांग्लादेश में हिंसा भड़की: चटगाँव में मुहम्मद यूनुस के पैतृक घर में आग लगाई गई",
-    "summary": "बुधवार देर रात चटगाँव में पूर्व अंतरिम सरकार प्रमुख मुहम्मद यूनुस के पैतृक घर में अज्ञात लोगों ने आग लगा दी, ऊपरी मंजिलों पर रहने वाले उनके भाइयों के परिवार सुरक्षित हैं। प्रतिबंधित आवामी लीग के देशव्यापी बंद के दौरान बांग्लादेश भर में झड़पों, गिरफ्तारियों और आगजनी की घटनाएँ हुईं।"
-   },
-   "en": {
-    "title": "Muhammad Yunus's ancestral home set ablaze in Chattogram as Bangladesh lockdown turns violent",
-    "summary": "Arsonists set fire to the former interim government chief's family home in Chattogram late on Wednesday night; his brothers' families, who live on the upper floors, are safe. The attack came as the banned Awami League's nationwide lockdown brought fresh clashes, arrests and arson across Bangladesh."
    }
   }
  ]
