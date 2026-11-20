@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T06:05:43+05:30",
+ "updatedAt": "2026-11-20T06:21:03+05:30",
  "articles": [
+  {
+   "id": "honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19",
+   "category": "Business",
+   "sub": "Auto",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T06:21:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19-en.mp3",
+   "en": {
+    "title": "Honda Rebel 500 returns to India at ₹4.50 lakh, clutch-free E-Clutch version at ₹4.90 lakh",
+    "summary": "Honda has brought the Rebel 500 back to India as a locally made cruiser, priced at ₹4.50 lakh for the Standard and ₹4.90 lakh for the E-Clutch version, which lets riders change gears without touching the clutch lever. Bookings are open for ₹5,000 at BigWing dealerships."
+   },
+   "hi": {
+    "title": "होंडा रेबेल पाँच सौ भारत में चार लाख पचास हज़ार रुपये में लौटी, ई-क्लच वर्ज़न चार लाख नब्बे हज़ार रुपये में",
+    "summary": "होंडा ने रेबेल पाँच सौ को भारत में स्थानीय रूप से बनी क्रूज़र बाइक के रूप में वापस लाया है — स्टैंडर्ड वर्ज़न की क़ीमत चार लाख पचास हज़ार रुपये और ई-क्लच वर्ज़न की चार लाख नब्बे हज़ार रुपये है, जिसमें बिना क्लच दबाए गियर बदले जा सकते हैं। पाँच हज़ार रुपये में बुकिंग शुरू, बिक्री सिर्फ़ बिगविंग डीलरशिप से होगी।"
+   }
+  },
   {
    "id": "houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19",
    "category": "World",
@@ -3114,13 +3135,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
+    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations.",
+    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations"
    },
    "featured": false,
    "hi": {
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
+    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।",
+    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई"
    },
    "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
@@ -3192,27 +3213,6 @@
    "en": {
     "title": "India thrash Bangladesh by eight wickets to set up blind cricket Asia Cup final against Pakistan",
     "summary": "India thrashed hosts Bangladesh by eight wickets in Dhaka to reach the Asia Cup Cricket for the Blind final, where they will face Pakistan on November 20 — the same side that beat them by one wicket off the last ball in the league stage."
-   }
-  },
-  {
-   "id": "karnataka-lokayukta-raids-seven-officials-31-premises-november-18",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T00:52:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-lokayukta-raids-seven-officials-31-premises-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-lokayukta-raids-seven-officials-31-premises-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-lokayukta-raids-seven-officials-31-premises-november-18-en.mp3",
-   "hi": {
-    "title": "कर्नाटक लोकायुक्त के सात अधिकारियों के इकतीस ठिकानों पर छापे, आय से अधिक संपत्ति के मामले",
-    "summary": "कर्नाटक लोकायुक्त पुलिस ने राज्य के सात ज़िलों में सात सरकारी अधिकारियों के इकतीस ठिकानों पर एक साथ छापे मारे। छापों में मकान, कृषि भूमि, नकदी, आभूषण, वाहन और सावधि जमा मिले हैं; संपत्तियों का मूल्यांकन जारी है।"
-   },
-   "en": {
-    "title": "Karnataka Lokayukta raids 31 premises of seven officials in disproportionate assets cases",
-    "summary": "Karnataka Lokayukta police carried out simultaneous searches at 31 premises belonging to seven government officials across seven districts, uncovering houses, agricultural land, cash, jewellery, vehicles and fixed deposits allegedly beyond their known sources of income."
    }
   }
  ]
