@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-20T14:09:20+05:30",
+ "updatedAt": "2026-11-20T14:23:11+05:30",
  "articles": [
+  {
+   "id": "wall-street-plunges-dow-1101-anthropic-ipo-november-20",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T14:23:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wall-street-plunges-dow-1101-anthropic-ipo-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wall-street-plunges-dow-1101-anthropic-ipo-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wall-street-plunges-dow-1101-anthropic-ipo-november-20-en.mp3",
+   "hi": {
+    "title": "वॉल स्ट्रीट में भारी गिरावट: डॉव एक हज़ार एक सौ एक अंक टूटा, एंथ्रॉपिक के रिकॉर्ड आईपीओ के बावजूद बाज़ार नहीं संभला",
+    "summary": "डॉव जोन्स एक हज़ार एक सौ एक अंक गिरकर जून के बाद पहली बार पचास हज़ार से नीचे बंद हुआ, जबकि एस ऐंड पी पाँच सौ लगातार छठे सत्र में गिरा। एंथ्रॉपिक की रिकॉर्ड शुरुआत, शेयर तिरासी डॉलर पर जारी होकर चौंतीस प्रतिशत ऊपर खुले, भी पूरे बाज़ार को नहीं उठा पाई, क्योंकि एआई शेयरों को लेकर चिंता गहरी हो गई है।"
+   },
+   "en": {
+    "title": "Wall Street plunges: Dow sheds 1,101 points as Anthropic's record IPO fails to calm AI fears",
+    "summary": "The Dow Jones fell 1,101 points to close below 50,000 for the first time since June, while the S and P 500 dropped for a sixth straight session. Anthropic's record-breaking market debut, shares priced at $83 and opening 34 percent higher, could not lift the wider market as worries over AI valuations deepened."
+   }
+  },
+  {
+   "id": "pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T14:23:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20-en.mp3",
+   "hi": {
+    "title": "पाकिस्तान ने श्रीलंका को आठ विकेट से हराकर दो साल में पहली टेस्ट सीरीज़ जीती",
+    "summary": "पाकिस्तान ने रावलपिंडी में चौथे दिन सुबह तेरह ओवर में नब्बे रन का लक्ष्य हासिल कर लिया। आमिर जमाल के बाईस गेंदों पर नाबाद चौंतीस रन की बदौलत आठ विकेट की जीत और एक शून्य से सीरीज़ पर कब्ज़ा, दो साल में मेज़बान टीम की पहली टेस्ट सीरीज़ जीत।"
+   },
+   "en": {
+    "title": "Pakistan beat Sri Lanka by eight wickets to seal first Test series win in two years",
+    "summary": "Pakistan chased down 90 in 13 overs on the fourth morning in Rawalpindi, with Aamer Jamal's unbeaten 34 off 22 balls sealing an eight-wicket win and a 1-0 series triumph, the hosts' first Test series victory in two years."
+   }
+  },
   {
    "id": "sensex-700-points-nifty-10-month-high-november-20",
    "category": "Business",
@@ -3186,48 +3228,6 @@
    },
    "district": "Araria",
    "state": "Bihar"
-  },
-  {
-   "id": "elon-musk-pretty-foolish-500-million-republicans-midterms-november-19",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T12:04:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/elon-musk-pretty-foolish-500-million-republicans-midterms-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/elon-musk-pretty-foolish-500-million-republicans-midterms-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/elon-musk-pretty-foolish-500-million-republicans-midterms-november-19-en.mp3",
-   "hi": {
-    "title": "‘काफ़ी बेवकूफ़ी लगी’: मिडटर्म में रिपब्लिकन पर लगभग पाँच सौ मिलियन डॉलर खर्च करने पर एलन मस्क को अफ़सोस",
-    "summary": "एलन मस्क ने कहा है कि मिडटर्म चुनावों में रिपब्लिकन उम्मीदवारों पर लगभग पाँच सौ मिलियन डॉलर खर्च करके भी उन्हें कुछ हासिल नहीं हुआ। न्यूयॉर्क टाइम्स के डीलबुक समिट में उन्होंने कहा कि अगर वक़्त पीछे लौटाया जा सकता तो वे कम पैसा खर्च करते, और ख़ुद को मागा आंदोलन से भी अलग कर लिया।"
-   },
-   "en": {
-    "title": "‘Pretty foolish’: Elon Musk regrets spending nearly $500 million backing Republicans in the midterms",
-    "summary": "Elon Musk has said spending nearly $500 million to back Republican candidates in the US midterms left him feeling 'pretty foolish'. At The New York Times' DealBook Summit, he said he would have spent less if he could rewind the clock — and distanced himself from the MAGA label."
-   }
-  },
-  {
-   "id": "mahanadi-coalfields-ipo-opens-today-november-19",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T11:50:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mahanadi-coalfields-ipo-opens-today-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahanadi-coalfields-ipo-opens-today-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahanadi-coalfields-ipo-opens-today-november-19-en.mp3",
-   "hi": {
-    "title": "महानदी कोलफील्ड्स का आईपीओ आज खुला: एक सौ उनतीस से एक सौ छत्तीस रुपये का प्राइस बैंड, करीब नौ हज़ार पाँच सौ करोड़ रुपये की पेशकश",
-    "summary": "कोल इंडिया की सहायक कंपनी महानदी कोलफील्ड्स का आईपीओ आज सब्सक्रिप्शन के लिए खुल गया है। एक सौ उनतीस से एक सौ छत्तीस रुपये के प्राइस बैंड पर कोल इंडिया अपनी करीब दस प्रतिशत हिस्सेदारी बेच रही है, जिससे करीब नौ हज़ार पाँच सौ करोड़ रुपये जुटने का अनुमान है।"
-   },
-   "en": {
-    "title": "Mahanadi Coalfields IPO opens today at 129 to 136 rupees a share; Coal India's 9,500-crore-rupee offer for sale",
-    "summary": "Coal India subsidiary Mahanadi Coalfields' initial public offering opened for subscription today, with the price band set at 129 to 136 rupees a share. The pure offer for sale of 66.18 crore shares is expected to raise about 9,500 crore rupees, valuing India's largest single coal producer at up to 90,000 crore rupees."
-   }
   }
  ]
 }
