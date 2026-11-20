@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T15:58:26+05:30",
+ "updatedAt": "2026-11-20T16:07:54+05:30",
  "articles": [
+  {
+   "id": "operation-monsoon-thunder-ncb-dea-six-arrested-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T16:07:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/operation-monsoon-thunder-ncb-dea-six-arrested-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/operation-monsoon-thunder-ncb-dea-six-arrested-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/operation-monsoon-thunder-ncb-dea-six-arrested-november-20-en.mp3",
+   "hi": {
+    "title": "ऑपरेशन मॉनसून थंडर: एनसीबी और अमेरिकी डीईए की संयुक्त कार्रवाई में छह गिरफ़्तार, पाँच लाख गोलियों का नेटवर्क ध्वस्त",
+    "summary": "नारकोटिक्स कंट्रोल ब्यूरो और अमेरिका की ड्रग एनफोर्समेंट एडमिनिस्ट्रेशन ने संयुक्त कार्रवाई में अमेरिका में नशीली दवाएँ भेजने वाले एक अंतरराष्ट्रीय नेटवर्क के भारतीय हिस्से को ध्वस्त कर दिया। हैदराबाद, दिल्ली, कोलकाता और लखनऊ में छापों के बाद छह लोगों को गिरफ़्तार किया गया।"
+   },
+   "en": {
+    "title": "Operation Monsoon Thunder: NCB and US DEA bust India module of drug network shipping opioids to America, six arrested",
+    "summary": "The Narcotics Control Bureau and the US Drug Enforcement Administration have dismantled the Indian module of a transnational network that allegedly supplied psychotropic and opioid medicines to consumers across the United States. Six people were arrested after raids in Hyderabad, Delhi, Kolkata and Lucknow."
+   }
+  },
   {
    "id": "gorakhpur-bulldozer-death-five-arrested-four-jcb-seized-november-20",
    "category": "Crime & Law",
@@ -3205,29 +3226,6 @@
    },
    "district": "Gorakhpur",
    "state": "Uttar Pradesh"
-  },
-  {
-   "id": "betul-herbal-concoction-two-dead-five-ill-november-19",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-19T13:47:36+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/betul-herbal-concoction-two-dead-five-ill-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/betul-herbal-concoction-two-dead-five-ill-november-19-en.mp3",
-   "hi": {
-    "title": "बैतूल में शराब छुड़ाने के नाम पर लाल तरल पदार्थ पीने से दो की मौत, पाँच अस्पताल में",
-    "summary": "बैतूल ज़िले के पाठाखेड़ा गाँव में शराब छुड़ाने के नाम पर पिलाए गए लाल तरल पदार्थ से दो लोगों की मौत हो गई और पाँच की हालत गंभीर है। पुलिस ने तीन लोगों को गिरफ़्तार किया है और तरल पदार्थ की जाँच की जा रही है।"
-   },
-   "en": {
-    "title": "Two die, five fall ill after drinking red liquid offered as alcohol addiction cure in Betul",
-    "summary": "Two men died and five others fell seriously ill in Betul district after drinking a red liquid offered as a herbal cure for alcohol addiction. Police have arrested three people and seized the liquid for testing."
-   },
-   "district": "Betul",
-   "state": "Madhya Pradesh"
   }
  ]
 }
