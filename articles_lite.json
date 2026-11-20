@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T06:21:03+05:30",
+ "updatedAt": "2026-11-20T06:34:47+05:30",
  "articles": [
+  {
+   "id": "cyclone-akvan-landfall-process-begins-gopalpur-november-20",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-20T06:34:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-landfall-process-begins-gopalpur-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-landfall-process-begins-gopalpur-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-landfall-process-begins-gopalpur-november-20-en.mp3",
+   "en": {
+    "title": "Cyclone Akvan landfall begins: storm reaches Odisha–Andhra coast, to cross near Gopalpur by forenoon",
+    "summary": "The land interaction of Cyclone Akvan began early on Friday as its sheared cloud mass entered the north Andhra Pradesh–south Odisha coasts, the IMD said. The storm, now weakened to a cyclonic storm, is expected to cross the coast close to Gopalpur by the forenoon with winds of 70–80 kmph, gusting to 90 kmph, in a landfall process that could last seven to eight hours."
+   },
+   "hi": {
+    "title": "चक्रवात अकवान का लैंडफॉल शुरू: तूफ़ान ओडिशा–आंध्र तट से टकराया, गोपालपुर के पास दोपहर से पहले पार करेगा",
+    "summary": "भारतीय मौसम विज्ञान विभाग ने बताया कि शुक्रवार सुबह चक्रवात अकवान के लैंडफॉल की प्रक्रिया शुरू हो गई, जब उसका बादल-समूह उत्तर आंध्र प्रदेश–दक्षिण ओडिशा तट से टकराया। कमज़ोर होकर चक्रवाती तूफ़ान रह गया अकवान दोपहर से पहले गोपालपुर के पास तट पार करेगा, हवा ७०–८० किलोमीटर प्रति घंटे की रफ़्तार से चलेगी और लैंडफॉल की प्रक्रिया सात से आठ घंटे चल सकती है।"
+   }
+  },
   {
    "id": "honda-rebel-500-launched-india-rs-4-50-lakh-e-clutch-november-19",
    "category": "Business",
@@ -386,7 +407,7 @@
    "category": "Business",
    "sub": "Share Market",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-20T02:30:38+05:30",
    "source": "PrimeFeed Desk",
@@ -3135,13 +3156,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations.",
-    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations"
+    "title": "EU proposes €45 billion loan for Ukraine in 2027, repayable only after Russia pays reparations",
+    "summary": "The European Commission on Wednesday proposed a new €45 billion ($49.5 billion) loan to Ukraine for 2027, covering about two-thirds of Kyiv's estimated €70 billion funding gap next year — €25 billion for the military and €20 billion for budget support. Ukraine would repay the principal only after Russia pays war reparations."
    },
    "featured": false,
    "hi": {
-    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।",
-    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई"
+    "title": "यूक्रेन के लिए पैंतालीस अरब यूरो का नया कर्ज़, रूस के हर्जाने से होगी भरपाई",
+    "summary": "यूरोपीय आयोग ने बुधवार को यूक्रेन के लिए दो हज़ार सत्ताईस में पैंतालीस अरब यूरो के नए कर्ज़ का प्रस्ताव रखा है। इससे यूक्रेन की अगले साल की सत्तर अरब यूरो की ज़रूरत का लगभग दो-तिहाई हिस्सा पूरा होगा — पच्चीस अरब यूरो सेना के लिए और बीस अरब यूरो बजट के लिए। कर्ज़ की मूल रकम तभी चुकानी होगी जब रूस युद्ध का हर्जाना देगा।"
    },
    "id": "eu-45-billion-ukraine-loan-2027-reparations-november-18",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eu-45-billion-ukraine-loan-2027-reparations-november-18.jpg",
@@ -3192,27 +3213,6 @@
    "en": {
     "title": "Jharkhand cabinet raises dearness allowance to 63% for state employees, clears 41 proposals",
     "summary": "The Jharkhand cabinet on Wednesday approved a 3 per cent hike in dearness allowance for state government employees, taking it from 60 per cent to 63 per cent with effect from July 1, 2026. Pensioners will get a matching rise in dearness relief, and the cabinet cleared 41 proposals in all, including a new degree college in Vishrampur and an extension of the National Health Mission."
-   }
-  },
-  {
-   "id": "india-blind-cricket-asia-cup-final-pakistan-november-20-november-18",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T00:52:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-blind-cricket-asia-cup-final-pakistan-november-20-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-blind-cricket-asia-cup-final-pakistan-november-20-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-blind-cricket-asia-cup-final-pakistan-november-20-november-18-en.mp3",
-   "hi": {
-    "title": "भारत ने बांग्लादेश को आठ विकेट से हराया, ब्लाइंड क्रिकेट एशिया कप फ़ाइनल में पाकिस्तान से मुक़ाबला",
-    "summary": "भारत ने ढाका में बांग्लादेश को आठ विकेट से हराकर ब्लाइंड क्रिकेट एशिया कप दो हज़ार छब्बीस के फ़ाइनल में जगह बना ली है। बीस नवंबर को खिताबी मुक़ाबले में भारत का सामना पाकिस्तान से होगा, जिसने लीग चरण में भारत को आखिरी गेंद पर एक विकेट से हराया था।"
-   },
-   "en": {
-    "title": "India thrash Bangladesh by eight wickets to set up blind cricket Asia Cup final against Pakistan",
-    "summary": "India thrashed hosts Bangladesh by eight wickets in Dhaka to reach the Asia Cup Cricket for the Blind final, where they will face Pakistan on November 20 — the same side that beat them by one wicket off the last ball in the league stage."
    }
   }
  ]
