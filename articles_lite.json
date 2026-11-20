@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-20T17:28:10+05:30",
+  "updatedAt": "2026-11-20T17:41:30+05:30",
   "articles": [
+    {
+      "id": "forex-reserves-fall-14-billion-705-billion-november-20",
+      "category": "Business",
+      "sub": "Banking & Finance",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-20T17:41:30+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/forex-reserves-fall-14-billion-705-billion-november-20.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/forex-reserves-fall-14-billion-705-billion-november-20-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/forex-reserves-fall-14-billion-705-billion-november-20-en.mp3",
+      "hi": {
+        "title": "विदेशी मुद्रा भंडार १४.२०५ अरब डॉलर घटकर ७०५.३४२ अरब डॉलर पर, करीब तीन महीने का सबसे निचला स्तर",
+        "summary": "भारत का विदेशी मुद्रा भंडार १३ नवंबर को समाप्त सप्ताह में १४.२०५ अरब डॉलर घटकर ७०५.३४२ अरब डॉलर रह गया, जो करीब तीन महीने का सबसे निचला स्तर है। विदेशी मुद्रा परिसंपत्तियों और सोने के मूल्य में गिरावट इसकी सबसे बड़ी वजह रही।"
+      },
+      "en": {
+        "title": "India's forex reserves fall over $14 billion to $705.34 billion, lowest in about three months",
+        "summary": "India's foreign exchange reserves fell by $14.205 billion to $705.342 billion in the week ended November 13, their lowest in about three months, RBI data showed on Friday. The fall was led by foreign currency assets and gold holdings."
+      }
+    },
+    {
+      "id": "uk-eu-reset-deal-youth-mobility-food-trade-brussels-november-20",
+      "category": "World",
+      "sub": "Europe",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-20T17:41:30+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/uk-eu-reset-deal-youth-mobility-food-trade-brussels-november-20.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uk-eu-reset-deal-youth-mobility-food-trade-brussels-november-20-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uk-eu-reset-deal-youth-mobility-food-trade-brussels-november-20-en.mp3",
+      "hi": {
+        "title": "ब्रिटेन-ईयू रीसेट पर सहमति: हर साल एक लाख युवाओं को वीज़ा, खाद्य जाँच खत्म, पर हस्ताक्षर ट्यूशन फीस पर अटके",
+        "summary": "ब्रिटेन और यूरोपीय संघ ब्रुसेल्स शिखर सम्मेलन में युवा गतिशीलता, खाद्य व्यापार और उत्सर्जन व्यापार पर सहमत हो गए, ब्रेक्ज़िट के बाद रिश्तों में यह सबसे बड़ा बदलाव है। ट्यूशन फीस पर मतभेद के कारण तीनों समझौतों पर औपचारिक हस्ताक्षर अभी नहीं हुए हैं।"
+      },
+      "en": {
+        "title": "Britain and EU agree Brexit reset on youth mobility and food trade; formal signing held back by tuition-fee row",
+        "summary": "Britain and the European Union agreed a reset of their relationship after Brexit at a summit in Brussels, settling terms on youth mobility, food trade and emissions trading. The three agreements were not formally signed, with university tuition fees still unresolved."
+      }
+    },
     {
       "id": "madras-hc-parandur-airport-scrapping-notice-tn-govt-november-20",
       "category": "Crime & Law",
@@ -3190,48 +3232,6 @@
       },
       "district": "Nadia",
       "state": "West Bengal"
-    },
-    {
-      "id": "one-blood-test-14-cancers-cancerspot-detects-72-percent-cases-november-19",
-      "category": "Science",
-      "sub": "Research",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-19T15:16:13+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/one-blood-test-14-cancers-cancerspot-detects-72-percent-cases-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/one-blood-test-14-cancers-cancerspot-detects-72-percent-cases-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/one-blood-test-14-cancers-cancerspot-detects-72-percent-cases-november-19-en.mp3",
-      "hi": {
-        "title": "एक ब्लड टेस्ट से चौदह तरह के कैंसर की पहचान: भारतीय अध्ययन में कैंसरस्पॉट ने बहत्तर फ़ीसदी मामले पकड़े",
-        "summary": "बेंगलुरु की स्ट्रैंड लाइफ़ साइंसेज़ की बनाई जाँच कैंसरस्पॉट पर देश के तैंतालीस अस्पतालों में चार साल तक चले अध्ययन में चौदह तरह के कैंसर के बहत्तर फ़ीसदी मामले पकड़े गए; गलत पॉज़िटिव की दर सिर्फ़ एक दशमलव चार फ़ीसदी रही। नतीजे पीएनएएस में छपे हैं।"
-      },
-      "en": {
-        "title": "One blood test, 14 cancers: Indian study finds CancerSpot detects 72% of cases",
-        "summary": "A four-year pan-India study of 1,480 people across 43 hospitals found the Bengaluru-developed CancerSpot blood test detected 72% of cancers across 14 types, with a false-positive rate of 1.4%. The findings are published in PNAS."
-      }
-    },
-    {
-      "id": "neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19",
-      "category": "Education",
-      "sub": "Govt Exams",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-19T15:07:04+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-november-19-en.mp3",
-      "hi": {
-        "title": "नीट पेपर लीक: चौदह आरोपियों पर चलेगा मुकदमा, पच्चीस नवंबर से रोज़ाना सुनवाई; तीन एनटीए विशेषज्ञ भी आरोपी",
-        "summary": "दिल्ली की फास्ट-ट्रैक अदालत ने नीट-यूजी दो हज़ार छब्बीस पेपर लीक मामले में चौदह आरोपियों के खिलाफ आरोप तय करने का आदेश दिया है। औपचारिक आरोप इक्कीस नवंबर को तय होंगे और रोज़ाना सुनवाई पच्चीस नवंबर से शुरू होगी।"
-      },
-      "en": {
-        "title": "NEET paper leak: Charges framed against 14 accused, day-to-day trial from November 25",
-        "summary": "A Delhi fast-track court has ordered framing of charges against fourteen accused in the NEET-UG twenty twenty-six paper leak case. Formal charges will be framed on November twenty-one and the day-to-day trial begins on November twenty-five."
-      }
     }
   ]
 }
