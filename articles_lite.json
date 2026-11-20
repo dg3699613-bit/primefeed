@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T11:50:37+05:30",
+ "updatedAt": "2026-11-20T12:21:18+05:30",
  "articles": [
+  {
+   "id": "cheetah-komg3-four-cubs-kuno-india-count-62-november-20",
+   "category": "Science",
+   "sub": "Environment",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T12:21:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cheetah-komg3-four-cubs-kuno-india-count-62-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cheetah-komg3-four-cubs-kuno-india-count-62-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cheetah-komg3-four-cubs-kuno-india-count-62-november-20-en.mp3",
+   "hi": {
+    "title": "बोत्सवाना की चीता ने कूनो में जंगल के बीच चार शावकों को जन्म दिया, देश में चीतों की संख्या बासठ हुई",
+    "summary": "बोत्सवाना से लाई गई ढाई साल की मादा चीता कोएमजी तीन ने मध्य प्रदेश के कूनो राष्ट्रीय उद्यान में जंगल के बीच चार स्वस्थ शावकों को जन्म दिया है। बोत्सवाना से लाई गई किसी मादा चीता ने भारत में पहली बार बच्चे दिए हैं और देश में चीतों की संख्या बासठ हो गई है।"
+   },
+   "en": {
+    "title": "Botswana cheetah gives birth to four cubs in the wild at Kuno; India cheetah population rises to 62",
+    "summary": "A two-and-a-half-year-old female cheetah brought from Botswana, KOMG 3, has given birth to four healthy cubs in the wild at Kuno National Park. It is the first time a Botswana-origin female has given birth in India, and the country's cheetah population has risen to 62."
+   },
+   "district": "Sheopur",
+   "state": "Madhya Pradesh"
+  },
+  {
+   "id": "rupee-past-93-per-dollar-first-time-since-april-november-20",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T12:21:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rupee-past-93-per-dollar-first-time-since-april-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rupee-past-93-per-dollar-first-time-since-april-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rupee-past-93-per-dollar-first-time-since-april-november-20-en.mp3",
+   "hi": {
+    "title": "रुपया अप्रैल के बाद पहली बार तिरानवे के नीचे, डॉलर के मुकाबले मज़बूत; विदेशी निवेश से तेज़ी",
+    "summary": "भारतीय रुपया शुक्रवार को डॉलर के मुकाबले तिरानवे के स्तर से मज़बूत हो गया है। अप्रैल के बाद यह पहली बार है जब रुपया तिरानवे से नीचे आया है। विदेशी निवेशकों की भारी खरीदारी और डॉलर के कमज़ोर पड़ने से लगातार पाँचवें सत्र में रुपये में बढ़त दर्ज हुई है।"
+   },
+   "en": {
+    "title": "Rupee strengthens past 93 per dollar for first time since April; foreign inflows drive rally",
+    "summary": "The Indian rupee strengthened past the 93-per-dollar mark for the first time since April on Friday, touching an intraday high of 92.9950. Strong foreign portfolio inflows and a retreating dollar drove the fifth straight session of gains for the currency."
+   }
+  },
   {
    "id": "jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20",
    "category": "Crime & Law",
@@ -3185,50 +3229,6 @@
    "en": {
     "title": "Delhi air worsens: AQI 286, twenty stations 'very poor' as another pollution spell looms",
     "summary": "Delhi's air quality deteriorated again on Thursday, with the city-level Air Quality Index rising to 286 at 7 am, in the 'poor' category, according to the Central Pollution Control Board, while 20 monitoring stations recorded 'very poor' air. The weather institute forecasts a further slide into 'very poor' by Friday."
-   }
-  },
-  {
-   "id": "amritpal-singh-72-hour-security-alert-punjab-parole-november-21",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T10:35:05+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Amritsar",
-   "state": "Punjab",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amritpal-singh-72-hour-security-alert-punjab-parole-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritpal-singh-72-hour-security-alert-punjab-parole-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritpal-singh-72-hour-security-alert-punjab-parole-november-21-en.mp3",
-   "hi": {
-    "title": "अमृतपाल सिंह की इक्कीस नवंबर की तीन घंटे की पैरोल से पहले पंजाब में बहत्तर घंटे का सुरक्षा अलर्ट",
-    "summary": "जेल में बंद खडूर साहिब के सांसद अमृतपाल सिंह के इक्कीस नवंबर को अपने गाँव जल्लूपुर खेड़ा लौटने से पहले पंजाब पुलिस ने बहत्तर घंटे का सुरक्षा बंदोबस्त और पूरे राज्य में अलर्ट लगा दिया है। अमृतसर की अदालत ने उन्हें दादी के अंतिम संस्कार के लिए दोपहर बारह बजे से तीन बजे तक तीन घंटे की हिरासत पैरोल दी है।"
-   },
-   "en": {
-    "title": "72-hour security alert in Punjab as Amritpal Singh returns home on 3-hour parole on November 21",
-    "summary": "Punjab Police have mounted a 72-hour security lockdown and state-wide alert ahead of jailed Khadoor Sahib MP Amritpal Singh's return to his native village Jallupur Khera in Amritsar on November 21, when a court has allowed him three hours of custody parole, from noon to 3 pm, to attend his grandmother's cremation."
-   }
-  },
-  {
-   "id": "eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19",
-   "category": "Education",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T10:35:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eleven-states-uts-fully-literate-ullas-madhya-pradesh-leads-november-19-en.mp3",
-   "hi": {
-    "title": "ग्यारह राज्य और केंद्र शासित प्रदेश अब उल्लास के तहत 'पूर्ण साक्षर', मध्य प्रदेश वयस्क शिक्षार्थियों में आगे",
-    "summary": "केंद्र के वयस्क साक्षरता कार्यक्रम उल्लास-नव भारत साक्षरता कार्यक्रम के तहत ग्यारह राज्यों और केंद्र शासित प्रदेशों ने खुद को पूर्ण साक्षर घोषित कर दिया है। अधिकारियों ने बताया कि इस योजना से देश की साक्षरता दर इक्यासी दशमलव एक प्रतिशत तक पहुँच गई है, और मध्य प्रदेश बीस दशमलव चार तीन लाख वयस्क शिक्षार्थियों के साथ देश में सबसे आगे है।"
-   },
-   "en": {
-    "title": "Eleven states and UTs now 'fully literate' under ULLAS; Madhya Pradesh leads in adult learners",
-    "summary": "Eleven states and Union Territories have declared themselves fully literate under the Centre's adult literacy programme ULLAS-Nav Bharat Saaksharta Karyakram, officials said, as the scheme raised India's literacy rate to 81.1 per cent. Madhya Pradesh leads the country with 20.43 lakh adult learners."
    }
   }
  ]
