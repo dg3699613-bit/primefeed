@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-20T22:20:31+05:30",
+ "updatedAt": "2026-11-20T22:49:25+05:30",
  "articles": [
+  {
+   "id": "manipur-chandel-hooch-tragedy-11-dead-181-hospitalised-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "district": "Chandel",
+   "state": "Manipur",
+   "publishedAt": "2026-11-20T22:26:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-chandel-hooch-tragedy-11-dead-181-hospitalised-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-chandel-hooch-tragedy-11-dead-181-hospitalised-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-chandel-hooch-tragedy-11-dead-181-hospitalised-november-20-en.mp3",
+   "hi": {
+    "title": "मणिपुर के चंदेल में जहरीली शराब से 11 की मौत, 181 अस्पताल में भर्ती; मुख्यमंत्री ने जांच के आदेश दिए",
+    "summary": "मणिपुर के चंदेल जिले के चकपीकरोंग इलाके में संदिग्ध जहरीली शराब पीने से पिछले अड़तालीस घंटों में ग्यारह लोगों की मौत हो गई और एक सौ इक्यासी लोग अस्पतालों में भर्ती हैं। मुख्यमंत्री युमनम खेमचंद सिंह ने दोनों अस्पतालों का दौरा कर जांच के आदेश दिए हैं।"
+   },
+   "en": {
+    "title": "Toxic liquor kills 11 in Manipur's Chandel, 181 in hospital; CM orders probe",
+    "summary": "Eleven people have died and 181 are in hospital in Manipur's Chandel district after allegedly drinking contaminated locally made liquor in the Chakpikarong area over the past 48 hours. Chief Minister Yumnam Khemchand Singh visited the hospitals and ordered a probe."
+   }
+  },
   {
    "id": "netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20",
    "category": "World",
@@ -329,7 +352,7 @@
    "category": "Politics",
    "sub": "Elections",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "hi": {
     "title": "राजस्थान पंचायत नतीजे: कांग्रेस ने सैंतीस में से चौबीस ज़िलों में मारी बाज़ी, जयपुर भी जीता; मुख्यमंत्री के सांगानेर में आरएलपी आगे",
@@ -3196,29 +3219,6 @@
    "en": {
     "title": "Bombay High Court halts demolition of Dawood Ibrahim's Musafirkhana home, orders status quo till November 25",
     "summary": "The Bombay High Court on Thursday halted further demolition of the Haji Ismail Haji Habib Musafirkhana in Mumbai's Bhendi Bazaar, the building that once housed fugitive gangster Dawood Ibrahim. The BMC had begun pulling down the structure on Thursday morning before the court stepped in and ordered status quo till November 25."
-   }
-  },
-  {
-   "id": "ahmedabad-cyber-crime-dark-web-drug-network-telegram-fir-november-19",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T18:13:06+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Ahmedabad",
-   "state": "Gujarat",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ahmedabad-cyber-crime-dark-web-drug-network-telegram-fir-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-cyber-crime-dark-web-drug-network-telegram-fir-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-cyber-crime-dark-web-drug-network-telegram-fir-november-19-en.mp3",
-   "hi": {
-    "title": "अहमदाबाद में टेलीग्राम-डार्क वेब ड्रग्स नेटवर्क का भंडाफोड़: पाँच ग्रुप, चौबीस वेबसाइटें, एफ़आईआर दर्ज",
-    "summary": "अहमदाबाद साइबर क्राइम पुलिस ने टेलीग्राम के पाँच ग्रुपों और डार्क वेब की चौबीस वेबसाइटों पर कोकीन, एमडीएमए, हेरोइन और गांजा जैसे नशीले पदार्थों की ऑनलाइन बिक्री का भंडाफोड़ किया है। अठारह नवंबर को एफ़आईआर दर्ज की गई है, आरोपियों की पहचान की जा रही है।"
-   },
-   "en": {
-    "title": "Ahmedabad cyber crime bust: Drugs sold via 5 Telegram groups and 24 dark web sites, FIR registered",
-    "summary": "Ahmedabad Cyber Crime Police have busted an online drug-sale network operating through five Telegram groups and 24 dark web websites, where cocaine, MDMA, heroin and cannabis were allegedly advertised with photos and prices. An FIR was registered on November 18; the accused are yet to be identified."
    }
   }
  ]
