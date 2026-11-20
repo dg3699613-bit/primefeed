@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T02:12:53+05:30",
+ "updatedAt": "2026-11-21T02:30:12+05:30",
  "articles": [
+  {
+   "id": "trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "ट्रंप ने भारत को बताया मिसाल: कम ब्याज दर और सात प्रतिशत विकास, बोले फ़ेड दर घटाए तो अमेरिका बीस प्रतिशत तक पहुँचे",
+    "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने व्हाइट हाउस में कहा कि भारत की कम ब्याज दरें और सात प्रतिशत की विकास दर मिसाल हैं, और अगर फ़ेडरल रिज़र्व दरें घटाए तो अमेरिका चौदह से बीस प्रतिशत तक की वृद्धि दर्ज कर सकता है। उन्होंने फ़ेड को बहुत राजनीतिक करार दिया।"
+   },
+   "en": {
+    "title": "Trump holds up India as the model: low rates, 7% growth — US could hit 20% if the Fed cut rates",
+    "summary": "US President Donald Trump has praised India's low interest rates and 7 per cent growth as an example for America, arguing the United States could record growth of 14 to 20 per cent if the Federal Reserve cut borrowing costs instead of raising them. He called the Fed a very political central bank."
+   },
+   "publishedAt": "2026-11-21T02:30:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed-en.mp3"
+  },
+  {
+   "id": "blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "एक गेंद भी नहीं फेंकी गई, फिर भी पाकिस्तान को विजेता घोषित किया: ब्लाइंड एशिया कप ट्रॉफ़ी समारोह का भारत ने बहिष्कार किया",
+    "summary": "ढाका में पुरुष ब्लाइंड क्रिकेट एशिया कप दो हज़ार छब्बीस का फाइनल बिना एक गेंद फेंके बारिश से धुल गया, फिर भी मैच रेफ़री ने बेहतर नेट रन रेट के आधार पर पाकिस्तान को एकमात्र विजेता घोषित कर दिया। भारतीय टीम ने ट्रॉफ़ी समारोह का बहिष्कार कर दिया और काबी ने फैसले को नियमों के खिलाफ़ बताया।"
+   },
+   "en": {
+    "title": "No ball bowled, yet Pakistan declared champions: India boycott Blind Asia Cup trophy ceremony",
+    "summary": "The Men's Blind Cricket Asia Cup 2026 final in Dhaka was washed out without a single ball being bowled, yet the match referee declared Pakistan the sole winners on a better net run rate. The Indian team boycotted the trophy presentation ceremony, and the Cricket Association for the Blind in India called the decision against the rules."
+   },
+   "publishedAt": "2026-11-21T02:30:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions-en.mp3"
+  },
   {
    "id": "core-sector-growth-109-percent-october-new-series-high-november-20",
    "category": "Business",
@@ -3176,50 +3218,6 @@
     "title": "No relief for restaurants: Delhi High Court says mandatory service charge stays banned",
     "summary": "The Delhi High Court on Thursday made it clear that it has granted no interim relief to restaurant and hotel bodies challenging the ban on mandatory service charge — and told the Centre to act against eateries that are still levying it."
    }
-  },
-  {
-   "id": "mahadev-saurabh-chandrakar-judicial-custody-december-2-november-19",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T23:36:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mahadev-saurabh-chandrakar-judicial-custody-december-2-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahadev-saurabh-chandrakar-judicial-custody-december-2-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mahadev-saurabh-chandrakar-judicial-custody-december-2-november-19-en.mp3",
-   "hi": {
-    "title": "महादेव सट्टेबाज़ी मामला: सौरभ चंद्राकर दो दिसंबर तक न्यायिक हिरासत में भेजे गए",
-    "summary": "रायपुर की विशेष अदालत ने गुरुवार को महादेव ऑनलाइन सट्टेबाज़ी मामले के कथित सरगना सौरभ चंद्राकर को चौदह दिन की न्यायिक हिरासत में भेज दिया। वे दो दिसंबर तक हिरासत में रहेंगे, क्योंकि प्रवर्तन निदेशालय ने कहा कि फ़िलहाल हिरासत में उनसे और पूछताछ की ज़रूरत नहीं है।"
-   },
-   "en": {
-    "title": "Mahadev betting app case: Saurabh Chandrakar sent to judicial custody till December 2",
-    "summary": "A special court in Raipur on Thursday sent Saurabh Chandrakar, the alleged kingpin of the Mahadev online betting app case, to 14 days' judicial custody till December 2, after the Enforcement Directorate said it did not need to question him in custody any further for now."
-   }
-  },
-  {
-   "id": "saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19",
-   "category": "Entertainment",
-   "sub": "Celebrity",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T23:10:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saif-ali-khan-death-threat-baba-siddique-case-mumbai-police-probe-november-19-en.mp3",
-   "hi": {
-    "title": "सैफ़ अली ख़ान को बाबा सिद्दीकी हत्याकांड के आरोपी के नाम पर जान से मारने की धमकी, मुंबई पुलिस जाँच में जुटी",
-    "summary": "बॉलीवुड अभिनेता सैफ़ अली ख़ान को बाबा सिद्दीकी हत्याकांड के वांछित आरोपी ज़ीशान अख़्तर के नाम पर जान से मारने की धमकी मिली है। मुंबई पुलिस धमकी की सच्चाई और उसके स्रोत की जाँच कर रही है।"
-   },
-   "en": {
-    "title": "Saif Ali Khan gets death threat in name of Baba Siddique murder accused; Mumbai Police probe AI angle",
-    "summary": "Bollywood actor Saif Ali Khan has received a death threat in the name of Zeeshan Akhtar, a wanted accused in the Baba Siddique murder case. Mumbai Police are investigating the message and verifying whether it genuinely came from Akhtar or an impersonator."
-   },
-   "district": "Mumbai",
-   "state": "Maharashtra"
   }
  ]
 }
