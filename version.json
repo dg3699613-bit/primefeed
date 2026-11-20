@@ -1,1 +1,6 @@
-{"versionCode": 44, "versionName": "1.9.7", "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.9.7/PrimeFeed.apk", "notes": "PrimeFeed 1.9.7 — Is update me naya E-Paper (अख़बार) section jud gaya hai: menu (☰) me Categories ke neeche 'अख़बार' aur Categories page ke sabse upar 'अख़बार पढ़ें' card se roz ke subah aur shaam ke sanskaran padh sakte hain, bilkul akhbaar wale andaaz me. Saath me app ke andar rakhi taazi khabron ka packet bhi update kar diya gaya hai."}
+{
+  "versionCode": 45,
+  "versionName": "1.9.8",
+  "apkUrl": "https://github.com/dg3699613-bit/primefeed/releases/download/v1.9.8/PrimeFeed.apk",
+  "notes": "PrimeFeed 1.9.8 — Is update me khabar ke beech me asli source post dikhne ka feature jud gaya hai: jab koi khabar kisi ki Instagram post ya kisi channel ke video post se banti hai, to woh asli post article ke andar hi card ki tarah dikhegi — photo par tap karne se asli post khul jayegi. Saath me app ke andar rakhi taazi khabron ka packet bhi update kar diya gaya hai."
+}
