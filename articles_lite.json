@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-20T19:49:48+05:30",
+ "updatedAt": "2026-11-20T20:00:09+05:30",
  "articles": [
+  {
+   "id": "mangaluru-medical-student-abducted-kanachur-college-campus-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "district": "Dakshina Kannada",
+   "state": "Karnataka",
+   "hi": {
+    "title": "कनाचूर मेडिकल कॉलेज से छात्रा को कथित तौर पर अगवा किया गया, थार में ले जाने का वीडियो वायरल; पुलिस ने केस दर्ज कर तलाश शुरू की",
+    "summary": "मंगलुरु के कनाचूर मेडिकल कॉलेज परिसर से गुरुवार शाम एक मेडिकल छात्रा को कथित तौर पर ज़बरदस्ती ले जाया गया। सोशल मीडिया पर वायरल वीडियो में कुछ लोग उसे घसीटकर थार एसयूवी में ले जाते दिख रहे हैं। पुलिस ने मामला दर्ज कर छात्रा की तलाश शुरू कर दी है।"
+   },
+   "en": {
+    "title": "Mangaluru medical student allegedly abducted from college campus, dragged into Thar in viral video; police register case",
+    "summary": "A medical student was allegedly taken away by force from the campus of Kanachur Medical College in Mangaluru on Thursday evening. A video circulating on social media shows a group of people dragging her towards a Thar SUV and driving away. Police have registered a case and begun tracing her."
+   },
+   "publishedAt": "2026-11-20T20:00:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mangaluru-medical-student-abducted-kanachur-college-campus-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mangaluru-medical-student-abducted-kanachur-college-campus-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mangaluru-medical-student-abducted-kanachur-college-campus-november-20-en.mp3"
+  },
+  {
+   "id": "delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "district": "New Delhi",
+   "state": "Delhi",
+   "hi": {
+    "title": "दिल्ली: शादी का प्रस्ताव लेकर घर में घुसे चेन्नई के युवक की पिटाई से मौत, इन्फ्लुएंसर के पिता और पड़ोसी गिरफ़्तार",
+    "summary": "चेन्नई के अट्ठाईस साल के एक आईटी पेशेवर ने दिल्ली की इन्फ्लुएंसर नेहा बिष्ट के घर में घुसकर उनसे शादी की माँग की थी। परिवार और पड़ोसियों की कथित पिटाई के बाद इलाज के दौरान करीब एक हफ्ते बाद उनकी मौत हो गई। नेहा के पिता और एक पड़ोसी गिरफ़्तार किए गए हैं।"
+   },
+   "en": {
+    "title": "Delhi influencer's father, neighbour arrested after Chennai man who barged in demanding marriage dies after beating",
+    "summary": "A 28-year-old IT professional from Chennai entered Delhi influencer Neha Bisht's home demanding that she marry him. He died in hospital about a week after he was allegedly beaten by her family members and neighbours. Her father and a neighbour have been arrested."
+   },
+   "publishedAt": "2026-11-20T20:00:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20-en.mp3"
+  },
   {
    "id": "pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20",
    "category": "India",
@@ -3179,50 +3225,6 @@
    "en": {
     "title": "Rajasthan Junior Engineer recruitment expanded to 1,909 posts; apply by December 17",
     "summary": "The Rajasthan Staff Selection Board has issued a revised notification for the Junior Engineer Combined Direct Recruitment 2026, raising the vacancies from 874 to 1,909. Online applications reopened on November 18 and will close on December 17, with the examination proposed for February 3 to 5, 2027."
-   }
-  },
-  {
-   "id": "tvk-mla-vs-babu-dies-75-kolathur-november-19",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T16:45:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tvk-mla-vs-babu-dies-75-kolathur-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tvk-mla-vs-babu-dies-75-kolathur-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tvk-mla-vs-babu-dies-75-kolathur-november-19-en.mp3",
-   "district": "Chennai",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "कोलाथुर में स्टालिन को हराने वाले टीवीके विधायक वी एस बाबू का निधन, पचहत्तर साल की उम्र में ली अंतिम साँस",
-    "summary": "तमिलगा वेत्रि कड़गम के विधायक वी एस बाबू का गुरुवार दोपहर चेन्नई के एमजीएम हेल्थकेयर अस्पताल में निधन हो गया। वे पचहत्तर साल के थे और नौ सितंबर से साँस की तकलीफ़ के चलते अस्पताल में भर्ती थे। मई दो हज़ार छब्बीस के विधानसभा चुनाव में उन्होंने कोलाथुर से डीएमके अध्यक्ष और पूर्व मुख्यमंत्री एम के स्टालिन को हराया था।"
-   },
-   "en": {
-    "title": "TVK's 'giant killer' VS Babu, the MLA who defeated Stalin in Kolathur, dies at 75",
-    "summary": "Tamilaga Vettri Kazhagam MLA VS Babu died at MGM Healthcare in Chennai on Thursday afternoon after a cardiac arrest. He was 75 and had been in hospital since September 9 with a respiratory illness. In the May 2026 Assembly elections he had defeated DMK president and former chief minister MK Stalin in Kolathur."
-   }
-  },
-  {
-   "id": "trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19",
-   "category": "World",
-   "sub": "China",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T16:36:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-xi-putin-end-historic-summit-peace-declaration-nuclear-talks-november-19-en.mp3",
-   "hi": {
-    "title": "ट्रंप, शी और पुतिन की ऐतिहासिक बैठक खत्म: परमाणु हथियारों पर बातचीत और स्थिर ऊर्जा पर 'शांति घोषणा'",
-    "summary": "शेनझेन में अमेरिका, चीन और रूस के नेताओं की पहली त्रिपक्षीय बैठक करीब डेढ़ घंटे चली। तीनों नेताओं ने परमाणु जोखिम घटाने पर बातचीत और स्थिर ऊर्जा आपूर्ति का वादा करते हुए संयुक्त 'शांति घोषणा' जारी की। यूक्रेन युद्ध पर भी चर्चा हुई, लेकिन किसी बाध्यकारी समझौते की घोषणा नहीं हुई।"
-   },
-   "en": {
-    "title": "Trump, Xi and Putin end historic 90-minute summit with 'peace declaration' on nuclear talks and energy",
-    "summary": "The first-ever trilateral meeting of the leaders of the United States, China and Russia ended in Shenzhen after about 90 minutes, with a joint 'peace declaration' pledging dialogue on reducing nuclear risks and stable energy flows. The Ukraine war was discussed, but no binding agreement was announced."
    }
   }
  ]
