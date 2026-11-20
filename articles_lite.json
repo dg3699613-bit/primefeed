@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T17:59:08+05:30",
+ "updatedAt": "2026-11-20T18:08:09+05:30",
  "articles": [
+  {
+   "id": "adani-legal-notice-mahua-moitra-defamatory-post-november-20",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T18:08:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/adani-legal-notice-mahua-moitra-defamatory-post-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-legal-notice-mahua-moitra-defamatory-post-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-legal-notice-mahua-moitra-defamatory-post-november-20-en.mp3",
+   "hi": {
+    "title": "अडानी समूह ने महुआ मोइत्रा को भेजा कानूनी नोटिस, पीएम मोदी वाला कार्टून बताया मानहानिकारक",
+    "summary": "अडानी समूह ने तृणमूल कांग्रेस सांसद महुआ मोइत्रा को एक्स पर साझा किए गए एक कार्टून को लेकर कानूनी नोटिस भेजा है, जिसमें प्रधानमंत्री नरेंद्र मोदी और समूह के अध्यक्ष गौतम अडानी का कार्टून है। नोटिस में चौबीस घंटे में पोस्ट हटाने को कहा गया है, जबकि मोइत्रा ने सोशल मीडिया पर पलटवार किया है।"
+   },
+   "en": {
+    "title": "Adani Group sends legal notice to Mahua Moitra over 'defamatory' post carrying PM Modi caricature",
+    "summary": "The Adani Group has served a legal notice on Trinamool Congress MP Mahua Moitra over a post on X carrying a caricature of Prime Minister Narendra Modi and chairman Gautam Adani, asking her to delete it within 24 hours. Moitra hit back on social media, saying the group did not like the cartoon."
+   }
+  },
   {
    "id": "china-2-billion-dollar-bond-72-billion-orders-36-times-oversubscribed-november-20",
    "category": "Business",
@@ -3209,27 +3230,6 @@
    },
    "district": "Polavaram",
    "state": "Andhra Pradesh"
-  },
-  {
-   "id": "anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T15:26:21+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-81-billion-ipo-largest-ever-nasdaq-debut-november-19-en.mp3",
-   "hi": {
-    "title": "दुनिया का सबसे बड़ा आईपीओ: एंथ्रॉपिक ने इक्यासी अरब डॉलर जुटाए, कंपनी का मूल्यांकन डेढ़ ट्रिलियन डॉलर के करीब",
-    "summary": "क्लॉड चैटबॉट बनाने वाली एंथ्रॉपिक ने अपने आईपीओ में इक्यासी दशमलव इकतीस अरब डॉलर जुटाकर शेयर बाज़ार में अब तक की सबसे बड़ी लिस्टिंग का रिकॉर्ड बनाया है। शेयर तिरासी डॉलर पर तय हुए और गुरुवार को नैस्डैक पर ए एन टी टिकर से कारोबार शुरू होगा।"
-   },
-   "en": {
-    "title": "Anthropic raises $81.31 billion in the largest IPO in history, valued at about $1.5 trillion",
-    "summary": "The maker of the Claude chatbot priced its shares at $83 apiece and raised $81.31 billion, eclipsing SpaceX's June listing to become the biggest stock-market debut on record. Trading begins Thursday on the Nasdaq under the ticker ANT."
-   }
   }
  ]
 }
