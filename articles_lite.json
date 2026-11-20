@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-20T19:28:17+05:30",
+ "updatedAt": "2026-11-20T19:49:48+05:30",
  "articles": [
+  {
+   "id": "pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20",
+   "category": "India",
+   "sub": "National",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T19:49:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20-en.mp3",
+   "hi": {
+    "title": "पुराना किला में पहले एससीओ सभ्यता संवाद मंच का उद्घाटन, पीएम मोदी बोले — सांस्कृतिक जुड़ाव ही शांति की सबसे बड़ी गारंटी",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने शुक्रवार को दिल्ली के पुराना किला में पहले एससीओ सभ्यता संवाद मंच का उद्घाटन किया। उन्होंने यूरेशिया भर से आए प्रतिनिधियों से कहा कि जब दुनिया की बातचीत में युद्ध हावी हैं, तब सांस्कृतिक जुड़ाव ही वैश्विक शांति की सबसे बड़ी गारंटी है। वसुधैव कुटुम्बकम् की थीम पर तीन दिन चलने वाला यह मंच रविवार तक चलेगा, जिसमें पाकिस्तान के मंत्री मुसादिक मसूद मलिक भी शामिल हैं।"
+   },
+   "en": {
+    "title": "PM Modi opens first SCO Civilisational Dialogue Forum at Purana Qila: 'Cultural connection is the strongest guarantee of peace'",
+    "summary": "Prime Minister Narendra Modi on Friday inaugurated the first SCO Civilisational Dialogue Forum at Delhi's Purana Qila, telling delegates from across Eurasia that cultural connections are the strongest guarantee of global peace at a time when wars dominate the world's conversations. The three-day forum, themed 'Vasudhaiva Kutumbakam — The World Is One Family', runs till Sunday, with Pakistan's minister Musadik Masood Malik among the delegates."
+   }
+  },
   {
    "id": "russian-missiles-drone-crash-poland-tusk-intentional-provocation-november-20",
    "category": "World",
@@ -3202,27 +3223,6 @@
    "en": {
     "title": "Trump, Xi and Putin end historic 90-minute summit with 'peace declaration' on nuclear talks and energy",
     "summary": "The first-ever trilateral meeting of the leaders of the United States, China and Russia ended in Shenzhen after about 90 minutes, with a joint 'peace declaration' pledging dialogue on reducing nuclear risks and stable energy flows. The Ukraine war was discussed, but no binding agreement was announced."
-   }
-  },
-  {
-   "id": "south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T16:27:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-bangladesh-nine-wickets-first-test-johannesburg-november-19-en.mp3",
-   "hi": {
-    "title": "जोहानिसबर्ग टेस्ट: दक्षिण अफ़्रीका ने बांग्लादेश को नौ विकेट से हराया, शृंखला में एक शून्य की बढ़त",
-    "summary": "पहले टेस्ट के पाँचवें और आख़िरी दिन दक्षिण अफ़्रीका ने बांग्लादेश को नौ विकेट से हरा दिया। बांग्लादेश दूसरी पारी में एक सौ अड़सठ रन पर सिमट गया और मेज़बान टीम ने बारह रन का लक्ष्य सिर्फ़ एक दशमलव तीन ओवर में हासिल कर लिया। कागिसो रबाडा मैच के सर्वश्रेष्ठ खिलाड़ी चुने गए।"
-   },
-   "en": {
-    "title": "South Africa crush Bangladesh by nine wickets in Johannesburg Test to go 1-0 up",
-    "summary": "South Africa wrapped up the first Test against Bangladesh by nine wickets on the fifth and final day at the Wanderers, bowling the visitors out for 168 in their second innings and knocking off a target of just 12 runs in 1.3 overs. Kagiso Rabada was named Player of the Match."
    }
   }
  ]
