@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-20T23:37:01+05:30",
+ "updatedAt": "2026-11-20T23:48:28+05:30",
  "articles": [
+  {
+   "id": "manipur-hooch-toll-rises-15-chandel-shija-hospital-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "district": "Chandel",
+   "state": "Manipur",
+   "hi": {
+    "title": "मणिपुर में ज़हरीली शराब से मौतों का आँकड़ा पंद्रह हुआ, एक सौ अस्सी से ज़्यादा अस्पताल में; मुख्यमंत्री ने मरीज़ों से मुलाकात की",
+    "summary": "मणिपुर के चंदेल जिले में संदिग्ध ज़हरीली शराब से मरने वालों की संख्या शुक्रवार शाम तक पंद्रह हो गई, जबकि इंफाल के अस्पतालों में एक सौ अस्सी से ज़्यादा लोग भर्ती हैं। मुख्यमंत्री युम्नम खेमचंद सिंह ने शिजा और बबीना अस्पताल जाकर मरीज़ों से मुलाकात की और जाँच के आदेश दिए।"
+   },
+   "en": {
+    "title": "Manipur hooch tragedy: Death toll climbs to 15 in Chandel, over 180 in hospital; CM meets patients",
+    "summary": "The death toll in Manipur's suspected spurious liquor tragedy rose to 15 on Friday evening, with more than 180 people in hospital in Imphal. Chief Minister Yumnam Khemchand Singh visited Shija and Babina hospitals and ordered an inquiry."
+   },
+   "publishedAt": "2026-11-20T23:48:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-hooch-toll-rises-15-chandel-shija-hospital-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-hooch-toll-rises-15-chandel-shija-hospital-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-hooch-toll-rises-15-chandel-shija-hospital-november-20-en.mp3"
+  },
+  {
+   "id": "nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20",
+   "category": "World",
+   "sub": "USA",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "निखिल गुप्ता को अमेरिका में उन्नीस साल सात महीने की जेल, पन्नून की हत्या की साज़िश का मामला",
+    "summary": "न्यूयॉर्क की संघीय अदालत ने शुक्रवार को भारतीय नागरिक निखिल गुप्ता को खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून की हत्या की साज़िश के मामले में दो सौ पैंतीस महीने की जेल की सज़ा सुनाई। अभियोजन पक्ष ने चौबीस साल की सज़ा माँगी थी, जबकि गुप्ता के वकीलों ने बारह साल की माँग की थी।"
+   },
+   "en": {
+    "title": "Nikhil Gupta gets 19 years and 7 months in US prison for plot to kill Pannun",
+    "summary": "A federal court in New York on Friday sentenced Indian national Nikhil Gupta to 235 months in prison for his role in the 2023 murder-for-hire plot targeting Khalistani separatist Gurpatwant Singh Pannun. Prosecutors had sought 24 years, while his lawyers had asked for 12."
+   },
+   "publishedAt": "2026-11-20T23:48:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20-en.mp3"
+  },
   {
    "id": "rohtak-ratlam-family-three-killed-car-rams-parked-truck-november-20",
    "category": "State & Local",
@@ -72,8 +116,8 @@
    "id": "manipur-chandel-hooch-tragedy-11-dead-181-hospitalised-november-20",
    "category": "Crime & Law",
    "sub": "Police & Crime",
-   "breaking": true,
-   "featured": true,
+   "breaking": false,
+   "featured": false,
    "trending": true,
    "district": "Chandel",
    "state": "Manipur",
@@ -3177,48 +3221,6 @@
    "en": {
     "title": "Malaysia to end visa-free entry for Indians from January 1 — a visa will be needed before travel",
     "summary": "Malaysia will withdraw its 30-day visa-free entry facility for Indian passport holders from January 1, 2027. From that date every Indian entering the country will need a valid visa in hand before arrival. Visa applications open on December 1, 2026 through Malaysia's MyVISA online portal."
-   }
-  },
-  {
-   "id": "sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T19:11:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-jumps-990-points-nifty-reclaims-25500-bank-nifty-record-november-19-en.mp3",
-   "hi": {
-    "title": "सेंसेक्स नौ सौ नब्बे अंक उछलकर तिरासी हज़ार के पार, निफ्टी फिर पच्चीस हज़ार पाँच सौ के ऊपर; बैंक निफ्टी रिकॉर्ड पर",
-    "summary": "गुरुवार को शेयर बाज़ार में ज़बरदस्त तेज़ी रही। सेंसेक्स नौ सौ नब्बे अंक चढ़कर तिरासी हज़ार बाईस पर बंद हुआ, निफ्टी पच्चीस हज़ार पाँच सौ चौदह पर पहुँचा और बैंक निफ्टी पहली बार तिरेसठ हज़ार के पार बंद हुआ। ऑटो और बैंकिंग शेयरों में खरीदारी से बाज़ार नौ महीने के उच्चतम स्तर पर पहुँचा।"
-   },
-   "en": {
-    "title": "Sensex jumps 990 points past 83,000, Nifty reclaims 25,500 as Bank Nifty hits record",
-    "summary": "Indian markets staged a sharp rally on Thursday. The Sensex surged 990 points to close at 83,022, the Nifty climbed to 25,514 — its first close above 25,500 since February 23, 2026 — and the Bank Nifty ended above 63,000 for the first time. Auto and banking stocks led the broad-based buying."
-   }
-  },
-  {
-   "id": "gold-silver-crash-14-month-low-below-130000-november-19",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T19:11:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-silver-crash-14-month-low-below-130000-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-14-month-low-below-130000-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-14-month-low-below-130000-november-19-en.mp3",
-   "hi": {
-    "title": "सोना एक लाख तीस हज़ार से नीचे, चाँदी भी लुढ़की; चौदह महीने के निचले स्तर पर बुलियन",
-    "summary": "सोने और चाँदी की कीमतों में गुरुवार को गिरावट का सिलसिला जारी रहा। एमसीएक्स पर सोना एक लाख तीस हज़ार रुपये प्रति दस ग्राम से नीचे आ गया, जबकि चाँदी एक लाख उनसठ हज़ार रुपये प्रति किलो के करीब पहुँच गई। मज़बूत डॉलर और अमेरिका में ब्याज़ दरें बढ़ने की आशंका ने दोनों धातुओं पर दबाव बनाया।"
-   },
-   "en": {
-    "title": "Gold slips below Rs 1,30,000, silver slides too as bullion hits 14-month low",
-    "summary": "Gold and silver extended their slide on Thursday, falling to their lowest levels in 14 months. MCX gold slipped below Rs 1,30,000 per 10 grams, while silver fell towards Rs 1,59,000 per kg, weighed down by a firm US dollar and expectations of further interest-rate hikes by the US Federal Reserve."
    }
   }
  ]
