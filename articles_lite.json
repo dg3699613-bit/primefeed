@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-20T07:20:18+05:30",
+ "updatedAt": "2026-11-20T07:36:32+05:30",
  "articles": [
+  {
+   "id": "gangster-naseem-durrani-killed-encounter-bulandshahr-november-20",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T07:36:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20-en.mp3",
+   "district": "Bulandshahr",
+   "state": "Uttar Pradesh",
+   "en": {
+    "title": "Gangster Naseem Durrani, wanted in Delhi murder outside minister Kapil Mishra's office, killed in encounter in Bulandshahr",
+    "summary": "Gangster Naseem Durrani, accused in the murder of 26-year-old Sameer outside Delhi minister Kapil Mishra's camp office on November 16, was killed in an encounter with a joint team of Delhi Police and the Noida STF in Uttar Pradesh's Bulandshahr late on Thursday night. Police say Durrani, who carried a reward of Rs 50,000, had around 25 serious cases against him, including murder, robbery and attempted murder."
+   },
+   "hi": {
+    "title": "दिल्ली में मंत्री के दफ़्तर के बाहर हत्या का आरोपी गैंगस्टर नसीम दुर्रानी बुलंदशहर एनकाउंटर में मारा गया",
+    "summary": "दिल्ली के मंत्री कपिल मिश्रा के कैंप दफ़्तर के बाहर सोलह नवंबर को छब्बीस साल के समीर की हत्या के आरोपी गैंगस्टर नसीम दुर्रानी को गुरुवार देर रात उत्तर प्रदेश के बुलंदशहर में दिल्ली पुलिस और नोएडा एसटीएफ़ की संयुक्त टीम के साथ हुई मुठभेड़ में मार गिराया गया। पुलिस के अनुसार दुर्रानी पर पचास हज़ार रुपये का इनाम था और उसके ख़िलाफ़ हत्या, लूट और हत्या के प्रयास समेत करीब पच्चीस गंभीर मामले दर्ज थे।"
+   }
+  },
+  {
+   "id": "minibus-plunges-gorge-kodaikanal-palani-three-killed-november-20",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-20T07:36:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/minibus-plunges-gorge-kodaikanal-palani-three-killed-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/minibus-plunges-gorge-kodaikanal-palani-three-killed-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/minibus-plunges-gorge-kodaikanal-palani-three-killed-november-20-en.mp3",
+   "district": "Dindigul",
+   "state": "Tamil Nadu",
+   "en": {
+    "title": "Three killed as minibus carrying 24 plunges into 100-foot gorge on Kodaikanal–Palani road",
+    "summary": "Three people were killed and several others injured when a minibus carrying 24 passengers plunged into a 100-foot-deep gorge near Savarikkadu on the Kodaikanal–Palani Ghat Road in Tamil Nadu's Dindigul district on Thursday night. The passengers were returning home after a wedding reception in Kodaikanal, and Dindigul MP Sachithanantham confirmed the deaths."
+   },
+   "hi": {
+    "title": "कोडाइकनाल–पलानी घाट रोड पर मिनीबस सौ फुट गहरी खाई में गिरी, तीन की मौत",
+    "summary": "तमिलनाडु के डिंडीगुल ज़िले में गुरुवार रात कोडाइकनाल–पलानी घाट रोड पर सावरिक्काडु के पास चौबीस यात्रियों को ले जा रही एक मिनीबस सौ फुट गहरी खाई में गिर गई, जिससे तीन लोगों की मौत हो गई और कई अन्य घायल हो गए। यात्री कोडाइकनाल में एक शादी समारोह से लौट रहे थे, और डिंडीगुल के सांसद सच्चिथानंथम ने मौतों की पुष्टि की है।"
+   }
+  },
   {
    "id": "supreme-court-sir-mustafabad-form-7-november-30-deadline-november-19",
    "category": "Politics",
@@ -3173,48 +3219,6 @@
    "en": {
     "title": "Madhya Pradesh scraps 25-year two-child rule for government jobs; over 30,000 teachers to benefit",
     "summary": "The Madhya Pradesh cabinet, meeting at Gandhi Sagar in Mandsaur, has scrapped the 25-year-old rule that barred people with more than two children from government jobs and punished serving employees for a third child. More than 30,000 school teachers stand to benefit, and 8,000 to 10,000 pending disciplinary cases will be closed."
-   }
-  },
-  {
-   "id": "india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T03:19:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-toss-bowl-first-new-zealand-first-test-wellington-november-19-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन टेस्ट में गिल ने टॉस जीता, भारत पहले गेंदबाज़ी करेगा; जडेजा बाहर, सुंदर को मौका",
-    "summary": "शुभमन गिल ने टॉस जीतकर न्यूज़ीलैंड को वेलिंगटन के बेसिन रिज़र्व में पहले बल्लेबाज़ी के लिए भेज दिया। भारत चार तेज़ गेंदबाज़ों के साथ उतरा है, वॉशिंगटन सुंदर स्पिन ऑलराउंडर हैं, जबकि रवींद्र जडेजा, मोहम्मद सिराज और गुरनूर बराड़ बाहर हैं। जसप्रीत बुमराह लगभग एक साल बाद टेस्ट में लौटे हैं।"
-   },
-   "en": {
-    "title": "Gill wins toss and India bowl first in Wellington Test; Jadeja benched, Sundar in",
-    "summary": "Shubman Gill won the toss and put New Zealand in to bat in the first Test at Basin Reserve, Wellington, on a green top. India picked four seamers with Washington Sundar as the spin all-rounder, leaving out Ravindra Jadeja, Mohammed Siraj and Gurnoor Brar, while Jasprit Bumrah returns after almost a year."
-   }
-  },
-  {
-   "id": "bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-19T02:14:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bmc-demolition-dawood-ibrahim-bhendi-bazaar-home-stalls-stay-claims-november-19-en.mp3",
-   "hi": {
-    "title": "भेंडी बाज़ार में दाऊद इब्राहिम के पुराने घर का बीएमसी ध्वस्तीकरण पहले दिन ही अटका, रोक के दावे के बीच",
-    "summary": "मुंबई के भेंडी बाज़ार में दाऊद इब्राहिम के कभी रहने वाले हाजी इस्माइल हाजी हबीब मुसाफिरखाना को गिराने की बीएमसी की योजना पहले ही दिन अटक गई। अठारह और उन्नीस नवंबर को तय ध्वस्तीकरण बुधवार को शुरू नहीं हो सका, क्योंकि स्थानीय लोगों ने विरोध किया और विधायक अमीन पटेल ने सुप्रीम कोर्ट की रोक का दावा किया। भवन उन्नीस सौ उनतालीस में हज यात्रियों के ठहरने के लिए बना था।"
-   },
-   "en": {
-    "title": "BMC demolition of Dawood Ibrahim's old Bhendi Bazaar home stalls on day one amid stay claims",
-    "summary": "The BMC's plan to demolish the Haji Ismail Haji Habib Musafirkhana in Mumbai's Bhendi Bazaar, the building where Dawood Ibrahim once lived, stalled on its first day. The demolition scheduled for November 18 and 19 did not begin on Wednesday, after residents objected and local MLA Amin Patel claimed a Supreme Court stay was in place. The building was built in 1939 as a lodging house for Haj pilgrims."
    }
   }
  ]
