@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-21T03:52:50+05:30",
+  "updatedAt": "2026-11-21T04:25:08+05:30",
   "articles": [
+    {
+      "id": "denmark-expels-russian-diplomat-kyivstoner-assassination-plot-november-20",
+      "category": "World",
+      "sub": "Europe",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-21T04:25:08+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/denmark-expels-russian-diplomat-kyivstoner-assassination-plot-november-20.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/denmark-expels-russian-diplomat-kyivstoner-assassination-plot-november-20-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/denmark-expels-russian-diplomat-kyivstoner-assassination-plot-november-20-en.mp3",
+      "en": {
+        "title": "Denmark expels Russian defence attaché over alleged plot to kill rapper Kyivstoner",
+        "summary": "Denmark has expelled the Russian defence attaché after its intelligence service said Russian intelligence planned to assassinate Ukrainian-American rapper Kyivstoner at a concert near Copenhagen in September. Two Danish men were charged on Friday with attempted murder and assisting a foreign intelligence service."
+      },
+      "hi": {
+        "title": "रैपर कीवस्टोनर की हत्या की कथित साजिश पर डेनमार्क ने रूसी रक्षा अताशे को देश से निकाला",
+        "summary": "डेनमार्क ने रूस के रक्षा अताशे को देश से निकाल दिया है। डेनमार्क की खुफिया एजेंसी का कहना है कि रूसी खुफिया सेवा ने सितंबर में कोपेनहेगन के पास एक कॉन्सर्ट के दौरान यूक्रेनी-अमेरिकी रैपर कीवस्टोनर की हत्या की साजिश रची थी। शुक्रवार को दो डेनिश नागरिकों पर हत्या के प्रयास और विदेशी खुफिया सेवा की मदद का आरोप लगाया गया।"
+      }
+    },
+    {
+      "id": "youth-led-protests-sweep-europe-25-countries-november-20",
+      "category": "World",
+      "sub": "Europe",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-21T04:25:08+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/youth-led-protests-sweep-europe-25-countries-november-20.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-led-protests-sweep-europe-25-countries-november-20-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-led-protests-sweep-europe-25-countries-november-20-en.mp3",
+      "en": {
+        "title": "Youth-led protests sweep across 25 European countries over living costs and war spending",
+        "summary": "Tens of thousands of young people marched across more than 25 European countries on Friday in a coordinated day of action against high living costs, underfunded education and rising military spending, with a general strike bringing Italy to a standstill."
+      },
+      "hi": {
+        "title": "यूरोप के पच्चीस देशों में युवाओं का प्रदर्शन: महँगाई और हथियारों पर खर्च के खिलाफ सड़कों पर उतरी जेन ज़ी",
+        "summary": "शुक्रवार को यूरोप के पच्चीस से ज़्यादा देशों में हज़ारों युवा सड़कों पर उतरे। महँगाई, शिक्षा में कम खर्च और हथियारों पर बढ़ते खर्च के खिलाफ हुए इस समन्वित प्रदर्शन में इटली में आम हड़ताल से जनजीवन ठप हो गया।"
+      }
+    },
     {
       "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20-en.mp3",
       "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20-hi.mp3",
@@ -3171,48 +3213,6 @@
       "en": {
         "title": "South Korea top court overturns ex-PM Han Duck-soo's 15-year sentence in part, orders retrial",
         "summary": "South Korea's Supreme Court on Thursday overturned part of the 15-year prison sentence given to former Prime Minister Han Duck-soo over the December 2024 martial law declaration, sending the case back to the Seoul High Court. The court said there was insufficient evidence that Han intended to subvert the constitution when he proposed a Cabinet meeting before the declaration."
-      }
-    },
-    {
-      "id": "kashmir-free-locally-recruited-terrorists-amit-shah-november-19",
-      "category": "India",
-      "sub": "Defence",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-20T00:20:20+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kashmir-free-locally-recruited-terrorists-amit-shah-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-free-locally-recruited-terrorists-amit-shah-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-free-locally-recruited-terrorists-amit-shah-november-19-en.mp3",
-      "hi": {
-        "title": "पैंतीस साल बाद कश्मीर स्थानीय आतंकियों से मुक्त: अमित शाह ने कहा, बड़ी उपलब्धि हासिल हुई",
-        "summary": "केंद्रीय गृह मंत्री अमित शाह ने गुरुवार को नई दिल्ली में कहा कि लश्कर आतंकी लतीफ़ भट के मारे जाने के बाद कश्मीर में अब कोई स्थानीय आतंकी नहीं बचा है। उन्होंने इसे आतंकवाद के ख़िलाफ़ लड़ाई में पैंतीस साल बाद मिली बड़ी उपलब्धि बताया और कहा कि विदेश में छिपे अपराधियों को भी भारत लाया जाएगा।"
-      },
-      "en": {
-        "title": "Kashmir free of locally recruited terrorists after 35 years, says Amit Shah",
-        "summary": "Union Home Minister Amit Shah said on Thursday that with the killing of LeT terrorist Lateef Bhat, Kashmir no longer has any locally recruited terrorist left. Calling it a major milestone after 35 years, he said offenders hiding abroad must also be brought back to face Indian courts."
-      }
-    },
-    {
-      "id": "cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20",
-      "category": "Weather",
-      "sub": "Cyclone",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-20T00:20:20+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-120-lakh-evacuated-69-trains-cancelled-landfall-noon-november-20-en.mp3",
-      "hi": {
-        "title": "चक्रवात अकवान: ओडिशा में एक लाख बीस हज़ार से ज़्यादा लोग सुरक्षित जगहों पर, उनहत्तर ट्रेनें रद्द",
-        "summary": "भीषण चक्रवाती तूफ़ान अकवान के शुक्रवार दोपहर गोपालपुर के पास तट से टकराने से पहले ओडिशा में एक लाख बीस हज़ार से ज़्यादा लोगों को सुरक्षित जगहों पर पहुँचाया जा चुका है। पूर्व तट रेलवे ने इकतालीस और दक्षिण पूर्व रेलवे ने अट्ठाईस ट्रेनें रद्द कर दी हैं।"
-      },
-      "en": {
-        "title": "Cyclone Akvan: Over 1.2 lakh evacuated in Odisha, 69 trains cancelled as landfall nears",
-        "summary": "Odisha has evacuated more than 1.2 lakh people to safety ahead of Severe Cyclonic Storm Akvan's landfall near Gopalpur on Friday afternoon. The East Coast Railway has cancelled 41 trains and the South Eastern Railway 28, while over 300 rescue teams stand deployed."
       }
     }
   ]
