@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T01:52:21+05:30",
+ "updatedAt": "2026-11-22T02:10:16+05:30",
  "articles": [
+  {
+   "id": "gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T02:10:16+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21-en.mp3",
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोरखपुर में ट्रक की टक्कर से शादी से लौट रहे हाथी की मौत, महावत गंभीर, चालक फरार",
+    "summary": "गोरखपुर के बेलीपार इलाके में हाटा के पास राष्ट्रीय राजमार्ग चौबीस पर शनिवार सुबह एक तेज़ रफ़्तार ट्रक ने पीछे से हाथी को टक्कर मार दी। हादसे में हाथी की मौके पर ही मौत हो गई, जबकि महावत और उसका किशोर सहयोगी गंभीर रूप से घायल हो गए। ट्रक चालक मौके से भाग गया। घटना का तेईस सेकंड का सीसीटीवी फुटेज सामने आया है, और पुलिस उसी से गाड़ी का पता लगा रही है।"
+   },
+   "en": {
+    "title": "Wedding elephant killed in Gorakhpur hit-and-run; mahout seriously hurt, truck driver flees",
+    "summary": "A wedding elephant was killed and its mahout and a teenage helper were seriously injured after a speeding truck hit the animal from behind on National Highway-24 near Hata in Gorakhpur's Belipar area early on Saturday morning. The truck driver fled the spot without stopping. A 23-second CCTV clip of the incident has surfaced, and police are using it to trace the vehicle."
+   }
+  },
+  {
+   "id": "sonia-gandhi-ancestral-home-italy-museum-lusiana-november-21",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T02:10:16+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sonia-gandhi-ancestral-home-italy-museum-lusiana-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sonia-gandhi-ancestral-home-italy-museum-lusiana-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sonia-gandhi-ancestral-home-italy-museum-lusiana-november-21-en.mp3",
+   "hi": {
+    "title": "इटली में सोनिया गांधी के बचपन का घर बनेगा संग्रहालय, मालिक ने गांधी परिवार से माँगी मदद",
+    "summary": "इटली में वह छह कमरों वाला घर जहाँ कांग्रेस नेता सोनिया गांधी ने अपना बचपन बिताया था, अब संग्रहालय बनने जा रहा है। घर के मालिक सुखदेव सिंह कांग ने यह घोषणा की है। कांग ने दो हज़ार बीस में लुसियाना स्थित यह घर खरीदा था, और अब वह सोनिया गांधी व उनके बच्चों, राहुल और प्रियंका गांधी वाड्रा, से मिलकर प्रदर्शन के लिए तस्वीरें और निजी चीज़ें माँगना चाहते हैं।"
+   },
+   "en": {
+    "title": "Sonia Gandhi's childhood home in Italy to become a museum; owner seeks Gandhi family's help for memorabilia",
+    "summary": "The six-room house in Italy where Congress leader Sonia Gandhi spent her childhood is set to become a museum, its owner has announced. Sukhdev Singh Kang, a Punjab-origin Sikh businessman who bought the Lusiana house in 2020, wants to meet Sonia Gandhi and her children, Rahul and Priyanka Gandhi Vadra, to seek photographs and personal belongings for display. The house, known locally as 'Indian House', carries a signboard marking it as her birthplace."
+   }
+  },
   {
    "id": "kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21",
    "category": "Crime & Law",
@@ -3203,48 +3247,6 @@
    "en": {
     "title": "Toxic liquor kills 11 in Manipur's Chandel, 181 in hospital; CM orders probe",
     "summary": "Eleven people have died and 181 are in hospital in Manipur's Chandel district after allegedly drinking contaminated locally made liquor in the Chakpikarong area over the past 48 hours. Chief Minister Yumnam Khemchand Singh visited the hospitals and ordered a probe."
-   }
-  },
-  {
-   "id": "netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T21:56:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-iran-operation-unavoidable-trump-not-rushing-november-20-en.mp3",
-   "hi": {
-    "title": "नेतन्याहू बोले — ईरान पर एक और हमला 'अपरिहार्य', अमेरिका से चार से सात दिन के अभियान के लिए समर्थन माँगा; ट्रंप बोले — जल्दबाज़ी नहीं",
-    "summary": "इसराइल के कार्यवाहक प्रधानमंत्री बेंजामिन नेतन्याहू ने वरिष्ठ मंत्रियों और सुरक्षा अधिकारियों से कहा है कि ईरान के खिलाफ एक और सैन्य अभियान अपरिहार्य है, और वे तेहरान के खिलाफ चार से सात दिन के हवाई अभियान के लिए अमेरिका का समर्थन चाहते हैं। वहीं अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि उन्हें कोई जल्दबाज़ी नहीं है — वह इस पर फैसला दो हज़ार सत्ताईस की शुरुआत के बाद ही करेंगे।"
-   },
-   "en": {
-    "title": "Netanyahu calls another Iran operation 'unavoidable' and seeks US backing for a four-to-seven-day campaign; Trump says he is in no rush",
-    "summary": "Israel's caretaker Prime Minister Benjamin Netanyahu has told senior ministers and security officials that another military operation against Iran is 'unavoidable', and is seeking US backing for a four-to-seven-day air campaign against Tehran. US President Donald Trump, however, says he is in no rush to decide, and will take up the question only after the start of 2027."
-   }
-  },
-  {
-   "id": "bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20",
-   "category": "Entertainment",
-   "sub": "TV",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T21:56:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-uditi-singh-ranks-mahhi-vij-lowest-breaks-down-november-20-en.mp3",
-   "hi": {
-    "title": "बिग बॉस 20: कप्तान उदिति सिंह ने क़ाज़ी तौक़ीर को पहले और माहही विज को आख़िरी नंबर पर रखा; माहही टूट गईं, उदिति को कहा 'फेक'",
-    "summary": "बिग बॉस 20 में कप्तान उदिति सिंह की रैंकिंग ने घर में हंगामा मचा दिया है। उदिति ने क़ाज़ी तौक़ीर को पूरे दस में से दस नंबर देकर पहले स्थान पर रखा, जबकि सिर्फ एक नंबर पाने वाली माहही विज रो पड़ीं और तीखी बहस में उन्होंने उदिति को फेक कह दिया।"
-   },
-   "en": {
-    "title": "Bigg Boss 20: Captain Uditi Singh ranks Qazi Touqeer first and Mahhi Vij last; Mahhi breaks down and calls her 'fake'",
-    "summary": "Captain Uditi Singh's ranking of the Bigg Boss 20 housemates has set the house alight. Qazi Touqeer topped her list with a perfect 10, while Mahhi Vij, placed last with a single point, broke down in tears and called Uditi 'fake' in a heated argument."
    }
   }
  ]
