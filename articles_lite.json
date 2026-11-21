@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T09:17:05+05:30",
+ "updatedAt": "2026-11-21T09:33:58+05:30",
  "articles": [
+  {
+   "id": "gold-crashes-one-year-low-129300-ninth-straight-session-november-21",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "सोना एक साल के निचले स्तर पर, नौ दिन की गिरावट में दिल्ली में सत्रह हज़ार छह सौ रुपये लुढ़का",
+    "summary": "दिल्ली में सोना शुक्रवार को पाँच हज़ार दो सौ रुपये गिरकर एक लाख उनतीस हज़ार तीन सौ रुपये प्रति दस ग्राम रह गया — लगातार नौवें सत्र की गिरावट। मज़बूत डॉलर और अमेरिका में ब्याज दर बढ़ने की आशंका से दुनिया भर में सराफा बाज़ार दबाव में है, चाँदी भी चार हज़ार रुपये गिरकर एक लाख अट्ठावन हज़ार रुपये प्रति किलो रह गई।"
+   },
+   "en": {
+    "title": "Gold crashes to a one-year low as nine-day sell-off wipes ₹17,600 off Delhi prices",
+    "summary": "Gold fell ₹5,200 to ₹1,29,300 per 10 grams in Delhi on Friday, its ninth straight session of losses, as a stronger dollar and expectations of another US rate hike battered bullion worldwide. Silver crashed ₹4,000 to ₹1.58 lakh a kg."
+   },
+   "publishedAt": "2026-11-21T09:33:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-crashes-one-year-low-129300-ninth-straight-session-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-crashes-one-year-low-129300-ninth-straight-session-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-crashes-one-year-low-129300-ninth-straight-session-november-21-en.mp3"
+  },
+  {
+   "id": "csir-ugc-net-december-2026-schedule-december-19-22-27-november-21",
+   "category": "Education",
+   "sub": "Govt Exams",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "hi": {
+    "title": "सीएसआईआर-यूजीसी नेट दिसंबर दो हज़ार छब्बीस की तारीख़ें जारी, परीक्षा उन्नीस, बाईस और सत्ताईस दिसंबर को",
+    "summary": "राष्ट्रीय परीक्षा एजेंसी ने संयुक्त सीएसआईआर-यूजीसी नेट दिसंबर दो हज़ार छब्बीस सत्र का विषयवार कार्यक्रम जारी कर दिया है। जीवन विज्ञान की परीक्षा उन्नीस दिसंबर को, रसायन विज्ञान और पृथ्वी विज्ञान की बाईस दिसंबर को, और गणितीय विज्ञान व भौतिक विज्ञान की सत्ताईस दिसंबर को होगी।"
+   },
+   "en": {
+    "title": "CSIR-UGC NET December 2026 dates out: exams on December 19, 22 and 27",
+    "summary": "The National Testing Agency has released the subject-wise schedule for the Joint CSIR-UGC NET December 2026 session. Life Sciences will be held on December 19, Chemical and Earth Sciences on December 22, and Mathematical and Physical Sciences on December 27."
+   },
+   "publishedAt": "2026-11-21T09:33:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/csir-ugc-net-december-2026-schedule-december-19-22-27-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/csir-ugc-net-december-2026-schedule-december-19-22-27-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/csir-ugc-net-december-2026-schedule-december-19-22-27-november-21-en.mp3"
+  },
   {
    "id": "india-take-lead-wellington-gill-fifty-rahul-129-november-21",
    "category": "Cricket & Sports",
@@ -3169,48 +3211,6 @@
    "hi": {
     "title": "इस्तीफ़ा गुनाह का इक़बाल नहीं, हटाने की कार्यवाही अब निरर्थक: जस्टिस वर्मा का संसद को पत्र",
     "summary": "पूर्व जस्टिस यशवंत वर्मा ने लोकसभा सचिवालय को लिखा है कि ९ अप्रैल को इस्तीफ़ा देते ही उन्हें हटाने की कार्यवाही निरर्थक हो गई थी, और इस्तीफ़े को किसी भी आरोप का इक़बाल नहीं समझा जाना चाहिए। संसदीय जाँच समिति ने उनके ख़िलाफ़ तीनों आरोप साबित पाए थे।"
-   }
-  },
-  {
-   "id": "akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T05:18:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akash-deep-breaks-216-run-stand-glenn-phillips-118-wellington-test-november-20-en.mp3",
-   "en": {
-    "title": "Akash Deep breaks the 216-run stand as Glenn Phillips falls for 118 in Wellington",
-    "summary": "Akash Deep bowled Glenn Phillips for 118 on the second morning in Wellington, ending a 216-run sixth-wicket stand with Henry Nicholls that had carried New Zealand from 70 for 5 to 286 for 6 in the first Test against India."
-   },
-   "hi": {
-    "title": "आकाश दीप ने तोड़ा २१६ रन का साझा, ग्लेन फ़िलिप्स ११८ पर बोल्ड",
-    "summary": "वेलिंग्टन में दूसरे दिन की सुबह आकाश दीप ने ग्लेन फ़िलिप्स को ११८ रन पर बोल्ड कर हेनरी निकोल्स के साथ उनकी २१६ रन की छठे विकेट की साझेदारी तोड़ दी, जिसने न्यूज़ीलैंड को ७०/५ से २८६/६ तक पहुँचाया था।"
-   }
-  },
-  {
-   "id": "cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T04:56:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-three-lakh-evacuated-landfall-noon-november-20-en.mp3",
-   "en": {
-    "title": "Cyclone Akvan: nearly 3 lakh evacuated in Odisha as storm closes in for Friday noon landfall",
-    "summary": "Odisha has moved 2,98,676 people to 2,523 relief camps and deployed 423 rescue teams as Severe Cyclonic Storm Akvan closes in on the coast between Puri and Gopalpur, with landfall expected around noon on Friday and winds of 90-100 kmph, gusting to 110 kmph."
-   },
-   "hi": {
-    "title": "चक्रवात अकवान: ओडिशा में तीन लाख लोगों को सुरक्षित जगहों पर पहुँचाया गया, शुक्रवार दोपहर तट से टकराएगा तूफ़ान",
-    "summary": "ओडिशा ने भीषण चक्रवाती तूफ़ान अकवान के पुरी और गोपालपुर के बीच तट से टकराने से पहले २,९८,६७६ लोगों को २,५२३ राहत शिविरों में पहुँचा दिया है और ४२३ बचाव दल तैनात किए हैं। शुक्रवार दोपहर के आसपास तूफ़ान के टकराने का अनुमान है, हवा की रफ़्तार ९० से १०० किलोमीटर प्रति घंटा रहेगी।"
    }
   }
  ]
