@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T04:57:34+05:30",
+ "updatedAt": "2026-11-22T05:19:12+05:30",
  "articles": [
+  {
+   "id": "cm-mohan-yadav-chhatarpur-mass-wedding-75-couples-november-21",
+   "category": "State & Local",
+   "sub": "Madhya Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T05:19:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cm-mohan-yadav-chhatarpur-mass-wedding-75-couples-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-mohan-yadav-chhatarpur-mass-wedding-75-couples-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-mohan-yadav-chhatarpur-mass-wedding-75-couples-november-21-en.mp3",
+   "district": "Chhatarpur",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "छतरपुर में पचहत्तर जोड़ों के सामूहिक विवाह में शामिल हुए मोहन यादव, स्वामी परमानंद से लिया आशीर्वाद",
+    "summary": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव शनिवार को छतरपुर ज़िले के दौरे पर पहुँचे। उन्होंने सिजई गाँव में पचहत्तर जोड़ों के सामूहिक विवाह समारोह में हिस्सा लिया और परमानंद गोधाम गौशाला में स्वामी परमानंद गिरि महाराज से आशीर्वाद लिया।"
+   },
+   "en": {
+    "title": "Mohan Yadav blesses 75 couples at mass wedding in Chhatarpur, meets Swami Parmanand",
+    "summary": "Madhya Pradesh Chief Minister Mohan Yadav visited Chhatarpur district on Saturday, where he attended a mass wedding of 75 couples at Sijai village and met spiritual leader Swami Parmanand Giri Maharaj at the Parmanand Godham Gaushala."
+   }
+  },
+  {
+   "id": "rishabh-pant-ninth-test-century-india-601-wellington-november-22",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T05:19:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rishabh-pant-ninth-test-century-india-601-wellington-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rishabh-pant-ninth-test-century-india-601-wellington-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rishabh-pant-ninth-test-century-india-601-wellington-november-22-en.mp3",
+   "hi": {
+    "title": "पंत ने छक्के से पूरा किया नौवां टेस्ट शतक, भारत छह सौ के पार; न्यूज़ीलैंड में अब तक का सबसे बड़ा स्कोर",
+    "summary": "ऋषभ पंत ने वेलिंगटन में चौथे दिन ग्लेन फिलिप्स पर छक्का लगाकर अपना नौवां टेस्ट शतक पूरा किया। भारत पाँच विकेट पर छह सौ एक रन बनाकर न्यूज़ीलैंड में अपने अब तक के सबसे बड़े टेस्ट स्कोर तक पहुँच गया और बढ़त दो सौ तैंतीस रन की हो गई।"
+   },
+   "en": {
+    "title": "Pant smashes ninth Test hundred with a six as India pass 600 and their highest total in New Zealand",
+    "summary": "Rishabh Pant launched Glenn Phillips for six to reach his ninth Test century on day four at Wellington, taking India past 600 for five and beyond their highest Test total in New Zealand. India led by 233 runs with five wickets in hand."
+   }
+  },
   {
    "id": "up-special-campaign-day-voter-list-revision-november-22",
    "category": "Politics",
@@ -3199,48 +3243,6 @@
    "en": {
     "title": "NEET PG 2026 Round 2 final result out: 20,707 seats allotted, report to colleges by November 24",
     "summary": "The Medical Counselling Committee has declared the final seat allotment result for Round 2 of NEET PG 2026 counselling. The result lists 20,707 allotted seats across MD, MS, DNB and PG Diploma courses; candidates must report in person to their allotted institute by November 24, 2026, or lose the seat."
-   }
-  },
-  {
-   "id": "fii-record-rs-1-01-lakh-crore-november-biggest-monthly-inflow-november-20",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T01:23:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fii-record-rs-1-01-lakh-crore-november-biggest-monthly-inflow-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fii-record-rs-1-01-lakh-crore-november-biggest-monthly-inflow-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fii-record-rs-1-01-lakh-crore-november-biggest-monthly-inflow-november-20-en.mp3",
-   "hi": {
-    "title": "विदेशी निवेशकों ने नवंबर में भारतीय शेयरों में एक लाख एक हज़ार करोड़ रुपये डाले, एक महीने का रिकॉर्ड",
-    "summary": "विदेशी संस्थागत निवेशकों ने नवंबर में भारतीय शेयरों में एक लाख एक हज़ार करोड़ रुपये का निवेश किया है, जो किसी एक महीने में अब तक का सबसे बड़ा विदेशी निवेश है। इससे पहले का रिकॉर्ड सत्तर हज़ार आठ सौ छियानबे करोड़ रुपये था, जो नवंबर दो हज़ार बीस में बना था। खरीदारी लगातार चौदह कारोबारी सत्रों से जारी है।"
-   },
-   "en": {
-    "title": "FIIs pump record Rs 1.01 lakh crore into Indian stocks in November, highest monthly inflow ever",
-    "summary": "Foreign institutional investors have pumped a record Rs 1.01 lakh crore into Indian equities in November, the highest monthly inflow ever and the first time the Rs 1 lakh crore mark has been crossed in a single month. The previous record was Rs 70,896 crore in November 2020, and the buying has now run for 14 straight sessions."
-   }
-  },
-  {
-   "id": "nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T00:46:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-seeks-uae-help-flydubai-pilot-smit-machchhar-probe-en.mp3",
-   "hi": {
-    "title": "एनआईए ने फ्लाईदुबई पायलट स्मित माच्छर पर हमले की जाँच में यूएई से माँगी मदद, सह-पायलट के भारतीय संपर्कों की पड़ताल",
-    "summary": "एनआईए ने फ्लाईदुबई पायलट कैप्टन स्मित माच्छर पर तीस सितंबर को हवा में हुए हमले की जाँच में संयुक्त अरब अमीरात से पारस्परिक कानूनी सहायता का अनुरोध भेजा है। एनआईए प्रमुख राकेश अग्रवाल ने कहा कि अभिकरण ओमानी सह-पायलट के भारतीय संपर्कों की भी पड़ताल कर रहा है।"
-   },
-   "en": {
-    "title": "NIA seeks UAE's help to trace 'Indian footprints' of co-pilot who attacked flydubai pilot Smit Machchhar",
-    "summary": "The NIA has sent a Mutual Legal Assistance Treaty request to the UAE seeking documents and permission to examine certain people in its probe into the September 30 mid-air attack on Indian flydubai pilot Captain Smit Machchhar. NIA chief Rakesh Aggarwal said the agency is also tracing the Omani co-pilot's 'Indian footprints', including his education in Australia and the UK and his contacts abroad."
    }
   }
  ]
