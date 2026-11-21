@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T02:30:05+05:30",
+ "updatedAt": "2026-11-22T02:49:40+05:30",
  "articles": [
+  {
+   "id": "movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T02:49:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21-en.mp3",
+   "district": "Kurnool",
+   "state": "Andhra Pradesh",
+   "hi": {
+    "title": "फ़िल्म पाइरेसी नेटवर्क का भंडाफोड़: थिएटर में नई फ़िल्में रिकॉर्ड करने वाले कुरनूल के दो छात्र गिरफ़्तार, क्रिप्टो में मिलता था पैसा",
+    "summary": "तेलंगाना साइबर सुरक्षा ब्यूरो ने फ़िल्म पाइरेसी के एक संगठित नेटवर्क का भंडाफोड़ किया है और कुरनूल के दो उन्नीस साल के छात्रों को गिरफ़्तार किया है। आरोप है कि दोनों थिएटर के अंदर मोबाइल फ़ोन से नई फ़िल्में रिकॉर्ड करके ऑनलाइन लीक करते थे और हर फ़िल्म के लिए बीस हज़ार रुपये क्रिप्टोकरेंसी में लेते थे।"
+   },
+   "en": {
+    "title": "Movie piracy network busted: two Kurnool students held for filming new releases in theatres, paid in crypto",
+    "summary": "The Telangana Cyber Security Bureau has busted an organised movie piracy network and arrested two 19-year-old students from Kurnool, who allegedly filmed newly released movies inside theatres with mobile phones and leaked them online for Rs 20,000 per movie in cryptocurrency. The films included Ramayana and Mahashakthi."
+   }
+  },
+  {
+   "id": "eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T02:49:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21-en.mp3",
+   "hi": {
+    "title": "आइज़ेनकोट ने लिकुड को 'मैराथन' बातचीत का न्योता दिया, बेनेट ने उनके नेतृत्व वाली एकता सरकार का समर्थन किया",
+    "summary": "इस्राएल की अगली सरकार बनाने का ज़िम्मा पाने वाले गादी आइज़ेनकोट ने बिन्यामिन नेतन्याहू की पार्टी लिकुड को रविवार से शुरू होने वाली मैराथन गठबंधन वार्ता का न्योता दिया है। नफ़्ताली बेनेट ने आइज़ेनकोट के नेतृत्व वाली एकता सरकार का समर्थन किया और नेतन्याहू को अगला प्रधानमंत्री बनाने से इनकार किया, जबकि लिकुड ने भी अपनी शर्तें रखीं।"
+   },
+   "en": {
+    "title": "Eisenkot invites Likud to 'marathon' talks for broad government as Bennett backs unity under him",
+    "summary": "Gadi Eisenkot, tasked with forming Israel's next government, has invited Benjamin Netanyahu's Likud to a marathon of coalition talks starting Sunday. Naftali Bennett backed a unity government led by Eisenkot and ruled out Netanyahu as the next prime minister, while Likud set out its own terms for joining."
+   }
+  },
   {
    "id": "bijnor-third-girl-dies-kasaundi-pods-aiims-delhi-november-21",
    "category": "State & Local",
@@ -3201,52 +3245,6 @@
    "en": {
     "title": "Nikhil Gupta gets 19 years and 7 months in US prison for plot to kill Pannun",
     "summary": "A federal court in New York on Friday sentenced Indian national Nikhil Gupta to 235 months in prison for his role in the 2023 murder-for-hire plot targeting Khalistani separatist Gurpatwant Singh Pannun. Prosecutors had sought 24 years, while his lawyers had asked for 12."
-   }
-  },
-  {
-   "id": "rohtak-ratlam-family-three-killed-car-rams-parked-truck-november-20",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "district": "Rohtak",
-   "state": "Haryana",
-   "publishedAt": "2026-11-20T23:37:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rohtak-ratlam-family-three-killed-car-rams-parked-truck-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-ratlam-family-three-killed-car-rams-parked-truck-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-ratlam-family-three-killed-car-rams-parked-truck-november-20-en.mp3",
-   "hi": {
-    "title": "रोहतक में खड़े ट्रक से टकराई कार, रतलाम के एक ही परिवार के तीन लोगों की मौत, पाँच घायल",
-    "summary": "हरियाणा के रोहतक में जम्मू-कटरा राष्ट्रीय राजमार्ग पर शुक्रवार दोपहर एक कार खड़े ट्रक से टकरा गई। हादसे में मध्य प्रदेश के रतलाम के एक ही परिवार के तीन लोगों की मौके पर ही मौत हो गई, जबकि कार में सवार पाँच अन्य लोग घायल हो गए।"
-   },
-   "en": {
-    "title": "Rohtak crash: Three of a Ratlam family killed as car rams into parked truck on Jammu-Katra highway, five injured",
-    "summary": "Three members of a family from Ratlam in Madhya Pradesh were killed and five others injured after their car crashed into a parked truck on the Jammu-Katra National Highway in Rohtak district of Haryana on Friday afternoon."
-   }
-  },
-  {
-   "id": "bengaluru-partner-kills-teen-son-locks-woman-room-november-20",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T23:25:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bengaluru-partner-kills-teen-son-locks-woman-room-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bengaluru-partner-kills-teen-son-locks-woman-room-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bengaluru-partner-kills-teen-son-locks-woman-room-november-20-en.mp3",
-   "district": "Bengaluru Urban",
-   "state": "Karnataka",
-   "hi": {
-    "title": "बेंगलुरु: अठारह साल के बेटे की हत्या, माँ तीन दिन कमरे में बंद रही; लिव-इन पार्टनर गिरफ़्तार",
-    "summary": "बेंगलुरु के पद्मनाभनगर में किराए के फ्लैट में सोलह नवंबर को एक अठारह साल के युवक की कथित तौर पर उसकी माँ के लिव-इन पार्टनर ने हत्या कर दी, और महिला उन्नीस नवंबर को कमरे में बंद मिली। बैंक कर्मचारी आरोपी को गिरफ़्तार कर लिया गया है।"
-   },
-   "en": {
-    "title": "Bengaluru: 18-year-old killed in flat, mother locked in room for days; live-in partner arrested",
-    "summary": "An 18-year-old was allegedly killed by his mother's live-in partner in a rented flat in Bengaluru's Padmanabhanagar on November 16, and the woman was found locked inside a room only on November 19. The accused, a bank employee, has been arrested."
    }
   }
  ]
