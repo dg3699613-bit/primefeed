@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-21T18:03:18+05:30",
+ "updatedAt": "2026-11-21T18:18:50+05:30",
  "articles": [
+  {
+   "id": "delhi-police-jamtara-apk-fraud-22-arrested-20-crore-november-21",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T18:18:50+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-police-jamtara-apk-fraud-22-arrested-20-crore-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-jamtara-apk-fraud-22-arrested-20-crore-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-jamtara-apk-fraud-22-arrested-20-crore-november-21-en.mp3",
+   "district": "Jamtara",
+   "state": "Jharkhand",
+   "hi": {
+    "title": "एपीके फाइल से बाईस हज़ार से ज़्यादा लोगों को ठगा, बीस करोड़ से ज़्यादा की चपत: जामताड़ा समेत चार राज्यों में छापे, बाईस साइबर ठग गिरफ्तार",
+    "summary": "दिल्ली पुलिस के पश्चिमी ज़िले की साइबर टीम ने वॉट्सऐप पर एपीके फाइल भेजकर ठगी करने वाले एक बड़े नेटवर्क का पर्दाफाश किया है। पाँच दिन तक चले ऑपरेशन में झारखंड, बिहार, उत्तर प्रदेश और पश्चिम बंगाल के आठ ज़िलों में सत्रह ठिकानों पर छापे मारकर बाईस आरोपियों को गिरफ्तार किया गया। जाँच में बाईस हज़ार एक सौ उनतालीस पीड़ितों और बीस करोड़ रुपये से ज़्यादा की ठगी का पता चला है, और दो हज़ार अस्सी शिकायतें इस नेटवर्क से जुड़ी मिली हैं।"
+   },
+   "en": {
+    "title": "APK files, 22,139 victims, over Rs 20 crore swindled: Delhi Police raids across four states, arrests 22 cyber fraudsters from Jamtara network",
+    "summary": "Delhi Police's West district cyber team has busted a large network that defrauded people by sending APK files over WhatsApp. In a five-day operation, police raided 17 locations in eight districts across Jharkhand, Bihar, Uttar Pradesh and West Bengal and arrested 22 accused. The investigation has found 22,139 victims and fraud of more than Rs 20 crore, with 2,080 complaints linked to the network."
+   }
+  },
+  {
+   "id": "haridwar-ib-sp-shot-by-driver-vinod-negi-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-21T18:18:50+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haridwar-ib-sp-shot-by-driver-vinod-negi-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haridwar-ib-sp-shot-by-driver-vinod-negi-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haridwar-ib-sp-shot-by-driver-vinod-negi-november-21-en.mp3",
+   "district": "Haridwar",
+   "state": "Uttarakhand",
+   "hi": {
+    "title": "हरिद्वार में आईबी के एसपी पर उन्हीं के ड्राइवर ने चलाई गोली, माथे के पास से निकली; गंभीर हालत में एम्स रेफर, आरोपी गिरफ्तार",
+    "summary": "हरिद्वार में इंटेलिजेंस ब्यूरो के एसपी सीपी नौटियाल पर उनके ही अस्थायी चालक विनोद नेगी ने कथित तौर पर गोली चला दी। गोली माथे के पास से छूकर निकल गई, जिससे एसपी गंभीर रूप से घायल हो गए। प्राथमिक उपचार के बाद उन्हें ऋषिकेश एम्स रेफर किया गया, जहाँ उनका इलाज जारी है। पुलिस ने आरोपी चालक को मौके पर गिरफ्तार कर लिया है और उससे पूछताछ की जा रही है।"
+   },
+   "en": {
+    "title": "Haridwar: IB officer shot by his own driver, bullet grazes forehead; SP referred to AIIMS in serious condition, driver arrested",
+    "summary": "In Haridwar, Intelligence Bureau SP C. P. Nautiyal was allegedly shot at by his own temporary driver Vinod Negi. The bullet grazed past his forehead, leaving the SP seriously injured. After first aid, he was referred to AIIMS Rishikesh, where he is being treated. Police arrested the accused driver on the spot and are questioning him."
+   }
+  },
   {
    "id": "kerala-hc-allows-mayilpeeli-scholar-exam-november-22-november-21",
    "category": "Education",
@@ -3175,48 +3221,6 @@
    "en": {
     "title": "Rajasthan panchayat results: Congress wins 2,254 Panchayat Samiti seats, leads in 27 districts as counting advances",
     "summary": "The Congress has won 2,254 of the 4,473 Panchayat Samiti seats declared so far and 81 of 124 Zila Parishad seats in Rajasthan's rural local body elections, leading in 27 districts to the BJP's seven as counting continues in 37 districts."
-   }
-  },
-  {
-   "id": "russia-hits-three-kyiv-bridges-eight-killed-november-20",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T14:47:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russia-hits-three-kyiv-bridges-eight-killed-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-hits-three-kyiv-bridges-eight-killed-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-hits-three-kyiv-bridges-eight-killed-november-20-en.mp3",
-   "hi": {
-    "title": "रूसी मिसाइल हमले में कीव के तीन पुल क्षतिग्रस्त, आठ लोगों की मौत",
-    "summary": "रूस ने रातभर चले हमले में यूक्रेन की राजधानी कीव के नीप्रो नदी पर बने तीन पुलों को निशाना बनाया। हमले में आठ लोगों की मौत हो गई और बिजली-पानी की आपूर्ति ठप पड़ गई।"
-   },
-   "en": {
-    "title": "Russian missiles hit three Kyiv bridges in overnight barrage; eight killed across Ukraine",
-    "summary": "Russian ballistic missiles and drones damaged three bridges across the Dnipro in Kyiv in an overnight attack. At least eight people were killed across Ukraine and power and water supplies were disrupted in the capital."
-   }
-  },
-  {
-   "id": "supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T14:47:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-strikes-down-up-pension-laws-work-charged-employees-november-20-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने यूपी के दो पेंशन कानून रद्द किए, वर्क-चार्ज कर्मचारियों की पुरानी सेवा भी पेंशन में गिनी जाएगी",
-    "summary": "सुप्रीम कोर्ट ने उत्तर प्रदेश के दो कानूनों को असंवैधानिक बताते हुए रद्द कर दिया, जो नियमित हुए वर्क-चार्ज कर्मचारियों की नियमितीकरण से पहले की सेवा को पेंशन की गणना से बाहर रखते थे।"
-   },
-   "en": {
-    "title": "Supreme Court strikes down two UP pension laws; work-charged service must count towards pension",
-    "summary": "The Supreme Court has struck down two Uttar Pradesh laws that kept the pre-regularisation service of regularised work-charged employees out of pension calculations, holding that regularisation wipes out the distinction of the initial appointment."
    }
   }
  ]
