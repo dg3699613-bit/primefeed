@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-22T00:03:49+05:30",
+ "updatedAt": "2026-11-22T00:16:54+05:30",
  "articles": [
+  {
+   "id": "mexico-captures-el-chapo-isidro-fbi-most-wanted-sinaloa-november-21",
+   "category": "World",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T00:16:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mexico-captures-el-chapo-isidro-fbi-most-wanted-sinaloa-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mexico-captures-el-chapo-isidro-fbi-most-wanted-sinaloa-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mexico-captures-el-chapo-isidro-fbi-most-wanted-sinaloa-november-21-en.mp3",
+   "hi": {
+    "title": "मेक्सिको ने एफ़बीआई के मोस्ट-वांटेड 'एल चापो इसिड्रो' को सिनालोआ में पकड़ा; गोलीबारी से बेसबॉल मैच के दर्शक भागे",
+    "summary": "मेक्सिको की विशेष बलों ने शुक्रवार रात सिनालोआ के गुआसावे में फ़ाउस्टो इसिड्रो मेसा-फ़्लोरेस को गिरफ़्तार कर लिया, जिसे 'एल चापो इसिड्रो' के नाम से जाना जाता है। मादक पदार्थ तस्करी और हथियार के आरोपों में अमेरिका में वांछित एफ़बीआई के दस सबसे वांछित अपराधियों में से एक यह व्यक्ति, जिस पर पचास लाख डॉलर का इनाम था, दो साथियों के साथ मेक्सिको सिटी ले जाया गया। छापे के बाद सिनालोआ भर में कार्टेल हिंसा भड़क उठी — सड़कों पर रुकावटें, जलती कारें और गोलीबारी, जिससे बेसबॉल मैच के दर्शक भागने लगे।"
+   },
+   "en": {
+    "title": "Mexico captures FBI's most-wanted 'El Chapo Isidro' in Sinaloa raid; cartel gunfire sends baseball fans fleeing",
+    "summary": "Mexican special forces captured Fausto Isidro Meza-Flores, known as 'El Chapo Isidro', in Guasave, Sinaloa, on Friday night. The FBI Ten Most Wanted fugitive, wanted in the US on drug-trafficking and firearms charges with a $5 million reward on his head, was flown to Mexico City with two associates. The raid set off cartel violence across Sinaloa — roadblocks, burning cars and gunfire that sent fans fleeing a baseball game."
+   }
+  },
+  {
+   "id": "manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21",
+   "category": "Entertainment",
+   "sub": "TV",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T00:16:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21-en.mp3",
+   "hi": {
+    "title": "मनीष गोयल ने पैर की गंभीर चोट के बाद बिग बॉस 20 छोड़ा; माहही विज बचीं, कोई एविक्शन नहीं",
+    "summary": "वाइल्ड कार्ड प्रतियोगी मनीष गोयल ने पैर की गंभीर चोट के बाद पाँच हफ़्ते में बिग बॉस 20 छोड़ दिया है। मेज़बान सलमान खान ने शनिवार के वीकेंड का वार में साफ़ किया कि गोयल को सबसे कम वोट नहीं मिले थे और उन्हें एविक्ट नहीं किया गया — उन्होंने चिकित्सा कारणों से खुद शो छोड़ने का फ़ैसला किया। उनके जाने से माहही विज बच गईं, जिन्हें इस हफ़्ते कथित तौर पर सबसे कम वोट मिले थे, और कोई एविक्शन नहीं हुआ।"
+   },
+   "en": {
+    "title": "Manish Goel quits Bigg Boss 20 after serious leg injury; Mahhi Vij survives as no one is evicted",
+    "summary": "Wildcard contestant Manish Goel has left Bigg Boss 20 after five weeks, following a serious leg injury. Host Salman Khan clarified during Saturday's Weekend Ka Vaar that Goel did not receive the lowest votes and was not evicted — he chose to walk out on medical grounds. His exit saved Mahhi Vij, who had reportedly received the fewest votes this week, and no elimination took place."
+   }
+  },
   {
    "id": "hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21",
    "category": "Crime & Law",
@@ -3201,48 +3243,6 @@
    "en": {
     "title": "Delhi influencer's father, neighbour arrested after Chennai man who barged in demanding marriage dies after beating",
     "summary": "A 28-year-old IT professional from Chennai entered Delhi influencer Neha Bisht's home demanding that she marry him. He died in hospital about a week after he was allegedly beaten by her family members and neighbours. Her father and a neighbour have been arrested."
-   }
-  },
-  {
-   "id": "pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20",
-   "category": "India",
-   "sub": "National",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T19:49:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-sco-civilisational-dialogue-forum-purana-qila-november-20-en.mp3",
-   "hi": {
-    "title": "पुराना किला में पहले एससीओ सभ्यता संवाद मंच का उद्घाटन, पीएम मोदी बोले — सांस्कृतिक जुड़ाव ही शांति की सबसे बड़ी गारंटी",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी ने शुक्रवार को दिल्ली के पुराना किला में पहले एससीओ सभ्यता संवाद मंच का उद्घाटन किया। उन्होंने यूरेशिया भर से आए प्रतिनिधियों से कहा कि जब दुनिया की बातचीत में युद्ध हावी हैं, तब सांस्कृतिक जुड़ाव ही वैश्विक शांति की सबसे बड़ी गारंटी है। वसुधैव कुटुम्बकम् की थीम पर तीन दिन चलने वाला यह मंच रविवार तक चलेगा, जिसमें पाकिस्तान के मंत्री मुसादिक मसूद मलिक भी शामिल हैं।"
-   },
-   "en": {
-    "title": "PM Modi opens first SCO Civilisational Dialogue Forum at Purana Qila: 'Cultural connection is the strongest guarantee of peace'",
-    "summary": "Prime Minister Narendra Modi on Friday inaugurated the first SCO Civilisational Dialogue Forum at Delhi's Purana Qila, telling delegates from across Eurasia that cultural connections are the strongest guarantee of global peace at a time when wars dominate the world's conversations. The three-day forum, themed 'Vasudhaiva Kutumbakam — The World Is One Family', runs till Sunday, with Pakistan's minister Musadik Masood Malik among the delegates."
-   }
-  },
-  {
-   "id": "russian-missiles-drone-crash-poland-tusk-intentional-provocation-november-20",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T19:28:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-missiles-drone-crash-poland-tusk-intentional-provocation-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-missiles-drone-crash-poland-tusk-intentional-provocation-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-missiles-drone-crash-poland-tusk-intentional-provocation-november-20-en.mp3",
-   "hi": {
-    "title": "पोलैंड में गिरे रूसी मिसाइल और ड्रोन; टस्क बोले — 'यह जानबूझकर उकसाने की कार्रवाई है'",
-    "summary": "मॉस्को के यूक्रेन पर रातभर के हमले के बीच दो रूसी क्रूज़ मिसाइल और एक जेट-चालित ड्रोन दक्षिण-पूर्वी पोलैंड में गिरे। वारसॉ का कहना है कि मित्र देशों के सैनिकों के अभ्यास के दौरान हुई इस घटना के पीछे जानबूझकर उकसाने की मंशा है; किसी को चोट नहीं आई।"
-   },
-   "en": {
-    "title": "Russian missiles and drone crash into Poland; Tusk calls it 'an intentional provocation'",
-    "summary": "Two Russian cruise missiles and a jet-powered drone crashed into south-eastern Poland during Moscow's overnight attack on Ukraine. Warsaw says the timing — as allied troops drill nearby — points to a deliberate provocation; nobody was hurt."
    }
   }
  ]
