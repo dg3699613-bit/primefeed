@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T15:36:45+05:30",
+ "updatedAt": "2026-11-21T15:57:00+05:30",
  "articles": [
+  {
+   "id": "raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:57:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21-en.mp3",
+   "en": {
+    "title": "Raipur newborn trafficking racket busted: six arrested as police find 26 birth certificates for just three deliveries",
+    "summary": "Raipur Police say they have busted an inter-state racket that allegedly sold newborns to childless couples using a private hospital to issue fake birth certificates. Six people, including the hospital's managing director, have been arrested; police say at least 10 babies were sold in Ahmedabad, Mumbai and Chennai."
+   },
+   "hi": {
+    "title": "रायपुर में नवजात बच्चों की खरीद-फरोख्त का भंडाफोड़: तीन प्रसव पर छब्बीस जन्म प्रमाण पत्र, छह गिरफ्तार",
+    "summary": "रायपुर पुलिस का कहना है कि उसने एक अंतरराज्यीय गिरोह का भंडाफोड़ किया है, जो कथित तौर पर एक निजी अस्पताल के जरिए फर्जी जन्म प्रमाण पत्र बनवाकर नवजात बच्चों को निःसंतान दंपतियों को बेचता था। अस्पताल के प्रबंध निदेशक समेत छह लोग गिरफ्तार हुए हैं; पुलिस के अनुसार कम से कम दस बच्चे अहमदाबाद, मुंबई और चेन्नई में बेचे गए।"
+   },
+   "district": "Raipur",
+   "state": "Chhattisgarh"
+  },
+  {
+   "id": "bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:57:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21-en.mp3",
+   "en": {
+    "title": "Fresh arson attacks rock Bangladesh as Hasina's planned return fuels unrest; minister's home targeted",
+    "summary": "Fresh arson attacks erupted across Bangladesh on Friday as unrest grows over former prime minister Sheikh Hasina's planned return from exile in December. A petrol bomb was hurled at a minister's home in Sylhet, a police station was torched in Gopalganj, and 124 people linked to the banned Awami League were arrested in Dhaka."
+   },
+   "hi": {
+    "title": "बांग्लादेश में फिर आगजनी, हसीना की वापसी की योजना से बढ़ा तनाव; मंत्री के घर पर पेट्रोल बम",
+    "summary": "शेख हसीना की दिसंबर में निर्वासन से वापसी की योजना को लेकर बढ़ती अशांति के बीच बांग्लादेश में शुक्रवार को फिर आगजनी हुई। सिलहट में एक मंत्री के घर पर पेट्रोल बम फेंका गया, गोपालगंज में थाने को आग लगा दी गई, और ढाका में प्रतिबंधित अवामी लीग से जुड़े एक सौ चौबीस लोगों को गिरफ्तार किया गया।"
+   }
+  },
   {
    "id": "zelenskyy-calls-putin-killer-after-trump-friend-remark-november-21",
    "category": "World",
@@ -1417,13 +1461,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday.",
-    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in"
+    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in",
+    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday."
    },
    "featured": false,
    "hi": {
-    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।",
-    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी"
+    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी",
+    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।"
    },
    "id": "congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20.jpg",
@@ -3172,50 +3216,6 @@
     "title": "Rupee strengthens past 93 per dollar for first time since April; foreign inflows drive rally",
     "summary": "The Indian rupee strengthened past the 93-per-dollar mark for the first time since April on Friday, touching an intraday high of 92.9950. Strong foreign portfolio inflows and a retreating dollar drove the fifth straight session of gains for the currency."
    }
-  },
-  {
-   "id": "jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T11:50:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jpmorgan-visa-mastercard-vendor-cyberattack-data-leak-november-20-en.mp3",
-   "hi": {
-    "title": "जेपीमॉर्गन, वीज़ा और मास्टरकार्ड पर साइबर हमला, ग्राहकों का डेटा लीक — कार्ड की जानकारी सुरक्षित",
-    "summary": "जेपीमॉर्गन चेज़ ने खुलासा किया है कि हमलावरों ने उसके तीसरे पक्ष के सेवा प्रदाताओं को निशाना बनाकर ग्राहकों का मार्केटिंग डेटा हासिल कर लिया है। यह तब सामने आया जब एक रैनसमवेयर समूह ने जेपीमॉर्गन, वीज़ा और मास्टरकार्ड के ग्राहकों का डेटा लीक करने का दावा किया। तीनों कंपनियों ने कहा है कि उनके भुगतान तंत्र पर कोई असर नहीं पड़ा है और कार्ड की जानकारी सुरक्षित है।"
-   },
-   "en": {
-    "title": "JPMorgan, Visa and Mastercard hit in vendor cyberattacks; customer data leaked, card details safe",
-    "summary": "JPMorgan Chase has disclosed that attackers targeted its third-party service providers and accessed customer marketing data, after a ransomware group claimed to have leaked records belonging to JPMorgan, Visa and Mastercard. All three companies said their payment systems were untouched and no card details were exposed."
-   }
-  },
-  {
-   "id": "cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T11:50:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-no-major-damage-odisha-37-lakh-evacuated-november-20-en.mp3",
-   "hi": {
-    "title": "चक्रवात अक्वान से ओडिशा में कोई बड़ा नुकसान नहीं, किसी की जान नहीं गई — तीन लाख सत्तर हज़ार लोग सुरक्षित",
-    "summary": "चक्रवात अक्वान शुक्रवार सुबह गोपालपुर के पास ओडिशा तट से टकराया। हवाएँ सत्तर से अस्सी किलोमीटर प्रति घंटा की रफ़्तार से चलीं, लेकिन राज्य में अब तक कोई बड़ा नुकसान या जान का नुकसान नहीं हुआ है। सरकार ने तीन लाख सत्तर हज़ार लोगों को सुरक्षित जगहों पर पहुँचाया है और चार सौ तेईस बचाव दल तैनात किए हैं।"
-   },
-   "en": {
-    "title": "Cyclone Akvan leaves Odisha with no major damage or loss of life; 3.7 lakh evacuated",
-    "summary": "Cyclone Akvan crossed the Odisha coast near Gopalpur on Friday morning with winds of 70-80 kmph, but Odisha has reported no major damage or loss of life so far. The state evacuated 3.7 lakh people and deployed 423 rescue teams as heavy rain lashed the coast."
-   },
-   "district": "Ganjam",
-   "state": "Odisha"
   }
  ]
 }
