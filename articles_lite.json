@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-22T04:25:04+05:30",
+ "updatedAt": "2026-11-22T04:57:34+05:30",
  "articles": [
+  {
+   "id": "up-special-campaign-day-voter-list-revision-november-22",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T04:57:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-special-campaign-day-voter-list-revision-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-special-campaign-day-voter-list-revision-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-special-campaign-day-voter-list-revision-november-22-en.mp3",
+   "hi": {
+    "title": "यूपी में आज वोटर लिस्ट का विशेष अभियान: सभी 1,73,730 मतदान केंद्रों पर सुबह 10 से शाम 4 तक बीएलओ मौजूद",
+    "summary": "उत्तर प्रदेश में मतदाता सूची के विशेष सारांश पुनरीक्षण-2027 के तहत आज, रविवार 22 नवंबर को राज्य के सभी 1,73,730 मतदान केंद्रों पर विशेष अभियान चलेगा। बूथ स्तर के अधिकारी सुबह 10 बजे से शाम 4 बजे तक मौजूद रहेंगे और लोग मसौदा सूची में अपना व परिवार का नाम जाँच सकेंगे, फॉर्म 6 से नाम जुड़वा सकेंगे और फॉर्म 8 से सुधार करा सकेंगे।"
+   },
+   "en": {
+    "title": "Special campaign day for UP voter list today: BLOs at all 1,73,730 polling stations from 10 am to 4 pm",
+    "summary": "Booth-level officers will be present at all 1,73,730 polling stations across Uttar Pradesh on Sunday, November 22, from 10 am to 4 pm as part of the Special Summary Revision of Electoral Rolls-2027. Citizens can check their names in the draft roll, apply for fresh enrolment with Form 6, or seek corrections with Form 8."
+   }
+  },
   {
    "id": "jair-bolsonaro-intensive-care-bowel-obstruction-brasilia-november-21",
    "category": "World",
@@ -3220,29 +3241,6 @@
    "en": {
     "title": "NIA seeks UAE's help to trace 'Indian footprints' of co-pilot who attacked flydubai pilot Smit Machchhar",
     "summary": "The NIA has sent a Mutual Legal Assistance Treaty request to the UAE seeking documents and permission to examine certain people in its probe into the September 30 mid-air attack on Indian flydubai pilot Captain Smit Machchhar. NIA chief Rakesh Aggarwal said the agency is also tracing the Omani co-pilot's 'Indian footprints', including his education in Australia and the UK and his contacts abroad."
-   }
-  },
-  {
-   "id": "baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha",
-   "category": "Dharm-Astrology",
-   "sub": "Katha & Dharm News",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T00:46:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baba-ramdev-announces-ramanandacharya-university-gonda-ram-katha-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा राम कथा में बाबा रामदेव का बड़ा ऐलान: जगद्गुरु रामानंदाचार्य के नाम पर बनेगा विश्व का सबसे बड़ा विश्वविद्यालय",
-    "summary": "योग गुरु बाबा रामदेव ने गोंडा के जयप्रभा ग्राम में चल रही नौ दिवसीय श्रीराम कथा में ऐलान किया कि जिले में जगद्गुरु रामानंदाचार्य के नाम से विश्वविद्यालय बनाया जाएगा, जो संत के नाम पर दुनिया का सबसे बड़ा होगा। उन्होंने महर्षि पतंजलि के नाम पर विद्यालय और विकास कार्य कराने की भी घोषणा की।"
-   },
-   "en": {
-    "title": "Baba Ramdev announces world's largest university in Jagadguru Ramanandacharya's name at Gonda Ram Katha",
-    "summary": "Yoga guru Baba Ramdev announced at the nine-day Shri Ram Katha in Gonda's Jai Prabha Gram that a university in the name of Jagadguru Ramanandacharya will be built in the district, calling it the world's largest in the saint's name. He also announced schools and development works in the name of Maharishi Patanjali, whose birthplace is in Gonda."
    }
   }
  ]
