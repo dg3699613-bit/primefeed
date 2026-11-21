@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T16:19:57+05:30",
+ "updatedAt": "2026-11-21T16:36:37+05:30",
  "articles": [
+  {
+   "id": "mohan-yadav-gonda-ram-katha-jayprabha-november-21",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-21T16:36:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mohan-yadav-gonda-ram-katha-jayprabha-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mohan-yadav-gonda-ram-katha-jayprabha-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mohan-yadav-gonda-ram-katha-jayprabha-november-21-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "मध्य प्रदेश के मुख्यमंत्री मोहन यादव आज गोंडा की श्रीराम कथा में शामिल हुए",
+    "summary": "मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव शनिवार को गोंडा के जयप्रभा ग्राम में चल रही नौ दिवसीय श्रीराम कथा में शामिल होने आए हैं। वह दोपहर दो बजे अयोध्या एयरपोर्ट पहुँचे, तीन बजकर दस मिनट पर हेलीकॉप्टर से जानकी नगर पोखरा उतरे और कथा स्थल पर श्रद्धालुओं को संबोधित कर रहे हैं।"
+   },
+   "en": {
+    "title": "Madhya Pradesh CM Mohan Yadav to attend Ram Katha in Gonda today",
+    "summary": "Madhya Pradesh Chief Minister Mohan Yadav arrived in Gonda on Saturday to attend the nine-day Shri Ram Katha at Jayprabha village. He reached Ayodhya airport at 2 pm, flew by helicopter to Janki Nagar Pokhara at 3:10 pm, and is addressing devotees at the katha venue before returning in the evening."
+   }
+  },
+  {
+   "id": "goldy-brar-fbi-ten-most-wanted-one-million-reward-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T16:36:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/goldy-brar-fbi-ten-most-wanted-one-million-reward-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldy-brar-fbi-ten-most-wanted-one-million-reward-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/goldy-brar-fbi-ten-most-wanted-one-million-reward-november-21-en.mp3",
+   "hi": {
+    "title": "एफबीआई की मोस्ट वॉन्टेड सूची में गोल्डी बराड़, गिरफ्तारी पर एक मिलियन डॉलर का इनाम",
+    "summary": "एफबीआई ने भगोड़े गैंगस्टर सतिंदरजीत सिंह उर्फ गोल्डी बराड़ को अपनी दस मोस्ट वॉन्टेड भगोड़ों की सूची में शामिल किया है और उसकी गिरफ्तारी तक पहुँचाने वाली जानकारी के लिए एक मिलियन डॉलर तक का इनाम घोषित किया है। ब्यूरो के अनुसार बराड़ पर लॉरेंस बिश्नोई संगठित अपराध समूह के उत्तरी अमेरिकी संचालन का नेतृत्व करने का आरोप है।"
+   },
+   "en": {
+    "title": "FBI puts Goldy Brar on its Ten Most Wanted list, offers $1 million reward",
+    "summary": "The FBI has added fugitive gangster Satinderjeet Singh, known as Goldy Brar, to its Ten Most Wanted Fugitives list and announced a reward of up to $1 million for information leading to his arrest. The bureau says Brar allegedly heads the North American operations of the Lawrence Bishnoi organised crime group."
+   }
+  },
   {
    "id": "supreme-court-gram-sabha-consent-mandatory-mining-land-acquisition-odisha-november-21",
    "category": "Crime & Law",
@@ -3171,50 +3215,6 @@
    "en": {
     "title": "COP31 draft drops all mention of fossil fuels as summit enters final day in Antalya",
     "summary": "Negotiators at COP31 in Antalya have published a revised draft agreement that drops all references to moving away from fossil fuels and removes a proposed 120-billion-dollar annual adaptation finance target, as the summit enters its final day."
-   }
-  },
-  {
-   "id": "delhi-100-electric-buses-flagged-off-fleet-7088-november-20",
-   "category": "State & Local",
-   "sub": "Delhi",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T12:49:22+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-100-electric-buses-flagged-off-fleet-7088-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-100-electric-buses-flagged-off-fleet-7088-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-100-electric-buses-flagged-off-fleet-7088-november-20-en.mp3",
-   "district": "New Delhi",
-   "state": "Delhi",
-   "hi": {
-    "title": "दिल्ली में सौ नई इलेक्ट्रिक बसों को हरी झंडी, बेड़ा सात हज़ार के पार; देश का सबसे बड़ा ई-बस बेड़ा बरकरार",
-    "summary": "मुख्यमंत्री रेखा गुप्ता ने शुक्रवार को कश्मीरी गेट आईएसबीटी से सौ नई इलेक्ट्रिक बसों को हरी झंडी दिखाकर रवाना किया। इसके साथ दिल्ली के बस बेड़े की कुल संख्या लगभग सात हज़ार अठासी हो गई है, जिनमें पाँच हज़ार तीन सौ अड़तीस इलेक्ट्रिक बसें हैं।"
-   },
-   "en": {
-    "title": "Delhi flags off 100 new electric buses, fleet crosses 7,000; city keeps India's largest e-bus fleet",
-    "summary": "Chief Minister Rekha Gupta flagged off 100 new electric buses from ISBT Kashmere Gate on Friday, taking Delhi's total bus fleet to around 7,088, of which 5,338 are electric — the largest electric bus fleet of any Indian city."
-   }
-  },
-  {
-   "id": "bangladesh-pm-tarique-rahman-blames-india-unrest-november-20",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T12:49:22+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-pm-tarique-rahman-blames-india-unrest-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-pm-tarique-rahman-blames-india-unrest-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-pm-tarique-rahman-blames-india-unrest-november-20-en.mp3",
-   "hi": {
-    "title": "हसीना समर्थकों के बंद में हिंसा पर बांग्लादेश के प्रधानमंत्री तारिक रहमान ने भारत पर लगाया आरोप",
-    "summary": "प्रधानमंत्री तारिक रहमान ने बांग्लादेश में हिंसा की ताज़ा लहर के लिए भारत को ज़िम्मेदार ठहराया है। पूर्व प्रधानमंत्री शेख हसीना के समर्थकों ने देशव्यापी बंद के दौरान कई ज़िलों में आगजनी और झड़पें कीं।"
-   },
-   "en": {
-    "title": "Bangladesh PM Tarique Rahman blames India as Hasina supporters' lockdown turns violent",
-    "summary": "Prime Minister Tarique Rahman has blamed India for the fresh wave of violence in Bangladesh, as supporters of former prime minister Sheikh Hasina enforced a nationwide lockdown with arson and clashes across several districts."
    }
   }
  ]
