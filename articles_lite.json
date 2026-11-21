@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T13:23:44+05:30",
+ "updatedAt": "2026-11-21T13:37:41+05:30",
  "articles": [
+  {
+   "id": "houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-21T13:37:41+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21-en.mp3",
+   "en": {
+    "title": "Houthis say 41 killed as Saudi coalition strikes Hodeidah port; Yemen escalation deepens",
+    "summary": "Houthi-run media said at least 41 people, including 11 children, were killed in Saudi-led coalition strikes across Yemen in the past 24 hours, as the coalition said it had hit Hodeidah port and targets in Sanaa, Saada and Taiz — and the Houthis claimed retaliatory strikes on a Saudi power plant and port."
+   },
+   "hi": {
+    "title": "हूती बोले — सऊदी गठबंधन के हमलों में यमन में इकतालीस की मौत, सऊदी बिजली संयंत्र और बंदरगाह पर पलटवार का दावा",
+    "summary": "हूती संचालित मीडिया ने कहा है कि सऊदी नेतृत्व वाले गठबंधन के हमलों में पिछले चौबीस घंटों में यमन भर में कम से कम इकतालीस लोग मारे गए, जिनमें ग्यारह बच्चे शामिल हैं। गठबंधन ने कहा है कि उसने होदैदा बंदरगाह और सना, सादा व ताइज़ में ठिकानों को निशाना बनाया, जबकि हूतियों ने सऊदी बिजली संयंत्र और बंदरगाह पर पलटवार का दावा किया है।"
+   }
+  },
   {
    "id": "navi-mumbai-airport-record-200-flights-day-highest-ever-november-21",
    "category": "Business",
@@ -27,7 +48,7 @@
    "category": "Business",
    "sub": "Banking & Finance",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-21T13:04:23+05:30",
    "source": "PrimeFeed Desk",
@@ -3194,27 +3215,6 @@
    "hi": {
     "title": "देहरादून: कूड़े के ढेर में बोरी में मिली अज्ञात महिला की लाश, टैटू की तस्वीर से पहचान की कोशिश",
     "summary": "देहरादून के प्रेमनगर इलाके में कूड़े के ढेर से पच्चीस से तीस साल की अज्ञात महिला का शव मिला है। पुलिस ने पहचान के लिए उसके हाथ पर बने टैटू की तस्वीर जारी की है, और घटनास्थल के पास मंगलवार रात दिखी एक कार सीसीटीवी में कैद हुई है।"
-   }
-  },
-  {
-   "id": "ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T09:40:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganga-water-treaty-expires-in-22-days-no-renewal-talks-yet-en.mp3",
-   "hi": {
-    "title": "गंगा जल संधि खत्म होने में सिर्फ बाईस दिन, नवीनीकरण की बातचीत अब तक शुरू ही नहीं",
-    "summary": "उन्नीस सौ छियानबे की वह संधि, जिसके तहत भारत और बांग्लादेश फरक्का में गंगा के सूखे मौसम के पानी का बँटवारा करते हैं, बारह दिसंबर को खत्म हो रही है। ढाका ने दो बार दिल्ली से औपचारिक नवीनीकरण वार्ता शुरू करने को कहा है और अब वह गारंटी वाले हिस्से के साथ नई संधि चाहता है; दिल्ली ने बातचीत की कोई तारीख़ घोषित नहीं की है, और बिना समझौते के बँटवारे का फॉर्मूला अपने आप खत्म हो जाएगा।"
-   },
-   "en": {
-    "title": "Ganga water treaty runs out in 22 days — and renewal talks have not even begun",
-    "summary": "The 1996 treaty that governs how India and Bangladesh share the Ganga's dry-season water at Farakka expires on December 12. Dhaka has twice asked Delhi to begin formal renewal talks and now wants a new pact with a guaranteed share; Delhi has announced no date for talks, and without an agreement the sharing formula simply stops applying."
    }
   }
  ]
