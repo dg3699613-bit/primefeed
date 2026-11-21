@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-22T03:43:52+05:30",
+ "updatedAt": "2026-11-22T03:52:39+05:30",
  "articles": [
+  {
+   "id": "russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-22T03:52:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21-en.mp3",
+   "en": {
+    "title": "Russian military-linked cargo ship Sparta II ablaze in Gulf of Finland after drone strike; crew evacuated",
+    "summary": "A Russian military-linked cargo ship, the Sparta II, caught fire in the Gulf of Finland on Saturday after a drone strike that Finland said was likely carried out by Ukraine. The 16-member crew was evacuated, the burning vessel drifted into Finnish waters, and a Russian helicopter was suspected of violating Finnish airspace during the rescue."
+   },
+   "hi": {
+    "title": "फ़िनलैंड की खाड़ी में ड्रोन हमले के बाद रूसी जहाज़ स्पार्टा टू में आग, सोलह सदस्यों वाला चालक दल सुरक्षित निकाला गया",
+    "summary": "रूस की सेना से जुड़ा मालवाहक जहाज़ स्पार्टा टू शनिवार को फ़िनलैंड की खाड़ी में ड्रोन हमले के बाद आग की चपेट में आ गया। फ़िनलैंड ने कहा कि हमले के पीछे संभवतः यूक्रेन का हाथ है। सोलह सदस्यों वाले चालक दल को सुरक्षित निकाल लिया गया, जलता जहाज़ फ़िनिश जलक्षेत्र में बह गया और बचाव के दौरान एक रूसी हेलीकॉप्टर पर फ़िनिश हवाई क्षेत्र के उल्लंघन का संदेह जताया गया।"
+   }
+  },
   {
    "id": "india-canada-cepa-sixth-round-concludes-new-delhi-november-21",
    "category": "Business",
@@ -729,7 +750,7 @@
    "category": "Crime & Law",
    "sub": "Police & Crime",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-21T21:10:52+05:30",
    "source": "PrimeFeed Desk",
@@ -2871,13 +2892,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday.",
-    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in"
+    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in",
+    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday."
    },
    "featured": false,
    "hi": {
-    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।",
-    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी"
+    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी",
+    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।"
    },
    "id": "congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20.jpg",
@@ -3223,29 +3244,6 @@
     "title": "आईबीपीएस पीओ मेंस रिजल्ट दो हज़ार छब्बीस जारी: सात हज़ार पाँच सौ पैंसठ पदों पर भर्ती, सत्ताईस नवंबर तक देखें अपना रिजल्ट",
     "summary": "बैंकिंग कार्मिक चयन संस्थान ने सार्वजनिक क्षेत्र के बैंकों में सात हज़ार पाँच सौ पैंसठ प्रोबेशनरी ऑफिसर पदों के लिए आईबीपीएस पीओ मेंस रिजल्ट दो हज़ार छब्बीस जारी कर दिया है। चार अक्टूबर को हुई मुख्य परीक्षा में शामिल अभ्यर्थी सत्ताईस नवंबर तक आधिकारिक वेबसाइट पर अपनी योग्यता की स्थिति देख सकते हैं; स्कोरकार्ड और कटऑफ़ एक हफ़्ते में आएँगे, और साक्षात्कार दिसंबर में होंगे।"
    }
-  },
-  {
-   "id": "amritpal-singh-flown-delhi-grandmother-cremation-november-21",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T00:37:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amritpal-singh-flown-delhi-grandmother-cremation-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritpal-singh-flown-delhi-grandmother-cremation-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritpal-singh-flown-delhi-grandmother-cremation-november-21-en.mp3",
-   "en": {
-    "title": "Amritpal Singh flown from Assam to Delhi for grandmother's cremation in Amritsar today; three-hour parole under heavy security",
-    "summary": "Jailed Punjab MP Amritpal Singh was flown from Dibrugarh in Assam to New Delhi on Friday under heavy security, ahead of his grandmother's cremation in his native village Jallupur Khera in Amritsar on Saturday. He has been granted a three-hour custody parole, from noon to 3 pm, his first visit home in more than three years."
-   },
-   "hi": {
-    "title": "अमृतपाल सिंह दादी के अंतिम संस्कार के लिए असम से दिल्ली लाए गए, आज अमृतसर में तीन घंटे की पैरोल पर रहेंगे",
-    "summary": "जेल में बंद पंजाब के सांसद अमृतपाल सिंह को शुक्रवार को असम के डिब्रूगढ़ से भारी सुरक्षा के बीच नई दिल्ली लाया गया। शनिवार को वे अपने पैतृक गाँव जल्लूपुर खेड़ा में दादी चरण कौर के अंतिम संस्कार में शामिल होंगे, जिसके लिए उन्हें दोपहर बारह से तीन बजे तक तीन घंटे की हिरासत पैरोल मिली है। तीन साल से ज़्यादा समय बाद यह उनकी पहली घर वापसी होगी।"
-   },
-   "district": "Amritsar",
-   "state": "Punjab"
   }
  ]
 }
