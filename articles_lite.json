@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T14:22:15+05:30",
+ "updatedAt": "2026-11-21T14:34:10+05:30",
  "articles": [
+  {
+   "id": "gorakhpur-teen-death-five-arrested-murder-charges-added-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:34:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-teen-death-five-arrested-murder-charges-added-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-teen-death-five-arrested-murder-charges-added-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-teen-death-five-arrested-murder-charges-added-november-21-en.mp3",
+   "en": {
+    "title": "Gorakhpur teen's death: five arrested as police add murder charge after JCB incident at SP roadshow",
+    "summary": "Five people have been arrested in Gorakhpur after 14-year-old Aryavardhan Singh was allegedly run over by a JCB machine during Samajwadi Party chief Akhilesh Yadav's roadshow on Wednesday. Police have added murder and criminal conspiracy charges to the case, while Akhilesh Yadav has demanded a high-level inquiry and alleged the arrested workers were jailed on false charges."
+   },
+   "hi": {
+    "title": "गोरखपुर में किशोर की मौत: पाँच गिरफ़्तार, जेसीबी हादसे के बाद हत्या की धारा भी जुड़ी",
+    "summary": "समाजवादी पार्टी के अध्यक्ष अखिलेश यादव की रैली के दौरान बुधवार को चौदह साल के आर्यवर्धन सिंह की कथित तौर पर जेसीबी मशीन से कुचलकर मौत के मामले में गोरखपुर पुलिस ने पाँच लोगों को गिरफ़्तार कर लिया है। पुलिस ने मामले में हत्या और आपराधिक साज़िश की धाराएँ जोड़ दी हैं, जबकि अखिलेश यादव ने उच्च स्तरीय जाँच की माँग करते हुए गिरफ़्तार कार्यकर्ताओं को झूठे आरोपों में जेल भेजने का आरोप लगाया है।"
+   },
+   "district": "Gorakhpur",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "id": "india-crosses-one-crore-hpv-vaccine-doses-nine-months-november-21",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:34:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-crosses-one-crore-hpv-vaccine-doses-nine-months-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-crosses-one-crore-hpv-vaccine-doses-nine-months-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-crosses-one-crore-hpv-vaccine-doses-nine-months-november-21-en.mp3",
+   "en": {
+    "title": "India crosses 1 crore HPV vaccine doses in under nine months, nearly 87% of target girls covered",
+    "summary": "India has administered more than 1 crore doses of the HPV vaccine under its National HPV Vaccination Campaign in less than nine months of its launch, the Union Health Ministry said on Saturday. Nearly 87 per cent of the annual target cohort of about 1.2 crore 14-year-old girls is now covered, and six states — Gujarat, Uttar Pradesh, Andhra Pradesh, Mizoram, Madhya Pradesh and Bihar — have achieved 100 per cent coverage."
+   },
+   "hi": {
+    "title": "भारत ने नौ महीने से कम में एचपीवी टीके की एक करोड़ खुराकें पूरी कीं, लक्ष्य का करीब सत्तासी प्रतिशत कवर",
+    "summary": "केंद्रीय स्वास्थ्य मंत्रालय ने शनिवार को कहा कि भारत ने अपने राष्ट्रीय एचपीवी टीकाकरण अभियान के तहत शुरू होने के नौ महीने से भी कम समय में एचपीवी टीके की एक करोड़ से ज़्यादा खुराकें लगा दी हैं। लगभग एक दशमलव दो करोड़ चौदह साल की लड़कियों के सालाना लक्ष्य का करीब सत्तासी प्रतिशत कवरेज पूरा हो चुका है, और गुजरात, उत्तर प्रदेश, आंध्र प्रदेश, मिज़ोरम, मध्य प्रदेश और बिहार, छह राज्यों ने सौ प्रतिशत कवरेज हासिल कर लिया है।"
+   }
+  },
   {
    "id": "india-486-4-stumps-day-3-rahul-136-gill-98-wellington-november-21",
    "category": "Cricket & Sports",
@@ -3172,50 +3216,6 @@
     "title": "Nitish Bharadwaj calls Ramayana an 'agenda film', demands probe into its funding",
     "summary": "Actor, scholar and former MP Nitish Bharadwaj, best known as Lord Krishna in BR Chopra's Mahabharat, has called Nitesh Tiwari's Ramayana: Part 1 an 'agenda film' and urged the government to investigate its funding. He says the film reduces Lord Ram to an ordinary man and turns Ravan into a hero."
    }
-  },
-  {
-   "id": "cyclone-akvan-crosses-odisha-coast-gopalpur-november-20",
-   "category": "Weather",
-   "sub": "Cyclone",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:25:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-crosses-odisha-coast-gopalpur-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-crosses-odisha-coast-gopalpur-november-20-hi.mp3",
-   "audioEn": null,
-   "hi": {
-    "title": "चक्रवात अकवान गोपालपुर के पास ओडिशा तट से टकराया, किनारे आते-आते कमज़ोर पड़ा",
-    "summary": "चक्रवात अकवान शुक्रवार सुबह सात बजकर तीस मिनट से आठ बजकर तीस मिनट के बीच गोपालपुर के पास उत्तर आंध्र प्रदेश-दक्षिण ओडिशा तट से टकराया, उस समय हवा की गति सत्तर से अस्सी किलोमीटर प्रति घंटा थी और झोंके नब्बे किलोमीटर प्रति घंटा तक पहुँच रहे थे। करीब तीन लाख लोगों को सुरक्षित जगहों पर पहुँचाया जा चुका है और तट पर भारी बारिश जारी है।"
-   },
-   "en": {
-    "title": "Cyclone Akvan crosses the Odisha coast near Gopalpur, weakening as it comes ashore",
-    "summary": "Cyclone Akvan crossed the north Andhra Pradesh–south Odisha coast close to Gopalpur between 7:30 and 8:30 on Friday morning, with winds of 70-80 kmph gusting to 90 kmph, the India Meteorological Department said. Nearly three lakh people have been moved to safety and more than 400 rescue teams are on the ground as heavy rain lashes the coast."
-   }
-  },
-  {
-   "id": "bombay-hc-weighs-total-firecracker-ban-mumbai-november-20",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:25:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bombay-hc-weighs-total-firecracker-ban-mumbai-november-20-en.mp3",
-   "hi": {
-    "title": "बॉम्बे हाई कोर्ट मुंबई में पटाखों पर पूरी रोक पर कर रहा विचार: 'लोगों की सोच बदलने वाली नहीं'",
-    "summary": "बॉम्बे हाई कोर्ट ने गुरुवार को कहा कि वह मुंबई में पटाखों पर पूरी तरह रोक लगाने के 'कड़े आदेश' पर विचार कर रहा है, जिसमें सिर्फ तय जगहों पर सामुदायिक आतिशबाज़ी की छूट मिलेगी। दीवाली पर शहर में तीन सौ बत्तीस जगह आग लगी थी, हवा की गुणवत्ता सबसे खराब रही और कोर्ट के आदेश के बावजूद रात तीन बजे तक पटाखे फोड़े गए।"
-   },
-   "en": {
-    "title": "Bombay High Court weighs a total firecracker ban for Mumbai: 'People are not going to change their mindset'",
-    "summary": "The Bombay High Court on Thursday said it was considering a 'drastic order' imposing a complete ban on firecrackers in Mumbai, allowing only community displays on permitted grounds, after Diwali in the city saw 332 fires, air quality at its worst and crackers burst till 3 am despite court orders. The bench has reserved its order."
-   },
-   "district": "Mumbai",
-   "state": "Maharashtra"
   }
  ]
 }
