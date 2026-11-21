@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T23:27:42+05:30",
+ "updatedAt": "2026-11-21T23:46:51+05:30",
  "articles": [
+  {
+   "id": "ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T23:46:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21-en.mp3",
+   "hi": {
+    "title": "लद्दाख में आठ साल बाद पंचायत चुनाव, सत्तर दशमलव शून्य तीन प्रतिशत मतदान — उपराज्यपाल ने कहा ऐतिहासिक दिन",
+    "summary": "केंद्र शासित प्रदेश बनने के बाद लद्दाख में शनिवार को हुए पहले पंचायत और नगर निकाय चुनाव में पंचायत चुनाव में सत्तर दशमलव शून्य तीन प्रतिशत और नगर निकाय चुनाव में बावन दशमलव चार शून्य प्रतिशत मतदान हुआ। उपराज्यपाल विनय कुमार सक्सेना ने इसे ऐतिहासिक दिन बताया।"
+   },
+   "en": {
+    "title": "Ladakh records 70.03% turnout in first panchayat polls since becoming a Union Territory",
+    "summary": "Ladakh's first panchayat and municipal elections since it became a Union Territory drew a 70.03 per cent turnout in the panchayat polls and 52.40 per cent in the municipal polls on Saturday. Lieutenant Governor Vinai Kumar Saxena called it a historic day."
+   }
+  },
   {
    "id": "ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21",
    "category": "Crime & Law",
@@ -3220,27 +3241,6 @@
    "en": {
     "title": "Myanmar calls world court's genocide ruling 'unfair', says it was unjustly accused",
     "summary": "Myanmar's government on Friday rejected the International Court of Justice ruling that found it responsible for genocide against the Rohingya, calling the nine-to-six decision 'not fair' and saying the country had been unjustly accused."
-   }
-  },
-  {
-   "id": "air-india-extends-jeddah-suspension-november-24-november-20",
-   "category": "India",
-   "sub": "National",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T19:07:55+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/air-india-extends-jeddah-suspension-november-24-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-extends-jeddah-suspension-november-24-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-extends-jeddah-suspension-november-24-november-20-en.mp3",
-   "hi": {
-    "title": "एयर इंडिया ने जेद्दा उड़ानों पर रोक चौबीस नवंबर तक बढ़ाई; रियाद-दम्माम तीस नवंबर तक बंद रहेंगे",
-    "summary": "एयर इंडिया और एयर इंडिया एक्सप्रेस ने जेद्दा की उड़ानें चौबीस नवंबर तक बंद रखने का एलान किया है, जबकि रियाद और दम्माम की सेवाएँ तीस नवंबर तक बंद रहेंगी। वजह क्षेत्र के मौजूदा हालात बताए गए हैं, और प्रभावित यात्रियों को मुफ़्त तारीख़ बदलाव या पूरा रिफ़ंड मिलेगा।"
-   },
-   "en": {
-    "title": "Air India extends Jeddah flight suspension to November 24; Riyadh, Dammam stay shut till November 30",
-    "summary": "Air India and Air India Express have extended the suspension of flights to Jeddah until November 24, while services to Riyadh and Dammam will remain shut until November 30, citing the prevailing situation in the region. Affected passengers can reschedule free of charge or claim a full refund."
    }
   }
  ]
