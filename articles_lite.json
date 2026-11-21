@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-21T07:17:52+05:30",
+  "updatedAt": "2026-11-21T07:31:59+05:30",
   "articles": [
+    {
+      "id": "anthropic-claude-riemann-hypothesis-proof-claim-november-21",
+      "category": "Science",
+      "sub": "Research",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-21T07:31:59+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anthropic-claude-riemann-hypothesis-proof-claim-november-21.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-claude-riemann-hypothesis-proof-claim-november-21-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anthropic-claude-riemann-hypothesis-proof-claim-november-21-en.mp3",
+      "hi": {
+        "title": "क्लॉड ने गणित की सबसे बड़ी पहेली सुलझा ली? एंथ्रॉपिक गणितज्ञ का रीमान परिकल्पना के प्रमाण का दावा — जाँच अभी बाक़ी",
+        "summary": "एंथ्रॉपिक के गणितज्ञ लेवेंट अल्पोज ने कहा है कि उन्हें लगता है कि उन्होंने कंपनी के एआई चैटबॉट क्लॉड के साथ मिलकर एक सौ सड़सठ साल पुरानी रीमान परिकल्पना का प्रमाण खोज लिया है। उन्होंने प्रमाण सिर्फ़ लीन कोड के रूप में जारी किया है, और अभी किसी भी बाहरी गणितज्ञ ने इसकी पुष्टि नहीं की है। उसी दिन एक मानव-लिखित दावे ने भी सामान्यीकृत रीमान परिकल्पना को सुलझाने का दावा किया है।"
+      },
+      "en": {
+        "title": "Anthropic mathematician claims Claude proved the 167-year-old Riemann Hypothesis — experts rush to check",
+        "summary": "Anthropic mathematician Levent Alpöge said on Friday that he believes he and the company's AI chatbot Claude have found a proof of the Riemann Hypothesis, unsolved since 1859. He released the argument only as Lean code, and no outside mathematician has verified it yet. A second, human-written claim on the generalised hypothesis landed the same day."
+      }
+    },
     {
       "id": "hazlewood-hints-quit-tests-cummins-loses-captaincy-sandpapergate-november-21",
       "category": "Cricket & Sports",
@@ -3188,27 +3209,6 @@
       "en": {
         "title": "Anthropic soars 34% on Nasdaq debut, crosses $2 trillion in the largest IPO in history",
         "summary": "Shares of Claude maker Anthropic opened at $111.50 on the Nasdaq on Thursday, 34 percent above their $83 IPO price, valuing the company at nearly $2.01 trillion on first trade — the largest initial public offering on record."
-      }
-    },
-    {
-      "id": "the-vvaan-prime-video-premiere-november-20",
-      "category": "Entertainment",
-      "sub": "OTT / Web Series",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-20T02:30:38+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/the-vvaan-prime-video-premiere-november-20.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/the-vvaan-prime-video-premiere-november-20-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/the-vvaan-prime-video-premiere-november-20-en.mp3",
-      "hi": {
-        "title": "द व्वान आज से प्राइम वीडियो पर मुफ्त, सिनेमाघरों में सत्तर करोड़ से ज़्यादा की कमाई",
-        "summary": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की फिल्म द व्वान: फ़ोर्स ऑफ़ द फ़ॉरेस्ट आज, बीस नवंबर से प्राइम वीडियो पर बिना किराए के देखी जा सकेगी। फिल्म पच्चीस सितंबर को सिनेमाघरों में आई थी और भारत में सत्तर दशमलव तीन पाँच करोड़ रुपये की कमाई की थी।"
-      },
-      "en": {
-        "title": "The Vvaan streams free on Prime Video from today after a ₹70-crore theatrical run",
-        "summary": "Sidharth Malhotra and Tamannaah Bhatia's fantasy thriller The Vvaan: Force of the Forrest premieres on Prime Video on Friday, November 20, free for subscribers after a rental-only window. The film released in theatres on September 25 and earned ₹70.35 crore net in India."
       }
     }
   ]
