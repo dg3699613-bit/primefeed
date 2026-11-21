@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-21T12:13:12+05:30",
+  "updatedAt": "2026-11-21T12:28:22+05:30",
   "articles": [
+    {
+      "id": "irgc-claims-58th-us-mq-9-drone-downed-strait-of-hormuz-november-21",
+      "category": "World",
+      "sub": "Middle East",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-21T12:28:22+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/irgc-claims-58th-us-mq-9-drone-downed-strait-of-hormuz-november-21.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/irgc-claims-58th-us-mq-9-drone-downed-strait-of-hormuz-november-21-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/irgc-claims-58th-us-mq-9-drone-downed-strait-of-hormuz-november-21-en.mp3",
+      "en": {
+        "title": "Iran claims it downed a 58th US MQ-9 drone over the Strait of Hormuz",
+        "summary": "Iran's Revolutionary Guard says its air defences shot down another US MQ-9 drone over the Strait of Hormuz — the 58th it claims to have downed — as Gulf tensions widen and oil holds at $83.62 despite the escalation."
+      },
+      "hi": {
+        "title": "ईरान का दावा: होरमुज़ जलसंधि के ऊपर अट्ठावनवाँ अमेरिकी एमक्यू-नौ ड्रोन मार गिराया",
+        "summary": "ईरान की रिवोल्यूशनरी गार्ड का कहना है कि उसकी वायु रक्षा ने होरमुज़ जलसंधि के ऊपर एक और अमेरिकी एमक्यू-नौ ड्रोन मार गिराया है — उसके दावे के मुताबिक अट्ठावनवाँ — जबकि खाड़ी में तनाव बढ़ रहा है और तेल तिरासी डॉलर बासठ सेंट पर टिका है।"
+      }
+    },
     {
       "id": "congress-four-point-delimitation-formula-543-seats-25-year-freeze-november-21",
       "category": "Politics",
@@ -3194,27 +3215,6 @@
       "hi": {
         "title": "एआई से गढ़ा फर्ज़ी फ़ैसला अदालत में पेश, मध्य प्रदेश हाई कोर्ट ने राज्य सरकार को लगाई फटकार",
         "summary": "मध्य प्रदेश उच्च न्यायालय ने राज्य सरकार को उस जवाब के लिए कड़ी फटकार लगाई है, जिसमें एक ऐसे उच्चतम न्यायालय के फ़ैसले का हवाला दिया गया था जो है ही नहीं। अदालत ने कहा कि साफ़ दिख रहा है कि राज्य ने अपनी दलीलें तैयार करने में कृत्रिम बुद्धिमत्ता यानी एआई उपकरणों का आँख मूँदकर सहारा लिया था। अदालत ने बिना विभागीय जाँच के हटाए गए एक पुलिस अधिकारी की बर्खास्तगी भी रद्द कर दी।"
-      }
-    },
-    {
-      "id": "japan-live-fire-drills-indian-ranges-first-time-november-19",
-      "category": "India",
-      "sub": "Defence",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-20T08:28:09+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/japan-live-fire-drills-indian-ranges-first-time-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/japan-live-fire-drills-indian-ranges-first-time-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/japan-live-fire-drills-indian-ranges-first-time-november-19-en.mp3",
-      "en": {
-        "title": "Japan to hold live-fire missile drills on Indian ranges for the first time",
-        "summary": "India and Japan have signed a Letter of Intent under which Japan's Self-Defence Forces will conduct live-fire training at Indian firing ranges for the first time, including exercises with surface-to-ship missiles. The agreement came at the fourth India-Japan 2+2 ministerial dialogue in Tokyo on Thursday."
-      },
-      "hi": {
-        "title": "पहली बार भारतीय फायरिंग रेंज पर जापान करेगा लाइव-फ़ायर मिसाइल अभ्यास",
-        "summary": "भारत और जापान ने एक आशय पत्र पर हस्ताक्षर किए हैं, जिसके तहत जापान की आत्मरक्षा सेनाएँ पहली बार भारतीय फायरिंग रेंज पर लाइव-फ़ायर प्रशिक्षण करेंगी, जिसमें सतह से जहाज़ पर मार करने वाली मिसाइलों का अभ्यास भी शामिल है। यह समझौता गुरुवार को टोक्यो में हुई चौथी भारत-जापान दो जमा दो मंत्रिस्तरीय वार्ता में हुआ।"
       }
     }
   ]
