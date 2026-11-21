@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T18:57:57+05:30",
+ "updatedAt": "2026-11-21T19:13:42+05:30",
  "articles": [
+  {
+   "id": "jk-resident-doctors-indefinite-strike-stipend-maternity-leave-order-november-21",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T19:13:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jk-resident-doctors-indefinite-strike-stipend-maternity-leave-order-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jk-resident-doctors-indefinite-strike-stipend-maternity-leave-order-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jk-resident-doctors-indefinite-strike-stipend-maternity-leave-order-november-21-en.mp3",
+   "hi": {
+    "title": "जम्मू-कश्मीर: स्टाइपेंड और मैटरनिटी लीव को लेकर रेज़िडेंट डॉक्टर अनिश्चितकालीन हड़ताल पर, सरकार ने जारी किया आदेश",
+    "summary": "जम्मू-कश्मीर के सरकारी मेडिकल कॉलेजों में पोस्टग्रेजुएट और सीनियर रेज़िडेंट डॉक्टरों ने शुक्रवार से अनिश्चितकालीन हड़ताल शुरू कर दी है। वे स्टाइपेंड में बढ़ोतरी, दूसरे राज्यों के बराबर वेतन और मैटरनिटी लीव के लाभ की माँग कर रहे हैं। बाह्य रोगी विभाग की सेवाएँ और ऐच्छिक सर्जरी प्रभावित हुई हैं, और डॉक्टरों ने तेईस नवंबर से ओपीडी पूरी तरह बंद करने की चेतावनी दी है। सरकार ने अब स्वीकृत मैटरनिटी और पैटरनिटी लीव के दौरान स्टाइपेंड देने का आदेश जारी किया है।"
+   },
+   "en": {
+    "title": "Resident doctors in Jammu and Kashmir begin indefinite strike over stipends; government orders pay during maternity, paternity leave",
+    "summary": "Postgraduate and senior resident doctors at government medical colleges across Jammu and Kashmir began an indefinite strike on Friday, demanding a stipend hike, parity with other states and maternity leave benefits. Outpatient services and elective surgeries have been hit, and the doctors have warned of a full OPD shutdown from November 23. The government has now issued an order allowing stipends during sanctioned maternity and paternity leave."
+   }
+  },
+  {
+   "id": "punjab-asi-iqbal-singh-murder-key-shooter-arrested-zirakpur-encounter-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T19:13:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/punjab-asi-iqbal-singh-murder-key-shooter-arrested-zirakpur-encounter-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/punjab-asi-iqbal-singh-murder-key-shooter-arrested-zirakpur-encounter-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/punjab-asi-iqbal-singh-murder-key-shooter-arrested-zirakpur-encounter-november-21-en.mp3",
+   "district": "Mohali",
+   "state": "Punjab",
+   "hi": {
+    "title": "पंजाब: एएसआई इकबाल सिंह हत्याकांड का मुख्य शूटर ज़ीरकपुर होटल में मुठभेड़ के बाद गिरफ्तार",
+    "summary": "पंजाब पुलिस के एंटी-गैंगस्टर टास्क फ़ोर्स ने शुक्रवार शाम ज़ीरकपुर के एक होटल में हुई छोटी मुठभेड़ के बाद सहायक उप-निरीक्षक इकबाल सिंह की हत्या के कथित मुख्य शूटर हरप्रीत सिंह उर्फ़ हैप्पी बहमन को गिरफ्तार कर लिया है। आरोपी घायल हो गया और उसे अस्पताल ले जाया गया; उसके साथ मौजूद एक महिला को भी गिरफ्तार किया गया है। पुलिस के अनुसार वह विदेश में बैठे गैंगस्टर डोनी बाल का शूटर है।"
+   },
+   "en": {
+    "title": "Key shooter in Punjab ASI Iqbal Singh murder arrested after encounter at Zirakpur hotel",
+    "summary": "Punjab Police's Anti-Gangster Task Force on Friday evening arrested Harpreet Singh alias Happy Bahman, the alleged key shooter in the October 11 murder of Assistant Sub-Inspector Iqbal Singh, after a brief exchange of fire at a hotel in Zirakpur. The accused was injured and taken to hospital; a woman accomplice was also arrested. Police say he is a shooter for the foreign-based gangster Doni Bal."
+   }
+  },
   {
    "id": "owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21",
    "category": "State & Local",
@@ -3183,48 +3227,6 @@
    "en": {
     "title": "Five arrested in Gorakhpur after bulldozer kills BJP leader's 14-year-old son; four JCBs seized",
     "summary": "Police in Gorakhpur have arrested five people, including the JCB driver, over the death of a 14-year-old boy who was allegedly crushed by a bulldozer returning from Samajwadi Party chief Akhilesh Yadav's roadshow. All four JCB machines used in the roadshow have been seized."
-   }
-  },
-  {
-   "id": "russia-rejects-nato-style-security-guarantees-ukraine-november-20",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T15:58:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russia-rejects-nato-style-security-guarantees-ukraine-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-rejects-nato-style-security-guarantees-ukraine-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-rejects-nato-style-security-guarantees-ukraine-november-20-en.mp3",
-   "hi": {
-    "title": "रूस ने यूक्रेन के लिए नाटो-शैली की सुरक्षा गारंटी ठुकराई, 'अर्ध-सदस्यता' को बताया अस्वीकार्य",
-    "summary": "रूस के उप विदेश मंत्री सर्गेई रयाबकोव ने शुक्रवार को कहा कि मॉस्को यूक्रेन के लिए नाटो-शैली की सुरक्षा गारंटी स्वीकार नहीं करेगा, और गठबंधन की किसी भी तरह की 'अर्ध-सदस्यता' को पूरी तरह अस्वीकार्य बताया। यह बयान अमेरिकी वार्ताकारों के उस दावे के एक दिन बाद आया है कि रूस इस विचार से सहज हो गया है।"
-   },
-   "en": {
-    "title": "Russia rejects NATO-style security guarantees for Ukraine, calls 'quasi-membership' unacceptable",
-    "summary": "Russian Deputy Foreign Minister Sergei Ryabkov said on Friday that Moscow will not accept NATO-style security guarantees for Ukraine, calling any form of 'quasi-membership' of the alliance totally unacceptable — a day after US negotiators said Russia had grown comfortable with the idea."
-   }
-  },
-  {
-   "id": "iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T15:44:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iraq-forces-enter-jurf-al-sakhar-kataib-hezbollah-stronghold-november-20-en.mp3",
-   "hi": {
-    "title": "दशक भर बाद इराकी सेना कताइब हिज़बुल्लाह के गढ़ जुर्फ अल-सखर में दाखिल, टैंक और बख़्तरबंद गाड़ियाँ तैनात",
-    "summary": "इराकी सुरक्षा बल शुक्रवार को कताइब हिज़बुल्लाह से हुए समझौते के तहत जुर्फ अल-सखर में दाखिल हुए। बगदाद से करीब साठ किलोमीटर दक्षिण-पश्चिम में स्थित यह ज़िला एक दशक से ज़्यादा समय से सरकार की पहुंच से बाहर था।"
-   },
-   "en": {
-    "title": "Iraqi forces roll into Kataib Hezbollah stronghold Jurf al-Sakhar after a decade out of reach",
-    "summary": "Iraqi security forces moved into Jurf al-Sakhar on Friday under a compromise deal with Kataib Hezbollah, reasserting state control over a district about 60 km south-west of Baghdad that has been closed to the government for more than a decade."
    }
   }
  ]
