@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T00:38:30+05:30",
+ "updatedAt": "2026-11-22T00:58:11+05:30",
  "articles": [
+  {
+   "id": "ranchi-airport-20-flights-cancelled-akvan-visibility-november-21",
+   "category": "Weather",
+   "sub": "Cyclone",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T00:58:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ranchi-airport-20-flights-cancelled-akvan-visibility-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ranchi-airport-20-flights-cancelled-akvan-visibility-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ranchi-airport-20-flights-cancelled-akvan-visibility-november-21-en.mp3",
+   "district": "Ranchi",
+   "state": "Jharkhand",
+   "hi": {
+    "title": "चक्रवात अक्वान का असर: रांची हवाई अड्डे पर बीस उड़ानें रद्द, चार डायवर्ट, दृश्यता घटी",
+    "summary": "चक्रवात अक्वान के कारण खराब मौसम और कम दृश्यता के चलते शनिवार को रांची के बिरसा मुंडा हवाई अड्डे पर बीस उड़ानें रद्द कर दी गईं और चार उड़ानों को डायवर्ट किया गया। रद्द उड़ानों में एयर इंडिया एक्सप्रेस की छह उड़ानें शामिल थीं। झारखंड में मौसम रविवार से सुधरने की उम्मीद है, और तेईस नवंबर से साफ़ धूप निकलने की संभावना है।"
+   },
+   "en": {
+    "title": "Cyclone Akvan fallout: 20 flights cancelled, four diverted at Ranchi airport as visibility drops",
+    "summary": "Twenty flights were cancelled and four diverted at Ranchi's Birsa Munda Airport on Saturday as bad weather triggered by Cyclone Akvan cut visibility to around 1,000 metres. Six of the cancelled flights were Air India Express services. The weather in Jharkhand is expected to improve from Sunday, with clear sunshine likely from November 23."
+   }
+  },
+  {
+   "id": "depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21",
+   "category": "Entertainment",
+   "sub": "Celebrity",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T00:58:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21-en.mp3",
+   "hi": {
+    "title": "फ्रांस में देपार्दियू और उएलेबेक पर जाँच: दो हज़ार अठारह की फिल्म शूटिंग के दौरान कथित यौन अपराधों का आरोप",
+    "summary": "फ्रांस के अभियोजकों ने अभिनेता जेरार देपार्दियू और लेखक मिशेल उएलेबेक के खिलाफ कथित यौन अपराधों को लेकर न्यायिक जाँच शुरू कर दी है। शिकायत दिसंबर दो हज़ार अठारह में फिल्म थलासो की शूटिंग के दौरान हुई कथित घटना को लेकर है। सत्तहत्तर वर्षीय देपार्दियू ने सोमवार को एक अन्य फिल्म के सेट पर दो महिलाओं के यौन उत्पीड़न के लिए दो हज़ार पच्चीस में हुई सज़ा के खिलाफ अपनी अपील वापस ले ली थी और अपना अपराध स्वीकार किया था।"
+   },
+   "en": {
+    "title": "Depardieu and Houellebecq under investigation in France over alleged sexual offences during 2018 film shoot",
+    "summary": "French prosecutors have opened a judicial investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences, after a complaint was filed over an incident said to have taken place during the shooting of the film Thalasso in December 2018. Depardieu, 77, on Monday withdrew his appeal against a 2025 conviction for sexually assaulting two women on another film set, accepting his guilt."
+   }
+  },
   {
    "id": "hubballi-court-convicts-girish-sawant-anjali-ambiger-murder-case-november-21",
    "category": "Crime & Law",
@@ -3199,50 +3243,6 @@
    "en": {
     "title": "Tamil Nadu–Andhra investment war: 15 Guidance staff under cloud over 'leaks' to Andhra; three ex-officials now work for AP board",
     "summary": "Fifteen contractual employees of Tamil Nadu's investment promotion agency Guidance have been removed amid suspicion that they passed confidential investment information to Andhra Pradesh. Three former Guidance staff members have since joined the Andhra Pradesh Economic Development Board, while three Korean companies have committed Rs 1,614 crore in Anantapur."
-   }
-  },
-  {
-   "id": "india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20",
-   "category": "Science",
-   "sub": "Research",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "district": "Bhopal",
-   "state": "Madhya Pradesh",
-   "publishedAt": "2026-11-20T20:19:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-first-indigenous-h5n1-bird-flu-vaccine-bhopal-november-20-en.mp3",
-   "hi": {
-    "title": "भारत की पहली स्वदेशी बर्ड फ्लू वैक्सीन देश को समर्पित: भोपाल में बनी एच पाँच एन एक वैक्सीन, एक खुराक से छह महीने की सुरक्षा",
-    "summary": "भोपाल के राष्ट्रीय उच्च सुरक्षा पशु रोग संस्थान ने बर्ड फ्लू के खिलाफ देश की पहली स्वदेशी वैक्सीन तैयार की है। केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने शुक्रवार को इसे देश को समर्पित किया। वैक्सीन की एक खुराक से मुर्गियों को करीब छह महीने तक सुरक्षा मिलेगी और इसकी कीमत सिर्फ एक से दो रुपये होगी।"
-   },
-   "en": {
-    "title": "India's first indigenous bird flu vaccine dedicated to the nation: Bhopal-made H5N1 shot gives six months' protection from a single dose",
-    "summary": "Scientists at ICAR-NIHSAD in Bhopal have developed India's first indigenous vaccine against the H5N1 bird flu virus. Union Agriculture Minister Shivraj Singh Chouhan dedicated it to the nation on Friday — a single dose protects chickens for about six months and will cost just Rs 1 to Rs 2."
-   }
-  },
-  {
-   "id": "nepal-pm-balendra-shah-india-visit-november-22-23-november-20",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T20:19:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-pm-balendra-shah-india-visit-november-22-23-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-india-visit-november-22-23-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-india-visit-november-22-23-november-20-en.mp3",
-   "hi": {
-    "title": "नेपाल के प्रधानमंत्री बालेंद्र शाह बाईस नवंबर से दो दिन के भारत दौरे पर, प्रधानमंत्री मोदी से बातचीत और ऊर्जा परियोजनाओं का उद्घाटन",
-    "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह बाईस से तेईस नवंबर तक भारत के दौरे पर रहेंगे। तेईस नवंबर को प्रधानमंत्री नरेंद्र मोदी से बातचीत के बाद ऊर्जा परियोजनाओं का उद्घाटन होगा और कई समझौतों पर हस्ताक्षर होंगे।"
-   },
-   "en": {
-    "title": "Nepal PM Balendra Shah on two-day India visit from November 22, talks with PM Modi and energy project inaugurations on agenda",
-    "summary": "Nepal Prime Minister Balendra Shah will visit India from November 22 to 23, his first bilateral visit since taking office in March. Delegation-level talks with PM Modi are scheduled for November 23, followed by the inauguration of energy projects and the signing of several agreements."
    }
   }
  ]
