@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T23:11:48+05:30",
+ "updatedAt": "2026-11-21T23:27:42+05:30",
  "articles": [
+  {
+   "id": "ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T23:27:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21-en.mp3",
+   "district": "Guna",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "गुना में ऐतिहासिक बजरंगगढ़ किले के पास अवैध खनन और ब्लास्टिंग पर एनजीटी का स्वतः संज्ञान, पाँच अधिकारियों को नोटिस",
+    "summary": "राष्ट्रीय हरित अधिकरण ने मध्य प्रदेश के गुना ज़िले में ऐतिहासिक बजरंगगढ़ किले से सटी पहाड़ियों में अवैध खनन और लगातार ब्लास्टिंग का स्वतः संज्ञान लिया है। अधिकरण ने राज्य सरकार समेत पाँच अधिकारियों को नोटिस जारी किए हैं और तेईस दिसंबर को होने वाली अगली सुनवाई से पहले जवाब माँगा है।"
+   },
+   "en": {
+    "title": "NGT takes suo motu note of illegal mining, blasting near historic Bajranggarh Fort in Guna, notices to five authorities",
+    "summary": "The National Green Tribunal has taken suo motu cognisance of alleged illegal mining and frequent blasting in the hills adjoining the historic Bajranggarh Fort in Madhya Pradesh's Guna district, and issued notices to five authorities, including the state government. The tribunal has asked them to reply ahead of the next hearing on December 23."
+   }
+  },
+  {
+   "id": "neet-ug-paper-leak-charges-framed-14-accused-trial-november-25",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T23:27:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-ug-paper-leak-charges-framed-14-accused-trial-november-25-en.mp3",
+   "hi": {
+    "title": "नीट-यूजी पेपर लीक मामला: दिल्ली अदालत ने चौदह आरोपियों पर आरोप तय किए, पच्चीस नवंबर से रोज़ाना चलेगा मुकदमा",
+    "summary": "दिल्ली की एक अदालत ने शनिवार को नीट-यूजी दो हज़ार छब्बीस पेपर लीक मामले में चौदह आरोपियों के खिलाफ आरोप तय कर दिए। इससे पच्चीस नवंबर से रोज़ाना चलने वाले मुकदमे का रास्ता साफ हो गया है। राउज़ एवेन्यू कोर्ट की फास्ट-ट्रैक अदालत में विशेष न्यायाधीश अजय गुप्ता के सामने सभी चौदह आरोपियों ने खुद को निर्दोष बताया।"
+   },
+   "en": {
+    "title": "NEET-UG paper leak case: Delhi court frames charges against 14 accused, day-to-day trial from November 25",
+    "summary": "A Delhi court on Saturday formally framed charges against 14 accused in the NEET-UG 2026 paper leak case, clearing the way for a day-to-day trial to begin on November 25. All 14 accused pleaded not guilty before Special Judge Ajay Gupta of the fast-track court at Rouse Avenue Courts."
+   }
+  },
   {
    "id": "yurembam-women-protest-security-operation-killing-imphal-west-november-21",
    "category": "Crime & Law",
@@ -3197,48 +3241,6 @@
    "en": {
     "title": "Air India extends Jeddah flight suspension to November 24; Riyadh, Dammam stay shut till November 30",
     "summary": "Air India and Air India Express have extended the suspension of flights to Jeddah until November 24, while services to Riyadh and Dammam will remain shut until November 30, citing the prevailing situation in the region. Affected passengers can reschedule free of charge or claim a full refund."
-   }
-  },
-  {
-   "id": "ukraine-child-casualties-1144-highest-almost-four-years-november-20",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T18:47:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ukraine-child-casualties-1144-highest-almost-four-years-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-child-casualties-1144-highest-almost-four-years-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-child-casualties-1144-highest-almost-four-years-november-20-en.mp3",
-   "hi": {
-    "title": "यूक्रेन: इस साल एक हज़ार एक सौ चवालीस बच्चे मारे गए या घायल — चार साल में सबसे ज़्यादा",
-    "summary": "यूक्रेन में जनवरी से अक्टूबर दो हज़ार छब्बीस के बीच कम से कम एक हज़ार एक सौ चवालीस बच्चे मारे गए या घायल हुए — पिछले तीन सालों में सबसे ज़्यादा। अकेले अक्टूबर में एक सौ छियालीस बच्चे हताहत हुए, और स्कूलों व बिजली ढाँचे पर हमले भी तेज़ हो गए हैं।"
-   },
-   "en": {
-    "title": "Ukraine's children pay the heaviest price: 1,144 killed or injured in 2026, highest in almost four years",
-    "summary": "At least 1,144 children were killed or injured in Ukraine in the first ten months of 2026 — the highest toll in almost four years. October alone saw 146 child casualties, as attacks on schools and energy infrastructure also climbed."
-   }
-  },
-  {
-   "id": "rajasthan-panchayat-results-congress-sweeps-24-districts-jaipur-rlp-sanganer-november-20",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T18:16:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-panchayat-results-congress-sweeps-24-districts-jaipur-rlp-sanganer-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-results-congress-sweeps-24-districts-jaipur-rlp-sanganer-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-results-congress-sweeps-24-districts-jaipur-rlp-sanganer-november-20-en.mp3",
-   "hi": {
-    "title": "राजस्थान पंचायत नतीजे: कांग्रेस ने सैंतीस में से चौबीस ज़िलों में मारी बाज़ी, जयपुर भी जीता; मुख्यमंत्री के सांगानेर में आरएलपी आगे",
-    "summary": "राजस्थान के ग्रामीण निकाय चुनावों में कांग्रेस सैंतीस ज़िलों में से चौबीस में जीत या बढ़त के साथ आगे है। जयपुर ज़िला परिषद और बाईस में से चौदह पंचायत समितियों पर कांग्रेस का कब्ज़ा हुआ, जबकि मुख्यमंत्री भजनलाल शर्मा के सांगानेर में आरएलपी को बहुमत मिला।"
-   },
-   "en": {
-    "title": "Rajasthan panchayat results: Congress sweeps 24 of 37 districts, takes Jaipur; RLP wins CM's Sanganer",
-    "summary": "The Congress has won or is leading in 24 of 37 districts in Rajasthan's rural local body elections, taking Jaipur's Zila Parishad and 14 of its 22 Panchayat Samitis, while the RLP won a majority in Chief Minister Bhajanlal Sharma's Sanganer constituency."
    }
   }
  ]
