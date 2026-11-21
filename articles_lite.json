@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T17:20:17+05:30",
+ "updatedAt": "2026-11-21T17:33:02+05:30",
  "articles": [
+  {
+   "id": "owaisi-azad-saharanpur-visit-mosque-memorandum-november-21",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T17:33:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/owaisi-azad-saharanpur-visit-mosque-memorandum-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-azad-saharanpur-visit-mosque-memorandum-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-azad-saharanpur-visit-mosque-memorandum-november-21-en.mp3",
+   "district": "Saharanpur",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "सहारनपुर में ओवैसी-चंद्रशेखर की मुलाकात: मस्जिद ध्वस्तीकरण पर डीएम को ज्ञापन, 2027 चुनाव से पहले गठबंधन की तैयारी",
+    "summary": "एआईएमआईएम प्रमुख असदुद्दीन ओवैसी शनिवार को सहारनपुर पहुँचे और आज़ाद समाज पार्टी के अध्यक्ष चंद्रशेखर आज़ाद से उनके छुटमलपुर स्थित आवास पर मिले। दोनों नेताओं ने दोपहर के भोजन पर राजनीतिक चर्चा की, क्योंकि उनका गठबंधन दो हज़ार सत्ताईस के उत्तर प्रदेश विधानसभा चुनावों की ओर बढ़ रहा है। इससे पहले ओवैसी ने कलेक्ट्रेट परिसर की ऐतिहासिक वक्फ मस्जिद के ध्वस्तीकरण की उच्च स्तरीय जाँच की माँग को लेकर जिलाधिकारी को ज्ञापन सौंपा।"
+   },
+   "en": {
+    "title": "Owaisi meets Chandrashekhar Azad in Saharanpur over lunch, hands DM a memorandum on mosque demolition ahead of 2027 polls",
+    "summary": "AIMIM chief Asaduddin Owaisi visited Saharanpur on Saturday and met Azad Samaj Party president Chandrashekhar Azad at his home in Chhutmalpur, holding political discussions over lunch as their alliance builds towards the 2027 Uttar Pradesh Assembly elections. Earlier, Owaisi submitted a memorandum to the District Magistrate demanding a high-level inquiry into the demolition of the historic Waqf mosque in the Collectorate complex."
+   }
+  },
+  {
+   "id": "robert-pattinson-first-public-appearance-new-james-bond-odyssey-screening-november-21",
+   "category": "Entertainment",
+   "sub": "Celebrity",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T17:33:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/robert-pattinson-first-public-appearance-new-james-bond-odyssey-screening-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/robert-pattinson-first-public-appearance-new-james-bond-odyssey-screening-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/robert-pattinson-first-public-appearance-new-james-bond-odyssey-screening-november-21-en.mp3",
+   "hi": {
+    "title": "नए जेम्स बॉन्ड रॉबर्ट पैटिंसन की पहली सार्वजनिक उपस्थिति: लंदन में तालियों की गड़गड़ाहट, द ओडिसी स्क्रीनिंग में टॉम हॉलैंड ने भी सराहा",
+    "summary": "रॉबर्ट पैटिंसन नए जेम्स बॉन्ड घोषित किए जाने के बाद पहली बार सार्वजनिक रूप से सामने आए — शुक्रवार को लंदन में द ओडिसी की एक स्क्रीनिंग में। दर्शकों और उनके सह-कलाकारों, जिनमें टॉम हॉलैंड भी थे, ने तालियाँ बजाईं, जब मेज़बान ने उन्हें शून्य शून्य सात की भूमिका मिलने पर बधाई दी और पैटिंसन ने शर्मीली मुस्कान और सिर झुकाकर जवाब दिया।"
+   },
+   "en": {
+    "title": "New James Bond Robert Pattinson's first public appearance: London crowd cheers, Tom Holland applauds at The Odyssey screening",
+    "summary": "Robert Pattinson made his first public appearance since being announced as the new James Bond, at a London screening of The Odyssey on Friday. The audience and his co-stars, including Tom Holland, broke into applause as the host congratulated him on landing the role of 007, and Pattinson answered with a shy smile and a bow."
+   }
+  },
   {
    "id": "indore-double-murder-father-sister-property-dispute-november-21",
    "category": "Crime & Law",
@@ -3175,48 +3219,6 @@
    "en": {
     "title": "Pakistan beat Sri Lanka by eight wickets to seal first Test series win in two years",
     "summary": "Pakistan chased down 90 in 13 overs on the fourth morning in Rawalpindi, with Aamer Jamal's unbeaten 34 off 22 balls sealing an eight-wicket win and a 1-0 series triumph, the hosts' first Test series victory in two years."
-   }
-  },
-  {
-   "id": "sensex-700-points-nifty-10-month-high-november-20",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T14:09:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-700-points-nifty-10-month-high-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-700-points-nifty-10-month-high-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-700-points-nifty-10-month-high-november-20-en.mp3",
-   "hi": {
-    "title": "सेंसेक्स सात सौ अंक उछला, निफ्टी दस महीने के उच्चतम स्तर पर — बैंकिंग और आईटी शेयरों की अगुवाई में बाज़ार की ज़ोरदार वापसी",
-    "summary": "वैश्विक बिकवाली के बीच गिरावट के साथ खुले भारतीय शेयर बाज़ार ने शुक्रवार दोपहर तक ज़ोरदार वापसी की। सेंसेक्स सात सौ अंक से ज़्यादा चढ़कर तिरासी हज़ार सात सौ के पार पहुँचा, जबकि निफ्टी पच्चीस हज़ार सात सौ तीस के दस महीने के उच्चतम स्तर को छू गया।"
-   },
-   "en": {
-    "title": "Sensex jumps 700 points, Nifty hits 10-month high as banks and IT lead a sharp rebound",
-    "summary": "Indian equities reversed a gap-down open on Friday to trade firmly higher by early afternoon. The Sensex rose more than 700 points past 83,700, while the Nifty touched 25,730 — its highest in ten months — led by banking and IT stocks."
-   }
-  },
-  {
-   "id": "gta-6-2-36-billion-launch-day-record-24-58-million-copies-november-20",
-   "category": "Technology",
-   "sub": "Gadgets",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T13:56:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-2-36-billion-launch-day-record-24-58-million-copies-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-2-36-billion-launch-day-record-24-58-million-copies-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-2-36-billion-launch-day-record-24-58-million-copies-november-20-en.mp3",
-   "hi": {
-    "title": "जीटीए सिक्स ने पहले ही दिन दो अरब छत्तीस करोड़ डॉलर कमाए, दो करोड़ पैंतालीस लाख से ज़्यादा प्रतियाँ बिकीं — मनोरंजन की दुनिया का सबसे बड़ा लॉन्च",
-    "summary": "सेंसर टावर के ताज़ा अनुमान के मुताबिक़ ग्रैंड थेफ़्ट ऑटो सिक्स ने उन्नीस नवंबर की शाम तक दो अरब छत्तीस करोड़ डॉलर की कमाई कर ली, जो जीटीए फ़ाइव के पहले दिन की कमाई से लगभग तीन गुना है। टेक-टू ने अभी आधिकारिक आँकड़े जारी नहीं किए हैं।"
-   },
-   "en": {
-    "title": "GTA 6 rakes in $2.36 billion on launch day with 24.58 million copies sold — the biggest entertainment launch in history",
-    "summary": "Sensor Tower's updated estimate puts Grand Theft Auto VI at $2.36 billion from 24.58 million copies by Thursday evening — nearly three times GTA 5's first-day haul. Take-Two has yet to release official figures."
    }
   }
  ]
