@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-21T15:06:27+05:30",
+ "updatedAt": "2026-11-21T15:20:11+05:30",
  "articles": [
+  {
+   "id": "bijnor-girls-die-kasaundi-pods-gulah-river-november-21",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:20:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bijnor-girls-die-kasaundi-pods-gulah-river-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-girls-die-kasaundi-pods-gulah-river-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-girls-die-kasaundi-pods-gulah-river-november-21-en.mp3",
+   "en": {
+    "title": "Bijnor: two girls die, third critical after eating wild kasaundi pods near the Gulah river",
+    "summary": "Two young girls have died and a third is in critical condition in Uttar Pradesh's Bijnor district after the three ate pods from a wild kasaundi plant while playing near the Gulah river. Police said the girls fell ill on Wednesday; one died on Thursday evening and the other on Friday morning."
+   },
+   "hi": {
+    "title": "बिजनौर: गुलाह नदी किनारे जंगली कसौंदी की फली खाने से दो बच्चियों की मौत, तीसरी की हालत गंभीर",
+    "summary": "उत्तर प्रदेश के बिजनौर ज़िले में गुलाह नदी के किनारे खेलते हुए जंगली कसौंदी के पौधे की फली खाने से दो बच्चियों की मौत हो गई और तीसरी की हालत गंभीर है। पुलिस के अनुसार तीनों बच्चियाँ बुधवार को खेलने गई थीं; एक की मौत गुरुवार शाम और दूसरी की शुक्रवार सुबह हुई।"
+   },
+   "district": "Bijnor",
+   "state": "Uttar Pradesh"
+  },
   {
    "id": "youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21",
    "category": "Politics",
@@ -3192,27 +3215,6 @@
    "en": {
     "title": "Supreme Court turns down Tamil Nadu's plea for 11 TMC Cauvery water from Karnataka",
     "summary": "The Supreme Court has declined to entertain Tamil Nadu's plea seeking a direction to Karnataka to release 11 TMC of Cauvery water to make up for an alleged shortfall in the state's share. A bench of Justices Vikram Nath and Aparesh Singh passed the order on Friday."
-   }
-  },
-  {
-   "id": "berlin-coalition-willing-kushner-russia-comfortable-nato-like-guarantees-november-20",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T11:17:36+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/berlin-coalition-willing-kushner-russia-comfortable-nato-like-guarantees-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/berlin-coalition-willing-kushner-russia-comfortable-nato-like-guarantees-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/berlin-coalition-willing-kushner-russia-comfortable-nato-like-guarantees-november-20-en.mp3",
-   "hi": {
-    "title": "बर्लिन में यूक्रेन के सहयोगियों की बैठक, अमेरिका के दूत बोले — रूस नाटो जैसी सुरक्षा गारंटी पर सहमत है",
-    "summary": "शेनझेन में ट्रंप, पुतिन और शी की पहली त्रिपक्षीय बैठक के एक दिन बाद यूक्रेन के सहयोगी बर्लिन में जुटे। अमेरिका के दूत जेरेड कुशनर ने कहा कि रूस युद्ध के बाद यूक्रेन के लिए नाटो जैसी सुरक्षा गारंटी पर सहमत है, जबकि राष्ट्रपति पुतिन ने युद्धविराम से इनकार कर दिया।"
-   },
-   "en": {
-    "title": "In Berlin, Ukraine's allies rally behind Kyiv as US envoy says Russia is 'comfortable' with NATO-like guarantees",
-    "summary": "Ukraine's allies met in Berlin for a Coalition of the Willing summit a day after the first Trump-Putin-Xi trilateral in Shenzhen, as US envoy Jared Kushner said Russia was 'comfortable' with NATO-like security guarantees for postwar Ukraine and President Putin ruled out a ceasefire."
    }
   }
  ]
