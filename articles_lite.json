@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-21T11:31:06+05:30",
+ "updatedAt": "2026-11-21T11:41:24+05:30",
  "articles": [
+  {
+   "id": "maharashtra-sir-bhusawal-14567-deletion-requests-only-74-valid-november-21",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T11:41:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maharashtra-sir-bhusawal-14567-deletion-requests-only-74-valid-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-sir-bhusawal-14567-deletion-requests-only-74-valid-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-sir-bhusawal-14567-deletion-requests-only-74-valid-november-21-en.mp3",
+   "en": {
+    "title": "Maharashtra SIR: 14,567 voter-deletion requests in Bhusawal, only 74 found valid; action ordered over malicious filings",
+    "summary": "Scrutiny of bulk Form-7 objections in Maharashtra's Bhusawal Assembly constituency has found only 74 of 14,567 requests to delete voters valid. The district administration has ordered legal action against those who filed objections with malicious intent, after an inquiry triggered by a Congress complaint."
+   },
+   "hi": {
+    "title": "महाराष्ट्र एसआईआर: भुसावल में मतदाता हटाने की चौदह हज़ार पाँच सौ सड़सठ आपत्तियाँ, सिर्फ़ चौहत्तर सही पाई गईं; दुर्भावना से दाख़िल करने वालों पर कार्रवाई",
+    "summary": "महाराष्ट्र के भुसावल विधानसभा क्षेत्र में मतदाताओं के नाम हटाने की सामूहिक आपत्तियों की जाँच में चौदह हज़ार पाँच सौ सड़सठ में से सिर्फ़ चौहत्तर आपत्तियाँ सही पाई गईं। ज़िला प्रशासन ने दुर्भावना से आपत्ति दाख़िल करने वालों के ख़िलाफ़ कानूनी कार्रवाई का आदेश दिया है।"
+   },
+   "district": "Jalgaon",
+   "state": "Maharashtra"
+  },
   {
    "id": "five-killed-ambulance-carrying-body-rams-parked-pickup-purvanchal-expressway-barabanki",
    "category": "State & Local",
@@ -882,13 +905,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday.",
-    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in"
+    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in",
+    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday."
    },
    "featured": false,
    "hi": {
-    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।",
-    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी"
+    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी",
+    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।"
    },
    "id": "congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20.jpg",
@@ -3192,29 +3215,6 @@
    "hi": {
     "title": "फ़्लाइटग्लोबल की सूची में भारतीय वायुसेना के सक्रिय राफेल पैंतीस से घटकर बत्तीस, रक्षा मंत्रालय ने आँकड़े पर सवाल उठाए",
     "summary": "ब्रिटिश विमानन प्रकाशन फ़्लाइटग्लोबल की ताज़ा वर्ल्ड एयर फ़ोर्सेज़ डायरेक्टरी में भारतीय वायुसेना के सक्रिय राफेल लड़ाकू विमानों की संख्या पैंतीस से घटकर बत्तीस रह गई है। रक्षा मंत्रालय के सूत्रों ने इस आकलन की प्रामाणिकता पर सवाल उठाते हुए कहा है कि ये आँकड़े वायुसेना या मंत्रालय से नहीं मिले हैं, और डायरेक्टरी में कटौती का कोई कारण भी नहीं बताया गया है।"
-   }
-  },
-  {
-   "id": "gangster-naseem-durrani-killed-encounter-bulandshahr-november-20",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T07:36:32+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gangster-naseem-durrani-killed-encounter-bulandshahr-november-20-en.mp3",
-   "district": "Bulandshahr",
-   "state": "Uttar Pradesh",
-   "en": {
-    "title": "Gangster Naseem Durrani, wanted in Delhi murder outside minister Kapil Mishra's office, killed in encounter in Bulandshahr",
-    "summary": "Gangster Naseem Durrani, accused in the murder of 26-year-old Sameer outside Delhi minister Kapil Mishra's camp office on November 16, was killed in an encounter with a joint team of Delhi Police and the Noida STF in Uttar Pradesh's Bulandshahr late on Thursday night. Police say Durrani, who carried a reward of Rs 50,000, had around 25 serious cases against him, including murder, robbery and attempted murder."
-   },
-   "hi": {
-    "title": "दिल्ली में मंत्री के दफ़्तर के बाहर हत्या का आरोपी गैंगस्टर नसीम दुर्रानी बुलंदशहर एनकाउंटर में मारा गया",
-    "summary": "दिल्ली के मंत्री कपिल मिश्रा के कैंप दफ़्तर के बाहर सोलह नवंबर को छब्बीस साल के समीर की हत्या के आरोपी गैंगस्टर नसीम दुर्रानी को गुरुवार देर रात उत्तर प्रदेश के बुलंदशहर में दिल्ली पुलिस और नोएडा एसटीएफ़ की संयुक्त टीम के साथ हुई मुठभेड़ में मार गिराया गया। पुलिस के अनुसार दुर्रानी पर पचास हज़ार रुपये का इनाम था और उसके ख़िलाफ़ हत्या, लूट और हत्या के प्रयास समेत करीब पच्चीस गंभीर मामले दर्ज थे।"
    }
   }
  ]
