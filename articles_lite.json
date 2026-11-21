@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T14:47:56+05:30",
+ "updatedAt": "2026-11-21T15:06:27+05:30",
  "articles": [
+  {
+   "id": "youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:06:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21-en.mp3",
+   "en": {
+    "title": "Youth Congress protests spread to Meta offices in Mumbai and Gurugram; seven-day ultimatum as BJP calls Congress 'party of goons'",
+    "summary": "Youth Congress protests against Meta spread to Hyderabad, Mumbai and Gurugram on Friday, with workers storming the Hyderabad office and spray-painting slogans outside the Mumbai office. The outfit has given Meta a seven-day ultimatum to restore restricted accounts of its leaders, as the BJP called the Congress a 'party of goons'."
+   },
+   "hi": {
+    "title": "मेटा दफ़्तरों पर यूथ कांग्रेस का प्रदर्शन मुंबई-गुरुग्राम तक फैला, सात दिन का अल्टीमेटम; बीजेपी ने कांग्रेस को 'गुंडों की पार्टी' कहा",
+    "summary": "मेटा के खिलाफ यूथ कांग्रेस का प्रदर्शन शुक्रवार को हैदराबाद, मुंबई और गुरुग्राम तक फैल गया। हैदराबाद में कार्यकर्ता दफ़्तर में घुस गए और मुंबई में दफ़्तर के बाहर नारे लिखे गए। संगठन ने अपने नेताओं के बंद अकाउंट बहाल करने के लिए मेटा को सात दिन का अल्टीमेटम दिया है, जबकि बीजेपी ने कांग्रेस को 'गुंडों की पार्टी' कहा।"
+   }
+  },
+  {
+   "id": "bigg-boss-20-love-gill-yung-dsa-washroom-fight-episode-76-november-21",
+   "category": "Entertainment",
+   "sub": "TV",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:06:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-love-gill-yung-dsa-washroom-fight-episode-76-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-love-gill-yung-dsa-washroom-fight-episode-76-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-love-gill-yung-dsa-washroom-fight-episode-76-november-21-en.mp3",
+   "en": {
+    "title": "Bigg Boss 20: Ex-friends Love Gill and Yung DSA in ugly washroom fight over 'stolen' food in Episode 76",
+    "summary": "Former friends Love Gill and Yung DSA's feud exploded into an ugly washroom fight in Bigg Boss 20's Episode 76, after captain Uditi Singh found food hidden between the house plants. Yung called Love a 'chor' and a 'nevala'; Love hit back calling him 'pencil' and 'chamgadar', days before the Weekend Ka Vaar."
+   },
+   "hi": {
+    "title": "बिग बॉस 20: 'चोरी' के खाने पर भिड़े कभी दोस्त रहे लव गिल और यंग डीएसए, छिहत्तरवें एपिसोड में वॉशरूम तक पहुँची लड़ाई",
+    "summary": "बिग बॉस बीस के छिहत्तरवें एपिसोड में कभी दोस्त रहे लव गिल और यंग डीएसए के बीच वॉशरूम तक लड़ाई हुई। कप्तान उदिति सिंह को पौधों के बीच छिपा खाना मिला था, जिसके बाद यंग ने लव को 'चोर' और 'नेवला' कहा, तो लव ने उन्हें 'पेंसिल' और 'चमगादड़' कह डाला।"
+   }
+  },
   {
    "id": "maharashtra-drought-worse-than-1972-rabi-sowing-record-low-november-21",
    "category": "Agriculture",
@@ -3172,50 +3214,6 @@
     "title": "In Berlin, Ukraine's allies rally behind Kyiv as US envoy says Russia is 'comfortable' with NATO-like guarantees",
     "summary": "Ukraine's allies met in Berlin for a Coalition of the Willing summit a day after the first Trump-Putin-Xi trilateral in Shenzhen, as US envoy Jared Kushner said Russia was 'comfortable' with NATO-like security guarantees for postwar Ukraine and President Putin ruled out a ceasefire."
    }
-  },
-  {
-   "id": "supreme-court-unwed-mother-custody-german-mother-singapore-november-20",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:52:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-unwed-mother-custody-german-mother-singapore-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-unwed-mother-custody-german-mother-singapore-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-unwed-mother-custody-german-mother-singapore-november-20-en.mp3",
-   "hi": {
-    "title": "अविवाहित माँ का छोटे बच्चे की कस्टडी पर मज़बूत दावा, सुप्रीम कोर्ट का फ़ैसला; जर्मन माँ चार साल के बेटे को सिंगापुर ले जा सकेंगी",
-    "summary": "सुप्रीम कोर्ट ने कहा है कि अविवाहित माता-पिता के बच्चे की कस्टडी पर माँ का प्रथम दृष्टया मज़बूत दावा होता है। कोर्ट ने चार साल के बच्चे की अंतरिम कस्टडी उसकी जर्मन माँ को सौंप दी है और उन्हें बेटे को पढ़ाई के लिए सिंगापुर ले जाने की इजाज़त दे दी है, बशर्ते वे सिंगापुर की अदालत का दर्पण आदेश लें और एक करोड़ रुपये जमा करें।"
-   },
-   "en": {
-    "title": "Unwed mother has stronger claim to custody of young child, Supreme Court rules; German mother may take four-year-old to Singapore",
-    "summary": "The Supreme Court has held that a mother has a better prima facie claim to custody of a child born to unwed parents, granting interim custody of a four-year-old boy to his German mother and allowing her to take him to Singapore for schooling, subject to a mirror order and a one-crore-rupee deposit."
-   }
-  },
-  {
-   "id": "gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:52:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-bulldozer-death-fir-five-sp-leaders-yogi-vows-action-november-20-en.mp3",
-   "hi": {
-    "title": "गोरखपुर बुलडोज़र हादसे में पाँच सपा नेताओं पर एफ़आईआर, योगी ने सख़्त कार्रवाई का वादा किया; अखिलेश बोले, बस ने टक्कर मारी, जेसीबी ने नहीं",
-    "summary": "गोरखपुर में अखिलेश यादव के रोड शो के दौरान बुलडोज़र की चपेट में आकर मारे गए चौदह साल के आर्यवर्धन सिंह की मौत के मामले में पुलिस ने पाँच समाजवादी पार्टी नेताओं और छियासठ अज्ञात कार्यकर्ताओं के खिलाफ मामला दर्ज किया है। मुख्यमंत्री योगी आदित्यनाथ ने सख़्त कार्रवाई का वादा किया है, जबकि अखिलेश यादव का कहना है कि सीसीटीवी फुटेज में बस की टक्कर दिख रही है।"
-   },
-   "en": {
-    "title": "Five SP leaders booked in Gorakhpur bulldozer death; Yogi vows strict action as Akhilesh says bus, not JCB, hit boy",
-    "summary": "Police have booked five Samajwadi Party leaders and 66 unidentified workers over the death of 14-year-old Aryavardhan Singh, allegedly hit by a bulldozer during Akhilesh Yadav's Gorakhpur roadshow. Chief Minister Yogi Adityanath has vowed stringent action, while Akhilesh says CCTV footage shows a roadways bus hit the boy."
-   },
-   "district": "Gorakhpur",
-   "state": "Uttar Pradesh"
   }
  ]
 }
