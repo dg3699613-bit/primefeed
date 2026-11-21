@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T02:49:40+05:30",
+ "updatedAt": "2026-11-22T03:04:31+05:30",
  "articles": [
+  {
+   "id": "indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21",
+   "category": "State & Local",
+   "sub": "Madhya Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T03:04:31+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21-en.mp3",
+   "district": "Indore",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "इंदौर नगर निगम ने फूटी कोठी की बरसों पुरानी सब्जी मंडी हटाई, दुकानदार सड़क पर बैठे; नेता प्रतिपक्ष भी विरोध में शामिल हुईं",
+    "summary": "इंदौर नगर निगम ने शनिवार को फूटी कोठी चौराहे पर बरसों से चल रही सब्जी मंडी हटा दी, और दुकानदार सड़क पर बैठकर विरोध करने लगे। नगर निगम में नेता प्रतिपक्ष सोनिला मिमरोट भी उनके साथ खड़ी हो गईं, उन्होंने हाथ जोड़कर अधिकारियों से अपील की और एक अधिकारी को फ़ोन पर चेतावनी दी, जबकि दुकानदार चौराहे के पास पुल के नीचे जगह की माँग कर रहे थे।"
+   },
+   "en": {
+    "title": "Indore civic body removes years-old vegetable market at Phooti Kothi, vendors protest as leader joins them on the road",
+    "summary": "The Indore Municipal Corporation removed a vegetable market that had run for years at Phooti Kothi Square on Saturday, and vendors sat down on the road in protest. Leader of the Opposition Sonila Mimrot joined them, appealed to officials with folded hands and warned a municipal official on the phone, while the vendors demanded space under the bridge near the square."
+   }
+  },
   {
    "id": "movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21",
    "category": "Crime & Law",
@@ -3224,27 +3247,6 @@
    "en": {
     "title": "Manipur hooch tragedy: Death toll climbs to 15 in Chandel, over 180 in hospital; CM meets patients",
     "summary": "The death toll in Manipur's suspected spurious liquor tragedy rose to 15 on Friday evening, with more than 180 people in hospital in Imphal. Chief Minister Yumnam Khemchand Singh visited Shija and Babina hospitals and ordered an inquiry."
-   }
-  },
-  {
-   "id": "nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20",
-   "category": "World",
-   "sub": "USA",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T23:48:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentenced-235-months-us-court-pannun-plot-november-20-en.mp3",
-   "hi": {
-    "title": "निखिल गुप्ता को अमेरिका में उन्नीस साल सात महीने की जेल, पन्नून की हत्या की साज़िश का मामला",
-    "summary": "न्यूयॉर्क की संघीय अदालत ने शुक्रवार को भारतीय नागरिक निखिल गुप्ता को खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून की हत्या की साज़िश के मामले में दो सौ पैंतीस महीने की जेल की सज़ा सुनाई। अभियोजन पक्ष ने चौबीस साल की सज़ा माँगी थी, जबकि गुप्ता के वकीलों ने बारह साल की माँग की थी।"
-   },
-   "en": {
-    "title": "Nikhil Gupta gets 19 years and 7 months in US prison for plot to kill Pannun",
-    "summary": "A federal court in New York on Friday sentenced Indian national Nikhil Gupta to 235 months in prison for his role in the 2023 murder-for-hire plot targeting Khalistani separatist Gurpatwant Singh Pannun. Prosecutors had sought 24 years, while his lawyers had asked for 12."
    }
   }
  ]
