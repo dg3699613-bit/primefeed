@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T06:21:03+05:30",
+ "updatedAt": "2026-11-21T06:39:28+05:30",
  "articles": [
+  {
+   "id": "kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "केएल राहुल का तेरहवाँ टेस्ट शतक: वेलिंग्टन में भारत दो सौ सैंतालीस पर एक विकेट, चारों देशों में शतक का रिकॉर्ड पूरा",
+    "summary": "केएल राहुल ने वेलिंग्टन में न्यूज़ीलैंड के खिलाफ़ पहले टेस्ट के तीसरे दिन लंच के बाद दो सौ सात गेंदों पर एक सौ रन पूरे कर अपना तेरहवाँ टेस्ट शतक लगाया और दक्षिण अफ़्रीका, इंग्लैंड, न्यूज़ीलैंड व ऑस्ट्रेलिया — चारों देशों में टेस्ट शतक लगाने वाले पहले भारतीय सलामी बल्लेबाज़ बन गए। भारत एक विकेट पर दो सौ सैंतालीस रन पर था, देवदत्त पडिक्कल तिरपन रन पर नाबाद थे, और न्यूज़ीलैंड के तीन सौ अड़सठ रन से भारत एक सौ इक्कीस रन पीछे था।"
+   },
+   "en": {
+    "title": "KL Rahul's Wellington hundred completes a rare SENA set as India reach 247 for 1",
+    "summary": "KL Rahul reached his 13th Test hundred, 100 off 207 balls, early in the second session on day three of the first Test against New Zealand in Wellington, becoming the first Indian opener — and only the fifth Indian batter — to score a Test century in each of South Africa, England, New Zealand and Australia. India were 247 for 1, with Devdutt Padikkal unbeaten on 53, trailing New Zealand's 368 by 121 runs."
+   },
+   "publishedAt": "2026-11-21T06:39:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21-en.mp3"
+  },
   {
    "id": "gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20",
    "category": "Technology",
@@ -3188,27 +3209,6 @@
    "en": {
     "title": "Google launches Gemini 4 Neon, its mid-tier AI model that tops the coding agent index",
     "summary": "Google on November 18 launched Gemini 4 Neon, the fourth model in its Gemini 4 family. The company says the mid-tier model handles complex coding, knowledge work and scientific research at 32 percent lower cost per task than Carbon."
-   }
-  },
-  {
-   "id": "iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T02:16:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iaea-north-korea-expanding-yongbyon-uranium-enrichment-november-18-en.mp3",
-   "hi": {
-    "title": "आईएईए: उत्तर कोरिया योंगब्योन में यूरेनियम संवर्धन संयंत्र का कर रहा है विस्तार, 'गंभीर चिंता का विषय'",
-    "summary": "संयुक्त राष्ट्र की परमाणु निगरानी संस्था आईएईए के प्रमुख राफेल ग्रॉसी ने कहा है कि उत्तर कोरिया के योंगब्योन परिसर में यूरेनियम संवर्धन संयंत्र का एक और विस्तार बन चुका है। एजेंसी ने इसे गंभीर चिंता का विषय बताया है।"
-   },
-   "en": {
-    "title": "North Korea is expanding its Yongbyon uranium enrichment plant, IAEA chief says",
-    "summary": "The head of the UN nuclear watchdog, Rafael Grossi, has told the IAEA board that North Korea has built a further extension to its original uranium enrichment facility at Yongbyon, calling the programme's expansion a cause for serious concern."
    }
   }
  ]
