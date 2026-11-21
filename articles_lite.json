@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-21T23:46:51+05:30",
+ "updatedAt": "2026-11-22T00:03:49+05:30",
  "articles": [
+  {
+   "id": "hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T00:03:49+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21-en.mp3",
+   "district": "Hyderabad",
+   "state": "Telangana",
+   "hi": {
+    "title": "हैदराबाद के गांधी अस्पताल के बाहर से सात दिन की बच्ची अगवा, चौबीस घंटे में बरामद — छह गिरफ़्तार",
+    "summary": "सिकंदराबाद के गांधी अस्पताल के बाहर से कथित तौर पर अगवा की गई सात दिन की बच्ची को चौबीस घंटे के भीतर सकुशल बरामद कर उसके माता-पिता को सौंप दिया गया। पुलिस ने छह लोगों को गिरफ़्तार किया है, जिनमें वह महिला भी है जिसने कथित तौर पर एक लाख रुपये की सरकारी मदद का लालच देकर परिवार को फँसाया और बच्ची को एक निःसंतान महिला को सौंपने की योजना बनाई थी।"
+   },
+   "en": {
+    "title": "Seven-day-old baby taken from outside Hyderabad's Gandhi Hospital rescued within 24 hours; six arrested",
+    "summary": "A seven-day-old baby girl allegedly taken from outside Gandhi Hospital in Secunderabad was rescued within 24 hours and handed back to her parents. Police said six people were arrested, including a woman who allegedly lured the family with the promise of Rs 1 lakh in government aid and planned to hand the baby to a childless couple."
+   }
+  },
   {
    "id": "ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21",
    "category": "Politics",
@@ -3220,27 +3243,6 @@
    "en": {
     "title": "Russian missiles and drone crash into Poland; Tusk calls it 'an intentional provocation'",
     "summary": "Two Russian cruise missiles and a jet-powered drone crashed into south-eastern Poland during Moscow's overnight attack on Ukraine. Warsaw says the timing — as allied troops drill nearby — points to a deliberate provocation; nobody was hurt."
-   }
-  },
-  {
-   "id": "myanmar-rejects-icj-genocide-ruling-unfair-november-20",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T19:07:55+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/myanmar-rejects-icj-genocide-ruling-unfair-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/myanmar-rejects-icj-genocide-ruling-unfair-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/myanmar-rejects-icj-genocide-ruling-unfair-november-20-en.mp3",
-   "hi": {
-    "title": "म्यांमार ने विश्व अदालत के नरसंहार वाले फ़ैसले को 'अनुचित' बताया, कहा — देश पर ग़लत आरोप लगा",
-    "summary": "म्यांमार की सरकार ने शुक्रवार को अंतरराष्ट्रीय न्यायालय के उस फ़ैसले को ख़ारिज कर दिया जिसमें रोहिंग्या के ख़िलाफ़ नरसंहार का दोषी पाया गया था। सरकार ने नौ-छह के फ़ैसले को 'अनुचित' बताते हुए कहा कि देश पर ग़लत आरोप लगाया गया है।"
-   },
-   "en": {
-    "title": "Myanmar calls world court's genocide ruling 'unfair', says it was unjustly accused",
-    "summary": "Myanmar's government on Friday rejected the International Court of Justice ruling that found it responsible for genocide against the Rohingya, calling the nine-to-six decision 'not fair' and saying the country had been unjustly accused."
    }
   }
  ]
