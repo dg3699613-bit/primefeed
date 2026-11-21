@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T00:58:11+05:30",
+ "updatedAt": "2026-11-22T01:16:18+05:30",
  "articles": [
+  {
+   "id": "anupama-ramachandran-retains-ibsf-world-snooker-title-indore-november-21",
+   "category": "Cricket & Sports",
+   "sub": "Snooker",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T01:16:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anupama-ramachandran-retains-ibsf-world-snooker-title-indore-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anupama-ramachandran-retains-ibsf-world-snooker-title-indore-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anupama-ramachandran-retains-ibsf-world-snooker-title-indore-november-21-en.mp3",
+   "district": "Indore",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "अनुपमा रामचंद्रन ने इंदौर में बरकरार रखा विश्व स्नूकर खिताब, लगातार दो बार जीतने वाली पहली भारतीय",
+    "summary": "भारत की अनुपमा रामचंद्रन ने शनिवार को इंदौर के यशवंत क्लब में खेले गए फाइनल में हांगकांग चीन की सो मान यान को तीन-एक से हराकर आईबीएसएफ विश्व महिला स्नूकर चैंपियनशिप का खिताब बरकरार रखा और इस प्रतियोगिता में लगातार दो बार खिताब जीतने वाली पहली भारतीय बन गईं। पहला फ्रेम सोलह-अट्ठावन से हारने के बाद उन्होंने अगले तीन फ्रेम तिरासी-सात, पचासी-छब्बीस और पैंसठ-सैंतीस से जीते। पुरुषों के फाइनल में ईरान के अली घराहगोज़लू ने हांगकांग चीन के टैम यून फुंग को पाँच-एक से हराया।"
+   },
+   "en": {
+    "title": "Anupama Ramachandran retains world snooker title in Indore, first Indian to win back-to-back crowns",
+    "summary": "India's Anupama Ramachandran retained her IBSF World Women's Snooker Championship crown with a 3-1 win over Hong Kong China's So Man Yan in the final at the Yeshwant Club in Indore on Saturday, becoming the first Indian to win back-to-back titles in the event. She lost the opening frame 16-58 before winning the next three 83-7, 85-26 and 65-37. In the men's final, Iran's Ali Gharahgozlou beat Hong Kong China's Tam Yun Fung 5-1."
+   }
+  },
   {
    "id": "ranchi-airport-20-flights-cancelled-akvan-visibility-november-21",
    "category": "Weather",
@@ -3222,27 +3245,6 @@
    "en": {
     "title": "Amritsar: Police constable's car runs over 12-year-old schoolgirl on her way home; liquor bottle found in vehicle, accused in custody",
     "summary": "A 12-year-old schoolgirl returning home from school was run over by a speeding car allegedly driven by a Punjab Police constable on Sultanwind Road in Amritsar. The girl was trapped under the vehicle and pulled out by passersby. Residents allege the constable was drunk, a liquor bottle was found in his car, and he has been taken into custody."
-   }
-  },
-  {
-   "id": "tamil-nadu-andhra-investment-war-guidance-staff-row-november-20",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T20:42:44+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-andhra-investment-war-guidance-staff-row-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-andhra-investment-war-guidance-staff-row-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-andhra-investment-war-guidance-staff-row-november-20-en.mp3",
-   "hi": {
-    "title": "तमिलनाडु-आंध्र निवेश जंग: गाइडेंस के पंद्रह कर्मचारियों पर आंध्र को जानकारी लीक करने का शक, तीन अधिकारी अब आंध्र सरकार से जुड़े",
-    "summary": "तमिलनाडु की निवेश एजेंसी गाइडेंस के पंद्रह संविदा कर्मचारियों को इस शक में हटाया गया है कि उन्होंने निवेश से जुड़ी गोपनीय जानकारी आंध्र प्रदेश को दी थी। गाइडेंस के तीन पूर्व कर्मचारी अब आंध्र प्रदेश के आर्थिक विकास बोर्ड से जुड़ चुके हैं, जबकि तीन कोरियाई कंपनियों ने अनंतपुर में एक हज़ार छह सौ चौदह करोड़ रुपये के निवेश का ऐलान किया है।"
-   },
-   "en": {
-    "title": "Tamil Nadu–Andhra investment war: 15 Guidance staff under cloud over 'leaks' to Andhra; three ex-officials now work for AP board",
-    "summary": "Fifteen contractual employees of Tamil Nadu's investment promotion agency Guidance have been removed amid suspicion that they passed confidential investment information to Andhra Pradesh. Three former Guidance staff members have since joined the Andhra Pradesh Economic Development Board, while three Korean companies have committed Rs 1,614 crore in Anantapur."
    }
   }
  ]
