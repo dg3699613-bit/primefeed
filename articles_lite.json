@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T18:18:50+05:30",
+ "updatedAt": "2026-11-21T18:40:11+05:30",
  "articles": [
+  {
+   "id": "pune-pmc-medical-college-recruitment-scam-11-doctors-10-lakh-november-21",
+   "category": "Crime & Law",
+   "sub": "Scams & Fraud",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T18:40:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-pmc-medical-college-recruitment-scam-11-doctors-10-lakh-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-pmc-medical-college-recruitment-scam-11-doctors-10-lakh-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-pmc-medical-college-recruitment-scam-11-doctors-10-lakh-november-21-en.mp3",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "स्थायी प्रोफेसर की नौकरी के नाम पर दस-दस लाख रुपये: पुणे के मेडिकल कॉलेज में ग्यारह डॉक्टरों से ठगी, एसीबी जाँच में जुटी",
+    "summary": "पुणे महानगरपालिका के भारतरत्न अटल बिहारी वाजपेयी मेडिकल कॉलेज में स्थायी प्रोफेसर का पद दिलाने के नाम पर ग्यारह संविदा डॉक्टरों से कथित तौर पर दस-दस लाख रुपये की ठगी की गई। डॉक्टरों ने पहले महापौर और फिर लाचलुचपत प्रतिबंधक विभाग से शिकायत की, और विभाग ने जाँच शुरू कर दी है; पैसे जुटाने वाले एजेंट के रूप में शिकायत में जिन तीन डॉक्टरों के नाम हैं, वे आरोपित हैं, दोषी नहीं।"
+   },
+   "en": {
+    "title": "Rs 10 lakh each for a permanent professor's post: 11 doctors cheated at Pune's civic medical college, ACB starts probe",
+    "summary": "Eleven contract doctors at Pune Municipal Corporation's Bharat Ratna Atal Bihari Vajpayee Medical College were allegedly cheated of Rs 10 lakh each on the promise of permanent professors' posts. The doctors complained first to the Mayor and then to the Anti-Corruption Bureau, which has begun an inquiry; the three doctors named in the complaint as agents who collected the money are accused, not convicted."
+   }
+  },
+  {
+   "id": "delhi-police-14-year-old-agniveer-data-dark-web-500-dollars-november-21",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T18:40:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-police-14-year-old-agniveer-data-dark-web-500-dollars-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-14-year-old-agniveer-data-dark-web-500-dollars-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-14-year-old-agniveer-data-dark-web-500-dollars-november-21-en.mp3",
+   "hi": {
+    "title": "चौदह साल के लड़के ने अग्निवीर पोर्टल हैक कर जवानों का डेटा डार्क वेब पर पाँच सौ डॉलर में बेचने की कोशिश की",
+    "summary": "हरियाणा के बल्लभगढ़ के चौदह साल के एक लड़के को दिल्ली पुलिस की स्पेशल सेल ने कथित तौर पर पूर्व अग्निवीरों के लिए बने गृह मंत्रालय के पोर्टल को हैक करने और वह डेटा डार्क वेब पर पाँच सौ डॉलर में बेचने की कोशिश के आरोप में पकड़ा है। पुलिस ने उसके उपकरणों से डेटा बरामद किया है और उसकी असलियत जाँचने के लिए गृह मंत्रालय को पत्र लिखा है; नाबालिग लड़के का नाम नहीं बताया गया है।"
+   },
+   "en": {
+    "title": "14-year-old allegedly hacked Agniveer portal and put soldiers' data up for sale on dark web for $500",
+    "summary": "A 14-year-old boy from Ballabhgarh in Haryana was apprehended by the Delhi Police Special Cell for allegedly hacking into a Home Ministry test portal for former Agniveers and offering the data on the dark web for $500. Police have recovered data from his devices and written to the Home Ministry to verify whether it is genuine; the boy, a minor, has not been named."
+   }
+  },
   {
    "id": "delhi-police-jamtara-apk-fraud-22-arrested-20-crore-november-21",
    "category": "Crime & Law",
@@ -3179,48 +3223,6 @@
    "en": {
     "title": "Congress hits back at PM over FICCI remarks: 'Rattled PM now blames industry, will soon be outgoing PM'",
     "summary": "At a press conference in New Delhi, Congress general secretary Jairam Ramesh said Prime Minister Narendra Modi's sharp words for industry at FICCI showed a 'rattled' leader deflecting attention from his government's economic failures — and repeating what the Congress manifesto had said in 2024."
-   }
-  },
-  {
-   "id": "dgca-show-cause-spicejet-eight-lapses-fleet-grounded-november-20",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T15:30:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dgca-show-cause-spicejet-eight-lapses-fleet-grounded-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dgca-show-cause-spicejet-eight-lapses-fleet-grounded-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dgca-show-cause-spicejet-eight-lapses-fleet-grounded-november-20-en.mp3",
-   "hi": {
-    "title": "डीजीसीए ने स्पाइसजेट को सात दिन का नोटिस दिया, आठ खामियां गिनाईं — बेड़े का बड़ा हिस्सा ज़मीन पर, सिर्फ़ पाँच विमान उड़ रहे",
-    "summary": "विमानन नियामक डीजीसीए ने स्पाइसजेट को सात दिन का कारण बताओ नोटिस जारी किया है। नियामक ने कहा है कि एयरलाइन के बेड़े का बड़ा हिस्सा ज़मीन पर खड़ा है और उसके पास सिर्फ़ पाँच विमान उड़ान भरने की हालत में हैं।"
-   },
-   "en": {
-    "title": "DGCA gives SpiceJet seven days to explain eight lapses as most of its fleet stays grounded",
-    "summary": "The aviation regulator has issued a seven-day show-cause notice to SpiceJet over eight instances of regulatory and operational non-compliance, noting that most of its fleet is grounded and the airline has no credible plan to bring the aircraft back into service."
-   }
-  },
-  {
-   "id": "rajasthan-panchayat-results-congress-2254-bjp-1365-november-20",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T15:08:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-panchayat-results-congress-2254-bjp-1365-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-results-congress-2254-bjp-1365-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-results-congress-2254-bjp-1365-november-20-en.mp3",
-   "hi": {
-    "title": "राजस्थान पंचायत नतीजे: कांग्रेस दो हज़ार दो सौ चौवन पंचायत समिति सीटें जीतकर सत्ताईस ज़िलों में आगे, भाजपा पीछे",
-    "summary": "राजस्थान के ग्रामीण निकाय चुनावों में कांग्रेस ने अब तक घोषित चार हज़ार चार सौ तिहत्तर पंचायत समिति सीटों में से दो हज़ार दो सौ चौवन और एक सौ चौबीस ज़िला परिषद सीटों में से इक्यासी जीत ली हैं। सत्ताईस ज़िलों में कांग्रेस और सात में भाजपा आगे है, जबकि सैंतीस ज़िलों में मतगणना जारी है।"
-   },
-   "en": {
-    "title": "Rajasthan panchayat results: Congress wins 2,254 Panchayat Samiti seats, leads in 27 districts as counting advances",
-    "summary": "The Congress has won 2,254 of the 4,473 Panchayat Samiti seats declared so far and 81 of 124 Zila Parishad seats in Rajasthan's rural local body elections, leading in 27 districts to the BJP's seven as counting continues in 37 districts."
    }
   }
  ]
