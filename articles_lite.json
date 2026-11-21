@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-21T09:53:48+05:30",
+  "updatedAt": "2026-11-21T10:13:08+05:30",
   "articles": [
+    {
+      "id": "ladakh-first-panchayat-municipal-polls-eight-years-voting-november-21",
+      "category": "Politics",
+      "sub": "Elections",
+      "breaking": false,
+      "featured": true,
+      "trending": true,
+      "hi": {
+        "title": "आठ साल बाद लद्दाख में पंचायत और नगर निकाय चुनाव, सुबह आठ बजे से मतदान जारी",
+        "summary": "केंद्र शासित प्रदेश बनने के बाद पहली बार लद्दाख में शनिवार को पंचायत और नगर निकाय चुनाव के लिए मतदान हो रहा है। एक सौ बानबे पंचायतों और लेह व कारगिल की दो नगर परिषदों में वोट डाले जा रहे हैं, मतगणना चार दिसंबर को होगी।"
+      },
+      "en": {
+        "title": "Ladakh votes in first panchayat and municipal polls in eight years",
+        "summary": "Ladakh is voting on Saturday in its first panchayat and municipal elections since becoming a Union Territory in August 2019, eight years after the last local-body polls. Polling is under way across 192 panchayats and the Leh and Kargil municipal councils, with counting on December 4."
+      },
+      "publishedAt": "2026-11-21T10:13:08+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ladakh-first-panchayat-municipal-polls-eight-years-voting-november-21.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-first-panchayat-municipal-polls-eight-years-voting-november-21-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-first-panchayat-municipal-polls-eight-years-voting-november-21-en.mp3"
+    },
+    {
+      "id": "yogi-adityanath-mother-savitri-devi-last-rites-panchur-november-21",
+      "category": "State & Local",
+      "sub": "Uttar Pradesh",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "district": "Pauri Garhwal",
+      "state": "Uttarakhand",
+      "hi": {
+        "title": "माँ को अंतिम विदाई: सीएम योगी ने पंचूर में अर्थी को दिया कंधा, पार्थिव शरीर हरिद्वार रवाना",
+        "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने शनिवार सुबह अपने पैतृक गाँव पंचूर में माँ सावित्री देवी को अंतिम विदाई दी। मुख्यमंत्री ने भावुक होकर माँ की तस्वीर पर फूल चढ़ाए और अर्थी को कंधा दिया, इसके बाद पार्थिव शरीर को हरिद्वार के चंडी घाट ले जाया गया।"
+      },
+      "en": {
+        "title": "Yogi Adityanath shoulders mother's mortal remains at last rites in Panchur",
+        "summary": "Uttar Pradesh Chief Minister Yogi Adityanath bid a final farewell to his mother, Savitri Devi, at his ancestral village of Panchur on Saturday morning, shouldering her bier as the mortal remains were taken to Haridwar for cremation. She died on Friday at the age of 91."
+      },
+      "publishedAt": "2026-11-21T10:13:08+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yogi-adityanath-mother-savitri-devi-last-rites-panchur-november-21.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-mother-savitri-devi-last-rites-panchur-november-21-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-mother-savitri-devi-last-rites-panchur-november-21-en.mp3"
+    },
     {
       "id": "kl-rahul-falls-136-india-lead-30-wellington-november-21",
       "category": "Cricket & Sports",
@@ -535,7 +579,7 @@
       "category": "World",
       "sub": "USA",
       "breaking": false,
-      "featured": true,
+      "featured": false,
       "trending": true,
       "hi": {
         "title": "ट्रंप की चेतावनी: अमेरिकी कंपनियाँ विदेश में एआई डेटा सेंटर नहीं बनाएँगी, वरना भारी टैक्स",
@@ -3169,48 +3213,6 @@
       "hi": {
         "title": "होंडा रेबेल पाँच सौ भारत में चार लाख पचास हज़ार रुपये में लौटी, ई-क्लच वर्ज़न चार लाख नब्बे हज़ार रुपये में",
         "summary": "होंडा ने रेबेल पाँच सौ को भारत में स्थानीय रूप से बनी क्रूज़र बाइक के रूप में वापस लाया है — स्टैंडर्ड वर्ज़न की क़ीमत चार लाख पचास हज़ार रुपये और ई-क्लच वर्ज़न की चार लाख नब्बे हज़ार रुपये है, जिसमें बिना क्लच दबाए गियर बदले जा सकते हैं। पाँच हज़ार रुपये में बुकिंग शुरू, बिक्री सिर्फ़ बिगविंग डीलरशिप से होगी।"
-      }
-    },
-    {
-      "id": "houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19",
-      "category": "World",
-      "sub": "Middle East",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-20T06:05:43+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-missile-hits-pif-tower-riyadh-tallest-skyscraper-november-19-en.mp3",
-      "en": {
-        "title": "Houthi missile hits Riyadh's tallest skyscraper, home to Saudi Arabia's $900 billion wealth fund",
-        "summary": "A suspected Houthi missile struck the 385-metre PIF Tower in Riyadh on Thursday, blowing out windows across seven to eight floors of the skyscraper that houses Saudi Arabia's $900 billion sovereign wealth fund. No injuries were reported, and it was the second strike on a landmark in the capital's financial district in under two weeks."
-      },
-      "hi": {
-        "title": "हूती मिसाइल ने रियाद की सबसे ऊँची इमारत को निशाना बनाया, सऊदी अरब के नौ सौ अरब डॉलर वाले फंड का मुख्यालय है टावर",
-        "summary": "गुरुवार को एक संदिग्ध हूती मिसाइल ने रियाद की ३८५ मीटर ऊँची पीआईएफ़ टावर को निशाना बनाया, जिससे सऊदी अरब के नौ सौ अरब डॉलर वाले संप्रभु संपदा कोष का मुख्यालय रखने वाली इमारत की सात से आठ मंज़िलों की खिड़कियाँ उड़ गईं। कोई घायल नहीं हुआ, और दो हफ़्ते से कम समय में वित्तीय ज़िले की किसी बड़ी इमारत पर यह दूसरा हमला है।"
-      }
-    },
-    {
-      "id": "gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19",
-      "category": "Technology",
-      "sub": "Gadgets",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-20T06:05:43+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-1-84-billion-sales-19-million-copies-launch-day-november-19-en.mp3",
-      "en": {
-        "title": "GTA 6 rakes in an estimated $1.84 billion by launch day, passing The Odyssey's entire box office",
-        "summary": "Sensor Tower estimates Grand Theft Auto VI sold about 19.05 million copies worth roughly $1.84 billion by its November 19 launch, more than double GTA 5's first-day haul and more than Christopher Nolan's The Odyssey earned in its entire theatrical run. The figures are third-party estimates — Rockstar and Take-Two have not released official sales numbers."
-      },
-      "hi": {
-        "title": "जीटीए सिक्स ने रिलीज़ के दिन तक करीब एक अरब चौरासी करोड़ डॉलर कमाए, द ओडिसी की पूरी कमाई को पीछे छोड़ा",
-        "summary": "सेंसर टावर के अनुमान के मुताबिक़ ग्रैंड थेफ़्ट ऑटो सिक्स ने उन्नीस नवंबर को रिलीज़ तक करीब एक करोड़ नब्बे लाख प्रतियाँ बेचकर लगभग एक अरब चौरासी करोड़ डॉलर कमाए, जो जीटीए फ़ाइव की पहले दिन की कमाई से दोगुने से ज़्यादा है और क्रिस्टोफ़र नोलन की फ़िल्म द ओडिसी की पूरी कमाई से भी ज़्यादा है। ये आँकड़े तीसरे पक्ष के अनुमान हैं, रॉकस्टार और टेक-टू ने आधिकारिक बिक्री के आँकड़े जारी नहीं किए हैं।"
       }
     }
   ]
