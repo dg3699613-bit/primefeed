@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T01:33:38+05:30",
+ "updatedAt": "2026-11-22T01:52:21+05:30",
  "articles": [
+  {
+   "id": "kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T01:52:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21-en.mp3",
+   "district": "Pathanamthitta",
+   "state": "Kerala",
+   "hi": {
+    "title": "सबरीमला के नीलक्कल में चालक को थप्पड़ मारने के आरोप में एएसआई निलंबित, वीडियो वायरल",
+    "summary": "सबरीमला के नीलक्कल बेस कैंप में श्रद्धालुओं को लेकर आए एक चालक को थप्पड़ मारने के आरोप में केरल पुलिस के एक सहायक उप निरीक्षक को शनिवार को निलंबित कर दिया गया। झगड़े का वीडियो वायरल होने के बाद यह कार्रवाई हुई। कोच्चि के कलमस्सेरी सशस्त्र रिज़र्व कैंप से जुड़े एएसआई जीजो सबरीमला ड्यूटी पर तैनात थे, और घटना शनिवार तड़के करीब चार बजकर बीस मिनट पर पार्किंग को लेकर हुई। एडीजीपी पी विजयन ने जाँच का आदेश दिया और एर्नाकुलम ग्रामीण पुलिस अधीक्षक ने निलंबन का आदेश जारी किया।"
+   },
+   "en": {
+    "title": "Kerala ASI suspended for allegedly slapping Sabarimala pilgrim driver at Nilakkal; video goes viral",
+    "summary": "An assistant sub-inspector of the Kerala Police was suspended on Saturday for allegedly slapping a driver ferrying Sabarimala pilgrims at Nilakkal, after a video of the altercation went viral. ASI Jijo, attached to the Armed Reserve camp at Kalamassery in Kochi, was on special Sabarimala duty when the incident took place around 4.20 am over parking arrangements. ADGP P. Vijayan ordered a formal inquiry and the Ernakulam Rural Superintendent of Police issued the suspension order."
+   }
+  },
+  {
+   "id": "diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21",
+   "category": "Entertainment",
+   "sub": "Music",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T01:52:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21-en.mp3",
+   "hi": {
+    "title": "अहमदाबाद में दिलजीत का पलटवार: कोल्डप्ले गाए तो कोई दिक्कत नहीं, मैं गाऊँ तो डबल स्टैंडर्ड क्यों?",
+    "summary": "दिलजीत दोसांझ ने शनिवार को अहमदाबाद के नरेंद्र मोदी स्टेडियम में अपने कॉन्सर्ट को अपने आलोचकों को सीधा जवाब देने का मंच बना लिया। दुनिया के सबसे बड़े क्रिकेट स्टेडियम में खचाखच भरी भीड़ के सामने उन्होंने पूछा कि वही गाने जब विदेशी कलाकार गाते हैं तो किसी को दिक्कत नहीं होती, लेकिन जब वह गाते हैं तो शिकायतें क्यों होने लगती हैं। उन्होंने कोल्डप्ले का उदाहरण देते हुए कहा कि जब वह यहाँ आकर आई एम फ़ीलिंग ड्रंक ऐंड हाई गाता है तो किसी को दिक्कत नहीं होती।"
+   },
+   "en": {
+    "title": "Diljit Dosanjh hits back in Ahmedabad: if Coldplay can sing 'drunk and high', why the double standard for me?",
+    "summary": "Diljit Dosanjh turned his concert at Ahmedabad's Narendra Modi Stadium on Saturday into a direct answer to his critics, questioning why the same songs draw no objection from foreign artists but invite complaints when he sings them. Recalling Coldplay's performance at the same venue last year, he asked why 'I am feeling drunk and high' raised no objection, and said he was born in India, not Honolulu. The remarks came after weeks of objections to his concerts, including a complaint seeking restrictions on four of his songs."
+   }
+  },
   {
    "id": "india-no-change-indus-waters-treaty-pakistan-minister-sco-forum-november-20",
    "category": "World",
@@ -3201,48 +3245,6 @@
    "en": {
     "title": "Bigg Boss 20: Captain Uditi Singh ranks Qazi Touqeer first and Mahhi Vij last; Mahhi breaks down and calls her 'fake'",
     "summary": "Captain Uditi Singh's ranking of the Bigg Boss 20 housemates has set the house alight. Qazi Touqeer topped her list with a perfect 10, while Mahhi Vij, placed last with a single point, broke down in tears and called Uditi 'fake' in a heated argument."
-   }
-  },
-  {
-   "id": "harjit-kaur-deportation-protect-our-neighbours-act-us-november-20",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T21:30:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/harjit-kaur-deportation-protect-our-neighbours-act-us-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/harjit-kaur-deportation-protect-our-neighbours-act-us-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/harjit-kaur-deportation-protect-our-neighbours-act-us-november-20-en.mp3",
-   "hi": {
-    "title": "तीस साल अमेरिका में रहीं तिहत्तर वर्षीय हरजित कौर को डिपोर्ट किया गया, अब उनके नाम पर अमेरिकी कांग्रेस में नया बिल",
-    "summary": "भारतीय मूल की तिहत्तर वर्षीय सिख दादी हरजित कौर को पिछले साल अमेरिका से डिपोर्ट कर दिया गया था। अब कैलिफ़ोर्निया के चार सांसदों ने अमेरिकी कांग्रेस में 'प्रोटेक्ट अवर नेबर्स एक्ट' पेश किया है, जिसके तहत दस साल पुराने डिपोर्टेशन आदेश अपने आप समाप्त हो जाएँगे और लंबे समय से अमेरिका में रह रहे लोगों को कानूनी दर्जे का रास्ता मिल सकेगा।"
-   },
-   "en": {
-    "title": "Deported After 30 Years in the US, Harjit Kaur Inspires New Bill in Congress to Protect Long-Term Immigrants",
-    "summary": "Harjit Kaur, a 73-year-old Indian-origin Sikh grandmother, was deported from the United States last year after living there for more than three decades. Four California lawmakers have now introduced the Protect Our Neighbours Act in the US Congress, under which final removal orders would expire after ten years and long-term residents could seek a path to legal status."
-   }
-  },
-  {
-   "id": "india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T21:10:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-crush-nepal-306-runs-26-all-out-rising-stars-november-20-en.mp3",
-   "hi": {
-    "title": "राइजिंग स्टार्स एशिया कप: भारत ए ने नेपाल को तीन सौ छह रन से हराया, तिलक-कुशाग्र के शतक के बाद नेपाल सिर्फ छब्बीस रन पर ढेर",
-    "summary": "भारत ए ने एशिया कप राइजिंग स्टार्स के ग्रुप बी मुकाबले में नेपाल को तीन सौ छह रन से हरा दिया। तिलक वर्मा के एक सौ सात और कुमार कुशाग्र के एक सौ सत्रह रन की बदौलत भारत ए ने तीन सौ बत्तीस रन बनाए, फिर प्रिंस यादव के पाँच और हर्षित राणा के चार विकेट से नेपाल की टीम ग्यारह ओवर तीन गेंद में सिर्फ छब्बीस रन पर सिमट गई।"
-   },
-   "en": {
-    "title": "Rising Stars Asia Cup: India A crush Nepal by 306 runs after bowling them out for 26; Tilak, Kushagra hit hundreds",
-    "summary": "India A thrashed Nepal by 306 runs in their Group B match of the ACC Asia Cup Rising Stars in Doha. Centuries from captain Tilak Varma and Kumar Kushagra powered India A to 332 for 9, before Prince Yadav took five wickets and Harshit Rana four as Nepal were bowled out for just 26 in 11 overs and three balls."
    }
   }
  ]
