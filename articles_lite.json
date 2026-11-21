@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T17:33:02+05:30",
+ "updatedAt": "2026-11-21T17:50:12+05:30",
  "articles": [
+  {
+   "id": "mea-clears-taj-mahal-visit-pak-delegation-denies-nizamuddin-dargah-november-21",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T17:50:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mea-clears-taj-mahal-visit-pak-delegation-denies-nizamuddin-dargah-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mea-clears-taj-mahal-visit-pak-delegation-denies-nizamuddin-dargah-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mea-clears-taj-mahal-visit-pak-delegation-denies-nizamuddin-dargah-november-21-en.mp3",
+   "hi": {
+    "title": "ताजमहल हाँ, निज़ामुद्दीन दरगाह नहीं: पाकिस्तानी प्रतिनिधिमंडल के आगरा दौरे को मंज़ूरी, दिल्ली की दरगाह के लिए सुरक्षा अनुमति नहीं",
+    "summary": "विदेश मंत्रालय ने शनिवार को कहा कि पाकिस्तान के मंत्री मुसादिक मसूद मलिक के नेतृत्व में आए प्रतिनिधिमंडल को ताजमहल, हुमायूँ का मकबरा और दिल्ली हाट जाने की अनुमति है, लेकिन हज़रत निज़ामुद्दीन दरगाह के प्रस्तावित दौरे को सुरक्षा एजेंसियों ने मंज़ूरी नहीं दी है। मलिक एससीओ सभ्यता संवाद मंच के लिए दिल्ली आए हैं, तीन साल से ज़्यादा समय में किसी पाकिस्तानी संघीय मंत्री की यह भारत की पहली यात्रा है।"
+   },
+   "en": {
+    "title": "Taj Mahal yes, Nizamuddin Dargah no: MEA clears Pakistani delegation's Agra visit, denies nod for Delhi shrine",
+    "summary": "The Ministry of External Affairs on Saturday said a visiting Pakistani delegation led by minister Musadik Masood Malik may visit the Taj Mahal, Humayun's Tomb and Dilli Haat, but its proposed visit to the Hazrat Nizamuddin Dargah has not been cleared by security agencies. Malik is in Delhi for the first SCO Civilisational Dialogue Forum, the first visit by a Pakistani federal minister to India in more than three years."
+   }
+  },
   {
    "id": "owaisi-azad-saharanpur-visit-mosque-memorandum-november-21",
    "category": "Politics",
@@ -3198,27 +3219,6 @@
    "en": {
     "title": "Wall Street plunges: Dow sheds 1,101 points as Anthropic's record IPO fails to calm AI fears",
     "summary": "The Dow Jones fell 1,101 points to close below 50,000 for the first time since June, while the S and P 500 dropped for a sixth straight session. Anthropic's record-breaking market debut, shares priced at $83 and opening 34 percent higher, could not lift the wider market as worries over AI valuations deepened."
-   }
-  },
-  {
-   "id": "pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T14:23:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-beat-sri-lanka-8-wickets-series-win-rawalpindi-november-20-en.mp3",
-   "hi": {
-    "title": "पाकिस्तान ने श्रीलंका को आठ विकेट से हराकर दो साल में पहली टेस्ट सीरीज़ जीती",
-    "summary": "पाकिस्तान ने रावलपिंडी में चौथे दिन सुबह तेरह ओवर में नब्बे रन का लक्ष्य हासिल कर लिया। आमिर जमाल के बाईस गेंदों पर नाबाद चौंतीस रन की बदौलत आठ विकेट की जीत और एक शून्य से सीरीज़ पर कब्ज़ा, दो साल में मेज़बान टीम की पहली टेस्ट सीरीज़ जीत।"
-   },
-   "en": {
-    "title": "Pakistan beat Sri Lanka by eight wickets to seal first Test series win in two years",
-    "summary": "Pakistan chased down 90 in 13 overs on the fourth morning in Rawalpindi, with Aamer Jamal's unbeaten 34 off 22 balls sealing an eight-wicket win and a 1-0 series triumph, the hosts' first Test series victory in two years."
    }
   }
  ]
