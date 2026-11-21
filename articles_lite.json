@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T15:57:00+05:30",
+ "updatedAt": "2026-11-21T16:10:05+05:30",
  "articles": [
+  {
+   "id": "two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T16:10:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz-en.mp3",
+   "en": {
+    "title": "Two tankers hit by unknown projectiles off Oman's Khasab in the Strait of Hormuz",
+    "summary": "Two tankers sailing out of the Strait of Hormuz were struck by unidentified projectiles within 50 minutes of each other off Oman's Khasab coast on Saturday, the British maritime agency UKMTO said. No injuries were reported in either incident."
+   },
+   "hi": {
+    "title": "होरमुज़ जलसंधि से निकलते दो टैंकरों पर पचास मिनट के भीतर अज्ञात प्रक्षेपास्त्रों से हमला",
+    "summary": "ओमान के ख़सब तट के पास शनिवार सुबह होरमुज़ जलसंधि से बाहर निकल रहे दो टैंकरों पर पचास मिनट के भीतर अज्ञात प्रक्षेपास्त्र गिरे। ब्रिटिश समुद्री एजेंसी यूके एमटीओ ने कहा कि दोनों घटनाओं में कोई हताहत नहीं हुआ।"
+   }
+  },
   {
    "id": "raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21",
    "category": "Crime & Law",
@@ -1461,13 +1482,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in",
-    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday."
+    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday.",
+    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in"
    },
    "featured": false,
    "hi": {
-    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी",
-    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।"
+    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।",
+    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी"
    },
    "id": "congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20.jpg",
@@ -3195,27 +3216,6 @@
    },
    "district": "Sheopur",
    "state": "Madhya Pradesh"
-  },
-  {
-   "id": "rupee-past-93-per-dollar-first-time-since-april-november-20",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T12:21:18+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rupee-past-93-per-dollar-first-time-since-april-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rupee-past-93-per-dollar-first-time-since-april-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rupee-past-93-per-dollar-first-time-since-april-november-20-en.mp3",
-   "hi": {
-    "title": "रुपया अप्रैल के बाद पहली बार तिरानवे के नीचे, डॉलर के मुकाबले मज़बूत; विदेशी निवेश से तेज़ी",
-    "summary": "भारतीय रुपया शुक्रवार को डॉलर के मुकाबले तिरानवे के स्तर से मज़बूत हो गया है। अप्रैल के बाद यह पहली बार है जब रुपया तिरानवे से नीचे आया है। विदेशी निवेशकों की भारी खरीदारी और डॉलर के कमज़ोर पड़ने से लगातार पाँचवें सत्र में रुपये में बढ़त दर्ज हुई है।"
-   },
-   "en": {
-    "title": "Rupee strengthens past 93 per dollar for first time since April; foreign inflows drive rally",
-    "summary": "The Indian rupee strengthened past the 93-per-dollar mark for the first time since April on Friday, touching an intraday high of 92.9950. Strong foreign portfolio inflows and a retreating dollar drove the fifth straight session of gains for the currency."
-   }
   }
  ]
 }
