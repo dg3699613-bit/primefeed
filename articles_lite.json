@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T14:13:15+05:30",
+ "updatedAt": "2026-11-21T14:22:15+05:30",
  "articles": [
+  {
+   "id": "india-486-4-stumps-day-3-rahul-136-gill-98-wellington-november-21",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:22:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-486-4-stumps-day-3-rahul-136-gill-98-wellington-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-486-4-stumps-day-3-rahul-136-gill-98-wellington-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-486-4-stumps-day-3-rahul-136-gill-98-wellington-november-21-en.mp3",
+   "en": {
+    "title": "Rahul's 136, Gill's 98 put India 118 ahead at stumps on Day 3 in Wellington",
+    "summary": "KL Rahul's superb 136 and Shubman Gill's 98 carried India to 486/4 at stumps on Day 3 of the first Test against New Zealand in Wellington, giving the visitors a 118-run lead. Rahul became the first Indian opener to score a Test century in each of South Africa, England, New Zealand and Australia, while Rishabh Pant was unbeaten on 55."
+   },
+   "hi": {
+    "title": "राहुल के एक सौ छत्तीस और गिल के अट्ठानबे रन; वेलिंग्टन में तीसरे दिन भारत चार विकेट पर चार सौ छियासी, एक सौ अठारह रन आगे",
+    "summary": "केएल राहुल के शानदार एक सौ छत्तीस रन और शुभमन गिल के अट्ठानबे रन की बदौलत भारत ने वेलिंग्टन में न्यूज़ीलैंड के खिलाफ पहले टेस्ट के तीसरे दिन स्टंप्स तक चार विकेट पर चार सौ छियासी रन बना लिए और एक सौ अठारह रन की बढ़त ले ली। राहुल दक्षिण अफ्रीका, इंग्लैंड, न्यूज़ीलैंड और ऑस्ट्रेलिया, चारों देशों में टेस्ट शतक लगाने वाले भारत के पहले सलामी बल्लेबाज़ बने, जबकि ऋषभ पंत पचपन रन पर नाबाद हैं।"
+   }
+  },
+  {
+   "id": "pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:22:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21-en.mp3",
+   "en": {
+    "title": "PM Modi inaugurates Nitish Setu over the Ganga in Vaishali, launches projects worth Rs 34,470 crore",
+    "summary": "Prime Minister Narendra Modi on Saturday inaugurated Nitish Setu, the six-lane bridge over the Ganga in Bihar's Vaishali district, and launched development projects worth around Rs 34,470 crore. The 19.7 km bridge, built at a cost of around Rs 4,280 crore, connects Kachchi Dargah in Patna with Bidupur in Vaishali and is named after former chief minister Nitish Kumar."
+   },
+   "hi": {
+    "title": "प्रधानमंत्री मोदी ने वैशाली में गंगा पर बने नीतीश सेतु का उद्घाटन किया, चौंतीस हज़ार चार सौ सत्तर करोड़ रुपये की परियोजनाओं की सौगात",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को बिहार के वैशाली ज़िले में गंगा पर बने छह लेन वाले नीतीश सेतु का उद्घाटन किया और चौंतीस हज़ार चार सौ सत्तर करोड़ रुपये की विकास परियोजनाओं की सौगात दी। लगभग चार हज़ार दो सौ अस्सी करोड़ रुपये की लागत से बना उन्नीस दशमलव सात किलोमीटर लंबा यह सेतु पटना के कच्ची दरगाह को वैशाली के बिदुपुर से जोड़ता है और इसका नाम पूर्व मुख्यमंत्री नीतीश कुमार के नाम पर रखा गया है।"
+   },
+   "district": "Vaishali",
+   "state": "Bihar"
+  },
   {
    "id": "salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21",
    "category": "Entertainment",
@@ -3172,48 +3216,6 @@
    },
    "district": "Mumbai",
    "state": "Maharashtra"
-  },
-  {
-   "id": "india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:15:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-126-no-loss-jaiswal-fifty-rahul-wellington-test-november-20-en.mp3",
-   "en": {
-    "title": "Jaiswal's fifty powers India's reply as openers put on 126 without loss at Wellington",
-    "summary": "Yashasvi Jaiswal reached his fifty and KL Rahul was unbeaten on 42 as India reached 126 without loss in reply to New Zealand's 368 on day two of the first Test at the Basin Reserve in Wellington. Henry Nicholls had earlier carried his bat for 175."
-   },
-   "hi": {
-    "title": "जायसवाल के अर्धशतक से भारत की मज़बूत शुरुआत, वेलिंग्टन में बिना विकेट गँवाए एक सौ छब्बीस रन",
-    "summary": "यशस्वी जायसवाल के अर्धशतक और केएल राहुल के नाबाद बयालीस रन की बदौलत भारत ने वेलिंग्टन में पहले टेस्ट के दूसरे दिन न्यूज़ीलैंड के तीन सौ अड़सठ रन के जवाब में बिना कोई विकेट गँवाए एक सौ छब्बीस रन बना लिए। इससे पहले हेनरी निकोल्स एक सौ पचहत्तर रन बनाकर नाबाद रहे थे।"
-   }
-  },
-  {
-   "id": "nikhil-gupta-sentencing-today-new-york-pannun-court-november-20",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:15:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nikhil-gupta-sentencing-today-new-york-pannun-court-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentencing-today-new-york-pannun-court-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nikhil-gupta-sentencing-today-new-york-pannun-court-november-20-en.mp3",
-   "en": {
-    "title": "Nikhil Gupta to be sentenced today in New York in Pannun murder plot; Pannun to attend hearing",
-    "summary": "Indian national Nikhil Gupta is scheduled to be sentenced in New York on Friday in the alleged 2023 plot to assassinate Khalistani separatist Gurpatwant Singh Pannun. Prosecutors have sought about 24 years in prison, while his lawyers have asked for 12 years."
-   },
-   "hi": {
-    "title": "पन्नून हत्या साज़िश मामले में निखिल गुप्ता को आज न्यूयॉर्क में सुनाई जाएगी सज़ा, पन्नून भी रहेंगे अदालत में",
-    "summary": "भारतीय नागरिक निखिल गुप्ता को खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून की हत्या की साज़िश के मामले में आज न्यूयॉर्क की अदालत में सज़ा सुनाई जाएगी। अभियोजन ने लगभग चौबीस साल की सज़ा माँगी है, जबकि गुप्ता के वकीलों ने बारह साल की सज़ा की गुहार लगाई है।"
-   }
   }
  ]
 }
