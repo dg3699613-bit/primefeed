@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-21T19:27:13+05:30",
+ "updatedAt": "2026-11-21T19:53:07+05:30",
  "articles": [
+  {
+   "id": "cbi-recovers-1-86-crore-cash-gold-cgst-superintendent-home-panchkula-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T19:53:07+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cbi-recovers-1-86-crore-cash-gold-cgst-superintendent-home-panchkula-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-recovers-1-86-crore-cash-gold-cgst-superintendent-home-panchkula-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-recovers-1-86-crore-cash-gold-cgst-superintendent-home-panchkula-november-21-en.mp3",
+   "district": "Panchkula",
+   "state": "Haryana",
+   "hi": {
+    "title": "सीबीआई ने गिरफ़्तार सीजीएसटी अधिकारी के पंचकूला स्थित घर से एक करोड़ छियासी लाख रुपये की नकदी, सोना और चाँदी बरामद की",
+    "summary": "केंद्रीय अन्वेषण ब्यूरो ने उन्नीस नवंबर को दस लाख रुपये की रिश्वत लेते हुए गिरफ़्तार किए गए सीजीएसटी अधीक्षक के पंचकूला स्थित घर से करीब एक करोड़ छियासी लाख रुपये की नकदी, विदेशी मुद्रा, सोना और चाँदी बरामद की है। बीस नवंबर की तलाशी में चौबीस लाख उनतीस हज़ार रुपये की भारतीय मुद्रा, करीब पंद्रह लाख पैंसठ हज़ार रुपये की विदेशी मुद्रा और करीब एक करोड़ छियालीस लाख रुपये का सोना-चाँदी मिला, साथ ही छह बैंक खातों, निवेश और संपत्तियों के काग़ज़ात भी मिले।"
+   },
+   "en": {
+    "title": "CBI recovers Rs 1.86 crore in cash, gold and silver from arrested CGST officer's Panchkula home",
+    "summary": "The Central Bureau of Investigation has recovered cash, foreign currency, gold and silver worth about Rs 1.86 crore from the Panchkula home of a CGST superintendent arrested on November 19 for allegedly accepting a Rs 10 lakh bribe. Searches on November 20 found Indian currency of Rs 24.29 lakh, foreign currency worth about Rs 15.65 lakh, and gold and silver worth about Rs 1.46 crore, along with documents of six bank accounts, investments and properties."
+   }
+  },
+  {
+   "id": "google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21",
+   "category": "Technology",
+   "sub": "AI",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T19:53:07+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21-en.mp3",
+   "district": "Paschim Medinipur",
+   "state": "West Bengal",
+   "hi": {
+    "title": "गूगल ने आईआईटी खड़गपुर को उन्नत कृत्रिम बुद्धिमत्ता अनुसंधान के लिए पचास लाख डॉलर दिए; भारतीय भाषाओं, कृषि और शिक्षा पर ध्यान",
+    "summary": "गूगल आईआईटी खड़गपुर को उन्नत कृत्रिम बुद्धिमत्ता अनुसंधान को विकसित करने और तेज़ करने के लिए पचास लाख डॉलर, करीब छियालीस करोड़ रुपये, देगा, कंपनी ने शनिवार को घोषणा की। यह घोषणा ऐसे समय हुई है जब संस्थान अपनी पचहत्तरवीं वर्षगाँठ मना रहा है। सहायता तीन क्षेत्रों, उन्नत कृत्रिम बुद्धिमत्ता अनुसंधान, शैक्षिक अवसर और कृत्रिम बुद्धिमत्ता क्षमता निर्माण, के लिए होगी, जिसमें भारतीय भाषाओं, पदार्थ विज्ञान, कृषि और शैक्षिक प्रौद्योगिकी में अनुसंधान शामिल है।"
+   },
+   "en": {
+    "title": "Google gives USD 5 million to IIT Kharagpur for advanced AI research; focus on Indic languages, agriculture, education",
+    "summary": "Google will provide IIT Kharagpur with USD 5 million, about Rs 46 crore, to develop and accelerate advanced artificial intelligence research, the company announced on Saturday, as the institute marks its 75th anniversary. The funding covers three areas, advanced AI research, educational opportunities and AI capacity building, with research in Indic languages, materials science, agriculture and educational technology."
+   }
+  },
   {
    "id": "bhosari-fire-four-units-house-gutted-pune-november-21",
    "category": "State & Local",
@@ -3185,50 +3231,6 @@
    "en": {
     "title": "UN rights chief Volker Turk calls for Imran Khan's immediate release over health and jail conditions",
     "summary": "United Nations High Commissioner for Human Rights Volker Turk has called for the immediate release of former Pakistan Prime Minister Imran Khan, raising concern over his reported deteriorating health and detention conditions. In an interview with CNN's Christiane Amanpour, Turk said Khan's release could help build confidence between the government and the opposition."
-   }
-  },
-  {
-   "id": "sc-allows-karthigai-deepam-lamp-deepathoon-thirupparankundram-november-24",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T16:20:30+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-allows-karthigai-deepam-lamp-deepathoon-thirupparankundram-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-allows-karthigai-deepam-lamp-deepathoon-thirupparankundram-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-allows-karthigai-deepam-lamp-deepathoon-thirupparankundram-november-24-en.mp3",
-   "hi": {
-    "title": "कार्तिगई दीपम पर सुप्रीम कोर्ट की हरी झंडी, तिरुप्परंकुंद्रम पहाड़ी पर चौबीस नवंबर को जलेगा दीप, मगर सिर्फ़ एक बार के लिए",
-    "summary": "सुप्रीम कोर्ट ने शुक्रवार को मदुरै की तिरुप्परंकुंद्रम पहाड़ी पर दीपथून पत्थर के खंभे पर कार्तिगई दीपम का दीप जलाने की अनुमति दे दी है। यह अनुमति चौबीस नवंबर के लिए सीमित और एक बार की व्यवस्था के तौर पर दी गई है, और साथ ही मद्रास हाई कोर्ट के छह जनवरी के फैसले के निष्कर्षों पर रोक लगा दी गई है।"
-   },
-   "en": {
-    "title": "Supreme Court allows one-time Karthigai Deepam lamp lighting at Thirupparankundram hill on November 24",
-    "summary": "The Supreme Court on Friday allowed the lighting of the Karthigai Deepam lamp at the Deepathoon stone pillar atop Thirupparankundram hill in Madurai on November 24, as a limited one-time arrangement, while staying the Madras High Court's January 6 judgment that had upheld the practice."
-   }
-  },
-  {
-   "id": "taiwan-flags-2700-china-linked-accounts-meta-threads-election-november-20",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T16:20:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/taiwan-flags-2700-china-linked-accounts-meta-threads-election-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/taiwan-flags-2700-china-linked-accounts-meta-threads-election-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/taiwan-flags-2700-china-linked-accounts-meta-threads-election-november-20-en.mp3",
-   "hi": {
-    "title": "ताइवान ने मेटा को दी चीन से जुड़े लगभग दो हज़ार सात सौ खातों की जानकारी, चुनावों को प्रभावित करने की साज़िश का आरोप",
-    "summary": "ताइवान ने मेटा को लगभग दो हज़ार सात सौ सोशल मीडिया खातों की जानकारी दी है, जिनके बारे में उसका कहना है कि वे चीन के सूचना युद्ध अभियान का हिस्सा हैं और अट्ठाईस नवंबर को होने वाले स्थानीय चुनावों को प्रभावित करना चाहते हैं। ज़्यादातर खाते थ्रेड्स पर थे, और मेटा ने कहा है कि उसने उन्हें हटा दिया है।"
-   },
-   "en": {
-    "title": "Taiwan flags nearly 2,700 China-linked accounts to Meta over alleged election influence campaign",
-    "summary": "Taiwan has flagged nearly 2,700 social media accounts to Meta that it says are part of a Chinese information warfare campaign seeking to influence local elections on November 28. Most of the accounts were on Threads, and Meta said it had removed them."
    }
   }
  ]
