@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T22:19:23+05:30",
+ "updatedAt": "2026-11-21T22:46:33+05:30",
  "articles": [
+  {
+   "id": "us-panel-china-backed-pakistan-operation-sindoor-suppress-india-rise-november-21",
+   "category": "World",
+   "sub": "China",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T22:46:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-panel-china-backed-pakistan-operation-sindoor-suppress-india-rise-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-panel-china-backed-pakistan-operation-sindoor-suppress-india-rise-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-panel-china-backed-pakistan-operation-sindoor-suppress-india-rise-november-21-en.mp3",
+   "hi": {
+    "title": "ऑपरेशन सिंदूर में चीन ने पाकिस्तान की मदद की, भारत के उदय को रोकना मकसद: अमेरिकी संसदीय आयोग",
+    "summary": "अमेरिकी कांग्रेस को सौंपी गई अपनी वार्षिक रिपोर्ट में अमेरिका-चीन आर्थिक और सुरक्षा समीक्षा आयोग ने कहा है कि मई दो हज़ार पच्चीस में ऑपरेशन सिंदूर के दौरान चीन की पाकिस्तान को दी गई सैन्य मदद भारत के उदय को रोकने की व्यापक रणनीति का हिस्सा थी। रिपोर्ट के मुताबिक बीजिंग ने पाकिस्तान को हथियार और ज़मीनी तकनीकी मदद दी, सीमा और हिंद महासागर में दबाव बनाया और अहम सामानों पर रोक लगाई; साथ ही आयोग ने वाशिंगटन से नई दिल्ली के साथ रक्षा सहयोग बढ़ाने को कहा है।"
+   },
+   "en": {
+    "title": "China backed Pakistan during Operation Sindoor to hold back India's rise, says US congressional panel",
+    "summary": "A US congressional commission has said China's military support for Pakistan during Operation Sindoor in May 2025 was part of a wider strategy to suppress India's rise across military, economic and diplomatic fronts. In its 2026 annual report to Congress, the US-China Economic and Security Review Commission says Beijing supplied Pakistan with arms and on-ground technical help, pressed India along the border and in the Indian Ocean, and used curbs on critical supplies — while urging Washington to deepen defence cooperation with New Delhi."
+   }
+  },
+  {
+   "id": "us-court-summonses-doval-goel-pannun-case-november-21",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T22:46:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-court-summonses-doval-goel-pannun-case-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-summonses-doval-goel-pannun-case-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-summonses-doval-goel-pannun-case-november-21-en.mp3",
+   "hi": {
+    "title": "पन्नून मामले में अमेरिकी अदालत ने डोभाल और पूर्व रॉ प्रमुख गोयल को समन भेजा",
+    "summary": "अमेरिका की एक अदालत ने खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून के मामले में राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और पूर्व रॉ प्रमुख सामंत गोयल को समन भेजे हैं। न्यूयॉर्क के दक्षिणी ज़िला न्यायालय के क्लर्क ने बताया कि समन शुक्रवार को फ़ेडएक्स से दिल्ली की तीन ज़िला अदालतों को भेजे गए; यह तेरह नवंबर के आदेश के तहत हेग कन्वेंशन का हवाला देते हुए किया गया। भारत ने मुकदमे को मनगढ़ंत और दुर्भावनापूर्ण बताकर खारिज किया है।"
+   },
+   "en": {
+    "title": "US court sends summonses to NSA Ajit Doval and ex-RAW chief Samant Goel in Pannun case",
+    "summary": "A US court has dispatched summonses to National Security Adviser Ajit Doval and former RAW chief Samant Goel in the civil case filed by Khalistani separatist Gurpatwant Singh Pannun. The clerk of the Southern District Court of New York said the summonses were sent by FedEx to three Delhi district courts on Friday, under a November 13 order citing the Hague Convention; India has rejected the lawsuit as fabricated and malicious."
+   }
+  },
   {
    "id": "dri-seizes-2-98-kg-gold-worth-3-83-crore-hyderabad-november-21",
    "category": "Crime & Law",
@@ -3195,48 +3237,6 @@
    "en": {
     "title": "Adani Group sends legal notice to Mahua Moitra over 'defamatory' post carrying PM Modi caricature",
     "summary": "The Adani Group has served a legal notice on Trinamool Congress MP Mahua Moitra over a post on X carrying a caricature of Prime Minister Narendra Modi and chairman Gautam Adani, asking her to delete it within 24 hours. Moitra hit back on social media, saying the group did not like the cartoon."
-   }
-  },
-  {
-   "id": "china-2-billion-dollar-bond-72-billion-orders-36-times-oversubscribed-november-20",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T17:59:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-2-billion-dollar-bond-72-billion-orders-36-times-oversubscribed-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-2-billion-dollar-bond-72-billion-orders-36-times-oversubscribed-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-2-billion-dollar-bond-72-billion-orders-36-times-oversubscribed-november-20-en.mp3",
-   "hi": {
-    "title": "चीन के दो अरब डॉलर के बॉन्ड पर बहत्तर अरब डॉलर से ज़्यादा के ऑर्डर, अमेरिकी ट्रेजरी के बराबर भाव पर बिका",
-    "summary": "हॉन्ग कॉन्ग में चीन के दो अरब डॉलर के तीन साल के बॉन्ड के लिए बहत्तर अरब डॉलर से ज़्यादा के ऑर्डर आए — जितना बेचा गया, उससे छत्तीस गुना ज़्यादा। सौदा अमेरिकी ट्रेजरी के बराबर भाव पर हुआ। केंद्रीय बैंकों और सॉवरेन वेल्थ फंड को सौदे का उनसठ प्रतिशत मिला।"
-   },
-   "en": {
-    "title": "China's $2bn bond draws $72bn of orders — 36 times oversubscribed, priced level with US Treasuries",
-    "summary": "China's 2 billion dollar three-year sovereign bond sale in Hong Kong drew more than 72 billion dollars of orders, 36 times the amount on offer, pricing in line with US Treasuries with no premium at all. Central banks and sovereign wealth funds took 59 percent of the deal."
-   }
-  },
-  {
-   "id": "forex-reserves-fall-14-billion-705-billion-november-20",
-   "category": "Business",
-   "sub": "Banking & Finance",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T17:41:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/forex-reserves-fall-14-billion-705-billion-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/forex-reserves-fall-14-billion-705-billion-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/forex-reserves-fall-14-billion-705-billion-november-20-en.mp3",
-   "hi": {
-    "title": "विदेशी मुद्रा भंडार १४.२०५ अरब डॉलर घटकर ७०५.३४२ अरब डॉलर पर, करीब तीन महीने का सबसे निचला स्तर",
-    "summary": "भारत का विदेशी मुद्रा भंडार १३ नवंबर को समाप्त सप्ताह में १४.२०५ अरब डॉलर घटकर ७०५.३४२ अरब डॉलर रह गया, जो करीब तीन महीने का सबसे निचला स्तर है। विदेशी मुद्रा परिसंपत्तियों और सोने के मूल्य में गिरावट इसकी सबसे बड़ी वजह रही।"
-   },
-   "en": {
-    "title": "India's forex reserves fall over $14 billion to $705.34 billion, lowest in about three months",
-    "summary": "India's foreign exchange reserves fell by $14.205 billion to $705.342 billion in the week ended November 13, their lowest in about three months, RBI data showed on Friday. The fall was led by foreign currency assets and gold holdings."
    }
   }
  ]
