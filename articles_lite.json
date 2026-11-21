@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T18:40:11+05:30",
+ "updatedAt": "2026-11-21T18:57:57+05:30",
  "articles": [
+  {
+   "id": "owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T18:57:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21-en.mp3",
+   "district": "Saharanpur",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "सुप्रीम कोर्ट के जज समझकर पुलिस ने ओवैसी को दे दी गार्ड ऑफ ऑनर, जाँच के आदेश",
+    "summary": "शनिवार को सहारनपुर में पुलिस ने गलती से एआईएमआईएम प्रमुख असदुद्दीन ओवैसी को सर्किट हाउस में आने वाले सुप्रीम कोर्ट के जज के लिए रखी गई औपचारिक गार्ड ऑफ ऑनर दे दी। जवानों ने उनके काफिले को जज का काफिला समझ लिया था; गड़बड़ी का वीडियो वायरल हो गया और वरिष्ठ पुलिस अधीक्षक ने जाँच के आदेश दिए हैं।"
+   },
+   "en": {
+    "title": "Mistaken for a Supreme Court judge, Owaisi gets a guard of honour in Saharanpur; police order probe",
+    "summary": "Police in Saharanpur on Saturday mistakenly gave AIMIM chief Asaduddin Owaisi the ceremonial guard of honour arranged for a visiting Supreme Court judge at the Circuit House. The personnel had mistaken his convoy for the judge's entourage; a video of the mix-up went viral and the Senior Superintendent of Police has ordered an inquiry."
+   }
+  },
+  {
+   "id": "cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T18:57:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21-en.mp3",
+   "hi": {
+    "title": "किसी छात्र को मशीन की बात पर दोषी न ठहराया जाए: एआई डिटेक्टरों पर सीजेआई सूर्यकांत की चेतावनी",
+    "summary": "भारत के मुख्य न्यायाधीश सूर्यकांत ने शनिवार को लॉ स्कूलों को चेतावनी दी कि वे एआई से लिखावट पहचानने वाले सॉफ्टवेयर को नकल का सबूत न मानें — किसी छात्र को सिर्फ मशीन की बात पर कदाचार का दोषी नहीं ठहराया जाना चाहिए। उन्होंने एआई औज़ारों पर पूरी रोक का विरोध किया, कानूनी शोध में एआई की मदद के खुलासे के लिए आदर्श दिशा-निर्देश बनाने का आग्रह किया और लॉ छात्रों के स्नातक होने के लिए कानूनी सहायता कार्य अनिवार्य करने का सुझाव दिया।"
+   },
+   "en": {
+    "title": "No student should be held guilty on the word of a machine alone: CJI Surya Kant warns law schools over AI detectors",
+    "summary": "Chief Justice of India Surya Kant on Saturday warned law schools against treating AI detection software as proof of cheating, saying no student should be held guilty of misconduct on the word of a machine alone. He opposed a blanket ban on AI tools, urged model guidelines on disclosing AI help in legal research, and proposed compulsory legal aid work for law students to graduate."
+   }
+  },
   {
    "id": "pune-pmc-medical-college-recruitment-scam-11-doctors-10-lakh-november-21",
    "category": "Crime & Law",
@@ -3181,48 +3225,6 @@
    "en": {
     "title": "Iraqi forces roll into Kataib Hezbollah stronghold Jurf al-Sakhar after a decade out of reach",
     "summary": "Iraqi security forces moved into Jurf al-Sakhar on Friday under a compromise deal with Kataib Hezbollah, reasserting state control over a district about 60 km south-west of Baghdad that has been closed to the government for more than a decade."
-   }
-  },
-  {
-   "id": "siraj-omission-row-imran-masood-religion-remark-bjp-november-20",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T15:44:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/siraj-omission-row-imran-masood-religion-remark-bjp-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/siraj-omission-row-imran-masood-religion-remark-bjp-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/siraj-omission-row-imran-masood-religion-remark-bjp-november-20-en.mp3",
-   "hi": {
-    "title": "'नाम सिराज है इसलिए जगह नहीं मिली': कांग्रेस सांसद के बयान पर सियासी बवाल, बीजेपी का पलटवार",
-    "summary": "कांग्रेस सांसद इमरान मसूद ने आरोप लगाया कि मोहम्मद सिराज को न्यूज़ीलैंड के ख़िलाफ़ पहले टेस्ट की प्लेइंग इलेवन से उनके धर्म की वजह से बाहर रखा गया। बीजेपी ने कांग्रेस पर क्रिकेट के चयन को सांप्रदायिक रंग देने का आरोप लगाते हुए पलटवार किया।"
-   },
-   "en": {
-    "title": "'His name is Siraj': Congress MP's religion remark over pacer's omission sparks row, BJP hits back",
-    "summary": "Congress MP Imran Masood alleged that Mohammed Siraj was left out of India's playing XI for the first Test against New Zealand because of his religion, triggering a sharp political exchange with the BJP, which accused the Congress of communalising cricket selection."
-   }
-  },
-  {
-   "id": "congress-rattled-pm-ficci-remarks-jairam-ramesh-november-20",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T15:30:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-rattled-pm-ficci-remarks-jairam-ramesh-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-rattled-pm-ficci-remarks-jairam-ramesh-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-rattled-pm-ficci-remarks-jairam-ramesh-november-20-en.mp3",
-   "hi": {
-    "title": "फिक्की भाषण पर कांग्रेस का पलटवार: 'घबराए हुए प्रधानमंत्री अब उद्योगपतियों को दोष दे रहे हैं'",
-    "summary": "नई दिल्ली में कांग्रेस महासचिव जयराम रमेश ने कहा कि प्रधानमंत्री नरेंद्र मोदी फिक्की में उद्योगपतियों को फटकार लगाकर अपनी सरकार की आर्थिक नाकामियों से ध्यान भटका रहे हैं। उन्होंने कहा कि मोदी ने वही बातें दोहराईं जो कांग्रेस दो हज़ार चौबीस के 'न्याय पत्र' में कह चुकी थी।"
-   },
-   "en": {
-    "title": "Congress hits back at PM over FICCI remarks: 'Rattled PM now blames industry, will soon be outgoing PM'",
-    "summary": "At a press conference in New Delhi, Congress general secretary Jairam Ramesh said Prime Minister Narendra Modi's sharp words for industry at FICCI showed a 'rattled' leader deflecting attention from his government's economic failures — and repeating what the Congress manifesto had said in 2024."
    }
   }
  ]
