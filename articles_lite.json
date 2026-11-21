@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-22T00:16:54+05:30",
+ "updatedAt": "2026-11-22T00:38:30+05:30",
  "articles": [
+  {
+   "id": "hubballi-court-convicts-girish-sawant-anjali-ambiger-murder-case-november-21",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T00:38:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hubballi-court-convicts-girish-sawant-anjali-ambiger-murder-case-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hubballi-court-convicts-girish-sawant-anjali-ambiger-murder-case-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hubballi-court-convicts-girish-sawant-anjali-ambiger-murder-case-november-21-en.mp3",
+   "district": "Dharwad",
+   "state": "Karnataka",
+   "hi": {
+    "title": "अंजलि अंबिगेर हत्याकांड: हुबली कोर्ट ने गिरीश सावंत को दोषी ठहराया, सज़ा पर फैसला पच्चीस नवंबर को",
+    "summary": "हुबली की प्रथम अतिरिक्त ज़िला एवं सत्र अदालत ने शनिवार को मई दो हज़ार चौबीस में बीस वर्षीय अंजलि अंबिगेर की हत्या के मामले में गिरीश सावंत उर्फ़ विश्वा को दोषी ठहराया है। अदालत ने उसे घर में घुसने, हत्या और सबूत मिटाने की धाराओं में दोषी पाया है, और सज़ा की मात्रा पर सुनवाई पच्चीस नवंबर को होगी। सीआईडी ने मामले में चार सौ चौरानवे पन्नों का आरोपपत्र दाखिल किया था।"
+   },
+   "en": {
+    "title": "Hubballi court convicts Girish Sawant in Anjali Ambiger murder case; sentence on November 25",
+    "summary": "The First Additional District and Sessions Court in Hubballi on Saturday convicted Girish Sawant, alias Vishwa, in the May 2024 murder of 20-year-old Anjali Ambiger, a case that had triggered outrage across Karnataka. The court convicted him of house trespass, murder and causing the disappearance of evidence, and will hear arguments on the sentence on November 25. The CID had filed a 494-page chargesheet in the case."
+   }
+  },
+  {
+   "id": "delhi-raghubir-nagar-house-fire-woman-dies-daughter-in-law-injured-november-21",
+   "category": "State & Local",
+   "sub": "Delhi",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T00:38:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-raghubir-nagar-house-fire-woman-dies-daughter-in-law-injured-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-raghubir-nagar-house-fire-woman-dies-daughter-in-law-injured-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-raghubir-nagar-house-fire-woman-dies-daughter-in-law-injured-november-21-en.mp3",
+   "district": "West Delhi",
+   "state": "Delhi",
+   "hi": {
+    "title": "दिल्ली के रघुबीर नगर में मकान में आग, महिला की मौत, बहू गंभीर रूप से झुलसी",
+    "summary": "शनिवार दोपहर पश्चिम दिल्ली के रघुबीर नगर में एक मकान में आग लगने से एक महिला की मौत हो गई और उनकी बहू गंभीर रूप से झुलस गई। आग दोपहर करीब बारह बजकर पाँच मिनट पर पहली मंज़िल में घरेलू सामान में लगी थी और बारह बजकर पच्चीस मिनट तक उस पर काबू पा लिया गया। मृतक महिला की पहचान सुनीता के रूप में हुई है; साठ प्रतिशत झुलसी बहू नीति को सफ़दरजंग अस्पताल भेजा गया है। आग लगने का कारण अभी पता नहीं चला है।"
+   },
+   "en": {
+    "title": "Woman dies, daughter-in-law seriously hurt in Raghubir Nagar house fire in Delhi",
+    "summary": "A woman died and her daughter-in-law suffered serious burn injuries after a fire broke out in a house in west Delhi's Raghubir Nagar on Saturday afternoon. The fire started among household articles on the first floor at about 12:05 pm and was brought under control by 12:25 pm. The dead woman was identified as Sunita; her daughter-in-law Neeti, who suffered 60 per cent burns, was referred to Safdarjung Hospital. The cause of the fire is yet to be ascertained."
+   }
+  },
   {
    "id": "mexico-captures-el-chapo-isidro-fbi-most-wanted-sinaloa-november-21",
    "category": "World",
@@ -3197,52 +3243,6 @@
    "en": {
     "title": "Nepal PM Balendra Shah on two-day India visit from November 22, talks with PM Modi and energy project inaugurations on agenda",
     "summary": "Nepal Prime Minister Balendra Shah will visit India from November 22 to 23, his first bilateral visit since taking office in March. Delegation-level talks with PM Modi are scheduled for November 23, followed by the inauguration of energy projects and the signing of several agreements."
-   }
-  },
-  {
-   "id": "mangaluru-medical-student-abducted-kanachur-college-campus-november-20",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "district": "Dakshina Kannada",
-   "state": "Karnataka",
-   "publishedAt": "2026-11-20T20:00:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mangaluru-medical-student-abducted-kanachur-college-campus-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mangaluru-medical-student-abducted-kanachur-college-campus-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mangaluru-medical-student-abducted-kanachur-college-campus-november-20-en.mp3",
-   "hi": {
-    "title": "कनाचूर मेडिकल कॉलेज से छात्रा को कथित तौर पर अगवा किया गया, थार में ले जाने का वीडियो वायरल; पुलिस ने केस दर्ज कर तलाश शुरू की",
-    "summary": "मंगलुरु के कनाचूर मेडिकल कॉलेज परिसर से गुरुवार शाम एक मेडिकल छात्रा को कथित तौर पर ज़बरदस्ती ले जाया गया। सोशल मीडिया पर वायरल वीडियो में कुछ लोग उसे घसीटकर थार एसयूवी में ले जाते दिख रहे हैं। पुलिस ने मामला दर्ज कर छात्रा की तलाश शुरू कर दी है।"
-   },
-   "en": {
-    "title": "Mangaluru medical student allegedly abducted from college campus, dragged into Thar in viral video; police register case",
-    "summary": "A medical student was allegedly taken away by force from the campus of Kanachur Medical College in Mangaluru on Thursday evening. A video circulating on social media shows a group of people dragging her towards a Thar SUV and driving away. Police have registered a case and begun tracing her."
-   }
-  },
-  {
-   "id": "delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "district": "New Delhi",
-   "state": "Delhi",
-   "publishedAt": "2026-11-20T20:00:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-influencer-neha-bisht-fan-abhinav-beaten-death-november-20-en.mp3",
-   "hi": {
-    "title": "दिल्ली: शादी का प्रस्ताव लेकर घर में घुसे चेन्नई के युवक की पिटाई से मौत, इन्फ्लुएंसर के पिता और पड़ोसी गिरफ़्तार",
-    "summary": "चेन्नई के अट्ठाईस साल के एक आईटी पेशेवर ने दिल्ली की इन्फ्लुएंसर नेहा बिष्ट के घर में घुसकर उनसे शादी की माँग की थी। परिवार और पड़ोसियों की कथित पिटाई के बाद इलाज के दौरान करीब एक हफ्ते बाद उनकी मौत हो गई। नेहा के पिता और एक पड़ोसी गिरफ़्तार किए गए हैं।"
-   },
-   "en": {
-    "title": "Delhi influencer's father, neighbour arrested after Chennai man who barged in demanding marriage dies after beating",
-    "summary": "A 28-year-old IT professional from Chennai entered Delhi influencer Neha Bisht's home demanding that she marry him. He died in hospital about a week after he was allegedly beaten by her family members and neighbours. Her father and a neighbour have been arrested."
    }
   }
  ]
