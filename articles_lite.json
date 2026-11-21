@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-21T19:53:07+05:30",
+ "updatedAt": "2026-11-21T20:11:20+05:30",
  "articles": [
+  {
+   "id": "sant-kabir-nagar-bike-parked-truck-three-youths-killed-november-21",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-21T20:11:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sant-kabir-nagar-bike-parked-truck-three-youths-killed-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sant-kabir-nagar-bike-parked-truck-three-youths-killed-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sant-kabir-nagar-bike-parked-truck-three-youths-killed-november-21-en.mp3",
+   "district": "Sant Kabir Nagar",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "संत कबीर नगर में बारात से लौट रहे तीन युवकों की मौत, खड़े ट्रक से टकराई बाइक",
+    "summary": "शनिवार तड़के संत कबीर नगर जिले के तेलियागंज गाँव के पास रामजानकी मार्ग पर सड़क किनारे खड़े ट्रक से बाइक टकरा गई, जिससे उस पर सवार तीन युवकों की मौके पर ही मौत हो गई। तीनों धनघटा क्षेत्र के पारा हरगोविंद गाँव के रहने वाले थे और बस्ती जिले में एक शादी समारोह से घर लौट रहे थे। पुलिस ने बताया कि ट्रक में पार्किंग लाइट या रिफ्लेक्टर नहीं लगे थे, शवों को पोस्टमार्टम के लिए भेज दिया गया है और अज्ञात ट्रक चालक के खिलाफ मामला दर्ज किया गया है।"
+   },
+   "en": {
+    "title": "Three youths returning from a wedding killed as bike rams into parked truck in Sant Kabir Nagar",
+    "summary": "Three youths were killed on the spot in the early hours of Saturday when the motorcycle they were riding rammed into a truck parked on the roadside on the Ram Janki Marg near Teliyaganj village in Sant Kabir Nagar district. The three, all from Para Hargovind village in the Dhanghata area, were returning home from a wedding in Basti district. Police said the truck had no parking lights or reflectors, sent the bodies for post-mortem, and registered a case against the unidentified truck driver."
+   }
+  },
+  {
+   "id": "hafeezpet-paint-shop-fire-second-incident-hyderabad-november-21",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-21T20:11:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hafeezpet-paint-shop-fire-second-incident-hyderabad-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hafeezpet-paint-shop-fire-second-incident-hyderabad-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hafeezpet-paint-shop-fire-second-incident-hyderabad-november-21-en.mp3",
+   "district": "Hyderabad",
+   "state": "Telangana",
+   "hi": {
+    "title": "हैदराबाद के हफीजपेट में पेंट की दुकान में आग, पखवाड़े में दूसरी घटना; कोई हताहत नहीं",
+    "summary": "शनिवार को हैदराबाद के न्यू हफीजपेट में आदित्य नगर में नसीब होटल के पास एक इमारत की पहली मंज़िल पर स्थित पेंट की दुकान में आग लग गई, जिसमें दुकान जल गई और आग ऊपर की मंज़िल तक फैल गई। दो दमकल गाड़ियों और दो पानी के टैंकरों ने आग पर काबू पा लिया। कोई घायल नहीं हुआ, लेकिन दुकान को भारी नुकसान हुआ। इलाके में करीब पखवाड़े भर में यह पेंट की दुकान में लगी दूसरी आग है, और लोगों ने ज्वलनशील सामान रखने वाली दुकानों की अग्नि सुरक्षा पर सवाल उठाए हैं।"
+   },
+   "en": {
+    "title": "Paint shop gutted in Hyderabad's Hafeezpet, second such fire in the area in a fortnight; no one hurt",
+    "summary": "A fire broke out at a paint shop on the first floor of a building near Naseeb Hotel in Aditya Nagar, New Hafeezpet, on Saturday, gutting the shop and spreading to the floor above. Two fire engines and two water tankers brought the blaze under control. No one was injured, but the shop suffered major property damage. It is the second paint shop fire in the locality in about a fortnight, and residents have raised concerns about fire safety at shops storing flammable material."
+   }
+  },
   {
    "id": "cbi-recovers-1-86-crore-cash-gold-cgst-superintendent-home-panchkula-november-21",
    "category": "Crime & Law",
@@ -3189,48 +3235,6 @@
    "en": {
     "title": "Yogi cancels Gonda visit after mother's death, flies to Pauri Garhwal for last rites",
     "summary": "Uttar Pradesh Chief Minister Yogi Adityanath cancelled his visit to Gonda on Friday after his mother Savitri Devi died at 91 in her ancestral village in Uttarakhand. He completed his engagements in Gorakhpur and flew to Pauri Garhwal in the afternoon; the last rites are expected on Saturday."
-   }
-  },
-  {
-   "id": "saudi-coalition-intercepts-houthi-missile-five-drones-southern-region-november-20",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T16:34:55+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saudi-coalition-intercepts-houthi-missile-five-drones-southern-region-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saudi-coalition-intercepts-houthi-missile-five-drones-southern-region-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saudi-coalition-intercepts-houthi-missile-five-drones-southern-region-november-20-en.mp3",
-   "hi": {
-    "title": "सऊदी गठबंधन ने हूती मिसाइल और पाँच ड्रोन मार गिराए, जाज़ान और आभा में अलर्ट जारी",
-    "summary": "सऊदी अरब के नेतृत्व वाले गठबंधन ने शुक्रवार को यमन के हूती विद्रोहियों की ओर से दागी गई एक बैलिस्टिक मिसाइल और पाँच ड्रोन को मार गिराया। नागरिक सुरक्षा विभाग ने जाज़ान शहर और असीर क्षेत्र के आभा तथा ख़मीस मुशैत में शुरुआती चेतावनी जारी की।"
-   },
-   "en": {
-    "title": "Saudi-led coalition intercepts Houthi ballistic missile and five drones over southern region",
-    "summary": "The Saudi-led coalition said on Friday that its air defences intercepted and destroyed a ballistic missile launched by Yemen's Houthi movement toward the southern region, along with five drones. Civil Defense issued early-warning alerts in Jazan city and in Abha and Khamis Mushait in the Asir region."
-   }
-  },
-  {
-   "id": "un-rights-chief-volker-turk-calls-imran-khan-immediate-release-november-20",
-   "category": "World",
-   "sub": "Pakistan",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T16:34:55+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/un-rights-chief-volker-turk-calls-imran-khan-immediate-release-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/un-rights-chief-volker-turk-calls-imran-khan-immediate-release-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/un-rights-chief-volker-turk-calls-imran-khan-immediate-release-november-20-en.mp3",
-   "hi": {
-    "title": "संयुक्त राष्ट्र के मानवाधिकार प्रमुख ने इमरान ख़ान की तुरंत रिहाई की माँग की, जेल में सेहत को लेकर चिंता जताई",
-    "summary": "संयुक्त राष्ट्र के मानवाधिकार प्रमुख वोल्कर तुर्क ने पाकिस्तान के पूर्व प्रधानमंत्री इमरान ख़ान की तुरंत रिहाई की माँग की है। सीएनएन पर क्रिस्टियन अमानपूर को दिए साक्षात्कार में तुर्क ने ख़ान की सेहत और अदियाला जेल में उनकी हिरासत की हालत पर गंभीर चिंता जताई।"
-   },
-   "en": {
-    "title": "UN rights chief Volker Turk calls for Imran Khan's immediate release over health and jail conditions",
-    "summary": "United Nations High Commissioner for Human Rights Volker Turk has called for the immediate release of former Pakistan Prime Minister Imran Khan, raising concern over his reported deteriorating health and detention conditions. In an interview with CNN's Christiane Amanpour, Turk said Khan's release could help build confidence between the government and the opposition."
    }
   }
  ]
