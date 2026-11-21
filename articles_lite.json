@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-21T13:47:11+05:30",
+ "updatedAt": "2026-11-21T14:13:15+05:30",
  "articles": [
+  {
+   "id": "salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:13:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21-en.mp3",
+   "en": {
+    "title": "Salman Khan apologises to Shraddha Kapoor as Maatrubhumi and Eetha clash on December 4: 'I feel really, really bad about it'",
+    "summary": "Salman Khan has apologised to Shraddha Kapoor after learning his war drama Maatrubhumi: May War Rest in Peace and her biopic Eetha are both releasing on December 4, 2026. Salman said he did not know about her date when his team locked theirs, called her personally to say sorry, and urged audiences to watch her film too."
+   },
+   "hi": {
+    "title": "सलमान खान ने श्रद्धा कपूर से माँगी माफ़ी: मातृभूमि और ईठा चार दिसंबर को टकरा रहीं, 'मुझे सच में बहुत बुरा लग रहा है'",
+    "summary": "सलमान खान ने श्रद्धा कपूर से माफ़ी माँगी है, क्योंकि उनकी वॉर ड्रामा फिल्म मातृभूमि: मे वॉर रेस्ट इन पीस और श्रद्धा की बायोपिक ईठा, दोनों चार दिसंबर दो हज़ार छब्बीस को रिलीज़ हो रही हैं। सलमान ने कहा कि जब उनकी टीम ने तारीख पक्की की थी, तब उन्हें श्रद्धा की तारीख के बारे में नहीं पता था, उन्होंने खुद फोन करके माफ़ी माँगी और दर्शकों से उनकी फिल्म भी देखने की अपील की।"
+   }
+  },
   {
    "id": "kbc-18-first-crorepati-bhushan-thakare-jalgaon-november-21",
    "category": "Entertainment",
@@ -3192,27 +3213,6 @@
    "hi": {
     "title": "पन्नून हत्या साज़िश मामले में निखिल गुप्ता को आज न्यूयॉर्क में सुनाई जाएगी सज़ा, पन्नून भी रहेंगे अदालत में",
     "summary": "भारतीय नागरिक निखिल गुप्ता को खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून की हत्या की साज़िश के मामले में आज न्यूयॉर्क की अदालत में सज़ा सुनाई जाएगी। अभियोजन ने लगभग चौबीस साल की सज़ा माँगी है, जबकि गुप्ता के वकीलों ने बारह साल की सज़ा की गुहार लगाई है।"
-   }
-  },
-  {
-   "id": "rajasthan-panchayat-counting-bjp-early-lead-november-20",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:02:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-panchayat-counting-bjp-early-lead-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-counting-bjp-early-lead-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-counting-bjp-early-lead-november-20-en.mp3",
-   "hi": {
-    "title": "राजस्थान पंचायत चुनाव: सैंतीस जिलों में मतगणना शुरू, शुरुआती रुझानों में भाजपा आगे; जयपुर में कांग्रेस की बढ़त",
-    "summary": "राजस्थान में जिला परिषद और पंचायत समिति चुनावों की मतगणना शुक्रवार सुबह आठ बजे से सैंतीस जिलों में जारी है। राज्य निर्वाचन आयोग के शुरुआती आंकड़ों में भाजपा जिला परिषद की तीन और पंचायत समिति की बीस सीटों पर आगे है, जबकि कांग्रेस को जयपुर में शुरुआती बढ़त मिली है। चार जिलों में मतगणना सत्रह दिसंबर को होगी।"
-   },
-   "en": {
-    "title": "Rajasthan panchayat polls: Counting begins in 37 districts, BJP ahead in early trends; Congress leads in Jaipur",
-    "summary": "Counting of votes for Rajasthan's Zila Parishad and Panchayat Samiti elections began at 8 am on Friday across 37 districts. Early figures from the State Election Commission put the BJP ahead in three Zila Parishad seats and 20 Panchayat Samiti seats, while the Congress has taken an early lead in Jaipur. Counting in four districts will be held on December 17."
    }
   }
  ]
