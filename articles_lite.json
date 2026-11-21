@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T14:34:10+05:30",
+ "updatedAt": "2026-11-21T14:47:56+05:30",
  "articles": [
+  {
+   "id": "maharashtra-drought-worse-than-1972-rabi-sowing-record-low-november-21",
+   "category": "Agriculture",
+   "sub": "Crops",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:47:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maharashtra-drought-worse-than-1972-rabi-sowing-record-low-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-drought-worse-than-1972-rabi-sowing-record-low-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maharashtra-drought-worse-than-1972-rabi-sowing-record-low-november-21-en.mp3",
+   "en": {
+    "title": "Maharashtra drought worse than 1972 as Rabi sowing crashes to a record low",
+    "summary": "Maharashtra is facing one of its worst droughts in recent history, with Rabi sowing falling well below the levels recorded during the devastating drought of 1972. Only 14.74 lakh hectares have been sown so far in the 2026-27 Rabi season, against 47.29 lakh hectares in 1972-73, and the state has now declared 310 talukas drought-affected."
+   },
+   "hi": {
+    "title": "महाराष्ट्र में सूखा उन्नीस सौ बहत्तर से भी बदतर, रबी बुआई रिकॉर्ड निचले स्तर पर",
+    "summary": "महाराष्ट्र अपने इतिहास के सबसे भीषण सूखों में से एक का सामना कर रहा है। उन्नीस सौ बहत्तर के विनाशकारी सूखे के दौरान दर्ज स्तर से भी नीचे रबी की बुआई गिर गई है। दो हज़ार छब्बीस-सत्ताईस के रबी सीज़न में अब तक सिर्फ़ चौदह दशमलव चौहत्तर लाख हेक्टेयर में बुआई हुई है, जबकि उन्नीस सौ बहत्तर-तिहत्तर में सैंतालीस दशमलव उनतीस लाख हेक्टेयर में बुआई हुई थी, और राज्य ने अब तीन सौ दस तालुकों को सूखाग्रस्त घोषित कर दिया है।"
+   }
+  },
+  {
+   "id": "ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T14:47:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21-en.mp3",
+   "en": {
+    "title": "NCB busts Delhi-to-Kashmir pharma drug network, four arrested, over five lakh medicines seized",
+    "summary": "The Narcotics Control Bureau has busted an inter-state pharmaceutical drug trafficking network supplying drugs from Delhi to the Kashmir Valley, arresting four people and seizing more than five lakh tablets, capsules and bottles of pharmaceutical preparations containing tramadol, alprazolam, nitrazepam and codeine."
+   },
+   "hi": {
+    "title": "एनसीबी ने दिल्ली से कश्मीर तक दवा तस्करी नेटवर्क का भंडाफोड़ किया, चार गिरफ़्तार, पाँच लाख से ज़्यादा दवाएँ ज़ब्त",
+    "summary": "नारकोटिक्स कंट्रोल ब्यूरो ने दिल्ली से कश्मीर घाटी तक दवाएँ पहुँचाने वाले एक अंतरराज्यीय दवा तस्करी नेटवर्क का भंडाफोड़ किया है। चार लोगों को गिरफ़्तार किया गया है और ट्रैमाडोल, अल्प्राज़ोलम, नाइट्राज़ेपम व कोडीन वाली पाँच लाख से ज़्यादा गोलियाँ, कैप्सूल और दवाओं की बोतलें ज़ब्त की गई हैं।"
+   }
+  },
   {
    "id": "gorakhpur-teen-death-five-arrested-murder-charges-added-november-21",
    "category": "Crime & Law",
@@ -3174,48 +3216,6 @@
    },
    "district": "Gorakhpur",
    "state": "Uttar Pradesh"
-  },
-  {
-   "id": "jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:41:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jaiswal-falls-85-henry-ends-130-run-stand-india-141-1-wellington-november-20-en.mp3",
-   "hi": {
-    "title": "जायसवाल पचासी रन बनाकर आउट, एक सौ तीस रन की सलामी साझेदारी टूटी; वेलिंग्टन में भारत एक विकेट पर एक सौ इकतालीस",
-    "summary": "यशस्वी जायसवाल ने पचासी रन की तेज़ पारी में सोलह चौके लगाए, फिर मैट हेनरी की गेंद पर रिव्यू में कैच आउट हो गए और वेलिंग्टन में पहले टेस्ट के दूसरे दिन एक सौ तीस रन की सलामी साझेदारी टूट गई। न्यूज़ीलैंड के तीन सौ अड़सठ रन के जवाब में भारत एक विकेट पर एक सौ इकतालीस रन पर था, केएल राहुल उनचास रन पर नाबाद थे।"
-   },
-   "en": {
-    "title": "Jaiswal falls for 85 as Henry breaks 130-run opening stand; India 141 for 1 at Wellington",
-    "summary": "Yashasvi Jaiswal struck 16 fours in a sparkling 85 before Matt Henry had him caught behind on review, ending a 130-run opening stand on day two of the first Test at Wellington. India were 141 for one in reply to New Zealand's 368, with KL Rahul unbeaten on 49."
-   }
-  },
-  {
-   "id": "nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T10:41:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitish-bharadwaj-ramayana-agenda-film-funding-probe-november-20-en.mp3",
-   "hi": {
-    "title": "नितीश भारद्वाज ने रामायण को 'एजेंडा फिल्म' कहा, फंडिंग की जाँच की माँग की",
-    "summary": "बीआर चोपड़ा के महाभारत में भगवान कृष्ण की भूमिका निभाने वाले अभिनेता नितीश भारद्वाज ने नितेश तिवारी की रामायण: पार्ट वन को 'एजेंडा फिल्म' बताते हुए सरकार से इसकी फंडिंग की जाँच की माँग की है। उनका कहना है कि फिल्म में भगवान राम को आम इंसान बना दिया गया है और रावण को नायक बना दिया गया है।"
-   },
-   "en": {
-    "title": "Nitish Bharadwaj calls Ramayana an 'agenda film', demands probe into its funding",
-    "summary": "Actor, scholar and former MP Nitish Bharadwaj, best known as Lord Krishna in BR Chopra's Mahabharat, has called Nitesh Tiwari's Ramayana: Part 1 an 'agenda film' and urged the government to investigate its funding. He says the film reduces Lord Ram to an ordinary man and turns Ravan into a hero."
-   }
   }
  ]
 }
