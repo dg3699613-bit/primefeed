@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-21T22:46:33+05:30",
+ "updatedAt": "2026-11-21T23:11:48+05:30",
  "articles": [
+  {
+   "id": "yurembam-women-protest-security-operation-killing-imphal-west-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T23:11:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yurembam-women-protest-security-operation-killing-imphal-west-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yurembam-women-protest-security-operation-killing-imphal-west-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yurembam-women-protest-security-operation-killing-imphal-west-november-21-en.mp3",
+   "district": "Imphal West",
+   "state": "Manipur",
+   "hi": {
+    "title": "मणिपुर में पूर्व सैनिक की मौत पर महिलाओं का प्रदर्शन, सुरक्षा बलों के अभियान की निष्पक्ष जाँच की माँग",
+    "summary": "इंफाल पश्चिम ज़िले के युरेमबम अवांग लेइकाई की महिलाओं ने शनिवार को एक पूर्व सैनिक की हत्या और केसीपी (पीडब्ल्यूजी) अध्यक्ष लैशराम रंजीत समेत आठ अन्य लोगों की गिरफ़्तारी के खिलाफ प्रदर्शन किया। यह कार्रवाई एक दिन पहले संयुक्त सुरक्षा अभियान के दौरान हुई थी। प्रदर्शनकारियों ने गोलीबारी के आधिकारिक दावे पर सवाल उठाते हुए मौत और गिरफ़्तारियों की निष्पक्ष जाँच की माँग की है।"
+   },
+   "en": {
+    "title": "Manipur women protest killing of ex-serviceman in Yurembam security operation, demand impartial probe",
+    "summary": "Women of Yurembam Awang Leikai in Imphal West district protested on Saturday against the killing of a retired serviceman and the arrest of eight others, including KCP (PWG) chairman Laishram Ranjit, in a joint security operation a day earlier. The protesters disputed the official account of an exchange of fire and demanded an impartial probe into the death and the arrests."
+   }
+  },
+  {
+   "id": "yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21",
+   "category": "Politics",
+   "sub": "BJP",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T23:11:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21-en.mp3",
+   "hi": {
+    "title": "क्रिकेटर युजवेंद्र चहल भाजपा में शामिल, ओबीसी मोर्चा की राष्ट्रीय कार्यकारिणी में विशेष आमंत्रित सदस्य बने",
+    "summary": "क्रिकेटर युजवेंद्र चहल शनिवार को भारतीय जनता पार्टी में शामिल हो गए और उन्हें पार्टी के ओबीसी मोर्चा की राष्ट्रीय कार्यकारिणी समिति में विशेष आमंत्रित सदस्य नियुक्त किया गया। इसके साथ ही उन्होंने राजनीति में कदम रख दिया है। उन्हें ओबीसी मोर्चा अध्यक्ष अमरपाल मौर्य ने पार्टी में शामिल किया; यह नियुक्ति भाजपा के राष्ट्रीय अध्यक्ष नितिन नबीन के निर्देश पर मोर्चा के व्यापक फेरबदल के तहत हुई है।"
+   },
+   "en": {
+    "title": "Cricketer Yuzvendra Chahal joins BJP, named special invitee to OBC Morcha national executive",
+    "summary": "Cricketer Yuzvendra Chahal joined the Bharatiya Janata Party on Saturday and was appointed a special invitee to the national executive committee of the party's OBC Morcha, marking his entry into politics. He was inducted by OBC Morcha president Amarpal Maurya as part of a wider reshuffle of the morcha ordered by BJP national president Nitin Nabin."
+   }
+  },
   {
    "id": "us-panel-china-backed-pakistan-operation-sindoor-suppress-india-rise-november-21",
    "category": "World",
@@ -3195,48 +3239,6 @@
    "en": {
     "title": "Rajasthan panchayat results: Congress sweeps 24 of 37 districts, takes Jaipur; RLP wins CM's Sanganer",
     "summary": "The Congress has won or is leading in 24 of 37 districts in Rajasthan's rural local body elections, taking Jaipur's Zila Parishad and 14 of its 22 Panchayat Samitis, while the RLP won a majority in Chief Minister Bhajanlal Sharma's Sanganer constituency."
-   }
-  },
-  {
-   "id": "cyclone-akvan-jharkhand-orange-alert-five-districts-schools-shut-november-20",
-   "category": "Weather",
-   "sub": "IMD Alerts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T18:16:19+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cyclone-akvan-jharkhand-orange-alert-five-districts-schools-shut-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-jharkhand-orange-alert-five-districts-schools-shut-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cyclone-akvan-jharkhand-orange-alert-five-districts-schools-shut-november-20-en.mp3",
-   "hi": {
-    "title": "चक्रवात अक्वान: झारखंड के पाँच ज़िलों में ऑरेंज अलर्ट, प्राथमिक कक्षाएँ बंद",
-    "summary": "चक्रवात अक्वान के अवशेषों से झारखंड में बारिश शुरू हो गई है। मौसम विभाग ने पाँच ज़िलों में शनिवार सुबह तक भारी बारिश का ऑरेंज अलर्ट जारी किया है, जबकि पूर्वी सिंहभूम और सरायकेला-खरसावां में प्राथमिक कक्षाएँ बंद कर दी गई हैं।"
-   },
-   "en": {
-    "title": "Cyclone Akvan: IMD orange alert for five Jharkhand districts, primary classes suspended",
-    "summary": "Cyclone Akvan's remnants have brought rain to Jharkhand, with the IMD issuing an orange alert for heavy rain in five districts till Saturday morning and primary classes suspended in East Singhbhum and Seraikela-Kharswan."
-   }
-  },
-  {
-   "id": "adani-legal-notice-mahua-moitra-defamatory-post-november-20",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T18:08:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/adani-legal-notice-mahua-moitra-defamatory-post-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-legal-notice-mahua-moitra-defamatory-post-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-legal-notice-mahua-moitra-defamatory-post-november-20-en.mp3",
-   "hi": {
-    "title": "अडानी समूह ने महुआ मोइत्रा को भेजा कानूनी नोटिस, पीएम मोदी वाला कार्टून बताया मानहानिकारक",
-    "summary": "अडानी समूह ने तृणमूल कांग्रेस सांसद महुआ मोइत्रा को एक्स पर साझा किए गए एक कार्टून को लेकर कानूनी नोटिस भेजा है, जिसमें प्रधानमंत्री नरेंद्र मोदी और समूह के अध्यक्ष गौतम अडानी का कार्टून है। नोटिस में चौबीस घंटे में पोस्ट हटाने को कहा गया है, जबकि मोइत्रा ने सोशल मीडिया पर पलटवार किया है।"
-   },
-   "en": {
-    "title": "Adani Group sends legal notice to Mahua Moitra over 'defamatory' post carrying PM Modi caricature",
-    "summary": "The Adani Group has served a legal notice on Trinamool Congress MP Mahua Moitra over a post on X carrying a caricature of Prime Minister Narendra Modi and chairman Gautam Adani, asking her to delete it within 24 hours. Moitra hit back on social media, saying the group did not like the cartoon."
    }
   }
  ]
