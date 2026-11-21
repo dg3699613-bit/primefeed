@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T05:51:11+05:30",
+ "updatedAt": "2026-11-21T06:21:03+05:30",
  "articles": [
+  {
+   "id": "gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20",
+   "category": "Technology",
+   "sub": "Gadgets",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "जीटीए सिक्स ने पहले दिन तीन अरब उन्यासी करोड़ डॉलर कमाए, मनोरंजन की दुनिया का सबसे बड़ा लॉन्च",
+    "summary": "रॉकस्टार गेम्स और टेक-टू ने पुष्टि की है कि ग्रैंड थेफ़्ट ऑटो सिक्स ने पहले दिन तीन अरब उन्यासी करोड़ डॉलर की बिक्री की और तीन करोड़ पच्चीस लाख प्रतियाँ बिकीं, जिससे ये मनोरंजन की दुनिया का अब तक का सबसे बड़ा लॉन्च बन गया है, जो दिन में पहले आए दो अरब छत्तीस करोड़ डॉलर के अनुमान से कहीं ज़्यादा है।"
+   },
+   "en": {
+    "title": "GTA 6 officially makes $3.79 billion in one day, the biggest entertainment launch in history",
+    "summary": "Rockstar Games and Take-Two have confirmed that Grand Theft Auto VI took $3.79 billion in day-one retail sales, with 32.5 million copies sold, making it the biggest entertainment launch of all time, far above the $2.36 billion estimated earlier in the day."
+   },
+   "publishedAt": "2026-11-21T06:21:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20-en.mp3"
+  },
+  {
+   "id": "wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "वॉल स्ट्रीट में भारी गिरावट: नैस्डैक पाँच दशमलव तीन प्रतिशत टूटा, एंथ्रॉपिक और एनवीडिया भी लुढ़के",
+    "summary": "अमेरिकी शेयर बाज़ारों में शुक्रवार को भारी गिरावट आई, नैस्डैक पाँच दशमलव तीन प्रतिशत गिरकर साल की बढ़त गँवा बैठा, जबकि एसऐंडपी पाँच सौ और डाओ करेक्शन में चले गए। एंथ्रॉपिक अपने रिकॉर्ड पदार्पण के एक दिन बाद नौ प्रतिशत गिरा, और एनवीडिया एसईसी जाँच की रिपोर्ट के बाद चौदह प्रतिशत टूट गया।"
+   },
+   "en": {
+    "title": "Wall Street rout: Nasdaq sinks 5.3 percent as Anthropic slides and Nvidia plunges on SEC probe report",
+    "summary": "US stocks tumbled on Friday as the Nasdaq fell 5.3 percent, its second-biggest one-day points drop ever, and the S&P 500 and Dow confirmed corrections. Anthropic slid 9 percent a day after its record debut, and Nvidia plunged 14 percent after Reuters reported the SEC is examining its accounting."
+   },
+   "publishedAt": "2026-11-21T06:21:03+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20-en.mp3"
+  },
   {
    "id": "rahul-93-padikkal-53-india-239-1-lunch-day-3-wellington-november-21",
    "category": "Cricket & Sports",
@@ -3168,50 +3210,6 @@
     "title": "North Korea is expanding its Yongbyon uranium enrichment plant, IAEA chief says",
     "summary": "The head of the UN nuclear watchdog, Rafael Grossi, has told the IAEA board that North Korea has built a further extension to its original uranium enrichment facility at Yongbyon, calling the programme's expansion a cause for serious concern."
    }
-  },
-  {
-   "id": "india-beat-malaysia-4-1-womens-asian-champions-trophy-bhopal-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Hockey",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T02:04:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-malaysia-4-1-womens-asian-champions-trophy-bhopal-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-malaysia-4-1-womens-asian-champions-trophy-bhopal-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-malaysia-4-1-womens-asian-champions-trophy-bhopal-november-19-en.mp3",
-   "hi": {
-    "title": "महिला हॉकी: भारत ने मलेशिया को चार-एक से हराकर एशियन चैंपियंस ट्रॉफ़ी में जीत से आगाज़ किया",
-    "summary": "भोपाल में खेले गए महिला एशियन चैंपियंस ट्रॉफ़ी के पहले मैच में गत चैंपियन भारत ने मलेशिया को चार-एक से हरा दिया। मुमताज़ ख़ान, कप्तान सलीमा टेटे, पदार्पण कर रहीं पूजा साहू और ललरेमसियामी ने भारत के लिए गोल किए।"
-   },
-   "en": {
-    "title": "India fight back to beat Malaysia 4-1 in Women's Asian Champions Trophy opener in Bhopal",
-    "summary": "Defending champions India began their Women's Asian Champions Trophy 2026 campaign with a 4-1 win over Malaysia in Bhopal on Thursday. Mumtaz Khan, captain Salima Tete, debutant Puja Sahoo and Lalremsiami scored for the hosts, who are chasing a third straight title."
-   }
-  },
-  {
-   "id": "cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20",
-   "category": "Dharm-Astrology",
-   "sub": "Katha & Dharm News",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T02:04:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-visit-today-ram-katha-jaiprabha-security-2300-police-november-20-en.mp3",
-   "hi": {
-    "title": "आज गोंडा आएँगे सीएम योगी, जयप्रभा में रामकथा में होंगे शामिल; सुरक्षा के लिए दो हज़ार तीन सौ पुलिसकर्मी तैनात",
-    "summary": "मुख्यमंत्री योगी आदित्यनाथ आज शुक्रवार को गोंडा के जयप्रभा ग्राम में चल रही नौ दिवसीय श्रीराम कथा में शामिल होंगे। दौरे को लेकर सुरक्षा के कड़े इंतजाम किए गए हैं — स्थल को पाँच ज़ोन और तीस सेक्टर में बाँटा गया है।"
-   },
-   "en": {
-    "title": "CM Yogi to attend Ram Katha in Gonda's Jaiprabha village today; 2,300 police personnel deployed for security",
-    "summary": "Uttar Pradesh Chief Minister Yogi Adityanath will attend the nine-day Shri Ram Katha at Jaiprabha village in Gonda on Friday. Security has been tightened for the visit — the venue has been divided into five zones and 30 sectors, with 2,300 police personnel deployed."
-   },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
   }
  ]
 }
