@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-21T15:20:11+05:30",
+ "updatedAt": "2026-11-21T15:36:45+05:30",
  "articles": [
+  {
+   "id": "zelenskyy-calls-putin-killer-after-trump-friend-remark-november-21",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:36:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/zelenskyy-calls-putin-killer-after-trump-friend-remark-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zelenskyy-calls-putin-killer-after-trump-friend-remark-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zelenskyy-calls-putin-killer-after-trump-friend-remark-november-21-en.mp3",
+   "en": {
+    "title": "Zelenskyy calls Putin a 'killer' after Trump describes Russian leader as his 'friend'",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has called Vladimir Putin an 'enemy' and a 'killer' after Donald Trump described the Russian leader as his 'friend' following their meeting in Shenzhen. Trump defended the relationship at the White House, saying both leaders want the war to end."
+   },
+   "hi": {
+    "title": "ज़ेलेंस्की ने पुतिन को 'हत्यारा' कहा, ट्रंप के 'दोस्त' वाले बयान पर तीखी प्रतिक्रिया",
+    "summary": "यूक्रेन के राष्ट्रपति वोलोदिमिर ज़ेलेंस्की ने व्लादिमीर पुतिन को 'दुश्मन' और 'हत्यारा' कहा है। यह प्रतिक्रिया डोनाल्ड ट्रंप के उस बयान के बाद आई है, जिसमें उन्होंने शेनझेन में मुलाक़ात के बाद पुतिन को अपना 'दोस्त' बताया था। ट्रंप ने व्हाइट हाउस में इस रिश्ते का बचाव करते हुए कहा कि दोनों नेता युद्ध खत्म करना चाहते हैं।"
+   }
+  },
+  {
+   "id": "cop31-deadlock-overtime-fossil-fuel-draft-suspended-november-21",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-21T15:36:45+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cop31-deadlock-overtime-fossil-fuel-draft-suspended-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cop31-deadlock-overtime-fossil-fuel-draft-suspended-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cop31-deadlock-overtime-fossil-fuel-draft-suspended-november-21-en.mp3",
+   "en": {
+    "title": "COP31 talks deadlocked over fossil fuels, summit goes into overtime; Ethiopia to host COP32",
+    "summary": "The COP31 climate summit in Antalya has gone into overtime, with nearly 200 countries deadlocked over a draft deal that no longer mentions fossil fuels. The closing plenary was suspended late on Friday, and Ethiopia was announced as the host of COP32 in 2027."
+   },
+   "hi": {
+    "title": "सीओपी इकतीस: जीवाश्म ईंधन पर गतिरोध, सम्मेलन समय से आगे बढ़ा; इथियोपिया करेगा सीओपी बत्तीस की मेज़बानी",
+    "summary": "अंताल्या में चल रहा सीओपी इकतीस जलवायु सम्मेलन समय से आगे बढ़ गया है। लगभग दो सौ देश एक ऐसे मसौदा समझौते पर अटके हैं जिसमें जीवाश्म ईंधन का ज़िक्र नहीं है। शुक्रवार रात समापन सत्र स्थगित कर दिया गया, और इथियोपिया को दो हज़ार सत्ताईस में होने वाले सीओपी बत्तीस का मेज़बान घोषित किया गया।"
+   }
+  },
   {
    "id": "bijnor-girls-die-kasaundi-pods-gulah-river-november-21",
    "category": "State & Local",
@@ -3174,48 +3216,6 @@
    },
    "district": "Ganjam",
    "state": "Odisha"
-  },
-  {
-   "id": "india-159-1-stumps-day-2-rahul-fifty-jaiswal-85-wellington-november-20",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T11:27:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-159-1-stumps-day-2-rahul-fifty-jaiswal-85-wellington-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-159-1-stumps-day-2-rahul-fifty-jaiswal-85-wellington-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-159-1-stumps-day-2-rahul-fifty-jaiswal-85-wellington-november-20-en.mp3",
-   "hi": {
-    "title": "राहुल का अर्धशतक, जायसवाल के पचासी रन; वेलिंग्टन में दूसरे दिन भारत एक विकेट पर एक सौ उनसठ",
-    "summary": "केएल राहुल के नाबाद बावन रन और यशस्वी जायसवाल के पचासी रन की बदौलत भारत ने वेलिंग्टन में दूसरे दिन स्टंप्स तक एक विकेट पर एक सौ उनसठ रन बना लिए। न्यूज़ीलैंड की पारी तीन सौ अड़सठ रन पर सिमटी, हेनरी निकोल्स एक सौ पचहत्तर रन पर नाबाद रहे। भारत दो सौ नौ रन पीछे है और उसके नौ विकेट बाकी हैं।"
-   },
-   "en": {
-    "title": "Rahul's fifty, Jaiswal's 85 take India to 159/1 at stumps on day two in Wellington",
-    "summary": "KL Rahul's unbeaten 52 and Yashasvi Jaiswal's 85 took India to 159 for 1 at stumps on day two in Wellington after New Zealand were bowled out for 368, with Henry Nicholls unbeaten on 175. India trail by 209 runs with nine wickets in hand."
-   }
-  },
-  {
-   "id": "sc-declines-tamil-nadu-plea-11-tmc-cauvery-water-karnataka-november-20",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-20T11:17:36+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-declines-tamil-nadu-plea-11-tmc-cauvery-water-karnataka-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-declines-tamil-nadu-plea-11-tmc-cauvery-water-karnataka-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-declines-tamil-nadu-plea-11-tmc-cauvery-water-karnataka-november-20-en.mp3",
-   "hi": {
-    "title": "कावेरी जल विवाद: सुप्रीम कोर्ट ने तमिलनाडु की ग्यारह टीएमसी पानी की माँग ठुकराई",
-    "summary": "सुप्रीम कोर्ट ने तमिलनाडु की उस याचिका पर विचार करने से इनकार कर दिया है, जिसमें राज्य ने कर्नाटक से कावेरी का ग्यारह टीएमसी अतिरिक्त पानी छोड़ने का निर्देश देने की माँग की थी। जस्टिस विक्रम नाथ और जस्टिस अपारेश सिंह की पीठ ने शुक्रवार को यह आदेश सुनाया।"
-   },
-   "en": {
-    "title": "Supreme Court turns down Tamil Nadu's plea for 11 TMC Cauvery water from Karnataka",
-    "summary": "The Supreme Court has declined to entertain Tamil Nadu's plea seeking a direction to Karnataka to release 11 TMC of Cauvery water to make up for an alleged shortfall in the state's share. A bench of Justices Vikram Nath and Aparesh Singh passed the order on Friday."
-   }
   }
  ]
 }
