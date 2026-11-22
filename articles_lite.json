@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T04:23:04+05:30",
+ "updatedAt": "2026-11-23T04:41:48+05:30",
  "articles": [
+  {
+   "id": "conway-falls-65-sundar-india-close-final-day-win-wellington-november-23",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T04:41:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/conway-falls-65-sundar-india-close-final-day-win-wellington-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/conway-falls-65-sundar-india-close-final-day-win-wellington-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/conway-falls-65-sundar-india-close-final-day-win-wellington-november-23-en.mp3",
+   "hi": {
+    "title": "सुंदर ने कॉनवे को 65 पर आउट किया, भारत वेलिंग्टन में जीत से 7 विकेट दूर",
+    "summary": "वाशिंगटन सुंदर ने वेलिंग्टन में आखिरी दिन की सुबह डेवन कॉनवे का 243 मिनट लंबा प्रतिरोध 65 रन पर तोड़ दिया। न्यूज़ीलैंड 137/3 पर है और भारत से अब भी 215 रन पीछे है; भारत को सीरीज़ में 1-0 की बढ़त के लिए 7 विकेट चाहिए।"
+   },
+   "en": {
+    "title": "Conway falls for 65 to Sundar as India close in on final-day win in Wellington",
+    "summary": "Washington Sundar broke Devon Conway's 243-minute resistance for 65 on the final morning in Wellington, leaving New Zealand 137 for 3 and still 215 runs behind India, who need 7 wickets to take a 1-0 lead in the series."
+   }
+  },
   {
    "id": "alcaraz-beats-zverev-first-atp-finals-title-turin-november-22",
    "category": "Cricket & Sports",
@@ -3287,27 +3308,6 @@
    },
    "district": "Ranchi",
    "state": "Jharkhand"
-  },
-  {
-   "id": "depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21",
-   "category": "Entertainment",
-   "sub": "Celebrity",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T00:58:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/depardieu-houellebecq-investigation-sexual-assault-thalasso-shoot-november-21-en.mp3",
-   "en": {
-    "title": "Depardieu and Houellebecq under investigation in France over alleged sexual offences during 2018 film shoot",
-    "summary": "French prosecutors have opened a judicial investigation into actor Gerard Depardieu and author Michel Houellebecq over alleged sexual offences, after a complaint was filed over an incident said to have taken place during the shooting of the film Thalasso in December 2018. Depardieu, 77, on Monday withdrew his appeal against a 2025 conviction for sexually assaulting two women on another film set, accepting his guilt."
-   },
-   "hi": {
-    "title": "फ्रांस में देपार्दियू और उएलेबेक पर जाँच: दो हज़ार अठारह की फिल्म शूटिंग के दौरान कथित यौन अपराधों का आरोप",
-    "summary": "फ्रांस के अभियोजकों ने अभिनेता जेरार देपार्दियू और लेखक मिशेल उएलेबेक के खिलाफ कथित यौन अपराधों को लेकर न्यायिक जाँच शुरू कर दी है। शिकायत दिसंबर दो हज़ार अठारह में फिल्म थलासो की शूटिंग के दौरान हुई कथित घटना को लेकर है। सत्तहत्तर वर्षीय देपार्दियू ने सोमवार को एक अन्य फिल्म के सेट पर दो महिलाओं के यौन उत्पीड़न के लिए दो हज़ार पच्चीस में हुई सज़ा के खिलाफ अपनी अपील वापस ले ली थी और अपना अपराध स्वीकार किया था।"
-   }
   }
  ]
 }
