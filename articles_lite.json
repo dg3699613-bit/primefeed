@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-22T17:36:13+05:30",
+ "updatedAt": "2026-11-22T17:53:22+05:30",
  "articles": [
+  {
+   "id": "nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22",
+   "category": "Politics",
+   "sub": "BJP",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T17:53:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22-en.mp3",
+   "hi": {
+    "title": "नितिन नबीन सोमवार को हैदराबाद में भाजपा रैली की अगुवाई करेंगे, 'वोट चोरी' के आरोपों का जवाब देंगे",
+    "summary": "भाजपा अध्यक्ष नितिन नबीन सोमवार को हैदराबाद में एक रैली की अगुवाई करेंगे, जिसका मकसद मतदाता सूची के विशेष गहन पुनरीक्षण की आलोचना और विपक्ष के 'वोट चोरी' के आरोपों का जवाब देना है। केंद्रीय मंत्री बंदी संजय कुमार ने रविवार को इसकी घोषणा करते हुए रैली को 'ऐतिहासिक' बताया और भारी भीड़ जुटने की बात कही।"
+   },
+   "en": {
+    "title": "Nitin Nabin to lead BJP's Hyderabad rally on Monday to counter 'vote chori' charge",
+    "summary": "BJP president Nitin Nabin will lead a rally in Hyderabad on Monday to counter criticism of the Special Intensive Revision of electoral rolls and the opposition's 'vote chori' allegations, Union minister Bandi Sanjay Kumar announced on Sunday, calling the rally 'historic' and predicting a massive turnout."
+   }
+  },
   {
    "id": "rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22",
    "category": "Crime & Law",
@@ -3292,27 +3313,6 @@
    "en": {
     "title": "Raipur newborn trafficking racket busted: six arrested as police find 26 birth certificates for just three deliveries",
     "summary": "Raipur Police say they have busted an inter-state racket that allegedly sold newborns to childless couples using a private hospital to issue fake birth certificates. Six people, including the hospital's managing director, have been arrested; police say at least 10 babies were sold in Ahmedabad, Mumbai and Chennai."
-   }
-  },
-  {
-   "id": "bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T15:57:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-fresh-arson-attacks-hasina-return-unrest-november-21-en.mp3",
-   "hi": {
-    "title": "बांग्लादेश में फिर आगजनी, हसीना की वापसी की योजना से बढ़ा तनाव; मंत्री के घर पर पेट्रोल बम",
-    "summary": "शेख हसीना की दिसंबर में निर्वासन से वापसी की योजना को लेकर बढ़ती अशांति के बीच बांग्लादेश में शुक्रवार को फिर आगजनी हुई। सिलहट में एक मंत्री के घर पर पेट्रोल बम फेंका गया, गोपालगंज में थाने को आग लगा दी गई, और ढाका में प्रतिबंधित अवामी लीग से जुड़े एक सौ चौबीस लोगों को गिरफ्तार किया गया।"
-   },
-   "en": {
-    "title": "Fresh arson attacks rock Bangladesh as Hasina's planned return fuels unrest; minister's home targeted",
-    "summary": "Fresh arson attacks erupted across Bangladesh on Friday as unrest grows over former prime minister Sheikh Hasina's planned return from exile in December. A petrol bomb was hurled at a minister's home in Sylhet, a police station was torched in Gopalganj, and 124 people linked to the banned Awami League were arrested in Dhaka."
    }
   }
  ]
