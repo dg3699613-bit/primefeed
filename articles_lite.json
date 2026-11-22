@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T23:05:29+05:30",
+ "updatedAt": "2026-11-22T23:19:27+05:30",
  "articles": [
+  {
+   "id": "bhopal-international-sports-complex-inaugurated-cm-mohan-yadav-november-22",
+   "category": "State & Local",
+   "sub": "Madhya Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T23:19:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhopal-international-sports-complex-inaugurated-cm-mohan-yadav-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhopal-international-sports-complex-inaugurated-cm-mohan-yadav-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhopal-international-sports-complex-inaugurated-cm-mohan-yadav-november-22-en.mp3",
+   "district": "Bhopal",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "भोपाल: 1,000 करोड़ रुपये के इंटरनेशनल स्पोर्ट्स कॉम्प्लेक्स का पहला चरण शुरू; मुख्यमंत्री मोहन यादव ने किया उद्घाटन",
+    "summary": "भोपाल: मध्य प्रदेश के मुख्यमंत्री मोहन यादव ने रविवार को भोपाल के नाथू बरखेड़ा में 1,000 करोड़ रुपये की लागत से बने इंटरनेशनल स्पोर्ट्स कॉम्प्लेक्स के पहले चरण का उद्घाटन किया। यह परिसर महिला एशियन चैंपियंस ट्रॉफी 2026 की मेज़बानी कर रहा है।"
+   },
+   "en": {
+    "title": "Bhopal: CM Mohan Yadav inaugurates first phase of 1,000-crore International Sports Complex",
+    "summary": "Bhopal: Madhya Pradesh Chief Minister Mohan Yadav on Sunday inaugurated the first phase of the International Sports Complex at Nathu Barkheda in Bhopal, built at a cost of 1,000 crore rupees. The venue is hosting the Women's Asian Champions Trophy 2026."
+   }
+  },
   {
    "id": "bilaspur-suicide-abetment-girlfriend-arrested-koni-november-22",
    "category": "Crime & Law",
@@ -3296,29 +3319,6 @@
    "en": {
     "title": "CBI recovers Rs 1.86 crore in cash, gold and silver from arrested CGST officer's Panchkula home",
     "summary": "The Central Bureau of Investigation has recovered cash, foreign currency, gold and silver worth about Rs 1.86 crore from the Panchkula home of a CGST superintendent arrested on November 19 for allegedly accepting a Rs 10 lakh bribe. Searches on November 20 found Indian currency of Rs 24.29 lakh, foreign currency worth about Rs 15.65 lakh, and gold and silver worth about Rs 1.46 crore, along with documents of six bank accounts, investments and properties."
-   }
-  },
-  {
-   "id": "google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21",
-   "category": "Technology",
-   "sub": "AI",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T19:53:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/google-5-million-dollars-iit-kharagpur-ai-research-pichai-november-21-en.mp3",
-   "district": "Paschim Medinipur",
-   "state": "West Bengal",
-   "hi": {
-    "title": "गूगल ने आईआईटी खड़गपुर को उन्नत कृत्रिम बुद्धिमत्ता अनुसंधान के लिए पचास लाख डॉलर दिए; भारतीय भाषाओं, कृषि और शिक्षा पर ध्यान",
-    "summary": "गूगल आईआईटी खड़गपुर को उन्नत कृत्रिम बुद्धिमत्ता अनुसंधान को विकसित करने और तेज़ करने के लिए पचास लाख डॉलर, करीब छियालीस करोड़ रुपये, देगा, कंपनी ने शनिवार को घोषणा की। यह घोषणा ऐसे समय हुई है जब संस्थान अपनी पचहत्तरवीं वर्षगाँठ मना रहा है। सहायता तीन क्षेत्रों, उन्नत कृत्रिम बुद्धिमत्ता अनुसंधान, शैक्षिक अवसर और कृत्रिम बुद्धिमत्ता क्षमता निर्माण, के लिए होगी, जिसमें भारतीय भाषाओं, पदार्थ विज्ञान, कृषि और शैक्षिक प्रौद्योगिकी में अनुसंधान शामिल है।"
-   },
-   "en": {
-    "title": "Google gives USD 5 million to IIT Kharagpur for advanced AI research; focus on Indic languages, agriculture, education",
-    "summary": "Google will provide IIT Kharagpur with USD 5 million, about Rs 46 crore, to develop and accelerate advanced artificial intelligence research, the company announced on Saturday, as the institute marks its 75th anniversary. The funding covers three areas, advanced AI research, educational opportunities and AI capacity building, with research in Indic languages, materials science, agriculture and educational technology."
    }
   }
  ]
