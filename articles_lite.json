@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T17:02:03+05:30",
+ "updatedAt": "2026-11-22T17:20:29+05:30",
  "articles": [
+  {
+   "id": "sagar-tractor-trolley-overturns-neem-ghati-3-killed-november-22",
+   "category": "State & Local",
+   "sub": "Madhya Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T17:20:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sagar-tractor-trolley-overturns-neem-ghati-3-killed-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sagar-tractor-trolley-overturns-neem-ghati-3-killed-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sagar-tractor-trolley-overturns-neem-ghati-3-killed-november-22-en.mp3",
+   "district": "Sagar",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "सागर के नीम घाटी में ट्रैक्टर-ट्रॉली पलटी, 3 की मौत, करीब 30 घायल",
+    "summary": "मध्य प्रदेश के सागर जिले में रविवार दोपहर राष्ट्रीय राजमार्ग 44 पर नीम घाटी के पास ट्रैक्टर-ट्रॉली पलट गई। ट्रॉली में 30 से ज्यादा लोग सवार थे, जो नर्मदा स्नान के बाद घर लौट रहे थे। हादसे में 3 लोगों की मौत हो गई, जिनमें 17 साल की एक लड़की भी शामिल है, और करीब 30 अन्य घायल हो गए।"
+   },
+   "en": {
+    "title": "Three killed, around 30 injured as tractor-trolley overturns on NH-44 in Sagar's Neem Ghati",
+    "summary": "A tractor-trolley carrying more than 30 people home from a holy dip in the Narmada overturned on National Highway 44 near Neem Ghati in Sagar district of Madhya Pradesh on Sunday afternoon, killing three people, including a 17-year-old girl, and injuring around 30 others."
+   }
+  },
+  {
+   "id": "anirudh-kavya-chennai-reception-vijay-rajinikanth-stalin-november-22",
+   "category": "Entertainment",
+   "sub": "Celebrity",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T17:20:29+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anirudh-kavya-chennai-reception-vijay-rajinikanth-stalin-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anirudh-kavya-chennai-reception-vijay-rajinikanth-stalin-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anirudh-kavya-chennai-reception-vijay-rajinikanth-stalin-november-22-en.mp3",
+   "hi": {
+    "title": "अनिरुद्ध-काव्या के चेन्नई रिसेप्शन में विजय, रजनीकांत और स्टालिन एक फ्रेम में",
+    "summary": "संगीतकार अनिरुद्ध रविचंदर और सनराइजर्स हैदराबाद की सीईओ काव्या मारन ने शनिवार शाम चेन्नई के आईटीसी ग्रैंड चोला में भव्य शादी का रिसेप्शन दिया। इसमें तमिल सिनेमा के बड़े सितारे और तमिलनाडु के शीर्ष नेता एक ही छत के नीचे जुटे, जिनमें मुख्यमंत्री विजय, रजनीकांत और पूर्व मुख्यमंत्री एमके स्टालिन का एक साथ वाला पल सबसे ज्यादा चर्चा में रहा।"
+   },
+   "en": {
+    "title": "Vijay, Rajinikanth and Stalin share a frame as Anirudh and Kavya host a star-studded Chennai reception",
+    "summary": "Music composer Anirudh Ravichander and Sunrisers Hyderabad CEO Kavya Maran hosted a grand wedding reception at Chennai's ITC Grand Chola on Saturday evening, drawing Tamil cinema's biggest stars and the state's top political leaders into one room — including a much-photographed moment with Chief Minister Vijay, Rajinikanth and former chief minister MK Stalin together."
+   }
+  },
   {
    "id": "nagercoil-train-coach-rape-murder-gold-ring-identifies-victim-november-22",
    "category": "Crime & Law",
@@ -3267,50 +3311,6 @@
    "en": {
     "title": "COP31 talks deadlocked over fossil fuels, summit goes into overtime; Ethiopia to host COP32",
     "summary": "The COP31 climate summit in Antalya has gone into overtime, with nearly 200 countries deadlocked over a draft deal that no longer mentions fossil fuels. The closing plenary was suspended late on Friday, and Ethiopia was announced as the host of COP32 in 2027."
-   }
-  },
-  {
-   "id": "bijnor-girls-die-kasaundi-pods-gulah-river-november-21",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T15:20:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bijnor-girls-die-kasaundi-pods-gulah-river-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-girls-die-kasaundi-pods-gulah-river-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-girls-die-kasaundi-pods-gulah-river-november-21-en.mp3",
-   "district": "Bijnor",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "बिजनौर: गुलाह नदी किनारे जंगली कसौंदी की फली खाने से दो बच्चियों की मौत, तीसरी की हालत गंभीर",
-    "summary": "उत्तर प्रदेश के बिजनौर ज़िले में गुलाह नदी के किनारे खेलते हुए जंगली कसौंदी के पौधे की फली खाने से दो बच्चियों की मौत हो गई और तीसरी की हालत गंभीर है। पुलिस के अनुसार तीनों बच्चियाँ बुधवार को खेलने गई थीं; एक की मौत गुरुवार शाम और दूसरी की शुक्रवार सुबह हुई।"
-   },
-   "en": {
-    "title": "Bijnor: two girls die, third critical after eating wild kasaundi pods near the Gulah river",
-    "summary": "Two young girls have died and a third is in critical condition in Uttar Pradesh's Bijnor district after the three ate pods from a wild kasaundi plant while playing near the Gulah river. Police said the girls fell ill on Wednesday; one died on Thursday evening and the other on Friday morning."
-   }
-  },
-  {
-   "id": "youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T15:06:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-congress-meta-protests-mumbai-gurugram-ultimatum-november-21-en.mp3",
-   "hi": {
-    "title": "मेटा दफ़्तरों पर यूथ कांग्रेस का प्रदर्शन मुंबई-गुरुग्राम तक फैला, सात दिन का अल्टीमेटम; बीजेपी ने कांग्रेस को 'गुंडों की पार्टी' कहा",
-    "summary": "मेटा के खिलाफ यूथ कांग्रेस का प्रदर्शन शुक्रवार को हैदराबाद, मुंबई और गुरुग्राम तक फैल गया। हैदराबाद में कार्यकर्ता दफ़्तर में घुस गए और मुंबई में दफ़्तर के बाहर नारे लिखे गए। संगठन ने अपने नेताओं के बंद अकाउंट बहाल करने के लिए मेटा को सात दिन का अल्टीमेटम दिया है, जबकि बीजेपी ने कांग्रेस को 'गुंडों की पार्टी' कहा।"
-   },
-   "en": {
-    "title": "Youth Congress protests spread to Meta offices in Mumbai and Gurugram; seven-day ultimatum as BJP calls Congress 'party of goons'",
-    "summary": "Youth Congress protests against Meta spread to Hyderabad, Mumbai and Gurugram on Friday, with workers storming the Hyderabad office and spray-painting slogans outside the Mumbai office. The outfit has given Meta a seven-day ultimatum to restore restricted accounts of its leaders, as the BJP called the Congress a 'party of goons'."
    }
   }
  ]
