@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T05:19:12+05:30",
+ "updatedAt": "2026-11-22T05:38:53+05:30",
  "articles": [
+  {
+   "id": "malappuram-mdma-kingpin-arrested-mumbai-wife-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T05:38:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/malappuram-mdma-kingpin-arrested-mumbai-wife-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malappuram-mdma-kingpin-arrested-mumbai-wife-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malappuram-mdma-kingpin-arrested-mumbai-wife-november-21-en.mp3",
+   "district": "Malappuram",
+   "state": "Kerala",
+   "hi": {
+    "title": "मलप्पुरम पुलिस ने मुंबई से कथित एमडीएमए सरगना और पत्नी को पकड़ा; ड्रग नेटवर्क में दस गिरफ्तार",
+    "summary": "मलप्पुरम पुलिस ने केरल और कर्नाटक में एमडीएमए की तस्करी करने वाले अंतरराष्ट्रीय गिरोह के कथित सरगना, नाइजीरियाई नागरिक इकेचुकु पॉल ओगबोना और उनकी पत्नी आरती को मुंबई के उल्वे से गिरफ्तार किया है। दंपती कथित तौर पर ड्रग का पैसा विदेश भेजकर नाइजीरिया भागने की तैयारी में थे; इस मामले में अब तक दस लोग गिरफ्तार हो चुके हैं।"
+   },
+   "en": {
+    "title": "Malappuram police arrest alleged MDMA kingpin and wife in Mumbai; 10 held in drug network case",
+    "summary": "Malappuram police have arrested Nigerian national Ikechukwu Paul Ogbonna, the alleged kingpin of an international MDMA trafficking syndicate supplying Kerala and Karnataka, along with his wife Aarthi, from Ulwe in Mumbai. The couple were allegedly preparing to flee to Nigeria after moving drug money abroad; ten people have now been arrested in the case."
+   }
+  },
   {
    "id": "cm-mohan-yadav-chhatarpur-mass-wedding-75-couples-november-21",
    "category": "State & Local",
@@ -3222,27 +3245,6 @@
    "en": {
     "title": "NSE becomes world's fifth-largest listed exchange, overtakes Nasdaq and Hong Kong",
     "summary": "The National Stock Exchange has overtaken Nasdaq and Hong Kong's HKEX to become the world's fifth-largest listed exchange operator, with a market value of about 59.65 billion US dollars. Its shares hit an intraday high of 2,251 rupees on Friday, and NSE is now also India's ninth-largest listed company."
-   }
-  },
-  {
-   "id": "neet-pg-2026-round-2-final-result-out-report-by-november-24-november-20",
-   "category": "Education",
-   "sub": "Results",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T01:23:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/neet-pg-2026-round-2-final-result-out-report-by-november-24-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-pg-2026-round-2-final-result-out-report-by-november-24-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/neet-pg-2026-round-2-final-result-out-report-by-november-24-november-20-en.mp3",
-   "hi": {
-    "title": "नीट पीजी राउंड दो का अंतिम परिणाम जारी, बीस हज़ार सात सौ सात सीटें आवंटित, चौबीस नवंबर तक रिपोर्टिंग",
-    "summary": "चिकित्सा परामर्श समिति ने नीट पीजी दो हज़ार छब्बीस की काउंसलिंग के दूसरे दौर का अंतिम सीट आवंटन परिणाम जारी कर दिया है। परिणाम में एमडी, एमएस, डीएनबी और पीजी डिप्लोमा पाठ्यक्रमों की बीस हज़ार सात सौ सात सीटों का आवंटन दर्ज है, सीट पाने वाले अभ्यर्थियों को चौबीस नवंबर, दो हज़ार छब्बीस तक आवंटित संस्थान में रिपोर्ट करना होगा, नहीं तो सीट चली जाएगी।"
-   },
-   "en": {
-    "title": "NEET PG 2026 Round 2 final result out: 20,707 seats allotted, report to colleges by November 24",
-    "summary": "The Medical Counselling Committee has declared the final seat allotment result for Round 2 of NEET PG 2026 counselling. The result lists 20,707 allotted seats across MD, MS, DNB and PG Diploma courses; candidates must report in person to their allotted institute by November 24, 2026, or lose the seat."
    }
   }
  ]
