@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T01:33:39+05:30",
+ "updatedAt": "2026-11-23T01:46:44+05:30",
  "articles": [
+  {
+   "id": "indonesia-factory-fire-24-body-bags-recovered-search-resumes-monday-november-22",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T01:46:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indonesia-factory-fire-24-body-bags-recovered-search-resumes-monday-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-factory-fire-24-body-bags-recovered-search-resumes-monday-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-factory-fire-24-body-bags-recovered-search-resumes-monday-november-22-en.mp3",
+   "hi": {
+    "title": "इंडोनेशिया कैंडी फैक्टरी आग: 24 बॉडी बैग मिले, 29 मज़दूर अब भी लापता; सोमवार सुबह फिर शुरू होगा तलाश अभियान",
+    "summary": "इंडोनेशिया के बांटेन प्रांत में शनिवार शाम कैंडी फैक्टरी में लगी आग के बाद रविवार शाम तक पुलिस ने 24 बॉडी बैग बरामद किए। मृतकों की सही संख्या अभी साफ नहीं है, क्योंकि एक बैग में एक से ज़्यादा लोगों के अवशेष हो सकते हैं। कंपनी के मुताबिक 29 मज़दूर अब भी लापता हैं और तलाश अभियान सोमवार सुबह फिर शुरू होगा।"
+   },
+   "en": {
+    "title": "Indonesia factory fire: 24 body bags recovered, 29 workers still missing; search resumes Monday",
+    "summary": "Indonesian police recovered 24 body bags from the candy factory destroyed by fire in Banten province on Sunday evening. The confirmed death toll remains unclear, as one bag may hold the remains of more than one person. The company says 29 workers are still missing, and the search resumes on Monday morning."
+   }
+  },
   {
    "id": "russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region",
    "category": "World",
@@ -3288,27 +3309,6 @@
    "en": {
     "title": "China backed Pakistan during Operation Sindoor to hold back India's rise, says US congressional panel",
     "summary": "A US congressional commission has said China's military support for Pakistan during Operation Sindoor in May 2025 was part of a wider strategy to suppress India's rise across military, economic and diplomatic fronts. In its 2026 annual report to Congress, the US-China Economic and Security Review Commission says Beijing supplied Pakistan with arms and on-ground technical help, pressed India along the border and in the Indian Ocean, and used curbs on critical supplies — while urging Washington to deepen defence cooperation with New Delhi."
-   }
-  },
-  {
-   "id": "us-court-summonses-doval-goel-pannun-case-november-21",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T22:46:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-court-summonses-doval-goel-pannun-case-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-summonses-doval-goel-pannun-case-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-court-summonses-doval-goel-pannun-case-november-21-en.mp3",
-   "hi": {
-    "title": "पन्नून मामले में अमेरिकी अदालत ने डोभाल और पूर्व रॉ प्रमुख गोयल को समन भेजा",
-    "summary": "अमेरिका की एक अदालत ने खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नून के मामले में राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और पूर्व रॉ प्रमुख सामंत गोयल को समन भेजे हैं। न्यूयॉर्क के दक्षिणी ज़िला न्यायालय के क्लर्क ने बताया कि समन शुक्रवार को फ़ेडएक्स से दिल्ली की तीन ज़िला अदालतों को भेजे गए; यह तेरह नवंबर के आदेश के तहत हेग कन्वेंशन का हवाला देते हुए किया गया। भारत ने मुकदमे को मनगढ़ंत और दुर्भावनापूर्ण बताकर खारिज किया है।"
-   },
-   "en": {
-    "title": "US court sends summonses to NSA Ajit Doval and ex-RAW chief Samant Goel in Pannun case",
-    "summary": "A US court has dispatched summonses to National Security Adviser Ajit Doval and former RAW chief Samant Goel in the civil case filed by Khalistani separatist Gurpatwant Singh Pannun. The clerk of the Southern District Court of New York said the summonses were sent by FedEx to three Delhi district courts on Friday, under a November 13 order citing the Hague Convention; India has rejected the lawsuit as fabricated and malicious."
    }
   }
  ]
