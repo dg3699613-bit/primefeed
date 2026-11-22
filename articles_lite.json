@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T14:48:38+05:30",
+ "updatedAt": "2026-11-22T15:18:27+05:30",
  "articles": [
+  {
+   "id": "malana-fire-three-storey-house-gutted-five-families-homeless-kullu",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T15:13:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/malana-fire-three-storey-house-gutted-five-families-homeless-kullu.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malana-fire-three-storey-house-gutted-five-families-homeless-kullu-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malana-fire-three-storey-house-gutted-five-families-homeless-kullu-en.mp3",
+   "district": "Kullu",
+   "state": "Himachal Pradesh",
+   "en": {
+    "title": "Fire guts three-storey house in Kullu's Malana village; five families homeless, property worth Rs 50 lakh destroyed",
+    "summary": "A massive fire gutted a three-storey house in Malana village of Kullu district late on Saturday night, leaving five families homeless. Property worth around Rs 50 lakh was destroyed, while the fire department and villagers saved property worth about Rs 1 crore and stopped the flames from spreading to nearby houses."
+   },
+   "hi": {
+    "title": "मलाणा में भीषण आग से 3 मंजिला मकान जलकर राख, 5 परिवार बेघर; करीब 50 लाख रुपये की संपत्ति नष्ट",
+    "summary": "कुल्लू जिले के मलाणा गाँव में शनिवार देर रात भीषण आग से एक 3 मंजिला मकान जलकर राख हो गया, जिससे दिलेराम समेत 5 परिवार बेघर हो गए। करीब 50 लाख रुपये की संपत्ति नष्ट हो गई, जबकि दमकल विभाग और ग्रामीणों ने करीब 1 करोड़ रुपये की संपत्ति बचा ली और आग को आसपास के मकानों तक फैलने से रोक दिया।"
+   }
+  },
   {
    "id": "ugc-flags-32-fake-universities-delhi-12-uttar-pradesh-4",
    "category": "Education",
@@ -3272,27 +3295,6 @@
    "hi": {
     "title": "अरुणाचल के आदि संगठनों ने अमित शाह से ग्यारह हज़ार दो सौ मेगावाट का सियांग मेगा बाँध रद्द करने की माँग की",
     "summary": "आदि समुदाय के दो संगठनों ने गृह मंत्री अमित शाह को प्रस्तावित ग्यारह हज़ार दो सौ मेगावाट के सियांग अपर बाँध के ख़िलाफ़ ज्ञापन सौंपा है। उनका कहना है कि इसे उन लोगों की सहमति के बिना फिर से शुरू किया गया, जो इससे विस्थापित होंगे — और उन्होंने हिरासत में लिए गए प्रदर्शनकारियों, घाटी में सुरक्षा बलों और अक्टूबर की कार्रवाई की जाँच की माँग की है।"
-   }
-  },
-  {
-   "id": "fbi-ncic-database-hacked-november-21",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T12:02:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fbi-ncic-database-hacked-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fbi-ncic-database-hacked-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fbi-ncic-database-hacked-november-21-en.mp3",
-   "en": {
-    "title": "FBI's national crime database hacked in second breach in months",
-    "summary": "The FBI is investigating an apparent breach of its National Crime Information Center, the database police across America use to check warrants and criminal histories — the second intrusion into an FBI system in recent months."
-   },
-   "hi": {
-    "title": "एफ़बीआई का राष्ट्रीय अपराध डेटाबेस हैक, कुछ ही महीनों में दूसरी सेंध",
-    "summary": "एफ़बीआई अपने राष्ट्रीय अपराध सूचना केंद्र में हुई कथित सेंध की जाँच कर रही है — यह वही डेटाबेस है जिससे अमेरिका भर की पुलिस वारंट और आपराधिक रिकॉर्ड जाँचती है। कुछ ही महीनों में एफ़बीआई के सिस्टम में यह दूसरी घुसपैठ है।"
    }
   }
  ]
