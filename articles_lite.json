@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T16:10:57+05:30",
+ "updatedAt": "2026-11-22T16:20:05+05:30",
  "articles": [
+  {
+   "id": "ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T16:20:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22-en.mp3",
+   "district": "Prakasam",
+   "state": "Andhra Pradesh",
+   "hi": {
+    "title": "ओंगोल के पास कार पुलिया से टकराकर नाले में गिरी, शादी की पार्टी के 4 लोगों की मौत",
+    "summary": "आंध्र प्रदेश के प्रकाशम जिले में राष्ट्रीय राजमार्ग 16 पर पेल्लूरू गाँव के पास शनिवार सुबह एक कार पुलिया से टकराकर सूखे पड़े नाले में गिर गई, जिससे 4 लोगों की मौत हो गई। कार में सवार नवविवाहित जोड़ा घायल हो गया।"
+   },
+   "en": {
+    "title": "Four of a wedding party killed as car hits culvert and plunges into water channel near Ongole",
+    "summary": "Four people, including the parents of a newly married couple and the driver, were killed when their car hit a road culvert and plunged into a defunct water channel near Pelluru village on National Highway 16 in Andhra Pradesh's Prakasam district early on Saturday. The newly married couple, married on 18 November, escaped with injuries."
+   }
+  },
+  {
+   "id": "russia-triple-tap-strike-kryvyi-rih-two-killed-60-wounded-november-22",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T16:20:05+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russia-triple-tap-strike-kryvyi-rih-two-killed-60-wounded-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-triple-tap-strike-kryvyi-rih-two-killed-60-wounded-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russia-triple-tap-strike-kryvyi-rih-two-killed-60-wounded-november-22-en.mp3",
+   "hi": {
+    "title": "ज़ेलेंस्की के गृहनगर क्रिवी रीह पर रूस का ट्रिपल-टैप हमला, 7 साल के बच्चे और युवा पैरामेडिक की मौत",
+    "summary": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की के गृहनगर क्रिवी रीह पर रूस के ट्रिपल-टैप हमले में 7 साल के एक बच्चे और 20 साल की एक पैरामेडिक की मौत हो गई, जबकि लगभग 60 लोग घायल हो गए, स्थानीय अधिकारियों ने बताया। पहले बैलिस्टिक मिसाइलें एक रेस्तराँ की पार्किंग पर गिरीं, फिर ड्रोन उन बचावकर्मियों पर टूट पड़े जो मौके पर पहुँचे थे।"
+   },
+   "en": {
+    "title": "Russian triple-tap strike on Zelenskyy's hometown Kryvyi Rih kills 7-year-old boy and young paramedic",
+    "summary": "A Russian triple-tap strike on the central Ukrainian city of Kryvyi Rih, President Volodymyr Zelenskyy's hometown, killed a 7-year-old boy and a 20-year-old paramedic and wounded around 60 people, local officials said. Ballistic missiles first hit a restaurant car park, and drones then struck the rescue workers who rushed in."
+   }
+  },
   {
    "id": "gonda-watchman-prince-tiwari-electrocuted-parsa-head-november-22",
    "category": "State & Local",
@@ -3263,48 +3307,6 @@
    "en": {
     "title": "PM Modi inaugurates Nitish Setu over the Ganga in Vaishali, launches projects worth Rs 34,470 crore",
     "summary": "Prime Minister Narendra Modi on Saturday inaugurated Nitish Setu, the six-lane bridge over the Ganga in Bihar's Vaishali district, and launched development projects worth around Rs 34,470 crore. The 19.7 km bridge, built at a cost of around Rs 4,280 crore, connects Kachchi Dargah in Patna with Bidupur in Vaishali and is named after former chief minister Nitish Kumar."
-   }
-  },
-  {
-   "id": "salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T14:13:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/salman-khan-apologises-shraddha-kapoor-maatrubhumi-eetha-clash-november-21-en.mp3",
-   "hi": {
-    "title": "सलमान खान ने श्रद्धा कपूर से माँगी माफ़ी: मातृभूमि और ईठा चार दिसंबर को टकरा रहीं, 'मुझे सच में बहुत बुरा लग रहा है'",
-    "summary": "सलमान खान ने श्रद्धा कपूर से माफ़ी माँगी है, क्योंकि उनकी वॉर ड्रामा फिल्म मातृभूमि: मे वॉर रेस्ट इन पीस और श्रद्धा की बायोपिक ईठा, दोनों चार दिसंबर दो हज़ार छब्बीस को रिलीज़ हो रही हैं। सलमान ने कहा कि जब उनकी टीम ने तारीख पक्की की थी, तब उन्हें श्रद्धा की तारीख के बारे में नहीं पता था, उन्होंने खुद फोन करके माफ़ी माँगी और दर्शकों से उनकी फिल्म भी देखने की अपील की।"
-   },
-   "en": {
-    "title": "Salman Khan apologises to Shraddha Kapoor as Maatrubhumi and Eetha clash on December 4: 'I feel really, really bad about it'",
-    "summary": "Salman Khan has apologised to Shraddha Kapoor after learning his war drama Maatrubhumi: May War Rest in Peace and her biopic Eetha are both releasing on December 4, 2026. Salman said he did not know about her date when his team locked theirs, called her personally to say sorry, and urged audiences to watch her film too."
-   }
-  },
-  {
-   "id": "kbc-18-first-crorepati-bhushan-thakare-jalgaon-november-21",
-   "category": "Entertainment",
-   "sub": "TV",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T13:47:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kbc-18-first-crorepati-bhushan-thakare-jalgaon-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kbc-18-first-crorepati-bhushan-thakare-jalgaon-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kbc-18-first-crorepati-bhushan-thakare-jalgaon-november-21-en.mp3",
-   "hi": {
-    "title": "केबीसी 18 को मिला पहला करोड़पति: जळगाँव के भूषण ठाकरे ने जीता एक करोड़, अब सात करोड़ के सवाल पर नज़र",
-    "summary": "महाराष्ट्र के जळगाँव के अट्ठाईस साल के भूषण ठाकरे कौन बनेगा करोड़पति के अठारहवें सीज़न के पहले करोड़पति बन गए हैं। सोनी एंटरटेनमेंट टेलीविज़न ने नए प्रोमो में इसका खुलासा किया है, और अब वे सात करोड़ रुपये के जैकपॉट सवाल के सामने हैं। वे सिर्फ चौबीस रुपये लेकर मुंबई आए थे, और मज़दूर पिता ने उनकी पढ़ाई का खर्च उठाया था।"
-   },
-   "en": {
-    "title": "KBC 18 gets its first crorepati: Jalgaon's Bhushan Thakare wins Rs 1 crore, now eyes Rs 7 crore jackpot",
-    "summary": "Bhushan Thakare, a 28-year-old from Jalgaon in Maharashtra, has become the first Rs 1 crore winner of Kaun Banega Crorepati Season 18, Sony Entertainment Television revealed in a new promo — and he now faces the Rs 7 crore jackpot question. He had arrived in Mumbai with just Rs 24, his labourer father funding his education."
    }
   }
  ]
