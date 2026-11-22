@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T07:27:30+05:30",
+ "updatedAt": "2026-11-22T07:42:20+05:30",
  "articles": [
+  {
+   "id": "kota-udaipur-highway-cruiser-truck-crash-nine-pilgrims-killed-november-22",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T07:42:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kota-udaipur-highway-cruiser-truck-crash-nine-pilgrims-killed-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-udaipur-highway-cruiser-truck-crash-nine-pilgrims-killed-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-udaipur-highway-cruiser-truck-crash-nine-pilgrims-killed-november-22-en.mp3",
+   "district": "Kota",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "कोटा-उदयपुर हाईवे पर खड़े ट्रक से टकराई क्रूज़र, खाटू श्याम से लौट रहे नौ श्रद्धालुओं की मौत",
+    "summary": "महाराष्ट्र के एक ही परिवार के नौ लोगों की मौत हो गई, जिनमें बच्चे भी शामिल हैं। कोटा-उदयपुर हाईवे पर शंभूपुरा के पास आधी रात को उनकी क्रूज़र गाड़ी खड़े ट्रक से टकरा गई। सात लोग घायल हुए हैं। परिवार खाटू श्यामजी के दर्शन करके घर लौट रहा था।"
+   },
+   "en": {
+    "title": "Nine pilgrims killed as cruiser rams parked truck on Kota-Udaipur highway",
+    "summary": "Nine members of a Maharashtra family, including children, were killed and seven others injured around midnight when their cruiser rammed into a stationary truck near Shambhupura on the Kota-Udaipur highway. The family was returning home after offering prayers at the Khatu Shyamji temple."
+   }
+  },
+  {
+   "id": "india-declare-720-9-record-total-latham-duck-wellington-november-22",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T07:42:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-declare-720-9-record-total-latham-duck-wellington-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-declare-720-9-record-total-latham-duck-wellington-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-declare-720-9-record-total-latham-duck-wellington-november-22-en.mp3",
+   "hi": {
+    "title": "वेलिंगटन: भारत ने सात सौ बीस रन पर पारी घोषित की, न्यूज़ीलैंड में अब तक का सबसे बड़ा टेस्ट स्कोर; लैथम शून्य पर आउट",
+    "summary": "भारत ने वेलिंगटन में अपनी पहली पारी सात सौ बीस रन पर नौ विकेट पर घोषित कर दी, जो न्यूज़ीलैंड में अब तक का सबसे बड़ा टेस्ट स्कोर है। लोकेश राहुल और ऋषभ पंत ने शतक लगाए। इसके बाद जसप्रीत बुमराह ने न्यूज़ीलैंड के कप्तान टॉम लैथम को शून्य पर आउट कर दिया और मेज़बान टीम एक विकेट पर ग्यारह रन पर थी।"
+   },
+   "en": {
+    "title": "India declare on 720/9, a record total in New Zealand, and strike at once as Latham falls for a duck",
+    "summary": "India declared their first innings on 720 for 9 at Wellington, the highest Test total ever made in New Zealand, with centuries from KL Rahul and Rishabh Pant. Jasprit Bumrah then removed Tom Latham for a duck in New Zealand's second innings, leaving the hosts 11 for 1 and 341 behind."
+   }
+  },
   {
    "id": "odisha-cyber-command-centre-249-crore-majhi-approves-november-21",
    "category": "Crime & Law",
@@ -3213,48 +3257,6 @@
    "en": {
     "title": "111 caught with smart devices at South Korea Suneung exam as phone alerts ring nationwide",
     "summary": "The education ministry in South Korea said on Friday that 111 test-takers were caught with smart devices during the Suneung, the annual college entrance exam, on Thursday. Five were caught using devices during the test, and 54 were found after three nationwide disaster alerts set off every phone in the country at once."
-   }
-  },
-  {
-   "id": "indonesia-wildfires-30-billion-losses-celios-study-november-20",
-   "category": "Science",
-   "sub": "Environment",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T02:47:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indonesia-wildfires-30-billion-losses-celios-study-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-wildfires-30-billion-losses-celios-study-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-wildfires-30-billion-losses-celios-study-november-20-en.mp3",
-   "hi": {
-    "title": "इंडोनेशिया में जंगल की आग से तीस अरब डॉलर से ज़्यादा का नुकसान, स्वास्थ्य पर भी भारी बोझ",
-    "summary": "जकार्ता स्थित सेलियोस के अध्ययन के अनुसार दो हज़ार छब्बीस में इंडोनेशिया के जंगलों और पीटलैंड में लगी आग से आर्थिक और स्वास्थ्य संबंधी कुल नुकसान तीस अरब डॉलर से ज़्यादा हो सकता है। अब तक अट्ठाईस लाख अस्सी हज़ार हेक्टेयर ज़मीन जल चुकी है।"
-   },
-   "en": {
-    "title": "Indonesia's 2026 wildfires could cost more than 30 billion dollars, study finds",
-    "summary": "New research by the Jakarta-based Center of Economic and Law Studies, CELIOS, puts the total economic and health costs of Indonesia's 2026 wildfires at between 19.8 billion and 31.1 billion dollars. The fires have burned through 2.88 million hectares so far this year."
-   }
-  },
-  {
-   "id": "carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19",
-   "category": "Cricket & Sports",
-   "sub": "Chess",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T02:47:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/carlsen-forfeits-rapid-games-saves-2800-elo-total-chess-november-19-en.mp3",
-   "hi": {
-    "title": "कार्लसन ने दो रैपिड मुक़ाबले छोड़े, फिर ज़रूरी क्लासिकल जीतकर दो हज़ार आठ सौ से ऊपर बचे",
-    "summary": "बुडापेस्ट में टोटल चेस पायलट में मैग्नस कार्लसन ने व्लादिस्लाव आर्टेमिएव के ख़िलाफ़ दोनों रैपिड मुक़ाबले छोड़ दिए, फिर फ़ास्ट क्लासिक का निर्णायक मुक़ाबला जीतकर अपनी लाइव रेटिंग दो हज़ार आठ सौ से ऊपर बचा ली। ड्रॉ होने पर रेटिंग सत्रह साल में पहली बार दो हज़ार आठ सौ से नीचे चली जाती।"
-   },
-   "en": {
-    "title": "Carlsen forfeits two rapid games — then wins the must-win classical to stay above 2800",
-    "summary": "World number one Magnus Carlsen forfeited both rapid games against Vladislav Artemiev at the Total Chess pilot in Budapest, then won the must-win Fast Classic game to keep his live rating above 2800. A draw would have taken him below 2800 for the first time in 17 years."
    }
   }
  ]
