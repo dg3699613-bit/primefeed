@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T17:53:22+05:30",
+ "updatedAt": "2026-11-22T18:06:51+05:30",
  "articles": [
+  {
+   "id": "amit-shah-arunachal-40-border-villages-migration-stopped-november-22",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-22T18:06:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-arunachal-40-border-villages-migration-stopped-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-arunachal-40-border-villages-migration-stopped-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-arunachal-40-border-villages-migration-stopped-november-22-en.mp3",
+   "hi": {
+    "title": "चीन सीमा के 40 गाँवों में आबादी बढ़ी, पलायन रुका: अमित शाह",
+    "summary": "केंद्रीय गृह मंत्री अमित शाह ने रविवार को ईटानगर में कहा कि चीन सीमा से लगे अरुणाचल प्रदेश के 40 गाँवों में आबादी बढ़ रही है और पलायन रुक गया है। उन्होंने 11 सीमावर्ती जिलों में 5,610 करोड़ रुपये से अधिक की 4 विकास योजनाओं की शुरुआत भी की।"
+   },
+   "en": {
+    "title": "Population rising, migration stopped in 40 villages along China border, says Amit Shah",
+    "summary": "Union Home Minister Amit Shah said in Itanagar on Sunday that the population has risen and migration has stopped in 40 villages of Arunachal Pradesh along the China border. He also launched four development initiatives worth more than Rs 5,610 crore across 11 border districts."
+   }
+  },
+  {
+   "id": "patna-barh-wedding-party-scorpio-crash-four-killed-november-22",
+   "category": "State & Local",
+   "sub": "Bihar",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T18:06:51+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/patna-barh-wedding-party-scorpio-crash-four-killed-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/patna-barh-wedding-party-scorpio-crash-four-killed-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/patna-barh-wedding-party-scorpio-crash-four-killed-november-22-en.mp3",
+   "district": "Patna",
+   "state": "Bihar",
+   "hi": {
+    "title": "बारात से लौट रही स्कॉर्पियो ट्रेलर से टकराई, पटना में 4 की मौत",
+    "summary": "पटना जिले के बाढ़ अनुमंडल में रविवार तड़के एक शादी से लौट रही स्कॉर्पियो की ट्रेलर से टक्कर हो गई। हादसे में दूल्हे की चचेरी बहन समेत 4 लोगों की मौत हो गई, कई अन्य घायल हैं।"
+   },
+   "en": {
+    "title": "Scorpio carrying wedding party hits trailer in Patna, 4 killed",
+    "summary": "A Scorpio carrying a wedding party home after a ceremony collided with a trailer truck in Patna district's Barh subdivision early on Sunday. Four people, including the groom's cousin, were killed and several others were injured."
+   }
+  },
   {
    "id": "nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22",
    "category": "Politics",
@@ -580,7 +624,7 @@
    "category": "World",
    "sub": "Asia",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-22T14:36:37+05:30",
    "source": "PrimeFeed Desk",
@@ -3269,50 +3313,6 @@
    "en": {
     "title": "No mining land without Gram Sabha consent: Supreme Court quashes Odisha acquisition for Dalmia Cement",
     "summary": "The Supreme Court has held that prior Gram Sabha consent is mandatory before land in a Scheduled Area can be acquired for mining, setting aside Odisha's 2021 acquisition of farmland in three Sundargarh villages for a Dalmia Cement project. The court said at least 80% of affected families must also consent, and a mining lease alone does not entitle a company to start work by merely paying compensation."
-   }
-  },
-  {
-   "id": "two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T16:10:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-tankers-hit-by-unknown-projectiles-off-omans-khasab-in-strait-of-hormuz-en.mp3",
-   "hi": {
-    "title": "होरमुज़ जलसंधि से निकलते दो टैंकरों पर पचास मिनट के भीतर अज्ञात प्रक्षेपास्त्रों से हमला",
-    "summary": "ओमान के ख़सब तट के पास शनिवार सुबह होरमुज़ जलसंधि से बाहर निकल रहे दो टैंकरों पर पचास मिनट के भीतर अज्ञात प्रक्षेपास्त्र गिरे। ब्रिटिश समुद्री एजेंसी यूके एमटीओ ने कहा कि दोनों घटनाओं में कोई हताहत नहीं हुआ।"
-   },
-   "en": {
-    "title": "Two tankers hit by unknown projectiles off Oman's Khasab in the Strait of Hormuz",
-    "summary": "Two tankers sailing out of the Strait of Hormuz were struck by unidentified projectiles within 50 minutes of each other off Oman's Khasab coast on Saturday, the British maritime agency UKMTO said. No injuries were reported in either incident."
-   }
-  },
-  {
-   "id": "raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T15:57:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raipur-newborn-trafficking-racket-six-arrested-fake-birth-certificates-november-21-en.mp3",
-   "district": "Raipur",
-   "state": "Chhattisgarh",
-   "hi": {
-    "title": "रायपुर में नवजात बच्चों की खरीद-फरोख्त का भंडाफोड़: तीन प्रसव पर छब्बीस जन्म प्रमाण पत्र, छह गिरफ्तार",
-    "summary": "रायपुर पुलिस का कहना है कि उसने एक अंतरराज्यीय गिरोह का भंडाफोड़ किया है, जो कथित तौर पर एक निजी अस्पताल के जरिए फर्जी जन्म प्रमाण पत्र बनवाकर नवजात बच्चों को निःसंतान दंपतियों को बेचता था। अस्पताल के प्रबंध निदेशक समेत छह लोग गिरफ्तार हुए हैं; पुलिस के अनुसार कम से कम दस बच्चे अहमदाबाद, मुंबई और चेन्नई में बेचे गए।"
-   },
-   "en": {
-    "title": "Raipur newborn trafficking racket busted: six arrested as police find 26 birth certificates for just three deliveries",
-    "summary": "Raipur Police say they have busted an inter-state racket that allegedly sold newborns to childless couples using a private hospital to issue fake birth certificates. Six people, including the hospital's managing director, have been arrested; police say at least 10 babies were sold in Ahmedabad, Mumbai and Chennai."
    }
   }
  ]
