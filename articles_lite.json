@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T16:20:05+05:30",
+ "updatedAt": "2026-11-22T16:32:10+05:30",
  "articles": [
+  {
+   "id": "west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning",
+   "category": "Politics",
+   "sub": "BJP",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T16:32:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning-en.mp3",
+   "district": "North 24 Parganas",
+   "state": "West Bengal",
+   "hi": {
+    "title": "पश्चिम बंगाल की भाजपा विधायक रेखा पात्रा संदिग्ध ज़हरखुरानी के बाद वेंटिलेटर पर, हालत गंभीर",
+    "summary": "उत्तर 24 परगना के हिंगलगंज से भाजपा विधायक रेखा पात्रा की हालत गंभीर है और वह कोलकाता के एक निजी अस्पताल में वेंटिलेटर पर हैं। शनिवार रात घर पर अचानक तबीयत बिगड़ने के बाद उन्हें अस्पताल ले जाया गया था, और खबरों के अनुसार उनके शरीर में ज़हर के असर के लक्षण मिले हैं। बीमारी की असली वजह की आधिकारिक पुष्टि अभी नहीं हुई है।"
+   },
+   "en": {
+    "title": "West Bengal BJP MLA Rekha Patra critical on ventilator after suspected poisoning",
+    "summary": "BJP MLA Rekha Patra, who represents Hingalganj in North 24 Parganas, is critical and on ventilator support at a private hospital in Kolkata after falling suddenly ill at her home on Saturday night, with reports saying signs of poisoning were found in her body. The exact cause of her illness has not been officially confirmed."
+   }
+  },
   {
    "id": "ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22",
    "category": "State & Local",
@@ -3284,29 +3307,6 @@
    "en": {
     "title": "Rahul's 136, Gill's 98 put India 118 ahead at stumps on Day 3 in Wellington",
     "summary": "KL Rahul's superb 136 and Shubman Gill's 98 carried India to 486/4 at stumps on Day 3 of the first Test against New Zealand in Wellington, giving the visitors a 118-run lead. Rahul became the first Indian opener to score a Test century in each of South Africa, England, New Zealand and Australia, while Rishabh Pant was unbeaten on 55."
-   }
-  },
-  {
-   "id": "pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T14:22:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-inaugurates-nitish-setu-vaishali-34470-crore-projects-november-21-en.mp3",
-   "district": "Vaishali",
-   "state": "Bihar",
-   "hi": {
-    "title": "प्रधानमंत्री मोदी ने वैशाली में गंगा पर बने नीतीश सेतु का उद्घाटन किया, चौंतीस हज़ार चार सौ सत्तर करोड़ रुपये की परियोजनाओं की सौगात",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को बिहार के वैशाली ज़िले में गंगा पर बने छह लेन वाले नीतीश सेतु का उद्घाटन किया और चौंतीस हज़ार चार सौ सत्तर करोड़ रुपये की विकास परियोजनाओं की सौगात दी। लगभग चार हज़ार दो सौ अस्सी करोड़ रुपये की लागत से बना उन्नीस दशमलव सात किलोमीटर लंबा यह सेतु पटना के कच्ची दरगाह को वैशाली के बिदुपुर से जोड़ता है और इसका नाम पूर्व मुख्यमंत्री नीतीश कुमार के नाम पर रखा गया है।"
-   },
-   "en": {
-    "title": "PM Modi inaugurates Nitish Setu over the Ganga in Vaishali, launches projects worth Rs 34,470 crore",
-    "summary": "Prime Minister Narendra Modi on Saturday inaugurated Nitish Setu, the six-lane bridge over the Ganga in Bihar's Vaishali district, and launched development projects worth around Rs 34,470 crore. The 19.7 km bridge, built at a cost of around Rs 4,280 crore, connects Kachchi Dargah in Patna with Bidupur in Vaishali and is named after former chief minister Nitish Kumar."
    }
   }
  ]
