@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-22T05:38:53+05:30",
+ "updatedAt": "2026-11-22T05:56:52+05:30",
  "articles": [
+  {
+   "id": "bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T05:56:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21-en.mp3",
+   "district": "Bareilly",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "बरेली के अठहत्तर वर्षीय हकीम को बीस घंटे रखा 'डिजिटल अरेस्ट' में, ढाई करोड़ की आतंकी फंडिंग का डर दिखाकर ठगने की कोशिश",
+    "summary": "एटीएस और एनआईए के अधिकारी बनकर साइबर ठगों ने बरेली के अठहत्तर वर्षीय हकीम खुर्शीद मुराद सिद्दीकी को करीब बीस घंटे तक 'डिजिटल अरेस्ट' में रखा और दावा किया कि उनके नाम के खाते से आतंकियों को ढाई करोड़ रुपये भेजे गए हैं। बैंक जाकर आरटीजीएस से रकम ट्रांसफर कराने की बात पर ठगी का राज खुला और मैनेजर उन्हें साइबर क्राइम थाने ले गए; कोई रकम नहीं गई।"
+   },
+   "en": {
+    "title": "Fraudsters hold Bareilly's 78-year-old hakim in 'digital arrest' for 20 hours over fake Rs 2.5 crore terror-funding claim",
+    "summary": "Cyber fraudsters posing as ATS and NIA officers kept 78-year-old Hakim Khursheed Murad Siddiqui of Bareilly under 'digital arrest' for nearly 20 hours, claiming Rs 2.5 crore had been sent to terrorists from an account in his name. The demand to transfer money by RTGS at a bank gave the fraud away, and his manager took him to the cyber crime police station instead; no money was lost."
+   }
+  },
+  {
+   "id": "tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T05:56:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21-en.mp3",
+   "district": "Tonk",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "टोंक पुलिस ने अड़तालीस घंटे में सुलझाई ब्लाइंड मर्डर की गुत्थी, पचास किमी के सीसीटीवी और मोरेल नदी के पास मिली बाइक से खुला राज",
+    "summary": "टोंक पुलिस ने बाईस वर्षीय मानसिंह गुर्जर की हत्या का अड़तालीस घंटे में खुलासा कर मुख्य आरोपी सचिन गुर्जर को गिरफ्तार कर लिया है। पैंतालीस से पचास किलोमीटर क्षेत्र के सीसीटीवी फुटेज खंगाले गए और मोरेल नदी के पास लावारिस मिली बाइक से पुलिस आरोपी तक पहुंची। एक बाल अपचारी निरुद्ध है, सुनील मीणा सहित अन्य आरोपियों की तलाश जारी है।"
+   },
+   "en": {
+    "title": "Tonk police crack blind murder in 48 hours: CCTV trawl over 50 km and bike near Morel river lead to main accused",
+    "summary": "Tonk police have cracked the blind murder of 22-year-old Mansingh Gurjar in 48 hours, arresting main accused Sachin Gurjar after scanning CCTV footage across 45 to 50 kilometres and tracing the victim's bike, found abandoned near the Morel river. A minor has been detained; Sunil Meena and other accused are being traced."
+   }
+  },
   {
    "id": "malappuram-mdma-kingpin-arrested-mumbai-wife-november-21",
    "category": "Crime & Law",
@@ -3203,48 +3249,6 @@
    "en": {
     "title": "PM Modi's three-state day: IIT Kharagpur's 75th, ₹34,470-crore projects in Vaishali, skill event in Lucknow",
     "summary": "Prime Minister Narendra Modi will spend Saturday, November 21, in West Bengal, Bihar and Uttar Pradesh — attending the platinum jubilee of IIT Kharagpur in the morning, inaugurating projects worth about ₹34,470 crore in Vaishali in the afternoon, and closing the day at the Kaushal Deekshant Samaroh in Lucknow."
-   }
-  },
-  {
-   "id": "india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T02:02:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-wedding-season-52-lakh-weddings-rs-7-5-lakh-crore-november-21-en.mp3",
-   "hi": {
-    "title": "पच्चीस दिन में बावन लाख शादियाँ: शादी के सीज़न से सात लाख पचास हज़ार करोड़ रुपये का कारोबार",
-    "summary": "अखिल भारतीय व्यापारी परिसंघ (कैट) के अनुमान के मुताबिक इक्कीस नवंबर से पंद्रह दिसंबर के बीच देशभर में करीब बावन लाख शादियाँ होंगी, जिनसे करीब सात लाख पचास हज़ार करोड़ रुपये का कारोबार होगा और करीब एक करोड़ पच्चीस लाख अस्थायी रोज़गार बनेंगे।"
-   },
-   "en": {
-    "title": "52 lakh weddings in 25 days: India's wedding season set to ring up ₹7.5 lakh crore",
-    "summary": "Around 52 lakh weddings are expected across India between November 21 and December 15, generating business worth an estimated ₹7.5 lakh crore and creating about 1.25 crore temporary jobs, according to traders' body CAIT."
-   }
-  },
-  {
-   "id": "nse-worlds-fifth-largest-listed-exchange-overtakes-nasdaq-hkex-november-20",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T01:41:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nse-worlds-fifth-largest-listed-exchange-overtakes-nasdaq-hkex-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nse-worlds-fifth-largest-listed-exchange-overtakes-nasdaq-hkex-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nse-worlds-fifth-largest-listed-exchange-overtakes-nasdaq-hkex-november-20-en.mp3",
-   "hi": {
-    "title": "एनएसई दुनिया का पाँचवाँ सबसे बड़ा सूचीबद्ध एक्सचेंज बना, नैस्डैक और हांगकांग को पीछे छोड़ा",
-    "summary": "नेशनल स्टॉक एक्सचेंज का बाज़ार मूल्य बढ़कर लगभग उनसठ दशमलव छह पाँच अरब अमेरिकी डॉलर हो गया है, जिससे वह दुनिया का पाँचवाँ सबसे बड़ा सूचीबद्ध एक्सचेंज ऑपरेटर बन गया है। उसके शेयर शुक्रवार को दो हज़ार दो सौ इक्यावन रुपये के दिन के उच्चतम स्तर तक गए।"
-   },
-   "en": {
-    "title": "NSE becomes world's fifth-largest listed exchange, overtakes Nasdaq and Hong Kong",
-    "summary": "The National Stock Exchange has overtaken Nasdaq and Hong Kong's HKEX to become the world's fifth-largest listed exchange operator, with a market value of about 59.65 billion US dollars. Its shares hit an intraday high of 2,251 rupees on Friday, and NSE is now also India's ninth-largest listed company."
    }
   }
  ]
