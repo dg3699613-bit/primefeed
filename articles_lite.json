@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-22T09:24:31+05:30",
+ "updatedAt": "2026-11-22T09:45:18+05:30",
  "articles": [
+  {
+   "id": "rajasthan-panchayat-repoll-28-booths-11-districts-november-22",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T09:45:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-panchayat-repoll-28-booths-11-districts-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-repoll-28-booths-11-districts-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-repoll-28-booths-11-districts-november-22-en.mp3",
+   "hi": {
+    "title": "राजस्थान में पंचायत चुनाव: ईवीएम न खुलने पर 11 जिलों के 28 बूथों पर आज दोबारा मतदान",
+    "summary": "राजस्थान में पंचायती राज चुनाव की मतगणना के दौरान 28 बूथों की ईवीएम खुल नहीं पाईं, जिसके बाद राज्य निर्वाचन आयोग ने आज 22 नवंबर को उन बूथों पर दोबारा मतदान का आदेश दिया है। 22 पंचायत समिति वार्डों और 6 जिला परिषद वार्डों के नतीजे रोके गए थे; मतदान के बाद रात 9 बजे से मतगणना होगी।"
+   },
+   "en": {
+    "title": "Rajasthan panchayat repoll today at 28 booths in 11 districts after EVMs fail to open",
+    "summary": "The Rajasthan State Election Commission has ordered repolling at 28 polling booths in 11 districts on Sunday, November 22, after electronic voting machines at these booths could not be opened during counting on Friday. Results of 22 panchayat samiti wards and 6 zila parishad wards were withheld; counting will be held at 9 pm after polling ends."
+   }
+  },
+  {
+   "id": "gold-silver-crash-friday-mcx-november-21",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T09:45:18+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-silver-crash-friday-mcx-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-friday-mcx-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-friday-mcx-november-21-en.mp3",
+   "hi": {
+    "title": "सोना 1 दिन में 4.49 प्रतिशत गिरकर 1.21 लाख रुपये, चांदी 6.6 प्रतिशत टूटी",
+    "summary": "शुक्रवार को सोने और चांदी की कीमतों में भारी गिरावट आई। एमसीएक्स पर सोना 4.49 प्रतिशत गिरकर 1,21,719 रुपये प्रति 10 ग्राम और चांदी 6.6 प्रतिशत टूटकर 1,47,066 रुपये प्रति किलो पर आ गई। वजह अमेरिकी डॉलर का मजबूत होना, बॉन्ड यील्ड का बढ़ना और फेडरल रिज़र्व की ओर से ब्याज दरें बढ़ाए जाने की आशंका है। पूरे हफ्ते में सोना 8.77 प्रतिशत और चांदी 14.31 प्रतिशत टूटी है, जो 14 महीने का सबसे निचला स्तर है।"
+   },
+   "en": {
+    "title": "Gold falls 4.49% to Rs 1.21 lakh, silver plunges 6.6% in a day as Fed rate fears rattle bullion",
+    "summary": "Gold and silver fell sharply on Friday, with MCX gold futures down 4.49% to Rs 1,21,719 per 10 grams and silver down 6.6% to Rs 1,47,066 per kg, as a firm dollar, high bond yields and expectations of tighter US monetary policy rattled investors. Over the week, gold is down 8.77% to a 14-month low and silver 14.31%, while wedding-season buyers are using the dip to advance purchases."
+   }
+  },
   {
    "id": "odisha-probe-naveen-patnaik-vk-pandian-ravi-kant-foreign-trips",
    "category": "Politics",
@@ -3229,48 +3271,6 @@
    "en": {
     "title": "Rahul 93 not out, Padikkal fifty: India reach 239 for 1 at lunch on day three in Wellington",
     "summary": "KL Rahul moved to 93 not out and Devdutt Padikkal made an unbeaten 53 as India reached 239 for 1 at lunch on day three of the first Test against New Zealand in Wellington, trailing by 129 runs after the pair added an unbroken 109 for the second wicket."
-   }
-  },
-  {
-   "id": "hyundai-all-new-elantra-2027-la-auto-show-november-20",
-   "category": "Business",
-   "sub": "Auto",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T05:51:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hyundai-all-new-elantra-2027-la-auto-show-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyundai-all-new-elantra-2027-la-auto-show-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyundai-all-new-elantra-2027-la-auto-show-november-20-en.mp3",
-   "hi": {
-    "title": "हुंडई ने एलए ऑटो शो में पेश की नई आठवीं पीढ़ी की एलांट्रा, हाइब्रिड सबसे आगे",
-    "summary": "हुंडई ने लॉस एंजिल्स ऑटो शो में आठवीं पीढ़ी की एलांट्रा पेश की है, जिसमें बड़ा आकार, बारह दशमलव नौ इंच का सॉफ्टवेयर-आधारित केबिन और एक दशमलव छह लीटर हाइब्रिड इंजन है, जो एक सौ सत्तावन पीएस की ताक़त देता है, जबकि दो लीटर पेट्रोल इंजन एक सौ उनचास पीएस देता है। कोरिया में अवांते नाम से बिकने वाली यह सेडान दो हज़ार सत्ताईस की शुरुआत में दुनियाभर के बाज़ारों में आएगी।"
-   },
-   "en": {
-    "title": "Hyundai unveils all-new eighth-generation Elantra at LA Auto Show, hybrid leads the range",
-    "summary": "Hyundai has unveiled the eighth-generation Elantra at the Los Angeles Auto Show, with a bigger body, a 12.9-inch software-led cabin and a choice of a 1.6-litre hybrid making 157 PS or a 2.0-litre petrol engine with 149 PS. The sedan, sold as the Avante in Korea, reaches global markets in early 2027."
-   }
-  },
-  {
-   "id": "sc-upholds-karnataka-bike-taxi-verdict-rapido-ola-uber-november-20",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T05:26:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-upholds-karnataka-bike-taxi-verdict-rapido-ola-uber-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-upholds-karnataka-bike-taxi-verdict-rapido-ola-uber-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-upholds-karnataka-bike-taxi-verdict-rapido-ola-uber-november-20-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने कर्नाटक में बाइक टैक्सी को हरी झंडी दी, कहा — प्रतिबंध से बेहतर है नियमन",
-    "summary": "सुप्रीम कोर्ट ने कर्नाटक सरकार की अपील खारिज कर बाइक टैक्सी सेवाओं को जारी रखने का रास्ता साफ कर दिया। अदालत ने कहा कि बाइक टैक्सी पच्चीस राज्यों में चल रही है और महिलाओं के लिए सस्ता-सुरक्षित विकल्प है, इसलिए प्रतिबंध की जगह नियमन होना चाहिए।"
-   },
-   "en": {
-    "title": "Supreme Court clears bike taxis in Karnataka: Better to regulate than ban",
-    "summary": "The Supreme Court has dismissed the Karnataka government's appeal and cleared bike taxi services to continue in the state. The court said bike taxis already run in 25 states and are a cheap, safe option, especially for women — regulation, not a ban, is the answer."
    }
   }
  ]
