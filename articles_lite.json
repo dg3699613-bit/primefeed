@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-22T07:59:38+05:30",
+ "updatedAt": "2026-11-22T08:17:14+05:30",
  "articles": [
+  {
+   "id": "kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T08:17:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22-en.mp3",
+   "district": "Kutch",
+   "state": "Gujarat",
+   "hi": {
+    "title": "कच्छ में भुज-खावड़ा हाईवे पर ट्रेलर से टकराई कार, एक ही परिवार के सात लोगों की मौत; तीन बच्चे भी शामिल",
+    "summary": "शनिवार देर रात कच्छ के भुज-खावड़ा राष्ट्रीय राजमार्ग पर वेकारिया रण के पास कार और ट्रेलर की टक्कर में उत्तराखंड के एक परिवार के सात लोगों की मौत हो गई। टक्कर इतनी भीषण थी कि कार के दो टुकड़े हो गए।"
+   },
+   "en": {
+    "title": "Seven of a family, three of them children, killed as car hits trailer on Bhuj-Khavda highway in Kutch",
+    "summary": "Seven members of a family from Uttarakhand, among them three children, were killed late on Saturday night when their car collided with a trailer truck on the Bhuj-Khavda National Highway near Vekariya Rann in Kutch. The car was torn into two pieces in the collision."
+   }
+  },
+  {
+   "id": "bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22",
+   "category": "Politics",
+   "sub": "Parliament",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-22T08:17:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22-en.mp3",
+   "district": "Hingoli",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "भाजपा के राज्यसभा सांसद रामराव वडकुटे का दिल का दौरा पड़ने से निधन, दिल्ली के एम्स में बहत्तर साल की उम्र में ली अंतिम साँस",
+    "summary": "भाजपा के राज्यसभा सांसद रामराव सखाराम वडकुटे का शनिवार देर रात दिल्ली के एम्स में दिल का दौरा पड़ने से निधन हो गया। वे बहत्तर साल के थे और इसी साल अप्रैल में भाजपा ने उन्हें महाराष्ट्र से राज्यसभा भेजा था।"
+   },
+   "en": {
+    "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of heart attack at 72 in Delhi's AIIMS",
+    "summary": "BJP Rajya Sabha MP Ramrao Sakharam Wadkute, 72, died of a severe heart attack at AIIMS in New Delhi late on Saturday night, months after the BJP sent him to the Upper House from Maharashtra in April. The Hingoli leader was a prominent voice of the Dhangar community."
+   }
+  },
   {
    "id": "bilaspur-hc-child-care-leave-730-days-lecturer-rajshri-kaushik-november-21",
    "category": "Crime & Law",
@@ -29,7 +75,7 @@
    "category": "World",
    "sub": "Others",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-22T07:59:38+05:30",
    "source": "PrimeFeed Desk",
@@ -3217,48 +3263,6 @@
    "en": {
     "title": "Denmark expels Russian defence attaché over alleged plot to kill rapper Kyivstoner",
     "summary": "Denmark has expelled the Russian defence attaché after its intelligence service said Russian intelligence planned to assassinate Ukrainian-American rapper Kyivstoner at a concert near Copenhagen in September. Two Danish men were charged on Friday with attempted murder and assisting a foreign intelligence service."
-   }
-  },
-  {
-   "id": "youth-led-protests-sweep-europe-25-countries-november-20",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T04:25:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/youth-led-protests-sweep-europe-25-countries-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-led-protests-sweep-europe-25-countries-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-led-protests-sweep-europe-25-countries-november-20-en.mp3",
-   "hi": {
-    "title": "यूरोप के पच्चीस देशों में युवाओं का प्रदर्शन: महँगाई और हथियारों पर खर्च के खिलाफ सड़कों पर उतरी जेन ज़ी",
-    "summary": "शुक्रवार को यूरोप के पच्चीस से ज़्यादा देशों में हज़ारों युवा सड़कों पर उतरे। महँगाई, शिक्षा में कम खर्च और हथियारों पर बढ़ते खर्च के खिलाफ हुए इस समन्वित प्रदर्शन में इटली में आम हड़ताल से जनजीवन ठप हो गया।"
-   },
-   "en": {
-    "title": "Youth-led protests sweep across 25 European countries over living costs and war spending",
-    "summary": "Tens of thousands of young people marched across more than 25 European countries on Friday in a coordinated day of action against high living costs, underfunded education and rising military spending, with a general strike bringing Italy to a standstill."
-   }
-  },
-  {
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20-en.mp3",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20-hi.mp3",
-   "breaking": false,
-   "category": "Politics",
-   "featured": false,
-   "id": "congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-wins-rajasthan-panchayat-final-results-3701-seats-november-20.jpg",
-   "publishedAt": "2026-11-21T03:30:00+05:30",
-   "source": "PrimeFeed Desk",
-   "sub": "Elections",
-   "trending": true,
-   "hi": {
-    "title": "राजस्थान पंचायत चुनाव: कांग्रेस की बड़ी जीत, 3,701 पंचायत समिति सीटें; भाजपा 2,181 पर सिमटी",
-    "summary": "राजस्थान पंचायती राज चुनाव में कांग्रेस ने बड़ी जीत दर्ज की है। पार्टी ने 3,701 पंचायत समिति सीटें और 599 जिला परिषद सीटें जीतीं, जबकि भाजपा क्रमशः 2,181 और 301 सीटों पर रही। शुक्रवार को मतगणना वाले 37 जिलों में से 33 में कांग्रेस आगे रही।"
-   },
-   "en": {
-    "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in",
-    "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday."
    }
   }
  ]
