@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-22T15:18:27+05:30",
+ "updatedAt": "2026-11-22T15:23:16+05:30",
  "articles": [
+  {
+   "id": "phalodi-tempo-traveller-car-collision-three-killed-15-injured-november-22",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T15:23:16+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/phalodi-tempo-traveller-car-collision-three-killed-15-injured-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/phalodi-tempo-traveller-car-collision-three-killed-15-injured-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/phalodi-tempo-traveller-car-collision-three-killed-15-injured-november-22-en.mp3",
+   "district": "Phalodi",
+   "state": "Rajasthan",
+   "en": {
+    "title": "Three of a family killed, 15 injured as tempo traveller collides with car in Phalodi",
+    "summary": "A tempo traveller carrying pilgrims collided head-on with a car on National Highway 125 in Phalodi district on Saturday night. Three members of a family from Gujarat were killed and more than 15 people were injured, five of them critically."
+   },
+   "hi": {
+    "title": "फलौदी में टेंपो ट्रैवलर-कार की टक्कर, रामदेवरा से लौट रहे परिवार के 3 लोगों की मौत, 15 घायल",
+    "summary": "फलौदी जिले में राष्ट्रीय राजमार्ग 125 पर शनिवार रात टेंपो ट्रैवलर और कार की आमने-सामने टक्कर हो गई। हादसे में गुजरात के एक परिवार के 3 लोगों की मौत हो गई और 15 से ज्यादा लोग घायल हुए हैं, जिनमें 5 की हालत गंभीर है।"
+   }
+  },
+  {
+   "id": "jalore-bike-swift-collision-blast-two-killed-narsana-november-22",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T15:23:16+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jalore-bike-swift-collision-blast-two-killed-narsana-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalore-bike-swift-collision-blast-two-killed-narsana-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalore-bike-swift-collision-blast-two-killed-narsana-november-22-en.mp3",
+   "district": "Jalore",
+   "state": "Rajasthan",
+   "en": {
+    "title": "Bike catches fire and explodes after collision with car in Jalore; two men killed",
+    "summary": "Two men on a motorcycle were killed in Jalore district on Saturday evening after their bike collided head-on with a Swift car near Narsana culvert in the Bishangarh police station area. The bike caught fire and exploded after the collision."
+   },
+   "hi": {
+    "title": "जालोर में कार से टकराई बाइक, धमाके के बाद लगी आग; शेरगढ़ से आ रहे 2 युवकों की मौत",
+    "summary": "जालोर जिले में बिशनगढ़ थाना क्षेत्र के नरसाणा पुलिया के पास शनिवार शाम स्विफ्ट कार और बाइक की आमने-सामने टक्कर हो गई। टक्कर के बाद बाइक में आग लग गई और जोरदार धमाका हुआ, जिसमें बाइक सवार 2 युवकों की मौत हो गई।"
+   }
+  },
   {
    "id": "malana-fire-three-storey-house-gutted-five-families-homeless-kullu",
    "category": "State & Local",
@@ -3253,48 +3299,6 @@
    "hi": {
     "title": "ईरान का दावा: होरमुज़ जलसंधि के ऊपर अट्ठावनवाँ अमेरिकी एमक्यू-नौ ड्रोन मार गिराया",
     "summary": "ईरान की रिवोल्यूशनरी गार्ड का कहना है कि उसकी वायु रक्षा ने होरमुज़ जलसंधि के ऊपर एक और अमेरिकी एमक्यू-नौ ड्रोन मार गिराया है — उसके दावे के मुताबिक अट्ठावनवाँ — जबकि खाड़ी में तनाव बढ़ रहा है और तेल तिरासी डॉलर बासठ सेंट पर टिका है।"
-   }
-  },
-  {
-   "id": "congress-four-point-delimitation-formula-543-seats-25-year-freeze-november-21",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T12:13:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-four-point-delimitation-formula-543-seats-25-year-freeze-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-four-point-delimitation-formula-543-seats-25-year-freeze-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-four-point-delimitation-formula-543-seats-25-year-freeze-november-21-en.mp3",
-   "en": {
-    "title": "Congress draws four-point line on delimitation: 543 seats, state shares and a 25-year freeze",
-    "summary": "Ahead of Parliament's winter session, the Congress has laid out a four-point formula on delimitation — keep the Lok Sabha at 543 seats, hold state-wise shares as they are, reserve a third of seats for women now, and freeze the arrangement for 25 years — and says the INDIA bloc is united behind it."
-   },
-   "hi": {
-    "title": "परिसीमन पर कांग्रेस की चार सूत्रीय लकीर: पाँच सौ तैंतालीस सीटें, राज्यों का हिस्सा और पच्चीस साल की रोक",
-    "summary": "संसद के शीतकालीन सत्र से पहले कांग्रेस ने परिसीमन पर चार सूत्रीय फ़ॉर्मूला पेश किया है — लोकसभा पाँच सौ तैंतालीस सीटों पर रहे, राज्यों का हिस्सा जैसा है वैसा रहे, एक तिहाई सीटें महिलाओं के लिए अभी आरक्षित हों और व्यवस्था पच्चीस साल के लिए जम जाए — और पार्टी का कहना है कि इंडिया गठबंधन इस पर एकजुट है।"
-   }
-  },
-  {
-   "id": "arunachal-adi-bodies-petition-amit-shah-siang-mega-dam-november-21",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T12:13:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/arunachal-adi-bodies-petition-amit-shah-siang-mega-dam-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/arunachal-adi-bodies-petition-amit-shah-siang-mega-dam-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/arunachal-adi-bodies-petition-amit-shah-siang-mega-dam-november-21-en.mp3",
-   "en": {
-    "title": "Arunachal's Adi bodies ask Amit Shah to scrap the 11,200 MW Siang mega dam",
-    "summary": "Two Adi organisations have petitioned Home Minister Amit Shah against the proposed 11,200 MW Siang Upper dam, saying it was revived without the consent of the people it would displace — and listing detained protesters, security forces in the valley and an October crackdown among their demands."
-   },
-   "hi": {
-    "title": "अरुणाचल के आदि संगठनों ने अमित शाह से ग्यारह हज़ार दो सौ मेगावाट का सियांग मेगा बाँध रद्द करने की माँग की",
-    "summary": "आदि समुदाय के दो संगठनों ने गृह मंत्री अमित शाह को प्रस्तावित ग्यारह हज़ार दो सौ मेगावाट के सियांग अपर बाँध के ख़िलाफ़ ज्ञापन सौंपा है। उनका कहना है कि इसे उन लोगों की सहमति के बिना फिर से शुरू किया गया, जो इससे विस्थापित होंगे — और उन्होंने हिरासत में लिए गए प्रदर्शनकारियों, घाटी में सुरक्षा बलों और अक्टूबर की कार्रवाई की जाँच की माँग की है।"
    }
   }
  ]
