@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T02:21:42+05:30",
+ "updatedAt": "2026-11-23T02:34:17+05:30",
  "articles": [
+  {
+   "id": "sabroom-alleged-gangrape-survivor-dies-after-13-days-one-accused-arrested-south-tripura",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T02:34:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sabroom-alleged-gangrape-survivor-dies-after-13-days-one-accused-arrested-south-tripura.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sabroom-alleged-gangrape-survivor-dies-after-13-days-one-accused-arrested-south-tripura-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sabroom-alleged-gangrape-survivor-dies-after-13-days-one-accused-arrested-south-tripura-en.mp3",
+   "district": "South Tripura",
+   "state": "Tripura",
+   "hi": {
+    "title": "त्रिपुरा के सबरूम में कथित सामूहिक दुष्कर्म की पीड़िता की 13 दिन बाद मौत; एक आरोपी गिरफ्तार, दूसरे की तलाश जारी",
+    "summary": "सबरूम की 30 वर्षीय महिला की अगरतला के जीबी पंत अस्पताल में 13 दिन के इलाज के बाद मौत हो गई। पुलिस के मुताबिक 9 नवंबर की रात कथित दुष्कर्म के बाद महिला ने 10 नवंबर को खुद को आग लगा ली थी; सबरूम थाने में भारतीय न्याय संहिता की धाराओं में मामला दर्ज है, मुख्य आरोपी गिरफ्तार है और दूसरे की तलाश जारी है।"
+   },
+   "en": {
+    "title": "Sabroom 'gang-rape' survivor dies after 13 days in hospital; one accused arrested, second still being traced",
+    "summary": "A 30-year-old woman from Sabroom in Tripura's South Tripura district died at Agartala's GB Pant Hospital after 13 days of treatment for severe burn injuries. Police say she set herself on fire on November 10, a day after two men allegedly raped her; a case is registered at Sabroom police station, the principal accused is arrested and the second is still being traced."
+   }
+  },
+  {
+   "id": "democrats-clinch-historic-258-seat-house-majority-largest-since-1992",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T02:34:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/democrats-clinch-historic-258-seat-house-majority-largest-since-1992.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/democrats-clinch-historic-258-seat-house-majority-largest-since-1992-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/democrats-clinch-historic-258-seat-house-majority-largest-since-1992-en.mp3",
+   "hi": {
+    "title": "अमेरिका में डेमोक्रेट्स की ऐतिहासिक जीत: हाउस में 258 सीटें, 1992 के बाद किसी भी पार्टी का सबसे बड़ा बहुमत",
+    "summary": "अमेरिका के मध्यावधि चुनाव में डेमोक्रेट्स ने प्रतिनिधि सभा में कम से कम 258 सीटें जीत ली हैं — 1992 के बाद किसी भी पार्टी का सबसे बड़ा बहुमत। उत्तरी कैरोलिना में चक हबर्ड की वर्जीनिया फॉक्स पर जीत के साथ यह आंकड़ा पूरा हुआ; डेमोक्रेट्स को 44 सीटों का शुद्ध लाभ हुआ है और सीनेट में भी उनका बहुमत है।"
+   },
+   "en": {
+    "title": "Democrats clinch historic 258-seat House majority, largest by any party since 1992",
+    "summary": "Democrats have secured at least 258 seats in the US House of Representatives — the largest majority by either party since 1992. The milestone was reached after Chuck Hubbard defeated longtime Republican Virginia Foxx in North Carolina; Democrats have gained 44 seats so far and also hold the Senate."
+   }
+  },
   {
    "id": "kozhikode-hospital-doctor-booked-8-year-old-death-negligence-case-november-22",
    "category": "Crime & Law",
@@ -3265,50 +3309,6 @@
    "en": {
     "title": "Seven-day-old baby taken from outside Hyderabad's Gandhi Hospital rescued within 24 hours; six arrested",
     "summary": "A seven-day-old baby girl allegedly taken from outside Gandhi Hospital in Secunderabad was rescued within 24 hours and handed back to her parents. Police said six people were arrested, including a woman who allegedly lured the family with the promise of Rs 1 lakh in government aid and planned to hand the baby to a childless couple."
-   }
-  },
-  {
-   "id": "ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T23:46:51+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-panchayat-polls-70-03-percent-turnout-first-local-polls-since-ut-november-21-en.mp3",
-   "hi": {
-    "title": "लद्दाख में आठ साल बाद पंचायत चुनाव, सत्तर दशमलव शून्य तीन प्रतिशत मतदान — उपराज्यपाल ने कहा ऐतिहासिक दिन",
-    "summary": "केंद्र शासित प्रदेश बनने के बाद लद्दाख में शनिवार को हुए पहले पंचायत और नगर निकाय चुनाव में पंचायत चुनाव में सत्तर दशमलव शून्य तीन प्रतिशत और नगर निकाय चुनाव में बावन दशमलव चार शून्य प्रतिशत मतदान हुआ। उपराज्यपाल विनय कुमार सक्सेना ने इसे ऐतिहासिक दिन बताया।"
-   },
-   "en": {
-    "title": "Ladakh records 70.03% turnout in first panchayat polls since becoming a Union Territory",
-    "summary": "Ladakh's first panchayat and municipal elections since it became a Union Territory drew a 70.03 per cent turnout in the panchayat polls and 52.40 per cent in the municipal polls on Saturday. Lieutenant Governor Vinai Kumar Saxena called it a historic day."
-   }
-  },
-  {
-   "id": "ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T23:27:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ngt-notices-illegal-mining-blasting-bajranggarh-fort-guna-november-21-en.mp3",
-   "district": "Guna",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "गुना में ऐतिहासिक बजरंगगढ़ किले के पास अवैध खनन और ब्लास्टिंग पर एनजीटी का स्वतः संज्ञान, पाँच अधिकारियों को नोटिस",
-    "summary": "राष्ट्रीय हरित अधिकरण ने मध्य प्रदेश के गुना ज़िले में ऐतिहासिक बजरंगगढ़ किले से सटी पहाड़ियों में अवैध खनन और लगातार ब्लास्टिंग का स्वतः संज्ञान लिया है। अधिकरण ने राज्य सरकार समेत पाँच अधिकारियों को नोटिस जारी किए हैं और तेईस दिसंबर को होने वाली अगली सुनवाई से पहले जवाब माँगा है।"
-   },
-   "en": {
-    "title": "NGT takes suo motu note of illegal mining, blasting near historic Bajranggarh Fort in Guna, notices to five authorities",
-    "summary": "The National Green Tribunal has taken suo motu cognisance of alleged illegal mining and frequent blasting in the hills adjoining the historic Bajranggarh Fort in Madhya Pradesh's Guna district, and issued notices to five authorities, including the state government. The tribunal has asked them to reply ahead of the next hearing on December 23."
    }
   }
  ]
