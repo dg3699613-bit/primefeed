@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-22T16:41:24+05:30",
+ "updatedAt": "2026-11-22T16:53:40+05:30",
  "articles": [
+  {
+   "id": "kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T16:53:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22-en.mp3",
+   "district": "Kanker",
+   "state": "Chhattisgarh",
+   "hi": {
+    "title": "कांकेर में जीएसटी अफसर आंचला गिरी सस्पेंड, एसीबी ने 1.5 लाख रुपये रिश्वत लेते पकड़ा",
+    "summary": "छत्तीसगढ़ के कांकेर में जीएसटी विभाग की असिस्टेंट कमिश्नर आंचला गिरी को राज्य कर आयुक्त ने निलंबित कर दिया है। एंटी करप्शन ब्यूरो ने शनिवार को उन्हें कबाड़ कारोबारी से 1.5 लाख रुपये की रिश्वत लेते रंगे हाथों पकड़ा था। एसीबी की टीम को देखते ही उन्होंने रकम नाली में फेंक दी थी, जिसे टीम ने बरामद कर लिया।"
+   },
+   "en": {
+    "title": "Kanker GST officer Anchal Giri suspended after ACB catches her taking Rs 1.5 lakh bribe",
+    "summary": "Chhattisgarh's State Tax Commissioner has suspended GST Assistant Commissioner Anchal Giri in Kanker after the Anti-Corruption Bureau caught her allegedly taking a Rs 1.5 lakh bribe from a scrap trader on Saturday. Spotting the ACB team at her home, she threw the cash into a drain — the team fished it out."
+   }
+  },
+  {
+   "id": "pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T16:53:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22-en.mp3",
+   "district": "Pratapgarh",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "प्रतापगढ़ में तस्कर शोएब खान का 70 लाख का मकान फ्रीज, ऑपरेशन त्रिनेत्र के तहत लगा बोर्ड",
+    "summary": "राजस्थान के प्रतापगढ़ में पुलिस ने मादक पदार्थ तस्करी के आरोपी शोएब खान पठान की करीब 70 लाख रुपये की संपत्ति फ्रीज कर दी है। देवल्दी गांव में उसके मकान पर जब्ती और संपत्ति फ्रीज करने का बोर्ड लगा दिया गया है। सफेमा के सक्षम प्राधिकारी ने 20 नवंबर को फ्रीज के आदेश की पुष्टि की थी।"
+   },
+   "en": {
+    "title": "Pratapgarh police freeze drug smuggler Shoaib Khan's Rs 70 lakh house under Operation Trinetra",
+    "summary": "Police in Rajasthan's Pratapgarh district have frozen property worth about Rs 70 lakh belonging to alleged drug smuggler Shoaib Khan Pathan. Officers put up a seizure and property-freeze board at his house in Devdi village under Operation Trinetra, after the SAFEMA competent authority in New Delhi confirmed the freeze order on November 20."
+   }
+  },
   {
    "id": "suryakumar-yadav-no-longer-in-bcci-selection-plans-t20i-november-21",
    "category": "Cricket & Sports",
@@ -3263,50 +3309,6 @@
    "en": {
     "title": "Maharashtra drought worse than 1972 as Rabi sowing crashes to a record low",
     "summary": "Maharashtra is facing one of its worst droughts in recent history, with Rabi sowing falling well below the levels recorded during the devastating drought of 1972. Only 14.74 lakh hectares have been sown so far in the 2026-27 Rabi season, against 47.29 lakh hectares in 1972-73, and the state has now declared 310 talukas drought-affected."
-   }
-  },
-  {
-   "id": "ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T14:47:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-busts-delhi-kashmir-pharma-drug-network-four-arrested-november-21-en.mp3",
-   "hi": {
-    "title": "एनसीबी ने दिल्ली से कश्मीर तक दवा तस्करी नेटवर्क का भंडाफोड़ किया, चार गिरफ़्तार, पाँच लाख से ज़्यादा दवाएँ ज़ब्त",
-    "summary": "नारकोटिक्स कंट्रोल ब्यूरो ने दिल्ली से कश्मीर घाटी तक दवाएँ पहुँचाने वाले एक अंतरराज्यीय दवा तस्करी नेटवर्क का भंडाफोड़ किया है। चार लोगों को गिरफ़्तार किया गया है और ट्रैमाडोल, अल्प्राज़ोलम, नाइट्राज़ेपम व कोडीन वाली पाँच लाख से ज़्यादा गोलियाँ, कैप्सूल और दवाओं की बोतलें ज़ब्त की गई हैं।"
-   },
-   "en": {
-    "title": "NCB busts Delhi-to-Kashmir pharma drug network, four arrested, over five lakh medicines seized",
-    "summary": "The Narcotics Control Bureau has busted an inter-state pharmaceutical drug trafficking network supplying drugs from Delhi to the Kashmir Valley, arresting four people and seizing more than five lakh tablets, capsules and bottles of pharmaceutical preparations containing tramadol, alprazolam, nitrazepam and codeine."
-   }
-  },
-  {
-   "id": "gorakhpur-teen-death-five-arrested-murder-charges-added-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T14:34:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-teen-death-five-arrested-murder-charges-added-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-teen-death-five-arrested-murder-charges-added-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-teen-death-five-arrested-murder-charges-added-november-21-en.mp3",
-   "district": "Gorakhpur",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोरखपुर में किशोर की मौत: पाँच गिरफ़्तार, जेसीबी हादसे के बाद हत्या की धारा भी जुड़ी",
-    "summary": "समाजवादी पार्टी के अध्यक्ष अखिलेश यादव की रैली के दौरान बुधवार को चौदह साल के आर्यवर्धन सिंह की कथित तौर पर जेसीबी मशीन से कुचलकर मौत के मामले में गोरखपुर पुलिस ने पाँच लोगों को गिरफ़्तार कर लिया है। पुलिस ने मामले में हत्या और आपराधिक साज़िश की धाराएँ जोड़ दी हैं, जबकि अखिलेश यादव ने उच्च स्तरीय जाँच की माँग करते हुए गिरफ़्तार कार्यकर्ताओं को झूठे आरोपों में जेल भेजने का आरोप लगाया है।"
-   },
-   "en": {
-    "title": "Gorakhpur teen's death: five arrested as police add murder charge after JCB incident at SP roadshow",
-    "summary": "Five people have been arrested in Gorakhpur after 14-year-old Aryavardhan Singh was allegedly run over by a JCB machine during Samajwadi Party chief Akhilesh Yadav's roadshow on Wednesday. Police have added murder and criminal conspiracy charges to the case, while Akhilesh Yadav has demanded a high-level inquiry and alleged the arrested workers were jailed on false charges."
    }
   }
  ]
