@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T13:58:26+05:30",
+ "updatedAt": "2026-11-22T14:10:53+05:30",
  "articles": [
+  {
+   "id": "odia-tv-actress-alleges-harassment-bhubaneswar-bar-fir-lodged-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T14:10:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odia-tv-actress-alleges-harassment-bhubaneswar-bar-fir-lodged-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odia-tv-actress-alleges-harassment-bhubaneswar-bar-fir-lodged-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odia-tv-actress-alleges-harassment-bhubaneswar-bar-fir-lodged-november-22-en.mp3",
+   "district": "Khordha",
+   "state": "Odisha",
+   "hi": {
+    "title": "भुवनेश्वर के बार में ओडिया टीवी अभिनेत्री से छेड़छाड़ का आरोप; एफ़आईआर दर्ज, पुलिस ने सीसीटीवी फुटेज माँगा",
+    "summary": "ओडिशा की एक टेलीविज़न अभिनेत्री ने आरोप लगाया है कि शनिवार रात भुवनेश्वर के चंद्रशेखरपुर इलाके के एक बार-रेस्तरां में युवकों के एक समूह ने उनके साथ छेड़छाड़ की। उन्होंने चंद्रशेखरपुर थाने में एफ़आईआर दर्ज कराई है, और पुलिस ने जाँच शुरू करके प्रतिष्ठान से सीसीटीवी फुटेज माँगा है।"
+   },
+   "en": {
+    "title": "Odia TV actress alleges harassment by youths at Bhubaneswar bar; FIR lodged, police seek CCTV footage",
+    "summary": "A television actress from Odisha has alleged that a group of youths harassed and molested her at a bar and restaurant in Bhubaneswar's Chandrasekharpur area on Saturday night. She has lodged an FIR with Chandrasekharpur police, who have begun an investigation and sought CCTV footage from the establishment."
+   }
+  },
   {
    "id": "ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22",
    "category": "Crime & Law",
@@ -3276,27 +3299,6 @@
    "en": {
     "title": "Newborn trafficking racket busted in Raipur: six arrested as 26 fake birth certificates surface against just three deliveries",
     "summary": "Raipur Police say they have busted an alleged newborn trafficking racket that used a private hospital to issue 26 allegedly forged birth certificates, although the hospital recorded only three deliveries in 2026. Six people have been arrested."
-   }
-  },
-  {
-   "id": "gill-falls-98-pant-fifty-india-118-ahead-wellington-november-21",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T11:10:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gill-falls-98-pant-fifty-india-118-ahead-wellington-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gill-falls-98-pant-fifty-india-118-ahead-wellington-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gill-falls-98-pant-fifty-india-118-ahead-wellington-november-21-en.mp3",
-   "hi": {
-    "title": "गिल अट्ठानबे पर आउट, पंत नाबाद पचपन; भारत वेलिंग्टन में एक सौ अठारह रन आगे",
-    "summary": "शुभमन गिल अट्ठानबे रन बनाकर आउट हुए, ऋषभ पंत पचपन रन पर नाबाद हैं; भारत ने वेलिंग्टन टेस्ट के तीसरे दिन चार विकेट पर चार सौ छियासी रन बनाकर एक सौ अठारह रन की बढ़त ले ली है।"
-   },
-   "en": {
-    "title": "Gill falls for 98, Pant unbeaten on 55 as India stretch lead to 118 in Wellington",
-    "summary": "Shubman Gill fell for 98 and Rishabh Pant stayed unbeaten on 55 as India reached 486 for four on day three of the Wellington Test, stretching their lead over New Zealand to 118 runs."
    }
   }
  ]
