@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T19:20:18+05:30",
+ "updatedAt": "2026-11-22T19:48:17+05:30",
  "articles": [
+  {
+   "id": "man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "district": "Kamrup Metro",
+   "state": "Assam",
+   "publishedAt": "2026-11-22T19:48:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22-en.mp3",
+   "hi": {
+    "title": "गुवाहाटी के नरेंगी स्टेशन पर शव मिला, शरीर पर बँधे थे 25 लाख रुपये",
+    "summary": "गुवाहाटी के नरेंगी रेलवे स्टेशन पर शनिवार की शाम एक व्यक्ति का शव मिला। उसके शरीर पर थैलियों में बँधे करीब 25 लाख रुपये मिले, जो 500 रुपये के नोटों में थे। पुलिस ने अभी तक व्यक्ति की पहचान की आधिकारिक पुष्टि नहीं की है।"
+   },
+   "en": {
+    "title": "Man found dead at Guwahati's Narengi station with Rs 25 lakh in cash strapped to his body",
+    "summary": "A man was found dead at Narengi Railway Station in Guwahati on Saturday evening, with nearly Rs 25 lakh in cash strapped to his body in bags. The notes were in Rs 500 denominations. Police have not yet officially confirmed the man's identity."
+   }
+  },
+  {
+   "id": "india-eu-free-trade-agreement-likely-signed-december-16-november-22",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T19:48:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-eu-free-trade-agreement-likely-signed-december-16-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-eu-free-trade-agreement-likely-signed-december-16-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-eu-free-trade-agreement-likely-signed-december-16-november-22-en.mp3",
+   "hi": {
+    "title": "भारत-यूरोपीय संघ मुक्त व्यापार समझौते पर 16 दिसंबर को हस्ताक्षर की संभावना, 'मदर ऑफ ऑल डील्स' कहा गया",
+    "summary": "भारत और यूरोपीय संघ के बीच लंबे समय से लंबित मुक्त व्यापार समझौते पर 16 दिसंबर को ब्रसेल्स में हस्ताक्षर हो सकते हैं। समझौते के तहत भारतीय निर्यात के 93% हिस्से को यूरोपीय संघ के बाज़ार में शुल्क-मुक्त प्रवेश मिलेगा।"
+   },
+   "en": {
+    "title": "India, EU likely to sign 'mother of all deals' free trade pact on December 16 in Brussels",
+    "summary": "India and the European Union are likely to sign their long-pending free trade agreement on December 16 in Brussels, during Prime Minister Narendra Modi's visit. Under the pact, 93% of Indian shipments would get duty-free access to the EU market."
+   }
+  },
   {
    "id": "uoh-students-sit-in-third-day-professor-termination-demand-november-22",
    "category": "Education",
@@ -3271,50 +3315,6 @@
    "en": {
     "title": "New James Bond Robert Pattinson's first public appearance: London crowd cheers, Tom Holland applauds at The Odyssey screening",
     "summary": "Robert Pattinson made his first public appearance since being announced as the new James Bond, at a London screening of The Odyssey on Friday. The audience and his co-stars, including Tom Holland, broke into applause as the host congratulated him on landing the role of 007, and Pattinson answered with a shy smile and a bow."
-   }
-  },
-  {
-   "id": "indore-double-murder-father-sister-property-dispute-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T17:20:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indore-double-murder-father-sister-property-dispute-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indore-double-murder-father-sister-property-dispute-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indore-double-murder-father-sister-property-dispute-november-21-en.mp3",
-   "district": "Indore",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "इंदौर दोहरा हत्याकांड: पच्चीस लाख रुपये के संपत्ति विवाद में बेटे पर पिता और बहन की हत्या का आरोप; मुख्य आरोपी फरार",
-    "summary": "इंदौर में अट्ठाईस साल के एक युवक ने पारिवारिक मकान की बिक्री के पच्चीस लाख रुपये को लेकर हुए विवाद में अपने पिता राजू यादव, पचास साल, और बहन हर्षिता यादव, बीस साल, की हत्या कर दी। पुलिस का कहना है कि पिता की हत्या अठारह नवंबर को पच्चीस लाख रुपये का चेक साइन करने से मना करने पर हुई, और अगले दिन बहन का गला घोंट दिया गया। मुख्य आरोपी फरार है और सत्रह साल का एक साथी हिरासत में है।"
-   },
-   "en": {
-    "title": "Indore double murder: Man allegedly kills father, sister over Rs 25 lakh property money; main accused on the run",
-    "summary": "A 28-year-old man allegedly killed his father Raju Yadav, 50, and sister Harshita Yadav, 20, in Indore over a dispute about money from the sale of the family house. Police say the father was killed on November 18 after refusing to sign a cheque for Rs 25 lakh, and the sister was strangled the next day. The main accused is absconding, and a 17-year-old accomplice has been detained."
-   }
-  },
-  {
-   "id": "seer-open-letter-rahul-priyanka-shiva-parvati-post-november-21",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T17:20:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/seer-open-letter-rahul-priyanka-shiva-parvati-post-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seer-open-letter-rahul-priyanka-shiva-parvati-post-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seer-open-letter-rahul-priyanka-shiva-parvati-post-november-21-en.mp3",
-   "hi": {
-    "title": "शिव-पार्वती तस्वीर पर हिंदू संत का राहुल-प्रियंका को खुला पत्र: 'यह सिर्फ तस्वीर नहीं, उपनिषदों का गहरा ज्ञान है'",
-    "summary": "हिंदू संत स्वामी परमात्मानंद सरस्वती ने राहुल गांधी और प्रियंका गांधी वाड्रा को खुला पत्र लिखकर उस शिव-पार्वती तस्वीर का आध्यात्मिक अर्थ समझाया है, जिसे राहुल ने सोशल मीडिया पर साझा किया था। उन्होंने लिखा कि शिव की गोद में बैठी पार्वती शक्ति हैं, सृजन की शक्ति, और शिव उस शक्ति के स्वामी हैं — यह अर्थ उपनिषदों में निहित है।"
-   },
-   "en": {
-    "title": "Hindu seer's open letter to Rahul, Priyanka on Shiva-Parvati post: 'Not just a picture, it carries the wisdom of the Upanishads'",
-    "summary": "Hindu seer Swami Paramatmananda Saraswati has written an open letter to Rahul Gandhi and Priyanka Gandhi Vadra, explaining the spiritual significance of the Shiva-Parvati image Rahul shared on social media. Parvati seated on Shiva's lap, he wrote, represents Shakti, the creative power, and Shiva the possessor of that power — a meaning rooted in the Upanishads."
    }
   }
  ]
