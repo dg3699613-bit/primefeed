@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T07:42:20+05:30",
+ "updatedAt": "2026-11-22T07:59:38+05:30",
  "articles": [
+  {
+   "id": "bilaspur-hc-child-care-leave-730-days-lecturer-rajshri-kaushik-november-21",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T07:59:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bilaspur-hc-child-care-leave-730-days-lecturer-rajshri-kaushik-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-hc-child-care-leave-730-days-lecturer-rajshri-kaushik-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-hc-child-care-leave-730-days-lecturer-rajshri-kaushik-november-21-en.mp3",
+   "district": "Bilaspur",
+   "state": "Chhattisgarh",
+   "hi": {
+    "title": "संतान पालन अवकाश महिला कर्मचारी का अधिकार है, हाईकोर्ट के हस्तक्षेप के बाद बिलासपुर की व्याख्याता को मिले सात सौ तीस दिन",
+    "summary": "छत्तीसगढ़ हाईकोर्ट ने कहा है कि संतान पालन अवकाश महिला सरकारी कर्मचारी का अधिकार है, कोई एहसान नहीं। बिलासपुर की एक व्याख्याता को अपने पाँच साल के बेटे की देखभाल के लिए सात सौ तीस दिन की छुट्टी मिल गई है। कोर्ट ने कहा कि कर्मचारियों की कमी या प्रशासनिक कारणों का हवाला देकर यह छुट्टी रोकी नहीं जा सकती।"
+   },
+   "en": {
+    "title": "Child care leave is a woman employee's right, rules Chhattisgarh High Court as Bilaspur lecturer gets 730 days",
+    "summary": "The Chhattisgarh High Court has held that child care leave is a woman government employee's right, not a favour, after a Bilaspur lecturer was granted 730 days' leave to care for her five-year-old son. The court said staff shortage or administrative reasons cannot be grounds to refuse the leave."
+   }
+  },
+  {
+   "id": "nigeria-bayelsa-boat-capsize-funeral-24-dead-november-21",
+   "category": "World",
+   "sub": "Others",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-22T07:59:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nigeria-bayelsa-boat-capsize-funeral-24-dead-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nigeria-bayelsa-boat-capsize-funeral-24-dead-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nigeria-bayelsa-boat-capsize-funeral-24-dead-november-21-en.mp3",
+   "hi": {
+    "title": "नाइजीरिया के बायेल्सा में अंतिम संस्कार में जा रहे लोगों की नाव पलटी, कम से कम चौबीस की मौत",
+    "summary": "दक्षिणी नाइजीरिया के बायेल्सा राज्य में अंतिम संस्कार में जा रहे लोगों को ले जा रही एक लकड़ी की नाव पलट गई, जिसमें कम से कम चौबीस लोगों की मौत हो गई। चौबीस लोगों को बचा लिया गया है और तलाश व बचाव अभियान जारी है।"
+   },
+   "en": {
+    "title": "At least 24 dead as boat carrying mourners to a funeral capsizes in Nigeria's Bayelsa",
+    "summary": "At least 24 people were killed when a wooden passenger boat carrying mourners to a burial ceremony capsized in Bayelsa State in southern Nigeria. Twenty-four others were rescued, and search and rescue operations were continuing as the death toll climbed."
+   }
+  },
   {
    "id": "kota-udaipur-highway-cruiser-truck-crash-nine-pilgrims-killed-november-22",
    "category": "State & Local",
@@ -316,7 +360,7 @@
    "category": "World",
    "sub": "Europe",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-22T03:52:39+05:30",
    "source": "PrimeFeed Desk",
@@ -3215,48 +3259,6 @@
    "en": {
     "title": "Congress sweeps Rajasthan panchayat polls: 3,701 samiti seats to BJP's 2,181 as final results come in",
     "summary": "The Congress has swept the Rajasthan Panchayati Raj elections, winning 3,701 Panchayat Samiti seats against the BJP's 2,181 and 599 Zila Parishad seats to the BJP's 301, leading in 33 of the 37 districts where votes were counted on Friday."
-   }
-  },
-  {
-   "id": "south-africa-581-women-killed-three-months-crime-stats-november-20",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T03:04:32+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-africa-581-women-killed-three-months-crime-stats-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-581-women-killed-three-months-crime-stats-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-581-women-killed-three-months-crime-stats-november-20-en.mp3",
-   "hi": {
-    "title": "दक्षिण अफ्रीका में तीन महीने में पाँच सौ इक्यासी महिलाओं की हत्या, जोहानिसबर्ग के पास तेरह शव मिलने से देश में आक्रोश",
-    "summary": "दक्षिण अफ्रीका पुलिस के शुक्रवार को जारी अपराध के आँकड़ों के अनुसार जुलाई से सितंबर के बीच देश में पाँच सौ इक्यासी महिलाओं की हत्या हुई, जिनमें एक सौ इकतीस गौतेंग प्रांत में थीं। जोहानिसबर्ग के आसपास तेरह महिलाओं के शव मिलने के मामले में आठ संदिग्ध गिरफ्तार किए गए हैं।"
-   },
-   "en": {
-    "title": "581 women killed in South Africa in three months, police figures show",
-    "summary": "The latest police crime statistics in South Africa, released on Friday, show 581 women were killed between July and September, including 131 in Gauteng province. Eight suspects have been arrested over the 13 women whose bodies were found dumped in public places around Johannesburg."
-   }
-  },
-  {
-   "id": "south-korea-suneung-111-caught-smart-devices-cheating-crackdown-november-20",
-   "category": "Education",
-   "sub": "Admissions",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T03:04:32+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-korea-suneung-111-caught-smart-devices-cheating-crackdown-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-korea-suneung-111-caught-smart-devices-cheating-crackdown-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-korea-suneung-111-caught-smart-devices-cheating-crackdown-november-20-en.mp3",
-   "hi": {
-    "title": "दक्षिण कोरिया की सुनेउंग परीक्षा में एक सौ ग्यारह परीक्षार्थी स्मार्ट डिवाइस के साथ पकड़े गए",
-    "summary": "दक्षिण कोरिया के शिक्षा मंत्रालय ने शुक्रवार को बताया कि गुरुवार को हुई देश की सबसे बड़ी कॉलेज प्रवेश परीक्षा सुनेउंग में एक सौ ग्यारह परीक्षार्थी स्मार्ट डिवाइस के साथ पकड़े गए। इनमें से पाँच परीक्षा के दौरान डिवाइस इस्तेमाल करते रंगे हाथों पकड़े गए। पकड़ने के लिए देश भर में तीन बार आपातकालीन अलर्ट भेजकर सभी फोन एक साथ बजाए गए थे।"
-   },
-   "en": {
-    "title": "111 caught with smart devices at South Korea Suneung exam as phone alerts ring nationwide",
-    "summary": "The education ministry in South Korea said on Friday that 111 test-takers were caught with smart devices during the Suneung, the annual college entrance exam, on Thursday. Five were caught using devices during the test, and 54 were found after three nationwide disaster alerts set off every phone in the country at once."
    }
   }
  ]
