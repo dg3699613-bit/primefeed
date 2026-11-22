@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-22T19:20:18+05:30",
+ "updatedAt": "2026-11-22T19:48:17+05:30",
  "articles": [
+  {
+   "id": "man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "district": "Kamrup Metro",
+   "state": "Assam",
+   "hi": {
+    "title": "गुवाहाटी के नरेंगी स्टेशन पर शव मिला, शरीर पर बँधे थे 25 लाख रुपये",
+    "summary": "गुवाहाटी के नरेंगी रेलवे स्टेशन पर शनिवार की शाम एक व्यक्ति का शव मिला। उसके शरीर पर थैलियों में बँधे करीब 25 लाख रुपये मिले, जो 500 रुपये के नोटों में थे। पुलिस ने अभी तक व्यक्ति की पहचान की आधिकारिक पुष्टि नहीं की है।",
+    "body": "गुवाहाटी: गुवाहाटी के नरेंगी रेलवे स्टेशन पर शनिवार की शाम एक व्यक्ति का शव मिला। उसके शरीर पर थैलियों में बँधे करीब 25 लाख रुपये मिले। पुलिस के मुताबिक ये नोट 500 रुपये के थे और सीने, पेट और पैर पर बँधे हुए थे।\n\nस्टेशन पर मौजूद लोगों ने बताया कि व्यक्ति पर किसी ट्रेन से टकराने के निशान नहीं दिखे। एक चश्मदीद के मुताबिक वह पहले बेहोश हालत में मिला था और उसने पानी माँगा था। लोगों का कहना है कि उसने करीमगंज से होने की बात भी कही, लेकिन इसकी पुष्टि नहीं हो सकी। एक चश्मदीद ने बताया कि घटनास्थल के पास खून के धब्बे भी दिखे।\n\nएम्बुलेंस और चिकित्सा दल को सूचना दी गई। जाँच के बाद चिकित्सकों ने व्यक्ति को मृत घोषित कर दिया। शव को गुवाहाटी मेडिकल कॉलेज अस्पताल के शवगृह में रखा गया है। पुलिस को व्यक्ति के पास से एक पर्ची भी मिली है, जिसके बारे में अभी कुछ नहीं बताया गया है।\n\nपुलिस ने इस मामले में अभी तक कोई आधिकारिक बयान जारी नहीं किया है। व्यक्ति की पहचान की आधिकारिक पुष्टि भी नहीं हुई है। मौत के कारणों और नकदी के स्रोत का पता लगाने के लिए जाँच जारी है।\n\nफ़ोटो साभार: Pexels / Kat Wilcox"
+   },
+   "en": {
+    "title": "Man found dead at Guwahati's Narengi station with Rs 25 lakh in cash strapped to his body",
+    "summary": "A man was found dead at Narengi Railway Station in Guwahati on Saturday evening, with nearly Rs 25 lakh in cash strapped to his body in bags. The notes were in Rs 500 denominations. Police have not yet officially confirmed the man's identity.",
+    "body": "Guwahati: A man was found dead at Narengi Railway Station in Guwahati on Saturday evening, with nearly Rs 25 lakh in cash strapped to his body in bags. Police said the notes were in Rs 500 denominations and were tied around his chest, stomach and leg.\n\nPeople at the station said there were no signs that the man had been hit by a train. One eyewitness said he was first found in an unconscious state and had asked for water. Locals said he told them he was from Karimganj, though this could not be confirmed. The same eyewitness said there were bloodstains near the spot.\n\nAn ambulance and a medical team were called to the station. After examining the man, the medical team declared him dead. The body has been kept at the Gauhati Medical College and Hospital morgue. Police also found a slip of paper on him, the contents of which have not been disclosed.\n\nPolice have not yet issued an official statement on the incident. The man's identity has also not been officially confirmed. An investigation is under way to establish the cause of death and the source of the cash.\n\nPhoto: Pexels / Kat Wilcox"
+   },
+   "publishedAt": "2026-11-22T19:48:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/man-found-dead-narengi-railway-station-rs-25-lakh-strapped-body-november-22-en.mp3"
+  },
+  {
+   "id": "india-eu-free-trade-agreement-likely-signed-december-16-november-22",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "hi": {
+    "title": "भारत-यूरोपीय संघ मुक्त व्यापार समझौते पर 16 दिसंबर को हस्ताक्षर की संभावना, 'मदर ऑफ ऑल डील्स' कहा गया",
+    "summary": "भारत और यूरोपीय संघ के बीच लंबे समय से लंबित मुक्त व्यापार समझौते पर 16 दिसंबर को ब्रसेल्स में हस्ताक्षर हो सकते हैं। समझौते के तहत भारतीय निर्यात के 93% हिस्से को यूरोपीय संघ के बाज़ार में शुल्क-मुक्त प्रवेश मिलेगा।",
+    "body": "नई दिल्ली: भारत और 27 देशों वाले यूरोपीय संघ के बीच लंबे समय से लंबित मुक्त व्यापार समझौते पर 16 दिसंबर को हस्ताक्षर हो सकते हैं। एक अधिकारी ने यह जानकारी दी। समझौते पर प्रधानमंत्री नरेंद्र मोदी की दिसंबर में ब्रसेल्स यात्रा के दौरान हस्ताक्षर होने की उम्मीद है।\n\nयूरोपीय संघ के भारत में राजदूत ज्याँ-एरिक पैके ने हाल में कहा था कि समझौते पर प्रधानमंत्री की ब्रसेल्स यात्रा के दौरान हस्ताक्षर होंगे और यह अगले साल से लागू होगा। भारत और यूरोपीय संघ ने इस साल 27 जनवरी को समझौते पर बातचीत पूरी कर ली थी। इससे पहले 20 साल से भी ज़्यादा समय तक इस पर चर्चा चलती रही।\n\nयूरोपीय आयोग ने समझौते पर हस्ताक्षर और उसे अंतिम रूप देने की अनुमति के लिए यूरोपीय संघ की परिषद को प्रस्ताव भेज दिए हैं। प्रस्तावों के साथ समझौते का अंतिम कानूनी पाठ और शुल्क सूची भी भेजी गई है।\n\nइस समझौते को 'मदर ऑफ ऑल डील्स' कहा जा रहा है। इसके तहत भारत से यूरोपीय संघ को जाने वाले सामान के 93% हिस्से को बिना शुल्क के प्रवेश मिलेगा। वहीं यूरोपीय संघ से आने वाली लग्ज़री कारें और वाइन सस्ती हो जाएँगी।\n\nसमझौता लागू होने पर दुनिया की चौथी सबसे बड़ी अर्थव्यवस्था भारत और दुनिया के दूसरे सबसे बड़े आर्थिक समूह यूरोपीय संघ के बीच करीब 2 अरब लोगों का साझा बाज़ार बन जाएगा। दोनों मिलकर दुनिया की कुल जीडीपी का 25% हिस्सा रखते हैं और करीब 33 ट्रिलियन डॉलर के वैश्विक व्यापार में से करीब 11 ट्रिलियन डॉलर का व्यापार करते हैं।\n\nयूरोपीय संघ अलग-अलग समूहों में भारत का सबसे बड़ा व्यापारिक साझेदार है। वहीं भारत यूरोपीय संघ का दुनिया भर में वस्तुओं के व्यापार में नौवाँ सबसे बड़ा साझेदार है और सेवाओं में छठा सबसे बड़ा।\n\nफ़ोटो साभार: Moneycontrol"
+   },
+   "en": {
+    "title": "India, EU likely to sign 'mother of all deals' free trade pact on December 16 in Brussels",
+    "summary": "India and the European Union are likely to sign their long-pending free trade agreement on December 16 in Brussels, during Prime Minister Narendra Modi's visit. Under the pact, 93% of Indian shipments would get duty-free access to the EU market.",
+    "body": "New Delhi: India and the 27-nation European Union are likely to sign their long-pending free trade agreement on December 16, an official said. The pact is expected to be signed during Prime Minister Narendra Modi's visit to Brussels in December.\n\nJean-Eric Paquet, the European Union's Ambassador to India, recently said the pact would be signed during the Prime Minister's visit to Brussels and would come into force next year. India and the European Union concluded negotiations on the agreement on January 27 this year, after talks spanning more than two decades.\n\nThe European Commission has submitted proposals to the Council of the European Union seeking authorisation to sign and conclude the agreement. The proposals include the final legal text and the tariff schedules.\n\nDescribed as the 'mother of all deals', the agreement is expected to give duty-free access to the EU market for 93 per cent of Indian shipments. It will also make luxury cars and wines imported from the European bloc less expensive.\n\nOnce in force, the pact will create a combined market of around 2 billion people, bringing together India, the world's fourth-largest economy, and the European Union, the world's second-largest economic bloc. Together, India and the EU account for 25 per cent of global GDP and around one-third of international trade, valued at approximately 11 trillion dollars out of a global total of 33 trillion dollars.\n\nThe EU is India's largest trading partner in goods among individual blocs, while India ranks as the EU's ninth-largest goods trading partner globally and sixth-largest in services.\n\nPhoto: Moneycontrol"
+   },
+   "publishedAt": "2026-11-22T19:48:17+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-eu-free-trade-agreement-likely-signed-december-16-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-eu-free-trade-agreement-likely-signed-december-16-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-eu-free-trade-agreement-likely-signed-december-16-november-22-en.mp3"
+  },
   {
    "id": "uoh-students-sit-in-third-day-professor-termination-demand-november-22",
    "category": "Education",
