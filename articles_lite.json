@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-22T06:23:05+05:30",
+ "updatedAt": "2026-11-22T06:44:32+05:30",
  "articles": [
+  {
+   "id": "up-air-raid-blackout-mock-drill-75-districts-november-22",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T06:44:32+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-air-raid-blackout-mock-drill-75-districts-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-air-raid-blackout-mock-drill-75-districts-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-air-raid-blackout-mock-drill-75-districts-november-22-en.mp3",
+   "hi": {
+    "title": "आज शाम यूपी के सभी पचहत्तर जिलों में हवाई हमले का सायरन और ब्लैकआउट, नागरिक सुरक्षा की बड़ी मॉक ड्रिल",
+    "summary": "उत्तर प्रदेश में रविवार, बाईस नवंबर को शाम छह बजे से सभी पचहत्तर जिलों में एक साथ नागरिक सुरक्षा मॉक ड्रिल होगी। पहले दो मिनट का हवाई हमले की चेतावनी का सायरन बजेगा, फिर तय इलाकों में ब्लैकआउट होगा और लोग सुरक्षित स्थानों पर जाने का अभ्यास करेंगे; राष्ट्रीय आपदा मोचन बल, राज्य आपदा मोचन बल, पुलिस, अग्निशमन सेवा और स्वास्थ्य विभाग इसमें हिस्सा लेंगे।"
+   },
+   "en": {
+    "title": "Air-raid sirens and blackout in all 75 UP districts this evening as state holds simultaneous civil defence mock drill",
+    "summary": "Uttar Pradesh will hold simultaneous civil defence air-raid and blackout mock drills across all 75 districts on Sunday, November 22, beginning at 6 pm. A two-minute siren will sound first, followed by a blackout in designated areas, with residents practising taking shelter; the NDRF, SDRF, police, fire services and the health department will take part."
+   }
+  },
   {
    "id": "meghalaya-hc-quashes-pocso-case-west-garo-hills-marriage-child-november-18",
    "category": "Crime & Law",
@@ -3230,27 +3251,6 @@
    "en": {
     "title": "No ball bowled, yet Pakistan declared champions: India boycott Blind Asia Cup trophy ceremony",
     "summary": "The Men's Blind Cricket Asia Cup 2026 final in Dhaka was washed out without a single ball being bowled, yet the match referee declared Pakistan the sole winners on a better net run rate. The Indian team boycotted the trophy presentation ceremony, and the Cricket Association for the Blind in India called the decision against the rules."
-   }
-  },
-  {
-   "id": "core-sector-growth-109-percent-october-new-series-high-november-20",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T02:12:53+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/core-sector-growth-109-percent-october-new-series-high-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/core-sector-growth-109-percent-october-new-series-high-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/core-sector-growth-109-percent-october-new-series-high-november-20-en.mp3",
-   "hi": {
-    "title": "अक्टूबर में कोर सेक्टर की वृद्धि दस दशमलव नौ प्रतिशत, नई शृंखला में सबसे तेज़",
-    "summary": "भारत के नौ प्रमुख बुनियादी उद्योगों का उत्पादन अक्टूबर में दस दशमलव नौ प्रतिशत बढ़ा, जो नई शृंखला में अब तक की सबसे तेज़ वृद्धि है। लौह अयस्क, कोयला, बिजली और सीमेंट के उत्पादन में दो अंकों की बढ़ोतरी हुई, जबकि अप्रैल से अक्टूबर तक की संचयी वृद्धि छह प्रतिशत रही।"
-   },
-   "en": {
-    "title": "Core sector growth hits 10.9% in October, fastest in the new series",
-    "summary": "India's nine core infrastructure industries grew 10.9 per cent in October, the fastest pace in the new series, led by iron ore, coal, electricity and cement. Cumulative growth for April to October stood at 6 per cent, against 2.3 per cent a year earlier."
    }
   }
  ]
