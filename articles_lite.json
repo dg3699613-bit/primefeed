@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-23T01:56:37+05:30",
+ "updatedAt": "2026-11-23T02:08:10+05:30",
  "articles": [
+  {
+   "id": "up-blackout-mock-drill-conducted-75-districts-november-22",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T02:08:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-blackout-mock-drill-conducted-75-districts-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-blackout-mock-drill-conducted-75-districts-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-blackout-mock-drill-conducted-75-districts-november-22-en.mp3",
+   "hi": {
+    "title": "यूपी के 75 जिलों में एक साथ बजे हवाई हमले के सायरन, ब्लैकआउट के बीच राहत-बचाव का अभ्यास",
+    "summary": "रविवार शाम 6 बजे उत्तर प्रदेश के सभी 75 जिलों में एक साथ हवाई हमले की चेतावनी वाला सायरन बजा और तय इलाकों में ब्लैकआउट किया गया। लखनऊ की रिजर्व पुलिस लाइन में मलबे से लोगों को निकालने और आग बुझाने का अभ्यास हुआ, जबकि वाराणसी में इंडियन ऑयल के बॉटलिंग प्लांट पर मुख्य अभ्यास चला।"
+   },
+   "en": {
+    "title": "Air-raid sirens sound across all 75 UP districts as blackout mock drill tests war readiness; rescue demos staged",
+    "summary": "Air-raid warning sirens sounded simultaneously across all 75 districts of Uttar Pradesh at 6 pm on Sunday, followed by a blackout in designated areas. Rescue and relief drills were staged at Lucknow's Reserve Police Lines, while the main exercise in Varanasi was held at the Indian Oil bottling plant."
+   }
+  },
+  {
+   "id": "trump-inclined-resume-iran-strikes-after-new-year-fox-news-interview",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T02:08:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-inclined-resume-iran-strikes-after-new-year-fox-news-interview.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-inclined-resume-iran-strikes-after-new-year-fox-news-interview-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-inclined-resume-iran-strikes-after-new-year-fox-news-interview-en.mp3",
+   "hi": {
+    "title": "नए साल तक समझौता नहीं हुआ तो ईरान पर फिर बड़े हमले के पक्ष में ट्रंप, बोले — नाकाबंदी तोड़ने वाले जहाज़ डुबो दिए जाएँगे",
+    "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने फॉक्स न्यूज़ को दिए इंटरव्यू में कहा है कि अगर नए साल तक ईरान से कोई समझौता नहीं हुआ तो वे ईरान पर फिर से बड़े हमले का आदेश देने के पक्ष में हैं। उन्होंने ईरानी वार्ताकारों को 'पेशेवर टाल-मटोल करने वाला' कहा और चेतावनी दी कि अमेरिकी नाकाबंदी तोड़ने की कोशिश करने वाले ईरानी जहाज़ डुबो दिए जाएँगे।"
+   },
+   "en": {
+    "title": "Trump 'inclined' to resume major strikes on Iran after New Year if talks fail; warns ships testing blockade will be sunk",
+    "summary": "US President Donald Trump told Fox News on Sunday that he is inclined to order major military strikes against Iran after the New Year if negotiations fail to produce a deal, calling Iranian negotiators 'professional tap dancers' and warning that Iranian vessels challenging the American naval blockade would end up 'at the bottom of the sea'."
+   }
+  },
   {
    "id": "russian-corvette-merkury-hit-suspected-ukrainian-sea-drones-benghazi-libya",
    "category": "World",
@@ -3265,50 +3307,6 @@
    "hi": {
     "title": "नीट-यूजी पेपर लीक मामला: दिल्ली अदालत ने चौदह आरोपियों पर आरोप तय किए, पच्चीस नवंबर से रोज़ाना चलेगा मुकदमा",
     "summary": "दिल्ली की एक अदालत ने शनिवार को नीट-यूजी दो हज़ार छब्बीस पेपर लीक मामले में चौदह आरोपियों के खिलाफ आरोप तय कर दिए। इससे पच्चीस नवंबर से रोज़ाना चलने वाले मुकदमे का रास्ता साफ हो गया है। राउज़ एवेन्यू कोर्ट की फास्ट-ट्रैक अदालत में विशेष न्यायाधीश अजय गुप्ता के सामने सभी चौदह आरोपियों ने खुद को निर्दोष बताया।"
-   }
-  },
-  {
-   "id": "yurembam-women-protest-security-operation-killing-imphal-west-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T23:11:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yurembam-women-protest-security-operation-killing-imphal-west-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yurembam-women-protest-security-operation-killing-imphal-west-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yurembam-women-protest-security-operation-killing-imphal-west-november-21-en.mp3",
-   "en": {
-    "title": "Manipur women protest killing of ex-serviceman in Yurembam security operation, demand impartial probe",
-    "summary": "Women of Yurembam Awang Leikai in Imphal West district protested on Saturday against the killing of a retired serviceman and the arrest of eight others, including KCP (PWG) chairman Laishram Ranjit, in a joint security operation a day earlier. The protesters disputed the official account of an exchange of fire and demanded an impartial probe into the death and the arrests."
-   },
-   "hi": {
-    "title": "मणिपुर में पूर्व सैनिक की मौत पर महिलाओं का प्रदर्शन, सुरक्षा बलों के अभियान की निष्पक्ष जाँच की माँग",
-    "summary": "इंफाल पश्चिम ज़िले के युरेमबम अवांग लेइकाई की महिलाओं ने शनिवार को एक पूर्व सैनिक की हत्या और केसीपी (पीडब्ल्यूजी) अध्यक्ष लैशराम रंजीत समेत आठ अन्य लोगों की गिरफ़्तारी के खिलाफ प्रदर्शन किया। यह कार्रवाई एक दिन पहले संयुक्त सुरक्षा अभियान के दौरान हुई थी। प्रदर्शनकारियों ने गोलीबारी के आधिकारिक दावे पर सवाल उठाते हुए मौत और गिरफ़्तारियों की निष्पक्ष जाँच की माँग की है।"
-   },
-   "district": "Imphal West",
-   "state": "Manipur"
-  },
-  {
-   "id": "yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21",
-   "category": "Politics",
-   "sub": "BJP",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T23:11:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yuzvendra-chahal-joins-bjp-obc-morcha-special-invitee-november-21-en.mp3",
-   "en": {
-    "title": "Cricketer Yuzvendra Chahal joins BJP, named special invitee to OBC Morcha national executive",
-    "summary": "Cricketer Yuzvendra Chahal joined the Bharatiya Janata Party on Saturday and was appointed a special invitee to the national executive committee of the party's OBC Morcha, marking his entry into politics. He was inducted by OBC Morcha president Amarpal Maurya as part of a wider reshuffle of the morcha ordered by BJP national president Nitin Nabin."
-   },
-   "hi": {
-    "title": "क्रिकेटर युजवेंद्र चहल भाजपा में शामिल, ओबीसी मोर्चा की राष्ट्रीय कार्यकारिणी में विशेष आमंत्रित सदस्य बने",
-    "summary": "क्रिकेटर युजवेंद्र चहल शनिवार को भारतीय जनता पार्टी में शामिल हो गए और उन्हें पार्टी के ओबीसी मोर्चा की राष्ट्रीय कार्यकारिणी समिति में विशेष आमंत्रित सदस्य नियुक्त किया गया। इसके साथ ही उन्होंने राजनीति में कदम रख दिया है। उन्हें ओबीसी मोर्चा अध्यक्ष अमरपाल मौर्य ने पार्टी में शामिल किया; यह नियुक्ति भाजपा के राष्ट्रीय अध्यक्ष नितिन नबीन के निर्देश पर मोर्चा के व्यापक फेरबदल के तहत हुई है।"
    }
   }
  ]
