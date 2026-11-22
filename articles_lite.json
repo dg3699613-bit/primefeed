@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T07:06:27+05:30",
+ "updatedAt": "2026-11-22T07:27:30+05:30",
  "articles": [
+  {
+   "id": "odisha-cyber-command-centre-249-crore-majhi-approves-november-21",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T07:27:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-cyber-command-centre-249-crore-majhi-approves-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-cyber-command-centre-249-crore-majhi-approves-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-cyber-command-centre-249-crore-majhi-approves-november-21-en.mp3",
+   "district": "Khordha",
+   "state": "Odisha",
+   "hi": {
+    "title": "ओडिशा साइबर कमांड सेंटर: मुख्यमंत्री मोहन चरण माझी ने दो सौ उनचास करोड़ उनचालीस लाख रुपये की मंज़ूरी दी",
+    "summary": "मुख्यमंत्री मोहन चरण माझी ने ओडिशा साइबर कमांड सेंटर के लिए दो सौ उनचास करोड़ उनचालीस लाख रुपये मंज़ूर किए हैं। गृह विभाग ने शनिवार को इसकी अधिसूचना जारी की; यह केंद्र चार वित्तीय वर्षों, दो हज़ार छब्बीस-सत्ताईस से दो हज़ार उनतीस-तीस के बीच बनेगा और साइबर अपराध की पहचान, जाँच व कृत्रिम बुद्धिमत्ता आधारित विश्लेषण को एक छत के नीचे लाएगा।"
+   },
+   "en": {
+    "title": "Odisha clears Rs 249.39 crore Cyber Command Centre to fight cybercrime, online fraud",
+    "summary": "Chief Minister Mohan Charan Majhi has sanctioned Rs 249.39 crore for an Odisha Cyber Command Centre that will bring cybercrime detection, investigation and AI-based analytics under one roof. The Home Department notified the centre on Saturday; it will be built over four financial years, from 2026-27 to 2029-30."
+   }
+  },
   {
    "id": "jodhpur-car-tempo-collision-three-killed-15-injured-november-22",
    "category": "State & Local",
@@ -3232,27 +3255,6 @@
    "en": {
     "title": "Carlsen forfeits two rapid games — then wins the must-win classical to stay above 2800",
     "summary": "World number one Magnus Carlsen forfeited both rapid games against Vladislav Artemiev at the Total Chess pilot in Budapest, then won the must-win Fast Classic game to keep his live rating above 2800. A draw would have taken him below 2800 for the first time in 17 years."
-   }
-  },
-  {
-   "id": "trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T02:30:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-india-low-interest-rates-7-percent-growth-us-20-percent-fed-en.mp3",
-   "hi": {
-    "title": "ट्रंप ने भारत को बताया मिसाल: कम ब्याज दर और सात प्रतिशत विकास, बोले फ़ेड दर घटाए तो अमेरिका बीस प्रतिशत तक पहुँचे",
-    "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने व्हाइट हाउस में कहा कि भारत की कम ब्याज दरें और सात प्रतिशत की विकास दर मिसाल हैं, और अगर फ़ेडरल रिज़र्व दरें घटाए तो अमेरिका चौदह से बीस प्रतिशत तक की वृद्धि दर्ज कर सकता है। उन्होंने फ़ेड को बहुत राजनीतिक करार दिया।"
-   },
-   "en": {
-    "title": "Trump holds up India as the model: low rates, 7% growth — US could hit 20% if the Fed cut rates",
-    "summary": "US President Donald Trump has praised India's low interest rates and 7 per cent growth as an example for America, arguing the United States could record growth of 14 to 20 per cent if the Federal Reserve cut borrowing costs instead of raising them. He called the Fed a very political central bank."
    }
   }
  ]
