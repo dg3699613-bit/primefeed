@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T10:02:24+05:30",
+ "updatedAt": "2026-11-22T10:25:34+05:30",
  "articles": [
+  {
+   "id": "thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T10:25:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21-en.mp3",
+   "district": "Thoothukudi",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "तूत्तुक्कुडि में घर में अकेली 17 साल की छात्रा की हत्या, आरोपी ने भी आत्महत्या की कोशिश की",
+    "summary": "तमिलनाडु के तूत्तुक्कुडि ज़िले के सोलाईपुदुर गाँव में शनिवार सुबह घर में अकेली 17 साल की कक्षा 11 की छात्रा की गला घोंटकर और चाकू मारकर हत्या कर दी गई। आरोप है कि हत्या उसी इलाके के 23 साल के एक युवक ने की, जिसने बाद में आत्महत्या की कोशिश की और वह पुलिस हिरासत में अस्पताल में है। इस हत्या के बाद राज्य में महिलाओं की सुरक्षा को लेकर सियासी बहस छिड़ गई है।"
+   },
+   "en": {
+    "title": "17-year-old girl stabbed to death at home in Thoothukudi; accused attempts suicide after attack",
+    "summary": "A 17-year-old Class XI student was strangled and stabbed to death at her home in Solaipudur village in Tamil Nadu's Thoothukudi district on Saturday morning, allegedly by a 23-year-old man from the same locality. The accused later attempted suicide and is in hospital in police custody. The killing has set off a political row over women's safety in the state."
+   }
+  },
+  {
+   "id": "iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T10:25:34+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21-en.mp3",
+   "hi": {
+    "title": "ईरान का दावा: बहरीन में अमेरिका के 2 पैट्रियट राडार तबाह; बहरीन बोला, औद्योगिक इकाई में आग लगी, कोई हताहत नहीं",
+    "summary": "ईरान के रिवोल्यूशनरी गार्ड्स ने शनिवार रात कहा कि उन्होंने बहरीन में 2 ठिकानों पर अमेरिकी सैन्य ठिकानों पर मिसाइल और ड्रोन से संयुक्त हमला किया, जिसमें 2 पैट्रियट हवाई रक्षा राडार तबाह करने का दावा किया गया। बहरीन ने कहा कि ईरानी हमले में एक नागरिक औद्योगिक इकाई में आग लग गई, लेकिन कोई हताहत नहीं हुआ। अमेरिका ने कहा कि उसकी सेना पर कोई असर नहीं पड़ा।"
+   },
+   "en": {
+    "title": "Iran says it destroyed two US Patriot radars in Bahrain strikes; Bahrain reports fire, no injuries",
+    "summary": "Iran's Revolutionary Guards said on Saturday night that they carried out a combined missile and drone operation against US military positions at two bases in Bahrain, claiming to have destroyed two Patriot air defence radars. Bahrain said an Iranian attack struck a civilian industrial facility, starting a fire, but reported no injuries. The United States said there was no impact on its forces."
+   }
+  },
   {
    "id": "mumbai-central-hira-manzil-fire-eight-rescued",
    "category": "State & Local",
@@ -3231,48 +3275,6 @@
    "en": {
     "title": "KL Rahul's Wellington hundred completes a rare SENA set as India reach 247 for 1",
     "summary": "KL Rahul reached his 13th Test hundred, 100 off 207 balls, early in the second session on day three of the first Test against New Zealand in Wellington, becoming the first Indian opener — and only the fifth Indian batter — to score a Test century in each of South Africa, England, New Zealand and Australia. India were 247 for 1, with Devdutt Padikkal unbeaten on 53, trailing New Zealand's 368 by 121 runs."
-   }
-  },
-  {
-   "id": "gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20",
-   "category": "Technology",
-   "sub": "Gadgets",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T06:21:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gta-6-official-3-79-billion-day-one-biggest-entertainment-launch-november-20-en.mp3",
-   "hi": {
-    "title": "जीटीए सिक्स ने पहले दिन तीन अरब उन्यासी करोड़ डॉलर कमाए, मनोरंजन की दुनिया का सबसे बड़ा लॉन्च",
-    "summary": "रॉकस्टार गेम्स और टेक-टू ने पुष्टि की है कि ग्रैंड थेफ़्ट ऑटो सिक्स ने पहले दिन तीन अरब उन्यासी करोड़ डॉलर की बिक्री की और तीन करोड़ पच्चीस लाख प्रतियाँ बिकीं, जिससे ये मनोरंजन की दुनिया का अब तक का सबसे बड़ा लॉन्च बन गया है, जो दिन में पहले आए दो अरब छत्तीस करोड़ डॉलर के अनुमान से कहीं ज़्यादा है।"
-   },
-   "en": {
-    "title": "GTA 6 officially makes $3.79 billion in one day, the biggest entertainment launch in history",
-    "summary": "Rockstar Games and Take-Two have confirmed that Grand Theft Auto VI took $3.79 billion in day-one retail sales, with 32.5 million copies sold, making it the biggest entertainment launch of all time, far above the $2.36 billion estimated earlier in the day."
-   }
-  },
-  {
-   "id": "wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T06:21:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wall-street-rout-nasdaq-5-percent-anthropic-nvidia-november-20-en.mp3",
-   "hi": {
-    "title": "वॉल स्ट्रीट में भारी गिरावट: नैस्डैक पाँच दशमलव तीन प्रतिशत टूटा, एंथ्रॉपिक और एनवीडिया भी लुढ़के",
-    "summary": "अमेरिकी शेयर बाज़ारों में शुक्रवार को भारी गिरावट आई, नैस्डैक पाँच दशमलव तीन प्रतिशत गिरकर साल की बढ़त गँवा बैठा, जबकि एसऐंडपी पाँच सौ और डाओ करेक्शन में चले गए। एंथ्रॉपिक अपने रिकॉर्ड पदार्पण के एक दिन बाद नौ प्रतिशत गिरा, और एनवीडिया एसईसी जाँच की रिपोर्ट के बाद चौदह प्रतिशत टूट गया।"
-   },
-   "en": {
-    "title": "Wall Street rout: Nasdaq sinks 5.3 percent as Anthropic slides and Nvidia plunges on SEC probe report",
-    "summary": "US stocks tumbled on Friday as the Nasdaq fell 5.3 percent, its second-biggest one-day points drop ever, and the S&P 500 and Dow confirmed corrections. Anthropic slid 9 percent a day after its record debut, and Nvidia plunged 14 percent after Reuters reported the SEC is examining its accounting."
    }
   }
  ]
