@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T10:25:34+05:30",
+ "updatedAt": "2026-11-22T10:42:26+05:30",
  "articles": [
+  {
+   "id": "tarn-taran-langar-firing-one-killed-three-injured-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T10:42:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tarn-taran-langar-firing-one-killed-three-injured-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tarn-taran-langar-firing-one-killed-three-injured-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tarn-taran-langar-firing-one-killed-three-injured-november-21-en.mp3",
+   "district": "Tarn Taran",
+   "state": "Punjab",
+   "hi": {
+    "title": "तरन तारन में लंगर की तैयारी के दौरान गोलीबारी, 1 की मौत, 3 घायल; उसी दिन मोहाली में भी 2 जगह फायरिंग",
+    "summary": "शनिवार दोपहर तरन तारन में वार्षिक भगवती जागरण के लिए लंगर तैयार कर रहे युवकों पर हथियारबंद हमलावरों ने गोली चला दी, जिसमें 1 युवक की मौत हो गई और 3 घायल हो गए। कुछ ही घंटों के भीतर मोहाली में भी एक सैलून और एक आर्किटेक्ट के घर पर फायरिंग हुई। पुलिस ने तरन तारन हमले के पीछे निजी रंजिश की आशंका जताई है, जबकि कांग्रेस ने आम आदमी पार्टी सरकार पर क़ानून-व्यवस्था में नाकामी का आरोप लगाया है।"
+   },
+   "en": {
+    "title": "One killed, three injured in firing during langar preparations in Tarn Taran; two shootings in Mohali the same day",
+    "summary": "A youth was shot dead and three others were injured when armed assailants opened fire on volunteers preparing langar for the annual Bhagwati Jagran in Tarn Taran on Saturday afternoon. Hours later, gunmen fired at a salon and an architect's house in Mohali. Police said the Tarn Taran attack appeared to stem from personal enmity, and the Congress accused the AAP government of failing on law and order."
+   }
+  },
+  {
+   "id": "ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T10:42:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22-en.mp3",
+   "hi": {
+    "title": "रामायण ने सत्रहवें दिन भारत में 900 करोड़ रुपये का आँकड़ा पार किया, दुनियाभर में 1,616.70 करोड़ रुपये — इस मुकाम तक तीसरी सबसे तेज़ फ़िल्म",
+    "summary": "रणबीर कपूर की रामायण: पार्ट 1 ने सत्रहवें दिन 27.40 करोड़ रुपये नेट कमाए, जिससे भारत में उसका कुल नेट कलेक्शन 906.90 करोड़ रुपये और दुनियाभर का कुल ग्रॉस 1,616.70 करोड़ रुपये हो गया। भारत में 900 करोड़ रुपये नेट का आँकड़ा पार करने वाली यह तीसरी सबसे तेज़ भारतीय फ़िल्म है, और उसने धुरंधर 2 के सत्रहवें दिन के कलेक्शन को भी पीछे छोड़ दिया है।"
+   },
+   "en": {
+    "title": "Ramayana crosses Rs 900 crore in India on Day 17, worldwide at Rs 1,616.70 crore — third-fastest ever to the mark",
+    "summary": "Ranbir Kapoor's Ramayana: Part 1 earned Rs 27.40 crore net on its 17th day, taking its India net total to Rs 906.90 crore and its worldwide gross to Rs 1,616.70 crore. It is the third-fastest Indian film to cross Rs 900 crore net in India, and it beat Dhurandhar 2's Day 17 collection."
+   }
+  },
   {
    "id": "thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21",
    "category": "Crime & Law",
@@ -3233,48 +3277,6 @@
    "en": {
     "title": "Anthropic mathematician claims Claude proved the 167-year-old Riemann Hypothesis — experts rush to check",
     "summary": "Anthropic mathematician Levent Alpöge said on Friday that he believes he and the company's AI chatbot Claude have found a proof of the Riemann Hypothesis, unsolved since 1859. He released the argument only as Lean code, and no outside mathematician has verified it yet. A second, human-written claim on the generalised hypothesis landed the same day."
-   }
-  },
-  {
-   "id": "hazlewood-hints-quit-tests-cummins-loses-captaincy-sandpapergate-november-21",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T07:17:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hazlewood-hints-quit-tests-cummins-loses-captaincy-sandpapergate-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hazlewood-hints-quit-tests-cummins-loses-captaincy-sandpapergate-november-21-hi.mp3",
-   "audioEn": null,
-   "hi": {
-    "title": "हेज़लवुड का बड़ा बयान: कमिंस की कप्तानी गई तो टेस्ट क्रिकेट छोड़ने पर सोचना पड़ेगा",
-    "summary": "जोश हेज़लवुड सैंडपेपरगेट के नए विवाद में पैट कमिंस के समर्थन में खुलकर सामने आने वाले पहले मौजूदा ऑस्ट्रेलियाई क्रिकेटर बन गए हैं। उन्होंने संकेत दिया है कि अगर कप्तान को हटाया गया तो उन्हें अपने टेस्ट भविष्य पर फिर से सोचना पड़ेगा।"
-   },
-   "en": {
-    "title": "Hazlewood hints he could quit Tests if Cummins loses captaincy over Sandpapergate",
-    "summary": "Josh Hazlewood has become the first active Australian cricketer to publicly back Pat Cummins in the fresh Sandpapergate storm, hinting he would have to rethink his Test future if the captain is removed."
-   }
-  },
-  {
-   "id": "kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T06:39:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kl-rahul-13th-test-hundred-sena-set-india-247-1-wellington-november-21-en.mp3",
-   "hi": {
-    "title": "केएल राहुल का तेरहवाँ टेस्ट शतक: वेलिंग्टन में भारत दो सौ सैंतालीस पर एक विकेट, चारों देशों में शतक का रिकॉर्ड पूरा",
-    "summary": "केएल राहुल ने वेलिंग्टन में न्यूज़ीलैंड के खिलाफ़ पहले टेस्ट के तीसरे दिन लंच के बाद दो सौ सात गेंदों पर एक सौ रन पूरे कर अपना तेरहवाँ टेस्ट शतक लगाया और दक्षिण अफ़्रीका, इंग्लैंड, न्यूज़ीलैंड व ऑस्ट्रेलिया — चारों देशों में टेस्ट शतक लगाने वाले पहले भारतीय सलामी बल्लेबाज़ बन गए। भारत एक विकेट पर दो सौ सैंतालीस रन पर था, देवदत्त पडिक्कल तिरपन रन पर नाबाद थे, और न्यूज़ीलैंड के तीन सौ अड़सठ रन से भारत एक सौ इक्कीस रन पीछे था।"
-   },
-   "en": {
-    "title": "KL Rahul's Wellington hundred completes a rare SENA set as India reach 247 for 1",
-    "summary": "KL Rahul reached his 13th Test hundred, 100 off 207 balls, early in the second session on day three of the first Test against New Zealand in Wellington, becoming the first Indian opener — and only the fifth Indian batter — to score a Test century in each of South Africa, England, New Zealand and Australia. India were 247 for 1, with Devdutt Padikkal unbeaten on 53, trailing New Zealand's 368 by 121 runs."
    }
   }
  ]
