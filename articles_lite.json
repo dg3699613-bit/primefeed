@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T13:40:12+05:30",
+ "updatedAt": "2026-11-22T13:58:26+05:30",
  "articles": [
+  {
+   "id": "ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T13:58:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22-en.mp3",
+   "district": "Ganjam",
+   "state": "Odisha",
+   "hi": {
+    "title": "गंजम में महिला सब-इंस्पेक्टर क्वार्टर में मृत मिलीं; परिवार ने हत्या का आरोप लगाया, पूरी जाँच की माँग की",
+    "summary": "ओडिशा के गंजम ज़िले के पुरुषोत्तमपुर थाने में तैनात सब-इंस्पेक्टर प्रभासिनी साहू (27) शनिवार को अपने सरकारी क्वार्टर में मृत मिलीं। पुलिस का कहना है कि शुरुआती संकेत आत्महत्या की ओर इशारा करते हैं, लेकिन परिवार ने इसे खारिज करते हुए हत्या की साज़िश का आरोप लगाया है और पूरी जाँच की माँग की है।"
+   },
+   "en": {
+    "title": "Woman sub-inspector found dead in quarters in Ganjam; family alleges murder, demands thorough probe",
+    "summary": "Sub-Inspector Prabhasini Sahu, 27, was found hanging in her official quarters at Purushottampur police station in Odisha's Ganjam district on Saturday. Police say preliminary signs point to suicide, but her family has rejected that, alleging she was murdered as part of a conspiracy and demanding a thorough investigation."
+   }
+  },
+  {
+   "id": "maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22",
+   "category": "Business",
+   "sub": "Auto",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T13:58:26+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22-en.mp3",
+   "hi": {
+    "title": "मारुति सुज़ुकी ने चुनिंदा मॉडलों के दाम बढ़ाए, आज से लागू; 2026 में चौथी बढ़ोतरी",
+    "summary": "मारुति सुज़ुकी इंडिया ने चुनिंदा मॉडलों के दाम औसतन 0.31% बढ़ा दिए हैं, जो रविवार, 22 नवंबर से लागू हो गए। कंपनी ने लागत के बढ़ते दबाव का हवाला दिया है। यह इस साल की चौथी बढ़ोतरी है।"
+   },
+   "en": {
+    "title": "Maruti Suzuki raises prices on select models from today, its fourth hike in 2026",
+    "summary": "Maruti Suzuki India has raised prices on select models by a volume-weighted average of around 0.31%, effective Sunday, November 22 — its fourth price revision this year. The country's largest carmaker cited sustained cost pressures in an exchange filing."
+   }
+  },
   {
    "id": "singur-ashok-leyland-truck-plant-announced-18-years-after-nano-exit-november-22",
    "category": "State & Local",
@@ -3253,52 +3297,6 @@
    "en": {
     "title": "Gill falls for 98, Pant unbeaten on 55 as India stretch lead to 118 in Wellington",
     "summary": "Shubman Gill fell for 98 and Rishabh Pant stayed unbeaten on 55 as India reached 486 for four on day three of the Wellington Test, stretching their lead over New Zealand to 118 runs."
-   }
-  },
-  {
-   "id": "gonda-cmo-probe-outsourcing-recruitment-november-21",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-21T11:00:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-cmo-probe-outsourcing-recruitment-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-cmo-probe-outsourcing-recruitment-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-cmo-probe-outsourcing-recruitment-november-21-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा: सीएमओ दफ़्तर में शासन की टीम की जाँच, उनहत्तर पदों के मुकाबले चार सौ पचास नियुक्तियों का आरोप; कई अहम दस्तावेज़ सील",
-    "summary": "स्वास्थ्य महानिदेशक के आदेश पर गठित तीन सदस्यीय टीम शुक्रवार दोपहर गोंडा के मुख्य चिकित्साधिकारी कार्यालय पहुँची और सीएमओ डॉ. संत लाल पटेल व कर्मचारियों से बंद कमरे में घंटों पूछताछ की। टीम ने कई अहम दस्तावेज़ सील कर दिए हैं। मामला आउटसोर्सिंग से स्वीकृत पदों से ज़्यादा नियुक्तियों के आरोप से जुड़ा है।"
-   },
-   "en": {
-    "title": "Gonda CMO office probed: state health team questions chief medical officer for hours over '450 appointments against 69 posts' charge",
-    "summary": "A three-member team formed on the orders of the Director General of Health reached the Gonda chief medical officer's office on Friday afternoon and questioned CMO Dr Sant Lal Patel and his staff for hours behind closed doors, sealing several important documents. The inquiry follows allegations that outsourced appointments far exceeded the sanctioned posts."
-   }
-  },
-  {
-   "id": "gonda-husband-kills-wife-axe-kaudia-madara-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-21T10:42:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-husband-kills-wife-axe-kaudia-madara-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-husband-kills-wife-axe-kaudia-madara-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-husband-kills-wife-axe-kaudia-madara-november-21-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा में पति ने टंगारी से पत्नी की हत्या की, आरोपी फरार; पुलिस ने मुकदमा दर्ज किया",
-    "summary": "गोंडा जिले के कौड़िया थाना क्षेत्र के मदारा गाँव में शुक्रवार रात एक पति ने अपनी पत्नी पर टंगारी से हमला कर दिया, जिससे उसकी मौके पर ही मौत हो गई। आरोपी पति फरार है, पुलिस ने उसके और उसकी माँ के खिलाफ हत्या का मुकदमा दर्ज कर लिया है।"
-   },
-   "en": {
-    "title": "Husband kills wife with axe in Gonda village; accused on the run, murder case filed",
-    "summary": "A man allegedly attacked his wife with an axe in Madara village under the Kaudia police station area of Gonda district late on Friday night, killing her on the spot. The accused fled after the attack, and police have registered a murder case against him and his mother."
    }
   }
  ]
