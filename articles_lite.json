@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-23T03:06:05+05:30",
+ "updatedAt": "2026-11-23T03:34:02+05:30",
  "articles": [
+  {
+   "id": "mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T03:33:23+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21-en.mp3",
+   "district": "Mumbai",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "मुंबई के नीचे ‘पाताल लोक’: 53,928 करोड़ की भूमिगत सड़क परियोजना को फडणवीस की सैद्धांतिक मंज़ूरी",
+    "summary": "मुख्यमंत्री देवेंद्र फडणवीस ने मुंबई की 53,928.2 करोड़ रुपये की ‘पाताल लोक’ भूमिगत सड़क परियोजना को सैद्धांतिक मंज़ूरी दे दी है। दोनों दिशाओं में करीब 31 किलोमीटर लंबी सुरंगें मीठी नदी के नीचे से गुज़रेंगी और बांद्रा-वर्ली सी लिंक, बीकेसी, धारावी व हवाई अड्डे को 80 किलोमीटर प्रति घंटा की रफ्तार से जोड़ेंगी; वित्तपोषण व मंज़ूरियाँ अभी बाकी हैं और निर्माण की तारीख़ घोषित नहीं हुई है।"
+   },
+   "en": {
+    "title": "Fadnavis gives in-principle nod to Mumbai's Rs 53,928-crore 'Pataal Lok' underground road network",
+    "summary": "Chief Minister Devendra Fadnavis has given in-principle approval to Mumbai's Rs 53,928.2-crore 'Pataal Lok' underground road network. The nearly 31-km tunnels in each direction will run beneath the Mithi River, linking the Bandra-Worli Sea Link, BKC, Dharavi and the airport at speeds of up to 80 kmph; funding and clearances remain ahead and no construction date has been announced."
+   }
+  },
   {
    "id": "kaiga-unit-1-attains-criticality-again-600-days-record-november-22",
    "category": "Science",
@@ -3288,27 +3311,6 @@
    "en": {
     "title": "Mexico captures FBI's most-wanted 'El Chapo Isidro' in Sinaloa raid; cartel gunfire sends baseball fans fleeing",
     "summary": "Mexican special forces captured Fausto Isidro Meza-Flores, known as 'El Chapo Isidro', in Guasave, Sinaloa, on Friday night. The FBI Ten Most Wanted fugitive, wanted in the US on drug-trafficking and firearms charges with a $5 million reward on his head, was flown to Mexico City with two associates. The raid set off cartel violence across Sinaloa — roadblocks, burning cars and gunfire that sent fans fleeing a baseball game."
-   }
-  },
-  {
-   "id": "manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21",
-   "category": "Entertainment",
-   "sub": "TV",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T00:16:54+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manish-goel-quits-bigg-boss-20-medical-emergency-leg-injury-november-21-en.mp3",
-   "hi": {
-    "title": "मनीष गोयल ने पैर की गंभीर चोट के बाद बिग बॉस 20 छोड़ा; माहही विज बचीं, कोई एविक्शन नहीं",
-    "summary": "वाइल्ड कार्ड प्रतियोगी मनीष गोयल ने पैर की गंभीर चोट के बाद पाँच हफ़्ते में बिग बॉस 20 छोड़ दिया है। मेज़बान सलमान खान ने शनिवार के वीकेंड का वार में साफ़ किया कि गोयल को सबसे कम वोट नहीं मिले थे और उन्हें एविक्ट नहीं किया गया — उन्होंने चिकित्सा कारणों से खुद शो छोड़ने का फ़ैसला किया। उनके जाने से माहही विज बच गईं, जिन्हें इस हफ़्ते कथित तौर पर सबसे कम वोट मिले थे, और कोई एविक्शन नहीं हुआ।"
-   },
-   "en": {
-    "title": "Manish Goel quits Bigg Boss 20 after serious leg injury; Mahhi Vij survives as no one is evicted",
-    "summary": "Wildcard contestant Manish Goel has left Bigg Boss 20 after five weeks, following a serious leg injury. Host Salman Khan clarified during Saturday's Weekend Ka Vaar that Goel did not receive the lowest votes and was not evicted — he chose to walk out on medical grounds. His exit saved Mahhi Vij, who had reportedly received the fewest votes this week, and no elimination took place."
    }
   }
  ]
