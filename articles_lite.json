@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T06:44:32+05:30",
+ "updatedAt": "2026-11-22T07:06:27+05:30",
  "articles": [
+  {
+   "id": "jodhpur-car-tempo-collision-three-killed-15-injured-november-22",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T07:06:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jodhpur-car-tempo-collision-three-killed-15-injured-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jodhpur-car-tempo-collision-three-killed-15-injured-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jodhpur-car-tempo-collision-three-killed-15-injured-november-22-en.mp3",
+   "district": "Jodhpur",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "जोधपुर में कार-टेंपो टक्कर: रामदेवरा से लौट रहे परिवार के तीन लोगों की मौत, पंद्रह से अधिक घायल",
+    "summary": "गुजरात के बनासकांठा जिले का एक परिवार रामदेवरा में दर्शन के बाद घर लौट रहा था, तभी शनिवार शाम जोधपुर जिले के मंडला के पास उनकी टेंपो ट्रैवलर की एक कार से टक्कर हो गई। तीन लोगों की मौत हो गई और पंद्रह से अधिक घायल हो गए; गंभीर घायलों को जोधपुर के मथुरादास माथुर अस्पताल ले जाया गया।"
+   },
+   "en": {
+    "title": "Three of Gujarat family killed as car hits their tempo near Jodhpur after Ramdevra darshan; over 15 injured",
+    "summary": "A family from Gujarat's Banaskantha district was returning home after offering prayers at Ramdevra when their tempo traveller collided with a car near Mandla in Jodhpur district on Saturday evening. Three people were killed and more than 15 injured; the seriously injured were taken to Mathuradas Mathur Hospital in Jodhpur."
+   }
+  },
   {
    "id": "up-air-raid-blackout-mock-drill-75-districts-november-22",
    "category": "State & Local",
@@ -3230,27 +3253,6 @@
    "en": {
     "title": "Trump holds up India as the model: low rates, 7% growth — US could hit 20% if the Fed cut rates",
     "summary": "US President Donald Trump has praised India's low interest rates and 7 per cent growth as an example for America, arguing the United States could record growth of 14 to 20 per cent if the Federal Reserve cut borrowing costs instead of raising them. He called the Fed a very political central bank."
-   }
-  },
-  {
-   "id": "blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T02:30:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/blind-cricket-asia-cup-final-washout-india-boycott-ceremony-pakistan-champions-en.mp3",
-   "hi": {
-    "title": "एक गेंद भी नहीं फेंकी गई, फिर भी पाकिस्तान को विजेता घोषित किया: ब्लाइंड एशिया कप ट्रॉफ़ी समारोह का भारत ने बहिष्कार किया",
-    "summary": "ढाका में पुरुष ब्लाइंड क्रिकेट एशिया कप दो हज़ार छब्बीस का फाइनल बिना एक गेंद फेंके बारिश से धुल गया, फिर भी मैच रेफ़री ने बेहतर नेट रन रेट के आधार पर पाकिस्तान को एकमात्र विजेता घोषित कर दिया। भारतीय टीम ने ट्रॉफ़ी समारोह का बहिष्कार कर दिया और काबी ने फैसले को नियमों के खिलाफ़ बताया।"
-   },
-   "en": {
-    "title": "No ball bowled, yet Pakistan declared champions: India boycott Blind Asia Cup trophy ceremony",
-    "summary": "The Men's Blind Cricket Asia Cup 2026 final in Dhaka was washed out without a single ball being bowled, yet the match referee declared Pakistan the sole winners on a better net run rate. The Indian team boycotted the trophy presentation ceremony, and the Cricket Association for the Blind in India called the decision against the rules."
    }
   }
  ]
