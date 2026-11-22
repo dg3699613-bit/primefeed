@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T22:09:09+05:30",
+ "updatedAt": "2026-11-22T22:26:21+05:30",
  "articles": [
+  {
+   "id": "jodhpur-hotel-raid-seven-thai-women-detained-operator-held-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T22:26:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jodhpur-hotel-raid-seven-thai-women-detained-operator-held-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jodhpur-hotel-raid-seven-thai-women-detained-operator-held-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jodhpur-hotel-raid-seven-thai-women-detained-operator-held-november-22-en.mp3",
+   "district": "Jodhpur",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "जोधपुर के होटल में छापा, बिना वैध वीजा के रह रहीं थाईलैंड की 7 युवतियाँ दस्तयाब; संचालक डिटेन",
+    "summary": "जोधपुर: पुलिस की कमिश्नरेट स्पेशल टीम ने रविवार को शहर के एक होटल में दबिश देकर थाईलैंड की 7 युवतियों को दस्तयाब किया। शुरुआती जाँच में उनके पास वीजा से जुड़े वैध दस्तावेज़ नहीं मिले। होटल संचालक अनिल माहेश्वरी को डिटेन करके पूछताछ की जा रही है।"
+   },
+   "en": {
+    "title": "Jodhpur hotel raided, 7 Thai women found staying without valid visas; operator detained",
+    "summary": "Jodhpur: A Commissionerate Special Team raided a hotel in the city on Sunday and detained seven women from Thailand after finding they had no valid visa documents. Hotel operator Anil Maheshwari was also detained and is being questioned."
+   }
+  },
+  {
+   "id": "fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22",
+   "category": "Health",
+   "sub": "Diet & Nutrition",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T22:26:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22-en.mp3",
+   "hi": {
+    "title": "बिसलेरी के पानी का नमूना जाँच में असुरक्षित, एफ़एसएसएआई ने मुक़दमे की मंज़ूरी दी",
+    "summary": "नई दिल्ली: बिसलेरी के पैकेज्ड पानी का एक नमूना प्रयोगशाला जाँच में असुरक्षित पाया गया है। खाद्य सुरक्षा नियामक एफ़एसएसएआई ने बिसलेरी इंटरनेशनल के ख़िलाफ़ खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत मुक़दमा चलाने की मंज़ूरी दे दी है।"
+   },
+   "en": {
+    "title": "Bisleri water sample found unsafe in lab tests, FSSAI sanctions prosecution",
+    "summary": "New Delhi: A sample of Bisleri packaged drinking water has been found unsafe in laboratory tests. Food safety regulator FSSAI has sanctioned prosecution against Bisleri International under the Food Safety and Standards Act, 2006."
+   }
+  },
   {
    "id": "india-women-hockey-beat-thailand-7-0-deepika-hat-trick-act-semifinal-november-22",
    "category": "Cricket & Sports",
@@ -3275,50 +3319,6 @@
    "en": {
     "title": "Key shooter in Punjab ASI Iqbal Singh murder arrested after encounter at Zirakpur hotel",
     "summary": "Punjab Police's Anti-Gangster Task Force on Friday evening arrested Harpreet Singh alias Happy Bahman, the alleged key shooter in the October 11 murder of Assistant Sub-Inspector Iqbal Singh, after a brief exchange of fire at a hotel in Zirakpur. The accused was injured and taken to hospital; a woman accomplice was also arrested. Police say he is a shooter for the foreign-based gangster Doni Bal."
-   }
-  },
-  {
-   "id": "owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T18:57:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-guard-of-honour-meant-for-supreme-court-judge-saharanpur-november-21-en.mp3",
-   "district": "Saharanpur",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "सुप्रीम कोर्ट के जज समझकर पुलिस ने ओवैसी को दे दी गार्ड ऑफ ऑनर, जाँच के आदेश",
-    "summary": "शनिवार को सहारनपुर में पुलिस ने गलती से एआईएमआईएम प्रमुख असदुद्दीन ओवैसी को सर्किट हाउस में आने वाले सुप्रीम कोर्ट के जज के लिए रखी गई औपचारिक गार्ड ऑफ ऑनर दे दी। जवानों ने उनके काफिले को जज का काफिला समझ लिया था; गड़बड़ी का वीडियो वायरल हो गया और वरिष्ठ पुलिस अधीक्षक ने जाँच के आदेश दिए हैं।"
-   },
-   "en": {
-    "title": "Mistaken for a Supreme Court judge, Owaisi gets a guard of honour in Saharanpur; police order probe",
-    "summary": "Police in Saharanpur on Saturday mistakenly gave AIMIM chief Asaduddin Owaisi the ceremonial guard of honour arranged for a visiting Supreme Court judge at the Circuit House. The personnel had mistaken his convoy for the judge's entourage; a video of the mix-up went viral and the Senior Superintendent of Police has ordered an inquiry."
-   }
-  },
-  {
-   "id": "cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T18:57:57+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cji-surya-kant-ai-detectors-legal-education-hyderabad-november-21-en.mp3",
-   "hi": {
-    "title": "किसी छात्र को मशीन की बात पर दोषी न ठहराया जाए: एआई डिटेक्टरों पर सीजेआई सूर्यकांत की चेतावनी",
-    "summary": "भारत के मुख्य न्यायाधीश सूर्यकांत ने शनिवार को लॉ स्कूलों को चेतावनी दी कि वे एआई से लिखावट पहचानने वाले सॉफ्टवेयर को नकल का सबूत न मानें — किसी छात्र को सिर्फ मशीन की बात पर कदाचार का दोषी नहीं ठहराया जाना चाहिए। उन्होंने एआई औज़ारों पर पूरी रोक का विरोध किया, कानूनी शोध में एआई की मदद के खुलासे के लिए आदर्श दिशा-निर्देश बनाने का आग्रह किया और लॉ छात्रों के स्नातक होने के लिए कानूनी सहायता कार्य अनिवार्य करने का सुझाव दिया।"
-   },
-   "en": {
-    "title": "No student should be held guilty on the word of a machine alone: CJI Surya Kant warns law schools over AI detectors",
-    "summary": "Chief Justice of India Surya Kant on Saturday warned law schools against treating AI detection software as proof of cheating, saying no student should be held guilty of misconduct on the word of a machine alone. He opposed a blanket ban on AI tools, urged model guidelines on disclosing AI help in legal research, and proposed compulsory legal aid work for law students to graduate."
    }
   }
  ]
