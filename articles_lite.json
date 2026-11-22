@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T16:00:47+05:30",
+ "updatedAt": "2026-11-22T16:10:57+05:30",
  "articles": [
+  {
+   "id": "gonda-watchman-prince-tiwari-electrocuted-parsa-head-november-22",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-22T16:10:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-watchman-prince-tiwari-electrocuted-parsa-head-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-watchman-prince-tiwari-electrocuted-parsa-head-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-watchman-prince-tiwari-electrocuted-parsa-head-november-22-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोंडा में नहर के चौकीदार की करंट से मौत, माप करते समय फीता 11,000 वोल्ट की लाइन से छू गया",
+    "summary": "गोंडा के रुपईडीह क्षेत्र में सरयू नहर खंड 4 के परसा हेड द्वितीय गेट पर तैनात 25 वर्षीय चौकीदार प्रिंस तिवारी की शनिवार को करंट लगने से मौत हो गई। माप के दौरान इस्तेमाल हो रहा फीता ऊपर से गुजर रही 11,000 वोल्ट की बिजली लाइन से छू गया था। वह अपने माता-पिता का इकलौता बेटा था और अपने पीछे पत्नी और दो छोटे बेटे छोड़ गया है।"
+   },
+   "en": {
+    "title": "Gonda canal watchman dies after measuring tape touches 11,000-volt line at Parsa Head",
+    "summary": "Prince Tiwari, a 25-year-old watchman at the Parsa Head II gate of the Saryu Canal Division 4 in Gonda's Rupaiydih area, died on Saturday after the measuring tape he was using touched an 11,000-volt overhead power line. He was the only son of his parents and leaves behind his wife and two young sons."
+   }
+  },
   {
    "id": "india-china-second-corps-commander-talks-arunachal-winter-november-22",
    "category": "India",
@@ -3282,27 +3305,6 @@
    "en": {
     "title": "KBC 18 gets its first crorepati: Jalgaon's Bhushan Thakare wins Rs 1 crore, now eyes Rs 7 crore jackpot",
     "summary": "Bhushan Thakare, a 28-year-old from Jalgaon in Maharashtra, has become the first Rs 1 crore winner of Kaun Banega Crorepati Season 18, Sony Entertainment Television revealed in a new promo — and he now faces the Rs 7 crore jackpot question. He had arrived in Mumbai with just Rs 24, his labourer father funding his education."
-   }
-  },
-  {
-   "id": "houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T13:37:41+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-41-killed-saudi-strikes-yemen-retaliation-claims-november-21-en.mp3",
-   "hi": {
-    "title": "हूती बोले — सऊदी गठबंधन के हमलों में यमन में इकतालीस की मौत, सऊदी बिजली संयंत्र और बंदरगाह पर पलटवार का दावा",
-    "summary": "हूती संचालित मीडिया ने कहा है कि सऊदी नेतृत्व वाले गठबंधन के हमलों में पिछले चौबीस घंटों में यमन भर में कम से कम इकतालीस लोग मारे गए, जिनमें ग्यारह बच्चे शामिल हैं। गठबंधन ने कहा है कि उसने होदैदा बंदरगाह और सना, सादा व ताइज़ में ठिकानों को निशाना बनाया, जबकि हूतियों ने सऊदी बिजली संयंत्र और बंदरगाह पर पलटवार का दावा किया है।"
-   },
-   "en": {
-    "title": "Houthis say 41 killed as Saudi coalition strikes Hodeidah port; Yemen escalation deepens",
-    "summary": "Houthi-run media said at least 41 people, including 11 children, were killed in Saudi-led coalition strikes across Yemen in the past 24 hours, as the coalition said it had hit Hodeidah port and targets in Sanaa, Saada and Taiz — and the Houthis claimed retaliatory strikes on a Saudi power plant and port."
    }
   }
  ]
