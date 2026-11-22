@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-22T12:38:49+05:30",
+ "updatedAt": "2026-11-22T12:57:43+05:30",
  "articles": [
+  {
+   "id": "bsf-punjab-police-recover-four-pistols-heroin-drone-dropped-packet-tarn-taran-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T12:57:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bsf-punjab-police-recover-four-pistols-heroin-drone-dropped-packet-tarn-taran-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bsf-punjab-police-recover-four-pistols-heroin-drone-dropped-packet-tarn-taran-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bsf-punjab-police-recover-four-pistols-heroin-drone-dropped-packet-tarn-taran-november-22-en.mp3",
+   "district": "Tarn Taran",
+   "state": "Punjab",
+   "hi": {
+    "title": "तरन तारन में ड्रोन से गिराए गए पैकेट से 4 पिस्तौल और 277 ग्राम हेरोइन बरामद, बीएसएफ़ और पंजाब पुलिस की संयुक्त कार्रवाई",
+    "summary": "सीमा सुरक्षा बल और पंजाब पुलिस की संयुक्त टीम ने भारत-पाकिस्तान सीमा के पास पंजाब के तरन तारन ज़िले में एक खेत से ड्रोन से गिराए गए पैकेट से 4 पिस्तौल, 6 खाली मैगज़ीन, 57 ज़िंदा कारतूस और 277 ग्राम हेरोइन बरामद की है। पुलिस ने अज्ञात लोगों के खिलाफ मामला दर्ज किया है।"
+   },
+   "en": {
+    "title": "BSF and Punjab Police recover 4 pistols and 277 grams of heroin from drone-dropped packet in Tarn Taran",
+    "summary": "A joint team of the Border Security Force and Punjab Police has recovered 4 pistols, 6 empty magazines, 57 live cartridges and 277 grams of heroin from a packet dropped by a drone in a field in Punjab's Tarn Taran district, near the India-Pakistan border. Police have registered a case against unidentified persons."
+   }
+  },
+  {
+   "id": "caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T12:57:43+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22-en.mp3",
+   "hi": {
+    "title": "सीएक्यूएम ने दिल्ली-एनसीआर राज्यों को ज़िलेवार प्रदूषण योजना बनाने का निर्देश दिया, 2027 में प्रदूषण 15% से 20% घटाने का लक्ष्य",
+    "summary": "वायु गुणवत्ता प्रबंधन आयोग ने दिल्ली और राष्ट्रीय राजधानी क्षेत्र के राज्यों से 2027 के लिए ज़िलेवार कार्य योजना तैयार करने को कहा है। पहली बार ज़िले स्तर पर ऐसी योजना बन रही है, जिसका लक्ष्य 2026 की तुलना में 2027 में सालाना औसत प्रदूषण 15% से 20% घटाना है। हर बिंदु के लिए नोडल अधिकारी का नाम देना होगा और योजना 5 दिसंबर तक जमा करनी होगी।"
+   },
+   "en": {
+    "title": "CAQM orders Delhi-NCR states to draw up district-level pollution plans, cut pollution by 15% to 20% in 2027",
+    "summary": "The Commission for Air Quality Management has asked Delhi and the National Capital Region states to prepare district-level action plans for 2027, the first time such plans are being drawn up at the district level, with a target of cutting annual average pollution by 15% to 20% compared with 2026. Plans must name a nodal officer for every action point and be submitted by 5 December."
+   }
+  },
   {
    "id": "akal-takht-bars-two-delhi-gurdwara-committee-members-religious-activities-tilak-nagar-sacrilege-november-22",
    "category": "Dharm-Astrology",
@@ -3251,48 +3295,6 @@
    "en": {
     "title": "Rahul falls for 136 after carrying India into the lead in Wellington",
     "summary": "KL Rahul made 136, his thirteenth Test hundred, before Nathan Smith bowled him at 386 for 3. Shubman Gill, unbeaten on 67, has stretched India's lead to 30 on day three at the Basin Reserve."
-   }
-  },
-  {
-   "id": "trump-look-at-india-7-percent-growth-fed-rates-november-21",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T09:53:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-look-at-india-7-percent-growth-fed-rates-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-look-at-india-7-percent-growth-fed-rates-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-look-at-india-7-percent-growth-fed-rates-november-21-en.mp3",
-   "hi": {
-    "title": "'भारत को देखिए': ट्रंप ने फेड पर हमले के लिए भारत की सात फीसदी वृद्धि का हवाला दिया, अमेरिका के बीस फीसदी तक बढ़ने का दावा किया",
-    "summary": "डोनाल्ड ट्रंप ने भारत की सात फीसदी वृद्धि और कम ब्याज दरों का हवाला देकर फ़ेडरल रिज़र्व पर हमला किया है और दावा किया है कि कर्ज़ सस्ता हो तो अमेरिका पंद्रह से बीस फीसदी तक बढ़ सकता है। आधिकारिक आँकड़े कुछ और ही कहते हैं — भारत की बेंचमार्क दर असल में अमेरिका से ज़्यादा है।"
-   },
-   "en": {
-    "title": "'Look at India': Trump cites 7 per cent growth to attack Fed, claims US could hit 20 per cent",
-    "summary": "Donald Trump has cited India's 7 per cent growth and low interest rates to attack the Federal Reserve, claiming the US could grow by 15 to 20 per cent if borrowing costs were cut. The official figures tell a different story: India's benchmark rate is actually higher than America's."
-   }
-  },
-  {
-   "id": "gold-crashes-one-year-low-129300-ninth-straight-session-november-21",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T09:33:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-crashes-one-year-low-129300-ninth-straight-session-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-crashes-one-year-low-129300-ninth-straight-session-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-crashes-one-year-low-129300-ninth-straight-session-november-21-en.mp3",
-   "hi": {
-    "title": "सोना एक साल के निचले स्तर पर, नौ दिन की गिरावट में दिल्ली में सत्रह हज़ार छह सौ रुपये लुढ़का",
-    "summary": "दिल्ली में सोना शुक्रवार को पाँच हज़ार दो सौ रुपये गिरकर एक लाख उनतीस हज़ार तीन सौ रुपये प्रति दस ग्राम रह गया — लगातार नौवें सत्र की गिरावट। मज़बूत डॉलर और अमेरिका में ब्याज दर बढ़ने की आशंका से दुनिया भर में सराफा बाज़ार दबाव में है, चाँदी भी चार हज़ार रुपये गिरकर एक लाख अट्ठावन हज़ार रुपये प्रति किलो रह गई।"
-   },
-   "en": {
-    "title": "Gold crashes to a one-year low as nine-day sell-off wipes ₹17,600 off Delhi prices",
-    "summary": "Gold fell ₹5,200 to ₹1,29,300 per 10 grams in Delhi on Friday, its ninth straight session of losses, as a stronger dollar and expectations of another US rate hike battered bullion worldwide. Silver crashed ₹4,000 to ₹1.58 lakh a kg."
    }
   }
  ]
