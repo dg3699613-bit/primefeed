@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-22T12:57:43+05:30",
+ "updatedAt": "2026-11-22T13:09:15+05:30",
  "articles": [
+  {
+   "id": "two-minor-girls-abducted-bhadohi-rescued-two-arrested-third-girl-missing-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T13:09:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/two-minor-girls-abducted-bhadohi-rescued-two-arrested-third-girl-missing-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-minor-girls-abducted-bhadohi-rescued-two-arrested-third-girl-missing-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-minor-girls-abducted-bhadohi-rescued-two-arrested-third-girl-missing-november-22-en.mp3",
+   "district": "Bhadohi",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "भदोही में अगवा की गई 2 नाबालिग लड़कियाँ एक महीने बाद बरामद, 2 आरोपी गिरफ्तार; तीसरी लड़की अब भी लापता",
+    "summary": "उत्तर प्रदेश के भदोही ज़िले में एक महीने पहले स्कूल जाते समय अगवा की गई 2 नाबालिग लड़कियाँ बरामद कर ली गई हैं और 2 लोगों को गिरफ्तार किया गया है। 16 साल की तीसरी लड़की अब भी लापता है, और उसे ले जाने का आरोपी भी फरार है।"
+   },
+   "en": {
+    "title": "Two minor girls abducted in Bhadohi rescued after a month, two arrested; third girl still missing",
+    "summary": "Two minor girls who were allegedly abducted on their way to school in Uttar Pradesh's Bhadohi district a month ago have been rescued, and two men have been arrested, police said. A third girl, aged 16, is still missing, along with the man accused of taking her away."
+   }
+  },
   {
    "id": "bsf-punjab-police-recover-four-pistols-heroin-drone-dropped-packet-tarn-taran-november-22",
    "category": "Crime & Law",
@@ -3274,27 +3297,6 @@
    "en": {
     "title": "Yogi Adityanath shoulders mother's mortal remains at last rites in Panchur",
     "summary": "Uttar Pradesh Chief Minister Yogi Adityanath bid a final farewell to his mother, Savitri Devi, at his ancestral village of Panchur on Saturday morning, shouldering her bier as the mortal remains were taken to Haridwar for cremation. She died on Friday at the age of 91."
-   }
-  },
-  {
-   "id": "kl-rahul-falls-136-india-lead-30-wellington-november-21",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T09:53:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kl-rahul-falls-136-india-lead-30-wellington-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kl-rahul-falls-136-india-lead-30-wellington-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kl-rahul-falls-136-india-lead-30-wellington-november-21-en.mp3",
-   "hi": {
-    "title": "राहुल की एक सौ छत्तीस रनों की पारी खत्म, भारत वेलिंग्टन में तीस रन आगे",
-    "summary": "केएल राहुल ने एक सौ छत्तीस रन बनाए — उनका तेरहवाँ टेस्ट शतक — फिर नाथन स्मिथ ने उन्हें तीन सौ छियासी रन पर बोल्ड कर दिया। शुभमन गिल के नाबाद सड़सठ रनों से भारत की बढ़त तीसरे दिन बेसिन रिज़र्व में तीस रन हो गई है।"
-   },
-   "en": {
-    "title": "Rahul falls for 136 after carrying India into the lead in Wellington",
-    "summary": "KL Rahul made 136, his thirteenth Test hundred, before Nathan Smith bowled him at 386 for 3. Shubman Gill, unbeaten on 67, has stretched India's lead to 30 on day three at the Basin Reserve."
    }
   }
  ]
