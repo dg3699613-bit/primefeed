@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-22T14:24:50+05:30",
+ "updatedAt": "2026-11-22T14:36:37+05:30",
  "articles": [
+  {
+   "id": "nepal-pm-balendra-shah-arrives-india-first-bilateral-visit-november-22",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-22T14:36:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-pm-balendra-shah-arrives-india-first-bilateral-visit-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-arrives-india-first-bilateral-visit-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-arrives-india-first-bilateral-visit-november-22-en.mp3",
+   "hi": {
+    "title": "नेपाल के प्रधानमंत्री बालेंद्र शाह भारत पहुँचे; सोमवार को पीएम मोदी से वार्ता, ऊर्जा और संपर्क एजेंडे में सबसे ऊपर",
+    "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह रविवार को दो दिन की राजकीय यात्रा पर नई दिल्ली पहुँचे। यह मार्च में पद संभालने के बाद उनकी पहली द्विपक्षीय विदेश यात्रा है। उनके साथ 34 सदस्यीय प्रतिनिधिमंडल है, और सोमवार को प्रधानमंत्री नरेंद्र मोदी के साथ प्रतिनिधिमंडल स्तर की वार्ता होगी, जिसमें ऊर्जा, संपर्क और व्यापार एजेंडे में सबसे ऊपर हैं।"
+   },
+   "en": {
+    "title": "Nepal PM Balendra Shah lands in India for first bilateral visit abroad; talks with PM Modi on Monday",
+    "summary": "Nepal Prime Minister Balendra Shah arrived in New Delhi on Sunday for a two-day state visit, his first bilateral trip abroad since taking office in March. He leads a 34-member delegation and will hold delegation-level talks with Prime Minister Narendra Modi on Monday, with energy, connectivity and trade high on the agenda."
+   }
+  },
   {
    "id": "agniveers-can-marry-during-two-year-extension-women-to-get-maternity-benefits",
    "category": "India",
@@ -894,7 +915,7 @@
    "category": "Politics",
    "sub": "Parliament",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-22T08:17:14+05:30",
    "source": "PrimeFeed Desk",
@@ -3274,29 +3295,6 @@
    "en": {
     "title": "Maharashtra SIR: 14,567 voter-deletion requests in Bhusawal, only 74 found valid; action ordered over malicious filings",
     "summary": "Scrutiny of bulk Form-7 objections in Maharashtra's Bhusawal Assembly constituency has found only 74 of 14,567 requests to delete voters valid. The district administration has ordered legal action against those who filed objections with malicious intent, after an inquiry triggered by a Congress complaint."
-   }
-  },
-  {
-   "id": "five-killed-ambulance-carrying-body-rams-parked-pickup-purvanchal-expressway-barabanki",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-21T11:31:06+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/five-killed-ambulance-carrying-body-rams-parked-pickup-purvanchal-expressway-barabanki.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-killed-ambulance-carrying-body-rams-parked-pickup-purvanchal-expressway-barabanki-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-killed-ambulance-carrying-body-rams-parked-pickup-purvanchal-expressway-barabanki-en.mp3",
-   "district": "Barabanki",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "बाराबंकी: पूर्वांचल एक्सप्रेसवे पर खड़ी पिकअप से टकराई शव लेकर जा रही एंबुलेंस, पाँच लोगों की मौत",
-    "summary": "शनिवार सुबह बाराबंकी में पूर्वांचल एक्सप्रेसवे पर जयपुर से पश्चिम बंगाल जा रही एक एंबुलेंस खड़ी पिकअप से पीछे से जा टकराई। हादसे में एंबुलेंस सवार पाँचों लोगों की मौत हो गई, जिनमें एंबुलेंस के दो चालक भी शामिल थे।"
-   },
-   "en": {
-    "title": "Five killed as ambulance carrying a body rams parked pickup on Purvanchal Expressway in Barabanki",
-    "summary": "An ambulance carrying the body of 38-year-old Azizul Haq from Jaipur to West Bengal rammed into a stationary pickup vehicle on the Purvanchal Expressway in Barabanki on Saturday morning, killing all five people travelling in it, including the ambulance's two drivers."
    }
   }
  ]
