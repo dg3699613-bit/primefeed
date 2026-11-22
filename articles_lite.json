@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T00:49:46+05:30",
+ "updatedAt": "2026-11-23T01:09:52+05:30",
  "articles": [
+  {
+   "id": "bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T01:09:52+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22-en.mp3",
+   "hi": {
+    "title": "बांग्लादेश के नरैल में आवामी लीग नेताओं के करीब 30 घरों में आग, 2 बीएनपी नेताओं की हत्या के बाद भड़की हिंसा",
+    "summary": "बांग्लादेश के नरैल जिले के बेंडरचर गाँव में आवामी लीग नेताओं के करीब 30 घरों में आग लगा दी गई। दमकलकर्मियों को रात 8 बजे गाँव पहुँचने पर 20 से 30 घर जलते मिले। यह हिंसा 18 नवंबर को बीएनपी के जुलूस पर हुए हमले में 2 नेताओं की हत्या के बाद भड़की।"
+   },
+   "en": {
+    "title": "Nearly 30 houses of Awami League leaders torched in Bangladesh's Narail after 2 BNP men killed",
+    "summary": "Nearly 30 houses belonging to Awami League leaders and activists were set ablaze in Bendarchar village in Bangladesh's Narail district. Fire service personnel found 20 to 30 houses on fire when they reached the village at around 8 pm. The violence followed the killing of 2 BNP-affiliated leaders in an attack on a party procession on November 18."
+   }
+  },
   {
    "id": "muzaffarnagar-father-son-shot-dead-dadupur-village-purkazi-november-22",
    "category": "Crime & Law",
@@ -3290,29 +3311,6 @@
    "en": {
     "title": "Gold bars worth Rs 3.83 crore hidden behind a car's tail lamp: DRI seizes 2.98 kg in Hyderabad, arrests two",
     "summary": "The Directorate of Revenue Intelligence has seized 25 gold bars weighing 2.98 kg and worth about Rs 3.83 crore from a cavity built behind the tail lamp of a Kia Seltos travelling from Kolkata to Hyderabad. Officers intercepted the car on November 19, found three tape-wrapped packets during a detailed examination the next day, and arrested both occupants; the gold and the car were seized under the Customs Act."
-   }
-  },
-  {
-   "id": "adani-defence-bagheera-at1-anti-tank-missile-pokhran-november-21",
-   "category": "India",
-   "sub": "Defence",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T22:19:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/adani-defence-bagheera-at1-anti-tank-missile-pokhran-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-defence-bagheera-at1-anti-tank-missile-pokhran-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-defence-bagheera-at1-anti-tank-missile-pokhran-november-21-en.mp3",
-   "district": "Jaisalmer",
-   "state": "Rajasthan",
-   "hi": {
-    "title": "बघीरा एटी वन: पोखरण में अदाणी डिफेंस की टैंक भेदी मिसाइल ने दिन और रात के परीक्षणों में लक्ष्य भेदे",
-    "summary": "अदाणी डिफेंस एंड एयरोस्पेस ने जैसलमेर के पोखरण फील्ड फायरिंग रेंज में अपनी वाहन आधारित टैंक भेदी निर्देशित मिसाइल प्रणाली, बघीरा एटी वन, का प्रदर्शन किया है। इसमें चार मिसाइलें दागी गईं, जिन्होंने दिन और रात दोनों स्थितियों में अपने लक्ष्यों को नष्ट कर दिया। अठारह महीनों में विकसित यह प्रणाली आठ किलोमीटर तक बख्तरबंद लक्ष्यों पर हमला कर सकती है और एक ही लेज़र किरण के साथ तेज़ी से दो मिसाइलें दागकर टैंक की सक्रिय सुरक्षा प्रणाली को भेद सकती है।"
-   },
-   "en": {
-    "title": "Bagheera AT1: Adani Defence's anti-tank missile hits targets in day and night trials at Pokhran",
-    "summary": "Adani Defence and Aerospace has demonstrated its vehicle-mounted anti-tank guided missile system, Bagheera AT1, at the Pokhran Field Firing Ranges in Jaisalmer, firing four missiles that destroyed their targets in day and night conditions. The system, developed over 18 months, can hit armoured targets up to 8 km away and fires two missiles in quick succession along a single laser beam to defeat a tank's active protection system."
    }
   }
  ]
