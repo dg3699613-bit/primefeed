@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-23T02:34:17+05:30",
+ "updatedAt": "2026-11-23T03:06:05+05:30",
  "articles": [
+  {
+   "id": "kaiga-unit-1-attains-criticality-again-600-days-record-november-22",
+   "category": "Science",
+   "sub": "Research",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T03:05:19+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kaiga-unit-1-attains-criticality-again-600-days-record-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kaiga-unit-1-attains-criticality-again-600-days-record-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kaiga-unit-1-attains-criticality-again-600-days-record-november-22-en.mp3",
+   "district": "Uttara Kannada",
+   "state": "Karnataka",
+   "hi": {
+    "title": "कैगा की यूनिट-1 ने 600 दिन में फिर हासिल की क्रांतिकता, 220 मेगावाट रिएक्टर को मिली नई ज़िंदगी",
+    "summary": "कर्नाटक के कैगा परमाणु बिजलीघर की यूनिट-1 ने बड़े रखरखाव के बाद रिकॉर्ड 600 दिन में फिर से क्रांतिकता हासिल कर ली है। एनपीसीआईएल ने बताया कि 22 नवंबर की सुबह रिएक्टर में नियंत्रित श्रृंखला अभिक्रिया दोबारा शुरू हुई; 1 अप्रैल 2025 को बंद हुई यह इकाई 25 साल से ज्यादा चली थी और ग्रिड को करीब 37,670 मिलियन यूनिट बिजली दे चुकी है।"
+   },
+   "en": {
+    "title": "Kaiga Unit-1 attains criticality again after 600 days, giving the 220 MW reactor a second life",
+    "summary": "Unit-1 of Karnataka's Kaiga Atomic Power Station has regained criticality in a record 600 days after a major refurbishment. NPCIL said the controlled chain reaction restarted early on November 22; the unit, shut down on April 1, 2025, had run for more than 25 years and supplied about 37,670 million units of electricity to the grid."
+   }
+  },
   {
    "id": "sabroom-alleged-gangrape-survivor-dies-after-13-days-one-accused-arrested-south-tripura",
    "category": "Crime & Law",
@@ -3286,29 +3309,6 @@
    "en": {
     "title": "Manish Goel quits Bigg Boss 20 after serious leg injury; Mahhi Vij survives as no one is evicted",
     "summary": "Wildcard contestant Manish Goel has left Bigg Boss 20 after five weeks, following a serious leg injury. Host Salman Khan clarified during Saturday's Weekend Ka Vaar that Goel did not receive the lowest votes and was not evicted — he chose to walk out on medical grounds. His exit saved Mahhi Vij, who had reportedly received the fewest votes this week, and no elimination took place."
-   }
-  },
-  {
-   "id": "hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T00:03:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-newborn-kidnapped-gandhi-hospital-six-arrested-november-21-en.mp3",
-   "district": "Hyderabad",
-   "state": "Telangana",
-   "hi": {
-    "title": "हैदराबाद के गांधी अस्पताल के बाहर से सात दिन की बच्ची अगवा, चौबीस घंटे में बरामद — छह गिरफ़्तार",
-    "summary": "सिकंदराबाद के गांधी अस्पताल के बाहर से कथित तौर पर अगवा की गई सात दिन की बच्ची को चौबीस घंटे के भीतर सकुशल बरामद कर उसके माता-पिता को सौंप दिया गया। पुलिस ने छह लोगों को गिरफ़्तार किया है, जिनमें वह महिला भी है जिसने कथित तौर पर एक लाख रुपये की सरकारी मदद का लालच देकर परिवार को फँसाया और बच्ची को एक निःसंतान महिला को सौंपने की योजना बनाई थी।"
-   },
-   "en": {
-    "title": "Seven-day-old baby taken from outside Hyderabad's Gandhi Hospital rescued within 24 hours; six arrested",
-    "summary": "A seven-day-old baby girl allegedly taken from outside Gandhi Hospital in Secunderabad was rescued within 24 hours and handed back to her parents. Police said six people were arrested, including a woman who allegedly lured the family with the promise of Rs 1 lakh in government aid and planned to hand the baby to a childless couple."
    }
   }
  ]
