@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T01:09:52+05:30",
+ "updatedAt": "2026-11-23T01:33:39+05:30",
  "articles": [
+  {
+   "id": "russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T01:33:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region-en.mp3",
+   "hi": {
+    "title": "कीव के पास रूसी ड्रोन हमले में अपार्टमेंट की इमारत ढही; 4 की मौत, 10 लापता, 7 साल का बच्चा 14 घंटे बाद मलबे से ज़िंदा निकला",
+    "summary": "रविवार रात यूक्रेन के कीव क्षेत्र के डीमर कस्बे में एक रूसी ड्रोन 5 मंज़िला अपार्टमेंट इमारत से टकराया, जिससे 5 मंज़िलों तक फैला एक हिस्सा ढह गया। 4 लोगों की मौत हुई, 10 अब भी लापता हैं और बचावकर्मियों ने 7 साल के बच्चे डेविड को करीब 14 घंटे बाद मलबे से ज़िंदा बाहर निकाला। उसी दिन क्षेत्र में 2 और हमलों में 3 लोगों की मौत हुई।"
+   },
+   "en": {
+    "title": "Russian drone strike destroys apartment block near Kyiv; 4 killed, 10 missing, 7-year-old rescued after 14 hours",
+    "summary": "A Russian drone struck a 5-storey apartment building in Dymer, in Ukraine's Kyiv region, overnight on November 22, destroying a section spanning all 5 floors. 4 people were killed and 10 were still missing by Sunday evening, while rescuers pulled 7-year-old David alive from the rubble after nearly 14 hours. Two more strikes in the region killed 3 others the same day."
+   }
+  },
   {
    "id": "bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22",
    "category": "World",
@@ -3288,29 +3309,6 @@
    "en": {
     "title": "US court sends summonses to NSA Ajit Doval and ex-RAW chief Samant Goel in Pannun case",
     "summary": "A US court has dispatched summonses to National Security Adviser Ajit Doval and former RAW chief Samant Goel in the civil case filed by Khalistani separatist Gurpatwant Singh Pannun. The clerk of the Southern District Court of New York said the summonses were sent by FedEx to three Delhi district courts on Friday, under a November 13 order citing the Hague Convention; India has rejected the lawsuit as fabricated and malicious."
-   }
-  },
-  {
-   "id": "dri-seizes-2-98-kg-gold-worth-3-83-crore-hyderabad-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T22:19:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dri-seizes-2-98-kg-gold-worth-3-83-crore-hyderabad-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dri-seizes-2-98-kg-gold-worth-3-83-crore-hyderabad-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dri-seizes-2-98-kg-gold-worth-3-83-crore-hyderabad-november-21-en.mp3",
-   "district": "Hyderabad",
-   "state": "Telangana",
-   "hi": {
-    "title": "कार की टेल लाइट के पीछे छिपा तीन दशमलव आठ तीन करोड़ रुपये का सोना: डीआरआई ने हैदराबाद में दो दशमलव नौ आठ किलोग्राम सोना जब्त किया, दो गिरफ्तार",
-    "summary": "राजस्व खुफिया निदेशालय ने कोलकाता से हैदराबाद जा रही किआ सेल्टोस कार की टेल लैंप के पीछे बने खाँचे से पच्चीस सोने की छड़ें जब्त की हैं, जिनका वज़न दो दशमलव नौ आठ किलोग्राम और कीमत लगभग तीन दशमलव आठ तीन करोड़ रुपये है। अधिकारियों ने उन्नीस नवंबर को कार रोकी, अगले दिन बारीकी से जाँच में टेप में लिपटे तीन पैकेट मिले और दोनों सवारों को गिरफ्तार कर लिया गया; सोना और कार सीमा शुल्क अधिनियम के तहत जब्त किए गए।"
-   },
-   "en": {
-    "title": "Gold bars worth Rs 3.83 crore hidden behind a car's tail lamp: DRI seizes 2.98 kg in Hyderabad, arrests two",
-    "summary": "The Directorate of Revenue Intelligence has seized 25 gold bars weighing 2.98 kg and worth about Rs 3.83 crore from a cavity built behind the tail lamp of a Kia Seltos travelling from Kolkata to Hyderabad. Officers intercepted the car on November 19, found three tape-wrapped packets during a detailed examination the next day, and arrested both occupants; the gold and the car were seized under the Customs Act."
    }
   }
  ]
