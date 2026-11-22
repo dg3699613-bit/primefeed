@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-22T15:51:20+05:30",
+ "updatedAt": "2026-11-22T16:00:47+05:30",
  "articles": [
+  {
+   "id": "india-china-second-corps-commander-talks-arunachal-winter-november-22",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T16:00:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-china-second-corps-commander-talks-arunachal-winter-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-china-second-corps-commander-talks-arunachal-winter-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-china-second-corps-commander-talks-arunachal-winter-november-22-en.mp3",
+   "hi": {
+    "title": "अरुणाचल सीमा पर भारत-चीन की दूसरी कोर कमांडर स्तरीय वार्ता पूरी, सर्दी से पहले तनाव घटाने पर सहमति",
+    "summary": "भारत और चीन ने अरुणाचल प्रदेश की सीमा पर तनाव कम करने के लिए दूसरे दौर की कोर कमांडर स्तरीय वार्ता पूरी कर ली है। 8 नवंबर को शुरू हुई यह बातचीत करीब 10 दिन चली। दोनों पक्ष गश्ती दलों के बीच टकराव रोकने और संवाद की लाइन खुली रखने के नियमों पर काम कर रहे हैं।"
+   },
+   "en": {
+    "title": "India, China conclude second round of Corps Commander talks on Arunachal frontier before winter sets in",
+    "summary": "India and China have concluded a second round of Corps Commander-level talks aimed at easing tensions along the frontier in Arunachal Pradesh before winter sets in fully, with the two sides working on ground rules meant to stop patrol confrontations from flaring into something bigger."
+   }
+  },
+  {
+   "id": "india-200-million-air-conditioners-2035-iea-electricity-demand-november-22",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T16:00:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-200-million-air-conditioners-2035-iea-electricity-demand-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-200-million-air-conditioners-2035-iea-electricity-demand-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-200-million-air-conditioners-2035-iea-electricity-demand-november-22-en.mp3",
+   "hi": {
+    "title": "2035 तक भारत में 200 मिलियन और एयर कंडीशनर लगेंगे, बिजली की माँग दुनिया में सबसे तेज़ बढ़ेगी: आईईए",
+    "summary": "अंतरराष्ट्रीय ऊर्जा एजेंसी की वर्ल्ड एनर्जी आउटलुक 2026 के अनुसार, भारत अगले दशक में घरों में 200 मिलियन और एयर कंडीशनर जोड़ेगा और वैश्विक ऊर्जा माँग में वृद्धि का सबसे बड़ा कारण बनेगा। भारत में बिजली की माँग हर साल 6 प्रतिशत बढ़ने का अनुमान है, जो किसी भी बड़े क्षेत्र में सबसे तेज़ है।"
+   },
+   "en": {
+    "title": "India to add 200 million air conditioners by 2035, becoming the biggest driver of global energy demand: IEA",
+    "summary": "India is set to install an additional 200 million air conditioners in homes over the next decade, making it the biggest driver of global energy demand growth, the International Energy Agency said in its World Energy Outlook 2026. India's electricity demand is likely to grow 6 per cent a year, the fastest of any major region."
+   }
+  },
   {
    "id": "tamil-nadu-moves-sc-review-karthigai-deepam-deepathoon-order-november-22",
    "category": "Crime & Law",
@@ -3261,48 +3303,6 @@
    "en": {
     "title": "Houthis say 41 killed as Saudi coalition strikes Hodeidah port; Yemen escalation deepens",
     "summary": "Houthi-run media said at least 41 people, including 11 children, were killed in Saudi-led coalition strikes across Yemen in the past 24 hours, as the coalition said it had hit Hodeidah port and targets in Sanaa, Saada and Taiz — and the Houthis claimed retaliatory strikes on a Saudi power plant and port."
-   }
-  },
-  {
-   "id": "navi-mumbai-airport-record-200-flights-day-highest-ever-november-21",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T13:23:44+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/navi-mumbai-airport-record-200-flights-day-highest-ever-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navi-mumbai-airport-record-200-flights-day-highest-ever-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navi-mumbai-airport-record-200-flights-day-highest-ever-november-21-en.mp3",
-   "hi": {
-    "title": "नवी मुंबई हवाई अड्डे पर एक दिन में दो सौ से ज़्यादा उड़ानें, अब तक का सबसे व्यस्त दिन",
-    "summary": "नवी मुंबई अंतरराष्ट्रीय हवाई अड्डे ने गुरुवार को एक ही दिन में दो सौ से ज़्यादा उड़ानें संभालीं। हवाई अड्डे के शुरू होने के बाद से यह उसका सबसे व्यस्त दिन रहा। अडानी एयरपोर्ट होल्डिंग्स के निदेशक जीत अडानी ने शुक्रवार को यह जानकारी दी।"
-   },
-   "en": {
-    "title": "Navi Mumbai airport handles 200-plus flights in a day, its busiest ever",
-    "summary": "Navi Mumbai International Airport handled more than 200 flight movements in a day for the first time on Thursday, its busiest day since operations began, Adani Airport Holdings director Jeet Adani said on Friday, as airlines begin shifting more traffic to the new airport."
-   }
-  },
-  {
-   "id": "noel-tata-seeks-board-meeting-recordings-november-21",
-   "category": "Business",
-   "sub": "Banking & Finance",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-21T13:04:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/noel-tata-seeks-board-meeting-recordings-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/noel-tata-seeks-board-meeting-recordings-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/noel-tata-seeks-board-meeting-recordings-november-21-en.mp3",
-   "hi": {
-    "title": "नोएल टाटा ने फिर माँगी सत्रह सितंबर की बोर्ड बैठक की रिकॉर्डिंग, चंद्रशेखरन की नियुक्ति पर सवाल",
-    "summary": "टाटा ट्रस्ट्स के चेयरमैन नोएल टाटा ने शुक्रवार को नए पत्र में टाटा संस से सत्रह सितंबर की उस बोर्ड बैठक की पूरी ऑडियो-वीडियो रिकॉर्डिंग फिर माँगी है, जिसमें एन चंद्रशेखरन को चेयरमैन नियुक्त किया गया था। उन्होंने पच्चीस नवंबर तक जवाब माँगा है, बोर्ड की अगली बैठक छब्बीस नवंबर को है।"
-   },
-   "en": {
-    "title": "Noel Tata seeks recordings of September 17 board meeting again, questions Chandrasekaran's reappointment",
-    "summary": "Tata Trusts chairman Noel Tata has written again to Tata Sons seeking the complete audio-video recordings of the September 17 board meeting that reappointed N Chandrasekaran, and has asked for a reply by November 25, a day before the next board meeting on November 26."
    }
   }
  ]
