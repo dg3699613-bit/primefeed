@@ -1,29 +1,6 @@
 {
- "updatedAt": "2026-11-23T20:14:40+05:30",
+ "updatedAt": "2026-11-23T20:29:46+05:30",
  "articles": [
-  {
-   "id": "kannur-court-convicts-three-bjp-rss-workers-dhanaraj-murder-2016-november-23",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T20:14:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kannur-court-convicts-three-bjp-rss-workers-dhanaraj-murder-2016-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannur-court-convicts-three-bjp-rss-workers-dhanaraj-murder-2016-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannur-court-convicts-three-bjp-rss-workers-dhanaraj-murder-2016-november-23-en.mp3",
-   "district": "Kannur",
-   "state": "Kerala",
-   "hi": {
-    "title": "कन्नूर: सीपीएम नेता धनराज की हत्या में तीन बीजेपी-आरएसएस कार्यकर्ता दोषी, 16 बरी; सजा 25 नवंबर को",
-    "summary": "कन्नूर की अदालत ने सोमवार को 2016 में पय्यन्नूर में सीपीएम नेता सी वी धनराज की हत्या के मामले में तीन बीजेपी-आरएसएस कार्यकर्ताओं को दोषी ठहराया और 16 अन्य को बरी कर दिया। तीनों को सजा 25 नवंबर को सुनाई जाएगी। अदालत ने पुलिस की जाँच पर भी सवाल उठाए और उसे यांत्रिक बताते हुए कहा कि उसमें कई खामियाँ थीं।"
-   },
-   "en": {
-    "title": "Kannur court convicts three BJP-RSS workers for 2016 murder of CPM leader Dhanaraj, acquits 16",
-    "summary": "A court in Kannur on Monday convicted three BJP-RSS workers of murdering CPM leader C V Dhanaraj at Payyannur in 2016 and acquitted 16 others, ending a trial that began in September 2025. The three men will be sentenced on November 25. The judge also criticised the police investigation, calling it mechanical and full of lapses."
-   }
-  },
   {
    "id": "dubey-alleges-indira-gandhi-spent-113-crore-1977-election-november-23",
    "category": "Politics",
@@ -104,7 +81,7 @@
    "district": "Amritsar",
    "state": "Punjab",
    "hi": {
-    "title": "अमृतसर: आवारा कुत्तों के हमले में 8 साल के रणजीत की मौत, तीन बहनों का इकलौता भाई था",
+    "title": "अमृतसर: आवारा कुत्तों के हमले में 8 साल के रणजीत की मौत, 3 बहनों का इकलौता भाई था",
     "summary": "अमृतसर: जंडियाला गुरु इलाके के गाँव जलाल में सोमवार सुबह स्कूल जा रहे 8 साल के रणजीत सिंह पर आवारा कुत्तों ने हमला कर दिया; बच्चे की मौके पर ही मौत हो गई। ग्राउंड में खेलने आए बच्चों को उसका शव मिला। पुलिस ने शव अस्पताल भेजा है और गाँव वाले परिवार के लिए मुआवजे की माँग कर रहे हैं।"
    },
    "en": {
@@ -127,8 +104,8 @@
    "district": "Puri",
    "state": "Odisha",
    "hi": {
-    "title": "पुरी श्रीमंदिर के बाहर दर्शन के नाम पर ठगी: पाँच और फर्जी गुमाश्ते गिरफ्तार, अमेरिकी श्रद्धालुओं से 13,000 रुपये ठगे",
-    "summary": "पुरी: श्री जगन्नाथ मंदिर के बाहर दर्शन कराने के नाम पर श्रद्धालुओं को ठगने वाले पाँच और फर्जी गुमाश्तों को पुलिस ने सोमवार को गिरफ्तार किया। सिंहद्वार थाने में दो मामले दर्ज हुए हैं। अमेरिका से आए 13 श्रद्धालुओं से 13,000 रुपये ठगने का वीडियो वायरल होने के बाद पुलिस ने स्वतः संज्ञान लेकर कार्रवाई की।"
+    "title": "पुरी श्रीमंदिर के बाहर दर्शन के नाम पर ठगी: 5 और फर्जी गुमाश्ते गिरफ्तार, अमेरिकी श्रद्धालुओं से 13,000 रुपये ठगे",
+    "summary": "पुरी: श्री जगन्नाथ मंदिर के बाहर दर्शन कराने के नाम पर श्रद्धालुओं को ठगने वाले 5 और फर्जी गुमाश्तों को पुलिस ने सोमवार को गिरफ्तार किया। सिंहद्वार थाने में 2 मामले दर्ज हुए हैं। अमेरिका से आए 13 श्रद्धालुओं से 13,000 रुपये ठगने का वीडियो वायरल होने के बाद पुलिस ने स्वतः संज्ञान लेकर कार्रवाई की।"
    },
    "en": {
     "title": "Five more fake 'gumastas' held in Puri for cheating devotees at Srimandir; US group duped of Rs 13,000",
@@ -3307,6 +3284,29 @@
    "en": {
     "title": "Nitin Nabin to lead BJP's Hyderabad rally on Monday to counter 'vote chori' charge",
     "summary": "BJP president Nitin Nabin will lead a rally in Hyderabad on Monday to counter criticism of the Special Intensive Revision of electoral rolls and the opposition's 'vote chori' allegations, Union minister Bandi Sanjay Kumar announced on Sunday, calling the rally 'historic' and predicting a massive turnout."
+   }
+  },
+  {
+   "id": "rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-22T17:36:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22-en.mp3",
+   "district": "Rohtas",
+   "state": "Bihar",
+   "hi": {
+    "title": "रोहतास के भलुनी भवानी मंदिर में बड़ी चोरी, देवी के मुकुट समेत 2.5 किलो से ज्यादा सोने-चांदी के गहने गायब",
+    "summary": "रोहतास जिले के दिनारा स्थित भलुनी भवानी देवी मंदिर में 21 नवंबर की रात चोरों ने गर्भगृह का ताला तोड़कर देवी के मुकुट, पादुका और छतरी समेत 2.5 किलो से ज्यादा सोने-चांदी के गहने चुरा लिए। चोर सीसीटीवी का डीवीआर भी ले गए, जबकि मंदिर के पास पुलिस तैनात थी।"
+   },
+   "en": {
+    "title": "Over 2.5 kg of gold and silver ornaments stolen from Bhaluni Bhawani temple in Rohtas; CCTV DVR also taken",
+    "summary": "Thieves broke into the Bhaluni Bhawani Devi temple in Dinara, Rohtas district, on the night of November 21 and stole more than 2.5 kg of gold and silver ornaments from the goddess, including her crown, footwear and umbrella — and took away the CCTV DVR as well, in a theft carried out despite police posted nearby."
    }
   }
  ]
