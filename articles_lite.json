@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-23T05:52:54+05:30",
+ "updatedAt": "2026-11-23T06:05:46+05:30",
  "articles": [
+  {
+   "id": "nine-injured-shooting-private-concert-strathmore-california",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T06:05:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nine-injured-shooting-private-concert-strathmore-california.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nine-injured-shooting-private-concert-strathmore-california-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nine-injured-shooting-private-concert-strathmore-california-en.mp3",
+   "en": {
+    "title": "Nine shot at private concert in California's Strathmore; one critical, no arrests yet",
+    "summary": "Nine people were shot at a private concert in Strathmore, a small town in California's Tulare County, on Saturday evening. A 26-year-old man is in critical condition after surgery, two others also needed operations, and no arrests have been made. Police say the shooting may be gang-related."
+   },
+   "hi": {
+    "title": "कैलिफोर्निया के स्ट्रैथमोर में निजी कॉन्सर्ट में गोलीबारी, 9 घायल, 1 की हालत गंभीर",
+    "summary": "कैलिफोर्निया की टुलेर काउंटी के छोटे शहर स्ट्रैथमोर में शनिवार शाम एक निजी कॉन्सर्ट के दौरान गोलीबारी में 9 लोग घायल हो गए। सर्जरी के बाद 26 साल के एक युवक की हालत गंभीर है, 2 अन्य की भी सर्जरी हुई है और अभी तक कोई गिरफ्तारी नहीं हुई है। पुलिस का कहना है कि गोलीबारी का संबंध किसी गैंग से हो सकता है।"
+   }
+  },
+  {
+   "id": "manish-goel-exits-bigg-boss-20-leg-injury-mahhi-vij-survives",
+   "category": "Entertainment",
+   "sub": "TV",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T06:05:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manish-goel-exits-bigg-boss-20-leg-injury-mahhi-vij-survives.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manish-goel-exits-bigg-boss-20-leg-injury-mahhi-vij-survives-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manish-goel-exits-bigg-boss-20-leg-injury-mahhi-vij-survives-en.mp3",
+   "en": {
+    "title": "Manish Goel walks out of Bigg Boss 20 with leg injury; Mahhi Vij survives eviction",
+    "summary": "Manish Goel has walked out of Bigg Boss 20 after a leg injury that doctors say needs four weeks of complete rest. Host Salman Khan revealed Manish had not received the fewest votes this week, so Mahhi Vij — who had — survives, and all other nominated contestants are safe."
+   },
+   "hi": {
+    "title": "मनीष गोयल पैर की चोट के कारण बिग बॉस 20 से बाहर, माहही विज को मिली राहत",
+    "summary": "मनीष गोयल पैर की चोट के कारण बिग बॉस 20 से बाहर हो गए हैं। डॉक्टरों ने उन्हें 4 हफ्ते के पूर्ण आराम की सलाह दी है। होस्ट सलमान खान ने बताया कि मनीष को इस हफ्ते सबसे कम वोट नहीं मिले थे, इसलिए सबसे कम वोट पाने वाली माहही विज बच गईं और बाकी सभी नॉमिनेटेड कंटेस्टेंट भी सुरक्षित हैं।"
+   }
+  },
   {
    "id": "three-killed-speeding-pickup-rams-e-rickshaw-barabanki-five-injured",
    "category": "State & Local",
@@ -3269,50 +3311,6 @@
     "summary": "बिजनौर के बढ़ापुर कस्बे में गुलाह नदी के पास खेलते हुए जंगली कसौंदी के पौधे की फली खाने वाली तीन बच्चियों में से तीसरी की भी मौत हो गई है। आठ साल की सादिका की दिल्ली एम्स में इलाज के दौरान शनिवार को मौत हो गई, जबकि चार और छह साल की दो बच्चियों की मौत गुरुवार और शुक्रवार को हो चुकी थी। परिजनों ने पोस्टमार्टम से इनकार कर दिया है और मामले की जाँच चल रही है।"
    },
    "district": "Bijnor",
-   "state": "Uttar Pradesh"
-  },
-  {
-   "id": "mexico-sinaloa-11-killed-chapo-isidro-capture-backlash-november-21",
-   "category": "World",
-   "sub": "Others",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T02:30:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mexico-sinaloa-11-killed-chapo-isidro-capture-backlash-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mexico-sinaloa-11-killed-chapo-isidro-capture-backlash-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mexico-sinaloa-11-killed-chapo-isidro-capture-backlash-november-21-en.mp3",
-   "en": {
-    "title": "Sinaloa: 11 killed as cartel violence erupts after capture of FBI most-wanted 'El Chapo Isidro'",
-    "summary": "At least 11 people, four Mexican soldiers and seven alleged cartel gunmen, were killed in Sinaloa after the capture of FBI most-wanted drug lord Fausto Isidro Meza-Flores, known as 'El Chapo Isidro', set off a night of gunfire, burning roadblocks and panic in Guasave. The cartel boss was flown to Mexico City on Saturday."
-   },
-   "hi": {
-    "title": "सिनालोआ: 'एल चापो इसिड्रो' की गिरफ़्तारी के बाद भड़की हिंसा में ग्यारह की मौत, चार सैनिक भी मारे गए",
-    "summary": "मेक्सिको के सिनालोआ राज्य में एफ़बीआई के दस सबसे वांछित अपराधियों में से एक फ़ाउस्टो इसिड्रो मेसा-फ़्लोरेस, उर्फ़ 'एल चापो इसिड्रो', की गिरफ़्तारी के बाद भड़की हिंसा में कम से कम ग्यारह लोग मारे गए हैं। मरने वालों में चार मैक्सिकन सैनिक और सात कथित कार्टेल बंदूकधारी हैं। गुआसावे शहर में रात भर गोलीबारी हुई, जलती गाड़ियों से सड़कें जाम की गईं और बेसबॉल मैच के दर्शक भागने लगे।"
-   }
-  },
-  {
-   "id": "gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T02:10:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gorakhpur-wedding-elephant-killed-hit-and-run-nh24-november-21-en.mp3",
-   "en": {
-    "title": "Wedding elephant killed in Gorakhpur hit-and-run; mahout seriously hurt, truck driver flees",
-    "summary": "A wedding elephant was killed and its mahout and a teenage helper were seriously injured after a speeding truck hit the animal from behind on National Highway-24 near Hata in Gorakhpur's Belipar area early on Saturday morning. The truck driver fled the spot without stopping. A 23-second CCTV clip of the incident has surfaced, and police are using it to trace the vehicle."
-   },
-   "hi": {
-    "title": "गोरखपुर में ट्रक की टक्कर से शादी से लौट रहे हाथी की मौत, महावत गंभीर, चालक फरार",
-    "summary": "गोरखपुर के बेलीपार इलाके में हाटा के पास राष्ट्रीय राजमार्ग चौबीस पर शनिवार सुबह एक तेज़ रफ़्तार ट्रक ने पीछे से हाथी को टक्कर मार दी। हादसे में हाथी की मौके पर ही मौत हो गई, जबकि महावत और उसका किशोर सहयोगी गंभीर रूप से घायल हो गए। ट्रक चालक मौके से भाग गया। घटना का तेईस सेकंड का सीसीटीवी फुटेज सामने आया है, और पुलिस उसी से गाड़ी का पता लगा रही है।"
-   },
-   "district": "Gorakhpur",
    "state": "Uttar Pradesh"
   }
  ]
