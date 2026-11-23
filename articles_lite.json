@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-23T23:18:00+05:30",
+ "updatedAt": "2026-11-23T23:32:22+05:30",
  "articles": [
+  {
+   "id": "delhi-jama-masjid-knife-attack-nine-cops-stabbed-accused-shot-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T23:32:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-jama-masjid-knife-attack-nine-cops-stabbed-accused-shot-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-jama-masjid-knife-attack-nine-cops-stabbed-accused-shot-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-jama-masjid-knife-attack-nine-cops-stabbed-accused-shot-november-23-en.mp3",
+   "district": "Central Delhi",
+   "state": "Delhi",
+   "hi": {
+    "title": "दिल्ली: जामा मस्जिद थाने में 9 पुलिसकर्मियों को चाकू मारा, भागते आरोपी को पुलिस ने 6 गोलियाँ मारीं",
+    "summary": "दिल्ली के जामा मस्जिद थाने में सोमवार दोपहर 30 वर्षीय नबील ने चाकू से हमला कर 9 पुलिसकर्मियों को घायल कर दिया। थाने से भागकर उसने स्कूटर छीना, फिर चितली क़बर में 4 और पुलिसकर्मियों को चाकू मारा। पुलिस ने आत्मरक्षा में 8 राउंड फायर किए, 6 गोलियाँ उसकी टाँगों में लगीं।"
+   },
+   "en": {
+    "title": "Delhi man stabs 9 cops at Jama Masjid police station, shot 6 times in legs during capture",
+    "summary": "A 30-year-old man stabbed 9 police personnel inside Delhi's Jama Masjid police station on Monday afternoon, fled on a snatched scooter, and stabbed 4 more policemen at Chitli Qabar. Police opened fire in self-defence — 8 rounds were fired and 6 bullets hit him in the legs."
+   }
+  },
   {
    "id": "cbi-traps-two-cgst-superintendents-3-lakh-bribe-bhubaneswar-november-23",
    "category": "Crime & Law",
@@ -3284,29 +3307,6 @@
    "en": {
     "title": "Deepika's hat-trick powers India to 7-0 rout of Thailand as defending champions seal Women's ACT semifinal",
     "summary": "Bhopal: Defending champions India thrashed Thailand 7-0 in the Women's Asian Champions Trophy on Sunday, with Deepika scoring a hat-trick and Navneet Kaur netting twice. The third straight win sealed India's semifinal berth with two round-robin matches still to play."
-   }
-  },
-  {
-   "id": "tamil-nadu-moves-supreme-court-review-thirupparankundram-deepam-order-november-22",
-   "category": "Dharm-Astrology",
-   "sub": "Mandir & Teerth",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T22:09:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-moves-supreme-court-review-thirupparankundram-deepam-order-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-moves-supreme-court-review-thirupparankundram-deepam-order-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-moves-supreme-court-review-thirupparankundram-deepam-order-november-22-en.mp3",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "तिरुप्परंकुंड्रम: कार्तिगई दीपम पर सुप्रीम कोर्ट के आदेश के ख़िलाफ़ तमिलनाडु सरकार की पुनर्विचार याचिका, रोक की माँग",
-    "summary": "नई दिल्ली: तमिलनाडु सरकार ने सुप्रीम कोर्ट में पुनर्विचार याचिका दायर करके 24 नवंबर को तिरुप्परंकुंड्रम पहाड़ी के दीपथून पर कार्तिगई दीपम जलाने की एकमुश्त अनुमति वाले 20 नवंबर के आदेश पर रोक माँगी है। राज्य का कहना है कि अंतरिम आदेश याचिकाकर्ताओं को वही अंतिम राहत दे देता है जो उन्होंने माँगी थी।"
-   },
-   "en": {
-    "title": "Tamil Nadu moves Supreme Court to review order allowing Karthigai Deepam lamp at Thirupparankundram hill",
-    "summary": "New Delhi: Tamil Nadu has filed a review petition in the Supreme Court against its 20 November order permitting the Karthigai Deepam lamp to be lit at Deepathoon on Thirupparankundram hill on 24 November as a one-time measure. The state has sought an immediate stay, saying the interim order hands the petitioners the final relief they sought."
    }
   }
  ]
