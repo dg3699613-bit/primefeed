@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T17:22:03+05:30",
+ "updatedAt": "2026-11-23T17:37:27+05:30",
  "articles": [
+  {
+   "id": "guwahati-narengi-man-found-dead-25-lakh-cash-identified-biswajit-debnath-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T17:37:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/guwahati-narengi-man-found-dead-25-lakh-cash-identified-biswajit-debnath-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/guwahati-narengi-man-found-dead-25-lakh-cash-identified-biswajit-debnath-november-23-hi.mp3",
+   "audioEn": null,
+   "district": "Kamrup Metro",
+   "state": "Assam",
+   "hi": {
+    "title": "नरेंगी स्टेशन पर शरीर पर बंधे 25 लाख रुपये के साथ मिला शव, मृतक की पहचान बिस्वजीत देबनाथ के रूप में हुई",
+    "summary": "शनिवार शाम गुवाहाटी के नरेंगी रेलवे स्टेशन के पास पटरी पर एक व्यक्ति का शव मिला था, जिसके शरीर पर करीब 25 लाख रुपये बंधे हुए थे। पुलिस ने सोमवार को मृतक की पहचान श्रीभूमि निवासी बिस्वजीत देबनाथ के रूप में की है। वह श्रीभूमि जाने के लिए गलत ट्रेन में चढ़ गए थे, और नकदी का स्रोत अभी पता नहीं चला है।"
+   },
+   "en": {
+    "title": "Man found dead at Guwahati's Narengi station with Rs 25 lakh strapped to his body identified as Biswajit Debnath",
+    "summary": "A man's body was found on the railway track near Guwahati's Narengi station on Saturday evening, with around Rs 25 lakh in cash strapped to his body. Police on Monday identified him as Biswajit Debnath, a resident of Sribhumi. He had boarded the wrong train while travelling to Sribhumi, and the source of the cash is still unknown."
+   }
+  },
+  {
+   "id": "west-bengal-bharosa-scheme-2000-graduates-1500-non-graduates-january-cabinet-november-23",
+   "category": "Government Schemes",
+   "sub": "State Schemes",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T17:37:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-scheme-2000-graduates-1500-non-graduates-january-cabinet-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-scheme-2000-graduates-1500-non-graduates-january-cabinet-november-23-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "बंगाल में बेरोज़गार युवाओं को जनवरी से भत्ता: स्नातकों को 2,000 रुपये, अन्य को 1,500 रुपये महीना; 2028-29 से बढ़कर 3,000 होगा",
+    "summary": "पश्चिम बंगाल सरकार ने सोमवार को कैबिनेट बैठक के बाद 'भरोसा' योजना की घोषणा की। जनवरी से बेरोज़गार स्नातकों को 2,000 रुपये और अन्य युवाओं को 1,500 रुपये महीना मिलेगा; 2028-29 से यह रकम बढ़कर 3,000 और 2,000 रुपये हो जाएगी। अन्नपूर्णा योजना का लाभ ले रहे लोग इसके पात्र नहीं होंगे, और एक परिवार से ज़्यादा से ज़्यादा 2 लोग लाभ ले सकेंगे।"
+   },
+   "en": {
+    "title": "West Bengal's unemployed youth to get monthly allowance from January: Rs 2,000 for graduates, Rs 1,500 for others; rises to Rs 3,000 in 2028-29",
+    "summary": "The West Bengal government announced its 'Bharosa' scheme after a cabinet meeting on Monday. From January, unemployed graduates will get Rs 2,000 a month and other unemployed youth Rs 1,500; the amounts will rise to Rs 3,000 and Rs 2,000 from 2028-29. People already receiving the Annapurna Yojana allowance will not be eligible, and no more than two members of a family can claim the benefit."
+   }
+  },
   {
    "id": "samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23",
    "category": "State & Local",
@@ -3261,52 +3305,6 @@
    "en": {
     "title": "India to add 200 million air conditioners by 2035, becoming the biggest driver of global energy demand: IEA",
     "summary": "India is set to install an additional 200 million air conditioners in homes over the next decade, making it the biggest driver of global energy demand growth, the International Energy Agency said in its World Energy Outlook 2026. India's electricity demand is likely to grow 6 per cent a year, the fastest of any major region."
-   }
-  },
-  {
-   "id": "tamil-nadu-moves-sc-review-karthigai-deepam-deepathoon-order-november-22",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T15:51:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-moves-sc-review-karthigai-deepam-deepathoon-order-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-moves-sc-review-karthigai-deepam-deepathoon-order-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-moves-sc-review-karthigai-deepam-deepathoon-order-november-22-en.mp3",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "तमिलनाडु सरकार सुप्रीम कोर्ट गई, तिरुपरंकुंद्रम के दीपथून पर कार्तिगई दीपम जलाने के आदेश की समीक्षा माँगी",
-    "summary": "तमिलनाडु सरकार ने सुप्रीम कोर्ट से उस आदेश की समीक्षा की माँग की है, जिसमें 24 नवंबर को मदुरै की तिरुपरंकुंद्रम पहाड़ी पर स्थित दीपथून स्तंभ पर कार्तिगई दीपम एक बार जलाने की इजाज़त दी गई थी। समीक्षा याचिका 21 नवंबर को दाखिल की गई, जिसके एक दिन पहले कोर्ट ने सख्त शर्तों के साथ समारोह की इजाज़त दी थी।"
-   },
-   "en": {
-    "title": "Tamil Nadu moves Supreme Court seeking review of order allowing Karthigai Deepam lamp at Thiruparankundram Deepathoon",
-    "summary": "The Tamil Nadu government has moved the Supreme Court seeking a review of its order permitting the one-time lighting of the Karthigai Deepam lamp on November 24 at Deepathoon, the stone pillar atop the Thiruparankundram hill in Madurai. The review petition was filed on November 21, a day after the court allowed the ceremony under strict conditions."
-   }
-  },
-  {
-   "id": "vallarpadam-container-movement-resumes-november-23-truckers-end-scanner-boycott",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T15:51:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vallarpadam-container-movement-resumes-november-23-truckers-end-scanner-boycott.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vallarpadam-container-movement-resumes-november-23-truckers-end-scanner-boycott-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vallarpadam-container-movement-resumes-november-23-truckers-end-scanner-boycott-en.mp3",
-   "district": "Ernakulam",
-   "state": "Kerala",
-   "hi": {
-    "title": "वल्लारपदम में कंटेनर आवाजाही 23 नवंबर से फिर शुरू, ट्रक चालकों ने स्कैनर बहिष्कार वापस लिया",
-    "summary": "वल्लारपदम अंतरराष्ट्रीय कंटेनर ट्रांसशिपमेंट टर्मिनल पर कंटेनर आवाजाही सोमवार, 23 नवंबर से फिर शुरू होगी। ट्रक चालकों ने कंटेनर स्कैनिंग सुविधा का दो हफ़्ते से चल रहा बहिष्कार वापस ले लिया है। इस गतिरोध से टर्मिनल पर 1,800 से ज़्यादा कंटेनर जमा हो गए थे, जिनमें खराब होने वाले सामान वाले रेफ्रिजरेटेड कंटेनर भी थे।"
-   },
-   "en": {
-    "title": "Container movement resumes at Vallarpadam on November 23 as truck drivers end scanner boycott",
-    "summary": "Container movement at the Vallarpadam International Container Transhipment Terminal will resume on Monday, November 23, after truck drivers called off their two-week boycott of the container scanning facility. The standoff had left more than 1,800 containers, including refrigerated ones carrying perishable goods, piled up at the terminal."
    }
   }
  ]
