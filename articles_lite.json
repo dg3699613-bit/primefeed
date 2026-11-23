@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T18:29:10+05:30",
+ "updatedAt": "2026-11-23T18:41:12+05:30",
  "articles": [
+  {
+   "id": "brij-bhushan-gonda-dabdaba-remark-akhilesh-advice-november-23",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T18:41:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/brij-bhushan-gonda-dabdaba-remark-akhilesh-advice-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/brij-bhushan-gonda-dabdaba-remark-akhilesh-advice-november-23-hi.mp3",
+   "audioEn": null,
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोंडा में बृजभूषण सिंह ने फिर दोहराया- दबदबा रहेगा, अखिलेश को संतों की बात मानने की सलाह दी",
+    "summary": "गोंडा के जयप्रभा ग्राम में श्रीराम कथा में शामिल हुए पूर्व सांसद बृजभूषण शरण सिंह ने कहा कि गोंडा और देवीपाटन मंडल का दबदबा था, है और रहेगा। उन्होंने ओवैसी और चंद्रशेखर के गठबंधन को बेमेल बताया और अखिलेश यादव को अयोध्या दौरे से पहले संतों की बात मानकर माफी मांगने की सलाह दी।"
+   },
+   "en": {
+    "title": "Gonda: Brij Bhushan repeats 'dabdaba' line at Ram Katha, advises Akhilesh to heed saints before Ayodhya visit",
+    "summary": "Former MP Brij Bhushan Sharan Singh, attending the Shri Ram Katha at Jayprabha village in Gonda, said the influence of Gonda and the Devipatan division was there, is there and will remain. He called the Owaisi-Chandrashekhar alliance mismatched and advised Akhilesh Yadav to heed the saints and apologise before his Ayodhya visit."
+   }
+  },
+  {
+   "id": "nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T18:41:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23-en.mp3",
+   "hi": {
+    "title": "नेपाल को कांडला बंदरगाह की सुविधा, पारादीप भी मिलेगा; सिलीगुड़ी-झापा ईंधन पाइपलाइन का काम जल्द शुरू होगा",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी और नेपाल के प्रधानमंत्री बालेंद्र शाह की बातचीत के बाद जारी संयुक्त वक्तव्य में नेपाल को गुजरात के कांडला बंदरगाह से पारगमन व्यापार का नया रास्ता देने की घोषणा की गई है। पारादीप बंदरगाह की सुविधा भी मिलेगी, मोतिहारी-अमलेखगंज पाइपलाइन का दूसरा चरण समर्पित किया गया और सिलीगुड़ी-झापा पाइपलाइन का काम जल्द शुरू होगा।"
+   },
+   "en": {
+    "title": "Nepal gets Kandla port access, Paradip to follow; Siliguri-Jhapa fuel pipeline work to start soon",
+    "summary": "The joint statement after talks between Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah gives Nepal a new transit trade route through Kandla port in Gujarat, with Paradip to follow. Phase II of the Motihari-Amlekhgunj pipeline was dedicated, and work on the Siliguri-Jhapa pipeline is to start soon."
+   }
+  },
   {
    "id": "jodhpur-scooty-rider-50-lakh-loot-two-accused-detained-november-23",
    "category": "Crime & Law",
@@ -3259,52 +3303,6 @@
    "en": {
     "title": "Amit Shah offers dialogue and best rehab package on Siang dam, but protest groups refuse talks until demands met",
     "summary": "Union Home Minister Amit Shah on Saturday offered positive and constructive dialogue and one of the country's best rehabilitation packages to people likely to be affected by the proposed 11,200 MW Siang mega dam in Arunachal Pradesh — but the groups leading the protest refused to talk until their demands are met."
-   }
-  },
-  {
-   "id": "west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning",
-   "category": "Politics",
-   "sub": "BJP",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T16:32:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bjp-mla-rekha-patra-critical-on-ventilator-after-suspected-poisoning-en.mp3",
-   "district": "North 24 Parganas",
-   "state": "West Bengal",
-   "hi": {
-    "title": "पश्चिम बंगाल की भाजपा विधायक रेखा पात्रा संदिग्ध ज़हरखुरानी के बाद वेंटिलेटर पर, हालत गंभीर",
-    "summary": "उत्तर 24 परगना के हिंगलगंज से भाजपा विधायक रेखा पात्रा की हालत गंभीर है और वह कोलकाता के एक निजी अस्पताल में वेंटिलेटर पर हैं। शनिवार रात घर पर अचानक तबीयत बिगड़ने के बाद उन्हें अस्पताल ले जाया गया था, और खबरों के अनुसार उनके शरीर में ज़हर के असर के लक्षण मिले हैं। बीमारी की असली वजह की आधिकारिक पुष्टि अभी नहीं हुई है।"
-   },
-   "en": {
-    "title": "West Bengal BJP MLA Rekha Patra critical on ventilator after suspected poisoning",
-    "summary": "BJP MLA Rekha Patra, who represents Hingalganj in North 24 Parganas, is critical and on ventilator support at a private hospital in Kolkata after falling suddenly ill at her home on Saturday night, with reports saying signs of poisoning were found in her body. The exact cause of her illness has not been officially confirmed."
-   }
-  },
-  {
-   "id": "ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T16:20:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ongole-car-plunges-water-channel-four-dead-newlywed-couple-injured-november-22-en.mp3",
-   "district": "Prakasam",
-   "state": "Andhra Pradesh",
-   "hi": {
-    "title": "ओंगोल के पास कार पुलिया से टकराकर नाले में गिरी, शादी की पार्टी के 4 लोगों की मौत",
-    "summary": "आंध्र प्रदेश के प्रकाशम जिले में राष्ट्रीय राजमार्ग 16 पर पेल्लूरू गाँव के पास शनिवार सुबह एक कार पुलिया से टकराकर सूखे पड़े नाले में गिर गई, जिससे 4 लोगों की मौत हो गई। कार में सवार नवविवाहित जोड़ा घायल हो गया।"
-   },
-   "en": {
-    "title": "Four of a wedding party killed as car hits culvert and plunges into water channel near Ongole",
-    "summary": "Four people, including the parents of a newly married couple and the driver, were killed when their car hit a road culvert and plunged into a defunct water channel near Pelluru village on National Highway 16 in Andhra Pradesh's Prakasam district early on Saturday. The newly married couple, married on 18 November, escaped with injuries."
    }
   }
  ]
