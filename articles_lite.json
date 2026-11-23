@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T09:21:49+05:30",
+ "updatedAt": "2026-11-23T09:38:08+05:30",
  "articles": [
+  {
+   "id": "manipur-spurious-liquor-toll-17-samples-calcutta-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T09:38:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-spurious-liquor-toll-17-samples-calcutta-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-17-samples-calcutta-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-17-samples-calcutta-november-23-en.mp3",
+   "district": "Chandel",
+   "state": "Manipur",
+   "hi": {
+    "title": "मणिपुर में जहरीली शराब से मरने वालों की संख्या 17 हुई, नमूने कोलकाता की लैब भेजे गए; 228 अस्पताल में, 38 की डायलिसिस चल रही",
+    "summary": "मणिपुर में संदिग्ध जहरीली शराब से मरने वालों की संख्या 17 हो गई है और शराब के नमूने कोलकाता स्थित राष्ट्रीय खाद्य प्रयोगशाला में जाँच के लिए भेजे गए हैं। 6 लोगों को गिरफ्तार किया गया है, 4,600 लीटर संदिग्ध अवैध शराब ज़ब्त की गई है और 228 लोग अभी भी अस्पताल में हैं, जिनमें से 38 की डायलिसिस चल रही है।"
+   },
+   "en": {
+    "title": "Manipur spurious liquor toll rises to 17; samples sent to Calcutta lab as 228 remain in hospital, 38 on dialysis",
+    "summary": "The death toll in Manipur's suspected spurious liquor tragedy has risen to 17, with samples sent to the National Food Laboratory in Calcutta for testing. 6 people have been arrested, 4,600 litres of suspected illicit liquor has been seized, and 228 people are still in hospital, 38 of them on dialysis."
+   }
+  },
+  {
+   "id": "jalaun-lpg-cylinder-blast-23-injured-13-children-orai-november-23",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T09:38:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jalaun-lpg-cylinder-blast-23-injured-13-children-orai-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalaun-lpg-cylinder-blast-23-injured-13-children-orai-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalaun-lpg-cylinder-blast-23-injured-13-children-orai-november-23-en.mp3",
+   "district": "Jalaun",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "उरई में पार्षद के घर एलपीजी सिलेंडर फटा, 23 लोग झुलसे — 13 बच्चे भी, 19 गंभीर घायल झाँसी रेफर",
+    "summary": "उरई में रविवार शाम एक स्थानीय पार्षद के घर घरेलू एलपीजी सिलेंडर फटने से 13 बच्चों सहित 23 लोग झुलस गए। गंभीर रूप से झुलसे 19 लोगों को झाँसी मेडिकल कॉलेज रेफर किया गया है, जबकि 4 अन्य का इलाज उरई के ज़िला अस्पताल में चल रहा है।"
+   },
+   "en": {
+    "title": "LPG cylinder explodes at councillor's home in UP's Jalaun, 23 injured including 13 children",
+    "summary": "23 people, including 13 children, were injured after a domestic LPG cylinder exploded at the home of a local councillor in Orai, Jalaun district, on Sunday evening. 19 of the injured, who suffered severe burns, have been referred to Jhansi Medical College."
+   }
+  },
   {
    "id": "raigarh-farmer-vidyadhar-patel-marigold-5-lakh-acre-november-23",
    "category": "Agriculture",
@@ -3265,50 +3311,6 @@
    "en": {
     "title": "Air-raid sirens and blackout in all 75 UP districts this evening as state holds simultaneous civil defence mock drill",
     "summary": "Uttar Pradesh will hold simultaneous civil defence air-raid and blackout mock drills across all 75 districts on Sunday, November 22, beginning at 6 pm. A two-minute siren will sound first, followed by a blackout in designated areas, with residents practising taking shelter; the NDRF, SDRF, police, fire services and the health department will take part."
-   }
-  },
-  {
-   "id": "meghalaya-hc-quashes-pocso-case-west-garo-hills-marriage-child-november-18",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T06:23:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/meghalaya-hc-quashes-pocso-case-west-garo-hills-marriage-child-november-18.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meghalaya-hc-quashes-pocso-case-west-garo-hills-marriage-child-november-18-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meghalaya-hc-quashes-pocso-case-west-garo-hills-marriage-child-november-18-en.mp3",
-   "district": "West Garo Hills",
-   "state": "Meghalaya",
-   "hi": {
-    "title": "मेघालय हाई कोर्ट ने शादी और बच्ची के जन्म के बाद पॉक्सो केस रद्द किया, माँ और बच्ची को योजनाओं का लाभ देने का आदेश",
-    "summary": "मेघालय उच्च न्यायालय ने पश्चिम गारो हिल्स के एक व्यक्ति के खिलाफ दो हज़ार बीस में दर्ज पॉक्सो मामला रद्द कर दिया है। दंपति का विवाह पंद्रह नवंबर दो हज़ार पच्चीस को हुआ था और चौबीस जून दो हज़ार छब्बीस को उनकी बेटी का जन्म हुआ। मुख्य न्यायाधीश रेवती मोहिते डेरे ने अठारह नवंबर को यह आदेश दिया और अधिकारियों को निर्देश दिया कि महिला और उसकी बच्ची को राज्य और केंद्र सरकार की कल्याणकारी योजनाओं का लाभ मिले।"
-   },
-   "en": {
-    "title": "Meghalaya High Court quashes 2020 POCSO case after couple marry and have a child, orders welfare help for mother and baby",
-    "summary": "The High Court of Meghalaya has quashed a POCSO case registered against a man from West Garo Hills in 2020, after the couple married on November 15, 2025 and had a daughter on June 24, 2026. Chief Justice Revati Mohite Dere passed the order on November 18, and directed the authorities to ensure the woman and her child get the benefits of State and Central Government welfare schemes."
-   }
-  },
-  {
-   "id": "himachal-pradesh-cannabis-licences-kangra-seed-solan-research-november-19",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T06:23:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/himachal-pradesh-cannabis-licences-kangra-seed-solan-research-november-19.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/himachal-pradesh-cannabis-licences-kangra-seed-solan-research-november-19-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/himachal-pradesh-cannabis-licences-kangra-seed-solan-research-november-19-en.mp3",
-   "hi": {
-    "title": "हिमाचल प्रदेश में भांग की वैध खेती की शुरुआत, कांगड़ा में बीज आपूर्ति और सोलन में शोध के लिए पहले दो लाइसेंस",
-    "summary": "हिमाचल प्रदेश ने दो हज़ार छब्बीस-सत्ताईस वित्त वर्ष के लिए भांग की वैध और नियंत्रित खेती के पहले दो लाइसेंस जारी कर दिए हैं — एक कांगड़ा जिले के अधिकृत बीज आपूर्तिकर्ता को और दूसरा सोलन के नौणी स्थित डॉ. वाई. एस. परमार बागवानी एवं वानिकी विश्वविद्यालय को शोध के लिए। मुख्यमंत्री सुखविंदर सिंह सुक्खू ने उन्नीस नवंबर को विधानसभा में लिखित जवाब में यह जानकारी दी; खेती की अनुमति केवल चिकित्सीय, वैज्ञानिक और औद्योगिक उद्देश्यों के लिए है।"
-   },
-   "en": {
-    "title": "Himachal Pradesh issues first two licences for legal, controlled cannabis cultivation — seed supply in Kangra, research in Solan",
-    "summary": "Himachal Pradesh has issued its first two licences for the legal and controlled cultivation of cannabis in the 2026-27 financial year — one to an authorised seed supplier in Kangra district and one to Dr YS Parmar University of Horticulture and Forestry at Nauni in Solan for research. Chief Minister Sukhvinder Singh Sukhu gave the information in a written reply in the Assembly on November 19; the cultivation is permitted for medical, scientific and industrial purposes only."
    }
   }
  ]
