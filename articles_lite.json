@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T23:32:22+05:30",
+ "updatedAt": "2026-11-23T23:45:21+05:30",
  "articles": [
+  {
+   "id": "dhar-road-accident-four-cousins-killed-pickup-bike-collision-november-23",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T23:45:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhar-road-accident-four-cousins-killed-pickup-bike-collision-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhar-road-accident-four-cousins-killed-pickup-bike-collision-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhar-road-accident-four-cousins-killed-pickup-bike-collision-november-23-en.mp3",
+   "district": "Dhar",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "धार में दर्दनाक हादसा: जगराते जा रहे 4 चचेरे भाई-बहनों की पिकअप से टक्कर में मौत",
+    "summary": "मध्य प्रदेश के धार जिले में सोमवार शाम एक दर्दनाक सड़क हादसे में 4 चचेरे भाई-बहनों की मौत हो गई। रात्रि जागरण में शामिल होने जा रहे चारों एक ही बाइक पर सवार थे, तभी सामने से आ रही पिकअप से उनकी जोरदार टक्कर हो गई। मरने वालों में 15, 13 और 8 साल की 3 लड़कियां शामिल हैं।"
+   },
+   "en": {
+    "title": "Four cousins, including three minor girls, killed as pickup hits their bike in Madhya Pradesh's Dhar",
+    "summary": "Four cousins, including three minor girls, were killed in a road accident in Madhya Pradesh's Dhar district on Monday evening. The four were riding on a single motorcycle to attend a night vigil when a pickup coming from the opposite direction hit them head on."
+   }
+  },
+  {
+   "id": "kochi-synagogue-arson-accused-ebin-paul-five-day-nia-custody-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T23:45:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kochi-synagogue-arson-accused-ebin-paul-five-day-nia-custody-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kochi-synagogue-arson-accused-ebin-paul-five-day-nia-custody-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kochi-synagogue-arson-accused-ebin-paul-five-day-nia-custody-november-23-en.mp3",
+   "district": "Ernakulam",
+   "state": "Kerala",
+   "hi": {
+    "title": "कोच्चि सिनेगॉग आगजनी: आरोपी एबिन पॉल 5 दिन की एनआईए हिरासत में, टेलीग्राम हैंडलर और क्रिप्टो पेमेंट का खुलासा",
+    "summary": "एर्नाकुलम की एनआईए अदालत ने कोच्चि के कडवुंभागम सिनेगॉग आगजनी मामले के आरोपी एबिन पॉल को 5 दिन की एनआईए हिरासत में भेज दिया है। एनआईए का दावा है कि आरोपी ने टेलीग्राम हैंडलरों के निर्देश पर आग लगाई थी और हमले के करीब 2 घंटे बाद उसे क्रिप्टोकरेंसी में भुगतान मिला था।"
+   },
+   "en": {
+    "title": "Kochi synagogue arson accused Ebin Paul sent to 5-day NIA custody; Telegram handlers and crypto payments under scanner",
+    "summary": "A special NIA court in Ernakulam has sent Ebin Paul, the accused in the Kadavumbhagam synagogue arson case in Kochi, to 5 days of NIA custody. The NIA claims the accused set the fire on the instructions of Telegram handlers and received a cryptocurrency payment about 2 hours after the attack."
+   }
+  },
   {
    "id": "delhi-jama-masjid-knife-attack-nine-cops-stabbed-accused-shot-november-23",
    "category": "Crime & Law",
@@ -3263,50 +3309,6 @@
    "en": {
     "title": "Jodhpur hotel raided, 7 Thai women found staying without valid visas; operator detained",
     "summary": "Jodhpur: A Commissionerate Special Team raided a hotel in the city on Sunday and detained seven women from Thailand after finding they had no valid visa documents. Hotel operator Anil Maheshwari was also detained and is being questioned."
-   }
-  },
-  {
-   "id": "fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22",
-   "category": "Health",
-   "sub": "Diet & Nutrition",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T22:26:21+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fssai-sanctions-prosecution-bisleri-unsafe-packaged-water-november-22-en.mp3",
-   "hi": {
-    "title": "बिसलेरी के पानी का नमूना जाँच में असुरक्षित, एफ़एसएसएआई ने मुक़दमे की मंज़ूरी दी",
-    "summary": "नई दिल्ली: बिसलेरी के पैकेज्ड पानी का एक नमूना प्रयोगशाला जाँच में असुरक्षित पाया गया है। खाद्य सुरक्षा नियामक एफ़एसएसएआई ने बिसलेरी इंटरनेशनल के ख़िलाफ़ खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत मुक़दमा चलाने की मंज़ूरी दे दी है।"
-   },
-   "en": {
-    "title": "Bisleri water sample found unsafe in lab tests, FSSAI sanctions prosecution",
-    "summary": "New Delhi: A sample of Bisleri packaged drinking water has been found unsafe in laboratory tests. Food safety regulator FSSAI has sanctioned prosecution against Bisleri International under the Food Safety and Standards Act, 2006."
-   }
-  },
-  {
-   "id": "india-women-hockey-beat-thailand-7-0-deepika-hat-trick-act-semifinal-november-22",
-   "category": "Cricket & Sports",
-   "sub": "Hockey",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T22:09:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-women-hockey-beat-thailand-7-0-deepika-hat-trick-act-semifinal-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-women-hockey-beat-thailand-7-0-deepika-hat-trick-act-semifinal-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-women-hockey-beat-thailand-7-0-deepika-hat-trick-act-semifinal-november-22-en.mp3",
-   "district": "Bhopal",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "दीपिका की हैट्रिक से भारत ने थाईलैंड को 7-0 से रौंदा, महिला एशियाई चैंपियंस ट्रॉफी के सेमीफाइनल में जगह पक्की",
-    "summary": "भोपाल: गत विजेता भारत ने रविवार को महिला एशियाई चैंपियंस ट्रॉफी में थाईलैंड को 7-0 से हरा दिया। दीपिका ने हैट्रिक लगाई और नवनीत कौर ने 2 गोल किए। लगातार तीसरी जीत के साथ भारत ने 2 राउंड-रॉबिन मैच बाकी रहते सेमीफाइनल में जगह पक्की कर ली।"
-   },
-   "en": {
-    "title": "Deepika's hat-trick powers India to 7-0 rout of Thailand as defending champions seal Women's ACT semifinal",
-    "summary": "Bhopal: Defending champions India thrashed Thailand 7-0 in the Women's Asian Champions Trophy on Sunday, with Deepika scoring a hat-trick and Navneet Kaur netting twice. The third straight win sealed India's semifinal berth with two round-robin matches still to play."
    }
   }
  ]
