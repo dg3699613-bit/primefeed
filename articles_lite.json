@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T23:05:00+05:30",
+ "updatedAt": "2026-11-23T23:18:00+05:30",
  "articles": [
+  {
+   "id": "cbi-traps-two-cgst-superintendents-3-lakh-bribe-bhubaneswar-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T23:18:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cbi-traps-two-cgst-superintendents-3-lakh-bribe-bhubaneswar-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-traps-two-cgst-superintendents-3-lakh-bribe-bhubaneswar-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-traps-two-cgst-superintendents-3-lakh-bribe-bhubaneswar-november-23-en.mp3",
+   "district": "Khordha",
+   "state": "Odisha",
+   "hi": {
+    "title": "भुवनेश्वर में CBI का जाल: 3 लाख रुपये की रिश्वत लेते रंगे हाथ पकड़े गए 2 CGST अधीक्षक, दफ्तरों और घरों पर छापे",
+    "summary": "केंद्रीय जाँच ब्यूरो ने सोमवार को भुवनेश्वर के केंद्रीय जीएसटी दफ्तर में जाल बिछाकर 2 अधीक्षकों को 3 लाख रुपये की रिश्वत लेते रंगे हाथ पकड़ा। आरोप है कि दोनों ने एक कंपनी के 4 साल के जीएसटी ऑडिट के बदले 4 लाख रुपये माँगे थे और रकम न देने पर छापे की धमकी दी थी।"
+   },
+   "en": {
+    "title": "CBI traps 2 CGST Superintendents in Bhubaneswar taking Rs 3 lakh bribe, searches their offices and homes",
+    "summary": "The Central Bureau of Investigation laid a trap at the Central GST office in Bhubaneswar on Monday and caught 2 Superintendents red-handed while accepting a Rs 3 lakh bribe. The officers had allegedly demanded Rs 4 lakh to process a company's 4-year GST audit and threatened it with raids if it did not pay."
+   }
+  },
+  {
+   "id": "amit-shah-odisha-visit-cancelled-eastern-zonal-council-meeting-november-23",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T23:18:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-odisha-visit-cancelled-eastern-zonal-council-meeting-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-odisha-visit-cancelled-eastern-zonal-council-meeting-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-odisha-visit-cancelled-eastern-zonal-council-meeting-november-23-en.mp3",
+   "hi": {
+    "title": "अमित शाह का ओडिशा दौरा रद्द: 29 नवंबर को पुरी में होने वाली पूर्वी क्षेत्रीय परिषद की बैठक भी टली",
+    "summary": "केंद्रीय गृह मंत्री अमित शाह का 29 नवंबर को प्रस्तावित ओडिशा दौरा रद्द हो गया है। पुरी में उसी दिन होने वाली पूर्वी क्षेत्रीय परिषद की 28वीं बैठक भी टल गई है और इसके साथ ही शाह का दौरा भी रद्द हो गया। बैठक टलने की वजह अभी सामने नहीं आई है।"
+   },
+   "en": {
+    "title": "Amit Shah's Odisha visit called off as Eastern Zonal Council meeting in Puri on 29 November is cancelled",
+    "summary": "Union Home Minister Amit Shah will not visit Odisha on 29 November after the 28th meeting of the Eastern Zonal Council, scheduled to be held in Puri that day, was cancelled. The reason for the cancellation has not been specified so far."
+   }
+  },
   {
    "id": "hyderabad-bomb-threat-email-europe-vpn-kacheguda-november-23",
    "category": "Crime & Law",
@@ -3263,50 +3307,6 @@
    "en": {
     "title": "Tamil Nadu moves Supreme Court to review order allowing Karthigai Deepam lamp at Thirupparankundram hill",
     "summary": "New Delhi: Tamil Nadu has filed a review petition in the Supreme Court against its 20 November order permitting the Karthigai Deepam lamp to be lit at Deepathoon on Thirupparankundram hill on 24 November as a one-time measure. The state has sought an immediate stay, saying the interim order hands the petitioners the final relief they sought."
-   }
-  },
-  {
-   "id": "hyderabad-police-high-alert-let-threat-email-kachiguda-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T21:50:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hyderabad-police-high-alert-let-threat-email-kachiguda-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-police-high-alert-let-threat-email-kachiguda-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-police-high-alert-let-threat-email-kachiguda-november-22-en.mp3",
-   "district": "Hyderabad",
-   "state": "Telangana",
-   "hi": {
-    "title": "हैदराबाद में 26/11 जैसे हमले की धमकी वाला ईमेल: काचीगुड़ा स्टेशन और होटल निशाने पर, पुलिस हाई अलर्ट पर",
-    "summary": "हैदराबाद: लश्कर-ए-तैयबा के नाम पर भेजे गए एक ईमेल में काचीगुड़ा रेलवे स्टेशन और होटल टूरिस्ट प्लाज़ा पर बम धमाकों की धमकी के बाद हैदराबाद पुलिस ने शहरभर में सुरक्षा बढ़ा दी है। पुलिस का कहना है कि ईमेल फ़र्ज़ी लग रहा है, लेकिन एहतियात के तौर पर तोड़फोड़-रोधी जाँच और गश्त तेज़ कर दी गई है।"
-   },
-   "en": {
-    "title": "Hyderabad on high alert after email threatens 26/11-style attacks at Kachiguda station and hotel",
-    "summary": "Hyderabad: Police have stepped up security across the city after an email sent in the name of Lashkar-e-Taiba threatened bomb blasts at Kachiguda Railway Station and Hotel Tourist Plaza. Police say the mail appears to be a hoax, but anti-sabotage checks and patrolling have been intensified as a precaution."
-   }
-  },
-  {
-   "id": "ed-summons-seven-punjab-officials-dig-bhullar-money-laundering-case-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T21:50:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-summons-seven-punjab-officials-dig-bhullar-money-laundering-case-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-seven-punjab-officials-dig-bhullar-money-laundering-case-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-seven-punjab-officials-dig-bhullar-money-laundering-case-november-22-en.mp3",
-   "hi": {
-    "title": "डीआईजी भुल्लर केस: ईडी ने पंजाब के 7 अधिकारियों को तलब किया, लुधियाना पुलिस कमिश्नर भी शामिल",
-    "summary": "चंडीगढ़: प्रवर्तन निदेशालय ने निलंबित डीआईजी हरचरण सिंह भुल्लर से जुड़े मनी लॉन्ड्रिंग मामले में पंजाब के 7 सेवारत और सेवानिवृत्त अधिकारियों को पूछताछ के लिए तलब किया है। इनमें स्वास्थ्य सचिव कुमार राहुल, फ़ाज़िल्का के एसएसपी गगन अजीत सिंह और लुधियाना के पुलिस आयुक्त स्वपन शर्मा शामिल हैं।"
-   },
-   "en": {
-    "title": "ED summons seven Punjab officials, including Ludhiana Police Commissioner, in DIG Bhullar money-laundering case",
-    "summary": "Chandigarh: The Enforcement Directorate has summoned seven serving and retired Punjab officials, including Health Secretary Kumar Rahul, Fazilka SSP Gagan Ajit Singh and Ludhiana Police Commissioner Swapan Sharma, for questioning in the money-laundering case against suspended DIG Harcharan Singh Bhullar."
    }
   }
  ]
