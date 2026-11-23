@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T04:31:35+05:30",
+ "updatedAt": "2026-11-24T04:51:24+05:30",
  "articles": [
+  {
+   "id": "kashmir-winter-break-nursery-class-5-december-1-consideration-november-23",
+   "category": "Education",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-24T04:51:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kashmir-winter-break-nursery-class-5-december-1-consideration-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-winter-break-nursery-class-5-december-1-consideration-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-winter-break-nursery-class-5-december-1-consideration-november-23-en.mp3",
+   "hi": {
+    "title": "कश्मीर: नर्सरी से 5वीं तक की सर्दी की छुट्टी 1 दिसंबर से संभव, शिक्षा मंत्री बोलीं — बच्चों की सेहत पहली प्राथमिकता",
+    "summary": "शिक्षा मंत्री शमीमा फ़िरदौस ने सोमवार को कहा कि सरकार कश्मीर में नर्सरी से 5वीं कक्षा तक के बच्चों की सर्दियों की छुट्टी 1 दिसंबर से करने पर विचार कर रही है। उन्होंने कहा कि बच्चों की सेहत पहली प्राथमिकता है, हालांकि अभिभावकों की राय बँटी हुई है — कुछ छुट्टी चाहते हैं, तो कुछ का कहना है कि अभी जल्दी है।"
+   },
+   "en": {
+    "title": "Kashmir winter break for nursery to Class 5 likely from December 1, education minister signals",
+    "summary": "Education Minister Shameema Firdous said on Monday that the government is considering winter vacations from December 1 for children from nursery to Class 5 in Kashmir. Children’s health is the first priority, she said, though parents are divided — some want the break, others say it is too early."
+   }
+  },
+  {
+   "id": "nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-24T04:51:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23-en.mp3",
+   "hi": {
+    "title": "हुआंग की वापसी पर एनवीडिया का शेयर 31% उछला, एक दिन में 952 अरब डॉलर बढ़ा कंपनी का बाजार मूल्य",
+    "summary": "जेनसन हुआंग के सीईओ पद पर लौटते ही एनवीडिया के शेयर सोमवार को 31.48% चढ़कर 165.05 डॉलर पर बंद हुए — 2003 के बाद कंपनी का सबसे बड़ा एकदिनी उछाल। एक दिन में कंपनी का बाजार मूल्य 952 अरब डॉलर बढ़ा, जो किसी भी अमेरिकी कंपनी के लिए रिकॉर्ड है। नैस्डैक 6.51% और एसएंडपी 500 4.73% चढ़ा।"
+   },
+   "en": {
+    "title": "Nvidia shares soar 31% as Huang returns, adding a record $952 billion in a day",
+    "summary": "Nvidia shares closed 31.48% higher at $165.05 on Monday after Jensen Huang returned as CEO — the stock’s biggest one-day gain since 2003. The company added a record $952 billion in market value in a single session, while the Nasdaq jumped 6.51% and the S&P 500 4.73%."
+   }
+  },
   {
    "id": "pmgkay-study-13-2-percent-ineligible-beneficiaries-free-ration-november-23",
    "category": "Government Schemes",
@@ -402,7 +444,7 @@
    "category": "Crime & Law",
    "sub": "Courts",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-24T01:39:30+05:30",
    "source": "PrimeFeed Desk",
@@ -3263,52 +3305,6 @@
    "en": {
     "title": "Crocodile strays into Cuddalore home, bites villager; forest team captures it and releases it into lake",
     "summary": "An 8-foot-long crocodile strayed into a house in Koppadi village near Kattumannarkoil in Tamil Nadu's Cuddalore district in the early hours of Sunday, biting a villager. Forest Department staff captured the animal and released it into Vakkramari lake in Chidambaram."
-   }
-  },
-  {
-   "id": "ys-sharmila-stopped-bengaluru-police-yelahanka-palace-court-order-november-22",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T05:14:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ys-sharmila-stopped-bengaluru-police-yelahanka-palace-court-order-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ys-sharmila-stopped-bengaluru-police-yelahanka-palace-court-order-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ys-sharmila-stopped-bengaluru-police-yelahanka-palace-court-order-november-22-en.mp3",
-   "district": "Bengaluru Urban",
-   "state": "Karnataka",
-   "hi": {
-    "title": "कोर्ट के आदेश का हवाला देकर पुलिस ने वाईएस शर्मिला को जगन के बेंगलुरु वाले घर जाने से रोका",
-    "summary": "आंध्र प्रदेश कांग्रेस अध्यक्ष वाईएस शर्मिला को रविवार शाम बेंगलुरु पुलिस ने येलहंका पैलेस जाने से रोक दिया। पुलिस ने 21 नवंबर को देवनहल्ली कोर्ट से जारी अंतरिम आदेश का हवाला दिया, जो शर्मिला और उनके परिवार को इस संपत्ति में दखल से रोकता है।"
-   },
-   "en": {
-    "title": "Police stop YS Sharmila from entering Jagan's Bengaluru home, citing court order in family property row",
-    "summary": "Andhra Pradesh Congress chief YS Sharmila was stopped by Bengaluru police on Sunday evening from visiting the Yelahanka Palace bungalow. Police cited an interim injunction issued by a Devanahalli court on November 21, restraining Sharmila and her family from entering or interfering with the property."
-   }
-  },
-  {
-   "id": "navi-mumbai-vashi-sanpada-oil-godown-fire-november-22",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T04:54:33+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/navi-mumbai-vashi-sanpada-oil-godown-fire-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navi-mumbai-vashi-sanpada-oil-godown-fire-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navi-mumbai-vashi-sanpada-oil-godown-fire-november-22-en.mp3",
-   "district": "Thane",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "नवी मुंबई के वाशी-सानपाडा में ऑयल गोदाम में भीषण आग, प्लाईवुड और कूरियर कंपनी भी चपेट में; रात 2 बजे तक धधकती रहीं लपटें",
-    "summary": "रविवार रात करीब 9 बजे नवी मुंबई के वाशी-सानपाडा इलाके में सेक्टर 18 के पास मेफ्को मार्केट के पीछे स्थित सप्तशृंगी ऑयल कंपनी के गोदाम में भीषण आग लग गई। तेल और ज्वलनशील सामान की वजह से आग तेजी से फैली और बगल की प्लाईवुड व कूरियर कंपनियों को भी चपेट में ले लिया; लपटें रात करीब 2 बजे तक दिखती रहीं। रविवार की छुट्टी होने से गोदाम में कोई कामगार नहीं था, इसलिए कोई हताहत नहीं हुआ। करोड़ों रुपये के नुकसान की आशंका है और आग लगने की वजह की जाँच हो रही है।"
-   },
-   "en": {
-    "title": "Massive fire guts oil godown in Navi Mumbai's Vashi-Sanpada area, spreads to plywood and courier units; flames rage till 2 am",
-    "summary": "A massive fire broke out at the Saptashrungi Oil Company godown behind Mefco Market in Sector 18 in Navi Mumbai's Vashi-Sanpada area at around 9 pm on Sunday. The large stock of edible oil and other inflammables helped the flames spread quickly to a neighbouring plywood unit and a courier company, and the blaze was visible till around 2 am. No one was hurt as the godown was shut for the Sunday holiday; goods worth crores are feared destroyed and the cause is under investigation."
    }
   }
  ]
