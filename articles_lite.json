@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T11:26:52+05:30",
+ "updatedAt": "2026-11-23T11:41:50+05:30",
  "articles": [
+  {
+   "id": "dalmau-kartik-purnima-mela-ganga-aarti-raebareli-november-23",
+   "category": "Dharm-Astrology",
+   "sub": "Vrat & Tyohar",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T11:41:50+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dalmau-kartik-purnima-mela-ganga-aarti-raebareli-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dalmau-kartik-purnima-mela-ganga-aarti-raebareli-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dalmau-kartik-purnima-mela-ganga-aarti-raebareli-november-23-en.mp3",
+   "district": "Raebareli",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "डलमऊ में कार्तिक पूर्णिमा मेला आज से: काशी की तर्ज पर गंगा आरती, 1,500 पुलिसकर्मियों की तैनाती",
+    "summary": "रायबरेली के डलमऊ में तीन दिन का कार्तिक पूर्णिमा मेला आज से शुरू हो रहा है। काशी की तर्ज पर भव्य गंगा आरती होगी, घाटों पर 1,500 से अधिक पुलिसकर्मी तैनात रहेंगे और श्रद्धालुओं के लिए 54 विशेष बसें चलेंगी।"
+   },
+   "en": {
+    "title": "Dalmau gears up for Kartik Purnima: Ganga aarti on Kashi lines today, 1,500 police guard three-day mela in Raebareli",
+    "summary": "The three-day Kartik Purnima mela begins at Dalmau in Raebareli today with a grand Ganga aarti modelled on Varanasi's, as more than 1,500 police personnel guard the ghats and 54 special buses run for devotees."
+   }
+  },
+  {
+   "id": "up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T11:41:50+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23-en.mp3",
+   "hi": {
+    "title": "विधानसभा चुनाव से पहले यूपी में 144 पुलिस अफसरों का तबादला, तीन साल से एक ज़िले में तैनात अफसर हटाए गए",
+    "summary": "उत्तर प्रदेश सरकार ने 144 पुलिस अफसरों का तबादला कर दिया है। विधानसभा चुनाव की तैयारियों के बीच तीन साल से एक ही ज़िले में तैनात अफसरों को चुनाव आयोग के दिशा-निर्देशों के तहत हटाया गया है।"
+   },
+   "en": {
+    "title": "UP transfers 144 police officers ahead of assembly polls, enforcing three-year district tenure rule",
+    "summary": "The Uttar Pradesh government has transferred 144 police officers, moving out those who had completed three years in a district in line with Election Commission norms, as preparations for the assembly elections gather momentum."
+   }
+  },
   {
    "id": "bhopal-eintkhedi-mother-two-children-die-poison-flour-dispute-november-23",
    "category": "Crime & Law",
@@ -3265,50 +3309,6 @@
    "en": {
     "title": "Gold falls 4.49% to Rs 1.21 lakh, silver plunges 6.6% in a day as Fed rate fears rattle bullion",
     "summary": "Gold and silver fell sharply on Friday, with MCX gold futures down 4.49% to Rs 1,21,719 per 10 grams and silver down 6.6% to Rs 1,47,066 per kg, as a firm dollar, high bond yields and expectations of tighter US monetary policy rattled investors. Over the week, gold is down 8.77% to a 14-month low and silver 14.31%, while wedding-season buyers are using the dip to advance purchases."
-   }
-  },
-  {
-   "id": "odisha-probe-naveen-patnaik-vk-pandian-ravi-kant-foreign-trips",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T09:24:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-probe-naveen-patnaik-vk-pandian-ravi-kant-foreign-trips.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-probe-naveen-patnaik-vk-pandian-ravi-kant-foreign-trips-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-probe-naveen-patnaik-vk-pandian-ravi-kant-foreign-trips-en.mp3",
-   "hi": {
-    "title": "ओडिशा सरकार ने नवीन पटनायक, वीके पांडियन और रवि कांत की विदेश यात्राओं की जाँच के आदेश दिए",
-    "summary": "ओडिशा के मुख्यमंत्री मोहन चरण माझी ने शनिवार को पूर्व मुख्यमंत्री नवीन पटनायक, सेवानिवृत्त आईएएस अधिकारी वीके पांडियन और आईपीएस अधिकारी रवि कांत की 2022-23 और 2023-24 में हुई विदेश यात्राओं की जाँच के आदेश दिए हैं। सामाजिक कार्यकर्ताओं ने आरटीआई से मिली जानकारी के आधार पर आरोप लगाया है कि यात्राओं के खर्च का ब्योरा संदिग्ध, अपारदर्शी और अधूरा है। जाँच सामान्य प्रशासन विभाग के प्रधान सचिव करेंगे।"
-   },
-   "en": {
-    "title": "Odisha orders probe into Naveen Patnaik, VK Pandian and Ravi Kant's foreign trips",
-    "summary": "Odisha Chief Minister Mohan Charan Majhi on Saturday ordered an inquiry into the foreign visits of former chief minister Naveen Patnaik, retired IAS officer VK Pandian and IPS officer Ravi Kant during 2022-23 and 2023-24. Social activists, citing information obtained through RTI applications, have alleged that the expenditure details of the trips to Japan, Italy and the UAE were suspicious, non-transparent and incomplete. The Principal Secretary of the General Administration Department will conduct the probe."
-   }
-  },
-  {
-   "id": "manipur-nia-court-bail-8-kcp-pwg-cadres-two-insurgents-held",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T09:04:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-nia-court-bail-8-kcp-pwg-cadres-two-insurgents-held.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-nia-court-bail-8-kcp-pwg-cadres-two-insurgents-held-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-nia-court-bail-8-kcp-pwg-cadres-two-insurgents-held-en.mp3",
-   "district": "Imphal West",
-   "state": "Manipur",
-   "hi": {
-    "title": "मणिपुर: एनआईए अदालत ने केसीपी (पीडब्ल्यूजी) के आठ कैडरों को ज़मानत दी, इम्फाल ईस्ट में दो और उग्रवादी गिरफ्तार",
-    "summary": "इम्फाल वेस्ट में एनआईए के विशेष न्यायाधीश की अदालत ने शनिवार को प्रतिबंधित केसीपी (पीडब्ल्यूजी) के आठ कैडरों को ज़मानत दे दी, जिनमें संगठन का स्वयंभू अध्यक्ष भी शामिल है। ये गिरफ्तारी एक दिन पहले हुए सुरक्षा अभियान में हुई थी, जिसमें एक पूर्व सैनिक की मौत हो गई थी। उसी दिन अलग-अलग अभियानों में सुरक्षा बलों ने इम्फाल ईस्ट में दो और उग्रवादियों को गिरफ्तार किया।"
-   },
-   "en": {
-    "title": "NIA court grants bail to 8 KCP (PWG) cadres in Manipur; two more insurgents held in Imphal East",
-    "summary": "The Special Judge (NIA) court in Imphal West on Saturday granted bail to eight cadres of the banned KCP (PWG), including its self-styled chairman, a day after their arrest in a security operation in which an ex-serviceman died. In separate operations the same day, security forces arrested two more insurgents in Imphal East."
    }
   }
  ]
