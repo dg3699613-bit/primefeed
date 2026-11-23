@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T23:59:35+05:30",
+ "updatedAt": "2026-11-24T00:19:11+05:30",
  "articles": [
+  {
+   "id": "ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T00:19:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23-en.mp3",
+   "district": "Moga",
+   "state": "Punjab",
+   "hi": {
+    "title": "ईडी ने मोगा विधायक अमनदीप कौर अरोड़ा और धरमकोट विधायक को समन भेजा, 26 नवंबर को पेशी",
+    "summary": "प्रवर्तन निदेशालय ने पंजाब के मोगा विधायक डॉ. अमनदीप कौर अरोड़ा और धरमकोट विधायक देविंदरजीत सिंह लद्दी ढोसे को राष्ट्रीय राजमार्ग 754ए के लिए भूमि मुआवज़े से जुड़े कथित मनी लॉन्ड्रिंग मामले में पूछताछ के लिए समन भेजा है। अरोड़ा को 26 नवंबर को पेश होना है, जिस दिन आप मोगा में मेगा रैली कर रही है।"
+   },
+   "en": {
+    "title": "ED summons two Punjab AAP MLAs in Moga land-compensation probe; Arora called on November 26",
+    "summary": "The Enforcement Directorate has summoned Moga MLA Dr Amandeep Kaur Arora and Dharamkot MLA Devinderjit Singh Laddi Dhose for questioning in an alleged money-laundering probe linked to land compensation for National Highway 754A. Arora has been asked to appear on November 26, the day the AAP holds a mega rally in Moga."
+   }
+  },
+  {
+   "id": "guru-nanak-jayanti-kartik-purnima-dev-deepawali-november-24",
+   "category": "Dharm-Astrology",
+   "sub": "Vrat & Tyohar",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T00:19:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/guru-nanak-jayanti-kartik-purnima-dev-deepawali-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/guru-nanak-jayanti-kartik-purnima-dev-deepawali-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/guru-nanak-jayanti-kartik-purnima-dev-deepawali-november-24-en.mp3",
+   "hi": {
+    "title": "आज गुरु नानक जयंती और कार्तिक पूर्णिमा: 557वां प्रकाश पर्व, वाराणसी के घाटों पर देव दीपावली",
+    "summary": "गुरु नानक देव जी की 557वीं जयंती आज, मंगलवार 24 नवंबर को मनाई जा रही है, और इसी दिन कार्तिक पूर्णिमा भी है। अमृतसर के स्वर्ण मंदिर समेत देश भर के गुरुद्वारों में प्रार्थना, कीर्तन और लंगर होंगे, और शाम को वाराणसी के घाट देव दीपावली के दीयों से जगमगाएँगे।"
+   },
+   "en": {
+    "title": "Guru Nanak Jayanti today: 557th Prakash Parv, Kartik Purnima and Dev Deepawali light up the evening",
+    "summary": "Guru Nanak Jayanti — the 557th birth anniversary of Guru Nanak Dev Ji — falls today, Tuesday, November 24, along with Kartik Purnima. Gurdwaras across the country, led by the Golden Temple in Amritsar, will hold prayers, kirtan and langar through the day, and Varanasi's ghats will glow with lamps for Dev Deepawali in the evening."
+   }
+  },
   {
    "id": "manipur-cotu-72-hour-ultimatum-highway-blockade-december-27",
    "category": "State & Local",
@@ -3263,50 +3307,6 @@
    "en": {
     "title": "Bilaspur: Woman arrested for allegedly abetting youth's suicide in 10-month-old hotel room case",
     "summary": "Bilaspur: Police have arrested a 21-year-old woman for allegedly abetting a young man's suicide in the Koni police station area. The youth had set himself on fire in a hotel room in January after an argument, and died during treatment."
-   }
-  },
-  {
-   "id": "gukesh-vs-sindarov-world-chess-championship-opens-geneva-november-22",
-   "category": "Cricket & Sports",
-   "sub": "Chess",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T23:05:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-vs-sindarov-world-chess-championship-opens-geneva-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-vs-sindarov-world-chess-championship-opens-geneva-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-vs-sindarov-world-chess-championship-opens-geneva-november-22-en.mp3",
-   "hi": {
-    "title": "गुकेश बोले — 'मैं यहाँ बचाव करने नहीं, फिर से जीतने आया हूँ'; विश्व शतरंज चैंपियनशिप का आगाज़, 24 नवंबर से पहला गेम",
-    "summary": "जेनेवा: विश्व शतरंज चैंपियन डी गुकेश ने कहा कि वह खिताब बचाने नहीं, उसे फिर से जीतने आए हैं। गुकेश और जावोखिर सिंदारोव के बीच विश्व चैंपियनशिप की शुरुआत रविवार को प्रेस कॉन्फ्रेंस और उद्घाटन समारोह के साथ हुई; पहला गेम 24 नवंबर को खेला जाएगा।"
-   },
-   "en": {
-    "title": "Gukesh: 'I am not here to defend anything, I am here to win it all over again' — World Chess Championship opens in Geneva",
-    "summary": "Geneva: World champion D Gukesh said he has not come to defend his title but to win it all over again. The World Chess Championship against Javokhir Sindarov opened on Sunday with the press conference and opening ceremony; Game 1 is on 24 November."
-   }
-  },
-  {
-   "id": "jalaun-cylinder-blast-orai-23-injured-19-referred-jhansi-november-22",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T22:44:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jalaun-cylinder-blast-orai-23-injured-19-referred-jhansi-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalaun-cylinder-blast-orai-23-injured-19-referred-jhansi-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalaun-cylinder-blast-orai-23-injured-19-referred-jhansi-november-22-en.mp3",
-   "district": "Jalaun",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "ओरई में सिलेंडर विस्फोट, 13 बच्चों समेत 23 लोग झुलसे; 19 गंभीर घायलों को झांसी रेफर किया गया",
-    "summary": "ओरई: जालौन जिले के ओरई शहर के शांतिनगर मोहल्ले में रविवार शाम खाना बनाते समय घरेलू गैस सिलेंडर में आग लगने के बाद जोरदार विस्फोट हो गया। हादसे में 13 बच्चों समेत 23 लोग झुलस गए, जिनमें 19 की हालत गंभीर बताई जा रही है।"
-   },
-   "en": {
-    "title": "Cylinder blast in Orai injures 23, including 13 children; 19 seriously burnt referred to Jhansi",
-    "summary": "Orai: A domestic gas cylinder exploded at a house in Shantinagar locality of Orai town in Uttar Pradesh's Jalaun district on Sunday evening, leaving 23 people, including 13 children, with burn injuries. Nineteen of them, said to be in serious condition, have been referred to Jhansi Medical College."
    }
   }
  ]
