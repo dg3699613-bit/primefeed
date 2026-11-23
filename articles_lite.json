@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T07:25:56+05:30",
+ "updatedAt": "2026-11-23T07:42:57+05:30",
  "articles": [
+  {
+   "id": "sakti-bus-hits-bike-three-killed-ramnam-saptah-november-22",
+   "category": "State & Local",
+   "sub": "Chhattisgarh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T07:42:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sakti-bus-hits-bike-three-killed-ramnam-saptah-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sakti-bus-hits-bike-three-killed-ramnam-saptah-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sakti-bus-hits-bike-three-killed-ramnam-saptah-november-22-en.mp3",
+   "district": "Sakti",
+   "state": "Chhattisgarh",
+   "hi": {
+    "title": "छत्तीसगढ़ के सक्ती में बस ने बाइक को मारी टक्कर, रामनाम सप्ताह में भजन गाने जा रहे 3 लोगों की मौके पर मौत",
+    "summary": "छत्तीसगढ़ के सक्ती जिले के दर्री गांव के 3 लोगों की रविवार को मौके पर ही मौत हो गई, जब तेज रफ्तार बस ने उनकी मोटरसाइकिल को टक्कर मार दी। तीनों सपोस गांव में रामनाम सप्ताह कार्यक्रम में भजन गाने जा रहे थे। हादसे के बाद बस चालक मौके से भाग गया और पुलिस ने बस को कब्जे में ले लिया है।"
+   },
+   "en": {
+    "title": "Bus hits bike in Chhattisgarh's Sakti, three men on way to sing bhajans at Ramnam Saptah killed on the spot",
+    "summary": "Three men from Darri village in Chhattisgarh's Sakti district were killed on the spot on Sunday when a speeding bus hit the motorcycle they were riding to a Ramnam Saptah programme in Sapos village, where they were to sing bhajans. The bus driver fled after the crash and police have seized the bus."
+   }
+  },
+  {
+   "id": "delta-weight-balance-system-failure-2000-flights-delayed-november-22",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T07:42:57+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delta-weight-balance-system-failure-2000-flights-delayed-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delta-weight-balance-system-failure-2000-flights-delayed-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delta-weight-balance-system-failure-2000-flights-delayed-november-22-en.mp3",
+   "hi": {
+    "title": "थैंक्सगिविंग से पहले डेल्टा की सिस्टम खराबी से अमेरिका में 2,000 से ज़्यादा उड़ानें लेट",
+    "summary": "अमेरिका में रविवार को डेल्टा एयर लाइंस की 2,000 से ज़्यादा उड़ानें लेट हो गईं, क्योंकि एयरलाइन की वज़न और संतुलन की ऑटोमेटेड सिस्टम खराब हो गई थी और ग्राउंड क्रू को विमानों का भार हाथ से गिनकर निकालना पड़ा। रविवार शाम तक सिस्टम बहाल हो गया, लेकिन थैंक्सगिविंग यात्रा सप्ताह की शुरुआत में देरी रात तक बनी रही।"
+   },
+   "en": {
+    "title": "Delta's weight-and-balance system failure delays over 2,000 flights across US days before Thanksgiving",
+    "summary": "More than 2,000 Delta Air Lines flights were delayed across the United States on Sunday after the airline's automated weight-and-balance system failed, forcing ground crews to calculate aircraft loads by hand. The system was restored by Sunday evening, but delays lingered into the night at the start of the busy Thanksgiving travel week."
+   }
+  },
   {
    "id": "netanyahu-eisenkot-unity-talks-end-without-deal-november-22",
    "category": "World",
@@ -3271,48 +3315,6 @@
    "en": {
     "title": "Special campaign day for UP voter list today: BLOs at all 1,73,730 polling stations from 10 am to 4 pm",
     "summary": "Booth-level officers will be present at all 1,73,730 polling stations across Uttar Pradesh on Sunday, November 22, from 10 am to 4 pm as part of the Special Summary Revision of Electoral Rolls-2027. Citizens can check their names in the draft roll, apply for fresh enrolment with Form 6, or seek corrections with Form 8."
-   }
-  },
-  {
-   "id": "jair-bolsonaro-intensive-care-bowel-obstruction-brasilia-november-21",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T04:25:04+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jair-bolsonaro-intensive-care-bowel-obstruction-brasilia-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jair-bolsonaro-intensive-care-bowel-obstruction-brasilia-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jair-bolsonaro-intensive-care-bowel-obstruction-brasilia-november-21-en.mp3",
-   "hi": {
-    "title": "बोल्सोनारो आंतों में रुकावट के चलते गहन चिकित्सा में; अस्पताल बोला, पूर्व राष्ट्रपति की हालत स्थिर",
-    "summary": "ब्राज़ील के पूर्व राष्ट्रपति जायर बोल्सोनारो आंतों में अचानक रुकावट के बाद ब्रासीलिया के एक अस्पताल में गहन चिकित्सा में हैं। अस्पताल ने बताया कि इकहत्तर साल के बोल्सोनारो की हालत स्थिर है और वे होश में हैं, लेकिन छुट्टी की कोई तारीख तय नहीं हुई है।"
-   },
-   "en": {
-    "title": "Bolsonaro in intensive care with bowel obstruction; hospital says former Brazil president stable",
-    "summary": "Brazil's former president Jair Bolsonaro is in intensive care at a hospital in Brasilia after being diagnosed with an acute bowel obstruction. The 71-year-old, serving a 27-year sentence for plotting a coup, is clinically stable and conscious, the hospital said, with no date set for his discharge."
-   }
-  },
-  {
-   "id": "russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T03:52:39+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-ship-sparta-ii-drone-strike-gulf-finland-fire-november-21-en.mp3",
-   "hi": {
-    "title": "फ़िनलैंड की खाड़ी में ड्रोन हमले के बाद रूसी जहाज़ स्पार्टा टू में आग, सोलह सदस्यों वाला चालक दल सुरक्षित निकाला गया",
-    "summary": "रूस की सेना से जुड़ा मालवाहक जहाज़ स्पार्टा टू शनिवार को फ़िनलैंड की खाड़ी में ड्रोन हमले के बाद आग की चपेट में आ गया। फ़िनलैंड ने कहा कि हमले के पीछे संभवतः यूक्रेन का हाथ है। सोलह सदस्यों वाले चालक दल को सुरक्षित निकाल लिया गया, जलता जहाज़ फ़िनिश जलक्षेत्र में बह गया और बचाव के दौरान एक रूसी हेलीकॉप्टर पर फ़िनिश हवाई क्षेत्र के उल्लंघन का संदेह जताया गया।"
-   },
-   "en": {
-    "title": "Russian military-linked cargo ship Sparta II ablaze in Gulf of Finland after drone strike; crew evacuated",
-    "summary": "A Russian military-linked cargo ship, the Sparta II, caught fire in the Gulf of Finland on Saturday after a drone strike that Finland said was likely carried out by Ukraine. The 16-member crew was evacuated, the burning vessel drifted into Finnish waters, and a Russian helicopter was suspected of violating Finnish airspace during the rescue."
    }
   }
  ]
