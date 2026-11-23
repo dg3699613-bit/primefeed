@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T16:47:49+05:30",
+ "updatedAt": "2026-11-23T16:58:48+05:30",
  "articles": [
+  {
+   "id": "dhanaraj-murder-verdict-three-convicted-16-acquitted-kannur-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T16:58:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhanaraj-murder-verdict-three-convicted-16-acquitted-kannur-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhanaraj-murder-verdict-three-convicted-16-acquitted-kannur-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhanaraj-murder-verdict-three-convicted-16-acquitted-kannur-november-23-en.mp3",
+   "district": "Kannur",
+   "state": "Kerala",
+   "hi": {
+    "title": "कन्नूर: 2016 में सीपीएम नेता धनराज की हत्या में 3 दोषी, 16 बरी — 10 साल बाद आया फैसला",
+    "summary": "केरल के कन्नूर जिले की एक अदालत ने सोमवार को 2016 में सीपीएम नेता सी वी धनराज की हत्या के मामले में भाजपा आरएसएस के 3 कार्यकर्ताओं को दोषी ठहराया और 16 अन्य को बरी कर दिया। धनराज, 40, की 11 जुलाई 2016 को पय्यन्नूर स्थित उनके घर में उनकी पत्नी और माँ के सामने हत्या कर दी गई थी। सजा का ऐलान 25 नवंबर को होगा।"
+   },
+   "en": {
+    "title": "Kannur court convicts 3 in 2016 murder of CPM leader Dhanaraj, acquits 16 after 10 years",
+    "summary": "A court in Kerala's Kannur district on Monday convicted three BJP-RSS workers of murdering CPM leader C V Dhanaraj in 2016 and acquitted 16 others. Dhanaraj, 40, was hacked to death in front of his wife and mother at his Payyanur home on 11 July 2016. The sentence will be pronounced on 25 November."
+   }
+  },
+  {
+   "id": "sensex-closes-1484-points-down-nifty-below-25350-november-23",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T16:58:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-closes-1484-points-down-nifty-below-25350-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1484-points-down-nifty-below-25350-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1484-points-down-nifty-below-25350-november-23-en.mp3",
+   "hi": {
+    "title": "सेंसेक्स 1,484 अंक टूटकर 82,436 पर बंद, निफ्टी 25,350 से नीचे — करीब 5 महीनों की सबसे बड़ी एक दिन की गिरावट",
+    "summary": "भारतीय बाजार सोमवार को करीब 5 महीनों की सबसे बड़ी एक दिन की गिरावट के साथ बंद हुए। सेंसेक्स 1,484 अंक गिरकर 82,436 पर बंद हुआ और निफ्टी 451 अंक टूटकर 25,350 पर आ गया, क्योंकि बैंक और मेटल शेयरों की अगुवाई में चौतरफा बिकवाली हुई। एक दिन में निवेशकों को करीब 5.24 लाख करोड़ रुपये का नुकसान हुआ। गुरु नानक जयंती पर मंगलवार को बाजार बंद रहेंगे।"
+   },
+   "en": {
+    "title": "Sensex crashes 1,484 points to 82,436, Nifty below 25,350 in biggest single-day fall in nearly 5 months",
+    "summary": "Indian markets ended Monday with their biggest single-day fall in nearly five months. The Sensex closed 1,484 points lower at 82,436 and the Nifty fell 451 points to 25,350 as banks and metals led a broad sell-off. Investors lost about 5.24 lakh crore rupees in a day. Markets stay shut on Tuesday for Guru Nanak Jayanti."
+   }
+  },
   {
    "id": "gonda-blackout-mock-drill-air-raid-preparedness-november-22",
    "category": "State & Local",
@@ -3263,50 +3307,6 @@
    "en": {
     "title": "Container movement resumes at Vallarpadam on November 23 as truck drivers end scanner boycott",
     "summary": "Container movement at the Vallarpadam International Container Transhipment Terminal will resume on Monday, November 23, after truck drivers called off their two-week boycott of the container scanning facility. The standoff had left more than 1,800 containers, including refrigerated ones carrying perishable goods, piled up at the terminal."
-   }
-  },
-  {
-   "id": "dhule-mayor-maya-pardeshi-suicide-attempt-hospitalised-stable-november-22",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T15:38:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhule-mayor-maya-pardeshi-suicide-attempt-hospitalised-stable-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhule-mayor-maya-pardeshi-suicide-attempt-hospitalised-stable-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhule-mayor-maya-pardeshi-suicide-attempt-hospitalised-stable-november-22-en.mp3",
-   "district": "Dhule",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "धुले की महापौर माया परदेशी ने आत्महत्या का प्रयास किया, अस्पताल में भर्ती; हालत स्थिर, अपमानजनक पोस्ट पर केस दर्ज",
-    "summary": "धुले की महापौर माया परदेशी को रविवार को आत्महत्या का प्रयास करने के बाद शहर के एक निजी अस्पताल में भर्ती कराया गया। भाजपा विधायक अनुप अग्रवाल ने बताया कि उनकी हालत स्थिर है। सोशल मीडिया पर उनके बारे में अपमानजनक सामग्री पोस्ट करने के आरोप में एक व्यक्ति के खिलाफ केस दर्ज किया गया है।"
-   },
-   "en": {
-    "title": "Dhule mayor Maya Pardeshi hospitalised after suicide attempt; condition stable, case filed over abusive posts",
-    "summary": "Dhule mayor Maya Pardeshi was admitted to a private hospital in the city on Sunday after attempting to take her own life. BJP MLA Anup Agrawal said her condition is stable. Police have registered a case against a man accused of posting defamatory content about her on social media."
-   }
-  },
-  {
-   "id": "south-korea-education-minister-choi-kyo-jin-resigns-suneung-ai-cheating-november-22",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T15:38:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-korea-education-minister-choi-kyo-jin-resigns-suneung-ai-cheating-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-korea-education-minister-choi-kyo-jin-resigns-suneung-ai-cheating-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-korea-education-minister-choi-kyo-jin-resigns-suneung-ai-cheating-november-22-en.mp3",
-   "hi": {
-    "title": "दक्षिण कोरिया के शिक्षा मंत्री चोई क्यो-जिन ने सुनेउंग परीक्षा में एआई-धोखाधड़ी के हंगामे पर इस्तीफा दिया",
-    "summary": "दक्षिण कोरिया के शिक्षा मंत्री चोई क्यो-जिन ने रविवार को इस्तीफा दे दिया। उन्होंने देश की सुनेउंग कॉलेज प्रवेश परीक्षा से पहले एआई से धोखाधड़ी रोकने के लिए आखिरी समय में किए गए बदलावों से फैली उलझन की जिम्मेदारी ली। राष्ट्रपति ली जे म्यांग ने एक घंटे के भीतर इस्तीफा स्वीकार कर लिया।"
-   },
-   "en": {
-    "title": "South Korea's education minister Choi Kyo-jin resigns over Suneung AI-cheating chaos",
-    "summary": "South Korea's education minister Choi Kyo-jin resigned on Sunday, taking responsibility for the confusion caused by last-minute anti-cheating measures ahead of the country's Suneung college entrance exam. President Lee Jae Myung accepted the resignation within an hour."
    }
   }
  ]
