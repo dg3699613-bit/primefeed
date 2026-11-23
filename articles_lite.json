@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T15:00:48+05:30",
+ "updatedAt": "2026-11-23T15:22:38+05:30",
  "articles": [
+  {
+   "id": "section-144-in-mudigere-38-wild-elephants-camp-in-coffee-plantations-november-23",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T15:22:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/section-144-in-mudigere-38-wild-elephants-camp-in-coffee-plantations-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/section-144-in-mudigere-38-wild-elephants-camp-in-coffee-plantations-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/section-144-in-mudigere-38-wild-elephants-camp-in-coffee-plantations-november-23-en.mp3",
+   "district": "Chikkamagaluru",
+   "state": "Karnataka",
+   "hi": {
+    "title": "मूडीगेरे में 38 जंगली हाथियों का डेरा, 50 से ज्यादा गाँवों में निषेधाज्ञा; हाथी भगाने का अभियान रोका गया",
+    "summary": "कर्नाटक के चिक्कमगलुरु जिले के मूडीगेरे तालुक में बारदहल्ली और माकोनहल्ली के पास कॉफी बागानों में 38 जंगली हाथियों के डेरा डालने के बाद 50 से ज्यादा गाँवों में निषेधाज्ञा लगा दी गई है। वन विभाग ने हाथियों के झुंड को भद्रा टाइगर रिजर्व की ओर ले जाने का अभियान फिलहाल रोक दिया है।"
+   },
+   "en": {
+    "title": "Section 144 in Mudigere as 38 wild elephants camp in coffee plantations; elephant drive halted",
+    "summary": "Prohibitory orders have been imposed in more than 50 villages of Mudigere taluk in Karnataka's Chikkamagaluru district after 38 wild elephants camped in coffee plantations near Baradahalli and Makonahalli. The forest department has temporarily halted its operation to drive the herd towards the Bhadra Tiger Reserve."
+   }
+  },
+  {
+   "id": "jwala-mk-1-counter-drone-micro-missile-test-fired-pokhran-november-23",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T15:22:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jwala-mk-1-counter-drone-micro-missile-test-fired-pokhran-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jwala-mk-1-counter-drone-micro-missile-test-fired-pokhran-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jwala-mk-1-counter-drone-micro-missile-test-fired-pokhran-november-23-en.mp3",
+   "district": "Jaisalmer",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "पोखरण में ज्वाला एमके-1 का सफल परीक्षण, भारत की पहली स्वदेशी एंटी-ड्रोन माइक्रो मिसाइल",
+    "summary": "आईजी डिफेंस ने राजस्थान के पोखरण फील्ड फायरिंग रेंज में ज्वाला एमके-1 का सफल परीक्षण किया है। यह भारत की पहली स्वदेशी स्वायत्त एंटी-ड्रोन माइक्रो मिसाइल प्रणाली है, जो 5 किलोमीटर तक की दूरी पर दुश्मन के ड्रोन को पहचानकर नष्ट कर सकती है।"
+   },
+   "en": {
+    "title": "India test-fires JWALA MK-1, its first autonomous counter-drone micro-missile, at Pokhran",
+    "summary": "IG Defence has successfully test-fired JWALA MK-1, India's first autonomous counter-drone micro-missile system, at the Pokhran field firing ranges in Rajasthan. The AI-powered system can detect, identify and destroy hostile drones at ranges of up to 5 km."
+   }
+  },
   {
    "id": "bjp-mla-aide-sandeep-birla-found-dead-khargone-police-suspect-road-accident",
    "category": "Crime & Law",
@@ -3261,50 +3307,6 @@
    "en": {
     "title": "Maruti Suzuki raises prices on select models from today, its fourth hike in 2026",
     "summary": "Maruti Suzuki India has raised prices on select models by a volume-weighted average of around 0.31%, effective Sunday, November 22 — its fourth price revision this year. The country's largest carmaker cited sustained cost pressures in an exchange filing."
-   }
-  },
-  {
-   "id": "singur-ashok-leyland-truck-plant-announced-18-years-after-nano-exit-november-22",
-   "category": "State & Local",
-   "sub": "West Bengal",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T13:40:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/singur-ashok-leyland-truck-plant-announced-18-years-after-nano-exit-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/singur-ashok-leyland-truck-plant-announced-18-years-after-nano-exit-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/singur-ashok-leyland-truck-plant-announced-18-years-after-nano-exit-november-22-en.mp3",
-   "district": "Hooghly",
-   "state": "West Bengal",
-   "hi": {
-    "title": "सिंगूर में अशोक लेलैंड का ट्रक प्लांट लगेगा, नैनो के जाने के 18 साल बाद; जल्द शुरू होगा काम",
-    "summary": "केंद्रीय मंत्री सुकांत मजूमदार ने कहा है कि अशोक लेलैंड सिंगूर में ट्रक बनाने का प्लांट लगाएगी और काम जल्द शुरू होगा। टाटा मोटर्स की नैनो परियोजना के जाने के करीब 18 साल बाद यह घोषणा हुई है। निवेश या रोज़गार का आँकड़ा अभी नहीं बताया गया है।"
-   },
-   "en": {
-    "title": "Ashok Leyland to set up truck plant in Singur, 18 years after Tata Nano exit; work to begin soon",
-    "summary": "Union minister Sukanta Majumdar has said Ashok Leyland will set up a truck manufacturing plant in Singur, with work expected to begin soon — nearly 18 years after Tata Motors abandoned its Nano project there. No investment or jobs figure has been announced yet."
-   }
-  },
-  {
-   "id": "max-verstappen-wins-las-vegas-grand-prix-35-lead-changes-november-22",
-   "category": "Cricket & Sports",
-   "sub": "F1 / Motorsport",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T13:40:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/max-verstappen-wins-las-vegas-grand-prix-35-lead-changes-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/max-verstappen-wins-las-vegas-grand-prix-35-lead-changes-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/max-verstappen-wins-las-vegas-grand-prix-35-lead-changes-november-22-en.mp3",
-   "hi": {
-    "title": "वर्स्टापेन ने जीता लास वेगास ग्रां प्री, 35 बार बदली बढ़त; नॉरिस दूसरे, पियास्त्री तीसरे",
-    "summary": "मैक्स वर्स्टापेन ने 50 लैप की रोमांचक लास वेगास ग्रां प्री जीत ली, जिसमें बढ़त 35 बार बदली। उन्होंने लैंडो नॉरिस को 0.639 सेकंड से हराया, जबकि ऑस्कर पियास्त्री तीसरे रहे।"
-   },
-   "en": {
-    "title": "Verstappen wins thrilling Las Vegas Grand Prix after 35 lead changes; Norris second, Piastri third",
-    "summary": "Max Verstappen won a thrilling Las Vegas Grand Prix after a 50-lap race featuring 35 lead changes, beating Lando Norris by 0.639 seconds. Oscar Piastri finished third as late drama hit Mercedes and Ferrari."
    }
   }
  ]
