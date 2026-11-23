@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-24T03:35:34+05:30",
+ "updatedAt": "2026-11-24T03:49:55+05:30",
  "articles": [
+  {
+   "id": "trump-orders-army-pause-iowa-lead-azide-detonation-november-23",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T03:49:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-orders-army-pause-iowa-lead-azide-detonation-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-orders-army-pause-iowa-lead-azide-detonation-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-orders-army-pause-iowa-lead-azide-detonation-november-23-en.mp3",
+   "hi": {
+    "title": "ट्रंप ने आयोवा में 10,000 पाउंड ज़हरीले विस्फोटक उड़ाने की योजना रोकी, सेना को कोर्ट और नए गवर्नर की मंज़ूरी का इंतज़ार करने को कहा",
+    "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने सोमवार को अमेरिकी सेना को आयोवा आर्मी एम्युनिशन प्लांट में रखे करीब 10,000 पाउंड खराब हो चुके लेड एज़ाइड को उड़ाने की योजना पर रोक लगाने का आदेश दिया। विस्फोट पहले बुधवार, 25 नवंबर को होना था, लेकिन अब यह तभी होगा जब आठवीं सर्किट अदालत और आयोवा के नवनिर्वाचित गवर्नर रॉब सैंड इस पर सहमत होंगे।"
+   },
+   "en": {
+    "title": "Trump orders Army to pause plan to blow up 10,000 pounds of toxic explosives in Iowa",
+    "summary": "President Donald Trump on Monday ordered the US Army to pause its plan to detonate about 10,000 pounds of degraded lead azide stored at the Iowa Army Ammunition Plant. The blast had been set for Wednesday, November 25, but will now go ahead only if the Eighth Circuit Court of Appeals and Iowa governor-elect Rob Sand agree to it."
+   }
+  },
   {
    "id": "karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23",
    "category": "Politics",
@@ -3286,29 +3307,6 @@
    "en": {
     "title": "Rahul Gandhi's Israel remarks split INDIA bloc allies; Tushar Gandhi says his words were misrepresented",
     "summary": "Rahul Gandhi's backing of strong strategic ties with Israel, voiced at the University of Chicago on 18 November, has drawn sharp criticism from INDIA bloc allies Pinarayi Vijayan and Dipankar Bhattacharya — and sits uneasily with the harder line taken by Sonia and Priyanka Gandhi. Now Mahatma Gandhi's great-grandson Tushar Gandhi says Rahul told him his remarks were being misrepresented, and has asked him to meet the Palestinian ambassador in Delhi."
-   }
-  },
-  {
-   "id": "mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T03:33:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-pataal-lok-underground-road-network-53928-crore-approval-november-21-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "मुंबई के नीचे ‘पाताल लोक’: 53,928 करोड़ की भूमिगत सड़क परियोजना को फडणवीस की सैद्धांतिक मंज़ूरी",
-    "summary": "मुख्यमंत्री देवेंद्र फडणवीस ने मुंबई की 53,928.2 करोड़ रुपये की ‘पाताल लोक’ भूमिगत सड़क परियोजना को सैद्धांतिक मंज़ूरी दे दी है। दोनों दिशाओं में करीब 31 किलोमीटर लंबी सुरंगें मीठी नदी के नीचे से गुज़रेंगी और बांद्रा-वर्ली सी लिंक, बीकेसी, धारावी व हवाई अड्डे को 80 किलोमीटर प्रति घंटा की रफ्तार से जोड़ेंगी; वित्तपोषण व मंज़ूरियाँ अभी बाकी हैं और निर्माण की तारीख़ घोषित नहीं हुई है।"
-   },
-   "en": {
-    "title": "Fadnavis gives in-principle nod to Mumbai's Rs 53,928-crore 'Pataal Lok' underground road network",
-    "summary": "Chief Minister Devendra Fadnavis has given in-principle approval to Mumbai's Rs 53,928.2-crore 'Pataal Lok' underground road network. The nearly 31-km tunnels in each direction will run beneath the Mithi River, linking the Bandra-Worli Sea Link, BKC, Dharavi and the airport at speeds of up to 80 kmph; funding and clearances remain ahead and no construction date has been announced."
    }
   }
  ]
