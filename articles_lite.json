@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T12:25:33+05:30",
+ "updatedAt": "2026-11-23T12:38:41+05:30",
  "articles": [
+  {
+   "id": "cv-dhanaraj-murder-case-verdict-three-convicted-kannur-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:38:41+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cv-dhanaraj-murder-case-verdict-three-convicted-kannur-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cv-dhanaraj-murder-case-verdict-three-convicted-kannur-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cv-dhanaraj-murder-case-verdict-three-convicted-kannur-november-23-en.mp3",
+   "district": "Kannur",
+   "state": "Kerala",
+   "hi": {
+    "title": "पय्यन्नूर धनराज हत्याकांड: 10 साल बाद फैसला, 3 दोषी करार, 17 बरी; सज़ा 25 नवंबर को सुनाई जाएगी",
+    "summary": "कन्नूर की तालीपरंबा अदालत ने 2016 के सीपीएम कार्यकर्ता सी वी धनराज हत्याकांड में पहले 3 आरोपियों को दोषी करार दिया है। 17 आरोपी बरी कर दिए गए। सज़ा 25 नवंबर को सुनाई जाएगी।"
+   },
+   "en": {
+    "title": "Payyannur Dhanaraj murder case: 3 convicted, 17 acquitted a decade after killing; sentence on November 25",
+    "summary": "The Taliparamba Additional District Sessions Court in Kannur on Monday convicted the first 3 accused in the 2016 murder of CPM worker C V Dhanaraj in Payyannur and acquitted the remaining 17. The court will pronounce the sentence on November 25."
+   }
+  },
+  {
+   "id": "ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22",
+   "category": "Crime & Law",
+   "sub": "Scams & Fraud",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:38:41+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22-en.mp3",
+   "district": "Ganjam",
+   "state": "Odisha",
+   "hi": {
+    "title": "गंजम में नौकरी ठगी रैकेट का मास्टरमाइंड गिरफ्तार, 44 फर्जी नियुक्ति पत्र और हाईकोर्ट के 10 से ज़्यादा फर्जी आदेश बरामद",
+    "summary": "गंजम पुलिस ने नौकरी दिलाने के नाम पर ठगी करने वाले रैकेट के कथित मास्टरमाइंड अमीर कुमार भुइयां को भुवनेश्वर से गिरफ्तार किया है। उसके पास से 44 फर्जी नियुक्ति पत्र, हाईकोर्ट के 10 से ज़्यादा फर्जी आदेश और अदालतों व अधिकारियों की मोहरें बरामद हुई हैं।"
+   },
+   "en": {
+    "title": "Ganjam job-fraud racket mastermind arrested; 44 fake appointment letters, over 10 forged High Court orders seized",
+    "summary": "Ganjam police have arrested the alleged mastermind of a job-fraud racket, Amir Kumar Bhuyan, from Bhubaneswar. Police seized 44 fake appointment letters, more than 10 forged High Court order copies and the stamps and seals of courts and senior administrative officials."
+   }
+  },
   {
    "id": "mathura-car-rams-parked-dumper-4-dead-2-children",
    "category": "State & Local",
@@ -3269,50 +3315,6 @@
    "en": {
     "title": "Two accused shot in legs in Sambhal encounter after snatching woman's purse; one folds hands in hospital and begs forgiveness",
     "summary": "Two men accused of snatching a woman's purse in Sambhal were shot in the legs in a police encounter on Saturday night and arrested. Police recovered the stolen purse, a mangalsutra, cash, two country-made pistols and the bike used in the crime. In hospital, one of the accused folded his hands and pleaded that he would never do anything wrong again."
-   }
-  },
-  {
-   "id": "france-sixth-weekend-cost-of-living-protests-144-arrested-november-21",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T10:56:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/france-sixth-weekend-cost-of-living-protests-144-arrested-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/france-sixth-weekend-cost-of-living-protests-144-arrested-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/france-sixth-weekend-cost-of-living-protests-144-arrested-november-21-en.mp3",
-   "hi": {
-    "title": "फ्रांस में महंगाई के खिलाफ प्रदर्शन छठे हफ़्ते में, 82,500 लोग सड़कों पर उतरे; नए पुलिस क़ानून पर गुस्सा, 144 गिरफ़्तार",
-    "summary": "शनिवार को फ्रांस में महंगाई और सार्वजनिक सेवाओं में कटौती के खिलाफ छठे लगातार हफ़्ते प्रदर्शन हुए, जिसमें देशभर में हज़ारों लोग सड़कों पर उतरे। गृह मंत्रालय ने भीड़ 82,500 बताई, जबकि आयोजकों ने 1,50,000 का दावा किया। पुलिस ने 144 लोगों को गिरफ़्तार किया, और अधिकारियों को गोली चलाने पर ज़्यादा सुरक्षा देने वाले नए क़ानून को लेकर गुस्सा बढ़ गया है।"
-   },
-   "en": {
-    "title": "France's cost-of-living protests enter sixth weekend as 82,500 march; 144 arrested amid anger over new police law",
-    "summary": "Tens of thousands of people marched across France on Saturday in the sixth consecutive weekend of protests against the rising cost of living and cuts to public services. The Interior Ministry put turnout at 82,500, while organisers counted 150,000. Police made 144 arrests as anger grew over a new law giving officers greater protection when they use their firearms."
-   }
-  },
-  {
-   "id": "tarn-taran-langar-firing-one-killed-three-injured-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T10:42:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tarn-taran-langar-firing-one-killed-three-injured-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tarn-taran-langar-firing-one-killed-three-injured-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tarn-taran-langar-firing-one-killed-three-injured-november-21-en.mp3",
-   "district": "Tarn Taran",
-   "state": "Punjab",
-   "hi": {
-    "title": "तरन तारन में लंगर की तैयारी के दौरान गोलीबारी, 1 की मौत, 3 घायल; उसी दिन मोहाली में भी 2 जगह फायरिंग",
-    "summary": "शनिवार दोपहर तरन तारन में वार्षिक भगवती जागरण के लिए लंगर तैयार कर रहे युवकों पर हथियारबंद हमलावरों ने गोली चला दी, जिसमें 1 युवक की मौत हो गई और 3 घायल हो गए। कुछ ही घंटों के भीतर मोहाली में भी एक सैलून और एक आर्किटेक्ट के घर पर फायरिंग हुई। पुलिस ने तरन तारन हमले के पीछे निजी रंजिश की आशंका जताई है, जबकि कांग्रेस ने आम आदमी पार्टी सरकार पर क़ानून-व्यवस्था में नाकामी का आरोप लगाया है।"
-   },
-   "en": {
-    "title": "One killed, three injured in firing during langar preparations in Tarn Taran; two shootings in Mohali the same day",
-    "summary": "A youth was shot dead and three others were injured when armed assailants opened fire on volunteers preparing langar for the annual Bhagwati Jagran in Tarn Taran on Saturday afternoon. Hours later, gunmen fired at a salon and an architect's house in Mohali. Police said the Tarn Taran attack appeared to stem from personal enmity, and the Congress accused the AAP government of failing on law and order."
    }
   }
  ]
