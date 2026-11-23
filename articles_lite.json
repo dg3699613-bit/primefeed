@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T12:01:38+05:30",
+ "updatedAt": "2026-11-23T12:12:38+05:30",
  "articles": [
+  {
+   "id": "delhi-tourist-alleges-cisf-assault-at-taj-mahal-agra-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:12:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-tourist-alleges-cisf-assault-at-taj-mahal-agra-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-tourist-alleges-cisf-assault-at-taj-mahal-agra-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-tourist-alleges-cisf-assault-at-taj-mahal-agra-november-23-en.mp3",
+   "district": "Agra",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "ताजमहल के पूर्वी गेट पर 3 साल के बेटे के आधार को लेकर दिल्ली के पर्यटक ने सीआईएसएफ़ पर मारपीट का आरोप लगाया, बल ने इनकार किया",
+    "summary": "दिल्ली के एक पर्यटक ने आरोप लगाया है कि रविवार को ताजमहल के पूर्वी गेट पर उनके 3 साल के बेटे के पहचान पत्र को लेकर हुए विवाद के बाद सीआईएसएफ़ जवानों ने उनके और उनके परिवार के साथ मारपीट की। बेटा स्मारक के अंदर करीब 5 मिनट तक लापता रहा था। सीआईएसएफ़ ने मारपीट से इनकार करते हुए कहा है कि वीआईपी गेट के इस्तेमाल को लेकर कहासुनी हुई थी, और भारतीय पुरातत्व सर्वेक्षण ने रिपोर्ट माँगी है।"
+   },
+   "en": {
+    "title": "Delhi tourist alleges CISF assault at Taj Mahal over 3-year-old son's Aadhaar; force denies charge, ASI seeks report",
+    "summary": "A Delhi tourist has alleged that CISF personnel assaulted him and his family at the Taj Mahal's eastern gate on Sunday after a dispute over the identity documents of his 3-year-old son, who had gone missing inside the monument for around 5 minutes. The CISF has denied the charge, saying the incident was an altercation over the use of the VIP gate, and the Archaeological Survey of India has sought a report."
+   }
+  },
+  {
+   "id": "fssai-to-test-all-packaged-water-brands-after-bisleri-row-november-23",
+   "category": "Health",
+   "sub": "Diet & Nutrition",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:12:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fssai-to-test-all-packaged-water-brands-after-bisleri-row-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fssai-to-test-all-packaged-water-brands-after-bisleri-row-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fssai-to-test-all-packaged-water-brands-after-bisleri-row-november-23-en.mp3",
+   "hi": {
+    "title": "बिसलेरी का नमूना असुरक्षित पाए जाने के बाद एफ़एसएसएआई अब देश भर में सभी ब्रांड के पैकेज्ड पानी की जाँच करेगा",
+    "summary": "बिसलेरी के पैकेज्ड पानी का एक नमूना जाँच में असुरक्षित पाए जाने और कंपनी के ख़िलाफ़ मुक़दमे की मंज़ूरी के बाद खाद्य सुरक्षा नियामक एफ़एसएसएआई अब बिसलेरी के और नमूनों के साथ-साथ देश भर में सभी ब्रांड के पैकेज्ड पानी के उत्पादों की जाँच करने की योजना बना रहा है। बिसलेरी का कहना है कि नमूना गोवा संयंत्र में सितंबर 2025 में बनी एक खेप का था और बाद की जाँच में पानी की गुणवत्ता में कोई समस्या नहीं मिली।"
+   },
+   "en": {
+    "title": "After Bisleri sample fails test, FSSAI to check packaged drinking water of all brands across India",
+    "summary": "Food safety regulator FSSAI plans to test packaged drinking water products of all brands across India, including more Bisleri samples, after a Bisleri sample was declared unsafe in laboratory tests and prosecution was sanctioned against the company. Bisleri says the sample came from a September 2025 batch made at its Goa plant and that subsequent testing found no quality issues."
+   }
+  },
   {
    "id": "arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23",
    "category": "State & Local",
@@ -3267,50 +3311,6 @@
    "en": {
     "title": "17-year-old girl stabbed to death at home in Thoothukudi; accused attempts suicide after attack",
     "summary": "A 17-year-old Class XI student was strangled and stabbed to death at her home in Solaipudur village in Tamil Nadu's Thoothukudi district on Saturday morning, allegedly by a 23-year-old man from the same locality. The accused later attempted suicide and is in hospital in police custody. The killing has set off a political row over women's safety in the state."
-   }
-  },
-  {
-   "id": "iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T10:25:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-irgc-claims-patriot-radar-strikes-bahrain-bases-november-21-en.mp3",
-   "hi": {
-    "title": "ईरान का दावा: बहरीन में अमेरिका के 2 पैट्रियट राडार तबाह; बहरीन बोला, औद्योगिक इकाई में आग लगी, कोई हताहत नहीं",
-    "summary": "ईरान के रिवोल्यूशनरी गार्ड्स ने शनिवार रात कहा कि उन्होंने बहरीन में 2 ठिकानों पर अमेरिकी सैन्य ठिकानों पर मिसाइल और ड्रोन से संयुक्त हमला किया, जिसमें 2 पैट्रियट हवाई रक्षा राडार तबाह करने का दावा किया गया। बहरीन ने कहा कि ईरानी हमले में एक नागरिक औद्योगिक इकाई में आग लग गई, लेकिन कोई हताहत नहीं हुआ। अमेरिका ने कहा कि उसकी सेना पर कोई असर नहीं पड़ा।"
-   },
-   "en": {
-    "title": "Iran says it destroyed two US Patriot radars in Bahrain strikes; Bahrain reports fire, no injuries",
-    "summary": "Iran's Revolutionary Guards said on Saturday night that they carried out a combined missile and drone operation against US military positions at two bases in Bahrain, claiming to have destroyed two Patriot air defence radars. Bahrain said an Iranian attack struck a civilian industrial facility, starting a fire, but reported no injuries. The United States said there was no impact on its forces."
-   }
-  },
-  {
-   "id": "mumbai-central-hira-manzil-fire-eight-rescued",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T10:02:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-central-hira-manzil-fire-eight-rescued.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-central-hira-manzil-fire-eight-rescued-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-central-hira-manzil-fire-eight-rescued-en.mp3",
-   "district": "Mumbai",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "मुंबई सेंट्रल में आग: हिरा मंज़िल में 5 घंटे तक धधकी आग, 8 लोग बचाए गए; दमकल अधिकारी घायल",
-    "summary": "मुंबई सेंट्रल की गिल्डर लेन स्थित आवासीय भवन हिरा मंज़िल की दूसरी मंज़िल के कमरे में रविवार तड़के आग लग गई। 2 बच्चों और 1 बुज़ुर्ग महिला समेत 8 लोगों को सुरक्षित बाहर निकाला गया। करीब 5 घंटे तक चले अभियान में 1 वरिष्ठ दमकल अधिकारी घायल हो गए, जबकि भवन के पास बने पेट्रोल पंप ने दमकलकर्मियों का काम मुश्किल कर दिया।"
-   },
-   "en": {
-    "title": "Eight rescued as fire rages for five hours in Mumbai Central building; fire officer injured",
-    "summary": "Eight people, including two children and an elderly woman, were rescued from Hira Manzil, a residential building on Gildar Lane in Mumbai Central, after a fire broke out in a second-floor room shortly after midnight on Sunday. The blaze took firefighters nearly five hours to extinguish; a senior fire officer was injured, and a petrol pump next to the building complicated the operation."
    }
   }
  ]
