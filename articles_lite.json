@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T08:55:57+05:30",
+ "updatedAt": "2026-11-23T09:21:49+05:30",
  "articles": [
+  {
+   "id": "raigarh-farmer-vidyadhar-patel-marigold-5-lakh-acre-november-23",
+   "category": "Agriculture",
+   "sub": "Farming",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T09:21:49+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/raigarh-farmer-vidyadhar-patel-marigold-5-lakh-acre-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raigarh-farmer-vidyadhar-patel-marigold-5-lakh-acre-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raigarh-farmer-vidyadhar-patel-marigold-5-lakh-acre-november-23-en.mp3",
+   "district": "Raigarh",
+   "state": "Chhattisgarh",
+   "hi": {
+    "title": "रायगढ़ के किसान विद्याधर पटेल गेंदा फूल से एक एकड़ में 5 लाख रुपये तक कमा रहे, 20 लोगों को रोज़गार",
+    "summary": "छत्तीसगढ़ के रायगढ़ ज़िले के कोड़केल गाँव के किसान विद्याधर पटेल 7 से 8 एकड़ में गेंदा फूल उगा रहे हैं और एक एकड़ से 5 लाख रुपये तक की बिक्री कर रहे हैं। उनके फूल छत्तीसगढ़ और ओडिशा के बाज़ारों तक पहुँचते हैं और उनके खेत से 15 से 20 स्थानीय लोगों को नियमित रोज़गार मिला है।"
+   },
+   "en": {
+    "title": "Raigarh farmer Vidyadhar Patel earns up to Rs 5 lakh an acre from marigold, gives regular work to 20 people",
+    "summary": "Vidyadhar Patel of Kodkel village in Chhattisgarh's Raigarh district grows marigold on 7 to 8 acres, earning up to Rs 5 lakh per acre, and supplies flowers to markets across Chhattisgarh and Odisha. His farm gives regular work to 15 to 20 local workers."
+   }
+  },
+  {
+   "id": "ramayana-day-18-1693-crore-worldwide-942-crore-india-november-23",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T09:21:49+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-day-18-1693-crore-worldwide-942-crore-india-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-18-1693-crore-worldwide-942-crore-india-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-18-1693-crore-worldwide-942-crore-india-november-23-en.mp3",
+   "hi": {
+    "title": "रामायण के तीसरे रविवार को 35.60 करोड़ रुपये की कमाई, 18 दिन में दुनियाभर में 1,693.50 करोड़ रुपये",
+    "summary": "रामायण: पार्ट 1 ने तीसरे रविवार को भारत में 35.60 करोड़ रुपये नेट कमाए, जो शनिवार से 28.8% ज़्यादा है। इससे भारत में उसका कुल नेट कलेक्शन 942.75 करोड़ रुपये और दुनियाभर में कुल ग्रॉस 1,693.50 करोड़ रुपये हो गया है। हिंदी वर्शन ने 700 करोड़ रुपये नेट का आँकड़ा भी पार कर लिया है।"
+   },
+   "en": {
+    "title": "Ramayana's third Sunday adds Rs 35.60 crore, worldwide gross reaches Rs 1,693.50 crore in 18 days",
+    "summary": "Ramayana: Part 1 collected Rs 35.60 crore net in India on its third Sunday, 28.8% more than Saturday, taking its India net total to Rs 942.75 crore and its worldwide gross to Rs 1,693.50 crore. The Hindi version crossed Rs 700 crore net, the second-fastest ever to the mark."
+   }
+  },
   {
    "id": "jee-main-2027-session-1-registration-ends-15-lakh-applied-november-23",
    "category": "Education",
@@ -3265,52 +3309,6 @@
    "en": {
     "title": "Himachal Pradesh issues first two licences for legal, controlled cannabis cultivation — seed supply in Kangra, research in Solan",
     "summary": "Himachal Pradesh has issued its first two licences for the legal and controlled cultivation of cannabis in the 2026-27 financial year — one to an authorised seed supplier in Kangra district and one to Dr YS Parmar University of Horticulture and Forestry at Nauni in Solan for research. Chief Minister Sukhvinder Singh Sukhu gave the information in a written reply in the Assembly on November 19; the cultivation is permitted for medical, scientific and industrial purposes only."
-   }
-  },
-  {
-   "id": "bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T05:56:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bareilly-hakim-digital-arrest-20-hours-2-5-crore-saved-november-21-en.mp3",
-   "district": "Bareilly",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "बरेली के अठहत्तर वर्षीय हकीम को बीस घंटे रखा 'डिजिटल अरेस्ट' में, ढाई करोड़ की आतंकी फंडिंग का डर दिखाकर ठगने की कोशिश",
-    "summary": "एटीएस और एनआईए के अधिकारी बनकर साइबर ठगों ने बरेली के अठहत्तर वर्षीय हकीम खुर्शीद मुराद सिद्दीकी को करीब बीस घंटे तक 'डिजिटल अरेस्ट' में रखा और दावा किया कि उनके नाम के खाते से आतंकियों को ढाई करोड़ रुपये भेजे गए हैं। बैंक जाकर आरटीजीएस से रकम ट्रांसफर कराने की बात पर ठगी का राज खुला और मैनेजर उन्हें साइबर क्राइम थाने ले गए; कोई रकम नहीं गई।"
-   },
-   "en": {
-    "title": "Fraudsters hold Bareilly's 78-year-old hakim in 'digital arrest' for 20 hours over fake Rs 2.5 crore terror-funding claim",
-    "summary": "Cyber fraudsters posing as ATS and NIA officers kept 78-year-old Hakim Khursheed Murad Siddiqui of Bareilly under 'digital arrest' for nearly 20 hours, claiming Rs 2.5 crore had been sent to terrorists from an account in his name. The demand to transfer money by RTGS at a bank gave the fraud away, and his manager took him to the cyber crime police station instead; no money was lost."
-   }
-  },
-  {
-   "id": "tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T05:56:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tonk-mansingh-gurjar-murder-solved-48-hours-sachin-arrested-november-21-en.mp3",
-   "district": "Tonk",
-   "state": "Rajasthan",
-   "hi": {
-    "title": "टोंक पुलिस ने अड़तालीस घंटे में सुलझाई ब्लाइंड मर्डर की गुत्थी, पचास किमी के सीसीटीवी और मोरेल नदी के पास मिली बाइक से खुला राज",
-    "summary": "टोंक पुलिस ने बाईस वर्षीय मानसिंह गुर्जर की हत्या का अड़तालीस घंटे में खुलासा कर मुख्य आरोपी सचिन गुर्जर को गिरफ्तार कर लिया है। पैंतालीस से पचास किलोमीटर क्षेत्र के सीसीटीवी फुटेज खंगाले गए और मोरेल नदी के पास लावारिस मिली बाइक से पुलिस आरोपी तक पहुंची। एक बाल अपचारी निरुद्ध है, सुनील मीणा सहित अन्य आरोपियों की तलाश जारी है।"
-   },
-   "en": {
-    "title": "Tonk police crack blind murder in 48 hours: CCTV trawl over 50 km and bike near Morel river lead to main accused",
-    "summary": "Tonk police have cracked the blind murder of 22-year-old Mansingh Gurjar in 48 hours, arresting main accused Sachin Gurjar after scanning CCTV footage across 45 to 50 kilometres and tracing the victim's bike, found abandoned near the Morel river. A minor has been detained; Sunil Meena and other accused are being traced."
    }
   }
  ]
