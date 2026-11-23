@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-23T16:19:26+05:30",
+ "updatedAt": "2026-11-23T16:33:37+05:30",
  "articles": [
+  {
+   "id": "ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T16:33:37+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23-en.mp3",
+   "district": "Ganjam",
+   "state": "Odisha",
+   "hi": {
+    "title": "गंजम के बाढ़-प्रभावित खेतों में उतरे मुख्यमंत्री माझी, बर्बाद धान देख किसानों को हर मदद का भरोसा",
+    "summary": "मुख्यमंत्री मोहन चरण माझी सोमवार को गंजम ज़िले के बाढ़-प्रभावित इलाकों में पहुँचे — पहले हवाई सर्वेक्षण किया, फिर हांडीघर और बाउलागाम गाँव के धान के खेतों में उतरकर फसल का नुकसान देखा और किसानों को हरसंभव मदद का भरोसा दिया। नुकसान का आकलन जल्द पूरा करके समय पर मदद पहुँचाने के निर्देश भी दिए।"
+   },
+   "en": {
+    "title": "CM Majhi walks Ganjam's flood-hit paddy fields, sees ruined crop and promises farmers full help",
+    "summary": "Chief Minister Mohan Charan Majhi visited flood-hit Ganjam district on Monday — first an aerial survey, then a walk through the damaged paddy fields of Handighar and Baulagam villages, where he met farmers and promised all possible help. He directed officials to finish the crop-damage assessment quickly so assistance reaches farmers in time."
+   }
+  },
   {
    "id": "karthigai-deepam-tiruvannamalai-4850-buses-16-special-trains-november-23",
    "category": "Dharm-Astrology",
@@ -3286,29 +3309,6 @@
    "en": {
     "title": "Bike catches fire and explodes after collision with car in Jalore; two men killed",
     "summary": "Two men on a motorcycle were killed in Jalore district on Saturday evening after their bike collided head-on with a Swift car near Narsana culvert in the Bishangarh police station area. The bike caught fire and exploded after the collision."
-   }
-  },
-  {
-   "id": "malana-fire-three-storey-house-gutted-five-families-homeless-kullu",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T15:13:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/malana-fire-three-storey-house-gutted-five-families-homeless-kullu.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malana-fire-three-storey-house-gutted-five-families-homeless-kullu-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malana-fire-three-storey-house-gutted-five-families-homeless-kullu-en.mp3",
-   "district": "Kullu",
-   "state": "Himachal Pradesh",
-   "hi": {
-    "title": "मलाणा में भीषण आग से 3 मंजिला मकान जलकर राख, 5 परिवार बेघर; करीब 50 लाख रुपये की संपत्ति नष्ट",
-    "summary": "कुल्लू जिले के मलाणा गाँव में शनिवार देर रात भीषण आग से एक 3 मंजिला मकान जलकर राख हो गया, जिससे दिलेराम समेत 5 परिवार बेघर हो गए। करीब 50 लाख रुपये की संपत्ति नष्ट हो गई, जबकि दमकल विभाग और ग्रामीणों ने करीब 1 करोड़ रुपये की संपत्ति बचा ली और आग को आसपास के मकानों तक फैलने से रोक दिया।"
-   },
-   "en": {
-    "title": "Fire guts three-storey house in Kullu's Malana village; five families homeless, property worth Rs 50 lakh destroyed",
-    "summary": "A massive fire gutted a three-storey house in Malana village of Kullu district late on Saturday night, leaving five families homeless. Property worth around Rs 50 lakh was destroyed, while the fire department and villagers saved property worth about Rs 1 crore and stopped the flames from spreading to nearby houses."
    }
   }
  ]
