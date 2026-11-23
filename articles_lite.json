@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T06:17:57+05:30",
+ "updatedAt": "2026-11-23T06:32:58+05:30",
  "articles": [
+  {
+   "id": "meghalaya-driver-constable-suspended-extortion-video-khliehriat-november-21",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T06:32:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/meghalaya-driver-constable-suspended-extortion-video-khliehriat-november-21.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meghalaya-driver-constable-suspended-extortion-video-khliehriat-november-21-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meghalaya-driver-constable-suspended-extortion-video-khliehriat-november-21-en.mp3",
+   "district": "East Jaintia Hills",
+   "state": "Meghalaya",
+   "hi": {
+    "title": "खलिएह्रियाट में ट्रक ड्राइवर से पैसे लेने का वीडियो वायरल, मेघालय पुलिस का ड्राइवर कॉन्स्टेबल निलंबित",
+    "summary": "मेघालय पुलिस ने ईस्ट जैंतिया हिल्स जिले के खलिएह्रियाट में ट्रक ड्राइवर से पैसे लेने का वीडियो सामने आने पर एक ड्राइवर कॉन्स्टेबल को 21 नवंबर को निलंबित कर दिया। शुरुआती जाँच के बाद यह कार्रवाई हुई है, जबकि विस्तृत जाँच जारी है।"
+   },
+   "en": {
+    "title": "Meghalaya driver constable suspended after video allegedly shows him taking money from trucker at Khliehriat",
+    "summary": "Meghalaya Police has suspended a driver constable after a video surfaced allegedly showing him collecting money from a truck driver at Khliehriat in East Jaintia Hills district. The suspension followed a preliminary inquiry on November 21, and a detailed inquiry is under way."
+   }
+  },
+  {
+   "id": "india-six-wickets-away-win-wellington-lunch-day-5-november-23",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T06:32:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-six-wickets-away-win-wellington-lunch-day-5-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-six-wickets-away-win-wellington-lunch-day-5-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-six-wickets-away-win-wellington-lunch-day-5-november-23-en.mp3",
+   "hi": {
+    "title": "लंच तक न्यूज़ीलैंड 157/4, भारत वेलिंग्टन में जीत से 6 विकेट दूर",
+    "summary": "भारत ने वेलिंग्टन में अंतिम दिन लंच से पहले न्यूज़ीलैंड के दोनों नाबाद बल्लेबाज़ों को आउट कर दिया। मेज़बान टीम 157/4 पर है और अब भी 195 रन पीछे है। भारत को जीत के लिए अंतिम दो सत्रों में 6 विकेट चाहिए, जबकि डेरिल मिचेल और टॉम ब्लंडेल क्रीज़ पर हैं।"
+   },
+   "en": {
+    "title": "India six wickets from famous Wellington win as Sundar, Prasidh strike before lunch",
+    "summary": "India removed both of New Zealand's overnight batters before lunch on the final day in Wellington, leaving the hosts 157 for 4 and still 195 runs behind. With Daryl Mitchell and Tom Blundell unbeaten, India need six wickets in the final two sessions to go 1-0 up."
+   }
+  },
   {
    "id": "drone-strikes-kill-4-in-sudans-capital-khartoum-damage-un-building",
    "category": "World",
@@ -3265,50 +3309,6 @@
    "en": {
     "title": "Indore civic body removes years-old vegetable market at Phooti Kothi, vendors protest as leader joins them on the road",
     "summary": "The Indore Municipal Corporation removed a vegetable market that had run for years at Phooti Kothi Square on Saturday, and vendors sat down on the road in protest. Leader of the Opposition Sonila Mimrot joined them, appealed to officials with folded hands and warned a municipal official on the phone, while the vendors demanded space under the bridge near the square."
-   }
-  },
-  {
-   "id": "movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T02:49:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/movie-piracy-network-busted-two-kurnool-students-held-crypto-payments-november-21-en.mp3",
-   "district": "Kurnool",
-   "state": "Andhra Pradesh",
-   "hi": {
-    "title": "फ़िल्म पाइरेसी नेटवर्क का भंडाफोड़: थिएटर में नई फ़िल्में रिकॉर्ड करने वाले कुरनूल के दो छात्र गिरफ़्तार, क्रिप्टो में मिलता था पैसा",
-    "summary": "तेलंगाना साइबर सुरक्षा ब्यूरो ने फ़िल्म पाइरेसी के एक संगठित नेटवर्क का भंडाफोड़ किया है और कुरनूल के दो उन्नीस साल के छात्रों को गिरफ़्तार किया है। आरोप है कि दोनों थिएटर के अंदर मोबाइल फ़ोन से नई फ़िल्में रिकॉर्ड करके ऑनलाइन लीक करते थे और हर फ़िल्म के लिए बीस हज़ार रुपये क्रिप्टोकरेंसी में लेते थे।"
-   },
-   "en": {
-    "title": "Movie piracy network busted: two Kurnool students held for filming new releases in theatres, paid in crypto",
-    "summary": "The Telangana Cyber Security Bureau has busted an organised movie piracy network and arrested two 19-year-old students from Kurnool, who allegedly filmed newly released movies inside theatres with mobile phones and leaked them online for Rs 20,000 per movie in cryptocurrency. The films included Ramayana and Mahashakthi."
-   }
-  },
-  {
-   "id": "eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T02:49:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eisenkot-invites-likud-marathon-talks-bennett-backs-unity-government-november-21-en.mp3",
-   "hi": {
-    "title": "आइज़ेनकोट ने लिकुड को 'मैराथन' बातचीत का न्योता दिया, बेनेट ने उनके नेतृत्व वाली एकता सरकार का समर्थन किया",
-    "summary": "इस्राएल की अगली सरकार बनाने का ज़िम्मा पाने वाले गादी आइज़ेनकोट ने बिन्यामिन नेतन्याहू की पार्टी लिकुड को रविवार से शुरू होने वाली मैराथन गठबंधन वार्ता का न्योता दिया है। नफ़्ताली बेनेट ने आइज़ेनकोट के नेतृत्व वाली एकता सरकार का समर्थन किया और नेतन्याहू को अगला प्रधानमंत्री बनाने से इनकार किया, जबकि लिकुड ने भी अपनी शर्तें रखीं।"
-   },
-   "en": {
-    "title": "Eisenkot invites Likud to 'marathon' talks for broad government as Bennett backs unity under him",
-    "summary": "Gadi Eisenkot, tasked with forming Israel's next government, has invited Benjamin Netanyahu's Likud to a marathon of coalition talks starting Sunday. Naftali Bennett backed a unity government led by Eisenkot and ruled out Netanyahu as the next prime minister, while Likud set out its own terms for joining."
    }
   }
  ]
