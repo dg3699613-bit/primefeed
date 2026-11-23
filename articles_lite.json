@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T07:42:57+05:30",
+ "updatedAt": "2026-11-23T07:58:44+05:30",
  "articles": [
+  {
+   "id": "pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T07:58:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22-en.mp3",
+   "district": "Kupwara",
+   "state": "Jammu and Kashmir",
+   "hi": {
+    "title": "कुपवाड़ा: 9 महीने की गर्भवती की जीएमसी हंडवाड़ा ले जाते वक्त मौत, डीसी ने अस्पताल का निरीक्षण किया, विधायक ने जांच मांगी",
+    "summary": "9 महीने की गर्भवती खुशबू जान की उप-जिला अस्पताल कुपवाड़ा से राजकीय मेडिकल कॉलेज हंडवाड़ा ले जाते वक्त मौत हो गई। परिवार ने चिकित्सकीय लापरवाही का आरोप लगाया है। उपायुक्त अभिषेक शर्मा ने रविवार को अस्पताल का निरीक्षण कर सीसीटीवी फुटेज और मेडिकल रिकॉर्ड देखे, जबकि हंडवाड़ा के विधायक साजाद लोन ने परिवार से मिलकर निष्पक्ष जांच की मांग की।"
+   },
+   "en": {
+    "title": "Nine-month pregnant woman dies on way to GMC Handwara after referral from SDH Kupwara; DC inspects hospital, MLA seeks probe",
+    "summary": "Khushboo Jan, nine months pregnant, died while being shifted from Sub-District Hospital Kupwara to Government Medical College Handwara. Her family has alleged medical negligence. Deputy Commissioner Abhishek Sharma inspected the hospital on Sunday, reviewing CCTV footage and medical records, while Handwara MLA Sajad Lone visited the family and demanded an impartial inquiry."
+   }
+  },
+  {
+   "id": "amritsar-police-return-1210-lost-phones-worth-3-crore-november-22",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T07:58:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amritsar-police-return-1210-lost-phones-worth-3-crore-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritsar-police-return-1210-lost-phones-worth-3-crore-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amritsar-police-return-1210-lost-phones-worth-3-crore-november-22-en.mp3",
+   "district": "Amritsar",
+   "state": "Punjab",
+   "hi": {
+    "title": "अमृतसर पुलिस ने 7 राज्यों से ढूंढकर लौटाए 1,210 खोए-चोरी हुए फोन, कीमत करीब 3.07 करोड़ रुपये",
+    "summary": "अमृतसर कमिश्नरेट पुलिस ने केंद्र सरकार के सीईआईआर पोर्टल की मदद से 1,210 खोए और चोरी हुए मोबाइल फोन ढूंढकर उनके असली मालिकों को लौटा दिए हैं। इन फोन की कुल कीमत करीब 3.07 करोड़ रुपये है। फोन पांच चरणों में बरामद किए गए और 7 राज्यों तक उनकी लोकेशन मिली।"
+   },
+   "en": {
+    "title": "Amritsar police trace and return 1,210 lost and stolen phones worth Rs 3.07 crore across seven states",
+    "summary": "Amritsar Commissionerate Police have traced and returned 1,210 lost and stolen mobile phones, together worth around Rs 3.07 crore, to their rightful owners using the Union government's CEIR portal. The phones were recovered in five phases and traced to seven states."
+   }
+  },
   {
    "id": "sakti-bus-hits-bike-three-killed-ramnam-saptah-november-22",
    "category": "State & Local",
@@ -3273,48 +3319,6 @@
    "en": {
     "title": "Mohan Yadav blesses 75 couples at mass wedding in Chhatarpur, meets Swami Parmanand",
     "summary": "Madhya Pradesh Chief Minister Mohan Yadav visited Chhatarpur district on Saturday, where he attended a mass wedding of 75 couples at Sijai village and met spiritual leader Swami Parmanand Giri Maharaj at the Parmanand Godham Gaushala."
-   }
-  },
-  {
-   "id": "rishabh-pant-ninth-test-century-india-601-wellington-november-22",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T05:19:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rishabh-pant-ninth-test-century-india-601-wellington-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rishabh-pant-ninth-test-century-india-601-wellington-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rishabh-pant-ninth-test-century-india-601-wellington-november-22-en.mp3",
-   "hi": {
-    "title": "पंत ने छक्के से पूरा किया नौवां टेस्ट शतक, भारत छह सौ के पार; न्यूज़ीलैंड में अब तक का सबसे बड़ा स्कोर",
-    "summary": "ऋषभ पंत ने वेलिंगटन में चौथे दिन ग्लेन फिलिप्स पर छक्का लगाकर अपना नौवां टेस्ट शतक पूरा किया। भारत पाँच विकेट पर छह सौ एक रन बनाकर न्यूज़ीलैंड में अपने अब तक के सबसे बड़े टेस्ट स्कोर तक पहुँच गया और बढ़त दो सौ तैंतीस रन की हो गई।"
-   },
-   "en": {
-    "title": "Pant smashes ninth Test hundred with a six as India pass 600 and their highest total in New Zealand",
-    "summary": "Rishabh Pant launched Glenn Phillips for six to reach his ninth Test century on day four at Wellington, taking India past 600 for five and beyond their highest Test total in New Zealand. India led by 233 runs with five wickets in hand."
-   }
-  },
-  {
-   "id": "up-special-campaign-day-voter-list-revision-november-22",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T04:57:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-special-campaign-day-voter-list-revision-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-special-campaign-day-voter-list-revision-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-special-campaign-day-voter-list-revision-november-22-en.mp3",
-   "hi": {
-    "title": "यूपी में आज वोटर लिस्ट का विशेष अभियान: सभी 1,73,730 मतदान केंद्रों पर सुबह 10 से शाम 4 तक बीएलओ मौजूद",
-    "summary": "उत्तर प्रदेश में मतदाता सूची के विशेष सारांश पुनरीक्षण-2027 के तहत आज, रविवार 22 नवंबर को राज्य के सभी 1,73,730 मतदान केंद्रों पर विशेष अभियान चलेगा। बूथ स्तर के अधिकारी सुबह 10 बजे से शाम 4 बजे तक मौजूद रहेंगे और लोग मसौदा सूची में अपना व परिवार का नाम जाँच सकेंगे, फॉर्म 6 से नाम जुड़वा सकेंगे और फॉर्म 8 से सुधार करा सकेंगे।"
-   },
-   "en": {
-    "title": "Special campaign day for UP voter list today: BLOs at all 1,73,730 polling stations from 10 am to 4 pm",
-    "summary": "Booth-level officers will be present at all 1,73,730 polling stations across Uttar Pradesh on Sunday, November 22, from 10 am to 4 pm as part of the Special Summary Revision of Electoral Rolls-2027. Citizens can check their names in the draft roll, apply for fresh enrolment with Form 6, or seek corrections with Form 8."
    }
   }
  ]
