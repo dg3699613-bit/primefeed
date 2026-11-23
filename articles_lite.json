@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T06:49:00+05:30",
+ "updatedAt": "2026-11-23T07:06:14+05:30",
  "articles": [
+  {
+   "id": "man-kills-wife-axe-gonda-tea-refusal-son-calls-police",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T07:06:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/man-kills-wife-axe-gonda-tea-refusal-son-calls-police.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/man-kills-wife-axe-gonda-tea-refusal-son-calls-police-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/man-kills-wife-axe-gonda-tea-refusal-son-calls-police-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोंडा में चाय बनाने से मना करने पर पति ने कुल्हाड़ी से पत्नी की हत्या, 12 साल के बेटे ने पुलिस को फोन किया",
+    "summary": "गोंडा जिले के कौड़िया बाजार थाना क्षेत्र में शुक्रवार देर रात 40 साल के मनोज कुमार शुक्ला ने अपनी 35 साल की पत्नी सुमन की कथित तौर पर कुल्हाड़ी से हत्या कर दी। वारदात के वक्त घर में मौजूद 12 साल के बेटे किशन ने पुलिस को फोन कर बताया कि उसके पिता ने मां को मार डाला है। पुलिस ने आरोपी और उसकी मां के खिलाफ हत्या का मामला दर्ज किया है।"
+   },
+   "en": {
+    "title": "Man kills wife with axe in Gonda after she refuses to make tea; 12-year-old son calls police",
+    "summary": "A 40-year-old man allegedly hacked his 35-year-old wife to death with an axe at their home in Gonda district late on Friday night after she refused to make tea for him. The couple's 12-year-old son, who was at home when it happened, called the police. A murder case has been registered against the accused and his mother."
+   }
+  },
+  {
+   "id": "nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-23T07:06:14+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23-en.mp3",
+   "hi": {
+    "title": "नेपाल के PM बालेंद्र शाह आज PM मोदी से करेंगे बातचीत, ऊर्जा और कनेक्टिविटी एजेंडे में सबसे ऊपर",
+    "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह आज नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी से प्रतिनिधिमंडल स्तर की बातचीत करेंगे। दो दिन की राजकीय यात्रा पर आए शाह की यह भारत की पहली द्विपक्षीय यात्रा है। बातचीत में ऊर्जा, जलविद्युत, रेलवे और कनेक्टिविटी के साथ-साथ नई दिल्ली से 2 अरब डॉलर के आर्थिक सहायता पैकेज के काठमांडू के प्रस्ताव पर भी चर्चा होने की उम्मीद है।"
+   },
+   "en": {
+    "title": "Nepal PM Balendra Shah to hold talks with PM Modi today; energy, connectivity and aid on agenda",
+    "summary": "Nepal Prime Minister Balendra Shah will hold delegation-level talks with Prime Minister Narendra Modi in New Delhi on Monday, the centrepiece of his two-day state visit to India. Energy, hydropower, railways and connectivity are on the agenda, along with Kathmandu's proposal for a $2-billion economic assistance package from New Delhi."
+   }
+  },
   {
    "id": "father-son-killed-tractor-plunges-70-foot-well-chhatarpur",
    "category": "State & Local",
@@ -536,7 +580,7 @@
    "category": "World",
    "sub": "Middle East",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-23T01:56:37+05:30",
    "source": "PrimeFeed Desk",
@@ -3269,48 +3313,6 @@
    "en": {
     "title": "India, Canada conclude sixth round of CEPA talks in New Delhi; aim to seal trade pact by year-end",
     "summary": "India and Canada have concluded the sixth round of negotiations for their proposed Comprehensive Economic Partnership Agreement in New Delhi, with both sides reporting substantive progress across goods, services and investment. The ten-day round ran from November 11 to 20, and the two countries aim to conclude the pact by the end of 2026."
-   }
-  },
-  {
-   "id": "iraq-hartha-power-station-fire-basra-four-killed-november-21",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T03:43:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iraq-hartha-power-station-fire-basra-four-killed-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iraq-hartha-power-station-fire-basra-four-killed-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iraq-hartha-power-station-fire-basra-four-killed-november-21-en.mp3",
-   "hi": {
-    "title": "इराक़ के बसरा के पास हरथा बिजली संयंत्र में आग, कम से कम चार लोगों की मौत, पैंतीस घायल",
-    "summary": "दक्षिणी इराक़ के बसरा के उत्तर में स्थित अल-हरथा ताप विद्युत संयंत्र में शनिवार को आग लगने से कम से कम चार लोगों की मौत हो गई और पैंतीस घायल हो गए। आग पास के घरों तक फैल गई और आठ सौ मेगावाट क्षमता वाले संयंत्र को बंद करना पड़ा; इराक़ के प्रधानमंत्री ने तत्काल जाँच के आदेश दिए हैं।"
-   },
-   "en": {
-    "title": "Fire at Iraq's Hartha power station near Basra kills at least four, injures 35",
-    "summary": "At least four people were killed and 35 injured after a fire broke out at the al-Hartha thermal power station north of Basra in southern Iraq on Saturday. The blaze spread to nearby houses and forced the 800-megawatt plant to shut down; Iraq's prime minister has ordered an urgent investigation."
-   }
-  },
-  {
-   "id": "ramayana-record-second-week-299-crore-biggest-ever-indian-cinema-november-21",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T03:22:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-record-second-week-299-crore-biggest-ever-indian-cinema-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-record-second-week-299-crore-biggest-ever-indian-cinema-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-record-second-week-299-crore-biggest-ever-indian-cinema-november-21-en.mp3",
-   "hi": {
-    "title": "रामायण ने रचा इतिहास: दूसरे हफ़्ते में 299.15 करोड़ रुपये, भारतीय सिनेमा में अब तक की सबसे बड़ी कमाई",
-    "summary": "रामायण: पार्ट वन ने भारतीय सिनेमा के इतिहास में सबसे बड़ी दूसरे हफ़्ते की कमाई दर्ज की है — दूसरे हफ़्ते में 299.15 करोड़ रुपये नेट कमाकर इसने धुरंधर 2, पुष्पा 2, बाहुबली 2 और आरआरआर को पीछे छोड़ दिया। पंद्रह दिनों के बाद फ़िल्म का भारत में नेट कलेक्शन 863.75 करोड़ रुपये और दुनिया भर की कमाई 1,547.15 करोड़ रुपये हो गई है।"
-   },
-   "en": {
-    "title": "Ramayana sets a new record: Rs 299.15 crore second week is the biggest ever for an Indian film",
-    "summary": "Ramayana: Part 1 has recorded the highest second-week collection ever for an Indian film, earning Rs 299.15 crore net in India in its second week and passing Dhurandhar 2, Pushpa 2, Baahubali 2 and RRR. The film's India net total stands at Rs 863.75 crore after 15 days, with a worldwide gross of Rs 1547.15 crore."
    }
   }
  ]
