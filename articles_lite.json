@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T15:22:38+05:30",
+ "updatedAt": "2026-11-23T15:35:09+05:30",
  "articles": [
+  {
+   "id": "bsf-constable-k-venu-missing-barak-river-cachar-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T15:35:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bsf-constable-k-venu-missing-barak-river-cachar-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bsf-constable-k-venu-missing-barak-river-cachar-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bsf-constable-k-venu-missing-barak-river-cachar-november-23-en.mp3",
+   "district": "Cachar",
+   "state": "Assam",
+   "hi": {
+    "title": "कछार में पशु तस्करों का पीछा करते हुए बीएसएफ जवान बराक नदी में लापता, तलाश जारी",
+    "summary": "असम के कछार जिले में भारत-बांग्लादेश सीमा के पास हरिनगर सीमा चौकी के नजदीक सोमवार सुबह पशु तस्करों का पीछा करते समय सीमा सुरक्षा बल का जवान के. वेणु बराक नदी में लापता हो गया। एसडीआरएफ और एनडीआरएफ की टीमें नदी में उसकी तलाश कर रही हैं।"
+   },
+   "en": {
+    "title": "BSF constable goes missing in Barak river while chasing cattle smugglers in Assam's Cachar",
+    "summary": "A Border Security Force constable, K. Venu, went missing in the Barak river near the Harinagar border outpost in Assam's Cachar district on Monday morning while pursuing suspected cattle smugglers along the India-Bangladesh border. SDRF and NDRF teams are searching the river."
+   }
+  },
+  {
+   "id": "delhi-court-non-bailable-warrant-dhruv-rathee-defamation-case-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T15:35:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-court-non-bailable-warrant-dhruv-rathee-defamation-case-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-court-non-bailable-warrant-dhruv-rathee-defamation-case-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-court-non-bailable-warrant-dhruv-rathee-defamation-case-november-23-en.mp3",
+   "hi": {
+    "title": "2018 के मानहानि मामले में यूट्यूबर ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी",
+    "summary": "दिल्ली की एक अदालत ने 2018 के आपराधिक मानहानि मामले में यूट्यूबर ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी किया है। यह मामला विकास संस्कृत्यायन ने दायर किया था, जिनका कहना है कि राठी ने 2018 में अपलोड किए गए एक वीडियो में उनके खिलाफ झूठे आरोप लगाए थे। मामले की अगली सुनवाई 3 दिसंबर को होगी।"
+   },
+   "en": {
+    "title": "Delhi court issues non-bailable warrant against YouTuber Dhruv Rathee in 2018 defamation case",
+    "summary": "A Delhi court has issued a non-bailable warrant against YouTuber Dhruv Rathee in a criminal defamation case filed in 2018 by Vikas Sanskrityayan, who says a video Rathee uploaded that year carried false allegations against him. The matter will be heard next on December 3."
+   }
+  },
   {
    "id": "section-144-in-mudigere-38-wild-elephants-camp-in-coffee-plantations-november-23",
    "category": "State & Local",
@@ -3263,50 +3307,6 @@
    "en": {
     "title": "Odia TV actress alleges harassment by youths at Bhubaneswar bar; FIR lodged, police seek CCTV footage",
     "summary": "A television actress from Odisha has alleged that a group of youths harassed and molested her at a bar and restaurant in Bhubaneswar's Chandrasekharpur area on Saturday night. She has lodged an FIR with Chandrasekharpur police, who have begun an investigation and sought CCTV footage from the establishment."
-   }
-  },
-  {
-   "id": "ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T13:58:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-woman-si-prabhasini-sahu-found-dead-quarters-family-alleges-murder-november-22-en.mp3",
-   "district": "Ganjam",
-   "state": "Odisha",
-   "hi": {
-    "title": "गंजम में महिला सब-इंस्पेक्टर क्वार्टर में मृत मिलीं; परिवार ने हत्या का आरोप लगाया, पूरी जाँच की माँग की",
-    "summary": "ओडिशा के गंजम ज़िले के पुरुषोत्तमपुर थाने में तैनात सब-इंस्पेक्टर प्रभासिनी साहू (27) शनिवार को अपने सरकारी क्वार्टर में मृत मिलीं। पुलिस का कहना है कि शुरुआती संकेत आत्महत्या की ओर इशारा करते हैं, लेकिन परिवार ने इसे खारिज करते हुए हत्या की साज़िश का आरोप लगाया है और पूरी जाँच की माँग की है।"
-   },
-   "en": {
-    "title": "Woman sub-inspector found dead in quarters in Ganjam; family alleges murder, demands thorough probe",
-    "summary": "Sub-Inspector Prabhasini Sahu, 27, was found hanging in her official quarters at Purushottampur police station in Odisha's Ganjam district on Saturday. Police say preliminary signs point to suicide, but her family has rejected that, alleging she was murdered as part of a conspiracy and demanding a thorough investigation."
-   }
-  },
-  {
-   "id": "maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22",
-   "category": "Business",
-   "sub": "Auto",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T13:58:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/maruti-suzuki-price-hike-select-models-fourth-in-2026-november-22-en.mp3",
-   "hi": {
-    "title": "मारुति सुज़ुकी ने चुनिंदा मॉडलों के दाम बढ़ाए, आज से लागू; 2026 में चौथी बढ़ोतरी",
-    "summary": "मारुति सुज़ुकी इंडिया ने चुनिंदा मॉडलों के दाम औसतन 0.31% बढ़ा दिए हैं, जो रविवार, 22 नवंबर से लागू हो गए। कंपनी ने लागत के बढ़ते दबाव का हवाला दिया है। यह इस साल की चौथी बढ़ोतरी है।"
-   },
-   "en": {
-    "title": "Maruti Suzuki raises prices on select models from today, its fourth hike in 2026",
-    "summary": "Maruti Suzuki India has raised prices on select models by a volume-weighted average of around 0.31%, effective Sunday, November 22 — its fourth price revision this year. The country's largest carmaker cited sustained cost pressures in an exchange filing."
    }
   }
  ]
