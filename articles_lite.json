@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T20:53:36+05:30",
+ "updatedAt": "2026-11-23T21:02:11+05:30",
  "articles": [
+  {
+   "id": "sreejith-ravi-one-year-jail-pocso-case-thrissur-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T20:55:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sreejith-ravi-one-year-jail-pocso-case-thrissur-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sreejith-ravi-one-year-jail-pocso-case-thrissur-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sreejith-ravi-one-year-jail-pocso-case-thrissur-november-23-en.mp3",
+   "district": "Thrissur",
+   "state": "Kerala",
+   "hi": {
+    "title": "पॉक्सो मामले में अभिनेता श्रीजित रवि को 1 साल की सज़ा, 50,000 रुपये जुर्माना",
+    "summary": "त्रिशूर की फास्ट ट्रैक विशेष अदालत ने मलयालम अभिनेता श्रीजित रवि को 2022 के पॉक्सो मामले में 1 साल की सश्रम कैद और 50,000 रुपये जुर्माने की सज़ा सुनाई है। अदालत ने सज़ा 1 महीने के लिए स्थगित कर दी है, ताकि अभिनेता केरल उच्च न्यायालय में अपील कर सकें।"
+   },
+   "en": {
+    "title": "Actor Sreejith Ravi gets 1 year in jail in POCSO case, fined Rs 50,000",
+    "summary": "A fast track special court in Thrissur has sentenced Malayalam actor Sreejith Ravi to 1 year of rigorous imprisonment and a fine of Rs 50,000 in a 2022 POCSO case. The court suspended the sentence for 1 month so the actor can appeal before the Kerala High Court."
+   }
+  },
+  {
+   "id": "pakistan-operatives-infiltrate-defence-whatsapp-groups-audit-november-23",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T20:55:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pakistan-operatives-infiltrate-defence-whatsapp-groups-audit-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-operatives-infiltrate-defence-whatsapp-groups-audit-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pakistan-operatives-infiltrate-defence-whatsapp-groups-audit-november-23-en.mp3",
+   "hi": {
+    "title": "पाकिस्तान के खुफिया एजेंटों की सेना के व्हाट्सऐप ग्रुपों में घुसपैठ, देशभर में ऑडिट शुरू",
+    "summary": "पाकिस्तान के खुफिया एजेंटों ने सेना, अर्धसैनिक बलों और नागरिक सुरक्षा संगठनों के अनौपचारिक व्हाट्सऐप ग्रुपों में घुसपैठ कर ली है। 13 ग्रुपों में घुसपैठ की पुष्टि हुई है, जबकि एक रिपोर्ट के मुताबिक करीब 50 ग्रुप निशाने पर थे। देशभर में ग्रुपों का ऑडिट शुरू कर दिया गया है।"
+   },
+   "en": {
+    "title": "Pakistan operatives infiltrate defence WhatsApp groups, nationwide audit under way",
+    "summary": "Pakistan-based intelligence operatives have infiltrated unofficial WhatsApp groups of the Army, paramilitary forces and civil defence organisations. Infiltration of 13 groups has been confirmed, while one report puts the number of groups targeted at close to 50. A nationwide audit of the groups is now under way."
+   }
+  },
   {
    "id": "nagrakata-changmari-tea-garden-canter-accident-three-workers-killed-november-23",
    "category": "State & Local",
@@ -3263,50 +3307,6 @@
    "en": {
     "title": "JKSSB exam cheating racket busted in Jammu: 20 arrested, six government employees among them",
     "summary": "Jammu Police have arrested six more people in the JKSSB Finance Accounts Assistant exam cheating case, taking the total arrests to 20, including six government employees and the alleged kingpin. Senior Superintendent of Police Joginder Singh said the question paper was taken out of an exam centre, photographed and circulated on Telegram, with deals of Rs 10-12 lakh per candidate."
-   }
-  },
-  {
-   "id": "amit-shah-arunachal-40-border-villages-migration-stopped-november-22",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T18:06:51+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-arunachal-40-border-villages-migration-stopped-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-arunachal-40-border-villages-migration-stopped-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-arunachal-40-border-villages-migration-stopped-november-22-en.mp3",
-   "hi": {
-    "title": "चीन सीमा के 40 गाँवों में आबादी बढ़ी, पलायन रुका: अमित शाह",
-    "summary": "केंद्रीय गृह मंत्री अमित शाह ने रविवार को ईटानगर में कहा कि चीन सीमा से लगे अरुणाचल प्रदेश के 40 गाँवों में आबादी बढ़ रही है और पलायन रुक गया है। उन्होंने 11 सीमावर्ती जिलों में 5,610 करोड़ रुपये से अधिक की 4 विकास योजनाओं की शुरुआत भी की।"
-   },
-   "en": {
-    "title": "Population rising, migration stopped in 40 villages along China border, says Amit Shah",
-    "summary": "Union Home Minister Amit Shah said in Itanagar on Sunday that the population has risen and migration has stopped in 40 villages of Arunachal Pradesh along the China border. He also launched four development initiatives worth more than Rs 5,610 crore across 11 border districts."
-   }
-  },
-  {
-   "id": "patna-barh-wedding-party-scorpio-crash-four-killed-november-22",
-   "category": "State & Local",
-   "sub": "Bihar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T18:06:51+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/patna-barh-wedding-party-scorpio-crash-four-killed-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/patna-barh-wedding-party-scorpio-crash-four-killed-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/patna-barh-wedding-party-scorpio-crash-four-killed-november-22-en.mp3",
-   "district": "Patna",
-   "state": "Bihar",
-   "hi": {
-    "title": "बारात से लौट रही स्कॉर्पियो ट्रेलर से टकराई, पटना में 4 की मौत",
-    "summary": "पटना जिले के बाढ़ अनुमंडल में रविवार तड़के एक शादी से लौट रही स्कॉर्पियो की ट्रेलर से टक्कर हो गई। हादसे में दूल्हे की चचेरी बहन समेत 4 लोगों की मौत हो गई, कई अन्य घायल हैं।"
-   },
-   "en": {
-    "title": "Scorpio carrying wedding party hits trailer in Patna, 4 killed",
-    "summary": "A Scorpio carrying a wedding party home after a ceremony collided with a trailer truck in Patna district's Barh subdivision early on Sunday. Four people, including the groom's cousin, were killed and several others were injured."
    }
   }
  ]
