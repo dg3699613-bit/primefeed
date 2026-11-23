@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T14:07:12+05:30",
+ "updatedAt": "2026-11-23T14:25:44+05:30",
  "articles": [
+  {
+   "id": "kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T14:25:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23-en.mp3",
+   "district": "Kota",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "कोटा के गिरधपुरा में पीलिया का प्रकोप: 10 में हेपेटाइटिस ए की पुष्टि, 70 संदिग्ध; 2 और बच्चे बीमार",
+    "summary": "कोटा के गिरधपुरा गाँव में पेयजल में नाली का पानी मिलने की आशंका के बाद 10 लोगों में हेपेटाइटिस ए की पुष्टि हुई है। स्वास्थ्य विभाग को 70 संदिग्ध मरीज़ मिले हैं, 1,100 से अधिक घरों का सर्वे किया गया है, और सोमवार को 2 और बच्चे बीमार पड़े। अधिकारियों का कहना है कि कोई भी मरीज़ गंभीर हालत में नहीं है।"
+   },
+   "en": {
+    "title": "Jaundice outbreak in Kota's Girdharpura: hepatitis A confirmed in 10, 70 suspected; 2 more children fall ill",
+    "summary": "Ten people have tested positive for hepatitis A in Girdharpura village in Kota after drinking water was suspected to have been contaminated by drain water leaking into supply pipelines. Health teams have found 70 suspected cases, surveyed more than 1,100 houses, and two more children fell ill on Monday. Officials say no patient is in a serious condition."
+   }
+  },
+  {
+   "id": "german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T14:25:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23-en.mp3",
+   "district": "Kolkata",
+   "state": "West Bengal",
+   "hi": {
+    "title": "कोलकाता के धर्मतला होटल में 67 वर्षीय जर्मन पर्यटक की रहस्यमय मौत, कमरे में मिला शव; होमिसाइड शाखा जाँच में जुटी",
+    "summary": "कोलकाता के धर्मतला इलाके के पीयरलेस इन होटल के कमरा नंबर 1602 में सोमवार सुबह 67 वर्षीय जर्मन पर्यटक थॉमस मिंटेन का शव मिला। वह 21 नवंबर को शहर आए थे और 25 नवंबर को बर्लिन लौटने वाले थे। शव पर चोट के निशान नहीं मिले हैं; मौत की वजह पोस्टमार्टम रिपोर्ट के बाद ही साफ होगी।"
+   },
+   "en": {
+    "title": "67-year-old German tourist found dead in Dharmatala hotel room in Kolkata; homicide branch probing mysterious death",
+    "summary": "The body of 67-year-old German tourist Thomas Minten was found in room 1602 of the Peerless Inn hotel in Kolkata's Dharmatala area on Monday morning. He had arrived in the city on 21 November and was due to fly back to Berlin on 25 November. Police found no injury marks on the body; the cause of death will be known after the post-mortem report."
+   }
+  },
   {
    "id": "turbhe-oil-warehouse-fire-navi-mumbai-saptashrungi-godown-november-23",
    "category": "State & Local",
@@ -3263,50 +3309,6 @@
    "en": {
     "title": "Akal Takht bars two Delhi gurdwara committee members from religious activities over Tilak Nagar sacrilege case",
     "summary": "The Akal Takht has barred 2 members of the Delhi Sikh Gurdwara Management Committee from religious activities and disqualified 5 members of a Tilak Nagar gurdwara's management committee over a sacrilege incident at the shrine on 15 November. The Jathedar found serious lapses in how the management handled the incident."
-   }
-  },
-  {
-   "id": "vhp-demands-ban-ramayana-seeks-censor-certificate-revoked-ravana-glorification-november-22",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T12:38:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vhp-demands-ban-ramayana-seeks-censor-certificate-revoked-ravana-glorification-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vhp-demands-ban-ramayana-seeks-censor-certificate-revoked-ravana-glorification-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vhp-demands-ban-ramayana-seeks-censor-certificate-revoked-ravana-glorification-november-22-en.mp3",
-   "hi": {
-    "title": "विहिप ने रणबीर कपूर की 'रामायण' पर बैन की माँग की, सेंसर सर्टिफिकेट रद्द करने को कहा; रावण का महिमामंडन करने का आरोप",
-    "summary": "विश्व हिंदू परिषद ने रणबीर कपूर की फिल्म 'रामायण: पार्ट वन' का सेंसर सर्टिफिकेट रद्द करने और उसकी स्क्रीनिंग रोकने की माँग की है। परिषद का आरोप है कि फिल्म में वाल्मीकि की रामायण को तोड़ा-मरोड़ा गया है और रावण का महिमामंडन किया गया है। यह माँग शनिवार को की गई, फिल्म के 5 नवंबर को रिलीज़ होने के 2 हफ़्ते से ज़्यादा समय बाद।"
-   },
-   "en": {
-    "title": "VHP demands ban on Ranbir Kapoor's 'Ramayana', seeks censor certificate revoked over 'glorification of Ravana'",
-    "summary": "The Vishva Hindu Parishad has demanded that the censor certificate of Ranbir Kapoor-starrer 'Ramayana: Part One' be revoked and its screening stopped, alleging that the film distorts Valmiki's Ramayana and glorifies Ravana. The demand came on Saturday, more than 2 weeks after the film's release on 5 November."
-   }
-  },
-  {
-   "id": "chhattisgarh-patwari-strike-ends-after-40-days-raipur-november-22",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T12:25:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chhattisgarh-patwari-strike-ends-after-40-days-raipur-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chhattisgarh-patwari-strike-ends-after-40-days-raipur-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chhattisgarh-patwari-strike-ends-after-40-days-raipur-november-22-en.mp3",
-   "district": "Raipur",
-   "state": "Chhattisgarh",
-   "hi": {
-    "title": "40 दिन बाद खत्म हुई छत्तीसगढ़ के पटवारियों की हड़ताल, सीएम साय से मुलाकात के बाद संघ ने लिया फैसला",
-    "summary": "छत्तीसगढ़ में पटवारियों की अनिश्चितकालीन हड़ताल रविवार को खत्म हो गई। 13 अक्टूबर से चल रहा आंदोलन 40 दिन बाद समाप्त हुआ। पटवारी संघ ने मुख्यमंत्री विष्णु देव साय से मुलाकात के बाद हड़ताल खत्म करने का ऐलान किया, जिससे एक महीने से ज़्यादा समय से ठप राजस्व कामकाज के सामान्य होने की उम्मीद है।"
-   },
-   "en": {
-    "title": "Chhattisgarh patwari strike ends after 40 days following talks with CM Sai",
-    "summary": "The indefinite strike by patwaris in Chhattisgarh ended on Sunday, 40 days after it began on 13 October. The Patwari Sangh called off the protest after meeting Chief Minister Vishnu Deo Sai, raising hopes that revenue work stalled for over a month will return to normal."
    }
   }
  ]
