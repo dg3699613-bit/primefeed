@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T00:53:27+05:30",
+ "updatedAt": "2026-11-24T01:09:24+05:30",
  "articles": [
+  {
+   "id": "crowdstrike-to-buy-zscaler-43-9-billion-all-stock-deal-november-23",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T01:09:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/crowdstrike-to-buy-zscaler-43-9-billion-all-stock-deal-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/crowdstrike-to-buy-zscaler-43-9-billion-all-stock-deal-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/crowdstrike-to-buy-zscaler-43-9-billion-all-stock-deal-november-23-en.mp3",
+   "hi": {
+    "title": "क्राउडस्ट्राइक का 43.9 अरब डॉलर का सौदा: ज़ेडस्केलर का अधिग्रहण, साइबर सुरक्षा में बनेगी दिग्गज कंपनी",
+    "summary": "क्राउडस्ट्राइक ने क्लाउड सुरक्षा कंपनी ज़ेडस्केलर को करीब 43.9 अरब डॉलर के ऑल-स्टॉक सौदे में खरीदने का एलान किया है। ज़ेडस्केलर के शेयरधारकों को हर शेयर के बदले क्राउडस्ट्राइक के 1.135 शेयर मिलेंगे, जो 20 नवंबर के बंद भाव से 34% ज़्यादा है। सौदे के बाद ज़ेडस्केलर के शेयर 13.4% से ज़्यादा चढ़े, जबकि क्राउडस्ट्राइक के शेयर 5% गिर गए।"
+   },
+   "en": {
+    "title": "CrowdStrike to buy Zscaler in $43.9 billion all-stock deal, creating a cybersecurity giant",
+    "summary": "CrowdStrike has announced it will buy cloud-security firm Zscaler in an all-stock deal valued at about $43.9 billion. Zscaler shareholders will get 1.135 CrowdStrike shares for each share they own, valuing Zscaler at about $260.41 a share — a 34% premium to its November 20 close. Zscaler shares rose more than 13.4% in premarket trading after the announcement."
+   }
+  },
+  {
+   "id": "india-weighs-rice-export-duty-20-percent-domestic-prices-november-23",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T01:09:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-weighs-rice-export-duty-20-percent-domestic-prices-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-weighs-rice-export-duty-20-percent-domestic-prices-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-weighs-rice-export-duty-20-percent-domestic-prices-november-23-en.mp3",
+   "hi": {
+    "title": "चावल पर 20% निर्यात शुल्क पर विचार कर रही सरकार, दक्षिण में किल्लत के बाद दाम काबू करने की तैयारी",
+    "summary": "सरकार कुछ किस्मों के चावल पर करीब 20% निर्यात शुल्क लगाने पर विचार कर रही है। सूत्रों के मुताबिक, 100% टूटे चावल और दक्षिणी राज्यों में कम पड़ रही कुछ प्रीमियम गैर-बासमती किस्मों पर शुल्क लग सकता है। अंतिम फैसला अंतर-मंत्रालयी सलाह के बाद होगा।"
+   },
+   "en": {
+    "title": "India weighs 20% export duty on select rice varieties as domestic prices rise",
+    "summary": "The government is considering an export duty of around 20% on certain rice varieties to improve domestic availability and contain price rises, Reuters reported, citing government and industry sources. The duty could apply to 100% broken rice and premium non-Basmati grades in short supply in southern states; a final decision follows inter-ministerial consultations."
+   }
+  },
   {
    "id": "azam-khan-rampur-police-notice-2007-land-dispute-case-november-23",
    "category": "Crime & Law",
@@ -3261,50 +3303,6 @@
    "en": {
     "title": "Tata Steel to sell tubes business and Colors arm to APL Apollo in Rs 28,000-crore deal",
     "summary": "New Delhi: Tata Steel's board on Sunday approved the sale of its tubes business and its entire stake in Tata Steel Colors to APL Apollo Tubes in deals worth up to Rs 28,000 crore."
-   }
-  },
-  {
-   "id": "navdeep-bains-elected-ontario-liberal-party-leader-november-22",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T23:46:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/navdeep-bains-elected-ontario-liberal-party-leader-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navdeep-bains-elected-ontario-liberal-party-leader-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navdeep-bains-elected-ontario-liberal-party-leader-november-22-en.mp3",
-   "hi": {
-    "title": "भारतीय मूल के नवदीप बैंस ओंटारियो लिबरल पार्टी के नेता चुने गए; डग फोर्ड को हराने का वादा",
-    "summary": "टोरंटो: भारतीय मूल के नवदीप सिंह बैंस कनाडा के ओंटारियो प्रांत की लिबरल पार्टी के नए नेता चुन लिए गए हैं। नेतृत्व चुनाव के तीसरे और अंतिम दौर में उन्हें 50.3% वोट मिले, जबकि ली फेयरक्लो को 49.7% वोट मिले; कुल 20,510 वोट डाले गए।"
-   },
-   "en": {
-    "title": "Indian-origin Navdeep Bains elected leader of Ontario's Liberal Party, vows to take on Doug Ford",
-    "summary": "Toronto: Indian-origin Navdeep Singh Bains has been elected leader of Ontario's Liberal Party, winning 50.3 per cent of the vote in the third and final ballot against Lee Fairclough's 49.7 per cent; 20,510 votes were cast."
-   }
-  },
-  {
-   "id": "bulandshahr-three-year-old-girl-found-dead-locked-room-occult-suspected-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T23:32:02+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bulandshahr-three-year-old-girl-found-dead-locked-room-occult-suspected-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bulandshahr-three-year-old-girl-found-dead-locked-room-occult-suspected-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bulandshahr-three-year-old-girl-found-dead-locked-room-occult-suspected-november-22-en.mp3",
-   "district": "Bulandshahr",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "बुलंदशहर: 3 साल की बच्ची का शव पड़ोसी के बंद कमरे में गद्दे के नीचे मिला; तंत्र-मंत्र के शक में महिला हिरासत में",
-    "summary": "बुलंदशहर: शनिवार सुबह घर के बाहर खेलते हुए लापता हुई 3 साल की बच्ची का शव पड़ोस के बंद कमरे में गद्दे के नीचे मिला। कमरे में किराए पर रहने वाली महिला सोनाली को हिरासत में लेकर पूछताछ की जा रही है; पुलिस को तंत्र-मंत्र से जुड़ी हत्या का शुरुआती शक है।"
-   },
-   "en": {
-    "title": "Bulandshahr: 3-year-old girl found dead under mattress in neighbour's locked room; woman detained over suspected occult ritual",
-    "summary": "Bulandshahr: A three-year-old girl who went missing while playing outside her home on Saturday was found dead in a locked room nearby, her body hidden beneath a mattress. The tenant woman, Sonali, has been detained for questioning; police suspect an occult-linked killing."
    }
   }
  ]
