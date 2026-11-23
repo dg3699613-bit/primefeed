@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T10:52:48+05:30",
+ "updatedAt": "2026-11-23T11:10:20+05:30",
  "articles": [
+  {
+   "id": "asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T11:10:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23-en.mp3",
+   "hi": {
+    "title": "एशिया पावर इंडेक्स 2026: भारत एशिया का तीसरा सबसे ताकतवर देश बरकरार, मोदी दूसरे सबसे प्रभावी नेता",
+    "summary": "लोवी इंस्टीट्यूट के एशिया पावर इंडेक्स 2026 में भारत 40.5 अंकों के साथ तीसरे स्थान पर बरकरार है, चीन से उसका अंतर 2018 के बाद सबसे कम हो गया है। प्रधानमंत्री नरेंद्र मोदी को एशिया का दूसरा सबसे प्रभावी क्षेत्रीय नेता आंका गया है, पहले स्थान पर चीन के शी जिनपिंग हैं।"
+   },
+   "en": {
+    "title": "Asia Power Index 2026: India stays Asia's third most powerful country, Modi rated second-most effective leader",
+    "summary": "India has retained third place in the Lowy Institute's 2026 Asia Power Index with 40.5 points, its gap with China narrowing to the lowest since the index began in 2018. Prime Minister Narendra Modi was rated the second-most effective regional leader, behind China's Xi Jinping."
+   }
+  },
   {
    "id": "trump-urges-nvidia-board-rehire-jensen-huang-november-23",
    "category": "World",
@@ -3286,29 +3307,6 @@
    "en": {
     "title": "Two Bangladeshi nationals detained in Tripura's Khowai over suspected illegal border crossing",
     "summary": "Tripura Police detained two Bangladeshi nationals in the Subhash Park area of Khowai town on Saturday morning on suspicion of illegally entering India. Police said the men, identified as Mintu Sarkar, 36, and Chayan Bhowmik, allegedly crossed the border fence with the help of touts; an investigation is under way."
-   }
-  },
-  {
-   "id": "sabarimala-virtual-queue-bulk-booking-resale-scam-probe-november-21",
-   "category": "Dharm-Astrology",
-   "sub": "Mandir & Teerth",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T08:38:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sabarimala-virtual-queue-bulk-booking-resale-scam-probe-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sabarimala-virtual-queue-bulk-booking-resale-scam-probe-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sabarimala-virtual-queue-bulk-booking-resale-scam-probe-november-21-en.mp3",
-   "district": "Pathanamthitta",
-   "state": "Kerala",
-   "hi": {
-    "title": "सबरीमला के दर्शन स्लॉट की बड़ी संख्या में बुकिंग और ऊँची कीमत पर बिक्री का संदेह, तीन राज्यों की एजेंसियों पर जाँच",
-    "summary": "तमिलनाडु, आंध्र प्रदेश और तेलंगाना की ट्रैवल एजेंसियों पर सबरीमला के दर्शन स्लॉट बड़ी संख्या में बुक करके ऊँचे दाम पर बेचने का संदेह है, पुलिस और राजस्व विभाग के आकलन में यह बात सामने आई है। कुछ दिनों में बुक किए गए श्रद्धालुओं में से लगभग आधे ही पहुँच रहे हैं, ऐसे में त्रावणकोर देवस्वोम बोर्ड ओटीपी आधारित जाँच और बुकिंग व्यवस्था में पूरे बदलाव पर विचार कर रहा है।"
-   },
-   "en": {
-    "title": "Bulk booking, resale of Sabarimala darshan slots suspected; police probe points to travel agencies in three states",
-    "summary": "Travel agencies in Tamil Nadu, Andhra Pradesh and Telangana are suspected of bulk-booking Sabarimala darshan slots and reselling the coupons at high prices, a police and Revenue Department assessment has found. With only around half the booked pilgrims turning up on some days, the Travancore Devaswom Board is considering OTP-based verification and a complete overhaul of the booking system."
    }
   }
  ]
