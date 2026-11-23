@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T11:41:50+05:30",
+ "updatedAt": "2026-11-23T11:51:21+05:30",
  "articles": [
+  {
+   "id": "india-factory-pmi-nine-month-high-november-23",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T11:51:21+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-factory-pmi-nine-month-high-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-factory-pmi-nine-month-high-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-factory-pmi-nine-month-high-november-23-en.mp3",
+   "hi": {
+    "title": "नवंबर में फैक्ट्री गतिविधि 9 महीने के उच्चतम स्तर पर, समग्र पीएमआई 56.3 पर पहुंचा",
+    "summary": "नवंबर में भारत के निजी क्षेत्र का विस्तार जारी रहा, फैक्ट्री गतिविधि 9 महीने के उच्चतम स्तर पर पहुंची और समग्र पीएमआई 56.3 हो गया। हालांकि सेवा क्षेत्र की रफ्तार धीमी पड़ी और भर्तियों में फैक्ट्री व सेवा क्षेत्र के बीच साफ अंतर दिखा।"
+   },
+   "en": {
+    "title": "India's factory activity hits nine-month high as November PMI rises to 56.3",
+    "summary": "India's private sector kept expanding in November as factory activity hit a nine-month high, with the composite PMI edging up to 56.3, though services cooled and hiring split sharply between factories and services firms."
+   }
+  },
   {
    "id": "dalmau-kartik-purnima-mela-ganga-aarti-raebareli-november-23",
    "category": "Dharm-Astrology",
@@ -3288,27 +3309,6 @@
    "en": {
     "title": "Rajasthan panchayat repoll today at 28 booths in 11 districts after EVMs fail to open",
     "summary": "The Rajasthan State Election Commission has ordered repolling at 28 polling booths in 11 districts on Sunday, November 22, after electronic voting machines at these booths could not be opened during counting on Friday. Results of 22 panchayat samiti wards and 6 zila parishad wards were withheld; counting will be held at 9 pm after polling ends."
-   }
-  },
-  {
-   "id": "gold-silver-crash-friday-mcx-november-21",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T09:45:18+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-silver-crash-friday-mcx-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-friday-mcx-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-silver-crash-friday-mcx-november-21-en.mp3",
-   "hi": {
-    "title": "सोना 1 दिन में 4.49 प्रतिशत गिरकर 1.21 लाख रुपये, चांदी 6.6 प्रतिशत टूटी",
-    "summary": "शुक्रवार को सोने और चांदी की कीमतों में भारी गिरावट आई। एमसीएक्स पर सोना 4.49 प्रतिशत गिरकर 1,21,719 रुपये प्रति 10 ग्राम और चांदी 6.6 प्रतिशत टूटकर 1,47,066 रुपये प्रति किलो पर आ गई। वजह अमेरिकी डॉलर का मजबूत होना, बॉन्ड यील्ड का बढ़ना और फेडरल रिज़र्व की ओर से ब्याज दरें बढ़ाए जाने की आशंका है। पूरे हफ्ते में सोना 8.77 प्रतिशत और चांदी 14.31 प्रतिशत टूटी है, जो 14 महीने का सबसे निचला स्तर है।"
-   },
-   "en": {
-    "title": "Gold falls 4.49% to Rs 1.21 lakh, silver plunges 6.6% in a day as Fed rate fears rattle bullion",
-    "summary": "Gold and silver fell sharply on Friday, with MCX gold futures down 4.49% to Rs 1,21,719 per 10 grams and silver down 6.6% to Rs 1,47,066 per kg, as a firm dollar, high bond yields and expectations of tighter US monetary policy rattled investors. Over the week, gold is down 8.77% to a 14-month low and silver 14.31%, while wedding-season buyers are using the dip to advance purchases."
    }
   }
  ]
