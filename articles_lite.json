@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T12:12:38+05:30",
+ "updatedAt": "2026-11-23T12:25:33+05:30",
  "articles": [
+  {
+   "id": "mathura-car-rams-parked-dumper-4-dead-2-children",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:25:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mathura-car-rams-parked-dumper-4-dead-2-children.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mathura-car-rams-parked-dumper-4-dead-2-children-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mathura-car-rams-parked-dumper-4-dead-2-children-en.mp3",
+   "district": "Mathura",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "मथुरा में खड़े डंपर से टकराई श्रद्धालुओं की कार, 2 बच्चों समेत 4 की मौत; 3 गंभीर",
+    "summary": "बरसाना से रमणरेती जा रहे श्रद्धालुओं की स्विफ्ट कार सोमवार सुबह मथुरा में दिल्ली-आगरा हाईवे पर खड़े डंपर से टकरा गई। हादसे में 2 महिलाओं और 2 बच्चों की मौत हो गई, 3 लोग गंभीर रूप से घायल हैं।"
+   },
+   "en": {
+    "title": "Devotees' car rams parked dumper on Mathura highway, 4 dead including 2 children; 3 critical",
+    "summary": "A Swift car carrying devotees from Barsana to Ramanreti rammed into a dumper parked on the Delhi-Agra highway in Mathura on Monday morning. Four people, including 2 women and 2 children, were killed, and 3 others were seriously injured."
+   }
+  },
+  {
+   "id": "anuppur-bolero-rams-parked-truck-army-jawan-among-3-dead",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:25:33+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anuppur-bolero-rams-parked-truck-army-jawan-among-3-dead.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anuppur-bolero-rams-parked-truck-army-jawan-among-3-dead-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anuppur-bolero-rams-parked-truck-army-jawan-among-3-dead-en.mp3",
+   "district": "Anuppur",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "अनूपपुर में खड़े ट्रक से टकराई बोलेरो, दोस्त की शादी में आया आर्मी जवान समेत 3 की मौत",
+    "summary": "अनूपपुर में सोमवार तड़के सड़क किनारे खड़े ट्रक से बोलेरो टकरा गई। हादसे में रायपुर में दोस्त की शादी में शामिल होने छुट्टी पर आया आर्मी जवान विनीत विश्वकर्मा, उनके बड़े भाई और बोलेरो मालिक की मौत हो गई, एक युवक गंभीर रूप से घायल है।"
+   },
+   "en": {
+    "title": "Bolero rams parked truck in Anuppur, Army jawan home for a friend's wedding among 3 dead",
+    "summary": "A Bolero rammed into a truck parked on the roadside in Anuppur in the early hours of Monday. Army jawan Vineet Vishwakarma, who had come home on leave for a friend's wedding in Raipur, his elder brother and the Bolero's owner were killed, and one person was seriously injured."
+   }
+  },
   {
    "id": "delhi-tourist-alleges-cisf-assault-at-taj-mahal-agra-november-23",
    "category": "Crime & Law",
@@ -3267,50 +3313,6 @@
    "en": {
     "title": "One killed, three injured in firing during langar preparations in Tarn Taran; two shootings in Mohali the same day",
     "summary": "A youth was shot dead and three others were injured when armed assailants opened fire on volunteers preparing langar for the annual Bhagwati Jagran in Tarn Taran on Saturday afternoon. Hours later, gunmen fired at a salon and an architect's house in Mohali. Police said the Tarn Taran attack appeared to stem from personal enmity, and the Congress accused the AAP government of failing on law and order."
-   }
-  },
-  {
-   "id": "ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T10:42:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-17-900-crore-india-1616-crore-worldwide-november-22-en.mp3",
-   "hi": {
-    "title": "रामायण ने सत्रहवें दिन भारत में 900 करोड़ रुपये का आँकड़ा पार किया, दुनियाभर में 1,616.70 करोड़ रुपये — इस मुकाम तक तीसरी सबसे तेज़ फ़िल्म",
-    "summary": "रणबीर कपूर की रामायण: पार्ट 1 ने सत्रहवें दिन 27.40 करोड़ रुपये नेट कमाए, जिससे भारत में उसका कुल नेट कलेक्शन 906.90 करोड़ रुपये और दुनियाभर का कुल ग्रॉस 1,616.70 करोड़ रुपये हो गया। भारत में 900 करोड़ रुपये नेट का आँकड़ा पार करने वाली यह तीसरी सबसे तेज़ भारतीय फ़िल्म है, और उसने धुरंधर 2 के सत्रहवें दिन के कलेक्शन को भी पीछे छोड़ दिया है।"
-   },
-   "en": {
-    "title": "Ramayana crosses Rs 900 crore in India on Day 17, worldwide at Rs 1,616.70 crore — third-fastest ever to the mark",
-    "summary": "Ranbir Kapoor's Ramayana: Part 1 earned Rs 27.40 crore net on its 17th day, taking its India net total to Rs 906.90 crore and its worldwide gross to Rs 1,616.70 crore. It is the third-fastest Indian film to cross Rs 900 crore net in India, and it beat Dhurandhar 2's Day 17 collection."
-   }
-  },
-  {
-   "id": "thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T10:25:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thoothukudi-teen-girl-killed-boyfriend-solaipudur-november-21-en.mp3",
-   "district": "Thoothukudi",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "तूत्तुक्कुडि में घर में अकेली 17 साल की छात्रा की हत्या, आरोपी ने भी आत्महत्या की कोशिश की",
-    "summary": "तमिलनाडु के तूत्तुक्कुडि ज़िले के सोलाईपुदुर गाँव में शनिवार सुबह घर में अकेली 17 साल की कक्षा 11 की छात्रा की गला घोंटकर और चाकू मारकर हत्या कर दी गई। आरोप है कि हत्या उसी इलाके के 23 साल के एक युवक ने की, जिसने बाद में आत्महत्या की कोशिश की और वह पुलिस हिरासत में अस्पताल में है। इस हत्या के बाद राज्य में महिलाओं की सुरक्षा को लेकर सियासी बहस छिड़ गई है।"
-   },
-   "en": {
-    "title": "17-year-old girl stabbed to death at home in Thoothukudi; accused attempts suicide after attack",
-    "summary": "A 17-year-old Class XI student was strangled and stabbed to death at her home in Solaipudur village in Tamil Nadu's Thoothukudi district on Saturday morning, allegedly by a 23-year-old man from the same locality. The accused later attempted suicide and is in hospital in police custody. The killing has set off a political row over women's safety in the state."
    }
   }
  ]
