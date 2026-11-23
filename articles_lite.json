@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T02:12:00+05:30",
+ "updatedAt": "2026-11-24T02:27:01+05:30",
  "articles": [
+  {
+   "id": "pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T02:27:01+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23-en.mp3",
+   "hi": {
+    "title": "पुणे: हिंजेवाड़ी के पीजी में 27 साल की सॉफ्टवेयर इंजीनियर कोमल दहाके की मौत, साथी शुभम कलबांदे पर हत्या का आरोप; पुलिस ने किया गिरफ्तार",
+    "summary": "पुणे के हिंजेवाड़ी के प्रिस्टीन पीजी में रह रही 27 साल की सॉफ्टवेयर इंजीनियर कोमल दहाके की मौत हो गई। पुलिस के अनुसार उनके साथी शुभम कलबांदे ने झगड़े के बाद उन पर हमला किया था। आरोपी ने सुबह खुद पुलिस को फोन किया, जिसके बाद उसे गिरफ्तार कर लिया गया।"
+   },
+   "en": {
+    "title": "Pune: Wipro techie Komal Dahake allegedly killed by partner at Hinjewadi PG; Infosys employee Shubham Kalbande arrested",
+    "summary": "A 27-year-old software engineer, Komal Dahake, was found dead at her paying guest accommodation in Pune's Hinjewadi area on Monday. Police say her partner, Shubham Kalbande, assaulted her after an argument. The accused himself called the police in the morning and was arrested."
+   }
+  },
+  {
+   "id": "zelenskyy-confirms-ukraine-sank-russian-corvette-merkury-benghazi-november-23",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T02:27:01+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/zelenskyy-confirms-ukraine-sank-russian-corvette-merkury-benghazi-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zelenskyy-confirms-ukraine-sank-russian-corvette-merkury-benghazi-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zelenskyy-confirms-ukraine-sank-russian-corvette-merkury-benghazi-november-23-en.mp3",
+   "hi": {
+    "title": "ज़ेलेंस्की ने कहा: यूक्रेन ने लीबिया के बेंगाज़ी बंदरगाह पर रूसी युद्धपोत मर्करी को डुबोया, 7 समुद्री ड्रोन से हमला",
+    "summary": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने कहा है कि यूक्रेन की सेना ने लीबिया के बेंगाज़ी बंदरगाह पर खड़े रूसी युद्धपोत मर्करी को 7 समुद्री ड्रोन से हमला करके डुबो दिया। हमले में जहाज़ पर मौजूद के-27 हेलीकॉप्टर भी नष्ट हो गया।"
+   },
+   "en": {
+    "title": "Zelenskyy says Ukraine sank Russian corvette Merkury at Libya's Benghazi port in 7-drone sea attack",
+    "summary": "Ukrainian President Volodymyr Zelenskyy said Ukrainian forces sank the Russian corvette Merkury at the Benghazi naval base in Libya, striking it with 7 sea drones. A Ka-27 helicopter on board was also destroyed in the attack."
+   }
+  },
   {
    "id": "champawat-cm-dhami-165-crore-54-development-schemes-november-23",
    "category": "India",
@@ -3263,48 +3307,6 @@
    "en": {
     "title": "Indonesia factory fire: 24 body bags recovered, 29 workers still missing; search resumes Monday",
     "summary": "Indonesian police recovered 24 body bags from the candy factory destroyed by fire in Banten province on Sunday evening. The confirmed death toll remains unclear, as one bag may hold the remains of more than one person. The company says 29 workers are still missing, and the search resumes on Monday morning."
-   }
-  },
-  {
-   "id": "russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T01:33:39+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-drone-destroys-dymer-apartment-block-four-killed-kyiv-region-en.mp3",
-   "hi": {
-    "title": "कीव के पास रूसी ड्रोन हमले में अपार्टमेंट की इमारत ढही; 4 की मौत, 10 लापता, 7 साल का बच्चा 14 घंटे बाद मलबे से ज़िंदा निकला",
-    "summary": "रविवार रात यूक्रेन के कीव क्षेत्र के डीमर कस्बे में एक रूसी ड्रोन 5 मंज़िला अपार्टमेंट इमारत से टकराया, जिससे 5 मंज़िलों तक फैला एक हिस्सा ढह गया। 4 लोगों की मौत हुई, 10 अब भी लापता हैं और बचावकर्मियों ने 7 साल के बच्चे डेविड को करीब 14 घंटे बाद मलबे से ज़िंदा बाहर निकाला। उसी दिन क्षेत्र में 2 और हमलों में 3 लोगों की मौत हुई।"
-   },
-   "en": {
-    "title": "Russian drone strike destroys apartment block near Kyiv; 4 killed, 10 missing, 7-year-old rescued after 14 hours",
-    "summary": "A Russian drone struck a 5-storey apartment building in Dymer, in Ukraine's Kyiv region, overnight on November 22, destroying a section spanning all 5 floors. 4 people were killed and 10 were still missing by Sunday evening, while rescuers pulled 7-year-old David alive from the rubble after nearly 14 hours. Two more strikes in the region killed 3 others the same day."
-   }
-  },
-  {
-   "id": "bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T01:09:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-narail-30-houses-torched-awami-league-bnp-violence-november-22-en.mp3",
-   "hi": {
-    "title": "बांग्लादेश के नरैल में आवामी लीग नेताओं के करीब 30 घरों में आग, 2 बीएनपी नेताओं की हत्या के बाद भड़की हिंसा",
-    "summary": "बांग्लादेश के नरैल जिले के बेंडरचर गाँव में आवामी लीग नेताओं के करीब 30 घरों में आग लगा दी गई। दमकलकर्मियों को रात 8 बजे गाँव पहुँचने पर 20 से 30 घर जलते मिले। यह हिंसा 18 नवंबर को बीएनपी के जुलूस पर हुए हमले में 2 नेताओं की हत्या के बाद भड़की।"
-   },
-   "en": {
-    "title": "Nearly 30 houses of Awami League leaders torched in Bangladesh's Narail after 2 BNP men killed",
-    "summary": "Nearly 30 houses belonging to Awami League leaders and activists were set ablaze in Bendarchar village in Bangladesh's Narail district. Fire service personnel found 20 to 30 houses on fire when they reached the village at around 8 pm. The violence followed the killing of 2 BNP-affiliated leaders in an attack on a party procession on November 18."
    }
   }
  ]
