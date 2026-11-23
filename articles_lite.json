@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-23T20:29:46+05:30",
+ "updatedAt": "2026-11-23T20:31:55+05:30",
  "articles": [
+  {
+   "id": "nagrakata-changmari-tea-garden-canter-accident-three-workers-killed-november-23",
+   "category": "State & Local",
+   "sub": "West Bengal",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T20:31:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nagrakata-changmari-tea-garden-canter-accident-three-workers-killed-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagrakata-changmari-tea-garden-canter-accident-three-workers-killed-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagrakata-changmari-tea-garden-canter-accident-three-workers-killed-november-23-en.mp3",
+   "district": "Jalpaiguri",
+   "state": "West Bengal",
+   "hi": {
+    "title": "नागराकाटा में स्कूली बच्चों को ले जा रही कैंटर के ब्रेक फेल, 3 चाय श्रमिकों की मौत, 10 से 15 घायल",
+    "summary": "सोमवार दोपहर जलपाईगुड़ी जिले के नागराकाटा ब्लॉक में स्कूली बच्चों को घर ले जा रही एक कैंटर के ब्रेक फेल हो जाने से 3 चाय श्रमिकों की मौत हो गई और 10 से 15 लोग घायल हो गए, जिनमें ज्यादातर स्कूली बच्चे हैं।"
+   },
+   "en": {
+    "title": "Brakes fail on schoolchildren's canter in Nagrakata, 3 tea workers killed and 10 to 15 injured",
+    "summary": "3 tea garden workers were killed and 10 to 15 people, most of them schoolchildren, were injured in Nagrakata block of Jalpaiguri district on Monday afternoon when a canter carrying students home lost control after its brakes failed and rammed into a customs outpost office."
+   }
+  },
+  {
+   "id": "nvidia-reinstates-jensen-huang-ceo-trump-welcome-november-23",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-23T20:31:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-reinstates-jensen-huang-ceo-trump-welcome-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-reinstates-jensen-huang-ceo-trump-welcome-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-reinstates-jensen-huang-ceo-trump-welcome-november-23-en.mp3",
+   "hi": {
+    "title": "एनवीडिया ने जेन्सन हुआंग को 11 दिन बाद फिर सीईओ बनाया, शेयर 31% से अधिक चढ़े",
+    "summary": "एनवीडिया ने सोमवार को जेन्सन हुआंग को उनके इस्तीफ़े के महज़ 11 दिन बाद फिर से अध्यक्ष और मुख्य कार्यकारी अधिकारी बना दिया। बोर्ड के सर्वसम्मत फैसले के बाद कंपनी के शेयर प्री-मार्केट कारोबार में 31% से अधिक चढ़ गए और नैस्डैक 6% ऊपर गया।"
+   },
+   "en": {
+    "title": "Nvidia brings Jensen Huang back as CEO 11 days after his exit, shares surge more than 31%",
+    "summary": "Nvidia on Monday reinstated Jensen Huang as president and chief executive, just 11 days after he resigned, in a unanimous board vote that sent the company's shares up more than 31 percent in premarket trading and lifted the Nasdaq 6 percent."
+   }
+  },
   {
    "id": "dubey-alleges-indira-gandhi-spent-113-crore-1977-election-november-23",
    "category": "Politics",
@@ -184,7 +228,7 @@
    "category": "Crime & Law",
    "sub": "Police & Crime",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-23T19:02:02+05:30",
    "source": "PrimeFeed Desk",
@@ -3263,50 +3307,6 @@
    "en": {
     "title": "Scorpio carrying wedding party hits trailer in Patna, 4 killed",
     "summary": "A Scorpio carrying a wedding party home after a ceremony collided with a trailer truck in Patna district's Barh subdivision early on Sunday. Four people, including the groom's cousin, were killed and several others were injured."
-   }
-  },
-  {
-   "id": "nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22",
-   "category": "Politics",
-   "sub": "BJP",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T17:53:22+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nitin-nabin-hyderabad-rally-monday-vote-chori-sir-november-22-en.mp3",
-   "hi": {
-    "title": "नितिन नबीन सोमवार को हैदराबाद में भाजपा रैली की अगुवाई करेंगे, 'वोट चोरी' के आरोपों का जवाब देंगे",
-    "summary": "भाजपा अध्यक्ष नितिन नबीन सोमवार को हैदराबाद में एक रैली की अगुवाई करेंगे, जिसका मकसद मतदाता सूची के विशेष गहन पुनरीक्षण की आलोचना और विपक्ष के 'वोट चोरी' के आरोपों का जवाब देना है। केंद्रीय मंत्री बंदी संजय कुमार ने रविवार को इसकी घोषणा करते हुए रैली को 'ऐतिहासिक' बताया और भारी भीड़ जुटने की बात कही।"
-   },
-   "en": {
-    "title": "Nitin Nabin to lead BJP's Hyderabad rally on Monday to counter 'vote chori' charge",
-    "summary": "BJP president Nitin Nabin will lead a rally in Hyderabad on Monday to counter criticism of the Special Intensive Revision of electoral rolls and the opposition's 'vote chori' allegations, Union minister Bandi Sanjay Kumar announced on Sunday, calling the rally 'historic' and predicting a massive turnout."
-   }
-  },
-  {
-   "id": "rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T17:36:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtas-bhaluni-bhavani-temple-theft-2-5-kg-ornaments-stolen-november-22-en.mp3",
-   "district": "Rohtas",
-   "state": "Bihar",
-   "hi": {
-    "title": "रोहतास के भलुनी भवानी मंदिर में बड़ी चोरी, देवी के मुकुट समेत 2.5 किलो से ज्यादा सोने-चांदी के गहने गायब",
-    "summary": "रोहतास जिले के दिनारा स्थित भलुनी भवानी देवी मंदिर में 21 नवंबर की रात चोरों ने गर्भगृह का ताला तोड़कर देवी के मुकुट, पादुका और छतरी समेत 2.5 किलो से ज्यादा सोने-चांदी के गहने चुरा लिए। चोर सीसीटीवी का डीवीआर भी ले गए, जबकि मंदिर के पास पुलिस तैनात थी।"
-   },
-   "en": {
-    "title": "Over 2.5 kg of gold and silver ornaments stolen from Bhaluni Bhawani temple in Rohtas; CCTV DVR also taken",
-    "summary": "Thieves broke into the Bhaluni Bhawani Devi temple in Dinara, Rohtas district, on the night of November 21 and stole more than 2.5 kg of gold and silver ornaments from the goddess, including her crown, footwear and umbrella — and took away the CCTV DVR as well, in a theft carried out despite police posted nearby."
    }
   }
  ]
