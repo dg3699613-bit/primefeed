@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-23T11:51:21+05:30",
+ "updatedAt": "2026-11-23T12:01:38+05:30",
  "articles": [
+  {
+   "id": "arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T12:01:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23-en.mp3",
+   "district": "East Singhbhum",
+   "state": "Jharkhand",
+   "hi": {
+    "title": "झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की मां सायरा मुंडा का 91 साल की उम्र में निधन, आज जमशेदपुर में अंतिम संस्कार",
+    "summary": "झारखंड के पूर्व मुख्यमंत्री और पूर्व केंद्रीय मंत्री अर्जुन मुंडा की मां सायरा मुंडा का सोमवार तड़के जमशेदपुर में 91 साल की उम्र में निधन हो गया। वह लंबे समय से बीमार थीं। आज दोपहर 1 बजे घोड़ाबांधा स्थित आवास से अंतिम यात्रा निकलेगी और भुइयांडीह के स्वर्णरेखा घाट पर अंतिम संस्कार होगा।"
+   },
+   "en": {
+    "title": "Former Jharkhand CM Arjun Munda's mother Saira Munda dies at 91; last rites in Jamshedpur today",
+    "summary": "Saira Munda, 91, the mother of former Jharkhand chief minister and former Union minister Arjun Munda, died in Jamshedpur early on Monday after a prolonged illness. Her last rites will be held at the Swarnarekha ghat in Bhuiyadih on Monday afternoon."
+   }
+  },
   {
    "id": "india-factory-pmi-nine-month-high-november-23",
    "category": "Business",
@@ -3288,27 +3311,6 @@
    "en": {
     "title": "Eight rescued as fire rages for five hours in Mumbai Central building; fire officer injured",
     "summary": "Eight people, including two children and an elderly woman, were rescued from Hira Manzil, a residential building on Gildar Lane in Mumbai Central, after a fire broke out in a second-floor room shortly after midnight on Sunday. The blaze took firefighters nearly five hours to extinguish; a senior fire officer was injured, and a petrol pump next to the building complicated the operation."
-   }
-  },
-  {
-   "id": "rajasthan-panchayat-repoll-28-booths-11-districts-november-22",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T09:45:18+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-panchayat-repoll-28-booths-11-districts-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-repoll-28-booths-11-districts-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-panchayat-repoll-28-booths-11-districts-november-22-en.mp3",
-   "hi": {
-    "title": "राजस्थान में पंचायत चुनाव: ईवीएम न खुलने पर 11 जिलों के 28 बूथों पर आज दोबारा मतदान",
-    "summary": "राजस्थान में पंचायती राज चुनाव की मतगणना के दौरान 28 बूथों की ईवीएम खुल नहीं पाईं, जिसके बाद राज्य निर्वाचन आयोग ने आज 22 नवंबर को उन बूथों पर दोबारा मतदान का आदेश दिया है। 22 पंचायत समिति वार्डों और 6 जिला परिषद वार्डों के नतीजे रोके गए थे; मतदान के बाद रात 9 बजे से मतगणना होगी।"
-   },
-   "en": {
-    "title": "Rajasthan panchayat repoll today at 28 booths in 11 districts after EVMs fail to open",
-    "summary": "The Rajasthan State Election Commission has ordered repolling at 28 polling booths in 11 districts on Sunday, November 22, after electronic voting machines at these booths could not be opened during counting on Friday. Results of 22 panchayat samiti wards and 6 zila parishad wards were withheld; counting will be held at 9 pm after polling ends."
    }
   }
  ]
