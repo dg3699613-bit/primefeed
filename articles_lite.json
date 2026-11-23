@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T03:49:55+05:30",
+ "updatedAt": "2026-11-24T04:09:35+05:30",
  "articles": [
+  {
+   "id": "chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "district": "Chandauli",
+   "state": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23-en.mp3",
+   "publishedAt": "2026-11-24T04:09:35+05:30",
+   "hi": {
+    "title": "चंदौली में बीजेपी विधायक सुशील सिंह के काफिले में घुसी तेज रफ्तार स्कॉर्पियो, 2 फॉर्च्यूनर क्षतिग्रस्त; विधायक बोले- हरकत संदिग्ध, पुलिस में शिकायत करूँगा",
+    "summary": "सोमवार रात चंदौली में तेज रफ्तार स्कॉर्पियो बीजेपी विधायक सुशील सिंह के काफिले में घुस गई। फुटिया और जगदीशसराय के पास 2 फॉर्च्यूनर गाड़ियाँ क्षतिग्रस्त हो गईं, स्कॉर्पियो सवार युवक गंभीर रूप से घायल हुआ। विधायक सुरक्षित हैं और उन्होंने घटना को संदिग्ध बताते हुए पुलिस में शिकायत की बात कही है।"
+   },
+   "en": {
+    "title": "Speeding Scorpio rams into BJP MLA Sushil Singh's convoy in Chandauli, damages 2 Fortuners; MLA calls it suspicious, to file police complaint",
+    "summary": "A speeding Scorpio drove into BJP MLA Sushil Singh's convoy in Chandauli on Monday night, damaging two Fortuner cars near Futia and Jagdishsarai. A young man in the Scorpio was seriously injured. The MLA escaped unhurt and has called the incident suspicious, saying he will file a police complaint."
+   }
+  },
+  {
+   "id": "delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26",
+   "category": "Weather",
+   "sub": "IMD Alerts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26-en.mp3",
+   "publishedAt": "2026-11-24T04:09:35+05:30",
+   "hi": {
+    "title": "दिल्ली की हवा फिर बिगड़ी: एक्यूआई 260 पर पहुँचा, 4 केंद्रों पर सतही ओजोन 100 के पार; 26 नवंबर तक 'बहुत खराब' होने का अनुमान",
+    "summary": "दिल्ली का औसत एक्यूआई सोमवार को 260 पर पहुँच गया, जो रविवार के 239 से 21 अंक ज़्यादा है। 4 केंद्रों पर सतही ओजोन 100 माइक्रोग्राम प्रति घन मीटर के पार चला गया, और 26 नवंबर तक हवा 'बहुत खराब' होने का अनुमान है।"
+   },
+   "en": {
+    "title": "Delhi air worsens again: AQI climbs to 260, surface ozone crosses 100 at 4 stations; 'very poor' likely by November 26",
+    "summary": "Delhi's average AQI climbed to 260 on Monday, up 21 points from 239 on Sunday. Surface ozone crossed 100 micrograms per cubic metre at four monitoring stations, and the air is forecast to turn 'very poor' by November 26."
+   }
+  },
   {
    "id": "trump-orders-army-pause-iowa-lead-azide-detonation-november-23",
    "category": "World",
@@ -3265,48 +3309,6 @@
    "en": {
     "title": "Alcaraz beats world No. 1 Zverev to win first ATP Finals title in Turin",
     "summary": "Carlos Alcaraz beat world No. 1 Alexander Zverev 6-2, 7-6(7) in Turin on Sunday to win his first ATP Finals title, saving three set points in the second-set tiebreak. The 23-year-old Spaniard ended the year on a 14-match winning streak and became only the fourth man to win all four Grand Slams and the season-ending title."
-   }
-  },
-  {
-   "id": "india-oil-gas-import-bill-jumps-60-percent-october-16-billion",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T04:23:04+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-oil-gas-import-bill-jumps-60-percent-october-16-billion.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-oil-gas-import-bill-jumps-60-percent-october-16-billion-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-oil-gas-import-bill-jumps-60-percent-october-16-billion-en.mp3",
-   "hi": {
-    "title": "भारत का तेल-गैस आयात बिल अक्टूबर में 60% बढ़कर 16 अरब डॉलर हुआ, ब्रेंट लगभग दोगुना",
-    "summary": "पेट्रोलियम नियोजन एवं विश्लेषण प्रकोष्ठ (पीपीएसी) के आंकड़ों के अनुसार, भारत का तेल और गैस आयात बिल अक्टूबर में सालाना आधार पर 60% बढ़कर 16 अरब डॉलर हो गया। ब्रेंट क्रूड का औसत भाव 124.77 डॉलर प्रति बैरल रहा, जो एक साल पहले से लगभग दोगुना है। पश्चिम एशिया के संघर्ष और होर्मुज़ जलडमरूमध्य से आपूर्ति में बाधा के बीच एलपीजी की खपत में तेज़ गिरावट आई।"
-   },
-   "en": {
-    "title": "India's oil and gas import bill jumps 60% to $16 billion in October as Brent nearly doubles",
-    "summary": "India's net oil and gas import bill rose 60 per cent year-on-year to $16 billion in October, PPAC data showed, as Brent crude averaged $124.77 a barrel, nearly double a year earlier, amid the West Asia conflict and disruptions to shipments through the Strait of Hormuz. LPG use fell sharply as prices stayed high."
-   }
-  },
-  {
-   "id": "rahul-gandhi-israel-remarks-india-bloc-rift-clarification-november-23",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T03:53:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-israel-remarks-india-bloc-rift-clarification-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-israel-remarks-india-bloc-rift-clarification-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-israel-remarks-india-bloc-rift-clarification-november-23-en.mp3",
-   "hi": {
-    "title": "इज़रायल पर राहुल गांधी के बयान से INDIA गठबंधन में दरार, अब तुषार गांधी बोले- बात को गलत पेश किया गया",
-    "summary": "शिकागो में 18 नवंबर को राहुल गांधी ने कहा था कि भारत को इज़रायल से मज़बूत रणनीतिक रिश्ते रखने चाहिए। इस पर INDIA गठबंधन के सहयोगियों ने उन्हें घेरा, पिनराई विजयन ने इसे कांग्रेस का 'पाखंड' कहा। अब महात्मा गांधी के परपोते तुषार गांधी ने कहा है कि राहुल ने उनसे बातचीत में बताया कि उनके बयान को गलत तरीके से पेश किया गया है।"
-   },
-   "en": {
-    "title": "Rahul Gandhi's Israel remarks split INDIA bloc allies; Tushar Gandhi says his words were misrepresented",
-    "summary": "Rahul Gandhi's backing of strong strategic ties with Israel, voiced at the University of Chicago on 18 November, has drawn sharp criticism from INDIA bloc allies Pinarayi Vijayan and Dipankar Bhattacharya — and sits uneasily with the harder line taken by Sonia and Priyanka Gandhi. Now Mahatma Gandhi's great-grandson Tushar Gandhi says Rahul told him his remarks were being misrepresented, and has asked him to meet the Palestinian ambassador in Delhi."
    }
   }
  ]
