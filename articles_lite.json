@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T05:14:35+05:30",
+ "updatedAt": "2026-11-23T05:39:42+05:30",
  "articles": [
+  {
+   "id": "asi-saves-man-slipping-between-moving-train-and-platform-akola-november-22",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T05:39:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/asi-saves-man-slipping-between-moving-train-and-platform-akola-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asi-saves-man-slipping-between-moving-train-and-platform-akola-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asi-saves-man-slipping-between-moving-train-and-platform-akola-november-22-en.mp3",
+   "district": "Akola",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "अकोला स्टेशन पर चलती ट्रेन और प्लेटफॉर्म के बीच फंसे युवक को ASI ने खींचकर बचाया",
+    "summary": "अकोला रेलवे स्टेशन पर रविवार रात करीब 9:30 बजे चलती विदर्भ एक्सप्रेस से उतरते समय एक 24 साल का युवक ट्रेन और प्लेटफॉर्म के बीच फंस गया। ड्यूटी पर तैनात रेलवे पुलिस के ASI राजेश नागरे ने दौड़कर उसे ट्रेन के नीचे जाने से पहले बाहर खींच लिया।"
+   },
+   "en": {
+    "title": "ASI pulls man to safety as he slips between moving train and platform at Akola station",
+    "summary": "A 24-year-old man trying to step off the moving Vidarbha Express at Akola station on Sunday night slipped into the gap between the train and the platform while on a video call. Railway police ASI Rajesh Nagre pulled him out seconds before he could go under the train."
+   }
+  },
+  {
+   "id": "five-acres-sugarcane-crop-burnt-beed-farmer-injured-november-22",
+   "category": "Agriculture",
+   "sub": "Crops",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T05:39:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/five-acres-sugarcane-crop-burnt-beed-farmer-injured-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-acres-sugarcane-crop-burnt-beed-farmer-injured-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-acres-sugarcane-crop-burnt-beed-farmer-injured-november-22-en.mp3",
+   "district": "Beed",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "बीड में बिजली के तारों की चिंगारी से 5 एकड़ गन्ना जलकर राख, बचाने गए किसान झुलसे",
+    "summary": "बीड ज़िले के केज तालुका के सातेफळ गाँव में रविवार को खेत के ऊपर से गुज़र रही बिजली की तारों की चिंगारी से 5 एकड़ में खड़ा गन्ना जलकर राख हो गया। आग बुझाने की कोशिश में किसान संजीवन कांदे झुलस गए, जिनके हाथ में गंभीर चोट आई है।"
+   },
+   "en": {
+    "title": "Five acres of sugarcane burn to ashes in Beed as sparking wires set field ablaze; farmer injured",
+    "summary": "Sparks from overhead electric wires set fire to five acres of standing sugarcane at Satephal village in Kej taluka of Beed district on Sunday, reducing the ready crop to ashes. Farmer Sanjeevan Kande suffered serious burns on his hand while trying to douse the flames."
+   }
+  },
   {
    "id": "crocodile-strays-into-cuddalore-home-bites-man-captured-november-22",
    "category": "State & Local",
@@ -3265,50 +3311,6 @@
    "en": {
     "title": "Sonia Gandhi's childhood home in Italy to become a museum; owner seeks Gandhi family's help for memorabilia",
     "summary": "The six-room house in Italy where Congress leader Sonia Gandhi spent her childhood is set to become a museum, its owner has announced. Sukhdev Singh Kang, a Punjab-origin Sikh businessman who bought the Lusiana house in 2020, wants to meet Sonia Gandhi and her children, Rahul and Priyanka Gandhi Vadra, to seek photographs and personal belongings for display. The house, known locally as 'Indian House', carries a signboard marking it as her birthplace."
-   }
-  },
-  {
-   "id": "kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T01:52:21+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kochi-asi-suspended-sabarimala-pilgrim-driver-nilakkal-november-21-en.mp3",
-   "district": "Pathanamthitta",
-   "state": "Kerala",
-   "hi": {
-    "title": "सबरीमला के नीलक्कल में चालक को थप्पड़ मारने के आरोप में एएसआई निलंबित, वीडियो वायरल",
-    "summary": "सबरीमला के नीलक्कल बेस कैंप में श्रद्धालुओं को लेकर आए एक चालक को थप्पड़ मारने के आरोप में केरल पुलिस के एक सहायक उप निरीक्षक को शनिवार को निलंबित कर दिया गया। झगड़े का वीडियो वायरल होने के बाद यह कार्रवाई हुई। कोच्चि के कलमस्सेरी सशस्त्र रिज़र्व कैंप से जुड़े एएसआई जीजो सबरीमला ड्यूटी पर तैनात थे, और घटना शनिवार तड़के करीब चार बजकर बीस मिनट पर पार्किंग को लेकर हुई। एडीजीपी पी विजयन ने जाँच का आदेश दिया और एर्नाकुलम ग्रामीण पुलिस अधीक्षक ने निलंबन का आदेश जारी किया।"
-   },
-   "en": {
-    "title": "Kerala ASI suspended for allegedly slapping Sabarimala pilgrim driver at Nilakkal; video goes viral",
-    "summary": "An assistant sub-inspector of the Kerala Police was suspended on Saturday for allegedly slapping a driver ferrying Sabarimala pilgrims at Nilakkal, after a video of the altercation went viral. ASI Jijo, attached to the Armed Reserve camp at Kalamassery in Kochi, was on special Sabarimala duty when the incident took place around 4.20 am over parking arrangements. ADGP P. Vijayan ordered a formal inquiry and the Ernakulam Rural Superintendent of Police issued the suspension order."
-   }
-  },
-  {
-   "id": "diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21",
-   "category": "Entertainment",
-   "sub": "Music",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T01:52:21+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-ahmedabad-concert-double-standard-coldplay-november-21-en.mp3",
-   "hi": {
-    "title": "अहमदाबाद में दिलजीत का पलटवार: कोल्डप्ले गाए तो कोई दिक्कत नहीं, मैं गाऊँ तो डबल स्टैंडर्ड क्यों?",
-    "summary": "दिलजीत दोसांझ ने शनिवार को अहमदाबाद के नरेंद्र मोदी स्टेडियम में अपने कॉन्सर्ट को अपने आलोचकों को सीधा जवाब देने का मंच बना लिया। दुनिया के सबसे बड़े क्रिकेट स्टेडियम में खचाखच भरी भीड़ के सामने उन्होंने पूछा कि वही गाने जब विदेशी कलाकार गाते हैं तो किसी को दिक्कत नहीं होती, लेकिन जब वह गाते हैं तो शिकायतें क्यों होने लगती हैं। उन्होंने कोल्डप्ले का उदाहरण देते हुए कहा कि जब वह यहाँ आकर आई एम फ़ीलिंग ड्रंक ऐंड हाई गाता है तो किसी को दिक्कत नहीं होती।"
-   },
-   "en": {
-    "title": "Diljit Dosanjh hits back in Ahmedabad: if Coldplay can sing 'drunk and high', why the double standard for me?",
-    "summary": "Diljit Dosanjh turned his concert at Ahmedabad's Narendra Modi Stadium on Saturday into a direct answer to his critics, questioning why the same songs draw no objection from foreign artists but invite complaints when he sings them. Recalling Coldplay's performance at the same venue last year, he asked why 'I am feeling drunk and high' raised no objection, and said he was born in India, not Honolulu. The remarks came after weeks of objections to his concerts, including a complaint seeking restrictions on four of his songs."
    }
   }
  ]
