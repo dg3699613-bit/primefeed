@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-23T12:53:34+05:30",
+ "updatedAt": "2026-11-23T13:08:12+05:30",
  "articles": [
+  {
+   "id": "sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23",
+   "category": "Business",
+   "sub": "Share Market",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-23T13:08:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23-en.mp3",
+   "hi": {
+    "title": "सेंसेक्स दिन के ऊपरी स्तर से 1,600 अंक टूटा, सोमवार की बिकवाली में निवेशकों को 3 लाख करोड़ रुपये से ज्यादा का नुकसान",
+    "summary": "भारतीय शेयर बाजार सोमवार को मजबूत शुरुआत के बाद दोपहर तक तेजी से गिर गया। सेंसेक्स 1,000 अंक गिरकर 82,942 पर आ गया, जबकि निफ्टी 25,600 के नीचे फिसल गया। मुनाफावसूली, वैश्विक एआई शेयरों में बिकवाली और डेरिवेटिव एक्सपायरी की वजह से निवेशकों को 3 लाख करोड़ रुपये से ज्यादा का नुकसान हुआ।"
+   },
+   "en": {
+    "title": "Sensex tumbles 1,600 points from day's high as investors lose over ₹3 lakh crore in Monday sell-off",
+    "summary": "Indian markets gave up a strong opening on Monday, with the Sensex falling 1,000 points by midday and the Nifty slipping below 25,600. Investors lost over ₹3 lakh crore as profit booking, a global AI-led selloff and monthly derivatives expiry combined to drag banking and metal stocks down."
+   }
+  },
+  {
+   "id": "hormuz-attacks-highest-level-since-iran-war-began-november-23",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T13:08:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hormuz-attacks-highest-level-since-iran-war-began-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hormuz-attacks-highest-level-since-iran-war-began-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hormuz-attacks-highest-level-since-iran-war-began-november-23-en.mp3",
+   "hi": {
+    "title": "होर्मुज जलडमरूमध्य में जहाजों पर हमले ईरान युद्ध शुरू होने के बाद सबसे ऊँचे स्तर पर, समुद्री आँकड़े बताते हैं",
+    "summary": "होर्मुज जलडमरूमध्य और उसके आसपास जहाजों पर हमले फरवरी में अमेरिका-इजरायल-ईरान युद्ध शुरू होने के बाद सबसे ऊँचे स्तर पर पहुँच गए हैं। अक्टूबर में 30 से ज्यादा और नवंबर में अब तक कम से कम 22 हमले दर्ज हुए हैं। बीते शुक्रवार-शनिवार को तीन टैंकरों पर हमला हुआ।"
+   },
+   "en": {
+    "title": "Attacks on shipping in Strait of Hormuz at highest level since Iran war began, maritime data shows",
+    "summary": "Reported attacks on ships in and around the Strait of Hormuz have climbed to their highest level since the US-Israel war on Iran began in February, with more than 30 incidents in October and at least 22 so far in November. Three tankers were struck over the weekend, as Tehran steps up its campaign against shipping in the vital waterway."
+   }
+  },
   {
    "id": "kerala-hc-quashes-suspension-16-ssus-kalady-students-november-23",
    "category": "Crime & Law",
@@ -406,7 +448,7 @@
    "category": "Cricket & Sports",
    "sub": "Cricket",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-23T10:35:21+05:30",
    "source": "PrimeFeed Desk",
@@ -3269,50 +3311,6 @@
    "en": {
     "title": "118 children and 12 adults hospitalised after eating chowmein at a village fair in Madhya Pradesh's Balaghat; all stable",
     "summary": "More than 100 children and 12 adults were hospitalised with suspected food poisoning after eating chowmein at a village fair in Madhya Pradesh's Balaghat district on Saturday evening. Officials said 45 children and 12 adults remain admitted at the district hospital and all patients are stable."
-   }
-  },
-  {
-   "id": "india-vs-new-zealand-day-4-stumps-conway-59-nz-119-2-wellington-november-22",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T11:35:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-vs-new-zealand-day-4-stumps-conway-59-nz-119-2-wellington-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-vs-new-zealand-day-4-stumps-conway-59-nz-119-2-wellington-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-vs-new-zealand-day-4-stumps-conway-59-nz-119-2-wellington-november-22-en.mp3",
-   "hi": {
-    "title": "वेलिंग्टन टेस्ट: चौथे दिन न्यूज़ीलैंड 119/2, कॉनवे 59 पर नाबाद; भारत को आखिरी दिन 8 विकेट चाहिए",
-    "summary": "डेवन कॉनवे की नाबाद 59 रन की पारी की बदौलत न्यूज़ीलैंड ने वेलिंग्टन में पहले टेस्ट के चौथे दिन का खेल खत्म होने तक 119/2 का स्कोर बना लिया है। भारत ने 720/9 पर पारी घोषित की थी, जो न्यूज़ीलैंड की धरती पर किसी भी टीम का सबसे बड़ा टेस्ट स्कोर है। मेज़बान टीम अब भी 233 रन पीछे है और मैच बचाने के लिए उसे आखिरी दिन पूरा खेलना होगा।"
-   },
-   "en": {
-    "title": "New Zealand 119/2 at stumps on Day 4 as Conway's unbeaten 59 holds India off; eight wickets needed on final day",
-    "summary": "Devon Conway's unbeaten 59 carried New Zealand to 119 for 2 at stumps on the fourth day of the first Test in Wellington, after India had declared on a record 720 for 9. The hosts still trail by 233 runs and must bat out the final day to save the match."
-   }
-  },
-  {
-   "id": "junagadh-keshod-car-fire-three-burnt-alive-woman-survives-november-22",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-22T11:10:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/junagadh-keshod-car-fire-three-burnt-alive-woman-survives-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/junagadh-keshod-car-fire-three-burnt-alive-woman-survives-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/junagadh-keshod-car-fire-three-burnt-alive-woman-survives-november-22-en.mp3",
-   "district": "Junagadh",
-   "state": "Gujarat",
-   "hi": {
-    "title": "गुजरात के जूनागढ़ में तेज़ रफ़्तार कार पलटी, आग लगी, 3 लोग ज़िंदा जले; खिड़की से बाहर गिरी महिला बच गई",
-    "summary": "गुजरात के जूनागढ़ जिले में केशोद-बालागाम रोड पर रविवार सुबह तेज़ रफ़्तार कार पलटकर आग की चपेट में आ गई, जिसमें 3 लोगों की ज़िंदा जलकर मौत हो गई। उसी कार में सवार एक महिला कार से बाहर गिरकर बच गई और केशोद सरकारी अस्पताल में उसका इलाज चल रहा है।"
-   },
-   "en": {
-    "title": "Three burnt alive as speeding car overturns and catches fire in Gujarat's Junagadh; woman thrown clear survives",
-    "summary": "Three people were burnt alive after the car they were travelling in overturned and caught fire on the Keshod-Balagam road in Gujarat's Junagadh district early on Sunday. A young woman in the same car survived after being flung out of the vehicle and is undergoing treatment at Keshod Government Hospital."
    }
   }
  ]
