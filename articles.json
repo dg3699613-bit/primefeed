@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-23T15:35:09+05:30",
+ "updatedAt": "2026-11-23T15:44:46+05:30",
  "articles": [
+  {
+   "id": "leopard-attack-four-injured-dibrugarh-november-23",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T15:44:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/leopard-attack-four-injured-dibrugarh-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-attack-four-injured-dibrugarh-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-attack-four-injured-dibrugarh-november-23-en.mp3",
+   "en": {
+    "title": "Leopard attack in Dibrugarh injures 4 as animal tears through net; villagers kill it after failed rescue",
+    "summary": "Four people were injured in a leopard attack at Lezai Dewanbari village in Assam's Dibrugarh district after the animal tore through a net during a Forest Department rescue attempt. Villagers later killed the leopard; questions are being raised over the department's preparedness.",
+    "body": "Dibrugarh: Four people were injured in a leopard attack in Assam's Dibrugarh district after the animal tore through a net during a rescue attempt, and was then killed by local residents.\n\nVillagers say the animal had been straying into inhabited areas for days and had been killing livestock, leaving families afraid to step out after dark. When the leopard was spotted near paddy fields at Lezai Dewanbari village in the morning, residents alerted the Forest Department.\n\nForest personnel reached the village to capture the animal, but according to reports they arrived with limited equipment, reportedly only a net, and had to rely on local residents to carry out the operation. During the attempt, the leopard broke free from the net and attacked four people. The injured were rushed to hospital for treatment.\n\nAfter the attack, villagers killed the leopard. The incident has left the village tense, with questions being raised over the Forest Department's preparedness and the lack of adequate equipment during the rescue.\n\nPhoto: NE Now"
+   },
+   "hi": {
+    "title": "डिब्रूगढ़ में तेंदुए का हमला, जाल तोड़कर 4 लोगों को घायल किया; ग्रामीणों ने जानवर को मार डाला",
+    "summary": "असम के डिब्रूगढ़ जिले के लेज़ाई दीवानबारी गाँव में तेंदुए के हमले में 4 लोग घायल हो गए। वन विभाग की टीम बचाव के दौरान सिर्फ एक जाल लेकर पहुँची थी, तेंदुआ जाल तोड़कर बाहर आ गया; बाद में ग्रामीणों ने जानवर को मार डाला।",
+    "body": "डिब्रूगढ़: असम के डिब्रूगढ़ जिले के लेज़ाई दीवानबारी गाँव में तेंदुए के हमले में 4 लोग घायल हो गए। तेंदुआ गाँव में दिखा तो ग्रामीणों ने वन विभाग को सूचना दी, लेकिन बचाव अभियान के दौरान जानवर जाल तोड़कर बाहर निकल आया और लोगों पर हमला कर दिया। इसके बाद ग्रामीणों ने तेंदुए को मार डाला।\n\nगाँव में तेंदुआ दिखने के बाद से ही लोग दहशत में थे। ग्रामीणों का कहना है कि कई दिनों से तेंदुआ आबादी वाले इलाके के आसपास घूम रहा था और मवेशियों को निशाना बना रहा था। सुबह जब जानवर धान के खेतों के पास दिखा, तो ग्रामीणों ने वन विभाग को बुलाया।\n\nवन विभाग की टीम मौके पर पहुँची, लेकिन रिपोर्टों के मुताबिक टीम के पास सिर्फ एक छोटा जाल था और बचाव अभियान में स्थानीय लोगों की मदद लेनी पड़ी। जाल में फँसाने की कोशिश के दौरान तेंदुआ जाल तोड़कर बाहर आ गया और 4 लोगों पर हमला कर दिया। घायलों को इलाज के लिए अस्पताल भेजा गया है।\n\nहमले के बाद ग्रामीणों ने तेंदुए को मार डाला। घटना के बाद गाँव में तनाव है और वन विभाग की तैयारी पर सवाल उठ रहे हैं, लोगों का कहना है कि टीम बिना पर्याप्त उपकरणों के आई थी।\n\nफ़ोटो साभार: एनई नाउ"
+   },
+   "district": "Dibrugarh",
+   "state": "Assam"
+  },
+  {
+   "id": "supreme-court-west-bengal-sir-priority-hearing-deleted-voters-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T15:44:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-west-bengal-sir-priority-hearing-deleted-voters-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-west-bengal-sir-priority-hearing-deleted-voters-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-west-bengal-sir-priority-hearing-deleted-voters-november-23-en.mp3",
+   "en": {
+    "title": "West Bengal SIR: Supreme Court orders deleted voters' appeals heard first; tribunals to be strengthened",
+    "summary": "The Supreme Court has directed appellate tribunals in the West Bengal SIR matter to first hear appeals by voters whose names were deleted from the rolls, while appeals seeking exclusion of voters can be deferred for now. The tribunals will be strengthened, and appeals from Kolkata Municipal Corporation constituencies get priority.",
+    "body": "New Delhi: Voters whose names were deleted from West Bengal's electoral rolls during the Special Intensive Revision (SIR) got significant relief from the Supreme Court on Monday, with the court directing appellate tribunals to hear their appeals first.\n\nA bench of Chief Justice of India Surya Kant, Justice Joymalya Bagchi and Justice V Mohana said the appeals filed by the Chief Electoral Officer seeking the exclusion of voters need not be heard for the time being. The court said the first group of appeals consists of those filed by voters who were excluded and whose names were deleted from the rolls, while the second group comprises appeals by people aggrieved by the inclusion of certain voters, and the second set involves no urgency for now.\n\nThe court also directed the Election Commission of India, in consultation with the Chief Justice of the Calcutta High Court, to increase the strength of the tribunals so that the appeals can be decided faster. In view of the upcoming municipal elections, the court said appeals concerning constituencies within the Kolkata Municipal Corporation should be prioritised.\n\nThe court was informed during the hearing that 38.31 lakh appeals have been filed before the appellate tribunals. Of these, 22.21 lakh seek the restoration of deleted names, while 16.10 lakh challenge the inclusion of names in the rolls. In March this year, the Supreme Court had directed the constitution of 19 appellate tribunals to hear appeals arising from the revision of the electoral rolls.\n\nPhoto: Bar and Bench"
+   },
+   "hi": {
+    "title": "बंगाल एसआईआर: सुप्रीम कोर्ट का बड़ा निर्देश, हटाए गए मतदाताओं की अपीलों की सुनवाई पहले; ट्रिब्यूनल बढ़ेंगे",
+    "summary": "सुप्रीम कोर्ट ने पश्चिम बंगाल एसआईआर मामले में निर्देश दिया कि ट्रिब्यूनल पहले हटाए गए मतदाताओं के नाम बहाल करने वाली अपीलों की सुनवाई करें; नाम हटाने की अपीलें फिलहाल टाली जा सकती हैं। ट्रिब्यूनलों की संख्या बढ़ाई जाएगी और कोलकाता नगर निगम क्षेत्र की अपीलों को प्राथमिकता मिलेगी।",
+    "body": "नई दिल्ली: पश्चिम बंगाल में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) के बाद हटाए गए मतदाताओं को सुप्रीम कोर्ट से बड़ी राहत मिली है। कोर्ट ने सोमवार को निर्देश दिया कि अपीलीय ट्रिब्यूनल पहले उन अपीलों की सुनवाई करें, जिनमें मतदाताओं ने अपना नाम सूची से हटाए जाने को चुनौती दी है।\n\nमुख्य न्यायाधीश सूर्य कांत, न्यायमूर्ति जोयमाल्या बागची और न्यायमूर्ति वी. मोहना की पीठ ने कहा कि मुख्य निर्वाचन अधिकारी की ओर से मतदाताओं को सूची से हटाने के लिए दायर अपीलों की सुनवाई फिलहाल ज़रूरी नहीं है, इसलिए उन्हें अभी टाला जा सकता है। पीठ ने कहा कि पहली श्रेणी में वे अपीलें आती हैं, जिनमें हटाए गए मतदाताओं ने नाम बहाल करने की माँग की है, जबकि दूसरी श्रेणी में वे अपीलें हैं, जिनमें किसी मतदाता का नाम शामिल किए जाने पर आपत्ति जताई गई है।\n\nकोर्ट ने चुनाव आयोग को निर्देश दिया कि वह कलकत्ता हाईकोर्ट के मुख्य न्यायाधीश से सलाह करके ट्रिब्यूनलों की संख्या बढ़ाए, ताकि अपीलों का निपटारा तेज़ी से हो सके। आगामी नगर निगम चुनावों को देखते हुए कोर्ट ने यह भी कहा कि कोलकाता नगर निगम क्षेत्र के निर्वाचन क्षेत्रों से जुड़ी अपीलों को प्राथमिकता दी जाए।\n\nसुनवाई के दौरान कोर्ट को बताया गया कि ट्रिब्यूनलों के सामने कुल 38.31 लाख अपीलें दाखिल हुई हैं, जिनमें से 22.21 लाख अपीलें हटाए गए नामों को बहाल करने की माँग करती हैं, जबकि 16.10 लाख अपीलों में नाम शामिल किए जाने को चुनौती दी गई है। इस साल मार्च में सुप्रीम कोर्ट ने एसआईआर से जुड़ी अपीलों की सुनवाई के लिए 19 अपीलीय ट्रिब्यूनलों के गठन का निर्देश दिया था।\n\nफ़ोटो साभार: बार एंड बेंच"
+   }
+  },
   {
    "id": "bsf-constable-k-venu-missing-barak-river-cachar-november-23",
    "category": "Crime & Law",
