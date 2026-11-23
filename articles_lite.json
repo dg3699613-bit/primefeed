@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-24T00:19:11+05:30",
+ "updatedAt": "2026-11-24T00:38:50+05:30",
  "articles": [
+  {
+   "id": "chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T00:38:50+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack-en.mp3",
+   "hi": {
+    "title": "पहलगाम हमले से पहले चीनी सैटेलाइट्स ने कीं 37 असामान्य हरकतें, दिगंतरा की रिपोर्ट में खुलासा",
+    "summary": "बेंगलुरु की अंतरिक्ष निगरानी कंपनी दिगंतरा की रिपोर्ट के मुताबिक, चीन के पृथ्वी अवलोकन उपग्रहों ने 15 अप्रैल से 30 अप्रैल 2025 के बीच पहलगाम के ऊपर 37 असामान्य कक्षीय हरकतें कीं। याओगान-35 01ए ने हमले से 6 दिन पहले अपनी कक्षा बदलकर पहलगाम के ऊपर से गुज़रना दोगुना कर दिया था, लेकिन रिपोर्ट में इन हरकतों का हमले से कोई सीधा संबंध साबित नहीं हुआ है।"
+   },
+   "en": {
+    "title": "Chinese satellites made 37 unusual manoeuvres over Pahalgam before 2025 terror attack, finds Digantara report",
+    "summary": "Chinese Earth-observation satellites made 37 unusual orbital manoeuvres over Pahalgam between April 15 and April 30, 2025, according to a space surveillance analysis by Bengaluru-based startup Digantara. The Yaogan-35 01A satellite doubled its passes over the area 6 days before the April 22, 2025 attack, but the report establishes no direct link between the manoeuvres and the attack."
+   }
+  },
   {
    "id": "ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23",
    "category": "Crime & Law",
@@ -3284,29 +3305,6 @@
    "en": {
     "title": "Bhopal: CM Mohan Yadav inaugurates first phase of 1,000-crore International Sports Complex",
     "summary": "Bhopal: Madhya Pradesh Chief Minister Mohan Yadav on Sunday inaugurated the first phase of the International Sports Complex at Nathu Barkheda in Bhopal, built at a cost of 1,000 crore rupees. The venue is hosting the Women's Asian Champions Trophy 2026."
-   }
-  },
-  {
-   "id": "bilaspur-suicide-abetment-girlfriend-arrested-koni-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T23:05:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bilaspur-suicide-abetment-girlfriend-arrested-koni-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-suicide-abetment-girlfriend-arrested-koni-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-suicide-abetment-girlfriend-arrested-koni-november-22-en.mp3",
-   "district": "Bilaspur",
-   "state": "Chhattisgarh",
-   "hi": {
-    "title": "बिलासपुर: युवक को आत्महत्या के लिए उकसाने के आरोप में प्रेमिका गिरफ्तार; 10 महीने पुराना मामला",
-    "summary": "बिलासपुर: कोनी थाना क्षेत्र में युवक को आत्महत्या के लिए उकसाने के आरोप में पुलिस ने 21 साल की युवती को गिरफ्तार कर लिया है। जनवरी में होटल के कमरे में विवाद के बाद युवक ने खुद को आग लगा ली थी और इलाज के दौरान उसकी मौत हो गई थी।"
-   },
-   "en": {
-    "title": "Bilaspur: Woman arrested for allegedly abetting youth's suicide in 10-month-old hotel room case",
-    "summary": "Bilaspur: Police have arrested a 21-year-old woman for allegedly abetting a young man's suicide in the Koni police station area. The youth had set himself on fire in a hotel room in January after an argument, and died during treatment."
    }
   }
  ]
