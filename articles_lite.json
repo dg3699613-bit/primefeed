@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-23T07:06:14+05:30",
+ "updatedAt": "2026-11-23T07:25:56+05:30",
  "articles": [
+  {
+   "id": "netanyahu-eisenkot-unity-talks-end-without-deal-november-22",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T07:25:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/netanyahu-eisenkot-unity-talks-end-without-deal-november-22.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-eisenkot-unity-talks-end-without-deal-november-22-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-eisenkot-unity-talks-end-without-deal-november-22-en.mp3",
+   "hi": {
+    "title": "नेतन्याहू-आइज़ेनकोट एकता वार्ता बिना समझौते खत्म, इज़रायल में सरकार का गतिरोध गहराया",
+    "summary": "इज़रायल में एकता सरकार बनाने को लेकर कार्यवाहक प्रधानमंत्री बेंजामिन नेतन्याहू और गाडी आइज़ेनकोट की पार्टियों के बीच रविवार को हुई बातचीत बिना किसी समझौते के खत्म हो गई। दोनों पक्ष इस बात पर बंटे हुए हैं कि अगली सरकार का नेतृत्व कौन करेगा और क्या धुर-दक्षिणपंथी मंत्री इतमार बेन-ग्विर सरकार में शामिल होंगे। आइज़ेनकोट के पास सरकार बनाने के लिए 6 दिसंबर तक का समय है।"
+   },
+   "en": {
+    "title": "Netanyahu-Eisenkot unity talks end without a deal as Israel's government deadlock deepens",
+    "summary": "Talks between the parties of caretaker Prime Minister Benjamin Netanyahu and Gadi Eisenkot to form a unity government in Israel ended on Sunday without an agreement. The two sides remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will be part of it. Eisenkot has until December 6 to form a government."
+   }
+  },
   {
    "id": "man-kills-wife-axe-gonda-tea-refusal-son-calls-police",
    "category": "Crime & Law",
@@ -3292,27 +3313,6 @@
    "en": {
     "title": "Russian military-linked cargo ship Sparta II ablaze in Gulf of Finland after drone strike; crew evacuated",
     "summary": "A Russian military-linked cargo ship, the Sparta II, caught fire in the Gulf of Finland on Saturday after a drone strike that Finland said was likely carried out by Ukraine. The 16-member crew was evacuated, the burning vessel drifted into Finnish waters, and a Russian helicopter was suspected of violating Finnish airspace during the rescue."
-   }
-  },
-  {
-   "id": "india-canada-cepa-sixth-round-concludes-new-delhi-november-21",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T03:43:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-canada-cepa-sixth-round-concludes-new-delhi-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-sixth-round-concludes-new-delhi-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-sixth-round-concludes-new-delhi-november-21-en.mp3",
-   "hi": {
-    "title": "भारत-कनाडा सीईपीए वार्ता का छठा दौर नई दिल्ली में पूरा; साल के अंत तक व्यापार समझौता पूरा करने का लक्ष्य",
-    "summary": "भारत और कनाडा ने नई दिल्ली में अपने प्रस्तावित व्यापक आर्थिक साझेदारी समझौते पर बातचीत का छठा दौर पूरा कर लिया है। वस्तुओं, सेवाओं और निवेश पर ठोस प्रगति की खबर है। ग्यारह से बीस नवंबर तक चला दस दिन का यह दौर पूरा हुआ और दोनों देश दो हज़ार छब्बीस के अंत तक समझौता पूरा करने का लक्ष्य रख रहे हैं।"
-   },
-   "en": {
-    "title": "India, Canada conclude sixth round of CEPA talks in New Delhi; aim to seal trade pact by year-end",
-    "summary": "India and Canada have concluded the sixth round of negotiations for their proposed Comprehensive Economic Partnership Agreement in New Delhi, with both sides reporting substantive progress across goods, services and investment. The ten-day round ran from November 11 to 20, and the two countries aim to conclude the pact by the end of 2026."
    }
   }
  ]
