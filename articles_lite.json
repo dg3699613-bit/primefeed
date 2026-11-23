@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-23T14:25:44+05:30",
+ "updatedAt": "2026-11-23T14:37:13+05:30",
  "articles": [
+  {
+   "id": "modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T14:37:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23-en.mp3",
+   "hi": {
+    "title": "मोदी ने नेपाल के लिए 15,000 करोड़ रुपये के पैकेज की घोषणा की, बालेन शाह के साथ अयोध्या-जनकपुर ट्रेन को हरी झंडी दिखाई",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने सोमवार को नेपाल के प्रधानमंत्री बालेंद्र शाह से नई दिल्ली में बातचीत के बाद नेपाल के बाढ़ के बाद पुनर्निर्माण के लिए 24,000 करोड़ नेपाली रुपये (15,000 करोड़ रुपये) के विकास सहयोग पैकेज की घोषणा की। दोनों नेताओं ने अयोध्या और जनकपुर के बीच सरयू-कमला एक्सप्रेस को हरी झंडी भी दिखाई, 8 समझौतों पर हस्ताक्षर किए और दोनों देशों के लिए एक संयुक्त दृष्टि दस्तावेज़ जारी किया।"
+   },
+   "en": {
+    "title": "Modi announces Rs 15,000 crore package for Nepal, flags off Ayodhya-Janakpur train with Balen Shah",
+    "summary": "Prime Minister Narendra Modi on Monday announced a development package of 24,000 crore Nepali rupees (Rs 15,000 crore) for Nepal's post-flood reconstruction after talks with Nepal Prime Minister Balendra Shah in New Delhi. The two leaders also flagged off the Saryu-Kamala Express between Ayodhya and Janakpur, signed 8 agreements and released a joint vision document."
+   }
+  },
+  {
+   "id": "supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T14:37:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23-en.mp3",
+   "hi": {
+    "title": "सुप्रीम कोर्ट ने दल-बदल कानून में सुधार की याचिका पर केंद्र और चुनाव आयोग से जवाब माँगा",
+    "summary": "सुप्रीम कोर्ट ने सोमवार को दल-बदल विरोधी व्यवस्था में व्यापक सुधार की माँग वाली जनहित याचिका पर केंद्र, चुनाव आयोग और विधि आयोग से जवाब माँगा है। याचिका में कहा गया है कि जनप्रतिनिधि दसवीं अनुसूची के तहत अयोग्यता की कार्यवाही से बचने के लिए 'रणनीतिक इस्तीफ़े' देते हैं, और माँग की गई है कि अयोग्यता की कार्यवाही लंबित होने के दौरान दिया गया इस्तीफ़ा उस कार्यवाही को खत्म न करे।"
+   },
+   "en": {
+    "title": "Supreme Court seeks Centre, EC response on PIL to stop 'strategic resignations' that dodge anti-defection law",
+    "summary": "The Supreme Court on Monday sought responses from the Centre, the Election Commission and the Law Commission on a PIL seeking comprehensive reforms in the anti-defection framework. The plea says lawmakers use 'strategic resignations' to escape disqualification under the Tenth Schedule and asks that a resignation during pending disqualification proceedings should not end those proceedings."
+   }
+  },
   {
    "id": "kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23",
    "category": "Health",
@@ -3265,50 +3307,6 @@
    "en": {
     "title": "BSF and Punjab Police recover 4 pistols and 277 grams of heroin from drone-dropped packet in Tarn Taran",
     "summary": "A joint team of the Border Security Force and Punjab Police has recovered 4 pistols, 6 empty magazines, 57 live cartridges and 277 grams of heroin from a packet dropped by a drone in a field in Punjab's Tarn Taran district, near the India-Pakistan border. Police have registered a case against unidentified persons."
-   }
-  },
-  {
-   "id": "caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T12:57:43+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/caqm-delhi-ncr-district-level-pollution-plans-15-20-percent-reduction-2027-november-22-en.mp3",
-   "hi": {
-    "title": "सीएक्यूएम ने दिल्ली-एनसीआर राज्यों को ज़िलेवार प्रदूषण योजना बनाने का निर्देश दिया, 2027 में प्रदूषण 15% से 20% घटाने का लक्ष्य",
-    "summary": "वायु गुणवत्ता प्रबंधन आयोग ने दिल्ली और राष्ट्रीय राजधानी क्षेत्र के राज्यों से 2027 के लिए ज़िलेवार कार्य योजना तैयार करने को कहा है। पहली बार ज़िले स्तर पर ऐसी योजना बन रही है, जिसका लक्ष्य 2026 की तुलना में 2027 में सालाना औसत प्रदूषण 15% से 20% घटाना है। हर बिंदु के लिए नोडल अधिकारी का नाम देना होगा और योजना 5 दिसंबर तक जमा करनी होगी।"
-   },
-   "en": {
-    "title": "CAQM orders Delhi-NCR states to draw up district-level pollution plans, cut pollution by 15% to 20% in 2027",
-    "summary": "The Commission for Air Quality Management has asked Delhi and the National Capital Region states to prepare district-level action plans for 2027, the first time such plans are being drawn up at the district level, with a target of cutting annual average pollution by 15% to 20% compared with 2026. Plans must name a nodal officer for every action point and be submitted by 5 December."
-   }
-  },
-  {
-   "id": "akal-takht-bars-two-delhi-gurdwara-committee-members-religious-activities-tilak-nagar-sacrilege-november-22",
-   "category": "Dharm-Astrology",
-   "sub": "Katha & Dharm News",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T12:38:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/akal-takht-bars-two-delhi-gurdwara-committee-members-religious-activities-tilak-nagar-sacrilege-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akal-takht-bars-two-delhi-gurdwara-committee-members-religious-activities-tilak-nagar-sacrilege-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akal-takht-bars-two-delhi-gurdwara-committee-members-religious-activities-tilak-nagar-sacrilege-november-22-en.mp3",
-   "district": "Amritsar",
-   "state": "Punjab",
-   "hi": {
-    "title": "तिलक नगर बेअदबी मामला: अकाल तख्त ने दिल्ली गुरुद्वारा कमेटी के 2 सदस्यों को धार्मिक गतिविधियों से रोका, 5 प्रबंधक अयोग्य घोषित",
-    "summary": "अकाल तख्त ने दिल्ली के तिलक नगर गुरुद्वारे में 15 नवंबर को हुई बेअदबी की घटना के मामले में दिल्ली सिख गुरुद्वारा प्रबंधक कमेटी के 2 सदस्यों को धार्मिक गतिविधियों से रोक दिया है और गुरुद्वारा प्रबंधक कमेटी के 5 सदस्यों को प्रबंधक के पद से अयोग्य घोषित किया है। जत्थेदार ने मामले में प्रबंधन की गंभीर लापरवाही पाई है।"
-   },
-   "en": {
-    "title": "Akal Takht bars two Delhi gurdwara committee members from religious activities over Tilak Nagar sacrilege case",
-    "summary": "The Akal Takht has barred 2 members of the Delhi Sikh Gurdwara Management Committee from religious activities and disqualified 5 members of a Tilak Nagar gurdwara's management committee over a sacrilege incident at the shrine on 15 November. The Jathedar found serious lapses in how the management handled the incident."
    }
   }
  ]
