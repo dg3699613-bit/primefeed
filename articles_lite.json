@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T06:32:58+05:30",
+ "updatedAt": "2026-11-23T06:49:00+05:30",
  "articles": [
+  {
+   "id": "father-son-killed-tractor-plunges-70-foot-well-chhatarpur",
+   "category": "State & Local",
+   "sub": "Madhya Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T06:49:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/father-son-killed-tractor-plunges-70-foot-well-chhatarpur.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/father-son-killed-tractor-plunges-70-foot-well-chhatarpur-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/father-son-killed-tractor-plunges-70-foot-well-chhatarpur-en.mp3",
+   "district": "Chhatarpur",
+   "state": "Madhya Pradesh",
+   "hi": {
+    "title": "छतरपुर में ट्रैक्टर 70 फीट गहरे कुएं में गिरा, किसान और 10 साल के बेटे की मौत",
+    "summary": "छतरपुर जिले के हतना गांव में रविवार शाम खेत की जुताई के दौरान ट्रैक्टर करीब 70 फीट गहरे कुएं में गिर गया। हादसे में किसान संतोष यादव और उनके 10 साल के बेटे दुर्गेश की मौत हो गई। यह हादसा किसान की 12 साल की बेटी के सामने हुआ।"
+   },
+   "en": {
+    "title": "Father and 10-year-old son killed as tractor plunges into 70-foot well in Chhatarpur",
+    "summary": "A farmer and his 10-year-old son were killed in Chhatarpur district on Sunday evening when their tractor lost control during ploughing and fell into a nearly 70-foot-deep well in their field. The accident happened in front of the farmer's 12-year-old daughter."
+   }
+  },
+  {
+   "id": "fire-guts-18-vehicles-pune-building-parking-35-residents-moved-rooftop",
+   "category": "State & Local",
+   "sub": "Maharashtra",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-23T06:49:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fire-guts-18-vehicles-pune-building-parking-35-residents-moved-rooftop.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fire-guts-18-vehicles-pune-building-parking-35-residents-moved-rooftop-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fire-guts-18-vehicles-pune-building-parking-35-residents-moved-rooftop-en.mp3",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "पुणे की इमारत की पार्किंग में लगी आग, 18 वाहन जलकर खाक; 35 लोगों को छत पर पहुंचाकर बचाया",
+    "summary": "पुणे के कोंढवा इलाके में रविवार तड़के एक चार मंजिला इमारत की पार्किंग में आग लग गई, जिसमें 18 वाहन क्षतिग्रस्त हो गए। दमकलकर्मियों ने करीब 35 निवासियों को छत पर पहुंचाया और करीब 20 मिनट में आग पर काबू पा लिया। कोई घायल नहीं हुआ।"
+   },
+   "en": {
+    "title": "Fire guts 18 vehicles in Pune building parking; 35 residents moved to rooftop",
+    "summary": "A fire broke out in the ground-floor parking area of a four-storey residential building in Pune's Kondhwa area early on Sunday, damaging 18 vehicles. Firefighters moved around 35 residents to the rooftop before bringing the blaze under control in about 20 minutes; no one was injured."
+   }
+  },
   {
    "id": "meghalaya-driver-constable-suspended-extortion-video-khliehriat-november-21",
    "category": "Crime & Law",
@@ -3265,50 +3311,6 @@
    "en": {
     "title": "Ramayana sets a new record: Rs 299.15 crore second week is the biggest ever for an Indian film",
     "summary": "Ramayana: Part 1 has recorded the highest second-week collection ever for an Indian film, earning Rs 299.15 crore net in India in its second week and passing Dhurandhar 2, Pushpa 2, Baahubali 2 and RRR. The film's India net total stands at Rs 863.75 crore after 15 days, with a worldwide gross of Rs 1547.15 crore."
-   }
-  },
-  {
-   "id": "dhurandhar-six-awards-dpiff-2026-ranveer-singh-best-actor-november-20",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T03:22:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhurandhar-six-awards-dpiff-2026-ranveer-singh-best-actor-november-20.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhurandhar-six-awards-dpiff-2026-ranveer-singh-best-actor-november-20-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhurandhar-six-awards-dpiff-2026-ranveer-singh-best-actor-november-20-en.mp3",
-   "hi": {
-    "title": "धुरंधर की धूम: दादासाहेब फाल्के फ़िल्म फ़ेस्टिवल अवॉर्ड्स में छह सम्मान, रणवीर सिंह सर्वश्रेष्ठ अभिनेता",
-    "summary": "मुंबई में हुए दादासाहेब फाल्के इंटरनेशनल फ़िल्म फ़ेस्टिवल अवॉर्ड्स 2026 में रणवीर सिंह की फ़िल्म धुरंधर ने सर्वश्रेष्ठ फ़िल्म, सर्वश्रेष्ठ अभिनेता और सर्वश्रेष्ठ निर्देशक समेत छह पुरस्कार जीते। सैयारा को चार पुरस्कार मिले और कांतारा: चैप्टर वन क्रिटिक्स की सर्वश्रेष्ठ फ़िल्म चुनी गई।"
-   },
-   "en": {
-    "title": "Dhurandhar sweeps Dadasaheb Phalke festival awards with six wins; Ranveer Singh named Best Actor",
-    "summary": "Ranveer Singh's Dhurandhar was the biggest winner at the Dadasaheb Phalke International Film Festival Awards 2026 in Mumbai, taking six honours including Best Film, Best Actor and Best Director. Saiyaara won four awards, and Kantara: Chapter 1 was named Critics' Best Film."
-   }
-  },
-  {
-   "id": "indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21",
-   "category": "State & Local",
-   "sub": "Madhya Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T03:04:31+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indore-phooti-kothi-vegetable-market-removed-vendors-protest-november-21-en.mp3",
-   "district": "Indore",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "इंदौर नगर निगम ने फूटी कोठी की बरसों पुरानी सब्जी मंडी हटाई, दुकानदार सड़क पर बैठे; नेता प्रतिपक्ष भी विरोध में शामिल हुईं",
-    "summary": "इंदौर नगर निगम ने शनिवार को फूटी कोठी चौराहे पर बरसों से चल रही सब्जी मंडी हटा दी, और दुकानदार सड़क पर बैठकर विरोध करने लगे। नगर निगम में नेता प्रतिपक्ष सोनिला मिमरोट भी उनके साथ खड़ी हो गईं, उन्होंने हाथ जोड़कर अधिकारियों से अपील की और एक अधिकारी को फ़ोन पर चेतावनी दी, जबकि दुकानदार चौराहे के पास पुल के नीचे जगह की माँग कर रहे थे।"
-   },
-   "en": {
-    "title": "Indore civic body removes years-old vegetable market at Phooti Kothi, vendors protest as leader joins them on the road",
-    "summary": "The Indore Municipal Corporation removed a vegetable market that had run for years at Phooti Kothi Square on Saturday, and vendors sat down on the road in protest. Leader of the Opposition Sonila Mimrot joined them, appealed to officials with folded hands and warned a municipal official on the phone, while the vendors demanded space under the bridge near the square."
    }
   }
  ]
