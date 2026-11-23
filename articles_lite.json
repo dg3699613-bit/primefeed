@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-24T01:09:24+05:30",
+ "updatedAt": "2026-11-24T01:27:31+05:30",
  "articles": [
+  {
+   "id": "pithapuram-vice-chairperson-election-chaos-jsp-rift-bojja-wins-november-23",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-24T01:27:31+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Kakinada",
+   "state": "Andhra Pradesh",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pithapuram-vice-chairperson-election-chaos-jsp-rift-bojja-wins-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pithapuram-vice-chairperson-election-chaos-jsp-rift-bojja-wins-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pithapuram-vice-chairperson-election-chaos-jsp-rift-bojja-wins-november-23-en.mp3",
+   "hi": {
+    "title": "पीठापुरम में उपाध्यक्ष चुनाव के दौरान हंगामा: सांसद के सहयोगी पर हमले का आरोप, बोज्जा सर्वसम्मति से चुने गए",
+    "summary": "काकिनाडा जिले के पीठापुरम में सोमवार को नगरपालिका उपाध्यक्ष के चुनाव के दौरान जनसेना पार्षदों के बीच तीखा टकराव हुआ। सांसद तंगेल्ला उदय श्रीनिवास के निजी सहायक वीरमारेड्डी चक्री पर हमले का आरोप लगा, जबकि बोज्जा वेंकटेश्वर राव सर्वसम्मति से उपाध्यक्ष चुने गए।"
+   },
+   "en": {
+    "title": "Chaos at Pithapuram vice-chairperson poll as JSP councillors clash over Bojja's election; MP's aide allegedly attacked",
+    "summary": "The vice-chairperson election at Pithapuram municipality in Andhra Pradesh's Kakinada district turned chaotic on Monday as Jana Sena councillors clashed over the post. MP Tangella Uday Srinivas's personal assistant Veeramareddy Chakri was allegedly attacked, while Bojja Venkateswara Rao was elected vice-chairperson unanimously."
+   }
+  },
   {
    "id": "crowdstrike-to-buy-zscaler-43-9-billion-all-stock-deal-november-23",
    "category": "Business",
@@ -3282,27 +3305,6 @@
    "en": {
     "title": "Tripura High Court asks state to examine trauma centre for Unakoti hospital; 100-km rule is no bar",
     "summary": "Agartala: The Tripura High Court has directed the state government to examine the need for a trauma care centre at Unakoti District Hospital, holding that the 100-km distance norm between two centres cannot by itself block the facility."
-   }
-  },
-  {
-   "id": "tata-steel-to-sell-tubes-business-and-colors-arm-to-apl-apollo-in-rs-28000-crore-deal",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T00:03:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-steel-to-sell-tubes-business-and-colors-arm-to-apl-apollo-in-rs-28000-crore-deal.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-steel-to-sell-tubes-business-and-colors-arm-to-apl-apollo-in-rs-28000-crore-deal-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-steel-to-sell-tubes-business-and-colors-arm-to-apl-apollo-in-rs-28000-crore-deal-en.mp3",
-   "hi": {
-    "title": "टाटा स्टील अपने ट्यूब्स कारोबार और कलर्स कंपनी को एपीएल अपोलो को बेचेगी; सौदा 28,000 करोड़ रुपये का",
-    "summary": "नई दिल्ली: टाटा स्टील के बोर्ड ने रविवार को अपने ट्यूब्स कारोबार और टाटा स्टील कलर्स में पूरी हिस्सेदारी एपीएल अपोलो को बेचने को मंज़ूरी दी; सौदे की कुल कीमत 28,000 करोड़ रुपये तक है।"
-   },
-   "en": {
-    "title": "Tata Steel to sell tubes business and Colors arm to APL Apollo in Rs 28,000-crore deal",
-    "summary": "New Delhi: Tata Steel's board on Sunday approved the sale of its tubes business and its entire stake in Tata Steel Colors to APL Apollo Tubes in deals worth up to Rs 28,000 crore."
    }
   }
  ]
