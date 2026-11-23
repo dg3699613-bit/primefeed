@@ -1,6 +1,50 @@
 {
-  "updatedAt": "2026-11-23T19:21:13+05:30",
+  "updatedAt": "2026-11-23T19:22:45+05:30",
   "articles": [
+    {
+      "id": "jhansi-handpump-liquor-raid-woman-arrested-november-23",
+      "category": "Crime & Law",
+      "sub": "Police & Crime",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-23T19:22:45+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jhansi-handpump-liquor-raid-woman-arrested-november-23.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jhansi-handpump-liquor-raid-woman-arrested-november-23-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jhansi-handpump-liquor-raid-woman-arrested-november-23-en.mp3",
+      "district": "Jhansi",
+      "state": "Uttar Pradesh",
+      "hi": {
+        "title": "झांसी में हैंडपंप से पानी की जगह निकली शराब: भूमिगत टंकी का भंडाफोड़, 30 लीटर जब्त, महिला गिरफ्तार",
+        "summary": "झांसी: सकरार थाना क्षेत्र के कबूतरा डेरा में छापे के दौरान आँगन के हैंडपंप से पानी की जगह कच्ची शराब निकलने लगी; नीचे ज़मीन में बनी टंकी से करीब 30 लीटर शराब बरामद हुई और लगभग 1,000 लीटर लहन नष्ट किया गया। 30 वर्षीय विनीता गिरफ्तार, आबकारी अधिनियम के तहत मामला दर्ज।"
+      },
+      "en": {
+        "title": "Liquor, not water, flowed from a Jhansi handpump: police bust underground tank, seize 30 litres, arrest woman",
+        "summary": "Jhansi: A police and excise raid at Kabutra Dera in the Sakrar area found a handpump dispensing illicit country liquor from an underground tank; about 30 litres was seized and around 1,000 litres of lahan destroyed. A 30-year-old woman, Vineeta, was arrested under the Excise Act."
+      }
+    },
+    {
+      "id": "tata-sons-board-meeting-postponed-november-30-noel-tata-november-23",
+      "category": "Business",
+      "sub": "Banking & Finance",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-23T19:22:45+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-sons-board-meeting-postponed-november-30-noel-tata-november-23.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-sons-board-meeting-postponed-november-30-noel-tata-november-23-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-sons-board-meeting-postponed-november-30-noel-tata-november-23-en.mp3",
+      "hi": {
+        "title": "टाटा संस की बोर्ड बैठक 30 नवंबर तक टली: नोएल टाटा ने उठाया नोटिस का सवाल, लिस्टिंग पर फैसला अब आगे",
+        "summary": "नई दिल्ली: टाटा संस की 26 नवंबर को होने वाली बोर्ड बैठक अब 30 नवंबर को होगी। नोएल टाटा ने 7 दिन के नोटिस का सवाल उठाया था; बैठक में आरबीआई के निर्देश पर लिस्टिंग और उनके पुनर्गठन प्रस्ताव पर चर्चा होगी।"
+      },
+      "en": {
+        "title": "Tata Sons board meeting pushed to November 30 as Noel Tata flags notice lapse; listing decision waits",
+        "summary": "New Delhi: Tata Sons has postponed its board meeting from November 26 to November 30 after Noel Tata flagged that the mandatory seven-day notice period was not followed. The meeting will take up the RBI-mandated listing and his restructuring proposal."
+      }
+    },
     {
       "id": "bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23",
       "category": "State & Local",
@@ -3261,52 +3305,6 @@
       "hi": {
         "title": "2027 यूपी चुनाव: सपा ने सीट बँटवारे के लिए 4 सदस्यीय कमेटी बनाई, सोमवार से कांग्रेस से बातचीत",
         "summary": "समाजवादी पार्टी ने 2027 के यूपी विधानसभा चुनाव के लिए कांग्रेस से सीट बँटवारे की बातचीत के वास्ते 4 सदस्यीय कमेटी गठित की है। दोनों दलों की दो दिन की बैठक सोमवार से दिल्ली में होगी।"
-      }
-    },
-    {
-      "id": "kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22",
-      "category": "Crime & Law",
-      "sub": "Police & Crime",
-      "breaking": false,
-      "featured": false,
-      "trending": false,
-      "publishedAt": "2026-11-22T16:53:40+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanker-gst-officer-anchal-giri-suspended-bribe-arrest-november-22-en.mp3",
-      "district": "Kanker",
-      "state": "Chhattisgarh",
-      "en": {
-        "title": "Kanker GST officer Anchal Giri suspended after ACB catches her taking Rs 1.5 lakh bribe",
-        "summary": "Chhattisgarh's State Tax Commissioner has suspended GST Assistant Commissioner Anchal Giri in Kanker after the Anti-Corruption Bureau caught her allegedly taking a Rs 1.5 lakh bribe from a scrap trader on Saturday. Spotting the ACB team at her home, she threw the cash into a drain — the team fished it out."
-      },
-      "hi": {
-        "title": "कांकेर में जीएसटी अफसर आंचला गिरी सस्पेंड, एसीबी ने 1.5 लाख रुपये रिश्वत लेते पकड़ा",
-        "summary": "छत्तीसगढ़ के कांकेर में जीएसटी विभाग की असिस्टेंट कमिश्नर आंचला गिरी को राज्य कर आयुक्त ने निलंबित कर दिया है। एंटी करप्शन ब्यूरो ने शनिवार को उन्हें कबाड़ कारोबारी से 1.5 लाख रुपये की रिश्वत लेते रंगे हाथों पकड़ा था। एसीबी की टीम को देखते ही उन्होंने रकम नाली में फेंक दी थी, जिसे टीम ने बरामद कर लिया।"
-      }
-    },
-    {
-      "id": "pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22",
-      "category": "Crime & Law",
-      "sub": "Police & Crime",
-      "breaking": false,
-      "featured": false,
-      "trending": false,
-      "publishedAt": "2026-11-22T16:53:40+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pratapgarh-drug-smuggler-shoaib-khan-house-frozen-operation-trinetra-november-22-en.mp3",
-      "district": "Pratapgarh",
-      "state": "Rajasthan",
-      "en": {
-        "title": "Pratapgarh police freeze drug smuggler Shoaib Khan's Rs 70 lakh house under Operation Trinetra",
-        "summary": "Police in Rajasthan's Pratapgarh district have frozen property worth about Rs 70 lakh belonging to alleged drug smuggler Shoaib Khan Pathan. Officers put up a seizure and property-freeze board at his house in Devdi village under Operation Trinetra, after the SAFEMA competent authority in New Delhi confirmed the freeze order on November 20."
-      },
-      "hi": {
-        "title": "प्रतापगढ़ में तस्कर शोएब खान का 70 लाख का मकान फ्रीज, ऑपरेशन त्रिनेत्र के तहत लगा बोर्ड",
-        "summary": "राजस्थान के प्रतापगढ़ में पुलिस ने मादक पदार्थ तस्करी के आरोपी शोएब खान पठान की करीब 70 लाख रुपये की संपत्ति फ्रीज कर दी है। देवल्दी गांव में उसके मकान पर जब्ती और संपत्ति फ्रीज करने का बोर्ड लगा दिया गया है। सफेमा के सक्षम प्राधिकारी ने 20 नवंबर को फ्रीज के आदेश की पुष्टि की थी।"
       }
     }
   ]
