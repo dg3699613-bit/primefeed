@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-23T09:48:38+05:30",
+ "updatedAt": "2026-11-23T10:07:59+05:30",
  "articles": [
+  {
+   "id": "giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T10:07:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23-en.mp3",
+   "district": "Giridih",
+   "state": "Jharkhand",
+   "hi": {
+    "title": "गिरिडीह: शिखरजी से लौट रही श्रद्धालुओं की बस पेड़ से टकराकर गड्ढे में पलटी, सूरत के दंपती की मौत; 12 से ज़्यादा घायल",
+    "summary": "झारखंड के गिरिडीह जिले में सोमवार को जैन श्रद्धालुओं की एक बस सड़क किनारे गड्ढे में पलट गई, जिसमें सूरत के 2 श्रद्धालुओं की मौत हो गई और 12 से ज़्यादा लोग घायल हो गए। श्रद्धालु सम्मेद शिखरजी की यात्रा से लौट रहे थे और टाटानगर रेलवे स्टेशन जा रहे थे।"
+   },
+   "en": {
+    "title": "Giridih: Bus carrying Jain pilgrims back from Shikharji overturns into ditch, Surat couple killed; over 12 injured",
+    "summary": "Two Jain pilgrims from Surat, a husband and wife, were killed and more than 12 others injured after their bus overturned into a roadside ditch in Jharkhand's Giridih district on Monday. The pilgrims were returning from Sammed Shikharji and were on their way to Tatanagar Railway Station."
+   }
+  },
+  {
+   "id": "swae-lee-khalid-cherry-blossom-festival-beer-tshirt-thrown-shillong-november-23",
+   "category": "Entertainment",
+   "sub": "Music",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T10:07:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/swae-lee-khalid-cherry-blossom-festival-beer-tshirt-thrown-shillong-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/swae-lee-khalid-cherry-blossom-festival-beer-tshirt-thrown-shillong-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/swae-lee-khalid-cherry-blossom-festival-beer-tshirt-thrown-shillong-november-23-en.mp3",
+   "district": "Ri-Bhoi",
+   "state": "Meghalaya",
+   "hi": {
+    "title": "शिलॉन्ग चेरी ब्लॉसम फेस्टिवल: स्वे ली पर बीयर फेंकी, खालिद के चेहरे पर टी शर्ट; एक आरोपी पुलिस के हवाले",
+    "summary": "मेघालय के चेरी ब्लॉसम फेस्टिवल में शनिवार रात अमेरिकी रैपर स्वे ली और गायक खालिद के कार्यक्रमों के दौरान दर्शकों ने उन पर चीज़ें फेंकीं। स्वे ली पर बीयर फेंकने वाले व्यक्ति की पहचान कर सुरक्षा कर्मियों ने उसे पुलिस के हवाले कर दिया।"
+   },
+   "en": {
+    "title": "Shillong Cherry Blossom Festival: Beer thrown at Swae Lee, T-shirt hits Khalid; one man handed to police",
+    "summary": "American rapper Swae Lee and singer Khalid faced separate disruptions during their performances at Meghalaya's Cherry Blossom Festival on Saturday night, after members of the audience threw objects at them. Security staff identified the man who splashed beer on Swae Lee and handed him to the police."
+   }
+  },
   {
    "id": "bhopal-aishbagh-demolition-599-quarters-3000-residents-november-23",
    "category": "State & Local",
@@ -3267,50 +3313,6 @@
    "en": {
     "title": "Nine pilgrims killed as cruiser rams parked truck on Kota-Udaipur highway",
     "summary": "Nine members of a Maharashtra family, including children, were killed and seven others injured around midnight when their cruiser rammed into a stationary truck near Shambhupura on the Kota-Udaipur highway. The family was returning home after offering prayers at the Khatu Shyamji temple."
-   }
-  },
-  {
-   "id": "india-declare-720-9-record-total-latham-duck-wellington-november-22",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T07:42:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-declare-720-9-record-total-latham-duck-wellington-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-declare-720-9-record-total-latham-duck-wellington-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-declare-720-9-record-total-latham-duck-wellington-november-22-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन: भारत ने 720 रन पर पारी घोषित की, न्यूज़ीलैंड में अब तक का सबसे बड़ा टेस्ट स्कोर; लैथम 0 पर आउट",
-    "summary": "भारत ने वेलिंगटन में अपनी पहली पारी 720 रन पर 9 विकेट पर घोषित कर दी, जो न्यूज़ीलैंड में अब तक का सबसे बड़ा टेस्ट स्कोर है। लोकेश राहुल और ऋषभ पंत ने शतक लगाए। इसके बाद जसप्रीत बुमराह ने न्यूज़ीलैंड के कप्तान टॉम लैथम को 0 पर आउट कर दिया और मेज़बान टीम 1 विकेट पर 11 रन पर थी।"
-   },
-   "en": {
-    "title": "India declare on 720/9, a record total in New Zealand, and strike at once as Latham falls for a duck",
-    "summary": "India declared their first innings on 720 for 9 at Wellington, the highest Test total ever made in New Zealand, with centuries from KL Rahul and Rishabh Pant. Jasprit Bumrah then removed Tom Latham for a duck in New Zealand's second innings, leaving the hosts 11 for 1 and 341 behind."
-   }
-  },
-  {
-   "id": "odisha-cyber-command-centre-249-crore-majhi-approves-november-21",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T07:27:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-cyber-command-centre-249-crore-majhi-approves-november-21.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-cyber-command-centre-249-crore-majhi-approves-november-21-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-cyber-command-centre-249-crore-majhi-approves-november-21-en.mp3",
-   "district": "Khordha",
-   "state": "Odisha",
-   "hi": {
-    "title": "ओडिशा साइबर कमांड सेंटर: मुख्यमंत्री मोहन चरण माझी ने दो सौ उनचास करोड़ उनचालीस लाख रुपये की मंज़ूरी दी",
-    "summary": "मुख्यमंत्री मोहन चरण माझी ने ओडिशा साइबर कमांड सेंटर के लिए दो सौ उनचास करोड़ उनचालीस लाख रुपये मंज़ूर किए हैं। गृह विभाग ने शनिवार को इसकी अधिसूचना जारी की; यह केंद्र चार वित्तीय वर्षों, दो हज़ार छब्बीस-सत्ताईस से दो हज़ार उनतीस-तीस के बीच बनेगा और साइबर अपराध की पहचान, जाँच व कृत्रिम बुद्धिमत्ता आधारित विश्लेषण को एक छत के नीचे लाएगा।"
-   },
-   "en": {
-    "title": "Odisha clears Rs 249.39 crore Cyber Command Centre to fight cybercrime, online fraud",
-    "summary": "Chief Minister Mohan Charan Majhi has sanctioned Rs 249.39 crore for an Odisha Cyber Command Centre that will bring cybercrime detection, investigation and AI-based analytics under one roof. The Home Department notified the centre on Saturday; it will be built over four financial years, from 2026-27 to 2029-30."
    }
   }
  ]
