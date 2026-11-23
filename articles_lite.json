@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-23T10:35:21+05:30",
+ "updatedAt": "2026-11-23T10:52:48+05:30",
  "articles": [
+  {
+   "id": "trump-urges-nvidia-board-rehire-jensen-huang-november-23",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T10:52:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-urges-nvidia-board-rehire-jensen-huang-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-urges-nvidia-board-rehire-jensen-huang-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-urges-nvidia-board-rehire-jensen-huang-november-23-en.mp3",
+   "hi": {
+    "title": "ट्रंप की एनवीडिया बोर्ड से अपील: जेन्सन हुआंग को फिर से नियुक्त करो, 'कंपनी और अमेरिका के लिए सबसे अच्छा होगा'",
+    "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने एनवीडिया के बोर्ड से पूर्व मुख्य कार्यकारी जेन्सन हुआंग को फिर से नियुक्त करने की अपील की है। उन्होंने कहा है कि यह कंपनी और अमेरिका, दोनों के लिए सबसे अच्छा होगा, लेकिन बोर्ड ने साफ़ कर दिया है कि वह उन्हें फिर से नियुक्त नहीं करेगा।"
+   },
+   "en": {
+    "title": "Trump urges Nvidia board to rehire Jensen Huang: 'Best thing for the company, and for the USA'",
+    "summary": "US President Donald Trump has urged Nvidia's board to rehire former chief executive Jensen Huang, calling it the best outcome for the company and the United States. The board has said it does not intend to reinstate him."
+   }
+  },
+  {
+   "id": "imd-heavy-rain-tamil-nadu-kerala-dense-fog-delhi-up-bihar-november-23",
+   "category": "Weather",
+   "sub": "IMD Alerts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-23T10:52:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/imd-heavy-rain-tamil-nadu-kerala-dense-fog-delhi-up-bihar-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/imd-heavy-rain-tamil-nadu-kerala-dense-fog-delhi-up-bihar-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/imd-heavy-rain-tamil-nadu-kerala-dense-fog-delhi-up-bihar-november-23-en.mp3",
+   "hi": {
+    "title": "आज तमिलनाडु-केरल में भारी बारिश का अलर्ट, दिल्ली, यूपी और बिहार में घना कोहरा: आईएमडी",
+    "summary": "भारत मौसम विज्ञान विभाग ने आने वाले दिनों में तमिलनाडु और केरल में छिटपुट भारी बारिश और आँधी-तूफ़ान का अनुमान जताया है, जबकि दिल्ली, उत्तर प्रदेश, बिहार और उत्तर-पूर्व के कई राज्यों में घना कोहरा छाने की चेतावनी दी है।"
+   },
+   "en": {
+    "title": "Heavy rain alert for Tamil Nadu and Kerala, dense fog over Delhi, UP and Bihar today: IMD",
+    "summary": "The India Meteorological Department has forecast isolated heavy rain in Tamil Nadu and Kerala over the coming days, with thunderstorms and strong winds, while dense fog is likely over Delhi, Uttar Pradesh, Bihar and other northern and eastern states."
+   }
+  },
   {
    "id": "jhargram-red-bag-bomb-scare-court-road-police-cordon-november-23",
    "category": "Crime & Law",
@@ -3267,52 +3309,6 @@
    "en": {
     "title": "Bulk booking, resale of Sabarimala darshan slots suspected; police probe points to travel agencies in three states",
     "summary": "Travel agencies in Tamil Nadu, Andhra Pradesh and Telangana are suspected of bulk-booking Sabarimala darshan slots and reselling the coupons at high prices, a police and Revenue Department assessment has found. With only around half the booked pilgrims turning up on some days, the Travancore Devaswom Board is considering OTP-based verification and a complete overhaul of the booking system."
-   }
-  },
-  {
-   "id": "kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T08:17:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kutch-bhuj-khavda-highway-car-trailer-crash-seven-family-killed-november-22-en.mp3",
-   "district": "Kutch",
-   "state": "Gujarat",
-   "hi": {
-    "title": "कच्छ में भुज-खावड़ा हाईवे पर ट्रेलर से टकराई कार, एक ही परिवार के सात लोगों की मौत; तीन बच्चे भी शामिल",
-    "summary": "शनिवार देर रात कच्छ के भुज-खावड़ा राष्ट्रीय राजमार्ग पर वेकारिया रण के पास कार और ट्रेलर की टक्कर में उत्तराखंड के एक परिवार के सात लोगों की मौत हो गई। टक्कर इतनी भीषण थी कि कार के दो टुकड़े हो गए।"
-   },
-   "en": {
-    "title": "Seven of a family, three of them children, killed as car hits trailer on Bhuj-Khavda highway in Kutch",
-    "summary": "Seven members of a family from Uttarakhand, among them three children, were killed late on Saturday night when their car collided with a trailer truck on the Bhuj-Khavda National Highway near Vekariya Rann in Kutch. The car was torn into two pieces in the collision."
-   }
-  },
-  {
-   "id": "bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22",
-   "category": "Politics",
-   "sub": "Parliament",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-22T08:17:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-rajya-sabha-mp-ramrao-wadkute-dies-heart-attack-aiims-delhi-november-22-en.mp3",
-   "district": "Hingoli",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "भाजपा के राज्यसभा सांसद रामराव वडकुटे का दिल का दौरा पड़ने से निधन, दिल्ली के एम्स में बहत्तर साल की उम्र में ली अंतिम साँस",
-    "summary": "भाजपा के राज्यसभा सांसद रामराव सखाराम वडकुटे का शनिवार देर रात दिल्ली के एम्स में दिल का दौरा पड़ने से निधन हो गया। वे बहत्तर साल के थे और इसी साल अप्रैल में भाजपा ने उन्हें महाराष्ट्र से राज्यसभा भेजा था।"
-   },
-   "en": {
-    "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of heart attack at 72 in Delhi's AIIMS",
-    "summary": "BJP Rajya Sabha MP Ramrao Sakharam Wadkute, 72, died of a severe heart attack at AIIMS in New Delhi late on Saturday night, months after the BJP sent him to the Upper House from Maharashtra in April. The Hingoli leader was a prominent voice of the Dhangar community."
    }
   }
  ]
