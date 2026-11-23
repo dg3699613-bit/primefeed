@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-24T01:58:52+05:30",
+ "updatedAt": "2026-11-24T02:12:00+05:30",
  "articles": [
+  {
+   "id": "champawat-cm-dhami-165-crore-54-development-schemes-november-23",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-24T02:12:00+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Champawat",
+   "state": "Uttarakhand",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/champawat-cm-dhami-165-crore-54-development-schemes-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/champawat-cm-dhami-165-crore-54-development-schemes-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/champawat-cm-dhami-165-crore-54-development-schemes-november-23-en.mp3",
+   "hi": {
+    "title": "चंपावत को सीएम धामी की 165.68 करोड़ की सौगात: 54 विकास योजनाओं का लोकार्पण-शिलान्यास, टनकपुर-बनबसा को जलभराव से राहत",
+    "summary": "मुख्यमंत्री पुष्कर सिंह धामी ने सोमवार को चंपावत को 165.68 करोड़ रुपये की 54 विकास योजनाओं की सौगात दी। 21 योजनाओं का लोकार्पण और 33 का शिलान्यास हुआ; टनकपुर-बनबसा में 86.83 करोड़ रुपये की आधुनिक जल निकासी व्यवस्था बनेगी।"
+   },
+   "en": {
+    "title": "CM Dhami gives Champawat ₹165.68 crore gift: 54 schemes inaugurated and launched, Tanakpur-Banbasa to get relief from waterlogging",
+    "summary": "Chief Minister Pushkar Singh Dhami on Monday gave Champawat 54 development schemes worth ₹165.68 crore — 21 inaugurated and 33 launched — including a ₹86.83 crore modern drainage system for Tanakpur and Banbasa."
+   }
+  },
   {
    "id": "thirupparankundram-prohibitory-orders-police-deployed-karthigai-deepam-november-24",
    "category": "State & Local",
@@ -3282,29 +3305,6 @@
    "en": {
     "title": "Nearly 30 houses of Awami League leaders torched in Bangladesh's Narail after 2 BNP men killed",
     "summary": "Nearly 30 houses belonging to Awami League leaders and activists were set ablaze in Bendarchar village in Bangladesh's Narail district. Fire service personnel found 20 to 30 houses on fire when they reached the village at around 8 pm. The violence followed the killing of 2 BNP-affiliated leaders in an attack on a party procession on November 18."
-   }
-  },
-  {
-   "id": "muzaffarnagar-father-son-shot-dead-dadupur-village-purkazi-november-22",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T00:49:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/muzaffarnagar-father-son-shot-dead-dadupur-village-purkazi-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/muzaffarnagar-father-son-shot-dead-dadupur-village-purkazi-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/muzaffarnagar-father-son-shot-dead-dadupur-village-purkazi-november-22-en.mp3",
-   "district": "Muzaffarnagar",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "मुजफ्फरनगर के दादूपुर गांव में पिता-पुत्र की गोली मारकर हत्या, पुरानी रंजिश की आशंका",
-    "summary": "मुजफ्फरनगर के पुरकाजी थाना क्षेत्र के दादूपुर गांव में रविवार शाम बाइक सवार हमलावरों ने पिता मुख्तियार सिंह और उनके बेटे सुखजिंदर की गोली मारकर हत्या कर दी। पुलिस को पुरानी रंजिश का शक है, हमलावरों को पकड़ने के लिए 4 टीमें बनाई गई हैं और गांव में अतिरिक्त पुलिस बल तैनात किया गया है।"
-   },
-   "en": {
-    "title": "Father and son shot dead in Muzaffarnagar village; police suspect old rivalry, four teams formed",
-    "summary": "Bike-borne assailants shot dead a farmer and his son at their home in Dadupur village in Muzaffarnagar's Purkazi police station area on Sunday evening. Police suspect an old rivalry — the son was an accused in the murder of a local history-sheeter in September 2025 — and have formed four teams to trace the attackers, while extra force has been deployed in the village."
    }
   }
  ]
