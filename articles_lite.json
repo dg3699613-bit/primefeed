@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T11:36:52+05:30",
+ "updatedAt": "2026-11-24T11:58:01+05:30",
  "articles": [
+  {
+   "id": "russian-warplanes-kadiz-ulleung-island-alert-misfire-november-24",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T11:58:01+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-warplanes-kadiz-ulleung-island-alert-misfire-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-warplanes-kadiz-ulleung-island-alert-misfire-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-warplanes-kadiz-ulleung-island-alert-misfire-november-24-en.mp3",
+   "hi": {
+    "title": "रूसी लड़ाकू विमान उल्लेउंग के पास दक्षिण कोरिया के वायु रक्षा क्षेत्र में घुसे; सियोल के अलर्ट दो बार गलत निकले",
+    "summary": "मंगलवार सुबह कई रूसी सैन्य विमान पूर्वी सागर के ऊपर दक्षिण कोरिया के वायु रक्षा पहचान क्षेत्र में घुसकर उल्लेउंग द्वीप के करीब आ गए। दक्षिण कोरिया ने एफ-15 के लड़ाकू विमान रवाना किए। गृह मंत्रालय ने पहले हवाई क्षेत्र के उल्लंघन का अलर्ट भेजा, फिर प्रांतीय सरकार ने गलती से इसे उत्तर कोरियाई विमान बता दिया। सेना ने साफ किया कि संप्रभु हवाई क्षेत्र का कोई उल्लंघन नहीं हुआ।"
+   },
+   "en": {
+    "title": "Russian warplanes enter Korea's air defence zone near Ulleung; Seoul's alerts get it wrong twice",
+    "summary": "Several Russian military aircraft entered South Korea's air defence identification zone over the East Sea early on Tuesday and flew close to Ulleung Island, prompting Seoul to scramble F-15K fighter jets. The interior ministry first wrongly warned of an airspace violation, then the provincial government wrongly called the planes North Korean. The military said no sovereign airspace was violated."
+   }
+  },
+  {
+   "id": "icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T11:58:01+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24-en.mp3",
+   "hi": {
+    "title": "आईसीएमआर की संपदा: एनीमिया पहले के सर्वे से कम, फिर भी देश की आधी से ज्यादा महिलाएँ एनीमिया से पीड़ित",
+    "summary": "आईसीएमआर ने सोमवार को अपने संपदा सर्वे 2023-25 के नतीजे जारी किए। दुनिया के सबसे बड़े पोषण सर्वेक्षणों में से एक इस सर्वे में 12 से 59 महीने के बच्चों में 42 प्रतिशत और प्रजनन आयु की महिलाओं में 56 प्रतिशत एनीमिया मिला। ज्यादातर मामले हल्के हैं और गंभीर एनीमिया ज्यादातर आयु समूहों में 2 प्रतिशत से कम है, लेकिन महिलाओं में बोझ अब भी बहुत ज्यादा है।"
+   },
+   "en": {
+    "title": "ICMR's SAMPADA: anaemia lower than earlier surveys, but more than half of India's women still anaemic",
+    "summary": "The Indian Council of Medical Research on Monday released findings from its SAMPADA survey of 2023-25, one of the world's largest nutrition surveys. It found anaemia in 42 per cent of children aged 12 to 59 months and 56 per cent of women of reproductive age. Most cases are mild and severe anaemia is below 2 per cent in most age groups, but the burden among women remains very high."
+   }
+  },
   {
    "id": "stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24",
    "category": "Crime & Law",
@@ -3259,50 +3301,6 @@
    "en": {
     "title": "Dalmau gears up for Kartik Purnima: Ganga aarti on Kashi lines today, 1,500 police guard three-day mela in Raebareli",
     "summary": "The three-day Kartik Purnima mela begins at Dalmau in Raebareli today with a grand Ganga aarti modelled on Varanasi's, as more than 1,500 police personnel guard the ghats and 54 special buses run for devotees."
-   }
-  },
-  {
-   "id": "up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T11:41:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-transfers-144-dysp-officers-ahead-of-assembly-polls-november-23-en.mp3",
-   "hi": {
-    "title": "विधानसभा चुनाव से पहले यूपी में 144 पुलिस अफसरों का तबादला, तीन साल से एक ज़िले में तैनात अफसर हटाए गए",
-    "summary": "उत्तर प्रदेश सरकार ने 144 पुलिस अफसरों का तबादला कर दिया है। विधानसभा चुनाव की तैयारियों के बीच तीन साल से एक ही ज़िले में तैनात अफसरों को चुनाव आयोग के दिशा-निर्देशों के तहत हटाया गया है।"
-   },
-   "en": {
-    "title": "UP transfers 144 police officers ahead of assembly polls, enforcing three-year district tenure rule",
-    "summary": "The Uttar Pradesh government has transferred 144 police officers, moving out those who had completed three years in a district in line with Election Commission norms, as preparations for the assembly elections gather momentum."
-   }
-  },
-  {
-   "id": "bhopal-eintkhedi-mother-two-children-die-poison-flour-dispute-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T11:26:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhopal-eintkhedi-mother-two-children-die-poison-flour-dispute-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhopal-eintkhedi-mother-two-children-die-poison-flour-dispute-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhopal-eintkhedi-mother-two-children-die-poison-flour-dispute-november-23-en.mp3",
-   "district": "Bhopal",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "भोपाल: आटे को लेकर विवाद के बाद महिला और उसके दो बच्चों की मौत, ज़हर देने का आरोप",
-    "summary": "भोपाल के ईंटखेड़ी इलाके में आटे को लेकर हुए घरेलू विवाद के बाद 37 वर्षीय महिला रुखसाना और उनके दो बच्चों की मौत हो गई। पुलिस के अनुसार महिला ने कथित तौर पर पहले बच्चों को ज़हर दिया और फिर खुद भी ज़हर खा लिया। तीनों की मौत शनिवार रात से रविवार के बीच हमीदिया अस्पताल में इलाज के दौरान हुई। पुलिस ने घर सील कर जाँच शुरू कर दी है।"
-   },
-   "en": {
-    "title": "Bhopal: Mother and her two children die after alleged poisoning following a dispute over flour",
-    "summary": "A 37-year-old woman and her two children have died in Bhopal's Eintkhedi area after an alleged poisoning that followed a domestic dispute over flour. Police said Rukhsana allegedly gave the children poison before consuming it herself; all three died at Hamidia Hospital between Saturday night and Sunday. Police have sealed the house and begun an investigation."
    }
   }
  ]
