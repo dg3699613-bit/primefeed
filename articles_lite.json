@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T22:01:29+05:30",
+ "updatedAt": "2026-11-24T22:18:42+05:30",
  "articles": [
+  {
+   "id": "us-trump-new-tariffs-16-economies-india-section-301-november-24",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T22:18:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-trump-new-tariffs-16-economies-india-section-301-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-trump-new-tariffs-16-economies-india-section-301-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-trump-new-tariffs-16-economies-india-section-301-november-24-en.mp3",
+   "hi": {
+    "title": "भारत, चीन समेत 16 देशों पर नए टैरिफ की तैयारी में ट्रंप प्रशासन, इसी हफ्ते आ सकता है फैसला",
+    "summary": "ट्रंप प्रशासन 16 देशों में औद्योगिक सब्सिडी और अतिरिक्त उत्पादन क्षमता की महीनों लंबी जाँच के नतीजे इसी हफ्ते जारी करने की तैयारी में है। भारत, चीन, यूरोपीय संघ और जापान समेत इन देशों पर नए आयात शुल्क लग सकते हैं; भारत और वियतनाम पर ऊँची दरें लगने की आशंका है, जबकि यूरोपीय संघ, जापान और दक्षिण कोरिया पर 15% की सीमा रह सकती है।"
+   },
+   "en": {
+    "title": "Trump administration poised to unveil fresh tariffs on India, China and 14 other economies after subsidies probe",
+    "summary": "The Trump administration is poised to release the findings of a months-long Section 301 probe into excess industrial capacity in 16 economies, including India, China, the EU and Japan, with new import duties expected as early as Tuesday or Wednesday. India and Vietnam could face higher rates, while the EU, Japan and South Korea may be capped at 15%."
+   }
+  },
+  {
+   "id": "west-bengal-bharosa-scheme-unemployed-graduates-2000-monthly-november-24",
+   "category": "Government Schemes",
+   "sub": "State Schemes",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T22:18:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-scheme-unemployed-graduates-2000-monthly-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-scheme-unemployed-graduates-2000-monthly-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-scheme-unemployed-graduates-2000-monthly-november-24-en.mp3",
+   "hi": {
+    "title": "पश्चिम बंगाल की भरोसा योजना: बेरोजगार स्नातकों को जनवरी से 2,000 रुपये महीना, भर्ती परीक्षा की फीस भी माफ",
+    "summary": "पश्चिम बंगाल के मुख्यमंत्री सुवेंदु अधिकारी ने भरोसा योजना की घोषणा की है, जिसके तहत बेरोजगार स्नातकों और डिप्लोमा धारकों को जनवरी 2027 से 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। यह मदद 15 महीने तक दी जाएगी। सरकार ने राज्य की सभी भर्ती परीक्षाओं की फीस भी माफ कर दी है।"
+   },
+   "en": {
+    "title": "Bengal's Bharosa scheme: unemployed graduates to get Rs 2,000 a month from January; recruitment exam fees waived",
+    "summary": "West Bengal Chief Minister Suvendu Adhikari has announced the Bharosa scheme, under which unemployed graduates and diploma holders will receive Rs 2,000 a month and non-graduates Rs 1,500 from January 2027 for 15 months. The government has also waived fees for all state recruitment exams."
+   }
+  },
   {
    "id": "morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24",
    "category": "State & Local",
@@ -3259,50 +3301,6 @@
    "en": {
     "title": "Nvidia brings Jensen Huang back as CEO 11 days after his exit, shares surge more than 31%",
     "summary": "Nvidia on Monday reinstated Jensen Huang as president and chief executive, just 11 days after he resigned, in a unanimous board vote that sent the company's shares up more than 31 percent in premarket trading and lifted the Nasdaq 6 percent."
-   }
-  },
-  {
-   "id": "dubey-alleges-indira-gandhi-spent-113-crore-1977-election-november-23",
-   "category": "Politics",
-   "sub": "BJP",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T20:14:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dubey-alleges-indira-gandhi-spent-113-crore-1977-election-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dubey-alleges-indira-gandhi-spent-113-crore-1977-election-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dubey-alleges-indira-gandhi-spent-113-crore-1977-election-november-23-en.mp3",
-   "hi": {
-    "title": "दुबे का राहुल पर पलटवार, आरोप: इंदिरा गांधी ने 1977 का चुनाव जीतने के लिए 113 करोड़ रुपये खर्च किए",
-    "summary": "बीजेपी सांसद निशिकांत दुबे ने सोमवार को 1978 की इंटेलिजेंस ब्यूरो की रिपोर्ट का हवाला देते हुए आरोप लगाया कि पूर्व प्रधानमंत्री इंदिरा गांधी ने 1977 का लोकसभा चुनाव जीतने के लिए 113 करोड़ रुपये खर्च किए थे, जो उनके हिसाब से आज के मूल्य में करीब 25,000 करोड़ रुपये के बराबर है। दुबे ने यह दावा अपनी 'कांग्रेस का काला अध्याय' श्रृंखला में एक्स पर किया है। ये आरोप उनकी अपनी व्याख्या हैं और इनकी स्वतंत्र पुष्टि नहीं हुई है।"
-   },
-   "en": {
-    "title": "Dubey counters Rahul's Ambani-Adani charge, alleges Indira Gandhi spent Rs 113 crore to win 1977 election",
-    "summary": "BJP MP Nishikant Dubey on Monday cited a 1978 Intelligence Bureau report to allege that former prime minister Indira Gandhi spent Rs 113 crore — about Rs 25,000 crore in today's value, by his count — to win the 1977 Lok Sabha election, with each Congress candidate getting Rs 2 lakh and two jeeps. The claims, made in his 'Congress's Dark Chapter' series on X, are his reading of the old report and have not been independently verified."
-   }
-  },
-  {
-   "id": "hyderabad-nims-acb-irregularities-800-gloves-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T20:01:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hyderabad-nims-acb-irregularities-800-gloves-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-nims-acb-irregularities-800-gloves-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-nims-acb-irregularities-800-gloves-november-23-en.mp3",
-   "district": "Hyderabad",
-   "state": "Telangana",
-   "hi": {
-    "title": "एक मरीज़ के लिए एक हफ़्ते में 800 दस्ताने, मौत के बाद भी बिल: हैदराबाद के निम्स में एसीबी को मिलीं गंभीर गड़बड़ियाँ",
-    "summary": "हैदराबाद के पंजागुट्टा स्थित निज़ाम इंस्टीट्यूट ऑफ़ मेडिकल साइंसेज़ (निम्स) में तेलंगाना भ्रष्टाचार निरोधक ब्यूरो (एसीबी) की अचानक जाँच में गंभीर गड़बड़ियाँ सामने आई हैं — एक मरीज़ के लिए एक हफ़्ते में 800 सर्जिकल दस्तानों का इस्तेमाल, मरीज़ों के छुट्टी के बाद करीब 66 लाख रुपये के बिल, और ऑपरेशन थिएटर के पास बिना अनुमति रखे करीब 5 करोड़ रुपये के इंप्लांट। एसीबी ने आगे की जाँच के लिए रिकॉर्ड ज़ब्त कर लिए हैं।"
-   },
-   "en": {
-    "title": "800 gloves for one patient, bills after death: ACB flags serious irregularities at Hyderabad's NIMS",
-    "summary": "Surprise checks by Telangana's Anti-Corruption Bureau at Nizam's Institute of Medical Sciences in Hyderabad have flagged serious irregularities — 800 surgical gloves billed for a single patient in a week, billing entries worth about Rs 66 lakh made after patients were discharged, and implants worth about Rs 5 crore stored near operation theatres without authorisation. The ACB has seized records for further verification."
    }
   }
  ]
