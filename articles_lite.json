@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T04:52:38+05:30",
+ "updatedAt": "2026-11-25T05:10:02+05:30",
  "articles": [
+  {
+   "id": "yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T05:10:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "27 नवंबर को गोंडा आएंगे सीएम योगी, मेधावी छात्रों को बांटेंगे टैबलेट; ठड़क्कीपट्टी में तैयारियां तेज",
+    "summary": "मुख्यमंत्री योगी आदित्यनाथ शुक्रवार, 27 नवंबर को गोंडा आएंगे और बेलसर ब्लॉक के ठड़क्कीपट्टी गांव में मेधावी छात्र-छात्राओं को टैबलेट वितरित करेंगे। मंगलवार को वरिष्ठ अधिकारियों ने कार्यक्रम स्थल का निरीक्षण किया, और पड़ोसी जिले श्रावस्ती से 1,100 छात्र-छात्राएं कार्यक्रम में शामिल होंगे।"
+   },
+   "en": {
+    "title": "CM Yogi to visit Gonda on November 27, will hand out tablets to meritorious students; preparations under way in Thadakkipatti",
+    "summary": "Chief Minister Yogi Adityanath will visit Gonda on Friday, 27 November, and hand out tablets to meritorious students at a programme in Thadakkipatti village in Belsar block. Senior district officials inspected the venue on Tuesday, and neighbouring Shravasti will send 1,100 students to the event."
+   }
+  },
+  {
+   "id": "kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T05:10:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24-en.mp3",
+   "hi": {
+    "title": "अमेरिका से स्वेच्छा से जाएंगे किल्मर अब्रेगो गार्सिया, स्पेन के लिए उड़ान; 20 महीने की कानूनी लड़ाई खत्म",
+    "summary": "किल्मर अब्रेगो गार्सिया, 31, संघीय अधिकारियों के साथ हुए समझौते के तहत स्वेच्छा से अमेरिका छोड़ेंगे, अमेरिकी मीडिया ने मंगलवार को बताया। वह मंगलवार शाम यूरोप के लिए उड़ान भर सकते हैं, स्पेन जा रहे हैं, और अंत में मेक्सिको पहुंचने की योजना है।"
+   },
+   "en": {
+    "title": "Kilmar Abrego Garcia to leave US voluntarily and fly to Spain, ending 20-month legal saga",
+    "summary": "Kilmar Abrego Garcia, 31, will leave the United States voluntarily under a negotiated agreement with federal authorities, US media reported on Tuesday. He is expected to fly to Europe on Tuesday evening, heading for Spain, and ultimately plans to make his way to Mexico."
+   }
+  },
   {
    "id": "delhi-biker-killed-chinese-manjha-barapullah-expressway-november-24",
    "category": "Crime & Law",
@@ -3245,52 +3289,6 @@
    "en": {
     "title": "CM Dhami gives Champawat ₹165.68 crore gift: 54 schemes inaugurated and launched, Tanakpur-Banbasa to get relief from waterlogging",
     "summary": "Chief Minister Pushkar Singh Dhami on Monday gave Champawat 54 development schemes worth ₹165.68 crore — 21 inaugurated and 33 launched — including a ₹86.83 crore modern drainage system for Tanakpur and Banbasa."
-   }
-  },
-  {
-   "id": "thirupparankundram-prohibitory-orders-police-deployed-karthigai-deepam-november-24",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T01:58:52+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thirupparankundram-prohibitory-orders-police-deployed-karthigai-deepam-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thirupparankundram-prohibitory-orders-police-deployed-karthigai-deepam-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thirupparankundram-prohibitory-orders-police-deployed-karthigai-deepam-november-24-en.mp3",
-   "hi": {
-    "title": "कार्तिगई दीपम से पहले तिरुप्परंकुंद्रम पहाड़ी पर 5,000 से ज़्यादा पुलिसकर्मी तैनात, मदुरै में निषेधाज्ञा लागू",
-    "summary": "कार्तिगई दीपम के दिन तिरुप्परंकुंद्रम पहाड़ी पर दीपाथून पर दीप जलाने को लेकर विवाद चरम पर है। मदुरै जिले में 25 नवंबर की सुबह तक निषेधाज्ञा लागू है और पहाड़ी के आसपास 5,000 से ज़्यादा पुलिसकर्मी तैनात हैं।"
-   },
-   "en": {
-    "title": "Madurai under prohibitory orders as over 5,000 police guard Thirupparankundram hill ahead of Karthigai Deepam",
-    "summary": "Prohibitory orders are in force across Madurai district until the morning of November 25, with more than 5,000 police personnel deployed around Thirupparankundram hill, as the dispute over lighting the Karthigai Deepam lamp at the Deepathoon peaks on Tuesday."
-   }
-  },
-  {
-   "id": "sheshnag-lake-excavator-outrage-amarnath-track-work-november-23",
-   "category": "Science",
-   "sub": "Environment",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T01:58:52+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Anantnag",
-   "state": "Jammu and Kashmir",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sheshnag-lake-excavator-outrage-amarnath-track-work-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sheshnag-lake-excavator-outrage-amarnath-track-work-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sheshnag-lake-excavator-outrage-amarnath-track-work-november-23-en.mp3",
-   "hi": {
-    "title": "शेषनाग झील के किनारे जेसीबी चलता देख भड़का आक्रोश, अमरनाथ मार्ग की नाजुक हिमनद झील पर सड़क बनाने का वीडियो वायरल",
-    "summary": "अमरनाथ यात्रा मार्ग पर स्थित शेषनाग झील के किनारे जेसीबी से खुदाई का वीडियो वायरल होने के बाद कश्मीर में आक्रोश भड़क उठा है। मीरवाइज़, पीडीपी और पर्यावरण कार्यकर्ताओं ने काम तुरंत रोकने की माँग की है, जबकि सीमा सड़क संगठन का कहना है कि काम मौजूदा रास्ते तक ही सीमित है।"
-   },
-   "en": {
-    "title": "Excavator at Sheshnag Lake sparks outrage as video shows heavy machine digging at fragile glacial lake on Amarnath route",
-    "summary": "A viral video of an excavator digging at the edge of Sheshnag Lake, a fragile glacial lake on the Amarnath Yatra route, has triggered outrage in Kashmir, with the Mirwaiz, the PDP and environmentalists demanding an immediate halt, even as the BRO says the work is confined to existing tracks."
    }
   }
  ]
