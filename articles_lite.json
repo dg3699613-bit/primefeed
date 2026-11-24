@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-24T14:31:49+05:30",
+ "updatedAt": "2026-11-24T14:44:00+05:30",
  "articles": [
+  {
+   "id": "poonch-loc-forest-fires-mendhar-balakote-november-24",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T14:44:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/poonch-loc-forest-fires-mendhar-balakote-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/poonch-loc-forest-fires-mendhar-balakote-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/poonch-loc-forest-fires-mendhar-balakote-november-24-en.mp3",
+   "district": "Poonch",
+   "state": "Jammu and Kashmir",
+   "hi": {
+    "title": "पुंछ: एलओसी के पास जंगल में तीसरे दिन भी आग, मेंढर में 2 नए इलाकों में भड़की लपटें; सेना ने बढ़ाई चौकसी",
+    "summary": "जम्मू-कश्मीर के पुंछ जिले में नियंत्रण रेखा के पास जंगल की आग मंगलवार को तीसरे दिन भी बुझ नहीं पाई है। मेंढर सेक्टर के गोहलाद टॉप और छज्जला पात्री के जंगलों में मंगलवार सुबह नई आग लग गई, जबकि बालाकोट के लांजोटे जंगल में रविवार शाम से लगी आग अब भी फैल रही है। अभी तक किसी के हताहत होने की खबर नहीं है। दुर्गम इलाके में दमकल की गाड़ियाँ नहीं पहुँच पा रहीं, इसलिए कर्मचारी हाथ से आग बुझा रहे हैं, और सेना ने सीमा पर चौकसी बढ़ा दी है।"
+   },
+   "en": {
+    "title": "Poonch: Forest fire along LoC burns into third day as fresh blazes erupt in Mendhar; Army steps up vigil",
+    "summary": "A forest fire along the Line of Control in Jammu and Kashmir's Poonch district was still burning on Tuesday, its third day. Fresh blazes broke out on Tuesday morning in the Gohlad Top and Chajjla Patri forests of the Mendhar sector, while the fire that began in the Lanjote forest of Balakote on Sunday evening kept spreading. No casualties have been reported. Fire tenders cannot reach the rugged terrain, so personnel are beating out the flames by hand, and the Army has stepped up vigilance along the border."
+   }
+  },
   {
    "id": "greater-noida-cylinder-blast-father-son-killed-jewar-november-24",
    "category": "State & Local",
@@ -3280,27 +3303,6 @@
    "en": {
     "title": "Drunk driving horror in Kolhapur: Two cousin brothers killed as former Gokul director's son rams car into them; accused held",
     "summary": "Two cousin brothers, Umesh and Ganesh Pathrud, were killed on the spot near Shivaji University in Kolhapur late on Sunday night after a car allegedly driven under the influence of alcohol hit them. Police have registered a case against Padmasingh Ranjitsinh Patil, son of former Gokul director Ranjitsinh Patil, and taken him into custody."
-   }
-  },
-  {
-   "id": "sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T13:08:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-tumbles-1600-points-from-high-investors-lose-3-lakh-crore-november-23-en.mp3",
-   "hi": {
-    "title": "सेंसेक्स दिन के ऊपरी स्तर से 1,600 अंक टूटा, सोमवार की बिकवाली में निवेशकों को 3 लाख करोड़ रुपये से ज्यादा का नुकसान",
-    "summary": "भारतीय शेयर बाजार सोमवार को मजबूत शुरुआत के बाद दोपहर तक तेजी से गिर गया। सेंसेक्स 1,000 अंक गिरकर 82,942 पर आ गया, जबकि निफ्टी 25,600 के नीचे फिसल गया। मुनाफावसूली, वैश्विक एआई शेयरों में बिकवाली और डेरिवेटिव एक्सपायरी की वजह से निवेशकों को 3 लाख करोड़ रुपये से ज्यादा का नुकसान हुआ।"
-   },
-   "en": {
-    "title": "Sensex tumbles 1,600 points from day's high as investors lose over ₹3 lakh crore in Monday sell-off",
-    "summary": "Indian markets gave up a strong opening on Monday, with the Sensex falling 1,000 points by midday and the Nifty slipping below 25,600. Investors lost over ₹3 lakh crore as profit booking, a global AI-led selloff and monthly derivatives expiry combined to drag banking and metal stocks down."
    }
   }
  ]
