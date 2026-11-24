@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-24T10:14:03+05:30",
+  "updatedAt": "2026-11-24T10:18:41+05:30",
   "articles": [
+    {
+      "id": "ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24",
+      "category": "Crime & Law",
+      "sub": "Courts",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-24T10:18:41+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24-en.mp3",
+      "district": "Raipur",
+      "state": "Chhattisgarh",
+      "hi": {
+        "title": "महादेव केस: ED ने वकील हिमांशु शेखर को रायपुर में गिरफ्तार किया, 28 नवंबर तक हिरासत में भेजा",
+        "summary": "बॉम्बे हाई कोर्ट ने मुंबई की विशेष अदालत का आदेश रद्द कर दिया था, जिसके बाद ED ने शेखर को रायपुर में गिरफ्तार किया। उन पर महादेव ऐप के कथित सरगना सौरभ चंद्राकर से 15 करोड़ रुपये लेकर मामलों में राहत दिलाने का वादा करने का आरोप है।"
+      },
+      "en": {
+        "title": "Mahadev case: ED arrests lawyer Himanshu Shekhar in Raipur, court grants custody till November 28",
+        "summary": "The Bombay High Court had quashed a Mumbai special court's order denying transit remand, after which the ED arrested Shekhar in Raipur. He is accused of taking Rs 15 crore from Mahadev app's alleged kingpin Sourabh Chandrakar, promising relief in cases."
+      }
+    },
     {
       "id": "rajsamand-bhim-trailer-overturns-catches-fire-one-dead-november-24",
       "category": "State & Local",
@@ -3277,27 +3300,6 @@
       },
       "district": "Jhargram",
       "state": "West Bengal"
-    },
-    {
-      "id": "india-new-zealand-wellington-test-draw-mitchell-phillips-november-23",
-      "category": "Cricket & Sports",
-      "sub": "Cricket",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-23T10:35:21+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-new-zealand-wellington-test-draw-mitchell-phillips-november-23.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-new-zealand-wellington-test-draw-mitchell-phillips-november-23-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-new-zealand-wellington-test-draw-mitchell-phillips-november-23-en.mp3",
-      "en": {
-        "title": "India's 720 not enough as Mitchell and Phillips bat New Zealand to safety in drawn Wellington Test",
-        "summary": "India's record 720 for 9 was not enough to force a win in the first Test against New Zealand at Wellington's Basin Reserve, as Daryl Mitchell and Glenn Phillips batted out the final day for a draw. New Zealand finished on 239 for 5, and India's World Test Championship hopes took a blow as its points percentage slipped to 50."
-      },
-      "hi": {
-        "title": "वेलिंग्टन टेस्ट ड्रॉ: मिचेल-फिलिप्स की दीवार के आगे 720 रन भी नाकाफ़ी, भारत की जीत छिन गई",
-        "summary": "वेलिंग्टन के बेसिन रिज़र्व में न्यूज़ीलैंड के खिलाफ पहले टेस्ट में भारत का रिकॉर्ड 720/9 भी जीत नहीं दिला सका। डेरिल मिचेल और ग्लेन फिलिप्स ने आखिरी दिन डटकर बल्लेबाज़ी की और न्यूज़ीलैंड 239/5 पर मैच ड्रॉ करा ले गया। विश्व टेस्ट चैंपियनशिप में भारत का अंक प्रतिशत गिरकर 50.00 रह गया।"
-      }
     }
   ]
 }
