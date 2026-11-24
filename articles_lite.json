@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-25T02:45:14+05:30",
+ "updatedAt": "2026-11-25T03:05:08+05:30",
  "articles": [
+  {
+   "id": "india-canada-cepa-very-close-official-daily-talks-november-24",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T03:05:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-canada-cepa-very-close-official-daily-talks-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-very-close-official-daily-talks-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-very-close-official-daily-talks-november-24-en.mp3",
+   "hi": {
+    "title": "भारत-कनाडा व्यापार समझौता 'बिल्कुल करीब', अधिकारी बोले — रोज़ाना बातचीत जारी, साल के अंत तक समझौते का लक्ष्य",
+    "summary": "भारत और कनाडा के वार्ताकार रोज़ाना चर्चा कर रहे हैं और प्रस्तावित व्यापक आर्थिक भागीदारी समझौते को अंतिम रूप देने के 'बिल्कुल करीब' हैं, एक अधिकारी ने 24 नवंबर को कहा। दोनों पक्ष साल के अंत तक समझौता पूरा करने का लक्ष्य लेकर चल रहे हैं, और 2030 तक द्विपक्षीय व्यापार 50 अरब डॉलर तक बढ़ाने का लक्ष्य रखा गया है।"
+   },
+   "en": {
+    "title": "India, Canada 'very close' to concluding trade pact, official says; daily talks on as year-end deadline nears",
+    "summary": "Negotiators from India and Canada are holding daily discussions and are 'very close' to concluding the proposed Comprehensive Economic Partnership Agreement, an official said on 24 November. Both sides aim to wrap up the pact by the end of the year, with bilateral trade targeted at $50 billion by 2030."
+   }
+  },
+  {
+   "id": "invest-telangana-global-summit-december-7-9-november-23",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T03:05:08+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/invest-telangana-global-summit-december-7-9-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/invest-telangana-global-summit-december-7-9-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/invest-telangana-global-summit-december-7-9-november-23-en.mp3",
+   "hi": {
+    "title": "तेलंगाना में 7 दिसंबर से देश का सबसे बड़ा राज्य स्तरीय वैश्विक शिखर सम्मेलन, 1,000 से अधिक कंपनियां और 1,500 सीईओ आएंगे",
+    "summary": "तेलंगाना 7 से 9 दिसंबर तक हैदराबाद के भारत फ्यूचर सिटी में इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 की मेज़बानी करेगा, मुख्यमंत्री ए रेवंत रेड्डी ने सोमवार को घोषणा की। देश की सबसे बड़ी राज्य स्तरीय बहु-क्षेत्रीय प्रदर्शनी के रूप में पेश किए जा रहे 80,000 वर्ग मीटर के इस शिखर सम्मेलन में 1,000 से अधिक कंपनियों और करीब 1,500 सीईओ, निवेशकों व राजदूतों के आने की उम्मीद है।"
+   },
+   "en": {
+    "title": "Telangana to host India's 'largest' state-led global summit from 7 December; 1,000+ firms, 1,500 CEOs expected",
+    "summary": "Telangana will host the Invest Telangana Global Summit 2026 from 7 to 9 December at Bharat Future City in Hyderabad, Chief Minister A Revanth Reddy announced on Monday. Billed as India's largest state-led multi-sector exhibition, the 80,000-square-metre summit is expected to draw more than 1,000 companies and around 1,500 CEOs, investors and ambassadors."
+   }
+  },
   {
    "id": "balaghat-field-328-crore-nagpur-robbery-recovery-november-24",
    "category": "Crime & Law",
@@ -3249,50 +3291,6 @@
    "en": {
     "title": "Akhilesh Yadav's Facebook page restored, Samajwadi Party thanks Meta",
     "summary": "Samajwadi Party president Akhilesh Yadav's official Facebook page has been restored. The party thanked Meta in a post on X. The page had stopped showing up on Sunday, after which the party cited a technical issue; Meta has issued no official statement so far."
-   }
-  },
-  {
-   "id": "chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack",
-   "category": "India",
-   "sub": "Defence",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T00:38:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chinese-satellites-37-unusual-manoeuvres-pahalgam-before-2025-terror-attack-en.mp3",
-   "hi": {
-    "title": "पहलगाम हमले से पहले चीनी सैटेलाइट्स ने कीं 37 असामान्य हरकतें, दिगंतरा की रिपोर्ट में खुलासा",
-    "summary": "बेंगलुरु की अंतरिक्ष निगरानी कंपनी दिगंतरा की रिपोर्ट के मुताबिक, चीन के पृथ्वी अवलोकन उपग्रहों ने 15 अप्रैल से 30 अप्रैल 2025 के बीच पहलगाम के ऊपर 37 असामान्य कक्षीय हरकतें कीं। याओगान-35 01ए ने हमले से 6 दिन पहले अपनी कक्षा बदलकर पहलगाम के ऊपर से गुज़रना दोगुना कर दिया था, लेकिन रिपोर्ट में इन हरकतों का हमले से कोई सीधा संबंध साबित नहीं हुआ है।"
-   },
-   "en": {
-    "title": "Chinese satellites made 37 unusual manoeuvres over Pahalgam before 2025 terror attack, finds Digantara report",
-    "summary": "Chinese Earth-observation satellites made 37 unusual orbital manoeuvres over Pahalgam between April 15 and April 30, 2025, according to a space surveillance analysis by Bengaluru-based startup Digantara. The Yaogan-35 01A satellite doubled its passes over the area 6 days before the April 22, 2025 attack, but the report establishes no direct link between the manoeuvres and the attack."
-   }
-  },
-  {
-   "id": "ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T00:19:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-summons-two-punjab-aap-mlas-moga-land-fraud-november-23-en.mp3",
-   "district": "Moga",
-   "state": "Punjab",
-   "hi": {
-    "title": "ईडी ने मोगा विधायक अमनदीप कौर अरोड़ा और धरमकोट विधायक को समन भेजा, 26 नवंबर को पेशी",
-    "summary": "प्रवर्तन निदेशालय ने पंजाब के मोगा विधायक डॉ. अमनदीप कौर अरोड़ा और धरमकोट विधायक देविंदरजीत सिंह लद्दी ढोसे को राष्ट्रीय राजमार्ग 754ए के लिए भूमि मुआवज़े से जुड़े कथित मनी लॉन्ड्रिंग मामले में पूछताछ के लिए समन भेजा है। अरोड़ा को 26 नवंबर को पेश होना है, जिस दिन आप मोगा में मेगा रैली कर रही है।"
-   },
-   "en": {
-    "title": "ED summons two Punjab AAP MLAs in Moga land-compensation probe; Arora called on November 26",
-    "summary": "The Enforcement Directorate has summoned Moga MLA Dr Amandeep Kaur Arora and Dharamkot MLA Devinderjit Singh Laddi Dhose for questioning in an alleged money-laundering probe linked to land compensation for National Highway 754A. Arora has been asked to appear on November 26, the day the AAP holds a mega rally in Moga."
    }
   }
  ]
