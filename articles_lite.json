@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T16:19:36+05:30",
+ "updatedAt": "2026-11-24T16:28:55+05:30",
  "articles": [
+  {
+   "id": "motorola-edge-70-neo-india-launch-november-24",
+   "category": "Technology",
+   "sub": "Mobile",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T16:28:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/motorola-edge-70-neo-india-launch-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/motorola-edge-70-neo-india-launch-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/motorola-edge-70-neo-india-launch-november-24-en.mp3",
+   "en": {
+    "title": "Motorola Edge 70 Neo launched in India at Rs 40,999: 7,000mAh battery, 144Hz display, sale from December 1",
+    "summary": "Motorola has launched the Edge 70 Neo in India at Rs 40,999, with launch offers bringing the effective price down to Rs 34,999. The phone packs a 7,000mAh battery, a 144Hz AMOLED display and a 50MP Sony camera, and goes on sale on December 1."
+   },
+   "hi": {
+    "title": "भारत में लॉन्च हुआ Motorola Edge 70 Neo: 40,999 रुपये कीमत, 7,000mAh बैटरी और 144Hz डिस्प्ले, 1 दिसंबर से बिक्री",
+    "summary": "मोटोरोला ने भारत में Edge 70 Neo लॉन्च कर दिया है। इसकी कीमत 40,999 रुपये रखी गई है, लेकिन लॉन्च ऑफर के साथ यह 34,999 रुपये में मिलेगा। फोन में 7,000mAh बैटरी, 144Hz एमोलेड डिस्प्ले और 50MP सोनी कैमरा है, और इसकी बिक्री 1 दिसंबर से शुरू होगी।"
+   }
+  },
+  {
+   "id": "nahel-merzouk-murder-trial-versailles-court-november-24",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T16:28:55+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nahel-merzouk-murder-trial-versailles-court-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nahel-merzouk-murder-trial-versailles-court-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nahel-merzouk-murder-trial-versailles-court-november-24-en.mp3",
+   "en": {
+    "title": "French officer who shot dead teenager Nahel Merzouk to stand trial for murder, Versailles court rules",
+    "summary": "A French appeals court has ruled that the police officer who shot dead 17-year-old Nahel Merzouk during a traffic stop in Nanterre in June 2023 will stand trial for murder. The decision restores the murder charge months after it was lowered to a lesser offence."
+   },
+   "hi": {
+    "title": "नाहेल मर्ज़ूक को गोली मारने वाला फ्रांसीसी पुलिसकर्मी हत्या के मुकदमे का सामना करेगा, वर्साय कोर्ट का फैसला",
+    "summary": "फ्रांस की एक अपील अदालत ने फैसला दिया है कि जून 2023 में नैन्टेयर में ट्रैफिक जांच के दौरान 17 साल के नाहेल मर्ज़ूक को गोली मारकर मारने वाला पुलिसकर्मी हत्या के मुकदमे का सामना करेगा। यह फैसला कुछ महीने पहले हत्या का आरोप घटाकर कम गंभीर धारा में बदले जाने के बाद आया है।"
+   }
+  },
   {
    "id": "three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected",
    "category": "State & Local",
@@ -275,13 +317,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
    },
    "featured": false,
    "hi": {
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3264,50 +3306,6 @@
    },
    "district": "Jaisalmer",
    "state": "Rajasthan"
-  },
-  {
-   "id": "bjp-mla-aide-sandeep-birla-found-dead-khargone-police-suspect-road-accident",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T15:00:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-mla-aide-sandeep-birla-found-dead-khargone-police-suspect-road-accident.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-mla-aide-sandeep-birla-found-dead-khargone-police-suspect-road-accident-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-mla-aide-sandeep-birla-found-dead-khargone-police-suspect-road-accident-en.mp3",
-   "en": {
-    "title": "BJP MLA's aide found dead in drain in Khargone; police suspect road accident, forensic probe on",
-    "summary": "Sandeep Birla, 30, personal assistant to Badwah BJP MLA Sachin Birla for over 10 years, was found dead in a roadside drain outside Bediya village in Madhya Pradesh's Khargone district on Sunday morning. Police suspect a road accident, but say the exact cause is not yet clear and a forensic team is examining the spot."
-   },
-   "hi": {
-    "title": "खरगोन में भाजपा विधायक के निजी सहायक की संदिग्ध मौत, नाली में मिला शव; पुलिस को सड़क हादसे की आशंका",
-    "summary": "मध्य प्रदेश के खरगोन जिले में बड़वाह से भाजपा विधायक सचिन बिरला के निजी सहायक संदीप बिरला (30) का शव रविवार सुबह बेड़िया गांव के बाहर सड़क किनारे नाली में मिला। पुलिस इसे सड़क हादसा मान रही है, लेकिन मौत की असली वजह अभी साफ नहीं है और फॉरेंसिक टीम मौके की जाँच कर रही है।"
-   },
-   "district": "Khargone",
-   "state": "Madhya Pradesh"
-  },
-  {
-   "id": "free-cancer-injections-sold-at-full-price-15000-patients-cheated-across-6-states",
-   "category": "Crime & Law",
-   "sub": "Scams & Fraud",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T15:00:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/free-cancer-injections-sold-at-full-price-15000-patients-cheated-across-6-states.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/free-cancer-injections-sold-at-full-price-15000-patients-cheated-across-6-states-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/free-cancer-injections-sold-at-full-price-15000-patients-cheated-across-6-states-en.mp3",
-   "en": {
-    "title": "Free cancer injections sold at full price: 15,000 patients cheated across 6 states, SIT probe widens",
-    "summary": "An investigation into a cancer drug racket has found that free injections supplied by the Karnataka government and private companies were allegedly sold to patients at full market price, cheating more than 15,000 patients across six states. The alleged kingpin, R. Prashanth Babu, is in custody, and the SIT is now tracing the full scale of the diversion."
-   },
-   "hi": {
-    "title": "मुफ्त मिलने वाले कैंसर के इंजेक्शन ऊंचे दाम पर बेचे, 6 राज्यों में 15,000 से ज्यादा मरीज ठगे",
-    "summary": "कैंसर की दवाओं के एक रैकेट की जाँच में सामने आया है कि कर्नाटक सरकार और निजी कंपनियों की ओर से मुफ्त दी जाने वाली दवाएँ मरीजों को पूरे बाज़ार भाव पर बेची जा रही थीं, जिससे 6 राज्यों के 15,000 से ज्यादा मरीज ठगे गए। कथित सरगना आर प्रशांत बाबू हिरासत में है और एसआईटी अब इस गड़बड़ी का पूरा दायरा खंगाल रही है।"
-   }
   }
  ]
 }
