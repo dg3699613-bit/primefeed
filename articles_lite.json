@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-25T03:05:08+05:30",
+ "updatedAt": "2026-11-25T03:19:10+05:30",
  "articles": [
+  {
+   "id": "bjp-sad-alliance-revived-punjab-2027-sad-bade-bhai-november-24",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-25T03:19:10+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bjp-sad-alliance-revived-punjab-2027-sad-bade-bhai-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-sad-alliance-revived-punjab-2027-sad-bade-bhai-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bjp-sad-alliance-revived-punjab-2027-sad-bade-bhai-november-24-en.mp3",
+   "hi": {
+    "title": "6 साल बाद BJP-अकाली दल फिर साथ: पंजाब 2027 के लिए गठबंधन, 'बड़े भाई' अकाली दल से होगा CM चेहरा",
+    "summary": "भाजपा और शिरोमणि अकाली दल ने मंगलवार को पंजाब विधानसभा चुनाव 2027 के लिए चुनाव-पूर्व गठबंधन का ऐलान कर दिया। कृषि कानूनों पर 6 साल पहले एनडीए से अलग हुआ अकाली दल अब फिर गठबंधन में लौट आया है। अमित शाह ने कहा कि अकाली दल गठबंधन में 'बड़े भाई' की भूमिका में रहेगा और मुख्यमंत्री उसी के दल से होगा; दोनों दल 117 सीटों पर साथ चुनाव लड़ेंगे।"
+   },
+   "en": {
+    "title": "BJP and Akali Dal reunite after 6 years for Punjab 2027; SAD to be 'bade bhai', CM face from Akali Dal",
+    "summary": "The BJP and the Shiromani Akali Dal on Tuesday announced a pre-poll alliance for the 2027 Punjab Assembly elections, bringing the Akali Dal back into the NDA six years after it walked out over the farm laws. Amit Shah said the Akali Dal will be the alliance's 'bade bhai' and the chief minister will come from the Punjab party; the two parties will contest all 117 seats together."
+   }
+  },
   {
    "id": "india-canada-cepa-very-close-official-daily-talks-november-24",
    "category": "Business",
@@ -352,7 +373,7 @@
    "category": "World",
    "sub": "Middle East",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-25T00:03:30+05:30",
    "source": "PrimeFeed Desk",
@@ -3270,27 +3291,6 @@
    "en": {
     "title": "Rampur police serve notice on Azam Khan at his home in 2007 land-dispute case",
     "summary": "Rampur police served a notice on Samajwadi Party leader Azam Khan at his home in a land-dispute case registered in 2007. The team waited outside his house for around 30 minutes before handing the notice to his lawyer. The case relates to an anti-encroachment drive in the Ganj area in 2006; the complainant and the then SDM have both died."
-   }
-  },
-  {
-   "id": "akhilesh-yadav-facebook-page-restored-sp-thanks-meta-november-23",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T00:53:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/akhilesh-yadav-facebook-page-restored-sp-thanks-meta-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akhilesh-yadav-facebook-page-restored-sp-thanks-meta-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/akhilesh-yadav-facebook-page-restored-sp-thanks-meta-november-23-en.mp3",
-   "hi": {
-    "title": "अखिलेश यादव का फेसबुक पेज बहाल, सपा ने मेटा को कहा धन्यवाद",
-    "summary": "समाजवादी पार्टी के राष्ट्रीय अध्यक्ष अखिलेश यादव का आधिकारिक फेसबुक पेज बहाल हो गया है। पार्टी ने एक्स पर पोस्ट कर मेटा को धन्यवाद दिया। पेज रविवार को नज़र आना बंद हो गया था, जिसके बाद पार्टी ने तकनीकी दिक्कत बताई थी; मेटा की ओर से अब तक कोई आधिकारिक बयान नहीं आया है।"
-   },
-   "en": {
-    "title": "Akhilesh Yadav's Facebook page restored, Samajwadi Party thanks Meta",
-    "summary": "Samajwadi Party president Akhilesh Yadav's official Facebook page has been restored. The party thanked Meta in a post on X. The page had stopped showing up on Sunday, after which the party cited a technical issue; Meta has issued no official statement so far."
    }
   }
  ]
