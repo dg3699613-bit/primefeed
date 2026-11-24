@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T15:14:53+05:30",
+ "updatedAt": "2026-11-24T15:24:12+05:30",
  "articles": [
+  {
+   "id": "rampur-bolero-falls-flyover-four-friends-killed-november-24",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T15:24:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rampur-bolero-falls-flyover-four-friends-killed-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rampur-bolero-falls-flyover-four-friends-killed-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rampur-bolero-falls-flyover-four-friends-killed-november-24-en.mp3",
+   "district": "Rampur",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "रामपुर: फ्लाईओवर से 30 फीट नीचे गिरी बोलेरो, सीतापुर के 4 दोस्तों की मौत",
+    "summary": "रामपुर में सोमवार देर शाम तेज़ रफ्तार बोलेरो फ्लाईओवर से करीब 30 फीट नीचे जा गिरी। सीतापुर के बिसवां के रहने वाले 4 दोस्तों की मौत हो गई — 3 ने मौके पर दम तोड़ दिया, चौथे की अस्पताल ले जाते समय मौत हुई। चारों मुरादाबाद से घर लौट रहे थे।"
+   },
+   "en": {
+    "title": "Bolero plunges 30 feet off flyover in Rampur, four friends from Sitapur killed",
+    "summary": "A speeding Bolero plunged nearly 30 feet off a flyover in Rampur on Monday evening, killing four friends from Biswan in Sitapur district. Three died on the spot and the fourth died on the way to hospital. All four were returning home from Moradabad."
+   }
+  },
+  {
+   "id": "russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24",
+   "category": "World",
+   "sub": "Europe",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T15:24:12+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24-en.mp3",
+   "hi": {
+    "title": "ज़ापोरिज़्ज़िया पर रूसी हमले में 2 की मौत, 40 घायल; 5 मंज़िला इमारत आधी ढही",
+    "summary": "रूस ने मंगलवार तड़के ज़ापोरिज़्ज़िया पर हमले किए, जिनमें 2 लोगों की मौत हो गई और 40 घायल हुए, जिनमें 4 बच्चे भी हैं। एक निजी मकान तबाह हो गया और 5 मंज़िला अपार्टमेंट इमारत आधी ढह गई।"
+   },
+   "en": {
+    "title": "Russian strikes kill 2, injure 40 in Zaporizhzhia; five-storey building partly destroyed",
+    "summary": "Russian strikes on the southeastern Ukrainian city of Zaporizhzhia early on Tuesday killed two people and injured 40, including four children. A private home was destroyed and a five-storey apartment building was partly demolished."
+   }
+  },
   {
    "id": "colombia-villavicencio-car-bomb-meta-government-dozens-injured-november-24",
    "category": "World",
@@ -3259,50 +3303,6 @@
    "en": {
     "title": "Godhra train burning case: Supreme Court suspends life sentence of convict Irfan Siraj Pada on medical grounds after 18 years in jail",
     "summary": "The Supreme Court has suspended the life sentence of Irfan Siraj Pada, a convict in the 2002 Godhra train burning case, on medical grounds. A bench of Justices M M Sundresh and Prasanna B Varale noted that Pada has spent over 18 years in jail and is suffering from medical ailments. The Gujarat government did not oppose the relief."
-   }
-  },
-  {
-   "id": "six-month-pregnant-woman-found-hanging-in-gonda-family-alleges-dowry-harassment",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T13:51:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/six-month-pregnant-woman-found-hanging-in-gonda-family-alleges-dowry-harassment.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-month-pregnant-woman-found-hanging-in-gonda-family-alleges-dowry-harassment-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/six-month-pregnant-woman-found-hanging-in-gonda-family-alleges-dowry-harassment-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा: 6 माह की गर्भवती नंदिनी का शव घर में फंदे से लटका मिला, मायके पक्ष ने दहेज प्रताड़ना का आरोप लगाया",
-    "summary": "गोंडा के मिश्रौलिया गाँव में रविवार को 21 वर्षीय गर्भवती नंदिनी का शव घर में फंदे से लटका मिला। वह 6 माह की गर्भवती थीं। मायके पक्ष ने ससुराल वालों पर दहेज के लिए प्रताड़ित करने का आरोप लगाया है। पुलिस को अभी कोई तहरीर नहीं मिली है; शव पोस्टमार्टम के बाद परिजनों को सौंप दिया गया।"
-   },
-   "en": {
-    "title": "6-month-pregnant Nandini found hanging in Gonda home; family alleges dowry harassment",
-    "summary": "The body of 21-year-old Nandini, 6 months pregnant, was found hanging inside her home in Mishrauli village, Gonda, on Sunday. Her family has accused her in-laws of harassing her over dowry. Police say no written complaint has been filed yet; the body was handed over to the family after postmortem."
-   }
-  },
-  {
-   "id": "esic-rules-2026-sickness-maternity-benefits-now-automatic",
-   "category": "Government Schemes",
-   "sub": "Centre Schemes",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T13:51:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/esic-rules-2026-sickness-maternity-benefits-now-automatic.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/esic-rules-2026-sickness-maternity-benefits-now-automatic-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/esic-rules-2026-sickness-maternity-benefits-now-automatic-en.mp3",
-   "hi": {
-    "title": "ईएसआईसी नियम 2026: बीमारी और मातृत्व लाभ अब बिना आवेदन सीधे खाते में, 4 करोड़ मज़दूरों को राहत",
-    "summary": "कर्मचारी राज्य बीमा निगम ने नए नियम अधिसूचित कर दिए हैं। अब बीमारी और मातृत्व लाभ के लिए अलग से आवेदन नहीं करना होगा — पात्र मज़दूरों को राशि सीधे बैंक खाते में मिलेगी। काम से जुड़ी चोट के मामले में नियोक्ता की दुर्घटना रिपोर्ट ही दावा मानी जाएगी। नए नियम करीब 4 करोड़ बीमित मज़दूरों और 15 करोड़ लाभार्थियों पर लागू होंगे।"
-   },
-   "en": {
-    "title": "ESIC Rules 2026: sickness and maternity benefits go automatic, straight to workers' bank accounts",
-    "summary": "The Employees' State Insurance Corporation has notified new rules under which sickness and maternity benefits will be paid automatically, without a separate claim, directly into workers' bank accounts. For work-related injuries, the employer's accident report will itself count as the claim. The changes cover nearly 40 million insured workers and around 150 million beneficiaries."
    }
   }
  ]
