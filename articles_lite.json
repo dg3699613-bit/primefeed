@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T23:32:17+05:30",
+ "updatedAt": "2026-11-24T23:47:19+05:30",
  "articles": [
+  {
+   "id": "badrinath-donation-theft-sit-submits-300-page-report-november-24",
+   "category": "Dharm-Astrology",
+   "sub": "Mandir & Teerth",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T23:47:19+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/badrinath-donation-theft-sit-submits-300-page-report-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/badrinath-donation-theft-sit-submits-300-page-report-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/badrinath-donation-theft-sit-submits-300-page-report-november-24-en.mp3",
+   "district": "Chamoli",
+   "state": "Uttarakhand",
+   "hi": {
+    "title": "बदरीनाथ चढ़ावा चोरी: एसआईटी ने शासन को सौंपी 300 पन्नों की रिपोर्ट, कांच की दीवारों में गिनती की सिफारिश",
+    "summary": "बदरीनाथ धाम में चढ़ावे की गिनती में हेराफेरी के मामले की करीब 5 महीने तक जाँच के बाद 3 सदस्यीय एसआईटी ने शासन को 300 से अधिक पन्नों की रिपोर्ट सौंप दी है। रिपोर्ट में गिनती, सुरक्षा और बैंक खाते में जमा कराने की व्यवस्था में खामियाँ बताई गई हैं, और कांच की दीवारों में गिनती, 360 डिग्री कैमरे व बिना जेब वाले कपड़ों की सिफारिश की गई है।"
+   },
+   "en": {
+    "title": "Badrinath donation theft: SIT submits 300-page report, recommends glass-walled counting room and pocketless clothes",
+    "summary": "After a five-month probe into irregularities in the counting of offerings at the Badrinath shrine, a three-member SIT has submitted a report of more than 300 pages to the Uttarakhand government. It flags gaps in counting, security and bank deposits, and suggests a glass-walled counting room, 360-degree cameras and pocketless clothes for counting staff."
+   }
+  },
+  {
+   "id": "gukesh-draws-game-1-sindarov-world-chess-championship-november-24",
+   "category": "Cricket & Sports",
+   "sub": "Chess",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T23:47:19+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-draws-game-1-sindarov-world-chess-championship-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-draws-game-1-sindarov-world-chess-championship-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-draws-game-1-sindarov-world-chess-championship-november-24-en.mp3",
+   "hi": {
+    "title": "गुकेश ने सिंदारोव को पहले गेम में ड्रॉ पर रोका, 38 चालों में बराबरी; स्कोर 0.5-0.5",
+    "summary": "विश्व चैंपियन डी गुकेश ने मंगलवार को जिनेवा में विश्व शतरंज चैंपियनशिप के पहले गेम में जावोखिर सिंदारोव को काले मोहरों से ड्रॉ पर रोक दिया। 38 चालों का यह गेम तीन बार एक ही स्थिति दोहराए जाने पर ड्रॉ हुआ; बुधवार को दूसरे गेम में गुकेश को सफ़ेद मोहरे मिलेंगे।"
+   },
+   "en": {
+    "title": "Gukesh holds Sindarov to a draw in Game 1 after 38 moves; World Chess Championship level at 0.5-0.5",
+    "summary": "Defending champion D Gukesh held challenger Javokhir Sindarov to a draw with the Black pieces in Game 1 of the World Chess Championship in Geneva on Tuesday. The 38-move game was drawn by threefold repetition, and Gukesh will have White in Game 2 on Wednesday."
+   }
+  },
   {
    "id": "saharsa-custody-death-sho-among-five-suspended-november-24",
    "category": "Crime & Law",
@@ -3257,50 +3301,6 @@
    "en": {
     "title": "Class 7 girl dies at Malkangiri ashram school hostel, family alleges delay in medical treatment",
     "summary": "Rashmita Hantal, a 12-year-old Class 7 student at the state-run Parkanamala Ashram School in Odisha's Malkangiri district, died at a hospital on Sunday morning after falling ill in the hostel on Saturday night. Her family has alleged that the school delayed medical treatment, and the district welfare officer and police have begun separate inquiries."
-   }
-  },
-  {
-   "id": "krmb-meeting-no-decision-telangana-ap-nagarjunasagar-water-november-23",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T21:50:22+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/krmb-meeting-no-decision-telangana-ap-nagarjunasagar-water-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krmb-meeting-no-decision-telangana-ap-nagarjunasagar-water-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/krmb-meeting-no-decision-telangana-ap-nagarjunasagar-water-november-23-en.mp3",
-   "district": "Hyderabad",
-   "state": "Telangana",
-   "hi": {
-    "title": "नागार्जुनसागर के पानी पर तेलंगाना-आंध्र प्रदेश में टकराव, केआरएमबी की बैठक बिना फैसले खत्म",
-    "summary": "कृष्णा नदी प्रबंधन बोर्ड की 3 सदस्यीय समिति की सोमवार को हैदराबाद में हुई बैठक बिना फैसले खत्म हो गई। तेलंगाना ने नागार्जुनसागर से आंध्र प्रदेश की 19 टीएमसी फीट पानी की माँग का विरोध किया, जबकि तेलंगाना ने फरवरी के अंत तक हैदराबाद के लिए 21 टीएमसी फीट पानी माँगा। बैठक से पहले भारत राष्ट्र समिति के नेताओं को घर में नज़रबंद कर दिया गया।"
-   },
-   "en": {
-    "title": "KRMB meet ends without decision as Telangana and Andhra Pradesh clash over Nagarjunasagar water",
-    "summary": "The Krishna River Management Board's three-member committee met in Hyderabad on Monday to discuss drinking water needs for the next 3 months, but ended without a decision as Telangana opposed Andhra Pradesh's demand for 19 tmc ft from Nagarjunasagar. Telangana sought 21 tmc ft till February-end for Hyderabad, while BRS leaders were placed under house arrest ahead of the meeting."
-   }
-  },
-  {
-   "id": "bangladesh-vows-arrest-sheikh-hasina-return-india-november-23",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T21:35:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-vows-arrest-sheikh-hasina-return-india-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-vows-arrest-sheikh-hasina-return-india-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-vows-arrest-sheikh-hasina-return-india-november-23-en.mp3",
-   "hi": {
-    "title": "लौटते ही गिरफ्तार होंगी शेख हसीना, जेल जाना होगा: बांग्लादेश ने कहा — भारत प्रत्यर्पण संधि का सम्मान करे",
-    "summary": "बांग्लादेश की विदेश राज्य मंत्री शमा ओबैद इस्लाम ने रॉयटर्स को दिए इंटरव्यू में कहा कि दिसंबर में लौटने की योजना बना रहीं पूर्व प्रधानमंत्री शेख हसीना को देश में कदम रखते ही गिरफ्तार कर जेल भेजा जाएगा। ढाका ने भारत से प्रत्यर्पण संधि के तहत हसीना को सौंपने की माँग भी दोहराई है।"
-   },
-   "en": {
-    "title": "Sheikh Hasina will be arrested the moment she returns and sent to jail, Bangladesh says — India must honour extradition treaty",
-    "summary": "Bangladesh's State Minister for Foreign Affairs Shama Obaed Islam told Reuters that former prime minister Sheikh Hasina will be arrested and jailed the moment she sets foot in the country, as she plans a return in December. Dhaka has also pressed India again to hand her over under the extradition treaty."
    }
   }
  ]
