@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T09:31:46+05:30",
+ "updatedAt": "2026-11-24T09:46:30+05:30",
  "articles": [
+  {
+   "id": "kolkata-dhakuria-car-rams-footpath-seven-injured-november-24",
+   "category": "State & Local",
+   "sub": "West Bengal",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T09:46:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-en.mp3",
+   "district": "Kolkata",
+   "state": "West Bengal",
+   "hi": {
+    "title": "ढाकुरिया में बेकाबू कार फुटपाथ पर चढ़ी, 7 लोग घायल; 4 की हालत गंभीर, चालक हिरासत में",
+    "summary": "कोलकाता के ढाकुरिया स्टेशन के पास सोमवार रात एक तेज रफ्तार कार नियंत्रण खोकर फुटपाथ पर चढ़ गई। हादसे में कम से कम 7 लोग घायल हो गए, जिनमें 4 की हालत गंभीर है। पुलिस ने गाड़ी जब्त कर ली है और चालक को हिरासत में ले लिया है।"
+   },
+   "en": {
+    "title": "Speeding car mounts footpath near Dhakuria station in Kolkata, 7 injured; 4 critical, driver detained",
+    "summary": "A speeding car lost control and mounted a footpath near Dhakuria station in Kolkata late on Monday night. At least 7 people were injured, 4 of them critically. Police have seized the car and detained the driver."
+   }
+  },
+  {
+   "id": "gukesh-sindarov-world-chess-championship-game-1-geneva-november-24",
+   "category": "Cricket & Sports",
+   "sub": "Chess",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T09:46:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-sindarov-world-chess-championship-game-1-geneva-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-world-chess-championship-game-1-geneva-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-world-chess-championship-game-1-geneva-november-24-en.mp3",
+   "hi": {
+    "title": "गुकेश बनाम सिंदारोव: विश्व शतरंज चैंपियनशिप का पहला गेम आज रात, 7:30 बजे से मुकाबला",
+    "summary": "भारत के विश्व चैंपियन डी गुकेश आज रात जिनेवा में उज़्बेकिस्तान के जावोखिर सिंदारोव के खिलाफ विश्व शतरंज चैंपियनशिप के पहले गेम में उतरेंगे। 14 गेम की इस सीरीज़ में जो पहले 7.5 अंक बनाएगा, वही विश्व चैंपियन बनेगा।"
+   },
+   "en": {
+    "title": "Gukesh vs Sindarov: World Chess Championship Game 1 tonight at 7:30 pm IST in Geneva",
+    "summary": "Defending champion D. Gukesh takes on Uzbekistan's Javokhir Sindarov in Game 1 of the World Chess Championship in Geneva tonight. The 14-game match will crown the first player to 7.5 points as world champion."
+   }
+  },
   {
    "id": "zeeshan-ali-first-pakistani-in-space-shenzhou-24-crew-november-25",
    "category": "Science",
@@ -3253,50 +3297,6 @@
    "en": {
     "title": "Katihar: Pappu Yadav's escort vehicle falls into ditch near under-construction bridge; 5 injured, MP safe",
     "summary": "Five people were injured after a police escort vehicle in Purnea MP Pappu Yadav's convoy plunged into a roadside ditch near an under-construction bridge in Bihar's Katihar district late on Sunday night. The MP escaped unhurt and blamed the contractor and PWD officials for the lack of warning signs and barricades at the site."
-   }
-  },
-  {
-   "id": "mcc-handshake-india-pakistan-beyond-control-fraser-stewart-november-23",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T10:21:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mcc-handshake-india-pakistan-beyond-control-fraser-stewart-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mcc-handshake-india-pakistan-beyond-control-fraser-stewart-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mcc-handshake-india-pakistan-beyond-control-fraser-stewart-november-23-en.mp3",
-   "hi": {
-    "title": "एमसीसी ने कहा, भारत-पाकिस्तान हैंडशेक विवाद उसके बस से बाहर: 'ऊपर से आदेश आते हैं'",
-    "summary": "मैरीलेबोन क्रिकेट क्लब ने कहा है कि वह भारत और पाकिस्तान के खिलाड़ियों को हाथ मिलाने के लिए मजबूर नहीं कर सकता। दोहा में राइज़िंग स्टार्स एशिया कप मैच के दौरान दोनों टीमों ने फिर पारंपरिक हैंडशेक नहीं किया, जिसके बाद एमसीसी के क्रिकेट प्रमुख फ्रेज़र स्टीवर्ट ने यह बात कही।"
-   },
-   "en": {
-    "title": "MCC says India-Pakistan handshake row is beyond its control: 'Edicts coming from above'",
-    "summary": "The Marylebone Cricket Club has said it cannot force India and Pakistan players to shake hands, after the two teams again avoided the customary gesture during their Rising Stars Asia Cup match in Doha. MCC's head of cricket Fraser Stewart said handshakes are not part of the Laws of Cricket and the issue involves matters beyond the club's authority."
-   }
-  },
-  {
-   "id": "giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T10:07:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/giridih-jain-pilgrims-bus-accident-two-killed-12-injured-madhuban-november-23-en.mp3",
-   "district": "Giridih",
-   "state": "Jharkhand",
-   "hi": {
-    "title": "गिरिडीह: शिखरजी से लौट रही श्रद्धालुओं की बस पेड़ से टकराकर गड्ढे में पलटी, सूरत के दंपती की मौत; 12 से ज़्यादा घायल",
-    "summary": "झारखंड के गिरिडीह जिले में सोमवार को जैन श्रद्धालुओं की एक बस सड़क किनारे गड्ढे में पलट गई, जिसमें सूरत के 2 श्रद्धालुओं की मौत हो गई और 12 से ज़्यादा लोग घायल हो गए। श्रद्धालु सम्मेद शिखरजी की यात्रा से लौट रहे थे और टाटानगर रेलवे स्टेशन जा रहे थे।"
-   },
-   "en": {
-    "title": "Giridih: Bus carrying Jain pilgrims back from Shikharji overturns into ditch, Surat couple killed; over 12 injured",
-    "summary": "Two Jain pilgrims from Surat, a husband and wife, were killed and more than 12 others injured after their bus overturned into a roadside ditch in Jharkhand's Giridih district on Monday. The pilgrims were returning from Sammed Shikharji and were on their way to Tatanagar Railway Station."
    }
   }
  ]
