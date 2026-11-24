@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-24T14:04:51+05:30",
+ "updatedAt": "2026-11-24T14:14:48+05:30",
  "articles": [
+  {
+   "id": "silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T14:14:48+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24-en.mp3",
+   "district": "Cachar",
+   "state": "Assam",
+   "hi": {
+    "title": "सिलचर: 9 साल की बच्ची के यौन शोषण के आरोप में मुख्य आरोपी गिरफ्तार, शिकायत पर कार्रवाई न करने पर 2 पुलिसकर्मी निलंबित",
+    "summary": "असम के सिलचर में 9 साल की बच्ची के यौन शोषण के आरोप में मुख्य आरोपी राहुल रॉय उर्फ राजू (32) को सोमवार शाम गिरफ्तार कर लिया गया, जबकि शिकायत पर 11 दिन तक कार्रवाई न करने के आरोप में रंगीरखारी पुलिस चौकी के 2 पुलिसकर्मियों को निलंबित कर दिया गया है। काछाड़ के एसएसपी ने दोनों के खिलाफ आंतरिक जाँच के आदेश दिए हैं।"
+   },
+   "en": {
+    "title": "Silchar: Main accused arrested in alleged assault of 9-year-old girl; 2 policemen suspended for inaction",
+    "summary": "In Assam's Silchar, the main accused in the alleged sexual assault of a 9-year-old girl, Rahul Roy alias Raju, 32, was arrested on Monday evening, while two policemen of the Rangirkhari outpost were suspended for allegedly failing to act on the family's complaint for 11 days. Cachar SSP has ordered an internal inquiry against both."
+   }
+  },
   {
    "id": "lakhimpur-kheri-omni-truck-collision-four-killed-november-24",
    "category": "State & Local",
@@ -3276,29 +3299,6 @@
    "en": {
     "title": "Payyannur Dhanaraj murder case: 3 convicted, 17 acquitted a decade after killing; sentence on November 25",
     "summary": "The Taliparamba Additional District Sessions Court in Kannur on Monday convicted the first 3 accused in the 2016 murder of CPM worker C V Dhanaraj in Payyannur and acquitted the remaining 17. The court will pronounce the sentence on November 25."
-   }
-  },
-  {
-   "id": "ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22",
-   "category": "Crime & Law",
-   "sub": "Scams & Fraud",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T12:38:41+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-job-fraud-mastermind-amir-bhuyan-arrested-november-22-en.mp3",
-   "district": "Ganjam",
-   "state": "Odisha",
-   "hi": {
-    "title": "गंजम में नौकरी ठगी रैकेट का मास्टरमाइंड गिरफ्तार, 44 फर्जी नियुक्ति पत्र और हाईकोर्ट के 10 से ज़्यादा फर्जी आदेश बरामद",
-    "summary": "गंजम पुलिस ने नौकरी दिलाने के नाम पर ठगी करने वाले रैकेट के कथित मास्टरमाइंड अमीर कुमार भुइयां को भुवनेश्वर से गिरफ्तार किया है। उसके पास से 44 फर्जी नियुक्ति पत्र, हाईकोर्ट के 10 से ज़्यादा फर्जी आदेश और अदालतों व अधिकारियों की मोहरें बरामद हुई हैं।"
-   },
-   "en": {
-    "title": "Ganjam job-fraud racket mastermind arrested; 44 fake appointment letters, over 10 forged High Court orders seized",
-    "summary": "Ganjam police have arrested the alleged mastermind of a job-fraud racket, Amir Kumar Bhuyan, from Bhubaneswar. Police seized 44 fake appointment letters, more than 10 forged High Court order copies and the stamps and seals of courts and senior administrative officials."
    }
   }
  ]
