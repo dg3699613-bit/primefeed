@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-24T15:35:47+05:30",
+ "updatedAt": "2026-11-24T15:47:25+05:30",
  "articles": [
+  {
+   "id": "tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T15:47:25+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24-en.mp3",
+   "district": "Madurai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "तिरुप्परंकुंद्रम: दीपम से पहले तमिलनाडु भाजपा अध्यक्ष नैनार नागेंद्रन नज़रबंद, एल मुरुगन हिरासत में",
+    "summary": "कार्तिगई दीपम से पहले तिरुप्परंकुंद्रम में सुप्रीम कोर्ट के आदेश पर दीप जलाए जाने की पुष्टि करने जा रहे तमिलनाडु भाजपा अध्यक्ष नैनार नागेंद्रन को तिरुनेलवेली में उनके घर पर नज़रबंद कर दिया गया। पूर्व केंद्रीय मंत्री एल मुरुगन को अन्नूर में हिरासत में लिया गया; पहाड़ी पर 5,000 से ज़्यादा पुलिसकर्मी तैनात हैं।"
+   },
+   "en": {
+    "title": "TN BJP chief Nainar Nagenthran placed under house arrest ahead of Thirupparankundram Deepam; L Murugan detained",
+    "summary": "Tamil Nadu BJP president Nainar Nagenthran was placed under house arrest at his home in Tirunelveli on Tuesday while heading to Thirupparankundram to check whether the Karthigai Deepam would be lit at the Deepathoon as the Supreme Court ordered. Former Union minister L Murugan was detained at Annur; more than 5,000 police personnel are deployed on the hill."
+   }
+  },
+  {
+   "id": "diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T15:47:25+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24-en.mp3",
+   "district": "Bengaluru Urban",
+   "state": "Karnataka",
+   "hi": {
+    "title": "दिलजीत दोसांझ के बेंगलुरु कॉन्सर्ट को IED धमाके की धमकी, FIR दर्ज; ईमेल में 'खालिस्तान जिंदाबाद'",
+    "summary": "गायक दिलजीत दोसांझ के 29 नवंबर को बेंगलुरु के नाइस ग्राउंड्स, मदावरा में होने वाले कॉन्सर्ट में IED धमाका करने की धमकी भरे ईमेल पर बेंगलुरु पुलिस ने अज्ञात लोगों के खिलाफ FIR दर्ज की है। ईमेल में मदावरा मेट्रो स्टेशन को भी निशाना बनाने और 'खालिस्तान जिंदाबाद' लिखने की बात सामने आई है।"
+   },
+   "en": {
+    "title": "Bomb threat emailed over Diljit Dosanjh's Bengaluru concert on November 29, FIR filed; message ended with 'Khalistan Zindabad'",
+    "summary": "Bengaluru police have registered an FIR against unidentified persons over an email threatening an IED blast at singer Diljit Dosanjh's concert on November 29 at NICE Grounds in Madavara. The email also targeted the nearby Madavara Metro station and ended with the slogan 'Khalistan Zindabad'."
+   }
+  },
   {
    "id": "palakkad-school-firing-class-9-student-injured-november-24",
    "category": "Crime & Law",
@@ -3259,52 +3305,6 @@
    "en": {
     "title": "Supreme Court seeks Centre, EC response on PIL to stop 'strategic resignations' that dodge anti-defection law",
     "summary": "The Supreme Court on Monday sought responses from the Centre, the Election Commission and the Law Commission on a PIL seeking comprehensive reforms in the anti-defection framework. The plea says lawmakers use 'strategic resignations' to escape disqualification under the Tenth Schedule and asks that a resignation during pending disqualification proceedings should not end those proceedings."
-   }
-  },
-  {
-   "id": "kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23",
-   "category": "Health",
-   "sub": "Diseases",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T14:25:44+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-girdharpura-jaundice-hepatitis-a-contaminated-water-november-23-en.mp3",
-   "district": "Kota",
-   "state": "Rajasthan",
-   "hi": {
-    "title": "कोटा के गिरधपुरा में पीलिया का प्रकोप: 10 में हेपेटाइटिस ए की पुष्टि, 70 संदिग्ध; 2 और बच्चे बीमार",
-    "summary": "कोटा के गिरधपुरा गाँव में पेयजल में नाली का पानी मिलने की आशंका के बाद 10 लोगों में हेपेटाइटिस ए की पुष्टि हुई है। स्वास्थ्य विभाग को 70 संदिग्ध मरीज़ मिले हैं, 1,100 से अधिक घरों का सर्वे किया गया है, और सोमवार को 2 और बच्चे बीमार पड़े। अधिकारियों का कहना है कि कोई भी मरीज़ गंभीर हालत में नहीं है।"
-   },
-   "en": {
-    "title": "Jaundice outbreak in Kota's Girdharpura: hepatitis A confirmed in 10, 70 suspected; 2 more children fall ill",
-    "summary": "Ten people have tested positive for hepatitis A in Girdharpura village in Kota after drinking water was suspected to have been contaminated by drain water leaking into supply pipelines. Health teams have found 70 suspected cases, surveyed more than 1,100 houses, and two more children fell ill on Monday. Officials say no patient is in a serious condition."
-   }
-  },
-  {
-   "id": "german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T14:25:44+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/german-tourist-thomas-minten-found-dead-peerless-inn-kolkata-november-23-en.mp3",
-   "district": "Kolkata",
-   "state": "West Bengal",
-   "hi": {
-    "title": "कोलकाता के धर्मतला होटल में 67 वर्षीय जर्मन पर्यटक की रहस्यमय मौत, कमरे में मिला शव; होमिसाइड शाखा जाँच में जुटी",
-    "summary": "कोलकाता के धर्मतला इलाके के पीयरलेस इन होटल के कमरा नंबर 1602 में सोमवार सुबह 67 वर्षीय जर्मन पर्यटक थॉमस मिंटेन का शव मिला। वह 21 नवंबर को शहर आए थे और 25 नवंबर को बर्लिन लौटने वाले थे। शव पर चोट के निशान नहीं मिले हैं; मौत की वजह पोस्टमार्टम रिपोर्ट के बाद ही साफ होगी।"
-   },
-   "en": {
-    "title": "67-year-old German tourist found dead in Dharmatala hotel room in Kolkata; homicide branch probing mysterious death",
-    "summary": "The body of 67-year-old German tourist Thomas Minten was found in room 1602 of the Peerless Inn hotel in Kolkata's Dharmatala area on Monday morning. He had arrived in the city on 21 November and was due to fly back to Berlin on 25 November. Police found no injury marks on the body; the cause of death will be known after the post-mortem report."
    }
   }
  ]
