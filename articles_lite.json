@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T07:34:10+05:30",
+ "updatedAt": "2026-11-24T07:49:42+05:30",
  "articles": [
+  {
+   "id": "churachandpur-idps-warn-total-shutdown-november-30-november-24",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T07:49:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/churachandpur-idps-warn-total-shutdown-november-30-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-en.mp3",
+   "district": "Churachandpur",
+   "state": "Manipur",
+   "hi": {
+    "title": "चुराचांदपुर के विस्थापितों की चेतावनी: मांगें नहीं मानीं तो 30 नवंबर से पूर्ण बंद",
+    "summary": "मणिपुर के चुराचांदपुर जिले में रह रहे 30,896 विस्थापितों की समिति ने सरकार को चेतावनी दी है कि अगर उनकी लंबित मांगें पूरी नहीं हुईं तो 30 नवंबर से पूर्ण बंद किया जाएगा।"
+   },
+   "en": {
+    "title": "Churachandpur IDPs warn of total shutdown from November 30 if demands go unmet",
+    "summary": "The Joint Internally Displaced Persons Committee in Manipur's Churachandpur district has warned of a total shutdown from November 30 if the government does not address the pending demands of the district's 30,896 displaced people."
+   }
+  },
+  {
+   "id": "gopalganj-awami-league-factions-clash-20-injured-november-23",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T07:49:42+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gopalganj-awami-league-factions-clash-20-injured-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gopalganj-awami-league-factions-clash-20-injured-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gopalganj-awami-league-factions-clash-20-injured-november-23-en.mp3",
+   "hi": {
+    "title": "गोपालगंज में अवामी लीग के दो गुटों में झड़प, देसी बम फटे; 20 घायल",
+    "summary": "बांग्लादेश के गोपालगंज में सोमवार शाम प्रतिबंधित अवामी लीग के दो गुटों के समर्थकों के बीच हुई झड़प में कम से कम 20 लोग घायल हो गए। झड़प के दौरान 4 देसी बम फटे और 10 दुकानों में तोड़फोड़ हुई।"
+   },
+   "en": {
+    "title": "At least 20 injured as Awami League factions clash in Gopalganj",
+    "summary": "At least 20 people were injured when two factions of the activities-banned Awami League clashed in Gopalganj on Monday evening, with four crude bombs exploding and ten shops vandalised near the town's cricket stadium."
+   }
+  },
   {
    "id": "lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24",
    "category": "State & Local",
@@ -3259,50 +3303,6 @@
    "en": {
     "title": "Saryu-Kamala Express flags off today: PM Modi, Nepal PM Shah launch weekly Ayodhya-Janakpur train over 604 km",
     "summary": "Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah will flag off the new weekly Saryu-Kamala Express between Ayodhya and Janakpur today. The 604-km service will run regularly from 28 November."
-   }
-  },
-  {
-   "id": "india-win-centenary-hockey-series-1-0-new-zealand-november-22",
-   "category": "Cricket & Sports",
-   "sub": "Hockey",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T08:15:45+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-win-centenary-hockey-series-1-0-new-zealand-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-centenary-hockey-series-1-0-new-zealand-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-centenary-hockey-series-1-0-new-zealand-november-22-en.mp3",
-   "hi": {
-    "title": "भारतीय हॉकी टीम ने न्यूज़ीलैंड में शताब्दी सीरीज़ 1-0 से जीती, आखिरी मैच 2-2 से ड्रॉ रहा",
-    "summary": "भारत ने ऑकलैंड के लॉयड एल्समोर पार्क में खेले गए तीसरे और आखिरी मैच में मेज़बान न्यूज़ीलैंड को 2-2 से ड्रॉ पर रोककर शताब्दी सीरीज़ 1-0 से जीत ली और तीन मैचों की सीरीज़ में अजेय रहा।"
-   },
-   "en": {
-    "title": "India win centenary hockey series 1-0 in New Zealand after unbeaten 2-2 draw in Auckland finale",
-    "summary": "India clinched the Century of Sporting Unity hockey series 1-0 in New Zealand, holding the hosts to a 2-2 draw in the third and final match at Lloyd Elsmore Park in Auckland to finish the three-match series unbeaten."
-   }
-  },
-  {
-   "id": "pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T07:58:44+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pregnant-woman-dies-en-route-gmc-handwara-kupwara-probe-november-22-en.mp3",
-   "district": "Kupwara",
-   "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "कुपवाड़ा: 9 महीने की गर्भवती की जीएमसी हंडवाड़ा ले जाते वक्त मौत, डीसी ने अस्पताल का निरीक्षण किया, विधायक ने जांच मांगी",
-    "summary": "9 महीने की गर्भवती खुशबू जान की उप-जिला अस्पताल कुपवाड़ा से राजकीय मेडिकल कॉलेज हंडवाड़ा ले जाते वक्त मौत हो गई। परिवार ने चिकित्सकीय लापरवाही का आरोप लगाया है। उपायुक्त अभिषेक शर्मा ने रविवार को अस्पताल का निरीक्षण कर सीसीटीवी फुटेज और मेडिकल रिकॉर्ड देखे, जबकि हंडवाड़ा के विधायक साजाद लोन ने परिवार से मिलकर निष्पक्ष जांच की मांग की।"
-   },
-   "en": {
-    "title": "Nine-month pregnant woman dies on way to GMC Handwara after referral from SDH Kupwara; DC inspects hospital, MLA seeks probe",
-    "summary": "Khushboo Jan, nine months pregnant, died while being shifted from Sub-District Hospital Kupwara to Government Medical College Handwara. Her family has alleged medical negligence. Deputy Commissioner Abhishek Sharma inspected the hospital on Sunday, reviewing CCTV footage and medical records, while Handwara MLA Sajad Lone visited the family and demanded an impartial inquiry."
    }
   }
  ]
