@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-24T12:26:50+05:30",
+ "updatedAt": "2026-11-24T12:39:50+05:30",
  "articles": [
+  {
+   "id": "tindivanam-bus-rams-sabarimala-pilgrims-van-two-killed-13-injured-november-23",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-24T12:39:50+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tindivanam-bus-rams-sabarimala-pilgrims-van-two-killed-13-injured-november-23.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tindivanam-bus-rams-sabarimala-pilgrims-van-two-killed-13-injured-november-23-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tindivanam-bus-rams-sabarimala-pilgrims-van-two-killed-13-injured-november-23-en.mp3",
+   "district": "Villupuram",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "तिंडिवनम के पास सबरीमाला श्रद्धालुओं की वैन को बस ने टक्कर मारी, 2 की मौत, 13 घायल",
+    "summary": "विल्लुपुरम जिले में सोमवार सुबह थेनी से चेन्नई जा रही एक निजी बस ने सबरीमाला से लौट रहे श्रद्धालुओं की वैन को टक्कर मार दी। वैन पलट गई, चालक समेत 2 लोगों की मौत हो गई और 13 घायल हो गए।"
+   },
+   "en": {
+    "title": "Bus rams van carrying Sabarimala pilgrims near Tindivanam, 2 killed, 13 injured",
+    "summary": "A private bus travelling from Theni to Chennai lost control near Tindivanam in Tamil Nadu's Villupuram district on Monday morning and rammed into a van carrying Ayyappa devotees returning from Sabarimala. The van overturned, killing the driver and a devotee and injuring 13 people."
+   }
+  },
   {
    "id": "erode-karunanidhi-statue-dmk-offices-vandalised-november-24",
    "category": "Crime & Law",
@@ -3278,29 +3301,6 @@
    "en": {
     "title": "After Bisleri sample fails test, FSSAI to check packaged drinking water of all brands across India",
     "summary": "Food safety regulator FSSAI plans to test packaged drinking water products of all brands across India, including more Bisleri samples, after a Bisleri sample was declared unsafe in laboratory tests and prosecution was sanctioned against the company. Bisleri says the sample came from a September 2025 batch made at its Goa plant and that subsequent testing found no quality issues."
-   }
-  },
-  {
-   "id": "arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T12:01:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/arjun-munda-mother-saira-munda-dies-91-jamshedpur-november-23-en.mp3",
-   "district": "East Singhbhum",
-   "state": "Jharkhand",
-   "hi": {
-    "title": "झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की मां सायरा मुंडा का 91 साल की उम्र में निधन, आज जमशेदपुर में अंतिम संस्कार",
-    "summary": "झारखंड के पूर्व मुख्यमंत्री और पूर्व केंद्रीय मंत्री अर्जुन मुंडा की मां सायरा मुंडा का सोमवार तड़के जमशेदपुर में 91 साल की उम्र में निधन हो गया। वह लंबे समय से बीमार थीं। आज दोपहर 1 बजे घोड़ाबांधा स्थित आवास से अंतिम यात्रा निकलेगी और भुइयांडीह के स्वर्णरेखा घाट पर अंतिम संस्कार होगा।"
-   },
-   "en": {
-    "title": "Former Jharkhand CM Arjun Munda's mother Saira Munda dies at 91; last rites in Jamshedpur today",
-    "summary": "Saira Munda, 91, the mother of former Jharkhand chief minister and former Union minister Arjun Munda, died in Jamshedpur early on Monday after a prolonged illness. Her last rites will be held at the Swarnarekha ghat in Bhuiyadih on Monday afternoon."
    }
   }
  ]
