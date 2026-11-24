@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T17:44:12+05:30",
+ "updatedAt": "2026-11-24T18:05:09+05:30",
  "articles": [
+  {
+   "id": "wayanad-township-149-houses-ready-for-handover-december-november-24",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T18:05:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wayanad-township-149-houses-ready-for-handover-december-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wayanad-township-149-houses-ready-for-handover-december-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wayanad-township-149-houses-ready-for-handover-december-november-24-en.mp3",
+   "district": "Wayanad",
+   "state": "Kerala",
+   "hi": {
+    "title": "वायनाड भूस्खलन पीड़ितों के लिए 149 और घर लगभग तैयार; दिसंबर में नए घरों में शिफ्ट होंगे परिवार",
+    "summary": "मुंडक्कई-चूरलमला भूस्खलन के पीड़ितों के लिए बनाई जा रही वायनाड टाउनशिप के दूसरे चरण के 149 घरों का निर्माण लगभग पूरा हो गया है। निरीक्षण चल रहा है और लाभार्थियों के दिसंबर में नए घरों में शिफ्ट होने की उम्मीद है, जिससे टाउनशिप में कुल घरों की संख्या 327 हो जाएगी।"
+   },
+   "en": {
+    "title": "149 more homes nearly ready for Wayanad landslide survivors; families to move in December",
+    "summary": "Construction of 149 houses in the second phase of the Wayanad township for survivors of the Mundakkai-Chooralmala landslides is almost complete, with inspections under way and beneficiaries expected to move in during December, taking the township's total to 327 homes."
+   }
+  },
+  {
+   "id": "india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-24T18:05:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24-en.mp3",
+   "hi": {
+    "title": "वैभव के 204 रन से इंडिया ए ने यूएई को 7 विकेट से हराया, राइजिंग स्टार्स सेमीफाइनल में",
+    "summary": "वैभव सूर्यवंशी के 53 गेंदों पर रिकॉर्ड 204 रन की बदौलत इंडिया ए ने दोहा में यूएई को 7 विकेट से हरा दिया। टीम ने 250 रन का लक्ष्य सिर्फ 14.2 ओवर में हासिल कर एशिया कप राइजिंग स्टार्स के सेमीफाइनल में जगह बना ली।"
+   },
+   "en": {
+    "title": "Vaibhav's 204 powers India A past UAE by 7 wickets into Rising Stars semifinals",
+    "summary": "Vaibhav Sooryavanshi's record 204 off 53 balls powered India A to a seven-wicket win over the UAE in Doha, chasing 250 in just 14.2 overs to seal a place in the Asia Cup Rising Stars semifinals."
+   }
+  },
   {
    "id": "beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24",
    "category": "Crime & Law",
@@ -13,16 +57,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24-en.mp3",
-   "en": {
-    "title": "BJP corporator's minor son booked after SUV rams bike in Beed, couple killed",
-    "summary": "A couple was killed in Maharashtra's Beed district on November 20 after their motorcycle was hit by an SUV allegedly driven by a minor, the son of a BJP corporator. Police have booked the minor, but are yet to confirm who was driving, after CCTV footage of the crash surfaced."
-   },
+   "district": "Beed",
+   "state": "Maharashtra",
    "hi": {
     "title": "बीड में एसयूवी ने बाइक को मारी टक्कर, दंपती की मौत; भाजपा पार्षद के नाबालिग बेटे पर एफआईआर दर्ज",
     "summary": "महाराष्ट्र के बीड जिले में 20 नवंबर को एक एसयूवी ने बाइक सवार दंपती को टक्कर मार दी, जिसमें दोनों की मौत हो गई। पुलिस का कहना है कि एसयूवी भाजपा पार्षद के नाबालिग बेटे की थी और उस पर मामला दर्ज किया गया है, लेकिन गाड़ी कौन चला रहा था, यह अब तक साफ नहीं हुआ है।"
    },
-   "district": "Beed",
-   "state": "Maharashtra"
+   "en": {
+    "title": "BJP corporator's minor son booked after SUV rams bike in Beed, couple killed",
+    "summary": "A couple was killed in Maharashtra's Beed district on November 20 after their motorcycle was hit by an SUV allegedly driven by a minor, the son of a BJP corporator. Police have booked the minor, but are yet to confirm who was driving, after CCTV footage of the crash surfaced."
+   }
   },
   {
    "id": "samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24",
@@ -36,13 +80,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24-en.mp3",
-   "en": {
-    "title": "SP offers Congress just 26 of 403 UP seats after it sought 130; seat-sharing talks enter day 2",
-    "summary": "The Samajwadi Party has offered the Congress 26 seats for the 2027 Uttar Pradesh Assembly elections, a day after the Congress sought 130. The offer includes the two seats the Congress won in 2022 and four where it finished second, with talks between the INDIA bloc allies continuing in Delhi."
-   },
    "hi": {
     "title": "कांग्रेस की 130 सीटों की मांग पर सपा का जवाब: सिर्फ 26 सीटें; यूपी में सीट बंटवारे पर दूसरे दिन भी बातचीत",
     "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस ने 130 सीटें मांगी थीं। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें और दूसरे नंबर पर रही 4 सीटें शामिल हैं, और दोनों दलों के बीच दिल्ली में बातचीत जारी है।"
+   },
+   "en": {
+    "title": "SP offers Congress just 26 of 403 UP seats after it sought 130; seat-sharing talks enter day 2",
+    "summary": "The Samajwadi Party has offered the Congress 26 seats for the 2027 Uttar Pradesh Assembly elections, a day after the Congress sought 130. The offer includes the two seats the Congress won in 2022 and four where it finished second, with talks between the INDIA bloc allies continuing in Delhi."
    }
   },
   {
@@ -57,13 +101,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vaibhav-sooryavanshi-204-off-53-balls-fastest-list-a-double-hundred-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-204-off-53-balls-fastest-list-a-double-hundred-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-204-off-53-balls-fastest-list-a-double-hundred-november-24-en.mp3",
-   "en": {
-    "title": "204 off 53 balls, 28 sixes: Vaibhav Sooryavanshi smashes fastest List A double hundred",
-    "summary": "15-year-old Vaibhav Sooryavanshi smashed 204 off 53 balls for India A against the UAE in the Asia Cup Rising Stars, the fastest double hundred in List A history. His 28 sixes are the most ever hit in a List A innings."
-   },
    "hi": {
     "title": "204 रन, 53 गेंद, 28 छक्के: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए का सबसे तेज़ दोहरा शतक",
     "summary": "15 साल के वैभव सूर्यवंशी ने एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ 53 गेंदों पर 204 रन बनाकर लिस्ट ए क्रिकेट का सबसे तेज़ दोहरा शतक जड़ दिया। उन्होंने 28 छक्के लगाए, किसी भी लिस्ट ए पारी में सबसे ज़्यादा।"
+   },
+   "en": {
+    "title": "204 off 53 balls, 28 sixes: Vaibhav Sooryavanshi smashes fastest List A double hundred",
+    "summary": "15-year-old Vaibhav Sooryavanshi smashed 204 off 53 balls for India A against the UAE in the Asia Cup Rising Stars, the fastest double hundred in List A history. His 28 sixes are the most ever hit in a List A innings."
    }
   },
   {
@@ -78,13 +122,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24-en.mp3",
-   "en": {
-    "title": "Thousands march in Karachi against plan to split Sindh; Sindhudesh demand resurfaces",
-    "summary": "Thousands of people marched in Karachi on Sunday against a proposal to split Pakistan's Sindh province into new administrative units. Protesters said not an inch of Sindh's territory would be allowed to separate, and demands for an independent Sindhudesh resurfaced."
-   },
    "hi": {
     "title": "सिंध के बँटवारे के प्रस्ताव पर कराची में हज़ारों लोग सड़कों पर, 'सिंधुदेश' की माँग भी उठी",
     "summary": "पाकिस्तान के सिंध प्रांत को बाँटकर नए प्रांत बनाने के प्रस्ताव के खिलाफ रविवार को कराची में हज़ारों लोगों ने मार्च निकाला। प्रदर्शनकारियों ने कहा कि सिंध की एक इंच ज़मीन भी अलग नहीं होने दी जाएगी, और 'सिंधुदेश' की माँग भी उठी।"
+   },
+   "en": {
+    "title": "Thousands march in Karachi against plan to split Sindh; Sindhudesh demand resurfaces",
+    "summary": "Thousands of people marched in Karachi on Sunday against a proposal to split Pakistan's Sindh province into new administrative units. Protesters said not an inch of Sindh's territory would be allowed to separate, and demands for an independent Sindhudesh resurfaced."
    }
   },
   {
@@ -101,13 +145,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/four-of-a-family-swept-away-in-ganga-during-kartik-purnima-bath-in-bijnor-12-year-old-rescued-3-still-missing-en.mp3",
    "district": "Bijnor",
    "state": "Uttar Pradesh",
-   "en": {
-    "title": "Four of a family swept away in Ganga during Kartik Purnima bath in Bijnor; 12-year-old rescued, 3 still missing",
-    "summary": "Four members of a family from Najibabad were swept into deep water while bathing at the Nangalsoati Ganga ghat in Bijnor district on Kartik Purnima. A 12-year-old girl was pulled out by devotees; a woman and two teenagers are still missing, and divers are searching the river."
-   },
    "hi": {
     "title": "बिजनौर में कार्तिक पूर्णिमा स्नान के दौरान गंगा में बहे एक ही परिवार के 4 लोग, 12 साल की बच्ची बची; 3 लापता",
     "summary": "बिजनौर जिले के नांगलसोती गंगा घाट पर कार्तिक पूर्णिमा के दिन स्नान करते समय नजीबाबाद के एक परिवार के 4 सदस्य गहरे पानी में बह गए। पास में स्नान कर रहे श्रद्धालुओं ने 12 साल की बच्ची को बाहर निकाल लिया, लेकिन एक महिला और 2 किशोर अब भी लापता हैं और गोताखोर नदी में उनकी तलाश कर रहे हैं।"
+   },
+   "en": {
+    "title": "Four of a family swept away in Ganga during Kartik Purnima bath in Bijnor; 12-year-old rescued, 3 still missing",
+    "summary": "Four members of a family from Najibabad were swept into deep water while bathing at the Nangalsoati Ganga ghat in Bijnor district on Kartik Purnima. A 12-year-old girl was pulled out by devotees; a woman and two teenagers are still missing, and divers are searching the river."
    }
   },
   {
@@ -122,13 +166,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city-en.mp3",
-   "en": {
-    "title": "Israeli strike kills Hamas internal security chief Naeem Abu Nahel in Gaza City",
-    "summary": "An Israeli airstrike in western Gaza City killed Naeem Abu Nahel, the director of Hamas' internal security apparatus, Hamas sources said. The Israeli military confirmed it struck a senior Hamas member but did not name him. Medics said at least 7 people were killed in strikes across Gaza on Tuesday."
-   },
    "hi": {
     "title": "गाजा सिटी में इजराइली हमले में हमास के आंतरिक सुरक्षा प्रमुख नईम अबू नहल की मौत",
     "summary": "गाजा सिटी के पश्चिमी हिस्से में हुए इजराइली हवाई हमले में हमास के आंतरिक सुरक्षा तंत्र के प्रमुख नईम अबू नहल की मौत हो गई, हमास सूत्रों ने बताया। इजराइली सेना ने एक वरिष्ठ हमास सदस्य पर हमला करने की पुष्टि की, लेकिन उसका नाम नहीं बताया। चिकित्सकों के मुताबिक मंगलवार को गाजा में हुए हमलों में कम से कम 7 लोग मारे गए।"
+   },
+   "en": {
+    "title": "Israeli strike kills Hamas internal security chief Naeem Abu Nahel in Gaza City",
+    "summary": "An Israeli airstrike in western Gaza City killed Naeem Abu Nahel, the director of Hamas' internal security apparatus, Hamas sources said. The Israeli military confirmed it struck a senior Hamas member but did not name him. Medics said at least 7 people were killed in strikes across Gaza on Tuesday."
    }
   },
   {
@@ -145,13 +189,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-drags-away-2-year-old-girl-in-nabarangpur-remains-found-in-forest-en.mp3",
    "district": "Nabarangpur",
    "state": "Odisha",
-   "en": {
-    "title": "Leopard drags away 2-year-old girl from courtyard in Nabarangpur; remains found in forest after 18-hour search",
-    "summary": "A leopard dragged away a 2-year-old girl from the courtyard of her home in Chadiapara village of Odisha's Nabarangpur district on Monday evening. After an overnight search, the child's remains were found in a nearby forest on Tuesday morning. The Forest Department has stepped up monitoring in the area."
-   },
    "hi": {
     "title": "नाबरंगपुर में तेंदुए ने आँगन से उठाई 2 साल की बच्ची, 18 घंटे की तलाश के बाद जंगल में मिला शव",
     "summary": "ओडिशा के नाबरंगपुर जिले के छाड़ियापाड़ा गाँव में सोमवार शाम एक तेंदुए ने घर के आँगन से 2 साल की बच्ची को उठा लिया। रातभर चली तलाश के बाद मंगलवार सुबह जंगल में बच्ची के शव के अवशेष मिले। वन विभाग ने इलाके में निगरानी बढ़ा दी है।"
+   },
+   "en": {
+    "title": "Leopard drags away 2-year-old girl from courtyard in Nabarangpur; remains found in forest after 18-hour search",
+    "summary": "A leopard dragged away a 2-year-old girl from the courtyard of her home in Chadiapara village of Odisha's Nabarangpur district on Monday evening. After an overnight search, the child's remains were found in a nearby forest on Tuesday morning. The Forest Department has stepped up monitoring in the area."
    }
   },
   {
@@ -168,13 +212,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/over-5-lakh-devotees-gather-at-luguburu-hemant-soren-joins-closing-day-november-24-en.mp3",
    "district": "Bokaro",
    "state": "Jharkhand",
-   "en": {
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
-   },
    "hi": {
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
+   },
+   "en": {
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
    }
   },
   {
@@ -189,13 +233,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-rajiv-security-removed-killed-claim-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-rajiv-security-removed-killed-claim-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-rajiv-security-removed-killed-claim-november-24-en.mp3",
-   "en": {
-    "title": "Rajiv Gandhi's security was removed so he could be killed, alleges Rahul Gandhi in memoir conversation",
-    "summary": "Rahul Gandhi has alleged that his father Rajiv Gandhi's security was deliberately withdrawn so that he could be killed, recalling in a video conversation with Sonia and Priyanka Gandhi that he had warned his mother he would return home for his father's funeral. Sonia Gandhi said the 1991 Bihar tour, when stones were thrown at Rajiv's open jeep, convinced her the danger was real."
-   },
    "hi": {
     "title": "राजीव गांधी की सुरक्षा जानबूझकर हटाई गई थी, ताकि उनकी हत्या हो सके: राहुल गांधी का बड़ा आरोप",
     "summary": "राहुल गांधी ने आरोप लगाया है कि उनके पिता राजीव गांधी की सुरक्षा जानबूझकर हटाई गई थी, ताकि उनकी हत्या हो सके। सोनिया गांधी और प्रियंका गांधी वाड्रा के साथ किताब 'बिलॉन्गिंग: अ जर्नी ऑफ लव' पर हुई वीडियो बातचीत में उन्होंने कहा कि उन्होंने माँ को पहले ही चेताया था कि अगर पिता की सुरक्षा पर ध्यान नहीं दिया गया तो उन्हें उनके अंतिम संस्कार के लिए लौटना पड़ेगा।"
+   },
+   "en": {
+    "title": "Rajiv Gandhi's security was removed so he could be killed, alleges Rahul Gandhi in memoir conversation",
+    "summary": "Rahul Gandhi has alleged that his father Rajiv Gandhi's security was deliberately withdrawn so that he could be killed, recalling in a video conversation with Sonia and Priyanka Gandhi that he had warned his mother he would return home for his father's funeral. Sonia Gandhi said the 1991 Bihar tour, when stones were thrown at Rajiv's open jeep, convinced her the danger was real."
    }
   },
   {
@@ -210,13 +254,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vaibhav-sooryavanshi-fastest-list-a-hundred-28-balls-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-fastest-list-a-hundred-28-balls-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-fastest-list-a-hundred-28-balls-november-24-en.mp3",
-   "en": {
-    "title": "Vaibhav Sooryavanshi smashes fastest List-A hundred in history, 28 balls, as India A chase 250 against UAE",
-    "summary": "15-year-old Vaibhav Sooryavanshi has broken the record for the fastest century in List-A cricket, reaching 100 in just 28 balls for India A against UAE in the Asia Cup Rising Stars in Doha. He went past Jake Fraser-McGurk's 29-ball hundred from 2023-24, five months after falling one hit short of the same record."
-   },
    "hi": {
     "title": "28 गेंदों में शतक: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए क्रिकेट का सबसे तेज़ शतक",
     "summary": "15 साल के वैभव सूर्यवंशी ने लिस्ट ए क्रिकेट का सबसे तेज़ शतक जड़ दिया है। दोहा में एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ इंडिया ए के लिए उन्होंने सिर्फ 28 गेंदों में 100 रन बनाए और जेक फ्रेजर-मैकगर्क के 29 गेंदों के रिकॉर्ड को तोड़ दिया। 5 महीने पहले वे इसी रिकॉर्ड से 1 हिट दूर रह गए थे।"
+   },
+   "en": {
+    "title": "Vaibhav Sooryavanshi smashes fastest List-A hundred in history, 28 balls, as India A chase 250 against UAE",
+    "summary": "15-year-old Vaibhav Sooryavanshi has broken the record for the fastest century in List-A cricket, reaching 100 in just 28 balls for India A against UAE in the Asia Cup Rising Stars in Doha. He went past Jake Fraser-McGurk's 29-ball hundred from 2023-24, five months after falling one hit short of the same record."
    }
   },
   {
@@ -231,13 +275,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/motorola-edge-70-neo-india-launch-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/motorola-edge-70-neo-india-launch-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/motorola-edge-70-neo-india-launch-november-24-en.mp3",
-   "en": {
-    "title": "Motorola Edge 70 Neo launched in India at Rs 40,999: 7,000mAh battery, 144Hz display, sale from December 1",
-    "summary": "Motorola has launched the Edge 70 Neo in India at Rs 40,999, with launch offers bringing the effective price down to Rs 34,999. The phone packs a 7,000mAh battery, a 144Hz AMOLED display and a 50MP Sony camera, and goes on sale on December 1."
-   },
    "hi": {
     "title": "भारत में लॉन्च हुआ Motorola Edge 70 Neo: 40,999 रुपये कीमत, 7,000mAh बैटरी और 144Hz डिस्प्ले, 1 दिसंबर से बिक्री",
     "summary": "मोटोरोला ने भारत में Edge 70 Neo लॉन्च कर दिया है। इसकी कीमत 40,999 रुपये रखी गई है, लेकिन लॉन्च ऑफर के साथ यह 34,999 रुपये में मिलेगा। फोन में 7,000mAh बैटरी, 144Hz एमोलेड डिस्प्ले और 50MP सोनी कैमरा है, और इसकी बिक्री 1 दिसंबर से शुरू होगी।"
+   },
+   "en": {
+    "title": "Motorola Edge 70 Neo launched in India at Rs 40,999: 7,000mAh battery, 144Hz display, sale from December 1",
+    "summary": "Motorola has launched the Edge 70 Neo in India at Rs 40,999, with launch offers bringing the effective price down to Rs 34,999. The phone packs a 7,000mAh battery, a 144Hz AMOLED display and a 50MP Sony camera, and goes on sale on December 1."
    }
   },
   {
@@ -252,13 +296,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nahel-merzouk-murder-trial-versailles-court-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nahel-merzouk-murder-trial-versailles-court-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nahel-merzouk-murder-trial-versailles-court-november-24-en.mp3",
-   "en": {
-    "title": "French officer who shot dead teenager Nahel Merzouk to stand trial for murder, Versailles court rules",
-    "summary": "A French appeals court has ruled that the police officer who shot dead 17-year-old Nahel Merzouk during a traffic stop in Nanterre in June 2023 will stand trial for murder. The decision restores the murder charge months after it was lowered to a lesser offence."
-   },
    "hi": {
     "title": "नाहेल मर्ज़ूक को गोली मारने वाला फ्रांसीसी पुलिसकर्मी हत्या के मुकदमे का सामना करेगा, वर्साय कोर्ट का फैसला",
     "summary": "फ्रांस की एक अपील अदालत ने फैसला दिया है कि जून 2023 में नैन्टेयर में ट्रैफिक जांच के दौरान 17 साल के नाहेल मर्ज़ूक को गोली मारकर मारने वाला पुलिसकर्मी हत्या के मुकदमे का सामना करेगा। यह फैसला कुछ महीने पहले हत्या का आरोप घटाकर कम गंभीर धारा में बदले जाने के बाद आया है।"
+   },
+   "en": {
+    "title": "French officer who shot dead teenager Nahel Merzouk to stand trial for murder, Versailles court rules",
+    "summary": "A French appeals court has ruled that the police officer who shot dead 17-year-old Nahel Merzouk during a traffic stop in Nanterre in June 2023 will stand trial for murder. The decision restores the murder charge months after it was lowered to a lesser offence."
    }
   },
   {
@@ -273,16 +317,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected-en.mp3",
-   "en": {
-    "title": "Three sanitation workers die in septic tank in Bachupally, toxic gas suspected",
-    "summary": "Three sanitation workers employed by septic-tank cleaning agency HR Invests died in an underground septic tank at an apartment complex in Bachupally on Tuesday. Police say the first worker went down to clean the tank and lost consciousness, and the two others who went in to rescue him also died. A case has been registered and the police are investigating toxic gases and safety arrangements."
-   },
+   "district": "Medchal-Malkajgiri",
+   "state": "Telangana",
    "hi": {
     "title": "बाचुपल्ली में सेप्टिक टैंक की सफाई के दौरान 3 कर्मचारियों की मौत, जहरीली गैस का शक",
     "summary": "बाचुपल्ली में एक अपार्टमेंट परिसर के भूमिगत सेप्टिक टैंक में मंगलवार को 3 सफाई कर्मचारियों की मौत हो गई। तीनों सेप्टिक टैंक सफाई एजेंसी एचआर इन्वेस्ट्स के कर्मचारी थे। पुलिस के मुताबिक पहला कर्मचारी टैंक की सफाई के लिए नीचे उतरा और बेहोश हो गया, उसे बचाने गए 2 साथियों की भी मौत हो गई। मामला दर्ज कर जहरीली गैस और सुरक्षा इंतज़ामों की जांच की जा रही है।"
    },
-   "district": "Medchal-Malkajgiri",
-   "state": "Telangana"
+   "en": {
+    "title": "Three sanitation workers die in septic tank in Bachupally, toxic gas suspected",
+    "summary": "Three sanitation workers employed by septic-tank cleaning agency HR Invests died in an underground septic tank at an apartment complex in Bachupally on Tuesday. Police say the first worker went down to clean the tank and lost consciousness, and the two others who went in to rescue him also died. A case has been registered and the police are investigating toxic gases and safety arrangements."
+   }
   },
   {
    "id": "tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes",
@@ -296,13 +340,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes-en.mp3",
-   "en": {
-    "title": "Tata cars to cost more from December 1 as prices rise 0.5%; Hyundai and Audi also hike rates",
-    "summary": "Tata Motors Passenger Vehicles will raise prices across its entire cars and SUVs range, including electric vehicles, by an average of 0.5 per cent from December 1, 2026. Hyundai will raise select models by up to Rs 8,000 from the same day, Audi by up to 2 per cent from January 1, and Maruti Suzuki has already raised prices by about 0.31 per cent from November 22. Carmakers blame persistently high input costs."
-   },
    "hi": {
     "title": "1 दिसंबर से महंगी होंगी टाटा की कारें, 0.5% बढ़ेंगे दाम; हुंडई और ऑडी भी बढ़ा रहीं कीमतें",
     "summary": "टाटा मोटर्स पैसेंजर व्हीकल्स 1 दिसंबर 2026 से अपनी सभी कारों और एसयूवी की कीमतों में औसतन 0.5% की बढ़ोतरी करेगी, जिसमें इलेक्ट्रिक गाड़ियां भी शामिल हैं। हुंडई चुनिंदा मॉडलों पर 8,000 रुपये तक और ऑडी 1 जनवरी से 2% तक दाम बढ़ाएगी, जबकि मारुति सुजुकी 22 नवंबर से ही करीब 0.31% की बढ़ोतरी कर चुकी है। कंपनियों ने बढ़ती लागत को वजह बताया है।"
+   },
+   "en": {
+    "title": "Tata cars to cost more from December 1 as prices rise 0.5%; Hyundai and Audi also hike rates",
+    "summary": "Tata Motors Passenger Vehicles will raise prices across its entire cars and SUVs range, including electric vehicles, by an average of 0.5 per cent from December 1, 2026. Hyundai will raise select models by up to Rs 8,000 from the same day, Audi by up to 2 per cent from January 1, and Maruti Suzuki has already raised prices by about 0.31 per cent from November 22. Carmakers blame persistently high input costs."
    }
   },
   {
@@ -495,6 +539,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोंडा: कार्तिक पूर्णिमा पर सरयू के घाटों पर उमड़ा आस्था का सैलाब, लाखों ने लगाई डुबकी",
     "summary": "कार्तिक पूर्णिमा पर मंगलवार को गोंडा में सरयू के घाटों पर भोर से ही श्रद्धालुओं का सैलाब उमड़ पड़ा। करनैलगंज में लाखों लोगों ने सरयू में डुबकी लगाई, जिले भर की नदियों और सरोवरों के तट पर मेले लगे। पूरे उत्तर प्रदेश में अयोध्या, वाराणसी और प्रयागराज के घाटों पर भी भारी भीड़ रही, और शाम को वाराणसी में देव दीपावली पर 11 लाख दीये जलाए जाने थे।"
@@ -502,30 +548,28 @@
    "en": {
     "title": "Gonda: Lakhs take a holy dip in the Saryu on Kartik Purnima, fairs line the ghats",
     "summary": "Devotees thronged the Saryu ghats in Gonda from before dawn on Kartik Purnima, with lakhs taking a dip at Karnailganj and fairs held along the rivers and lakes across the district. Across Uttar Pradesh, crowds gathered at the ghats of Ayodhya, Varanasi and Prayagraj, and Varanasi prepared to light 11 lakh lamps for Dev Deepawali in the evening."
-   },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
+   }
   },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-unemployment-allowance-2000-from-january-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-unemployment-allowance-2000-from-january-hi.mp3",
    "breaking": false,
    "category": "Government Schemes",
-   "en": {
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
-   },
    "featured": false,
-   "hi": {
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
-   },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
    "publishedAt": "2026-11-24T15:07:35+05:30",
    "source": "PrimeFeed Desk",
    "sub": "State Schemes",
-   "trending": true
+   "trending": true,
+   "hi": {
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
+   },
+   "en": {
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
+   }
   },
   {
    "id": "poonch-loc-forest-fires-mendhar-balakote-november-24",
@@ -712,7 +756,7 @@
    "category": "Politics",
    "sub": "Elections",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-24T13:53:49+05:30",
    "source": "PrimeFeed Desk",
@@ -740,6 +784,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोंडा: 21 वर्षीय गर्भवती विवाहिता की दहेज हत्या में पति, सास-ससुर और 2 देवरों पर एफ़आईआर",
     "summary": "गोंडा पुलिस ने 21 वर्षीय गर्भवती विवाहिता नंदिनी की मौत के मामले में उसके पति, सास-ससुर और 2 देवरों के खिलाफ दहेज हत्या की प्राथमिकी दर्ज की है। नंदिनी 6 माह की गर्भवती थी और रविवार को उसका शव मिश्रौलिया गांव में उसके घर में फंदे से लटका मिला था। पिता का आरोप है कि बाइक और सोने की चेन की मांग पूरी न होने पर उसकी गला दबाकर हत्या की गई।"
@@ -747,9 +793,7 @@
    "en": {
     "title": "Gonda: FIR against husband, in-laws in dowry death of 21-year-old pregnant woman",
     "summary": "Police in Gonda have registered a dowry-death case against the husband, parents-in-law and 2 brothers-in-law of Nandini, a 21-year-old woman 6 months pregnant, who was found hanging at her home in Mishraulia village on Sunday. Her father alleges she was strangled over demands for a motorcycle and a gold chain."
-   },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
+   }
   },
   {
    "id": "kallakurichi-tvk-mla-arul-vignesh-fir-madras-hc-november-24",
@@ -1031,6 +1075,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-en.mp3",
+   "district": "Kolkata",
+   "state": "West Bengal",
    "hi": {
     "title": "ढाकुरिया में बेकाबू कार फुटपाथ पर चढ़ी, 7 लोग घायल; 4 की हालत गंभीर, चालक हिरासत में",
     "summary": "कोलकाता के ढाकुरिया स्टेशन के पास सोमवार रात एक तेज रफ्तार कार नियंत्रण खोकर फुटपाथ पर चढ़ गई। हादसे में कम से कम 7 लोग घायल हो गए, जिनमें 4 की हालत गंभीर है। पुलिस ने गाड़ी जब्त कर ली है और चालक को हिरासत में ले लिया है।"
@@ -1038,9 +1084,7 @@
    "en": {
     "title": "Speeding car mounts footpath near Dhakuria station in Kolkata, 7 injured; 4 critical, driver detained",
     "summary": "A speeding car lost control and mounted a footpath near Dhakuria station in Kolkata late on Monday night. At least 7 people were injured, 4 of them critically. Police have seized the car and detained the driver."
-   },
-   "district": "Kolkata",
-   "state": "West Bengal"
+   }
   },
   {
    "id": "gukesh-sindarov-world-chess-championship-game-1-geneva-november-24",
@@ -1159,6 +1203,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24-en.mp3",
+   "district": "Kannauj",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "कन्नौज: पिकनिक जा रही स्कूली बस को ट्रक ने मारी टक्कर, 4 बच्चों की मौत; 20 घायल",
     "summary": "मंगलवार सुबह करीब 6 बजे लखनऊ-आगरा एक्सप्रेसवे पर किलोमीटर 210 के पास कौशांबी के ओरिएंटल पब्लिक स्कूल की बस खड़ी थी, तभी आलू लदे ट्रक ने उसे टक्कर मार दी। हादसे में 4 बच्चों की मौत हो गई और 20 घायल हो गए, जिन्हें राजकीय मेडिकल कॉलेज में भर्ती कराया गया है।"
@@ -1166,9 +1212,7 @@
    "en": {
     "title": "Truck rams picnic-bound school bus on Lucknow-Agra Expressway in Kannauj; four children killed, 20 injured",
     "summary": "Around 6 am on Tuesday, a potato-laden truck rammed a stationary bus of Kaushambi's Oriental Public School near milestone 210 on the Lucknow-Agra Expressway in Kannauj. Four children were killed and 20 injured; the injured have been admitted to a Government Medical College."
-   },
-   "district": "Kannauj",
-   "state": "Uttar Pradesh"
+   }
   },
   {
    "id": "balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24",
@@ -1182,6 +1226,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24-en.mp3",
+   "district": "Balangir",
+   "state": "Odisha",
    "hi": {
     "title": "बालांगीर धनु यात्रा में हाथी ने महावत को कुचलकर मार डाला, उत्सव रद्द",
     "summary": "बांगोमुंडा में 40वीं धनु यात्रा महोत्सव की पहली रात प्रयागराज के 61 वर्षीय महावत कल्पनाथ दुबे को उसी हाथी ने कुचल दिया, जिसे वह उत्सव के लिए उत्तर प्रदेश से लाए थे। प्रशासन ने उत्सव को अगले आदेश तक रद्द कर दिया है और वन विभाग व पुलिस जांच कर रहे हैं।"
@@ -1189,9 +1235,7 @@
    "en": {
     "title": "Elephant tramples mahout to death at Balangir's Dhanu Yatra; festival suspended",
     "summary": "On the opening night of the 40th Bangomunda Dhanu Yatra Mahotsav, 61-year-old mahout Kalpanath Dubey of Prayagraj was trampled by the elephant he had brought from Uttar Pradesh for the festival. The administration has suspended the festival until further orders, and the Forest Department and police are investigating."
-   },
-   "district": "Balangir",
-   "state": "Odisha"
+   }
   },
   {
    "id": "ramayana-day-19-1704-crore-worldwide-ranbir-kapoor-biggest-grosser-november-24",
@@ -1289,6 +1333,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/churachandpur-idps-warn-total-shutdown-november-30-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-en.mp3",
+   "district": "Churachandpur",
+   "state": "Manipur",
    "hi": {
     "title": "चुराचांदपुर के विस्थापितों की चेतावनी: मांगें नहीं मानीं तो 30 नवंबर से पूर्ण बंद",
     "summary": "मणिपुर के चुराचांदपुर जिले में रह रहे 30,896 विस्थापितों की समिति ने सरकार को चेतावनी दी है कि अगर उनकी लंबित मांगें पूरी नहीं हुईं तो 30 नवंबर से पूर्ण बंद किया जाएगा।"
@@ -1296,9 +1342,7 @@
    "en": {
     "title": "Churachandpur IDPs warn of total shutdown from November 30 if demands go unmet",
     "summary": "The Joint Internally Displaced Persons Committee in Manipur's Churachandpur district has warned of a total shutdown from November 30 if the government does not address the pending demands of the district's 30,896 displaced people."
-   },
-   "district": "Churachandpur",
-   "state": "Manipur"
+   }
   },
   {
    "id": "gopalganj-awami-league-factions-clash-20-injured-november-23",
@@ -1333,6 +1377,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24-en.mp3",
+   "district": "Lakhisarai",
+   "state": "Bihar",
    "hi": {
     "title": "लखीसराय-जमुई मार्ग पर स्कॉर्पियो-ट्रक की भीषण टक्कर, 5 की मौत; 3 घायल",
     "summary": "बिहार के लखीसराय जिले में मंगलवार अहले सुबह स्कॉर्पियो और ट्रक की आमने-सामने टक्कर में 5 लोगों की मौत हो गई। हादसा तेतरहाट थाना क्षेत्र के गुणसागर गांव के पास हुआ।"
@@ -1340,9 +1386,7 @@
    "en": {
     "title": "Five killed, three injured as Scorpio collides with truck on Lakhisarai-Jamui road",
     "summary": "Five people were killed and three others seriously injured in a head-on collision between a Scorpio and a truck near Gunsagar village in Bihar's Lakhisarai district early on Tuesday morning."
-   },
-   "district": "Lakhisarai",
-   "state": "Bihar"
+   }
   },
   {
    "id": "haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24",
@@ -1356,6 +1400,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24-en.mp3",
+   "district": "Haveri",
+   "state": "Karnataka",
    "hi": {
     "title": "हावेरी में गन्ना किसानों की आधी जीत: 14 घंटे की बातचीत के बाद 3,225 रुपये प्रति टन पर सहमति",
     "summary": "कर्नाटक के हावेरी में गन्ने के दाम को लेकर चल रहा किसानों का आंदोलन रंग लाया। रात 2 बजे तक चली 14 घंटे की बातचीत के बाद चीनी कारखाना मालिकों ने प्रति टन 3,225 रुपये देने पर सहमति जताई।"
@@ -1363,9 +1409,7 @@
    "en": {
     "title": "Haveri sugarcane farmers win partial victory: Rs 3,225 per tonne agreed after 14-hour talks",
     "summary": "Sugarcane farmers in Karnataka's Haveri district ended their protest after factory owners agreed to pay Rs 3,225 per tonne following 14 hours of talks that ran till 2 am on Tuesday."
-   },
-   "district": "Haveri",
-   "state": "Karnataka"
+   }
   },
   {
    "id": "saharanpur-co-removed-after-owaisi-guard-of-honour",
@@ -1379,16 +1423,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saharanpur-co-removed-after-owaisi-guard-of-honour.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharanpur-co-removed-after-owaisi-guard-of-honour-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharanpur-co-removed-after-owaisi-guard-of-honour-en.mp3",
-   "en": {
-    "title": "Mistook Owaisi for a judge and saluted him: Saharanpur Sadar CO removed",
-    "summary": "Police in Saharanpur had arranged a guard of honour for a Supreme Court judge due at the circuit house on Saturday, but AIMIM chief Asaduddin Owaisi arrived first and was mistaken for the judge. After a video of the salute went viral, an inquiry was held and Sadar Circle Officer Pawan Kumar was removed from his post on Monday and shifted to traffic duties."
-   },
+   "district": "Saharanpur",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "जज समझकर ओवैसी को दे दी सलामी, सहारनपुर के सदर सीओ हटाए गए",
     "summary": "शनिवार को सहारनपुर के सर्किट हाउस में सुप्रीम कोर्ट के जज के स्वागत की तैयारी थी, लेकिन उनसे पहले पहुंचे एआईएमआईएम प्रमुख असदुद्दीन ओवैसी को पुलिस ने गार्ड ऑफ ऑनर दे दिया। वीडियो वायरल होने के बाद जांच हुई और सोमवार को सदर सीओ पवन कुमार को हटाकर ट्रैफिक सीओ बना दिया गया।"
    },
-   "district": "Saharanpur",
-   "state": "Uttar Pradesh"
+   "en": {
+    "title": "Mistook Owaisi for a judge and saluted him: Saharanpur Sadar CO removed",
+    "summary": "Police in Saharanpur had arranged a guard of honour for a Supreme Court judge due at the circuit house on Saturday, but AIMIM chief Asaduddin Owaisi arrived first and was mistaken for the judge. After a video of the salute went viral, an inquiry was held and Sadar Circle Officer Pawan Kumar was removed from his post on Monday and shifted to traffic duties."
+   }
   },
   {
    "id": "anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali",
@@ -1402,16 +1446,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali-en.mp3",
-   "en": {
-    "title": "Anant Ambani donates Rs 5 crore to Kashi Vishwanath Dham, Rs 1 crore to Maa Annapurna",
-    "summary": "A day before Dev Deepawali, Reliance Industries executive director Anant Ambani visited Kashi on Monday and offered prayers at the Kashi Vishwanath and Maa Annapurna temples. He donated Rs 5 crore to the Shri Kashi Vishwanath Dham, the largest donation by the Ambani family to the Dham so far, and Rs 1 crore to the Maa Annapurna temple."
-   },
+   "district": "Varanasi",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "काशी विश्वनाथ धाम को अनंत अंबानी ने दिए 5 करोड़ रुपये, मां अन्नपूर्णा को 1 करोड़",
     "summary": "सोमवार को वाराणसी पहुंचे रिलायंस इंडस्ट्रीज के कार्यकारी निदेशक अनंत अंबानी ने बाबा विश्वनाथ और मां अन्नपूर्णा के दर्शन किए। उन्होंने विश्वनाथ धाम को 5 करोड़ रुपये और मां अन्नपूर्णा मंदिर को 1 करोड़ रुपये का दान दिया। अंबानी परिवार की ओर से धाम को यह अब तक का सबसे बड़ा दान है।"
    },
-   "district": "Varanasi",
-   "state": "Uttar Pradesh"
+   "en": {
+    "title": "Anant Ambani donates Rs 5 crore to Kashi Vishwanath Dham, Rs 1 crore to Maa Annapurna",
+    "summary": "A day before Dev Deepawali, Reliance Industries executive director Anant Ambani visited Kashi on Monday and offered prayers at the Kashi Vishwanath and Maa Annapurna temples. He donated Rs 5 crore to the Shri Kashi Vishwanath Dham, the largest donation by the Ambani family to the Dham so far, and Rs 1 crore to the Maa Annapurna temple."
+   }
   },
   {
    "id": "alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners",
@@ -1425,6 +1469,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners-en.mp3",
+   "district": "Alwar",
+   "state": "Rajasthan",
    "hi": {
     "title": "अलवर पुलिस ने लौटाए 33 लाख रुपये के 114 गुमशुदा मोबाइल, सीईआईआर पोर्टल से हुआ ट्रेस",
     "summary": "राजस्थान के अलवर में पुलिस ने सोमवार को 114 गुमशुदा मोबाइल फोन उनके मालिकों को लौटा दिए। इन मोबाइलों की अनुमानित कीमत करीब 33 लाख रुपये है।"
@@ -1432,9 +1478,7 @@
    "en": {
     "title": "Alwar police return 114 lost mobile phones worth Rs 33 lakh to owners under Operation Cyber Sangram",
     "summary": "Police in Rajasthan's Alwar district on Monday returned 114 lost mobile phones, worth an estimated Rs 33 lakh, to their rightful owners under Operation Cyber Sangram 3.0."
-   },
-   "district": "Alwar",
-   "state": "Rajasthan"
+   }
   },
   {
    "id": "supreme-court-children-not-toys-for-parents-mother-keeps-custody-of-two-sons",
@@ -1620,6 +1664,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/skims-srinagar-psma-pet-scan-neuro-navigation-brain-surgery-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/skims-srinagar-psma-pet-scan-neuro-navigation-brain-surgery-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/skims-srinagar-psma-pet-scan-neuro-navigation-brain-surgery-november-23-en.mp3",
+   "district": "Srinagar",
+   "state": "Jammu and Kashmir",
    "hi": {
     "title": "श्रीनगर: स्किम्स में प्रोस्टेट कैंसर की पीएसएमए पेट स्कैन और ब्रेन सर्जरी की नई सुविधा, इलाज के लिए अब बाहर नहीं जाना होगा",
     "summary": "शेर-ए-कश्मीर इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ (स्किम्स), सौरा में प्रोस्टेट कैंसर के मरीजों के लिए पीएसएमए पेट स्कैन और दिमाग की सर्जरी के लिए न्यूरो नेविगेशन प्रणाली शुरू हो गई है। निदेशक प्रोफेसर (डॉक्टर) एम. अशरफ गनी ने सोमवार को इन सुविधाओं का उद्घाटन किया — अब इन इलाजों के लिए मरीजों को जम्मू-कश्मीर से बाहर नहीं जाना पड़ेगा।"
@@ -1627,9 +1673,7 @@
    "en": {
     "title": "SKIMS Srinagar adds PSMA PET scan for prostate cancer and neuro-navigation for brain surgery",
     "summary": "The Sher-i-Kashmir Institute of Medical Sciences (SKIMS), Soura, has introduced a PSMA PET scan for prostate cancer patients and a neuro-navigation system for brain surgery. Director Prof. (Dr.) M. Ashraf Ganie inaugurated the facilities on Monday, saying patients will no longer need to travel outside Jammu and Kashmir for these services."
-   },
-   "district": "Srinagar",
-   "state": "Jammu and Kashmir"
+   }
   },
   {
    "id": "trump-hush-money-conviction-federal-court-second-circuit-ruling-november-23",
@@ -1749,6 +1793,7 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23-en.mp3",
+   "publishedAt": "2026-11-24T04:09:35+05:30",
    "hi": {
     "title": "चंदौली में बीजेपी विधायक सुशील सिंह के काफिले में घुसी तेज रफ्तार स्कॉर्पियो, 2 फॉर्च्यूनर क्षतिग्रस्त; विधायक बोले- हरकत संदिग्ध, पुलिस में शिकायत करूँगा",
     "summary": "सोमवार रात चंदौली में तेज रफ्तार स्कॉर्पियो बीजेपी विधायक सुशील सिंह के काफिले में घुस गई। फुटिया और जगदीशसराय के पास 2 फॉर्च्यूनर गाड़ियाँ क्षतिग्रस्त हो गईं, स्कॉर्पियो सवार युवक गंभीर रूप से घायल हुआ। विधायक सुरक्षित हैं और उन्होंने घटना को संदिग्ध बताते हुए पुलिस में शिकायत की बात कही है।"
@@ -1756,8 +1801,7 @@
    "en": {
     "title": "Speeding Scorpio rams into BJP MLA Sushil Singh's convoy in Chandauli, damages 2 Fortuners; MLA calls it suspicious, to file police complaint",
     "summary": "A speeding Scorpio drove into BJP MLA Sushil Singh's convoy in Chandauli on Monday night, damaging two Fortuner cars near Futia and Jagdishsarai. A young man in the Scorpio was seriously injured. The MLA escaped unhurt and has called the incident suspicious, saying he will file a police complaint."
-   },
-   "publishedAt": "2026-11-24T04:09:35+05:30"
+   }
   },
   {
    "id": "delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26",
@@ -1770,6 +1814,7 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26-en.mp3",
+   "publishedAt": "2026-11-24T04:09:35+05:30",
    "hi": {
     "title": "दिल्ली की हवा फिर बिगड़ी: एक्यूआई 260 पर पहुँचा, 4 केंद्रों पर सतही ओजोन 100 के पार; 26 नवंबर तक 'बहुत खराब' होने का अनुमान",
     "summary": "दिल्ली का औसत एक्यूआई सोमवार को 260 पर पहुँच गया, जो रविवार के 239 से 21 अंक ज़्यादा है। 4 केंद्रों पर सतही ओजोन 100 माइक्रोग्राम प्रति घन मीटर के पार चला गया, और 26 नवंबर तक हवा 'बहुत खराब' होने का अनुमान है।"
@@ -1777,8 +1822,7 @@
    "en": {
     "title": "Delhi air worsens again: AQI climbs to 260, surface ozone crosses 100 at 4 stations; 'very poor' likely by November 26",
     "summary": "Delhi's average AQI climbed to 260 on Monday, up 21 points from 239 on Sunday. Surface ozone crossed 100 micrograms per cubic metre at four monitoring stations, and the air is forecast to turn 'very poor' by November 26."
-   },
-   "publishedAt": "2026-11-24T04:09:35+05:30"
+   }
   },
   {
    "id": "trump-orders-army-pause-iowa-lead-azide-detonation-november-23",
@@ -1813,6 +1857,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23-en.mp3",
+   "district": "Chikkamagaluru",
+   "state": "Karnataka",
    "hi": {
     "title": "हाथियों के स्थानांतरण के विरोध में मुदिगेरे विधायक नयना मोटम्मा ने दिया इस्तीफ़ा, विरोध के बाद अभियान रोका गया",
     "summary": "कर्नाटक की कांग्रेस विधायक नयना मोटम्मा ने सोमवार को हासन से हाथियों को उनकी मुदिगेरे विधानसभा क्षेत्र में लाने के विरोध में इस्तीफ़ा दे दिया। इस्तीफ़ा निर्धारित प्रारूप में नहीं होने के कारण स्वीकार नहीं हुआ, और विरोध के बाद वन विभाग ने हाथी अभियान रोक दिया है।"
@@ -1820,9 +1866,7 @@
    "en": {
     "title": "Mudigere MLA Nayana Motamma resigns over elephant relocation; drive halted after protest",
     "summary": "Karnataka Congress MLA Nayana Motamma resigned on Monday, protesting against the Forest Department driving a herd of wild elephants from Hassan into her Mudigere constituency. Her resignation was not accepted as it was not in the prescribed format, and the department has halted the elephant drive after the protest."
-   },
-   "district": "Chikkamagaluru",
-   "state": "Karnataka"
+   }
   },
   {
    "id": "iran-flogs-singer-parastoo-ahmadi-74-lashes-hijab-free-concert-november-23",
@@ -1857,6 +1901,8 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23-en.mp3",
+   "district": "Shopian",
+   "state": "Jammu and Kashmir",
    "hi": {
     "title": "कश्मीर में मौसम की सबसे सर्द रात, शोपियां में पारा माइनस 3.9 डिग्री, श्रीनगर भी जमाव बिंदु से नीचे",
     "summary": "कश्मीर घाटी में सोमवार की रात मौसम की सबसे सर्द रात रही। शोपियां में पारा माइनस 3.9 डिग्री सेल्सियस दर्ज हुआ, जबकि श्रीनगर में भी तापमान जमाव बिंदु से नीचे माइनस 0.4 डिग्री रहा। मौसम विभाग ने महीने के अंत तक सूखा मौसम रहने और रात के तापमान में और गिरावट की संभावना जताई है।"
@@ -1864,9 +1910,7 @@
    "en": {
     "title": "Kashmir records season's coldest night as Shopian plunges to minus 3.9 degrees, Srinagar slips below freezing",
     "summary": "Kashmir Valley recorded the coldest night of the season on Monday, with Shopian plunging to minus 3.9 degrees Celsius and Srinagar also slipping below freezing at minus 0.4 degrees. The Meteorological Department has forecast mainly dry weather till the end of the month, with night temperatures likely to fall further."
-   },
-   "district": "Shopian",
-   "state": "Jammu and Kashmir"
+   }
   },
   {
    "id": "supreme-court-tamil-nadu-student-russian-army-abinesh-kumar-november-23",
@@ -2850,16 +2894,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hyderabad-nims-acb-irregularities-800-gloves-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-nims-acb-irregularities-800-gloves-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hyderabad-nims-acb-irregularities-800-gloves-november-23-en.mp3",
-   "en": {
-    "title": "800 gloves for one patient, bills after death: ACB flags serious irregularities at Hyderabad's NIMS",
-    "summary": "Surprise checks by Telangana's Anti-Corruption Bureau at Nizam's Institute of Medical Sciences in Hyderabad have flagged serious irregularities — 800 surgical gloves billed for a single patient in a week, billing entries worth about Rs 66 lakh made after patients were discharged, and implants worth about Rs 5 crore stored near operation theatres without authorisation. The ACB has seized records for further verification."
-   },
+   "district": "Hyderabad",
+   "state": "Telangana",
    "hi": {
     "title": "एक मरीज़ के लिए एक हफ़्ते में 800 दस्ताने, मौत के बाद भी बिल: हैदराबाद के निम्स में एसीबी को मिलीं गंभीर गड़बड़ियाँ",
     "summary": "हैदराबाद के पंजागुट्टा स्थित निज़ाम इंस्टीट्यूट ऑफ़ मेडिकल साइंसेज़ (निम्स) में तेलंगाना भ्रष्टाचार निरोधक ब्यूरो (एसीबी) की अचानक जाँच में गंभीर गड़बड़ियाँ सामने आई हैं — एक मरीज़ के लिए एक हफ़्ते में 800 सर्जिकल दस्तानों का इस्तेमाल, मरीज़ों के छुट्टी के बाद करीब 66 लाख रुपये के बिल, और ऑपरेशन थिएटर के पास बिना अनुमति रखे करीब 5 करोड़ रुपये के इंप्लांट। एसीबी ने आगे की जाँच के लिए रिकॉर्ड ज़ब्त कर लिए हैं।"
    },
-   "district": "Hyderabad",
-   "state": "Telangana"
+   "en": {
+    "title": "800 gloves for one patient, bills after death: ACB flags serious irregularities at Hyderabad's NIMS",
+    "summary": "Surprise checks by Telangana's Anti-Corruption Bureau at Nizam's Institute of Medical Sciences in Hyderabad have flagged serious irregularities — 800 surgical gloves billed for a single patient in a week, billing entries worth about Rs 66 lakh made after patients were discharged, and implants worth about Rs 5 crore stored near operation theatres without authorisation. The ACB has seized records for further verification."
+   }
   },
   {
    "id": "germany-schools-bomb-threat-emails-450-schools-november-23",
@@ -2873,13 +2917,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/germany-schools-bomb-threat-emails-450-schools-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/germany-schools-bomb-threat-emails-450-schools-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/germany-schools-bomb-threat-emails-450-schools-november-23-en.mp3",
-   "en": {
-    "title": "'Death awaits you': bomb threat emails sent to 450 schools in Germany, Denmark also hit",
-    "summary": "More than 450 schools in the German state of Baden-Wuerttemberg received identical bomb threat emails on Monday morning, and schools in Berlin and several other states — as well as Denmark — reported similar threats. Police said there was no indication of a concrete danger, though some schools evacuated as a precaution while investigations continue."
-   },
    "hi": {
     "title": "'मौत तुम्हारा इंतज़ार कर रही है': जर्मनी के 450 स्कूलों को बम से उड़ाने की धमकी वाले ईमेल, डेनमार्क में भी अलर्ट",
     "summary": "जर्मनी के दक्षिण-पश्चिमी राज्य बाडेन-वुर्टेमबर्ग के 450 से ज़्यादा स्कूलों को सोमवार सुबह एक जैसे बम धमकी वाले ईमेल मिले, और बर्लिन व कई अन्य राज्यों के साथ डेनमार्क के स्कूलों में भी ऐसी ही धमकियाँ मिलीं। पुलिस ने कहा कि किसी ठोस ख़तरे का कोई संकेत नहीं है, हालाँकि कुछ स्कूलों ने एहतियातन खाली कर दिया और जाँच जारी है।"
+   },
+   "en": {
+    "title": "'Death awaits you': bomb threat emails sent to 450 schools in Germany, Denmark also hit",
+    "summary": "More than 450 schools in the German state of Baden-Wuerttemberg received identical bomb threat emails on Monday morning, and schools in Berlin and several other states — as well as Denmark — reported similar threats. Police said there was no indication of a concrete danger, though some schools evacuated as a precaution while investigations continue."
    }
   },
   {
@@ -2984,16 +3028,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23-en.mp3",
-   "en": {
-    "title": "Bishnupur: Pregnant woman killed as ambulance collides with BSF vehicle; 7 injured",
-    "summary": "An ambulance carrying a pregnant woman to hospital collided head-on with a vehicle carrying BSF personnel near Thinungei in Manipur's Bishnupur district early on Monday morning, amid dense fog. The woman died and 7 people, including 4 BSF jawans, were injured."
-   },
+   "district": "Bishnupur",
+   "state": "Manipur",
    "hi": {
     "title": "बिष्णुपुर में एंबुलेंस-बीएसएफ वाहन की टक्कर: गर्भवती महिला की मौत, 7 घायल",
     "summary": "सोमवार सुबह करीब 5 बजे मणिपुर के बिष्णुपुर जिले में थिनुंगेई के पास घने कोहरे के बीच एंबुलेंस और बीएसएफ जवानों को ले जा रही गाड़ी की आमने-सामने टक्कर हो गई। गर्भवती ओइनम रोशिनी देवी की मौत हो गई, 4 बीएसएफ जवानों समेत 7 लोग घायल हुए।"
    },
-   "district": "Bishnupur",
-   "state": "Manipur"
+   "en": {
+    "title": "Bishnupur: Pregnant woman killed as ambulance collides with BSF vehicle; 7 injured",
+    "summary": "An ambulance carrying a pregnant woman to hospital collided head-on with a vehicle carrying BSF personnel near Thinungei in Manipur's Bishnupur district early on Monday morning, amid dense fog. The woman died and 7 people, including 4 BSF jawans, were injured."
+   }
   },
   {
    "id": "delhi-jama-masjid-police-station-knife-attack-five-cops-injured-november-23",
@@ -3007,16 +3051,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-jama-masjid-police-station-knife-attack-five-cops-injured-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-jama-masjid-police-station-knife-attack-five-cops-injured-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-jama-masjid-police-station-knife-attack-five-cops-injured-november-23-en.mp3",
-   "en": {
-    "title": "Man stabs 5 policemen inside Delhi's Jama Masjid police station, shot in both legs during capture",
-    "summary": "A 25-year-old man summoned for questioning over a family dispute allegedly attacked 5 policemen with a knife inside Delhi's Jama Masjid police station on Monday afternoon. Three of the injured are in serious condition. He fled on a snatched two-wheeler but was tracked to Chitli Qabar, where police shot him in both legs in self-defence."
-   },
+   "district": "Central Delhi",
+   "state": "Delhi",
    "hi": {
     "title": "जामा मस्जिद थाने में चाकू से 5 पुलिसकर्मियों पर हमला, आरोपी को दोनों पैरों में गोली लगी",
     "summary": "सोमवार दोपहर करीब ढाई बजे पारिवारिक विवाद की शिकायत पर पूछताछ के लिए बुलाए गए 25 वर्षीय आरोपी नबील ने जामा मस्जिद थाने के अंदर चाकू से 5 पुलिसकर्मियों पर हमला कर दिया। 3 की हालत गंभीर है। भागते समय उसने राहगीर की दोपहिया छीनी, लेकिन चितली कब्र में पुलिस ने उसे घेर लिया और आत्मरक्षा में गोली चलाई।"
    },
-   "district": "Central Delhi",
-   "state": "Delhi"
+   "en": {
+    "title": "Man stabs 5 policemen inside Delhi's Jama Masjid police station, shot in both legs during capture",
+    "summary": "A 25-year-old man summoned for questioning over a family dispute allegedly attacked 5 policemen with a knife inside Delhi's Jama Masjid police station on Monday afternoon. Three of the injured are in serious condition. He fled on a snatched two-wheeler but was tracked to Chitli Qabar, where police shot him in both legs in self-defence."
+   }
   },
   {
    "id": "brij-bhushan-gonda-dabdaba-remark-akhilesh-advice-november-23",
@@ -3030,16 +3074,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/brij-bhushan-gonda-dabdaba-remark-akhilesh-advice-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/brij-bhushan-gonda-dabdaba-remark-akhilesh-advice-november-23-hi.mp3",
    "audioEn": null,
-   "en": {
-    "title": "Gonda: Brij Bhushan repeats 'dabdaba' line at Ram Katha, advises Akhilesh to heed saints before Ayodhya visit",
-    "summary": "Former MP Brij Bhushan Sharan Singh, attending the Shri Ram Katha at Jayprabha village in Gonda, said the influence of Gonda and the Devipatan division was there, is there and will remain. He called the Owaisi-Chandrashekhar alliance mismatched and advised Akhilesh Yadav to heed the saints and apologise before his Ayodhya visit."
-   },
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोंडा में बृजभूषण सिंह ने फिर दोहराया- दबदबा रहेगा, अखिलेश को संतों की बात मानने की सलाह दी",
     "summary": "गोंडा के जयप्रभा ग्राम में श्रीराम कथा में शामिल हुए पूर्व सांसद बृजभूषण शरण सिंह ने कहा कि गोंडा और देवीपाटन मंडल का दबदबा था, है और रहेगा। उन्होंने ओवैसी और चंद्रशेखर के गठबंधन को बेमेल बताया और अखिलेश यादव को अयोध्या दौरे से पहले संतों की बात मानकर माफी मांगने की सलाह दी।"
    },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
+   "en": {
+    "title": "Gonda: Brij Bhushan repeats 'dabdaba' line at Ram Katha, advises Akhilesh to heed saints before Ayodhya visit",
+    "summary": "Former MP Brij Bhushan Sharan Singh, attending the Shri Ram Katha at Jayprabha village in Gonda, said the influence of Gonda and the Devipatan division was there, is there and will remain. He called the Owaisi-Chandrashekhar alliance mismatched and advised Akhilesh Yadav to heed the saints and apologise before his Ayodhya visit."
+   }
   },
   {
    "id": "nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23",
@@ -3053,13 +3097,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-kandla-paradip-port-access-siliguri-jhapa-pipeline-november-23-en.mp3",
-   "en": {
-    "title": "Nepal gets Kandla port access, Paradip to follow; Siliguri-Jhapa fuel pipeline work to start soon",
-    "summary": "The joint statement after talks between Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah gives Nepal a new transit trade route through Kandla port in Gujarat, with Paradip to follow. Phase II of the Motihari-Amlekhgunj pipeline was dedicated, and work on the Siliguri-Jhapa pipeline is to start soon."
-   },
    "hi": {
     "title": "नेपाल को कांडला बंदरगाह की सुविधा, पारादीप भी मिलेगा; सिलीगुड़ी-झापा ईंधन पाइपलाइन का काम जल्द शुरू होगा",
     "summary": "प्रधानमंत्री नरेंद्र मोदी और नेपाल के प्रधानमंत्री बालेंद्र शाह की बातचीत के बाद जारी संयुक्त वक्तव्य में नेपाल को गुजरात के कांडला बंदरगाह से पारगमन व्यापार का नया रास्ता देने की घोषणा की गई है। पारादीप बंदरगाह की सुविधा भी मिलेगी, मोतिहारी-अमलेखगंज पाइपलाइन का दूसरा चरण समर्पित किया गया और सिलीगुड़ी-झापा पाइपलाइन का काम जल्द शुरू होगा।"
+   },
+   "en": {
+    "title": "Nepal gets Kandla port access, Paradip to follow; Siliguri-Jhapa fuel pipeline work to start soon",
+    "summary": "The joint statement after talks between Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah gives Nepal a new transit trade route through Kandla port in Gujarat, with Paradip to follow. Phase II of the Motihari-Amlekhgunj pipeline was dedicated, and work on the Siliguri-Jhapa pipeline is to start soon."
    }
   },
   {
@@ -3074,16 +3118,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jodhpur-scooty-rider-50-lakh-loot-two-accused-detained-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jodhpur-scooty-rider-50-lakh-loot-two-accused-detained-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jodhpur-scooty-rider-50-lakh-loot-two-accused-detained-november-23-en.mp3",
-   "en": {
-    "title": "Jodhpur: Scooter rider hit by Scorpio, robbed of Rs 50 lakh cash; two accused detained",
-    "summary": "In Jodhpur on Saturday evening, grain-mandi employee Babulal Sharma was robbed of Rs 50 lakh as he rode home on his scooter after withdrawing the cash from a bank. Men in a Scorpio hit his scooter, beat him and fled with the bag of cash. Police have detained two accused."
-   },
+   "district": "Jodhpur",
+   "state": "Rajasthan",
    "hi": {
     "title": "जोधपुर में स्कूटी-सवार से 50 लाख की लूट: स्कॉर्पियो से टक्कर मारकर बैग छीना, 2 आरोपी दस्तयाब",
     "summary": "जोधपुर में शनिवार शाम अनाज मंडी के कर्मचारी बाबूलाल शर्मा से 50 लाख रुपये लूट लिए गए। बैंक से रकम निकालकर स्कूटी से घर लौट रहे शर्मा को स्कॉर्पियो सवार बदमाशों ने टक्कर मारकर गिराया और नकदी से भरा बैग छीनकर फरार हो गए। पुलिस ने 2 आरोपियों को दस्तयाब कर लिया है।"
    },
-   "district": "Jodhpur",
-   "state": "Rajasthan"
+   "en": {
+    "title": "Jodhpur: Scooter rider hit by Scorpio, robbed of Rs 50 lakh cash; two accused detained",
+    "summary": "In Jodhpur on Saturday evening, grain-mandi employee Babulal Sharma was robbed of Rs 50 lakh as he rode home on his scooter after withdrawing the cash from a bank. Men in a Scorpio hit his scooter, beat him and fled with the bag of cash. Police have detained two accused."
+   }
   },
   {
    "id": "mha-whatsapp-web-advisory-log-out-after-every-session-november-23",
@@ -3097,13 +3141,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mha-whatsapp-web-advisory-log-out-after-every-session-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mha-whatsapp-web-advisory-log-out-after-every-session-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mha-whatsapp-web-advisory-log-out-after-every-session-november-23-en.mp3",
-   "en": {
-    "title": "Using WhatsApp Web at work? Home Ministry warns of account misuse, says log out after every session",
-    "summary": "The Home Ministry's cybercrime unit has warned users about the safe use of WhatsApp Web, saying a logged-in session can be misused to gain unauthorised access to an account. Users have been advised against sensitive work on WhatsApp Web, especially on office or shared computers, and told to log out manually after every session."
-   },
    "hi": {
     "title": "WhatsApp Web पर काम करते हैं तो सावधान: गृह मंत्रालय की चेतावनी, हर सेशन के बाद लॉग आउट करें",
     "summary": "गृह मंत्रालय के तहत काम करने वाली साइबर अपराध इकाई ने WhatsApp Web के सुरक्षित इस्तेमाल को लेकर चेतावनी जारी की है। इकाई का कहना है कि लॉग-इन किया हुआ WhatsApp Web सेशन गलत हाथों में पड़ जाए तो खाते तक अनधिकृत पहुँच बन सकती है। दफ्तर या साझा कंप्यूटर पर WhatsApp Web से संवेदनशील काम न करने और हर सेशन के बाद हाथ से लॉग आउट करने की सलाह दी गई है।"
+   },
+   "en": {
+    "title": "Using WhatsApp Web at work? Home Ministry warns of account misuse, says log out after every session",
+    "summary": "The Home Ministry's cybercrime unit has warned users about the safe use of WhatsApp Web, saying a logged-in session can be misused to gain unauthorised access to an account. Users have been advised against sensitive work on WhatsApp Web, especially on office or shared computers, and told to log out manually after every session."
    }
   },
   {
@@ -3118,13 +3162,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/panchayat-season-5-trailer-out-phulera-banrakas-december-3-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/panchayat-season-5-trailer-out-phulera-banrakas-december-3-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/panchayat-season-5-trailer-out-phulera-banrakas-december-3-november-23-en.mp3",
-   "en": {
-    "title": "Panchayat Season 5 trailer out: Banrakas takes charge of Phulera, Sachiv Ji faces new troubles; premieres December 3",
-    "summary": "Prime Video on Monday unveiled the trailer for the fifth season of Panchayat. Banrakas is now Phulera's Pradhan Pati, Pradhan Ji is adjusting to life after losing his chair, and Sachiv Ji faces a fresh set of problems. Season 5 premieres on Prime Video on December 3, 2026."
-   },
    "hi": {
     "title": "पंचायत सीज़न 5 का ट्रेलर आया: फुलेरा में बनराकस का राज, सचिव जी की नई मुश्किलें; 3 दिसंबर को प्रीमियर",
     "summary": "प्राइम वीडियो ने सोमवार को 'पंचायत' के पाँचवें सीज़न का ट्रेलर जारी कर दिया। नए सीज़न में बनराकस फुलेरा के प्रधान पति हैं, प्रधान जी कुर्सी जाने के बाद की ज़िंदगी से जूझ रहे हैं और सचिव जी के सामने नई मुश्किलें हैं। पाँचवाँ सीज़न 3 दिसंबर 2026 को प्राइम वीडियो पर आएगा।"
+   },
+   "en": {
+    "title": "Panchayat Season 5 trailer out: Banrakas takes charge of Phulera, Sachiv Ji faces new troubles; premieres December 3",
+    "summary": "Prime Video on Monday unveiled the trailer for the fifth season of Panchayat. Banrakas is now Phulera's Pradhan Pati, Pradhan Ji is adjusting to life after losing his chair, and Sachiv Ji faces a fresh set of problems. Season 5 premieres on Prime Video on December 3, 2026."
    }
   },
   {
@@ -3139,13 +3183,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-dismisses-red-fort-blast-accused-jasir-bilal-wani-default-bail-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-dismisses-red-fort-blast-accused-jasir-bilal-wani-default-bail-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-dismisses-red-fort-blast-accused-jasir-bilal-wani-default-bail-november-23-en.mp3",
-   "en": {
-    "title": "Red Fort blast: Supreme Court dismisses accused Jasir Bilal Wani's plea for default bail",
-    "summary": "The Supreme Court on Monday dismissed a special leave petition by Jasir Bilal Wani, an accused in the Red Fort blast case, challenging the Delhi High Court's August 18 refusal to grant him default bail. The court held that the UAPA permits detention of up to 180 days for completing an investigation."
-   },
    "hi": {
     "title": "लाल किला विस्फोट: आरोपी जासिर बिलाल वानी की डिफ़ॉल्ट ज़मानत याचिका सुप्रीम कोर्ट ने खारिज की",
     "summary": "सुप्रीम कोर्ट ने सोमवार को लाल किला विस्फोट मामले के आरोपी जासिर बिलाल वानी की विशेष अनुमति याचिका खारिज कर दी। वानी ने दिल्ली हाईकोर्ट के 18 अगस्त के फैसले को चुनौती दी थी, जिसमें उन्हें डिफ़ॉल्ट ज़मानत देने से इनकार किया गया था। कोर्ट ने कहा कि यूएपीए के तहत जाँच के लिए 180 दिन तक की हिरासत की अनुमति है।"
+   },
+   "en": {
+    "title": "Red Fort blast: Supreme Court dismisses accused Jasir Bilal Wani's plea for default bail",
+    "summary": "The Supreme Court on Monday dismissed a special leave petition by Jasir Bilal Wani, an accused in the Red Fort blast case, challenging the Delhi High Court's August 18 refusal to grant him default bail. The court held that the UAPA permits detention of up to 180 days for completing an investigation."
    }
   },
   {
@@ -3160,16 +3204,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/guwahati-narengi-man-found-dead-25-lakh-cash-identified-biswajit-debnath-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/guwahati-narengi-man-found-dead-25-lakh-cash-identified-biswajit-debnath-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/guwahati-narengi-man-found-dead-25-lakh-cash-identified-biswajit-debnath-november-23-en.mp3",
-   "en": {
-    "title": "Man found dead at Guwahati's Narengi station with Rs 25 lakh strapped to his body identified as Biswajit Debnath",
-    "summary": "A man's body was found on the railway track near Guwahati's Narengi station on Saturday evening, with around Rs 25 lakh in cash strapped to his body. Police on Monday identified him as Biswajit Debnath, a resident of Sribhumi. He had boarded the wrong train while travelling to Sribhumi, and the source of the cash is still unknown."
-   },
+   "district": "Kamrup Metro",
+   "state": "Assam",
    "hi": {
     "title": "नरेंगी स्टेशन पर शरीर पर बंधे 25 लाख रुपये के साथ मिला शव, मृतक की पहचान बिस्वजीत देबनाथ के रूप में हुई",
     "summary": "शनिवार शाम गुवाहाटी के नरेंगी रेलवे स्टेशन के पास पटरी पर एक व्यक्ति का शव मिला था, जिसके शरीर पर करीब 25 लाख रुपये बंधे हुए थे। पुलिस ने सोमवार को मृतक की पहचान श्रीभूमि निवासी बिस्वजीत देबनाथ के रूप में की है। वह श्रीभूमि जाने के लिए गलत ट्रेन में चढ़ गए थे, और नकदी का स्रोत अभी पता नहीं चला है।"
    },
-   "district": "Kamrup Metro",
-   "state": "Assam"
+   "en": {
+    "title": "Man found dead at Guwahati's Narengi station with Rs 25 lakh strapped to his body identified as Biswajit Debnath",
+    "summary": "A man's body was found on the railway track near Guwahati's Narengi station on Saturday evening, with around Rs 25 lakh in cash strapped to his body. Police on Monday identified him as Biswajit Debnath, a resident of Sribhumi. He had boarded the wrong train while travelling to Sribhumi, and the source of the cash is still unknown."
+   }
   },
   {
    "id": "samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23",
@@ -3183,16 +3227,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23-en.mp3",
-   "en": {
-    "title": "Mumbai-bound bus from Nagpur overturns on Samruddhi Expressway, 2 killed and 27 injured after hitting parapet wall",
-    "summary": "Around 1 am on Monday, a private bus travelling from Nagpur to Mumbai hit the parapet wall near an underpass and overturned in the Phulambri police station area of Chhatrapati Sambhajinagar. Two passengers were killed and 27 injured; the seriously injured have been admitted to the Government Medical College and Hospital in Chhatrapati Sambhajinagar."
-   },
+   "district": "Chhatrapati Sambhajinagar",
+   "state": "Maharashtra",
    "hi": {
     "title": "समृद्धि एक्सप्रेसवे पर नागपुर से मुंबई जा रही बस पलटी, 2 की मौत, 27 घायल; परपेट दीवार से टकराई थी बस",
     "summary": "सोमवार तड़के करीब 1 बजे छत्रपति संभाजीनगर के फुलंब्री थाना क्षेत्र में नागपुर से मुंबई जा रही प्राइवेट बस परपेट दीवार से टकराकर पलट गई। हादसे में 2 यात्रियों की मौत हो गई और 27 घायल हुए, जिनमें से गंभीर रूप से घायलों को छत्रपति संभाजीनगर के सरकारी मेडिकल कॉलेज अस्पताल में भर्ती कराया गया है।"
    },
-   "district": "Chhatrapati Sambhajinagar",
-   "state": "Maharashtra"
+   "en": {
+    "title": "Mumbai-bound bus from Nagpur overturns on Samruddhi Expressway, 2 killed and 27 injured after hitting parapet wall",
+    "summary": "Around 1 am on Monday, a private bus travelling from Nagpur to Mumbai hit the parapet wall near an underpass and overturned in the Phulambri police station area of Chhatrapati Sambhajinagar. Two passengers were killed and 27 injured; the seriously injured have been admitted to the Government Medical College and Hospital in Chhatrapati Sambhajinagar."
+   }
   },
   {
    "id": "sensex-closes-1484-points-down-nifty-below-25350-november-23",
@@ -3206,13 +3250,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-closes-1484-points-down-nifty-below-25350-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1484-points-down-nifty-below-25350-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1484-points-down-nifty-below-25350-november-23-en.mp3",
-   "en": {
-    "title": "Sensex crashes 1,484 points to 82,436, Nifty below 25,350 in biggest single-day fall in nearly 5 months",
-    "summary": "Indian markets ended Monday with their biggest single-day fall in nearly five months. The Sensex closed 1,484 points lower at 82,436 and the Nifty fell 451 points to 25,350 as banks and metals led a broad sell-off. Investors lost about 5.24 lakh crore rupees in a day. Markets stay shut on Tuesday for Guru Nanak Jayanti."
-   },
    "hi": {
     "title": "सेंसेक्स 1,484 अंक टूटकर 82,436 पर बंद, निफ्टी 25,350 से नीचे — करीब 5 महीनों की सबसे बड़ी एक दिन की गिरावट",
     "summary": "भारतीय बाजार सोमवार को करीब 5 महीनों की सबसे बड़ी एक दिन की गिरावट के साथ बंद हुए। सेंसेक्स 1,484 अंक गिरकर 82,436 पर बंद हुआ और निफ्टी 451 अंक टूटकर 25,350 पर आ गया, क्योंकि बैंक और मेटल शेयरों की अगुवाई में चौतरफा बिकवाली हुई। एक दिन में निवेशकों को करीब 5.24 लाख करोड़ रुपये का नुकसान हुआ। गुरु नानक जयंती पर मंगलवार को बाजार बंद रहेंगे।"
+   },
+   "en": {
+    "title": "Sensex crashes 1,484 points to 82,436, Nifty below 25,350 in biggest single-day fall in nearly 5 months",
+    "summary": "Indian markets ended Monday with their biggest single-day fall in nearly five months. The Sensex closed 1,484 points lower at 82,436 and the Nifty fell 451 points to 25,350 as banks and metals led a broad sell-off. Investors lost about 5.24 lakh crore rupees in a day. Markets stay shut on Tuesday for Guru Nanak Jayanti."
    }
   },
   {
@@ -3227,16 +3271,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-blackout-mock-drill-air-raid-preparedness-november-22.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-blackout-mock-drill-air-raid-preparedness-november-22-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-blackout-mock-drill-air-raid-preparedness-november-22-en.mp3",
-   "en": {
-    "title": "Gonda blackout mock drill: siren sounds, lights go out and people head for bunkers in air-raid preparedness exercise",
-    "summary": "As the siren sounded at 6 pm on Sunday, the lights went out at Gonda's Shaheed-e-Azam Sardar Bhagat Singh Inter College ground and nearby areas. In the joint civil defence and district disaster management exercise, teams practised rescuing the injured, rushing them to hospital through a green corridor and dousing fires."
-   },
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोंडा में ब्लैकआउट मॉक ड्रिल: सायरन बजते ही बुझ गईं बत्तियाँ, लोग बंकरों में पहुँचे; हवाई हमले से बचाव का अभ्यास",
     "summary": "रविवार शाम 6 बजे सायरन बजते ही गोंडा के शहीदे आजम सरदार भगत सिंह इंटर कॉलेज मैदान और आसपास की बत्तियाँ बुझ गईं। नागरिक सुरक्षा और जिला आपदा प्रबंधन प्राधिकरण के संयुक्त अभ्यास में घायलों को बचाने, ग्रीन कॉरिडोर से अस्पताल पहुँचाने और आग बुझाने का अभ्यास हुआ।"
    },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
+   "en": {
+    "title": "Gonda blackout mock drill: siren sounds, lights go out and people head for bunkers in air-raid preparedness exercise",
+    "summary": "As the siren sounded at 6 pm on Sunday, the lights went out at Gonda's Shaheed-e-Azam Sardar Bhagat Singh Inter College ground and nearby areas. In the joint civil defence and district disaster management exercise, teams practised rescuing the injured, rushing them to hospital through a green corridor and dousing fires."
+   }
   },
   {
    "id": "sc-considers-bs-six-only-vehicles-delhi-pollution-november-23",
@@ -3250,60 +3294,14 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sc-considers-bs-six-only-vehicles-delhi-pollution-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-considers-bs-six-only-vehicles-delhi-pollution-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sc-considers-bs-six-only-vehicles-delhi-pollution-november-23-en.mp3",
-   "en": {
-    "title": "Supreme Court to consider BS-VI-only vehicles in Delhi, status quo for a month",
-    "summary": "The Supreme Court said on Monday it will consider a direction allowing only BS-VI vehicles in Delhi. The Chief Justice said the status quo will remain for at least a month, with no immediate intervention. The court also discussed a five-year plan to keep heavy commercial vehicles out of Delhi."
-   },
    "hi": {
     "title": "दिल्ली में सिर्फ बीएस 6 गाड़ियाँ चलाने पर विचार करेगा सुप्रीम कोर्ट, एक महीने तक यथास्थिति रहेगी",
     "summary": "सुप्रीम कोर्ट ने सोमवार को कहा कि वह दिल्ली में सिर्फ बीएस 6 मानक वाली गाड़ियाँ चलाने के निर्देश पर विचार करेगा। मुख्य न्यायाधीश ने कहा कि कम से कम एक महीने तक यथास्थिति रहेगी और तुरंत कोई हस्तक्षेप नहीं होगा। भारी वाणिज्यिक वाहनों को 5 साल में दिल्ली से बाहर रखने की योजना पर भी विचार हुआ।"
+   },
+   "en": {
+    "title": "Supreme Court to consider BS-VI-only vehicles in Delhi, status quo for a month",
+    "summary": "The Supreme Court said on Monday it will consider a direction allowing only BS-VI vehicles in Delhi. The Chief Justice said the status quo will remain for at least a month, with no immediate intervention. The court also discussed a five-year plan to keep heavy commercial vehicles out of Delhi."
    }
-  },
-  {
-   "id": "ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T16:33:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-cm-majhi-visits-flood-hit-paddy-fields-november-23-en.mp3",
-   "en": {
-    "title": "CM Majhi walks Ganjam's flood-hit paddy fields, sees ruined crop and promises farmers full help",
-    "summary": "Chief Minister Mohan Charan Majhi visited flood-hit Ganjam district on Monday — first an aerial survey, then a walk through the damaged paddy fields of Handighar and Baulagam villages, where he met farmers and promised all possible help. He directed officials to finish the crop-damage assessment quickly so assistance reaches farmers in time."
-   },
-   "hi": {
-    "title": "गंजम के बाढ़-प्रभावित खेतों में उतरे मुख्यमंत्री माझी, बर्बाद धान देख किसानों को हर मदद का भरोसा",
-    "summary": "मुख्यमंत्री मोहन चरण माझी सोमवार को गंजम ज़िले के बाढ़-प्रभावित इलाकों में पहुँचे — पहले हवाई सर्वेक्षण किया, फिर हांडीघर और बाउलागाम गाँव के धान के खेतों में उतरकर फसल का नुकसान देखा और किसानों को हरसंभव मदद का भरोसा दिया। नुकसान का आकलन जल्द पूरा करके समय पर मदद पहुँचाने के निर्देश भी दिए।"
-   },
-   "district": "Ganjam",
-   "state": "Odisha"
-  },
-  {
-   "id": "karthigai-deepam-tiruvannamalai-4850-buses-16-special-trains-november-23",
-   "category": "Dharm-Astrology",
-   "sub": "Vrat & Tyohar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T16:19:26+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karthigai-deepam-tiruvannamalai-4850-buses-16-special-trains-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karthigai-deepam-tiruvannamalai-4850-buses-16-special-trains-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karthigai-deepam-tiruvannamalai-4850-buses-16-special-trains-november-23-en.mp3",
-   "en": {
-    "title": "Karthigai Deepam: Maha Deepam to be lit in Tiruvannamalai tomorrow; 4,850+ buses, 16 special trains for devotees",
-    "summary": "The main Karthigai Deepam events in Tiruvannamalai fall on Tuesday — Bharani Deepam at 4 am inside the temple and the Maha Deepam atop Annamalai Hill at 6 pm. With more than 45 lakh devotees expected, over 4,850 buses and 16 special trains are running, and private vehicles will be kept out of the town on Maha Deepam day."
-   },
-   "hi": {
-    "title": "तिरुवण्णामलै में कल महादीपम: 45 लाख से ज़्यादा श्रद्धालुओं के लिए 4,850 बसें, 16 स्पेशल ट्रेनें",
-    "summary": "तिरुवण्णामलै में कार्तिगई दीपम का मुख्य आयोजन मंगलवार को होगा — सुबह 4 बजे भरणी दीपम और शाम 6 बजे अण्णामलै पहाड़ी पर महादीपम जलेगा। 45 लाख से ज़्यादा श्रद्धालुओं के आने का अनुमान है, जिसके लिए 4,850 से ज़्यादा बसें और 16 स्पेशल ट्रेनें चलाई जा रही हैं, और महादीपम वाले दिन शहर में निजी वाहनों पर रोक रहेगी।"
-   },
-   "district": "Tiruvannamalai",
-   "state": "Tamil Nadu"
   }
  ]
 }
