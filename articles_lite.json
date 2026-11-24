@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-24T08:54:05+05:30",
+ "updatedAt": "2026-11-24T09:05:02+05:30",
  "articles": [
+  {
+   "id": "sheikh-hasina-plans-return-bangladesh-december-16-state-carrier-november-24",
+   "category": "World",
+   "sub": "Asia",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T09:05:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sheikh-hasina-plans-return-bangladesh-december-16-state-carrier-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sheikh-hasina-plans-return-bangladesh-december-16-state-carrier-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sheikh-hasina-plans-return-bangladesh-december-16-state-carrier-november-24-en.mp3",
+   "hi": {
+    "title": "शेख हसीना 16 दिसंबर को बांग्लादेश लौटने की तैयारी में, सरकारी विमान से वापसी की मांग",
+    "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना 2 साल से ज्यादा समय से भारत में निर्वासन में हैं। उनके प्रवक्ता ने रॉयटर्स को बताया कि वह 16 दिसंबर, विजय दिवस पर ढाका लौटना चाहती हैं और उन्होंने ढाका सरकार से सरकारी विमान से वापसी की व्यवस्था करने को कहा है।"
+   },
+   "en": {
+    "title": "Sheikh Hasina plans return to Bangladesh on December 16, asks Dhaka to arrange state-carrier flight",
+    "summary": "Bangladesh's ousted prime minister Sheikh Hasina, in exile in India for more than two years, plans to return home on December 16, Victory Day. Her spokesperson told Reuters she has asked Dhaka to arrange her return on Biman Bangladesh Airlines."
+   }
+  },
+  {
+   "id": "sonia-gandhi-legal-notice-savarkar-remarks-memoir-november-24",
+   "category": "Politics",
+   "sub": "Congress",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T09:05:02+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sonia-gandhi-legal-notice-savarkar-remarks-memoir-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sonia-gandhi-legal-notice-savarkar-remarks-memoir-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sonia-gandhi-legal-notice-savarkar-remarks-memoir-november-24-en.mp3",
+   "hi": {
+    "title": "सोनिया गांधी को सावरकर पर टिप्पणी को लेकर कानूनी नोटिस, 15 दिन में माफी और सुधार की मांग",
+    "summary": "वीर सावरकर के वंशज सत्यकी सावरकर ने सोनिया गांधी को उनकी आत्मकथा 'बिलॉन्गिंग: ए जर्नी ऑफ लव' में सावरकर पर की गई टिप्पणियों को लेकर कानूनी नोटिस भेजा है। नोटिस में 15 दिन के भीतर बिना शर्त माफी और किताब में सुधार की मांग की गई है।"
+   },
+   "en": {
+    "title": "Sonia Gandhi gets legal notice over Savarkar remarks in memoir; apology and corrections sought in 15 days",
+    "summary": "Satyaki Savarkar, a descendant of VD Savarkar, has sent a legal notice to Congress leader Sonia Gandhi over references to the Hindutva ideologue in her memoir 'Belonging: A Journey of Love'. The notice demands an unconditional apology and corrections, warning of a petition in Pune District Court if she does not respond in 15 days."
+   }
+  },
   {
    "id": "kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24",
    "category": "State & Local",
@@ -3259,50 +3301,6 @@
    "en": {
     "title": "Bhopal: Bulldozers roll in Aishbagh as 599 dilapidated Janata Quarters come down, 3,000 residents affected",
     "summary": "The demolition of 599 dilapidated Janata Quarters in Bhopal's Aishbagh began on Monday morning after the Madhya Pradesh High Court refused to stay the drive. Around 3,000 people lived in the 40-year-old quarters, which were declared unsafe in 2016; one house has interim protection till Wednesday."
-   }
-  },
-  {
-   "id": "wellington-test-day-5-india-need-five-wickets-nz-206-5-at-tea-november-23",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T09:48:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wellington-test-day-5-india-need-five-wickets-nz-206-5-at-tea-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wellington-test-day-5-india-need-five-wickets-nz-206-5-at-tea-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wellington-test-day-5-india-need-five-wickets-nz-206-5-at-tea-november-23-en.mp3",
-   "hi": {
-    "title": "वेलिंग्टन टेस्ट, पाँचवाँ दिन: चाय तक न्यूज़ीलैंड 206/5, भारत से अब भी 146 रन पीछे; जीत के लिए 5 विकेट चाहिए",
-    "summary": "वेलिंग्टन में पहले टेस्ट के आखिरी दिन चाय तक न्यूज़ीलैंड 206/5 पर पहुँच गया और भारत से अब भी 146 रन पीछे है। भारत को जीत के लिए आखिरी सत्र में 5 विकेट चाहिए, जबकि डेरिल मिचेल और ग्लेन फिलिप्स क्रीज़ पर टिके हैं।"
-   },
-   "en": {
-    "title": "Wellington Test Day 5: India need 5 wickets as New Zealand reach 206 for 5 at tea, still 146 behind",
-    "summary": "India closed in on victory in the first Test at Wellington as New Zealand reached 206 for 5 at tea on the final day, still 146 runs behind. India need 5 wickets in the final session, with Daryl Mitchell and Glenn Phillips at the crease."
-   }
-  },
-  {
-   "id": "manipur-spurious-liquor-toll-17-samples-calcutta-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T09:38:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-spurious-liquor-toll-17-samples-calcutta-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-17-samples-calcutta-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-17-samples-calcutta-november-23-en.mp3",
-   "district": "Chandel",
-   "state": "Manipur",
-   "hi": {
-    "title": "मणिपुर में जहरीली शराब से मरने वालों की संख्या 17 हुई, नमूने कोलकाता की लैब भेजे गए; 228 अस्पताल में, 38 की डायलिसिस चल रही",
-    "summary": "मणिपुर में संदिग्ध जहरीली शराब से मरने वालों की संख्या 17 हो गई है और शराब के नमूने कोलकाता स्थित राष्ट्रीय खाद्य प्रयोगशाला में जाँच के लिए भेजे गए हैं। 6 लोगों को गिरफ्तार किया गया है, 4,600 लीटर संदिग्ध अवैध शराब ज़ब्त की गई है और 228 लोग अभी भी अस्पताल में हैं, जिनमें से 38 की डायलिसिस चल रही है।"
-   },
-   "en": {
-    "title": "Manipur spurious liquor toll rises to 17; samples sent to Calcutta lab as 228 remain in hospital, 38 on dialysis",
-    "summary": "The death toll in Manipur's suspected spurious liquor tragedy has risen to 17, with samples sent to the National Food Laboratory in Calcutta for testing. 6 people have been arrested, 4,600 litres of suspected illicit liquor has been seized, and 228 people are still in hospital, 38 of them on dialysis."
    }
   }
  ]
