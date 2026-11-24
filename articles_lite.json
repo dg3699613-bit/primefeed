@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T06:44:27+05:30",
+ "updatedAt": "2026-11-24T07:03:54+05:30",
  "articles": [
+  {
+   "id": "alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners",
+   "category": "Crime & Law",
+   "sub": "Cyber Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T07:03:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners-en.mp3",
+   "district": "Alwar",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "अलवर पुलिस ने लौटाए 33 लाख रुपये के 114 गुमशुदा मोबाइल, सीईआईआर पोर्टल से हुआ ट्रेस",
+    "summary": "राजस्थान के अलवर में पुलिस ने सोमवार को 114 गुमशुदा मोबाइल फोन उनके मालिकों को लौटा दिए। इन मोबाइलों की अनुमानित कीमत करीब 33 लाख रुपये है।"
+   },
+   "en": {
+    "title": "Alwar police return 114 lost mobile phones worth Rs 33 lakh to owners under Operation Cyber Sangram",
+    "summary": "Police in Rajasthan's Alwar district on Monday returned 114 lost mobile phones, worth an estimated Rs 33 lakh, to their rightful owners under Operation Cyber Sangram 3.0."
+   }
+  },
+  {
+   "id": "supreme-court-children-not-toys-for-parents-mother-keeps-custody-of-two-sons",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T07:03:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-children-not-toys-for-parents-mother-keeps-custody-of-two-sons.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-children-not-toys-for-parents-mother-keeps-custody-of-two-sons-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-children-not-toys-for-parents-mother-keeps-custody-of-two-sons-en.mp3",
+   "hi": {
+    "title": "बच्चे माता-पिता के खिलौने नहीं, सुप्रीम कोर्ट ने मां को सौंपी 2 बेटों की कस्टडी",
+    "summary": "सुप्रीम कोर्ट ने सोमवार को कहा कि बच्चे माता-पिता की संपत्ति या खिलौने नहीं हैं। अदालत ने 16 और 14 साल के 2 बेटों की कस्टडी उनकी मां के पास ही रहने दी।"
+   },
+   "en": {
+    "title": "Children are not toys for their parents, says Supreme Court; mother keeps custody of two teenage sons",
+    "summary": "The Supreme Court on Monday said children are not mere chattels, nor toys for their parents, and let a mother retain custody of her two teenage sons, aged 16 and 14."
+   }
+  },
   {
    "id": "bus-rams-sabarimala-pilgrims-van-tindivanam-two-killed-13-injured-november-23",
    "category": "State & Local",
@@ -3255,50 +3299,6 @@
    "en": {
     "title": "Netanyahu-Eisenkot unity talks end without a deal as Israel's government deadlock deepens",
     "summary": "Talks between the parties of caretaker Prime Minister Benjamin Netanyahu and Gadi Eisenkot to form a unity government in Israel ended on Sunday without an agreement. The two sides remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will be part of it. Eisenkot has until December 6 to form a government."
-   }
-  },
-  {
-   "id": "nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T07:06:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-pm-balendra-shah-talks-pm-modi-new-delhi-november-23-en.mp3",
-   "hi": {
-    "title": "नेपाल के PM बालेंद्र शाह आज PM मोदी से करेंगे बातचीत, ऊर्जा और कनेक्टिविटी एजेंडे में सबसे ऊपर",
-    "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह आज नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी से प्रतिनिधिमंडल स्तर की बातचीत करेंगे। दो दिन की राजकीय यात्रा पर आए शाह की यह भारत की पहली द्विपक्षीय यात्रा है। बातचीत में ऊर्जा, जलविद्युत, रेलवे और कनेक्टिविटी के साथ-साथ नई दिल्ली से 2 अरब डॉलर के आर्थिक सहायता पैकेज के काठमांडू के प्रस्ताव पर भी चर्चा होने की उम्मीद है।"
-   },
-   "en": {
-    "title": "Nepal PM Balendra Shah to hold talks with PM Modi today; energy, connectivity and aid on agenda",
-    "summary": "Nepal Prime Minister Balendra Shah will hold delegation-level talks with Prime Minister Narendra Modi in New Delhi on Monday, the centrepiece of his two-day state visit to India. Energy, hydropower, railways and connectivity are on the agenda, along with Kathmandu's proposal for a $2-billion economic assistance package from New Delhi."
-   }
-  },
-  {
-   "id": "father-son-killed-tractor-plunges-70-foot-well-chhatarpur",
-   "category": "State & Local",
-   "sub": "Madhya Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T06:49:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/father-son-killed-tractor-plunges-70-foot-well-chhatarpur.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/father-son-killed-tractor-plunges-70-foot-well-chhatarpur-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/father-son-killed-tractor-plunges-70-foot-well-chhatarpur-en.mp3",
-   "district": "Chhatarpur",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "छतरपुर में ट्रैक्टर 70 फीट गहरे कुएं में गिरा, किसान और 10 साल के बेटे की मौत",
-    "summary": "छतरपुर जिले के हतना गांव में रविवार शाम खेत की जुताई के दौरान ट्रैक्टर करीब 70 फीट गहरे कुएं में गिर गया। हादसे में किसान संतोष यादव और उनके 10 साल के बेटे दुर्गेश की मौत हो गई। यह हादसा किसान की 12 साल की बेटी के सामने हुआ।"
-   },
-   "en": {
-    "title": "Father and 10-year-old son killed as tractor plunges into 70-foot well in Chhatarpur",
-    "summary": "A farmer and his 10-year-old son were killed in Chhatarpur district on Sunday evening when their tractor lost control during ploughing and fell into a nearly 70-foot-deep well in their field. The accident happened in front of the farmer's 12-year-old daughter."
    }
   }
  ]
