@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T23:47:19+05:30",
+ "updatedAt": "2026-11-25T00:03:30+05:30",
  "articles": [
+  {
+   "id": "houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": true,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-25T00:03:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24-en.mp3",
+   "hi": {
+    "title": "रियाद में हूती हमला: वित्तीय जिले के टावर पर हमले में 2 भारतीय समेत 11 घायल",
+    "summary": "सऊदी अरब की राजधानी रियाद के किंग अब्दुल्ला वित्तीय जिले में मंगलवार को एक टावर पर हमला हुआ, जिसे सऊदी नागरिक सुरक्षा विभाग ने यमन के हूती विद्रोहियों का आतंकवादी हमला बताया है। हमले में 2 भारतीय नागरिकों समेत 11 लोग घायल हुए हैं।"
+   },
+   "en": {
+    "title": "Houthi attack on Riyadh financial district tower injures 11, including 2 Indians",
+    "summary": "A tower in Riyadh’s King Abdullah Financial District was targeted on Tuesday in what Saudi Arabia’s Civil Defence called a terrorist attack by Yemen’s Houthi militia. Eleven people were injured, including two Indian nationals, two Saudis, three Nepalese and four Egyptians."
+   }
+  },
+  {
+   "id": "nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24",
+   "category": "State & Local",
+   "sub": "Rajasthan",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T00:03:30+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24-en.mp3",
+   "district": "Nagaur",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "नागौर में नवनिर्वाचित सरपंच शैलू राजपुरोहित की एयरगन हादसे में मौत, 155 वोटों से जीती थीं",
+    "summary": "राजस्थान के नागौर जिले के टुंकलिया गाँव की नवनिर्वाचित सरपंच शैलू राजपुरोहित (56) की मंगलवार को घर पर एयरगन की सफाई करते समय हादसे में मौत हो गई। ट्रिगर दबने से निकला छर्रा उनके सीने में लगा था, औार परिजन उन्हें जोधपुर ले जा रहे थे, लेकिन रास्ते में ही उनकी मौत हो गई।"
+   },
+   "en": {
+    "title": "Nagaur: Newly elected sarpanch Shailu Rajpurohit dies in airgun-cleaning accident days after winning by 155 votes",
+    "summary": "Shailu Rajpurohit, 56, who had just won the sarpanch election in Tunkaliya village of Rajasthan’s Nagaur district by 155 votes, died on Tuesday after an airgun went off accidentally while she was cleaning it at home. A pellet struck her in the chest, and she died on the way to a hospital in Jodhpur."
+   }
+  },
   {
    "id": "badrinath-donation-theft-sit-submits-300-page-report-november-24",
    "category": "Dharm-Astrology",
@@ -404,7 +448,7 @@
    "category": "World",
    "sub": "China",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-24T20:03:12+05:30",
    "source": "PrimeFeed Desk",
@@ -3257,50 +3301,6 @@
    "en": {
     "title": "AIMIM leader Murtaza Pahalwan killed in knife attack near Himayat Sagar Road; police hunt unidentified assailants",
     "summary": "AIMIM leader and history-sheeter Murtaza Pahalwan died on Monday evening after a group of unidentified men attacked him with knives near Himayat Sagar Road in Telangana's Rangareddy district. He was taken to Germanten Hospital in Attapur, where he died during treatment. Rajendranagar police have registered a case and are searching for the attackers."
-   }
-  },
-  {
-   "id": "avengers-doomsday-final-trailer-steve-rogers-doctor-doom-november-23",
-   "category": "Entertainment",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T22:08:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/avengers-doomsday-final-trailer-steve-rogers-doctor-doom-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/avengers-doomsday-final-trailer-steve-rogers-doctor-doom-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/avengers-doomsday-final-trailer-steve-rogers-doctor-doom-november-23-en.mp3",
-   "hi": {
-    "title": "अवेंज़र्स: डूम्सडे का फाइनल ट्रेलर रिलीज़, पेग्गी और बेटे के साथ छिपकर जी रहे स्टीव रॉजर्स पर डॉक्टर डूम का साया",
-    "summary": "मार्वल स्टूडियोज़ ने अवेंज़र्स: डूम्सडे का फाइनल ट्रेलर जारी कर दिया है। इसमें क्रिस इवांस के स्टीव रॉजर्स पेग्गी कार्टर और अपने बेटे के साथ शांत ज़िंदगी जी रहे हैं, जिसे डॉक्टर डूम की धमकी तोड़ देती है। फिल्म 17 दिसंबर को भारत में रिलीज़ होगी।"
-   },
-   "en": {
-    "title": "Avengers: Doomsday final trailer: Steve Rogers' quiet life with Peggy and their son shattered as Doctor Doom closes in",
-    "summary": "Marvel Studios has released the final trailer of Avengers: Doomsday, and its biggest reveal is Chris Evans' Steve Rogers living a quiet life with Peggy Carter and a son who knows nothing of his father's past as Captain America — until Doctor Doom comes for the family. The film opens in India on December 17."
-   }
-  },
-  {
-   "id": "malkangiri-ashram-school-girl-dies-family-alleges-delay-november-23",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T21:50:22+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/malkangiri-ashram-school-girl-dies-family-alleges-delay-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malkangiri-ashram-school-girl-dies-family-alleges-delay-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/malkangiri-ashram-school-girl-dies-family-alleges-delay-november-23-en.mp3",
-   "district": "Malkangiri",
-   "state": "Odisha",
-   "hi": {
-    "title": "मलकानगिरि आश्रम विद्यालय की छात्रा की मौत, परिवार ने इलाज में देरी का लगाया आरोप",
-    "summary": "ओडिशा के मलकानगिरि जिले के सरकारी परकानमाला आश्रम विद्यालय में पढ़ने वाली कक्षा 7 की 12 साल की छात्रा रश्मिता हंताल की रविवार सुबह अस्पताल में मौत हो गई। शनिवार रात छात्रावास में उसकी तबीयत बिगड़ी थी। परिवार ने इलाज में देरी का आरोप लगाया है और जिला कल्याण अधिकारी व पुलिस ने अलग-अलग जाँच शुरू कर दी है।"
-   },
-   "en": {
-    "title": "Class 7 girl dies at Malkangiri ashram school hostel, family alleges delay in medical treatment",
-    "summary": "Rashmita Hantal, a 12-year-old Class 7 student at the state-run Parkanamala Ashram School in Odisha's Malkangiri district, died at a hospital on Sunday morning after falling ill in the hostel on Saturday night. Her family has alleged that the school delayed medical treatment, and the district welfare officer and police have begun separate inquiries."
    }
   }
  ]
