@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-24T18:25:22+05:30",
+ "updatedAt": "2026-11-24T18:53:39+05:30",
  "articles": [
+  {
+   "id": "mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T18:53:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24-en.mp3",
+   "district": "Mathura",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "मथुरा में यमुना एक्सप्रेसवे पर 2 कारों से 134 किलो गांजा बरामद, कीमत 70 लाख रुपये; 3 तस्कर गिरफ्तार",
+    "summary": "यमुना एक्सप्रेसवे पर मंत टोल प्लाजा के पास एएनटीएफ आगरा जोन और मंत पुलिस ने 2 कारों से करीब 70 लाख रुपये कीमत का 134 किलो गांजा बरामद किया और 3 कथित तस्करों को गिरफ्तार किया, जो खेप राजमुंदरी से दिल्ली ले जा रहे थे।"
+   },
+   "en": {
+    "title": "134 kg of ganja worth Rs 70 lakh seized from two cars on Yamuna Expressway in Mathura; 3 arrested",
+    "summary": "The ANTF Agra Zone and Mant police seized 134 kg of ganja worth about Rs 70 lakh from two cars on the Yamuna Expressway near the Mant toll plaza in Mathura and arrested three alleged smugglers who were carrying the consignment from Rajahmundry to Delhi."
+   }
+  },
+  {
+   "id": "assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T18:53:39+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24-en.mp3",
+   "district": "Golaghat",
+   "state": "Assam",
+   "hi": {
+    "title": "असम के मुख्यमंत्री ने नुमलीगढ़ में 750 करोड़ रुपये की औद्योगिक परियोजना का शिलान्यास किया; 300 से अधिक नौकरियों की उम्मीद",
+    "summary": "असम के मुख्यमंत्री हिमंत बिस्व सरमा ने गोलाघाट जिले के राजाबारी में 750 करोड़ रुपये की नुमलीगढ़ एलएलपी परियोजना का शिलान्यास किया; आरएलजी ग्रुप की यह परियोजना 2 चरणों में बनेगी, इसमें औद्योगिक रसायन और दवा कच्चा माल बनेगा और 300 से अधिक नौकरियां पैदा होने की उम्मीद है।"
+   },
+   "en": {
+    "title": "Assam CM lays foundation stone for Rs 750-crore Numaligarh industrial project; 300-plus jobs expected",
+    "summary": "Assam Chief Minister Himanta Biswa Sarma laid the foundation stone for the Rs 750-crore Numaligarh LLP project at Rajabari in Golaghat district; the RLG Group project, being built in two phases, will make industrial chemicals and pharma raw materials and is expected to create more than 300 jobs."
+   }
+  },
   {
    "id": "bhilwara-rswm-factory-gas-two-brothers-die-tank-cleaning-november-24",
    "category": "State & Local",
@@ -3259,50 +3305,6 @@
    "en": {
     "title": "Man found dead at Guwahati's Narengi station with Rs 25 lakh strapped to his body identified as Biswajit Debnath",
     "summary": "A man's body was found on the railway track near Guwahati's Narengi station on Saturday evening, with around Rs 25 lakh in cash strapped to his body. Police on Monday identified him as Biswajit Debnath, a resident of Sribhumi. He had boarded the wrong train while travelling to Sribhumi, and the source of the cash is still unknown."
-   }
-  },
-  {
-   "id": "samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23",
-   "category": "State & Local",
-   "sub": "Maharashtra",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T17:22:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samruddhi-expressway-bus-overturns-chhatrapati-sambhajinagar-two-killed-27-injured-november-23-en.mp3",
-   "district": "Chhatrapati Sambhajinagar",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "समृद्धि एक्सप्रेसवे पर नागपुर से मुंबई जा रही बस पलटी, 2 की मौत, 27 घायल; परपेट दीवार से टकराई थी बस",
-    "summary": "सोमवार तड़के करीब 1 बजे छत्रपति संभाजीनगर के फुलंब्री थाना क्षेत्र में नागपुर से मुंबई जा रही प्राइवेट बस परपेट दीवार से टकराकर पलट गई। हादसे में 2 यात्रियों की मौत हो गई और 27 घायल हुए, जिनमें से गंभीर रूप से घायलों को छत्रपति संभाजीनगर के सरकारी मेडिकल कॉलेज अस्पताल में भर्ती कराया गया है।"
-   },
-   "en": {
-    "title": "Mumbai-bound bus from Nagpur overturns on Samruddhi Expressway, 2 killed and 27 injured after hitting parapet wall",
-    "summary": "Around 1 am on Monday, a private bus travelling from Nagpur to Mumbai hit the parapet wall near an underpass and overturned in the Phulambri police station area of Chhatrapati Sambhajinagar. Two passengers were killed and 27 injured; the seriously injured have been admitted to the Government Medical College and Hospital in Chhatrapati Sambhajinagar."
-   }
-  },
-  {
-   "id": "sensex-closes-1484-points-down-nifty-below-25350-november-23",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T16:58:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-closes-1484-points-down-nifty-below-25350-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1484-points-down-nifty-below-25350-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-closes-1484-points-down-nifty-below-25350-november-23-en.mp3",
-   "hi": {
-    "title": "सेंसेक्स 1,484 अंक टूटकर 82,436 पर बंद, निफ्टी 25,350 से नीचे — करीब 5 महीनों की सबसे बड़ी एक दिन की गिरावट",
-    "summary": "भारतीय बाजार सोमवार को करीब 5 महीनों की सबसे बड़ी एक दिन की गिरावट के साथ बंद हुए। सेंसेक्स 1,484 अंक गिरकर 82,436 पर बंद हुआ और निफ्टी 451 अंक टूटकर 25,350 पर आ गया, क्योंकि बैंक और मेटल शेयरों की अगुवाई में चौतरफा बिकवाली हुई। एक दिन में निवेशकों को करीब 5.24 लाख करोड़ रुपये का नुकसान हुआ। गुरु नानक जयंती पर मंगलवार को बाजार बंद रहेंगे।"
-   },
-   "en": {
-    "title": "Sensex crashes 1,484 points to 82,436, Nifty below 25,350 in biggest single-day fall in nearly 5 months",
-    "summary": "Indian markets ended Monday with their biggest single-day fall in nearly five months. The Sensex closed 1,484 points lower at 82,436 and the Nifty fell 451 points to 25,350 as banks and metals led a broad sell-off. Investors lost about 5.24 lakh crore rupees in a day. Markets stay shut on Tuesday for Guru Nanak Jayanti."
    }
   }
  ]
