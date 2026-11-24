@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-11-24T21:05:12+05:30",
+  "updatedAt": "2026-11-24T21:09:42+05:30",
   "articles": [
+    {
+      "id": "tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24",
+      "category": "Dharm-Astrology",
+      "sub": "Vrat & Tyohar",
+      "breaking": false,
+      "featured": false,
+      "trending": true,
+      "publishedAt": "2026-11-24T21:09:42+05:30",
+      "source": "PrimeFeed Desk",
+      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24.jpg",
+      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24-hi.mp3",
+      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24-en.mp3",
+      "en": {
+        "title": "Maha Deepam lit atop Arunachala Hill in Tiruvannamalai, lakhs of devotees undertake girivalam",
+        "summary": "The Maha Deepam was lit atop the 2,668-foot Arunachala Hill in Tiruvannamalai at 6 pm on Tuesday, closing the 10-day Karthigai Deepam festival. Lakhs of devotees are walking the 14-kilometre girivalam, and the flame will burn for 11 days."
+      },
+      "hi": {
+        "title": "तिरुवण्णामलै में जला महादीपम: अरुणाचल पहाड़ी की चोटी पर 6 बजे प्रज्वलित हुई ज्योति, लाखों श्रद्धालुओं ने किया गिरिवलम",
+        "summary": "तिरुवण्णामलै में मंगलवार शाम 6 बजे अरुणाचल पहाड़ी की 2,668 फुट ऊँची चोटी पर महादीपम जला दिया गया। 10 दिन के कार्तिगई दीपम उत्सव का समापन हुआ, लाखों श्रद्धालु 14 किलोमीटर गिरिवलम पर चल रहे हैं और ज्योति 11 दिन तक जलती रहेगी।"
+      },
+      "district": "Tiruvannamalai",
+      "state": "Tamil Nadu"
+    },
     {
       "id": "bardoli-canal-family-three-dead-two-children-missing-november-24",
       "category": "Crime & Law",
@@ -3280,27 +3303,6 @@
       "en": {
         "title": "Liquor, not water, flowed from a Jhansi handpump: police bust underground tank, seize 30 litres, arrest woman",
         "summary": "Jhansi: A police and excise raid at Kabutra Dera in the Sakrar area found a handpump dispensing illicit country liquor from an underground tank; about 30 litres was seized and around 1,000 litres of lahan destroyed. A 30-year-old woman, Vineeta, was arrested under the Excise Act."
-      }
-    },
-    {
-      "id": "tata-sons-board-meeting-postponed-november-30-noel-tata-november-23",
-      "category": "Business",
-      "sub": "Banking & Finance",
-      "breaking": false,
-      "featured": false,
-      "trending": true,
-      "publishedAt": "2026-11-23T19:22:45+05:30",
-      "source": "PrimeFeed Desk",
-      "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-sons-board-meeting-postponed-november-30-noel-tata-november-23.jpg",
-      "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-sons-board-meeting-postponed-november-30-noel-tata-november-23-hi.mp3",
-      "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-sons-board-meeting-postponed-november-30-noel-tata-november-23-en.mp3",
-      "hi": {
-        "title": "टाटा संस की बोर्ड बैठक 30 नवंबर तक टली: नोएल टाटा ने उठाया नोटिस का सवाल, लिस्टिंग पर फैसला अब आगे",
-        "summary": "नई दिल्ली: टाटा संस की 26 नवंबर को होने वाली बोर्ड बैठक अब 30 नवंबर को होगी। नोएल टाटा ने 7 दिन के नोटिस का सवाल उठाया था; बैठक में आरबीआई के निर्देश पर लिस्टिंग और उनके पुनर्गठन प्रस्ताव पर चर्चा होगी।"
-      },
-      "en": {
-        "title": "Tata Sons board meeting pushed to November 30 as Noel Tata flags notice lapse; listing decision waits",
-        "summary": "New Delhi: Tata Sons has postponed its board meeting from November 26 to November 30 after Noel Tata flagged that the mandatory seven-day notice period was not followed. The meeting will take up the RBI-mandated listing and his restructuring proposal."
       }
     }
   ]
