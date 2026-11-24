@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T11:07:09+05:30",
+ "updatedAt": "2026-11-24T11:28:15+05:30",
  "articles": [
+  {
+   "id": "stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T11:28:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24-en.mp3",
+   "district": "Meerut",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "मेरठ में फिदायीन हमले की साजिश का खुलासा: उजैद गिरफ्तार, पाकिस्तानी हैंडलर शहजाद भट्टी से जुड़ाव का शक",
+    "summary": "एसटीएफ ने मेरठ के बनियापाड़ा से 20 साल के उजैद को गिरफ्तार किया है। पुलिस के अनुसार वह ऑनलाइन कट्टरपंथी सामग्री से प्रभावित होकर जम्मू-कश्मीर में गिरफ्तार मोहम्मद साजिद के संपर्क में आया था और उस पर पुलिस व सेना के ठिकानों पर फिदायीन हमले की साजिश का आरोप है। कश्मीर पुलिस करीब 10 महीने से उसकी तलाश कर रही थी।"
+   },
+   "en": {
+    "title": "Fidayeen attack plot: Ujaid arrested in Meerut over suspected links to Pakistan-based handler Shahzad Bhatti",
+    "summary": "The Uttar Pradesh STF has arrested 20-year-old Ujaid from Baniyapadha in Meerut over suspected links to a network allegedly planning fidayeen attacks on police personnel and Army establishments. Police say he was radicalised online and came in contact with Jammu-based accused Mohd Sajid; Kashmir Police had been searching for him for nearly 10 months."
+   }
+  },
+  {
+   "id": "priyansh-arya-181-record-t20-delhi-tamil-nadu-smat-november-24",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T11:28:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/priyansh-arya-181-record-t20-delhi-tamil-nadu-smat-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/priyansh-arya-181-record-t20-delhi-tamil-nadu-smat-november-24-hi.mp3",
+   "audioEn": null,
+   "hi": {
+    "title": "प्रियंश आर्या का धमाका: 68 गेंदों पर 181 रन, केएल राहुल का भारतीय टी20 रिकॉर्ड टूटा",
+    "summary": "दिल्ली के कप्तान प्रियंश आर्या ने सैयद मुश्ताक अली ट्रॉफी में तमिलनाडु के खिलाफ इंदौर में 68 गेंदों पर 181 रन की पारी खेली। 36 गेंदों पर शतक पूरा करने वाले आर्या ने केएल राहुल के 152 नाबाद रन के भारतीय टी20 रिकॉर्ड को तोड़ा और 19 छक्कों के साथ सर्वाधिक छक्कों के विश्व रिकॉर्ड की बराबरी की।"
+   },
+   "en": {
+    "title": "Priyansh Arya smashes 181 off 68 balls, breaks KL Rahul's Indian T20 record",
+    "summary": "Delhi captain Priyansh Arya smashed 181 off 68 balls against Tamil Nadu in the Syed Mushtaq Ali Trophy in Indore, breaking KL Rahul's record for the highest individual T20 score by an Indian. His 36-ball hundred included 19 sixes, equalling the world record for most sixes in a T20 innings."
+   }
+  },
   {
    "id": "duronto-express-window-shattered-stone-pelting-near-nagpur-november-24",
    "category": "India",
@@ -3259,50 +3303,6 @@
    "en": {
     "title": "Bhopal: Mother and her two children die after alleged poisoning following a dispute over flour",
     "summary": "A 37-year-old woman and her two children have died in Bhopal's Eintkhedi area after an alleged poisoning that followed a domestic dispute over flour. Police said Rukhsana allegedly gave the children poison before consuming it herself; all three died at Hamidia Hospital between Saturday night and Sunday. Police have sealed the house and begun an investigation."
-   }
-  },
-  {
-   "id": "cuttack-axis-bank-assistant-manager-found-dead-murder-case-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T11:26:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cuttack-axis-bank-assistant-manager-found-dead-murder-case-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cuttack-axis-bank-assistant-manager-found-dead-murder-case-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cuttack-axis-bank-assistant-manager-found-dead-murder-case-november-23-en.mp3",
-   "district": "Cuttack",
-   "state": "Odisha",
-   "hi": {
-    "title": "कटक: किराए के घर में मिला एक्सिस बैंक के असिस्टेंट मैनेजर का शव, परिवार ने हत्या का आरोप लगाया",
-    "summary": "कटक जिले के निश्चिंतकोइली में किराए के मकान में एक्सिस बैंक के असिस्टेंट मैनेजर प्रभास रंजन बल का शव मिला है। उनके भाई ने हत्या का आरोप लगाते हुए शिकायत दर्ज कराई है, जिसके बाद पुलिस ने हत्या का मामला दर्ज कर लिया है। शव पोस्टमॉर्टम के लिए एससीबी मेडिकल कॉलेज भेजा गया है।"
-   },
-   "en": {
-    "title": "Cuttack: Axis Bank assistant manager found dead in rented house; family alleges murder, case registered",
-    "summary": "The body of Axis Bank assistant manager Prabhash Ranjan Bal was found inside his rented house in Nischintakoili, Cuttack district, on Sunday. His brother has alleged murder and lodged an FIR, following which police registered a murder case. The body has been sent to SCB Medical College for postmortem."
-   }
-  },
-  {
-   "id": "asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T11:10:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/asia-power-index-2026-india-third-most-powerful-modi-second-most-effective-leader-november-23-en.mp3",
-   "hi": {
-    "title": "एशिया पावर इंडेक्स 2026: भारत एशिया का तीसरा सबसे ताकतवर देश बरकरार, मोदी दूसरे सबसे प्रभावी नेता",
-    "summary": "लोवी इंस्टीट्यूट के एशिया पावर इंडेक्स 2026 में भारत 40.5 अंकों के साथ तीसरे स्थान पर बरकरार है, चीन से उसका अंतर 2018 के बाद सबसे कम हो गया है। प्रधानमंत्री नरेंद्र मोदी को एशिया का दूसरा सबसे प्रभावी क्षेत्रीय नेता आंका गया है, पहले स्थान पर चीन के शी जिनपिंग हैं।"
-   },
-   "en": {
-    "title": "Asia Power Index 2026: India stays Asia's third most powerful country, Modi rated second-most effective leader",
-    "summary": "India has retained third place in the Lowy Institute's 2026 Asia Power Index with 40.5 points, its gap with China narrowing to the lowest since the index began in 2018. Prime Minister Narendra Modi was rated the second-most effective regional leader, behind China's Xi Jinping."
    }
   }
  ]
