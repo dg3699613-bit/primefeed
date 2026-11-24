@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-24T20:31:09+05:30",
+ "updatedAt": "2026-11-24T20:49:35+05:30",
  "articles": [
+  {
+   "id": "bardoli-canal-family-three-dead-two-children-missing-november-24",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T20:49:35+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bardoli-canal-family-three-dead-two-children-missing-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bardoli-canal-family-three-dead-two-children-missing-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bardoli-canal-family-three-dead-two-children-missing-november-24-en.mp3",
+   "district": "Surat",
+   "state": "Gujarat",
+   "hi": {
+    "title": "बारडोली में नहर में फेंका गया पूरा परिवार, माता-पिता समेत 3 की मौत; 13 साल का बेटा पाइप पकड़कर बचा, 2 बच्चे लापता",
+    "summary": "महाराष्ट्र के जलगाँव जिले से सूरत आ रहा एक श्रमिक परिवार 21 नवंबर की रात बारडोली के पास उकाई-काकरापार नहर में फेंक दिए जाने का आरोप है। माता-पिता और एक युवती के शव मिले हैं, 13 साल का किशोर पाइप पकड़कर बच गया और 2 बच्चे अब भी लापता हैं। पुलिस ने 4 आरोपियों के खिलाफ मामला दर्ज कर 8 टीमें जाँच में लगाई हैं।"
+   },
+   "en": {
+    "title": "Family thrown into canal near Bardoli in Surat, 3 dead including parents; 13-year-old boy survives holding a pipe, 2 children missing",
+    "summary": "A labourer family from Maharashtra's Jalgaon district was allegedly thrown into the Ukai-Kakrapar canal near Bardoli in Surat on the night of November 21. Three bodies - the parents and a young woman - have been recovered, a 13-year-old boy survived by holding a pipe, and two children are still missing. Police have booked four accused and formed eight teams to trace them."
+   }
+  },
   {
    "id": "president-murmu-inaugurates-bali-jatra-cuttack-november-24",
    "category": "Dharm-Astrology",
@@ -3278,29 +3301,6 @@
    "en": {
     "title": "Tata Sons board meeting pushed to November 30 as Noel Tata flags notice lapse; listing decision waits",
     "summary": "New Delhi: Tata Sons has postponed its board meeting from November 26 to November 30 after Noel Tata flagged that the mandatory seven-day notice period was not followed. The meeting will take up the RBI-mandated listing and his restructuring proposal."
-   }
-  },
-  {
-   "id": "bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-23T19:02:02+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bishnupur-ambulance-bsf-vehicle-collision-pregnant-woman-killed-november-23-en.mp3",
-   "district": "Bishnupur",
-   "state": "Manipur",
-   "hi": {
-    "title": "बिष्णुपुर में एंबुलेंस-बीएसएफ वाहन की टक्कर: गर्भवती महिला की मौत, 7 घायल",
-    "summary": "सोमवार सुबह करीब 5 बजे मणिपुर के बिष्णुपुर जिले में थिनुंगेई के पास घने कोहरे के बीच एंबुलेंस और बीएसएफ जवानों को ले जा रही गाड़ी की आमने-सामने टक्कर हो गई। गर्भवती ओइनम रोशिनी देवी की मौत हो गई, 4 बीएसएफ जवानों समेत 7 लोग घायल हुए।"
-   },
-   "en": {
-    "title": "Bishnupur: Pregnant woman killed as ambulance collides with BSF vehicle; 7 injured",
-    "summary": "An ambulance carrying a pregnant woman to hospital collided head-on with a vehicle carrying BSF personnel near Thinungei in Manipur's Bishnupur district early on Monday morning, amid dense fog. The woman died and 7 people, including 4 BSF jawans, were injured."
    }
   }
  ]
