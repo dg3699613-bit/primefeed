@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-24T15:47:25+05:30",
+ "updatedAt": "2026-11-24T16:00:47+05:30",
  "articles": [
+  {
+   "id": "india-bowled-out-201-jansen-six-for-south-africa-lead-314-guwahati-test-day-3",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T16:00:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-bowled-out-201-jansen-six-for-south-africa-lead-314-guwahati-test-day-3.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-bowled-out-201-jansen-six-for-south-africa-lead-314-guwahati-test-day-3-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-bowled-out-201-jansen-six-for-south-africa-lead-314-guwahati-test-day-3-en.mp3",
+   "district": "Kamrup Metro",
+   "state": "Assam",
+   "hi": {
+    "title": "गुवाहाटी टेस्ट, तीसरा दिन: जेनसेन के 6 विकेट से भारत 201 पर ढेर, दक्षिण अफ्रीका की बढ़त 314 रन",
+    "summary": "बारसापारा में खराब रोशनी के कारण तीसरे दिन का खेल जल्दी खत्म हुआ। भारत अपनी पहली पारी में 201 रन पर सिमट गया — मार्को जेनसेन ने 48 रन देकर 6 विकेट लिए। फॉलोऑन न कराकर दक्षिण अफ्रीका ने दूसरी पारी में बिना विकेट खोए 26 रन बनाए और बढ़त 314 रन कर ली।"
+   },
+   "en": {
+    "title": "Guwahati Test, Day 3: Jansen's six-for bowls India out for 201 as South Africa stretch lead to 314",
+    "summary": "Bad light ended the third day early at Barsapara. India were bowled out for 201 in their first innings — Marco Jansen took 6 for 48. South Africa declined the follow-on and reached 26 for no loss in their second innings, taking their lead to 314."
+   }
+  },
+  {
+   "id": "ramayana-tickets-rs-99-gurpurab-offer-november-24",
+   "category": "Entertainment",
+   "sub": "Bollywood",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-24T16:00:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-tickets-rs-99-gurpurab-offer-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-tickets-rs-99-gurpurab-offer-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-tickets-rs-99-gurpurab-offer-november-24-en.mp3",
+   "hi": {
+    "title": "रामायण के टिकट सिर्फ 99 रुपये: गुरुपरब पर मेकर्स का बड़ा ऑफर, तीसरे सोमवार को कमाई घटी",
+    "summary": "नितेश तिवारी की 'रामायण' के मेकर्स ने गुरुपरब के मौके पर टिकटों की कीमतें घटा दी हैं — मंगलवार को देशभर में 2डी टिकट सिर्फ 99 रुपये से शुरू। फिल्म 19 दिन में भारत में 955.45 करोड़ रुपये नेट कमा चुकी है।"
+   },
+   "en": {
+    "title": "Ramayana tickets slashed to Rs 99 for Gurpurab as third-Monday collections dip",
+    "summary": "The makers of Nitesh Tiwari's Ramayana have cut ticket prices for Gurpurab — 2D tickets start at just Rs 99 across India on Tuesday. The film has collected Rs 955.45 crore net in India in 19 days."
+   }
+  },
   {
    "id": "tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24",
    "category": "Politics",
@@ -3263,48 +3307,6 @@
    "en": {
     "title": "Kerala cracks down on fake fairness creams after mercury-laced cream leaves teen with kidney damage",
     "summary": "Kerala has ordered a statewide crackdown on fake cosmetics and protein powders after a 17-year-old girl developed kidney disease allegedly from a fairness cream that lab tests found laced with mercury at 12,500 parts per million. Police have booked the cream's producer, and a singer has said a similar cream damaged his kidneys a decade ago."
-   }
-  },
-  {
-   "id": "modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T14:37:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-announces-15000-crore-nepal-package-saryu-kamala-express-flagged-off-november-23-en.mp3",
-   "hi": {
-    "title": "मोदी ने नेपाल के लिए 15,000 करोड़ रुपये के पैकेज की घोषणा की, बालेन शाह के साथ अयोध्या-जनकपुर ट्रेन को हरी झंडी दिखाई",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी ने सोमवार को नेपाल के प्रधानमंत्री बालेंद्र शाह से नई दिल्ली में बातचीत के बाद नेपाल के बाढ़ के बाद पुनर्निर्माण के लिए 24,000 करोड़ नेपाली रुपये (15,000 करोड़ रुपये) के विकास सहयोग पैकेज की घोषणा की। दोनों नेताओं ने अयोध्या और जनकपुर के बीच सरयू-कमला एक्सप्रेस को हरी झंडी भी दिखाई, 8 समझौतों पर हस्ताक्षर किए और दोनों देशों के लिए एक संयुक्त दृष्टि दस्तावेज़ जारी किया।"
-   },
-   "en": {
-    "title": "Modi announces Rs 15,000 crore package for Nepal, flags off Ayodhya-Janakpur train with Balen Shah",
-    "summary": "Prime Minister Narendra Modi on Monday announced a development package of 24,000 crore Nepali rupees (Rs 15,000 crore) for Nepal's post-flood reconstruction after talks with Nepal Prime Minister Balendra Shah in New Delhi. The two leaders also flagged off the Saryu-Kamala Express between Ayodhya and Janakpur, signed 8 agreements and released a joint vision document."
-   }
-  },
-  {
-   "id": "supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-23T14:37:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-seeks-response-centre-ec-anti-defection-pil-november-23-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने दल-बदल कानून में सुधार की याचिका पर केंद्र और चुनाव आयोग से जवाब माँगा",
-    "summary": "सुप्रीम कोर्ट ने सोमवार को दल-बदल विरोधी व्यवस्था में व्यापक सुधार की माँग वाली जनहित याचिका पर केंद्र, चुनाव आयोग और विधि आयोग से जवाब माँगा है। याचिका में कहा गया है कि जनप्रतिनिधि दसवीं अनुसूची के तहत अयोग्यता की कार्यवाही से बचने के लिए 'रणनीतिक इस्तीफ़े' देते हैं, और माँग की गई है कि अयोग्यता की कार्यवाही लंबित होने के दौरान दिया गया इस्तीफ़ा उस कार्यवाही को खत्म न करे।"
-   },
-   "en": {
-    "title": "Supreme Court seeks Centre, EC response on PIL to stop 'strategic resignations' that dodge anti-defection law",
-    "summary": "The Supreme Court on Monday sought responses from the Centre, the Election Commission and the Law Commission on a PIL seeking comprehensive reforms in the anti-defection framework. The plea says lawmakers use 'strategic resignations' to escape disqualification under the Tenth Schedule and asks that a resignation during pending disqualification proceedings should not end those proceedings."
    }
   }
  ]
