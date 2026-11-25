@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T13:28:37+05:30",
+ "updatedAt": "2026-11-25T13:39:04+05:30",
  "articles": [
+  {
+   "id": "archbishop-thomas-menamparampil-dies-90-guwahati-november-25",
+   "category": "Dharm-Astrology",
+   "sub": "Katha & Dharm News",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T13:35:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/archbishop-thomas-menamparampil-dies-90-guwahati-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/archbishop-thomas-menamparampil-dies-90-guwahati-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/archbishop-thomas-menamparampil-dies-90-guwahati-november-25-en.mp3",
+   "district": "Kamrup Metropolitan",
+   "state": "Assam",
+   "hi": {
+    "title": "गुवाहाटी के पहले आर्कबिशप थॉमस मेनमपरमपिल का 90 साल की उम्र में निधन",
+    "summary": "गुवाहाटी के पहले कैथोलिक आर्कबिशप और नोबेल शांति पुरस्कार के लिए नामांकित शांति-दूत थॉमस मेनमपरमपिल का बुधवार सुबह हैदराबाद के एआईजी हॉस्पिटल्स में 90 साल की उम्र में निधन हो गया। पूर्वोत्तर में दशकों तक चले जातीय संघर्षों में उन्होंने शांति की मध्यस्थता की थी। असम और मेघालय के मुख्यमंत्रियों ने शोक जताया है।"
+   },
+   "en": {
+    "title": "Guwahati's first Archbishop Thomas Menamparampil dies at 90",
+    "summary": "Thomas Menamparampil, the first Catholic Archbishop of Guwahati and a Nobel Peace Prize-nominated mediator who spent decades brokering peace in the Northeast's ethnic conflicts, died in Hyderabad on Wednesday morning. He was 90. The chief ministers of Assam and Meghalaya have condoled his death."
+   }
+  },
+  {
+   "id": "pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": true,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T13:35:00+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25-en.mp3",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "पुणे के शिवाजीनगर कोर्ट के बाहर दिनदहाड़े गोलीबारी, कोयते से हमला; एक घायल, हमलावर फरार",
+    "summary": "पुणे के शिवाजीनगर जिला न्यायालय के गेट नंबर 4 के बाहर बुधवार दोपहर अज्ञात हमलावरों ने गोलीबारी की और कोयते से हमला किया। एक व्यक्ति घायल हुआ है, जिसे अस्पताल में भर्ती कराया गया है। हमलावर मौके से फरार हो गए; पुलिस और क्राइम ब्रांच की टीम जांच में जुटी है।"
+   },
+   "en": {
+    "title": "Firing outside Pune's Shivajinagar court in broad daylight, sickle attack leaves one injured; attackers flee",
+    "summary": "Unidentified attackers opened fire and attacked with sickles outside gate number 4 of the Shivajinagar district court in Pune on Wednesday afternoon. One person was injured and taken to hospital. The attackers fled the spot; police and the crime branch are investigating."
+   }
+  },
   {
    "id": "uttarkashi-pawani-village-fire-33-houses-gutted-58-families-affected-november-25",
    "category": "State & Local",
@@ -2361,12 +2407,12 @@
    "district": "Bokaro",
    "state": "Jharkhand",
    "en": {
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
    },
    "hi": {
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
    }
   },
   {
@@ -2704,13 +2750,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
    },
    "featured": false,
    "hi": {
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3253,48 +3299,6 @@
    "en": {
     "title": "Gukesh vs Sindarov: World Chess Championship Game 1 tonight at 7:30 pm IST in Geneva",
     "summary": "Defending champion D. Gukesh takes on Uzbekistan's Javokhir Sindarov in Game 1 of the World Chess Championship in Geneva tonight. The 14-game match will crown the first player to 7.5 points as world champion."
-   }
-  },
-  {
-   "id": "zeeshan-ali-first-pakistani-in-space-shenzhou-24-crew-november-25",
-   "category": "Science",
-   "sub": "Space",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T09:22:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/zeeshan-ali-first-pakistani-in-space-shenzhou-24-crew-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zeeshan-ali-first-pakistani-in-space-shenzhou-24-crew-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zeeshan-ali-first-pakistani-in-space-shenzhou-24-crew-november-25-en.mp3",
-   "hi": {
-    "title": "पाकिस्तान के ज़ीशान अली बनेंगे अंतरिक्ष जाने वाले पहले पाकिस्तानी, शेनझोउ-24 के दल का एलान; बुधवार सुबह उड़ान",
-    "summary": "चीन ने शेनझोउ-24 मिशन के 3 सदस्यीय दल का एलान कर दिया है। पाकिस्तानी अंतरिक्ष यात्री मुहम्मद ज़ीशान अली इसमें पेलोड विशेषज्ञ होंगे और चीन के तियांगोंग अंतरिक्ष स्टेशन पर जाने वाले पहले विदेशी अंतरिक्ष यात्री बनेंगे। यान बुधवार सुबह 5 बजकर 48 मिनट पर (भारतीय समय) उड़ान भरेगा।"
-   },
-   "en": {
-    "title": "Zeeshan Ali to become first Pakistani in space as China names Shenzhou-24 crew for Wednesday launch",
-    "summary": "China has unveiled the 3-member crew of the Shenzhou-24 mission. Pakistani astronaut Muhammad Zeeshan Ali will fly as payload specialist and become the first foreign astronaut to board China's Tiangong space station. Liftoff is scheduled for Wednesday at 5:48 am IST."
-   }
-  },
-  {
-   "id": "florida-floods-nearly-500-rescued-st-johns-river-record-levels-november-24",
-   "category": "Weather",
-   "sub": "Rainfall",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T09:22:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/florida-floods-nearly-500-rescued-st-johns-river-record-levels-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/florida-floods-nearly-500-rescued-st-johns-river-record-levels-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/florida-floods-nearly-500-rescued-st-johns-river-record-levels-november-24-en.mp3",
-   "hi": {
-    "title": "फ़्लोरिडा में ऐतिहासिक बाढ़: सेंट जॉन्स नदी रिकॉर्ड स्तर पर, अब तक करीब 500 लोगों को बचाया गया",
-    "summary": "अमेरिका के फ़्लोरिडा में 1 हफ़्ते की भारी बारिश के बाद ऐतिहासिक बाढ़ आ गई है। सेंट जॉन्स नदी कई जगहों पर रिकॉर्ड स्तर पर बह रही है और राज्य की टीमों ने अब तक करीब 500 लोगों को बाढ़ के पानी से बचाया है।"
-   },
-   "en": {
-    "title": "Historic flooding in Florida: St. Johns River hits record levels as nearly 500 people are rescued",
-    "summary": "A week of heavy rain has brought historic flooding to Florida. The St. Johns River is running at record levels in several places, and state teams have carried out nearly 500 floodwater rescues so far."
    }
   }
  ]
