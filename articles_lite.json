@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-25T20:01:49+05:30",
+ "updatedAt": "2026-11-25T20:21:12+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Government Schemes",
+   "district": null,
+   "en": {
+    "title": "Nayi Chetna 5.0 launched: month-long drive for violence-free villages begins",
+    "summary": "Union Ministers Shivraj Singh Chouhan and Annapurna Devi launched the fifth edition of 'Nayi Chetna: Pahal Badlav Ki' in New Delhi. The month-long campaign, running till 23 December 2026, aims at villages free of violence against women, with a four-way agreement linking village support, district centres and legal aid."
+   },
+   "featured": false,
+   "hi": {
+    "title": "नई चेतना 5.0 की शुरुआत: हिंसा-मुक्त गाँवों की ओर, 23 दिसंबर तक देशभर में चलेगा अभियान",
+    "summary": "केंद्रीय मंत्रियों शिवराज सिंह चौहान और अन्नपूर्णा देवी ने नई दिल्ली में 'नई चेतना: पहल बदलाव की' के पाँचवें संस्करण का शुभारंभ किया। 23 दिसंबर 2026 तक चलने वाला यह अभियान हिंसा-मुक्त गाँवों के लिए है, जिसमें गाँव स्तर की मदद, ज़िला केंद्रों और कानूनी सहायता को जोड़ने वाला चार-पक्षीय समझौता हुआ है।"
+   },
+   "id": "nayi-chetna-5-0-launched-violence-free-villages-november-25",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "Centre Schemes",
+   "trending": false,
+   "publishedAt": "2026-11-25T20:16:44+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nayi-chetna-5-0-launched-violence-free-villages-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nayi-chetna-5-0-launched-violence-free-villages-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nayi-chetna-5-0-launched-violence-free-villages-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3281,29 +3304,6 @@
     "title": "वैभव के 204 रन से इंडिया ए ने यूएई को 7 विकेट से हराया, राइजिंग स्टार्स सेमीफाइनल में",
     "summary": "वैभव सूर्यवंशी के 53 गेंदों पर रिकॉर्ड 204 रन की बदौलत इंडिया ए ने दोहा में यूएई को 7 विकेट से हरा दिया। टीम ने 250 रन का लक्ष्य सिर्फ 14.2 ओवर में हासिल कर एशिया कप राइजिंग स्टार्स के सेमीफाइनल में जगह बना ली।"
    }
-  },
-  {
-   "id": "beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T17:44:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24-en.mp3",
-   "en": {
-    "title": "BJP corporator's minor son booked after SUV rams bike in Beed, couple killed",
-    "summary": "A couple was killed in Maharashtra's Beed district on November 20 after their motorcycle was hit by an SUV allegedly driven by a minor, the son of a BJP corporator. Police have booked the minor, but are yet to confirm who was driving, after CCTV footage of the crash surfaced."
-   },
-   "hi": {
-    "title": "बीड में एसयूवी ने बाइक को मारी टक्कर, दंपती की मौत; भाजपा पार्षद के नाबालिग बेटे पर एफआईआर दर्ज",
-    "summary": "महाराष्ट्र के बीड जिले में 20 नवंबर को एक एसयूवी ने बाइक सवार दंपती को टक्कर मार दी, जिसमें दोनों की मौत हो गई। पुलिस का कहना है कि एसयूवी भाजपा पार्षद के नाबालिग बेटे की थी और उस पर मामला दर्ज किया गया है, लेकिन गाड़ी कौन चला रहा था, यह अब तक साफ नहीं हुआ है।"
-   },
-   "district": "Beed",
-   "state": "Maharashtra"
   }
  ]
 }
