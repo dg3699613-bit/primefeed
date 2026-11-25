@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-25T16:20:41+05:30",
+ "updatedAt": "2026-11-25T16:26:28+05:30",
  "articles": [
+  {
+   "id": "two-oil-tankers-hit-mines-catch-fire-strait-of-hormuz-november-25",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-25T16:23:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/two-oil-tankers-hit-mines-catch-fire-strait-of-hormuz-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-oil-tankers-hit-mines-catch-fire-strait-of-hormuz-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-oil-tankers-hit-mines-catch-fire-strait-of-hormuz-november-25-en.mp3",
+   "hi": {
+    "title": "होरमुज़ जलडमरूमध्य में 2 तेल टैंकर बारूदी सुरंगों से टकराए, विस्फोट के बाद लगी आग",
+    "summary": "होरमुज़ जलडमरूमध्य में बुधवार तड़के 2 तेल टैंकर बारूदी सुरंगों से टकरा गए, जिसके बाद उनमें विस्फोट हुआ और आग लग गई। ईरान की रिवोल्यूशनरी गार्ड्स नौसेना ने कहा है कि जहाज़ एक ऐसे रास्ते से गुज़र रहे थे, जिसे अधिकृत नहीं किया गया था। तेहरान ने कहा है कि जब तक उसकी माँगें पूरी नहीं होतीं, जलडमरूमध्य से सामान्य जहाज़रानी बहाल नहीं होगी।"
+   },
+   "en": {
+    "title": "Two oil tankers hit naval mines and catch fire in Strait of Hormuz",
+    "summary": "Two oil tankers struck naval mines, exploded and caught fire in the Strait of Hormuz early on Wednesday, Iran's Revolutionary Guards Navy said. The vessels were on a route Iran had not authorised. Tehran says normal shipping will not resume until its demands, including the lifting of a US naval blockade of Iranian ports, are met."
+   }
+  },
+  {
+   "id": "israeli-strike-kills-hamas-security-official-abu-al-ouf-family-gaza-november-25",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T16:23:22+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israeli-strike-kills-hamas-security-official-abu-al-ouf-family-gaza-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-security-official-abu-al-ouf-family-gaza-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-security-official-abu-al-ouf-family-gaza-november-25-en.mp3",
+   "hi": {
+    "title": "गाज़ा में इज़राइली हमले में हमास के सुरक्षा प्रमुख मोहम्मद अबू अल-ऊफ़ की पत्नी और 2 बेटियों समेत मौत",
+    "summary": "गाज़ा सिटी के शाती शरणार्थी शिविर में बुधवार तड़के हुए इज़राइली हवाई हमले में हमास के आंतरिक सुरक्षा अधिकारी मोहम्मद अबू अल-ऊफ़, उनकी पत्नी और उनकी 2 बेटियों की मौत हो गई। यह 24 घंटों के भीतर हमास के आंतरिक सुरक्षा तंत्र के दूसरे वरिष्ठ अधिकारी की मौत है।"
+   },
+   "en": {
+    "title": "Israeli strike kills Hamas security chief Mohammed Abu al-Ouf, wife and two daughters in Gaza",
+    "summary": "An Israeli airstrike on an apartment in the Shati refugee camp in Gaza City early on Wednesday killed Hamas internal security official Mohammed Abu al-Ouf, his wife and his two daughters. It is the second killing of a senior Hamas internal security official in under 24 hours."
+   }
+  },
   {
    "id": "jharsuguda-jnv-principal-pocso-case-november-25",
    "category": "Crime & Law",
@@ -546,7 +588,7 @@
    "category": "Crime & Law",
    "sub": "Courts",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-25T12:27:13+05:30",
    "source": "PrimeFeed Desk",
@@ -2788,12 +2830,12 @@
    "district": "Bokaro",
    "state": "Jharkhand",
    "en": {
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
    },
    "hi": {
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
    }
   },
   {
@@ -3131,13 +3173,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
    },
    "featured": false,
    "hi": {
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3257,52 +3299,6 @@
    "en": {
     "title": "Two killed, four injured as car rams lorry on Mysuru-Bengaluru Expressway in Mandya",
     "summary": "Two people, including an 8-year-old girl, were killed and 4 others seriously injured on Tuesday after a car rammed into a goods lorry on the Mysuru-Bengaluru Expressway in Mandya district. Two families in the car were on their way to the Nanjangud temple."
-   }
-  },
-  {
-   "id": "silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T14:14:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/silchar-minor-assault-case-accused-arrested-two-policemen-suspended-november-24-en.mp3",
-   "district": "Cachar",
-   "state": "Assam",
-   "hi": {
-    "title": "सिलचर: 9 साल की बच्ची के यौन शोषण के आरोप में मुख्य आरोपी गिरफ्तार, शिकायत पर कार्रवाई न करने पर 2 पुलिसकर्मी निलंबित",
-    "summary": "असम के सिलचर में 9 साल की बच्ची के यौन शोषण के आरोप में मुख्य आरोपी राहुल रॉय उर्फ राजू (32) को सोमवार शाम गिरफ्तार कर लिया गया, जबकि शिकायत पर 11 दिन तक कार्रवाई न करने के आरोप में रंगीरखारी पुलिस चौकी के 2 पुलिसकर्मियों को निलंबित कर दिया गया है। काछाड़ के एसएसपी ने दोनों के खिलाफ आंतरिक जाँच के आदेश दिए हैं।"
-   },
-   "en": {
-    "title": "Silchar: Main accused arrested in alleged assault of 9-year-old girl; 2 policemen suspended for inaction",
-    "summary": "In Assam's Silchar, the main accused in the alleged sexual assault of a 9-year-old girl, Rahul Roy alias Raju, 32, was arrested on Monday evening, while two policemen of the Rangirkhari outpost were suspended for allegedly failing to act on the family's complaint for 11 days. Cachar SSP has ordered an internal inquiry against both."
-   }
-  },
-  {
-   "id": "lakhimpur-kheri-omni-truck-collision-four-killed-november-24",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-24T14:04:51+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lakhimpur-kheri-omni-truck-collision-four-killed-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhimpur-kheri-omni-truck-collision-four-killed-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhimpur-kheri-omni-truck-collision-four-killed-november-24-en.mp3",
-   "district": "Lakhimpur Kheri",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "लखीमपुर खीरी में ओमनी कार और ट्रक की आमने-सामने टक्कर, पिता-पुत्र समेत 4 की मौत; 6 गंभीर घायल, लखनऊ रेफर",
-    "summary": "उत्तर प्रदेश के लखीमपुर खीरी में सोमवार देर रात लखीमपुर-निघासन रोड पर खंभारखेड़ा चीनी मिल के पास ओमनी कार और ट्रक की आमने-सामने टक्कर में पिता-पुत्र समेत 4 लोगों की मौके पर मौत हो गई, जबकि 6 लोग गंभीर रूप से घायल हो गए। कार में 10 लोग सवार थे, ट्रक चालक वाहन छोड़कर फरार हो गया।"
-   },
-   "en": {
-    "title": "Four killed, six injured as Omni car collides head-on with truck in Lakhimpur Kheri; victims were returning from Lucknow",
-    "summary": "Four people, including a father and son, were killed on the spot and six others seriously injured when an Omni car carrying 10 people collided head-on with a truck near the Khambharkhera sugar mill on the Lakhimpur-Nighasan road in Uttar Pradesh's Lakhimpur Kheri district late on Monday night. The truck driver fled the spot."
    }
   }
  ]
