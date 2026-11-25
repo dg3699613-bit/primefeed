@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T17:13:45+05:30",
+ "updatedAt": "2026-11-25T17:22:29+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "State & Local",
+   "district": "Hoshiarpur",
+   "en": {
+    "title": "Leopard rescued from Sonalika tractor factory in Hoshiarpur after 12-hour operation",
+    "summary": "A leopard that strayed into Sonalika International Tractors' factory in Hoshiarpur around 12:30 am was tranquilised and rescued after an operation lasting nearly 12 hours. The factory had to be shut and the morning shift cancelled; no one was injured."
+   },
+   "featured": false,
+   "hi": {
+    "title": "होशियारपुर: सोनालिका फैक्ट्री में घुसा तेंदुआ, 12 घंटे के ऑपरेशन के बाद बेहोश करके पकड़ा गया",
+    "summary": "होशियारपुर में सोनालिका इंटरनेशनल ट्रैक्टर्स की फैक्ट्री में रात करीब 12:30 बजे घुसा तेंदुआ करीब 12 घंटे बाद बेहोश करके पकड़ा गया। वन विभाग की टीम ने सीसीटीवी और ड्रोन की मदद से उसे कन्वेयर बेल्ट के नीचे छिपा पाया। फैक्ट्री बंद करनी पड़ी और सुबह की शिफ्ट रद्द कर दी गई; किसी को चोट नहीं आई।"
+   },
+   "id": "leopard-rescued-sonalika-factory-hoshiarpur-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Punjab",
+   "sub": "Others",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:19:40+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/leopard-rescued-sonalika-factory-hoshiarpur-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-rescued-sonalika-factory-hoshiarpur-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-rescued-sonalika-factory-hoshiarpur-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "Modi, Merz review India-Germany strategic ties ahead of India-EU FTA signing",
+    "summary": "Prime Minister Narendra Modi and German Chancellor Friedrich Merz spoke on the phone on Tuesday, reviewing the India-Germany strategic partnership. The two leaders said the proposed India-EU free trade agreement would unlock new opportunities for trade and investment."
+   },
+   "featured": false,
+   "hi": {
+    "title": "मोदी-मर्ज़ की फोन पर बातचीत, भारत-जर्मनी साझेदारी और भारत-यूरोपीय संघ व्यापार समझौते पर चर्चा",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी और जर्मनी के चांसलर फ्रेडरिक मर्ज़ ने मंगलवार को फोन पर बात की। दोनों नेताओं ने भारत-जर्मनी रणनीतिक साझेदारी की प्रगति की समीक्षा की और कहा कि प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते से व्यापार और निवेश के नए मौके खुलेंगे।"
+   },
+   "id": "modi-merz-call-india-germany-ties-india-eu-fta-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Europe",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:19:40+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/modi-merz-call-india-germany-ties-india-eu-fta-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-merz-call-india-germany-ties-india-eu-fta-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/modi-merz-call-india-germany-ties-india-eu-fta-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3251,50 +3295,6 @@
    "en": {
     "title": "Speeding car drags bike 100 metres in Satna, three men returning from wedding killed",
     "summary": "A speeding car hit a motorcycle in Satna in the early hours of Tuesday and dragged it nearly 100 metres before crashing into an electricity pole, killing three young men. Two died on the spot and the third died on the way to hospital. All three were returning from a wedding."
-   }
-  },
-  {
-   "id": "rampur-bolero-falls-flyover-four-friends-killed-november-24",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:24:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rampur-bolero-falls-flyover-four-friends-killed-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rampur-bolero-falls-flyover-four-friends-killed-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rampur-bolero-falls-flyover-four-friends-killed-november-24-en.mp3",
-   "district": "Rampur",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "रामपुर: फ्लाईओवर से 30 फीट नीचे गिरी बोलेरो, सीतापुर के 4 दोस्तों की मौत",
-    "summary": "रामपुर में सोमवार देर शाम तेज़ रफ्तार बोलेरो फ्लाईओवर से करीब 30 फीट नीचे जा गिरी। सीतापुर के बिसवां के रहने वाले 4 दोस्तों की मौत हो गई — 3 ने मौके पर दम तोड़ दिया, चौथे की अस्पताल ले जाते समय मौत हुई। चारों मुरादाबाद से घर लौट रहे थे।"
-   },
-   "en": {
-    "title": "Bolero plunges 30 feet off flyover in Rampur, four friends from Sitapur killed",
-    "summary": "A speeding Bolero plunged nearly 30 feet off a flyover in Rampur on Monday evening, killing four friends from Biswan in Sitapur district. Three died on the spot and the fourth died on the way to hospital. All four were returning home from Moradabad."
-   }
-  },
-  {
-   "id": "russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:24:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-strikes-zaporizhzhia-two-killed-forty-injured-november-24-en.mp3",
-   "hi": {
-    "title": "ज़ापोरिज़्ज़िया पर रूसी हमले में 2 की मौत, 40 घायल; 5 मंज़िला इमारत आधी ढही",
-    "summary": "रूस ने मंगलवार तड़के ज़ापोरिज़्ज़िया पर हमले किए, जिनमें 2 लोगों की मौत हो गई और 40 घायल हुए, जिनमें 4 बच्चे भी हैं। एक निजी मकान तबाह हो गया और 5 मंज़िला अपार्टमेंट इमारत आधी ढह गई।"
-   },
-   "en": {
-    "title": "Russian strikes kill 2, injure 40 in Zaporizhzhia; five-storey building partly destroyed",
-    "summary": "Russian strikes on the southeastern Ukrainian city of Zaporizhzhia early on Tuesday killed two people and injured 40, including four children. A private home was destroyed and a five-storey apartment building was partly demolished."
    }
   }
  ]
