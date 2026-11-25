@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T06:48:15+05:30",
+ "updatedAt": "2026-11-25T07:09:13+05:30",
  "articles": [
+  {
+   "id": "chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T07:09:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards-en.mp3",
+   "district": "Idukki",
+   "state": "Kerala",
+   "hi": {
+    "title": "मिशन चक्काकोम्बन आज से: इडुक्की में बेकाबू हाथी को रेडियो-कॉलर लगाने की तैयारी, चिन्नकनाल के 6 वार्डों में स्कूल बंद",
+    "summary": "केरल के इडुक्की जिले में वन विभाग आज से जंगली हाथी चक्काकोम्बन को बेहोश करके रेडियो-कॉलर लगाने का अभियान शुरू कर रहा है। हाथी के बार-बार चिन्नकनाल की बस्तियों में घुसने के बाद पंचायत के 6 वार्डों में सभी शिक्षण संस्थान बंद रहेंगे, पर्यटन गतिविधियों पर रोक है और अभियान में करीब 100 कर्मी शामिल हैं।"
+   },
+   "en": {
+    "title": "Mission Chakkakomban begins today in Idukki: forest department to radio-collar rogue tusker, schools shut in six Chinnakanal wards",
+    "summary": "Kerala's Forest Department begins its mission today to tranquilise and radio-collar wild tusker Chakkakomban in Idukki district, after the elephant's repeated forays into settlements in Chinnakanal. Schools in six wards of the panchayat stay shut, tourist activity is banned in the area, and around 100 personnel are part of the operation."
+   }
+  },
+  {
+   "id": "jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24",
+   "category": "World",
+   "sub": "Pakistan",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-25T07:09:13+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24-en.mp3",
+   "hi": {
+    "title": "कैमरे पर जैश कमांडर का कबूलनामा: पीओके में आतंकी कैंप और आईएसआई से मुलाकात का खुलासा, रावलकोट-धारमसाल के ठिकानों के नाम लिए",
+    "summary": "जैश-ए-मोहम्मद के वरिष्ठ कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में एक सभा में कैमरे के सामने स्वीकार किया है कि संगठन का रावलकोट में आतंकी कैंप और पाकिस्तान अधिकृत कश्मीर के पूंछ जिले के धारमसाल में मरकज़ सक्रिय है। उसने यह भी कहा कि पाकिस्तानी खुफिया अधिकारियों ने इस्लामाबाद में उससे मुलाकात की और 22 नामों वाली सूची सौंपी थी।"
+   },
+   "en": {
+    "title": "On camera, JeM commander admits terror camps in PoK and ISI meeting, names Rawalakot and Dharamsal sites",
+    "summary": "Senior Jaish-e-Mohammed commander Masood Ilyas Kashmiri has admitted on camera at a gathering in Islamabad that the outfit runs an operational terror camp in Rawalakot and a markaz in Dharamsal in Pakistan-occupied Kashmir's Poonch district. He also claimed Pakistani intelligence officials met him in Islamabad and handed him a list of 22 names."
+   }
+  },
   {
    "id": "nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25",
    "category": "Crime & Law",
@@ -723,7 +767,7 @@
    "category": "World",
    "sub": "Middle East",
    "breaking": true,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-25T00:03:30+05:30",
    "source": "PrimeFeed Desk",
@@ -3245,50 +3289,6 @@
    "en": {
     "title": "Mudigere MLA Nayana Motamma resigns over elephant relocation; drive halted after protest",
     "summary": "Karnataka Congress MLA Nayana Motamma resigned on Monday, protesting against the Forest Department driving a herd of wild elephants from Hassan into her Mudigere constituency. Her resignation was not accepted as it was not in the prescribed format, and the department has halted the elephant drive after the protest."
-   }
-  },
-  {
-   "id": "iran-flogs-singer-parastoo-ahmadi-74-lashes-hijab-free-concert-november-23",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:35:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iran-flogs-singer-parastoo-ahmadi-74-lashes-hijab-free-concert-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-flogs-singer-parastoo-ahmadi-74-lashes-hijab-free-concert-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iran-flogs-singer-parastoo-ahmadi-74-lashes-hijab-free-concert-november-23-en.mp3",
-   "hi": {
-    "title": "ईरान में गायिका परस्तू अहमदी को बिना हिजाब गाने पर 74 कोड़े, टीम के 4 सदस्यों को भी यही सज़ा",
-    "summary": "ईरानी गायिका परस्तू अहमदी को दिसंबर 2024 के एक कॉन्सर्ट वीडियो में बिना अनिवार्य हिजाब पहने गाने के मामले में सोमवार को क़ोम में 74 कोड़े मारे गए। उनकी प्रोडक्शन टीम के 4 सदस्यों को भी 74-74 कोड़े मारे गए, और पाँचों पर 2 साल की कलात्मक गतिविधियों और यात्रा पर पाबंदी लगा दी गई है।"
-   },
-   "en": {
-    "title": "Iran flogs singer Parastoo Ahmadi 74 times over hijab-free concert; four of her team lashed too",
-    "summary": "Iranian singer Parastoo Ahmadi was flogged 74 times in Qom on Monday over a December 2024 concert video in which she performed without the mandatory hijab. Four members of her production team received 74 lashes each, and all five face two-year bans on artistic activity and travel."
-   }
-  },
-  {
-   "id": "kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23",
-   "category": "Weather",
-   "sub": "IMD Alerts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:18:41+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kashmir-coldest-night-season-shopian-minus-3-9-srinagar-below-freezing-november-23-en.mp3",
-   "district": "Shopian",
-   "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "कश्मीर में मौसम की सबसे सर्द रात, शोपियां में पारा माइनस 3.9 डिग्री, श्रीनगर भी जमाव बिंदु से नीचे",
-    "summary": "कश्मीर घाटी में सोमवार की रात मौसम की सबसे सर्द रात रही। शोपियां में पारा माइनस 3.9 डिग्री सेल्सियस दर्ज हुआ, जबकि श्रीनगर में भी तापमान जमाव बिंदु से नीचे माइनस 0.4 डिग्री रहा। मौसम विभाग ने महीने के अंत तक सूखा मौसम रहने और रात के तापमान में और गिरावट की संभावना जताई है।"
-   },
-   "en": {
-    "title": "Kashmir records season's coldest night as Shopian plunges to minus 3.9 degrees, Srinagar slips below freezing",
-    "summary": "Kashmir Valley recorded the coldest night of the season on Monday, with Shopian plunging to minus 3.9 degrees Celsius and Srinagar also slipping below freezing at minus 0.4 degrees. The Meteorological Department has forecast mainly dry weather till the end of the month, with night temperatures likely to fall further."
    }
   }
  ]
