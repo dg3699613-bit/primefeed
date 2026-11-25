@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T11:51:20+05:30",
+ "updatedAt": "2026-11-25T12:06:53+05:30",
  "articles": [
+  {
+   "id": "jashpur-panchayats-bar-pastors-priests-conversion-row-november-25",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T12:06:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jashpur-panchayats-bar-pastors-priests-conversion-row-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jashpur-panchayats-bar-pastors-priests-conversion-row-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jashpur-panchayats-bar-pastors-priests-conversion-row-november-25-en.mp3",
+   "district": "Jashpur",
+   "state": "Chhattisgarh",
+   "hi": {
+    "title": "जशपुर की 4 ग्राम पंचायतों ने पादरी, फादर और सिस्टर के प्रवेश पर रोक के बोर्ड लगाए, धर्मांतरण और ग्राम सभा की शक्तियों पर बहस तेज",
+    "summary": "छत्तीसगढ़ के जशपुर जिले की 4 ग्राम पंचायतों ने कथित धर्मांतरण के खिलाफ प्रस्ताव पारित कर गांवों के प्रवेश द्वार पर पादरी, फादर और सिस्टर के प्रवेश पर रोक वाले बोर्ड लगा दिए हैं। आदिवासी संगठनों का कहना है कि यह कदम उनकी संस्कृति की रक्षा के लिए है, जबकि क्रिश्चियन आदिवासी महासभा ने इसे धार्मिक स्वतंत्रता का उल्लंघन बताया है।"
+   },
+   "en": {
+    "title": "Four Jashpur panchayats bar pastors and priests, reigniting debate over conversions and gram sabha powers",
+    "summary": "Four gram panchayats in Chhattisgarh's Jashpur district have put up boards barring the entry of pastors, fathers and sisters after passing resolutions against alleged religious conversions. Tribal groups say the move protects their culture; the Christian Adivasi Mahasabha calls it a violation of religious freedom."
+   }
+  },
+  {
+   "id": "houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T12:06:53+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25-en.mp3",
+   "hi": {
+    "title": "हूती विद्रोहियों ने जेद्दा समेत सऊदी अरब के सभी लाल सागर बंदरगाहों को निशाना बनाने की धमकी दी, गठबंधन ने होदेइदा पर हमला किया",
+    "summary": "यमन के हूती विद्रोहियों ने बुधवार को चेतावनी दी कि अगर सऊदी अरब ने होदेइदा बंदरगाह पर हमला किया तो जेद्दा समेत लाल सागर तट के सभी सऊदी बंदरगाहों को निशाना बनाया जाएगा। चेतावनी के कुछ घंटे बाद सऊदी नेतृत्व वाले गठबंधन ने कहा कि उसने होदेइदा में ठिकानों और सादा व अमरान प्रांतों में लक्ष्यों पर हमला किया है।"
+   },
+   "en": {
+    "title": "Houthis threaten Jeddah and all Saudi Red Sea ports as coalition strikes Hodeidah",
+    "summary": "Yemen's Houthis warned on Wednesday that Jeddah and every other Saudi port on the Red Sea coast would be targeted if Saudi Arabia attacked the port of Hodeidah. Hours later, the Saudi-led coalition said it had struck operational capabilities at Hodeidah and targets in the Saada and Amran governorates."
+   }
+  },
   {
    "id": "hanuman-artiste-dies-on-stage-ramayana-play-ganjam",
    "category": "State & Local",
@@ -3247,48 +3291,6 @@
    "en": {
     "title": "CJP's Saurav Das stopped at Delhi airport on way to Oxford lecture; alleges government blocked his travel",
     "summary": "Cockroach Janta Party co-convenor Saurav Das has alleged that immigration officials at Delhi's Indira Gandhi International Airport stopped him from boarding his flight to London on Monday night. He was travelling to speak at an Oxford Union panel discussion. No official reason has been given yet."
-   }
-  },
-  {
-   "id": "nepal-earthquake-5-3-tremors-bihar-north-bengal-november-24",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T08:07:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-earthquake-5-3-tremors-bihar-north-bengal-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-earthquake-5-3-tremors-bihar-north-bengal-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-earthquake-5-3-tremors-bihar-north-bengal-november-24-en.mp3",
-   "hi": {
-    "title": "नेपाल में 5.3 तीव्रता का भूकंप, बिहार और उत्तर बंगाल तक झटके; कहीं कोई नुकसान नहीं",
-    "summary": "मंगलवार सुबह 7:02 बजे नेपाल के कोशी प्रांत में 5.3 तीव्रता का भूकंप आया। पटना, दरभंगा, वैशाली और समस्तीपुर समेत बिहार के कई जिलों और उत्तर बंगाल के धूपगुड़ी-डुआर्स इलाके में झटके महसूस किए गए। अभी तक कहीं से जान-माल के नुकसान की खबर नहीं है।"
-   },
-   "en": {
-    "title": "5.3-magnitude earthquake strikes Nepal, tremors felt across Bihar and North Bengal; no damage reported",
-    "summary": "A 5.3-magnitude earthquake struck Nepal's Koshi province at 7:02 am on Tuesday. Tremors were felt across several districts of Bihar, including Patna, Darbhanga, Vaishali and Samastipur, and in North Bengal's Dhupguri-Dooars belt. No loss of life or property has been reported so far."
-   }
-  },
-  {
-   "id": "india-new-zealand-first-test-draw-wellington-november-23",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T08:07:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-new-zealand-first-test-draw-wellington-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-new-zealand-first-test-draw-wellington-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-new-zealand-first-test-draw-wellington-november-23-en.mp3",
-   "hi": {
-    "title": "वेलिंगटन टेस्ट ड्रॉ: भारत के 720 रन के बाद भी न्यूज़ीलैंड ने बचा लिया मैच, मिचेल-फिलिप्स डटे रहे",
-    "summary": "वेलिंगटन में पहला टेस्ट ड्रॉ रहा। भारत के 720/9 के जवाब में न्यूज़ीलैंड ने दूसरी पारी में 239/5 बनाए और डेरिल मिचेल (49*) व ग्लेन फिलिप्स (26*) ने आखिरी सत्र में भारत को जीत से दूर रखा। दूसरा टेस्ट 27 नवंबर से क्राइस्टचर्च में होगा।"
-   },
-   "en": {
-    "title": "Wellington Test drawn: New Zealand survive 120 overs after India's record 720 as Mitchell and Phillips hold firm",
-    "summary": "The first Test in Wellington ended in a draw. Replying to India's 720 for 9 declared, New Zealand finished on 239 for 5 in their second innings, with Daryl Mitchell (49 not out) and Glenn Phillips (26 not out) holding India off through the final session. The second Test starts in Christchurch on November 27."
    }
   }
  ]
