@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T21:49:31+05:30",
+ "updatedAt": "2026-11-25T22:10:13+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Mumbai",
+   "en": {
+    "title": "Tiger Shroff firing case: One accused declared a minor, case sent to Juvenile Justice Board; non-bailable warrant against Abhishek Sharma",
+    "summary": "A special MCOCA court has declared one of the accused in the Tiger Shroff firing case a minor. Documents showed he was 17 years, 10 months and 18 days old on the day of the attack; his case will now go to the Juvenile Justice Board. Police have also obtained a non-bailable warrant against Abhishek Sharma, brother of Anil Pandit."
+   },
+   "featured": false,
+   "hi": {
+    "title": "टाइगर श्रॉफ फायरिंग केस: एक आरोपी नाबालिग निकला, मामला किशोर न्याय बोर्ड को; अभिषेक शर्मा के खिलाफ गैर-जमानती वारंट",
+    "summary": "विशेष एमसीओसीए अदालत ने टाइगर श्रॉफ फायरिंग मामले के एक आरोपी को नाबालिग करार दिया है। दस्तावेज़ों से पता चला कि हमले के दिन वह 17 साल 10 महीने 18 दिन का था; अब उसका मामला किशोर न्याय बोर्ड के पास जाएगा। पुलिस ने अनिल पंडित के भाई अभिषेक शर्मा के खिलाफ गैर-जमानती वारंट भी हासिल किया है।"
+   },
+   "id": "tiger-shroff-firing-case-accused-declared-minor-juvenile-justice-board-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Maharashtra",
+   "sub": "Courts",
+   "trending": true,
+   "publishedAt": "2026-11-25T22:04:51+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tiger-shroff-firing-case-accused-declared-minor-juvenile-justice-board-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-shroff-firing-case-accused-declared-minor-juvenile-justice-board-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-shroff-firing-case-accused-declared-minor-juvenile-justice-board-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "district": null,
+   "en": {
+    "title": "Mulder's hundred and seven-for power South Africa to innings-and-219-run win over Bangladesh; series swept 2-0",
+    "summary": "Wiaan Mulder's century and career-best 7 for 31 powered South Africa to an innings-and-219-run win over Bangladesh in the Centurion Test, sealing the series 2-0. Bangladesh were bowled out for 91 and 184."
+   },
+   "featured": false,
+   "hi": {
+    "title": "मुल्डर का शतक और 7 विकेट: दक्षिण अफ्रीका ने बांग्लादेश को पारी और 219 रन से हराया, सीरीज़ 2-0 से जीती",
+    "summary": "विआन मुल्डर के शतक और 31 रन देकर 7 विकेट के करियर-सर्वश्रेष्ठ प्रदर्शन से दक्षिण अफ्रीका ने सेंचुरियन टेस्ट में बांग्लादेश को पारी और 219 रन से हराकर सीरीज़ 2-0 से जीत ली। बांग्लादेश की दोनों पारियाँ 91 और 184 रन पर सिमटीं।"
+   },
+   "id": "south-africa-beat-bangladesh-innings-219-runs-mulder-seven-for-centurion-november-25",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "Cricket",
+   "trending": true,
+   "publishedAt": "2026-11-25T22:04:51+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/south-africa-beat-bangladesh-innings-219-runs-mulder-seven-for-centurion-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-bangladesh-innings-219-runs-mulder-seven-for-centurion-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/south-africa-beat-bangladesh-innings-219-runs-mulder-seven-for-centurion-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3263,48 +3309,6 @@
    "hi": {
     "title": "अमेरिका में बर्ड फ्लू के 3 मामले, वॉशिंगटन में डेयरी फार्म के 1 कर्मचारी की मौत",
     "summary": "विश्व स्वास्थ्य संगठन ने कहा है कि अमेरिका ने वॉशिंगटन राज्य में बर्ड फ्लू के 3 मानव मामलों की जानकारी दी है, जिनमें 1 मौत भी शामिल है। तीनों याकिमा काउंटी के डेयरी फार्मों में काम करने वाले लोग थे और जेनेटिक जांच में उनके संक्रमण का संबंध स्थानीय डेयरी मवेशियों में मिले वायरस से जुड़ा है।"
-   }
-  },
-  {
-   "id": "china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24",
-   "category": "World",
-   "sub": "China",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T19:18:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24-en.mp3",
-   "en": {
-    "title": "China puts Politburo member and Shanghai party chief Chen Jining under investigation",
-    "summary": "China's state news agency Xinhua said on Tuesday that Chen Jining, a member of the Communist Party's elite Politburo and the party chief of Shanghai, is under investigation for suspected serious violations of discipline and law. He is the fourth member of the 24-member Politburo formed in 2022 to be probed since 2025."
-   },
-   "hi": {
-    "title": "चीन के पोलितब्यूरो सदस्य और शंघाई के पार्टी प्रमुख चेन जिनिंग जांच के घेरे में",
-    "summary": "चीन की सरकारी समाचार एजेंसी शिन्हुआ ने मंगलवार को कहा कि कम्युनिस्ट पार्टी के शक्तिशाली पोलितब्यूरो के सदस्य और शंघाई के पार्टी प्रमुख चेन जिनिंग के खिलाफ अनुशासन और कानून के गंभीर उल्लंघन के संदेह में जांच शुरू की गई है। 2022 में बने 24 सदस्यीय पोलितब्यूरो के वे चौथे सदस्य हैं, जिनकी 2025 से जांच हो रही है।"
-   }
-  },
-  {
-   "id": "gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24",
-   "category": "Science",
-   "sub": "Space",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T19:18:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24-en.mp3",
-   "en": {
-    "title": "Gaganyaan not delayed and in final phase, says ISRO chief; first privately built PSLV to fly in early 2027",
-    "summary": "ISRO Chairman V Narayanan said on Tuesday that the Gaganyaan human spaceflight mission has not been delayed and is in its final phase, with the rocket and all its components ready and work under way on the orbital module. He also said the first PSLV built by private industry, by the HAL and Larsen and Toubro consortium, is ready for its maiden launch in the first quarter of 2027."
-   },
-   "hi": {
-    "title": "गगनयान में कोई देरी नहीं, तैयारी अंतिम चरण में: इसरो प्रमुख; पहला प्राइवेट पीएसएलवी 2027 की शुरुआत में उड़ेगा",
-    "summary": "इसरो अध्यक्ष वी नारायणन ने मंगलवार को कहा कि गगनयान मानव अंतरिक्ष उड़ान मिशन में कोई देरी नहीं हुई है और यह अंतिम चरण में है। रॉकेट और उसके सभी उपकरण तैयार हैं और ऑर्बिटल मॉड्यूल पर काम चल रहा है। उन्होंने यह भी कहा कि हिंदुस्तान एयरोनॉटिक्स लिमिटेड और लार्सन ऐंड टुब्रो के समूह की बनाई पहली प्राइवेट पीएसएलवी तैयार है और 2027 की पहली तिमाही में उड़ान भरेगी।"
    }
   }
  ]
