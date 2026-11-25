@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T06:25:40+05:30",
+ "updatedAt": "2026-11-25T06:48:15+05:30",
  "articles": [
+  {
+   "id": "nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T06:48:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25-en.mp3",
+   "district": "Sri Ganganagar",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "श्रीगंगानगर रेल पटरी धमाका: एनआईए संभालेगी जांच, फोरेंसिक में आरडीएक्स के संकेत; तीसरे आरोपी की गिरफ्तारी",
+    "summary": "राष्ट्रीय जांच एजेंसी अब राजस्थान के श्रीगंगानगर जिले में 3 नवंबर को रेल पटरी पर हुए धमाके की जांच संभालेगी। एनडीटीवी की खबर के मुताबिक बरामद 2 विस्फोटक उपकरणों की प्रारंभिक फोरेंसिक जांच में आरडीएक्स के संकेत मिले हैं। अब तक 3 लोगों को गिरफ्तार किया जा चुका है, जिनमें 21 नवंबर को पकड़ा गया एक और आरोपी भी शामिल है, और पुलिस का आरोप है कि पाकिस्तान में बैठे 'शाह' नाम के हैंडलर ने यह साजिश रची थी।"
+   },
+   "en": {
+    "title": "NIA to take over Sri Ganganagar railway blast probe as forensic tests point to RDX; third accused held",
+    "summary": "The National Investigation Agency will take over the probe into the November 3 blast that damaged a railway track in Rajasthan's Sri Ganganagar district, NDTV reported, after preliminary forensic findings from two recovered explosive devices indicated RDX. Three people have been arrested so far, including a third accused held on November 21, and police allege a Pakistan-based handler known as Shah directed the plot."
+   }
+  },
+  {
+   "id": "trump-floats-pardon-jensen-huang-nvidia-congress-november-25",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T06:48:15+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-floats-pardon-jensen-huang-nvidia-congress-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-floats-pardon-jensen-huang-nvidia-congress-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-floats-pardon-jensen-huang-nvidia-congress-november-25-en.mp3",
+   "hi": {
+    "title": "ट्रंप बोले — एनवीडिया प्रमुख जेन्सेन हुआंग को माफी देना 'हमेशा एक विकल्प', लेकिन कांग्रेस के सामने सच बोलें",
+    "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि अगर ज़रूरत पड़ी तो वे एनवीडिया के मुख्य कार्यकारी जेन्सेन हुआंग को माफ करने पर विचार करेंगे। न्यूयॉर्क पोस्ट से उन्होंने कहा कि माफी 'हमेशा एक विकल्प' है, लेकिन इसकी ज़रूरत पड़ने की संभावना नहीं है — साथ ही उन्होंने हुआंग से कहा है कि अगले हफ्ते कांग्रेस के सामने पेश होकर सच बोलें, जहां उनसे निर्यात नियंत्रण और चीन से जुड़े एनवीडिया के कारोबार पर सवाल पूछे जाएंगे।"
+   },
+   "en": {
+    "title": "Trump says pardoning Nvidia CEO Jensen Huang is 'always an option' — but urges him to tell Congress the truth",
+    "summary": "President Donald Trump has said he would consider pardoning Nvidia chief executive Jensen Huang if necessary, telling the New York Post that a pardon is 'always an option' but unlikely to be needed — while urging Huang to tell the truth when he testifies before Congress next week over export controls and Nvidia's China dealings."
+   }
+  },
   {
    "id": "kota-jk-lon-hospital-maternal-deaths-35-days",
    "category": "Health",
@@ -3245,48 +3289,6 @@
    "en": {
     "title": "Kashmir records season's coldest night as Shopian plunges to minus 3.9 degrees, Srinagar slips below freezing",
     "summary": "Kashmir Valley recorded the coldest night of the season on Monday, with Shopian plunging to minus 3.9 degrees Celsius and Srinagar also slipping below freezing at minus 0.4 degrees. The Meteorological Department has forecast mainly dry weather till the end of the month, with night temperatures likely to fall further."
-   }
-  },
-  {
-   "id": "supreme-court-tamil-nadu-student-russian-army-abinesh-kumar-november-23",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:18:41+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-tamil-nadu-student-russian-army-abinesh-kumar-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-tamil-nadu-student-russian-army-abinesh-kumar-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-tamil-nadu-student-russian-army-abinesh-kumar-november-23-en.mp3",
-   "hi": {
-    "title": "रूसी सेना में तमिल छात्र: सुप्रीम कोर्ट में सरकार ने कहा, वापसी के विकल्प तलाशेंगे, पर दायरा सीमित",
-    "summary": "तमिलनाडु के 24 साल के छात्र अभिनेश कुमार के रूस की सेना में भर्ती होने के मामले में सुप्रीम कोर्ट में केंद्र सरकार ने कहा कि वह छात्र की वापसी के विकल्प तलाशेगी, लेकिन उसका दायरा सीमित है। सरकार का कहना है कि अभिनेश ने भारतीय नागरिकता छोड़कर रूसी नागरिकता ले ली है। मामले की अगली सुनवाई 18 जनवरी 2027 को होगी।"
-   },
-   "en": {
-    "title": "Tamil Nadu student in Russian Army: Government tells Supreme Court it will explore return options, but its locus is limited",
-    "summary": "In the case of 24-year-old Tamil Nadu student Abinesh Kumar, who is said to have joined the Russian Army, the Centre told the Supreme Court it will explore options for his return, but its locus is limited. The government said Abinesh gave up Indian citizenship and took Russian citizenship. The case will next be heard on January 18, 2027."
-   }
-  },
-  {
-   "id": "navy-coast-guard-76-utility-helicopters-15000-crore-cheetah-chetak-november-23",
-   "category": "India",
-   "sub": "Defence",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:01:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/navy-coast-guard-76-utility-helicopters-15000-crore-cheetah-chetak-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navy-coast-guard-76-utility-helicopters-15000-crore-cheetah-chetak-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/navy-coast-guard-76-utility-helicopters-15000-crore-cheetah-chetak-november-23-en.mp3",
-   "hi": {
-    "title": "नौसेना और तटरक्षक बल को 76 नए हेलिकॉप्टर मिलेंगे, 15,000 करोड़ रुपये के सौदे से चीता-चेतक की जगह लेंगे",
-    "summary": "भारतीय नौसेना और तटरक्षक बल को करीब 15,000 करोड़ रुपये के सौदे में 76 नए यूटिलिटी हेलिकॉप्टर मिलेंगे, जो पुराने चीता और चेतक बेड़े की जगह लेंगे। नौसेना को 51 और तटरक्षक बल को 25 हेलिकॉप्टर मिलेंगे, और इनका निर्माण भारत में ही होगा।"
-   },
-   "en": {
-    "title": "Navy, Coast Guard to get 76 new helicopters in ₹15,000 crore deal to replace ageing Cheetah-Chetak fleet",
-    "summary": "The Indian Navy and the Coast Guard will get 76 new utility helicopters in a deal worth around ₹15,000 crore, replacing their ageing Cheetah and Chetak fleets. The Navy will take 51 helicopters and the Coast Guard 25, with the aircraft built in India under the Buy and Make (Indian) route."
    }
   }
  ]
