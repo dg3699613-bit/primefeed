@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T00:45:56+05:30",
+ "updatedAt": "2026-11-26T01:00:47+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Hyderabad",
+   "en": {
+    "title": "Hyderabad egg-retrieval racket: Women's Commission urges Governor to order special probe",
+    "summary": "Telangana Women's Commission chairperson Nerella Sharada met Governor Shiv Pratap Shukla at Lok Bhavan and urged a special probe into the alleged interstate egg-retrieval racket, after Malkajgiri police rescued 43 women and arrested 8 people on 31 October."
+   },
+   "featured": false,
+   "hi": {
+    "title": "हैदराबाद अंडा निकासी रैकेट: महिला आयोग ने राज्यपाल से विशेष जाँच की माँग की",
+    "summary": "तेलंगाना महिला आयोग की अध्यक्ष नेरेला शारदा ने लोक भवन में राज्यपाल शिव प्रताप शुक्ला से मिलकर कथित अंतरराज्यीय अंडा निकासी रैकेट की विशेष जाँच की माँग की; मलकाजगिरी पुलिस ने 31 अक्टूबर को 43 महिलाओं को बचाया था और 8 लोगों को गिरफ्तार किया था।"
+   },
+   "id": "telangana-womens-commission-seeks-special-probe-egg-retrieval-racket-hyderabad",
+   "source": "PrimeFeed Desk",
+   "state": "Telangana",
+   "sub": "Scams & Fraud",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:56:30+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/telangana-womens-commission-seeks-special-probe-egg-retrieval-racket-hyderabad.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/telangana-womens-commission-seeks-special-probe-egg-retrieval-racket-hyderabad-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/telangana-womens-commission-seeks-special-probe-egg-retrieval-racket-hyderabad-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "en": {
+    "title": "Three Indians in ICC Test top 10: Pant 6th, Gill 7th, Jaiswal 9th; Bumrah joint-second among bowlers",
+    "summary": "Rishabh Pant, Shubman Gill and Yashasvi Jaiswal all climbed into the top 10 of the latest ICC Test batting rankings after India's 720 for 9 declared in the drawn Wellington Test, while Jasprit Bumrah moved up to joint-second in the bowling list."
+   },
+   "featured": false,
+   "hi": {
+    "title": "आईसीसी टेस्ट रैंकिंग में 3 भारतीय टॉप 10 में: पंत 6वें, गिल 7वें, जायसवाल 9वें; बुमराह गेंदबाजों में संयुक्त दूसरे",
+    "summary": "वेलिंगटन टेस्ट में भारत के 720 रन पर 9 विकेट पर पारी घोषित करने के बाद ऋषभ पंत, शुभमन गिल और यशस्वी जायसवाल ताज़ा आईसीसी टेस्ट बल्लेबाज़ी रैंकिंग में टॉप 10 में पहुँच गए हैं, जबकि जसप्रीत बुमराह गेंदबाज़ी सूची में संयुक्त दूसरे स्थान पर आ गए हैं।"
+   },
+   "id": "icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second",
+   "source": "PrimeFeed Desk",
+   "sub": "Cricket",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:56:30+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second-en.mp3"
+  },
   {
    "breaking": false,
    "category": "India",
@@ -3264,48 +3308,6 @@
    },
    "district": "Kutch",
    "state": "Gujarat"
-  },
-  {
-   "id": "ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T22:42:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24-en.mp3",
-   "en": {
-    "title": "Ramayana shortlisted in two categories at Critics Choice Awards, alongside The Odyssey and Dune: Part Three",
-    "summary": "Nitesh Tiwari's Ramayana has made it to the shortlists for Best Visual Effects and Best Stunt Design at the 32nd Annual Critics Choice Awards. The final nominations will be announced on December 4, ahead of the ceremony on January 3, 2027."
-   },
-   "hi": {
-    "title": "रामायण क्रिटिक्स चॉइस अवॉर्ड्स में 2 श्रेणियों में शॉर्टलिस्ट, द ओडिसी और ड्यून: पार्ट थ्री के साथ दौड़ में",
-    "summary": "नितेश तिवारी की फिल्म रामायण 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड्स में बेस्ट विजुअल इफेक्ट्स और बेस्ट स्टंट डिज़ाइन की शॉर्टलिस्ट में जगह बनाने में कामयाब रही है। अंतिम नामांकन 4 दिसंबर को घोषित होंगे, जबकि पुरस्कार समारोह 3 जनवरी, 2027 को होगा।"
-   }
-  },
-  {
-   "id": "us-trump-new-tariffs-16-economies-india-section-301-november-24",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T22:18:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-trump-new-tariffs-16-economies-india-section-301-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-trump-new-tariffs-16-economies-india-section-301-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-trump-new-tariffs-16-economies-india-section-301-november-24-en.mp3",
-   "en": {
-    "title": "Trump administration poised to unveil fresh tariffs on India, China and 14 other economies after subsidies probe",
-    "summary": "The Trump administration is poised to release the findings of a months-long Section 301 probe into excess industrial capacity in 16 economies, including India, China, the EU and Japan, with new import duties expected as early as Tuesday or Wednesday. India and Vietnam could face higher rates, while the EU, Japan and South Korea may be capped at 15%."
-   },
-   "hi": {
-    "title": "भारत, चीन समेत 16 देशों पर नए टैरिफ की तैयारी में ट्रंप प्रशासन, इसी हफ्ते आ सकता है फैसला",
-    "summary": "ट्रंप प्रशासन 16 देशों में औद्योगिक सब्सिडी और अतिरिक्त उत्पादन क्षमता की महीनों लंबी जाँच के नतीजे इसी हफ्ते जारी करने की तैयारी में है। भारत, चीन, यूरोपीय संघ और जापान समेत इन देशों पर नए आयात शुल्क लग सकते हैं; भारत और वियतनाम पर ऊँची दरें लगने की आशंका है, जबकि यूरोपीय संघ, जापान और दक्षिण कोरिया पर 15% की सीमा रह सकती है।"
-   }
   }
  ]
 }
