@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T01:48:53+05:30",
+ "updatedAt": "2026-11-26T02:08:38+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "State & Local",
+   "district": "Soreng",
+   "en": {
+    "title": "Sikkim Chief Minister Prem Singh Tamang's mother Dhan Maya Tamang dies at 87 in Siliguri",
+    "summary": "Dhan Maya Tamang, 87, mother of Sikkim Chief Minister Prem Singh Tamang, died at a hospital in Siliguri on Wednesday evening after a prolonged illness. She was a resident of Singling village in Soreng district, and condolences poured in from across the region."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सिक्किम के मुख्यमंत्री प्रेम सिंह तमांग की मां धन माया तमांग का 87 वर्ष की उम्र में सिलीगुड़ी में निधन",
+    "summary": "सिक्किम के मुख्यमंत्री प्रेम सिंह तमांग की मां धन माया तमांग का बुधवार शाम सिलीगुड़ी के एक अस्पताल में लंबी बीमारी के बाद 87 वर्ष की उम्र में निधन हो गया। वह सोरेंग जिले के सिंगलिंग गांव की रहने वाली थीं।"
+   },
+   "id": "sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri",
+   "source": "PrimeFeed Desk",
+   "state": "Sikkim",
+   "sub": "Others",
+   "trending": true,
+   "publishedAt": "2026-11-26T02:04:19+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Chandel",
+   "en": {
+    "title": "Manipur spurious liquor toll rises to 20 as another man dies in Kakching; nine arrested sent to police custody",
+    "summary": "The death toll in Manipur's spurious liquor tragedy rose to 20 on Wednesday after a 35-year-old man from Kakching district died at RIMS in Imphal. Nine people arrested in the case, including two women, have been remanded to six days in police custody."
+   },
+   "featured": false,
+   "hi": {
+    "title": "मणिपुर जहरीली शराब त्रासदी: एक और मौत के बाद मृतकों की संख्या 20 हुई, 9 गिरफ्तार आरोपियों को पुलिस हिरासत में भेजा गया",
+    "summary": "मणिपुर में जहरीली शराब से हुई त्रासदी में मृतकों की संख्या बुधवार को 20 हो गई, जब काकचिंग जिले के 35 वर्षीय एक व्यक्ति की इंफाल के रिम्स अस्पताल में मौत हो गई। मामले में गिरफ्तार 9 लोगों को 6 दिन की पुलिस हिरासत में भेजा गया है।"
+   },
+   "id": "manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody",
+   "source": "PrimeFeed Desk",
+   "state": "Manipur",
+   "sub": "Police & Crime",
+   "trending": true,
+   "publishedAt": "2026-11-26T02:04:19+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody-en.mp3"
+  },
   {
    "breaking": false,
    "category": "India",
@@ -3261,50 +3307,6 @@
    "hi": {
     "title": "गुकेश ने सिंदारोव को पहले गेम में ड्रॉ पर रोका, 38 चालों में बराबरी; स्कोर 0.5-0.5",
     "summary": "विश्व चैंपियन डी गुकेश ने मंगलवार को जिनेवा में विश्व शतरंज चैंपियनशिप के पहले गेम में जावोखिर सिंदारोव को काले मोहरों से ड्रॉ पर रोक दिया। 38 चालों का यह गेम 3 बार एक ही स्थिति दोहराए जाने पर ड्रॉ हुआ; बुधवार को दूसरे गेम में गुकेश को सफ़ेद मोहरे मिलेंगे।"
-   }
-  },
-  {
-   "id": "saharsa-custody-death-sho-among-five-suspended-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T23:32:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saharsa-custody-death-sho-among-five-suspended-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharsa-custody-death-sho-among-five-suspended-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharsa-custody-death-sho-among-five-suspended-november-24-en.mp3",
-   "district": "Saharsa",
-   "state": "Bihar",
-   "en": {
-    "title": "Custody death in Saharsa: accused found dead in police station washroom, SHO among 5 suspended",
-    "summary": "Anmol Kumar, an accused in a love-affair case, was found dead in the washroom of Saurbazar police station in Saharsa on Tuesday morning. SP Vikram Sihag suspended the SHO and 4 other personnel for alleged negligence, and a custodial death inquiry with a videographed post-mortem is under way."
-   },
-   "hi": {
-    "title": "सहरसा में हिरासत में मौत: थाने के बाथरूम में मिला आरोपी का शव, एसएचओ समेत 5 पुलिसकर्मी सस्पेंड",
-    "summary": "प्रेम-प्रसंग के मामले में आरोपी अनमोल कुमार मंगलवार सुबह सहरसा के सौरबाज़ार थाने के बाथरूम में मृत मिला। एसपी विक्रम सिहाग ने एसएचओ समेत 5 कर्मियों को लापरवाही के आरोप में सस्पेंड कर दिया है; मजिस्ट्रेट की मौजूदगी में जाँच और वीडियोग्राफी के साथ पोस्टमॉर्टम चल रहा है।"
-   }
-  },
-  {
-   "id": "india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24",
-   "category": "Cricket & Sports",
-   "sub": "Hockey",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T23:32:17+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24-en.mp3",
-   "en": {
-    "title": "Deepika's hat-trick powers India to 6-2 rout of China in Women's Asian Champions Trophy",
-    "summary": "Defending champions India thrashed Olympic silver medallists China 6-2 in Bhopal on Tuesday, with Deepika scoring a second successive hat-trick. India have won all 4 league matches and sit level with Japan on 12 points at the top of the table."
-   },
-   "hi": {
-    "title": "दीपिका की हैट्रिक से भारत ने चीन को 6-2 से हराया, महिला एशियाई चैंपियंस ट्रॉफी में चौथी जीत",
-    "summary": "गत विजेता भारत ने भोपाल में मंगलवार को ओलंपिक रजत पदक विजेता चीन को 6-2 से हराया; दीपिका ने लगातार दूसरी हैट्रिक लगाई। भारत ने 4 लीग मैचों में 4 जीत दर्ज की हैं और 12 अंकों के साथ जापान के बराबर शीर्ष पर है।"
    }
   }
  ]
