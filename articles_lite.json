@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T16:26:28+05:30",
+ "updatedAt": "2026-11-25T16:38:02+05:30",
  "articles": [
+  {
+   "id": "kolkata-mullick-bazar-cloth-warehouse-fire-november-25",
+   "category": "State & Local",
+   "sub": "West Bengal",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T16:34:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kolkata-mullick-bazar-cloth-warehouse-fire-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-mullick-bazar-cloth-warehouse-fire-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-mullick-bazar-cloth-warehouse-fire-november-25-en.mp3",
+   "district": "Kolkata",
+   "state": "West Bengal",
+   "hi": {
+    "title": "कोलकाता के मल्लिक बाजार में कपड़े के गोदाम में भीषण आग, 3 घंटे से ज़्यादा बुझाने की कोशिश; कोई हताहत नहीं",
+    "summary": "कोलकाता के घनी आबादी वाले मल्लिक बाजार इलाके में बुधवार को एजेसी बोस रोड पर स्थित एक इमारत के भूतल में बने कपड़े के गोदाम में भीषण आग लग गई। दमकल की गाड़ियाँ 3 घंटे से ज़्यादा समय तक आग बुझाने में लगी रहीं। इमारत में रहने वाले सभी लोगों को सुरक्षित बाहर निकाल लिया गया और किसी के हताहत होने की खबर नहीं है।"
+   },
+   "en": {
+    "title": "Fire guts cloth warehouse in Kolkata's Mullick Bazar; blaze rages for over 3 hours, no injuries",
+    "summary": "A massive fire broke out in a cloth warehouse in Kolkata's densely populated Mullick Bazar area on Wednesday, in a building on AJC Bose Road. Fire engines battled the blaze for over 3 hours. All residents of the building were evacuated safely, and no casualties have been reported."
+   }
+  },
+  {
+   "id": "flipkart-ceo-kalyan-krishnamurthy-steps-down-november-25",
+   "category": "Business",
+   "sub": "Startups",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T16:34:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/flipkart-ceo-kalyan-krishnamurthy-steps-down-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/flipkart-ceo-kalyan-krishnamurthy-steps-down-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/flipkart-ceo-kalyan-krishnamurthy-steps-down-november-25-en.mp3",
+   "hi": {
+    "title": "फ्लिपकार्ट के सीईओ कल्याण कृष्णमूर्ति 11 साल बाद पद छोड़ेंगे, अंतरिम कमान बालाजी त्यागराजन को",
+    "summary": "वॉलमार्ट के स्वामित्व वाली ई-कॉमर्स कंपनी फ्लिपकार्ट के ग्रुप सीईओ कल्याण कृष्णमूर्ति 11 साल से ज़्यादा समय बाद पद छोड़ रहे हैं। कंपनी ने बुधवार को कहा कि उत्तराधिकारी की घोषणा आने वाले हफ्तों में की जाएगी और तब तक मुख्य उत्पाद एवं प्रौद्योगिकी अधिकारी बालाजी त्यागराजन और बोर्ड कंपनी का कामकाज देखेंगे।"
+   },
+   "en": {
+    "title": "Flipkart CEO Kalyan Krishnamurthy to step down after 11 years; Balaji Thiagarajan to lead in interim",
+    "summary": "Walmart-owned e-commerce major Flipkart on Wednesday announced that group CEO Kalyan Krishnamurthy will step down after more than 11 years with the company. A successor will be named in the coming weeks; chief product and technology officer Balaji Thiagarajan and the board will run the company in the interim."
+   }
+  },
   {
    "id": "two-oil-tankers-hit-mines-catch-fire-strait-of-hormuz-november-25",
    "category": "World",
@@ -3253,52 +3297,6 @@
    "en": {
     "title": "Gas blast rips through Hanoi eatery as it opens, part of building collapses: 6 killed, 10 injured",
     "summary": "A suspected gas blast at a restaurant in Vietnam's capital Hanoi on Tuesday morning brought down part of the building, killing six people and injuring 10. The blast struck at around 8 am, just as the eatery was opening for business."
-   }
-  },
-  {
-   "id": "president-murmu-bali-jatra-cuttack-november-24",
-   "category": "Dharm-Astrology",
-   "sub": "Vrat & Tyohar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T14:22:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/president-murmu-bali-jatra-cuttack-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-bali-jatra-cuttack-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-bali-jatra-cuttack-november-24-en.mp3",
-   "district": "Cuttack",
-   "state": "Odisha",
-   "hi": {
-    "title": "राष्ट्रपति मुर्मू ओडिशा पहुँचीं, आज शाम कटक में ऐतिहासिक बाली जात्रा का उद्घाटन करेंगी",
-    "summary": "राष्ट्रपति द्रौपदी मुर्मू 2 दिन के दौरे पर ओडिशा पहुँचीं। आज शाम वह कटक में ऐतिहासिक बाली जात्रा 2026 का उद्घाटन करेंगी, जो 1 दिसंबर तक चलेगी।"
-   },
-   "en": {
-    "title": "President Murmu arrives in Odisha, to inaugurate historic Bali Jatra in Cuttack this evening",
-    "summary": "President Droupadi Murmu arrived in Odisha on a two-day visit. This evening she will inaugurate the historic Bali Jatra 2026 in Cuttack, which runs till 1 December."
-   }
-  },
-  {
-   "id": "mandya-expressway-crash-two-killed-november-24",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-24T14:22:50+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mandya-expressway-crash-two-killed-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mandya-expressway-crash-two-killed-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mandya-expressway-crash-two-killed-november-24-en.mp3",
-   "district": "Mandya",
-   "state": "Karnataka",
-   "hi": {
-    "title": "मांड्या: मैसूरु-बेंगलुरु एक्सप्रेसवे पर कार लॉरी से टकराई, 8 साल की बच्ची समेत 2 की मौत, 4 घायल",
-    "summary": "मांड्या जिले में मंगलवार को मैसूरु-बेंगलुरु एक्सप्रेसवे पर कार के लॉरी से टकराने से 8 साल की बच्ची समेत 2 लोगों की मौत हो गई और 4 लोग गंभीर रूप से घायल हो गए। कार में सवार 2 परिवार नंजनगुड मंदिर जा रहे थे।"
-   },
-   "en": {
-    "title": "Two killed, four injured as car rams lorry on Mysuru-Bengaluru Expressway in Mandya",
-    "summary": "Two people, including an 8-year-old girl, were killed and 4 others seriously injured on Tuesday after a car rammed into a goods lorry on the Mysuru-Bengaluru Expressway in Mandya district. Two families in the car were on their way to the Nanjangud temple."
    }
   }
  ]
