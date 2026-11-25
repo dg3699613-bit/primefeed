@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T13:47:04+05:30",
+ "updatedAt": "2026-11-25T13:57:51+05:30",
  "articles": [
+  {
+   "id": "brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25",
+   "category": "State & Local",
+   "sub": "Uttar Pradesh",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T13:54:01+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोंडा की रामकथा में ब्रजेश पाठक बोले — जब तक संत हैं, सनातन का झंडा झुकने वाला नहीं",
+    "summary": "उत्तर प्रदेश के उप मुख्यमंत्री ब्रजेश पाठक गोंडा के जयप्रभा ग्राम में आयोजित श्रीराम कथा में शामिल हुए। मंच से उन्होंने कहा कि जब तक आलोक दास जी महाराज और राजन जी महाराज हैं, तब तक सनातन का झंडा झुकने वाला नहीं है। पत्रकारों से बातचीत में उन्होंने समाजवादी पार्टी पर तीखा हमला बोला और गोंडा के सीएमओ पर लगे आरोपों पर सख्त कार्रवाई का भरोसा दिया।"
+   },
+   "en": {
+    "title": "Brajesh Pathak at Gonda Ram Katha: 'As long as the saints are here, Sanatan's flag will not fall'",
+    "summary": "Uttar Pradesh Deputy Chief Minister Brajesh Pathak attended the Shri Ram Katha at Jayprabha village in Gonda, declaring from the stage that as long as the saints are here, Sanatan's flag will never fall. Speaking to reporters, he attacked the Samajwadi Party and promised strict action on the allegations against Gonda's Chief Medical Officer."
+   }
+  },
+  {
+   "id": "delhi-high-court-refuses-kartarpur-corridor-reopen-november-25",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T13:54:01+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-high-court-refuses-kartarpur-corridor-reopen-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-refuses-kartarpur-corridor-reopen-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-refuses-kartarpur-corridor-reopen-november-25-en.mp3",
+   "hi": {
+    "title": "करतारपुर कॉरिडोर: दिल्ली हाई कोर्ट ने खोलने का निर्देश देने से इनकार किया, कहा — यह नीतिगत फैसला है",
+    "summary": "दिल्ली हाई कोर्ट ने बुधवार को करतारपुर कॉरिडोर को फिर से खोलने का निर्देश देने की मांग वाली याचिका पर विचार करने से इनकार कर दिया। खंडपीठ ने कहा कि पहलगाम आतंकी हमले के बाद कॉरिडोर बंद करना नागरिकों के हित में लिया गया नीतिगत फैसला है, इसलिए इसमें दखल की कोई वजह नहीं है।"
+   },
+   "en": {
+    "title": "Kartarpur Corridor: Delhi High Court refuses to order reopening, calls closure a policy decision",
+    "summary": "The Delhi High Court on Wednesday refused to entertain a petition seeking directions to reopen the Kartarpur Corridor. The bench said closing the corridor after the Pahalgam terror attack was a policy decision taken in the interest of citizens, so there was no reason to interfere with it."
+   }
+  },
   {
    "id": "archbishop-thomas-menamparampil-dies-90-guwahati-november-25",
    "category": "Dharm-Astrology",
@@ -2407,12 +2451,12 @@
    "district": "Bokaro",
    "state": "Jharkhand",
    "en": {
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
    },
    "hi": {
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
    }
   },
   {
@@ -2750,13 +2794,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
    },
    "featured": false,
    "hi": {
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3255,50 +3299,6 @@
    "en": {
     "title": "Trailer overturns and catches fire near Bhim in Rajsamand, 1 dead; driver and helper pulled from cabin with JCB",
     "summary": "A trailer overturned and caught fire near Malayathadi on National Highway 58 in Bhim subdivision of Rajsamand district late on Monday night. One person died of burn injuries, while another was seriously injured."
-   }
-  },
-  {
-   "id": "kolkata-dhakuria-car-rams-footpath-seven-injured-november-24",
-   "category": "State & Local",
-   "sub": "West Bengal",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T09:46:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-en.mp3",
-   "hi": {
-    "title": "ढाकुरिया में बेकाबू कार फुटपाथ पर चढ़ी, 7 लोग घायल; 4 की हालत गंभीर, चालक हिरासत में",
-    "summary": "कोलकाता के ढाकुरिया स्टेशन के पास सोमवार रात एक तेज रफ्तार कार नियंत्रण खोकर फुटपाथ पर चढ़ गई। हादसे में कम से कम 7 लोग घायल हो गए, जिनमें 4 की हालत गंभीर है। पुलिस ने गाड़ी जब्त कर ली है और चालक को हिरासत में ले लिया है।"
-   },
-   "en": {
-    "title": "Speeding car mounts footpath near Dhakuria station in Kolkata, 7 injured; 4 critical, driver detained",
-    "summary": "A speeding car lost control and mounted a footpath near Dhakuria station in Kolkata late on Monday night. At least 7 people were injured, 4 of them critically. Police have seized the car and detained the driver."
-   },
-   "district": "Kolkata",
-   "state": "West Bengal"
-  },
-  {
-   "id": "gukesh-sindarov-world-chess-championship-game-1-geneva-november-24",
-   "category": "Cricket & Sports",
-   "sub": "Chess",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T09:46:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-sindarov-world-chess-championship-game-1-geneva-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-world-chess-championship-game-1-geneva-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-world-chess-championship-game-1-geneva-november-24-en.mp3",
-   "hi": {
-    "title": "गुकेश बनाम सिंदारोव: विश्व शतरंज चैंपियनशिप का पहला गेम आज रात, 7:30 बजे से मुकाबला",
-    "summary": "भारत के विश्व चैंपियन डी गुकेश आज रात जिनेवा में उज़्बेकिस्तान के जावोखिर सिंदारोव के खिलाफ विश्व शतरंज चैंपियनशिप के पहले गेम में उतरेंगे। 14 गेम की इस सीरीज़ में जो पहले 7.5 अंक बनाएगा, वही विश्व चैंपियन बनेगा।"
-   },
-   "en": {
-    "title": "Gukesh vs Sindarov: World Chess Championship Game 1 tonight at 7:30 pm IST in Geneva",
-    "summary": "Defending champion D. Gukesh takes on Uzbekistan's Javokhir Sindarov in Game 1 of the World Chess Championship in Geneva tonight. The 14-game match will crown the first player to 7.5 points as world champion."
    }
   }
  ]
