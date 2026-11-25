@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T03:02:54+05:30",
+ "updatedAt": "2026-11-26T03:21:01+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Panchkula",
+   "en": {
+    "title": "Haryana panchayat accounts hit by suspected 100-crore cyber fraud; 8 arrested",
+    "summary": "More than 100 crore rupees is suspected to have been siphoned from Haryana panchayat accounts through unauthorised transactions, barely 5 months after the accounts moved to Punjab National Bank. The Cyber Crime Wing has arrested 8 people and frozen accounts holding the suspected proceeds."
+   },
+   "featured": false,
+   "hi": {
+    "title": "हरियाणा की पंचायतों के खातों से 100 करोड़ से ज्यादा की संदिग्ध निकासी, 8 गिरफ्तार",
+    "summary": "हरियाणा की पंचायतों के खातों से अनधिकृत लेनदेन के जरिए 100 करोड़ रुपये से ज्यादा की रकम निकाले जाने की आशंका है। खाते पंजाब नेशनल बैंक में आए महज 5 महीने हुए हैं। साइबर क्राइम विंग ने 8 लोगों को गिरफ्तार किया है और संदिग्ध रकम वाले खाते फ्रीज कर दिए हैं।"
+   },
+   "id": "haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26",
+   "source": "PrimeFeed Desk",
+   "state": "Haryana",
+   "sub": "Cyber Crime",
+   "trending": true,
+   "publishedAt": "2026-11-26T03:15:40+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": null,
+   "en": {
+    "title": "Supreme Court reserves verdict on Rajoana plea to commute death sentence in Beant Singh case",
+    "summary": "The Supreme Court has reserved its verdict on Balwant Singh Rajoana's plea to commute his death sentence to life imprisonment, citing the 13-year delay in deciding his mercy petition in the 1995 assassination of former Punjab chief minister Beant Singh."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बेअंत सिंह हत्याकांड: राजोआना की मौत की सजा कम करने की याचिका पर सुप्रीम कोर्ट ने फैसला सुरक्षित रखा",
+    "summary": "सुप्रीम कोर्ट ने बलबंत सिंह राजोआना की मौत की सजा को आजीवन कारावास में बदलने की याचिका पर फैसला सुरक्षित रख लिया है। राजोआना ने 2012 से लंबित दया याचिका पर निर्णय में 13 साल की देरी का हवाला दिया है।"
+   },
+   "id": "supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "Courts",
+   "trending": true,
+   "publishedAt": "2026-11-26T03:15:40+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3269,48 +3315,6 @@
    "hi": {
     "title": "बंगाल की खाड़ी में 19 नवंबर से लापता आंध्र प्रदेश के 7 मछुआरे, पारादीप के पास तटरक्षक बल औार नौसेना की तलाश",
     "summary": "आंध्र प्रदेश के काकीनाडा जिले के उप्पाडा के 7 मछुआरे 19 नवंबर से समुद्र में लापता हैं। उनकी मोटरचालित मछली नाव का ओडिशा के पारादीप बंदरगाह के पास संपर्क टूट गया था। तटरक्षक बल औार नौसेना जहाजों औार हेलीकॉप्टर से पारादीप के पास समुद्र में तलाश कर रहे हैं, औार बांग्लादेश औार म्यांमार के तटरक्षक बलों को भी सतर्क कर दिया गया है।"
-   }
-  },
-  {
-   "id": "samajwadi-party-first-list-five-candidates-up-polls-2027-november-24",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T00:44:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/samajwadi-party-first-list-five-candidates-up-polls-2027-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-first-list-five-candidates-up-polls-2027-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-first-list-five-candidates-up-polls-2027-november-24-en.mp3",
-   "en": {
-    "title": "SP names first 5 candidates for 2027 UP polls, fields own MLAs on 2 seats Congress had sought",
-    "summary": "The Samajwadi Party has announced its first list of five candidates for the 2027 Uttar Pradesh Assembly elections, naming sitting MLAs in Behat, Saharanpur, Kairana, Amroha and Lalitpur. Two of the seats, Behat and Saharanpur, were among those the Congress had sought in the seat-sharing talks, and Congress leader Imran Masood has said he will field candidates against the SP in Saharanpur."
-   },
-   "hi": {
-    "title": "सपा ने 2027 के यूपी चुनाव के लिए पहली सूची में 5 उम्मीदवार घोषित किए, कांग्रेस की मांग वाली 2 सीटों पर अपने विधायक उतारे",
-    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए अपने पहले 5 उम्मीदवारों की सूची जारी कर दी है। बेहट, सहारनपुर, कैराना, अमरोहा औार ललितपुर से पार्टी के मौजूदा विधायक चुनाव लड़ेंगे। इनमें से 2 सीटें, बेहट औार सहारनपुर, वो हैं जिन्हें कांग्रेस ने सीट बंटवारे की बातचीत में मांगा था, औार कांग्रेस नेता इमरान मसूद ने कहा है कि वे सहारनपुर में सपा के खिलाफ अपने उम्मीदवार उतारेंगे।"
-   }
-  },
-  {
-   "id": "nato-awacs-aircraft-poland-russian-missiles-november-24",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T00:17:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nato-awacs-aircraft-poland-russian-missiles-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nato-awacs-aircraft-poland-russian-missiles-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nato-awacs-aircraft-poland-russian-missiles-november-24-en.mp3",
-   "en": {
-    "title": "NATO to deploy AWACS early-warning aircraft to Poland after Russian missiles land on its soil",
-    "summary": "NATO will send an AWACS early-warning aircraft to Poland after three Russian Kh-101 cruise missiles landed on Polish territory on 20 November. The decision was taken at an extraordinary meeting of the North Atlantic Council in Brussels on Monday, and NATO's supreme commander in Europe has authorised the deployment."
-   },
-   "hi": {
-    "title": "रूसी मिसाइलें गिरने के बाद NATO पोलैंड में तैनात करेगा AWACS निगरानी विमान",
-    "summary": "20 नवंबर को 3 रूसी Kh-101 क्रूज़ मिसाइलों के पोलैंड में गिरने के बाद NATO पोलैंड को एक AWACS निगरानी विमान देगा। सोमवार को ब्रसेल्स में नॉर्थ अटलांटिक काउंसिल की आपात बैठक में यह फैसला लिया गया, और यूरोप में NATO के सर्वोच्च कमांडर ने तैनाती को मंज़ूरी दे दी है।"
    }
   }
  ]
