@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T12:32:55+05:30",
+ "updatedAt": "2026-11-25T12:53:11+05:30",
  "articles": [
+  {
+   "id": "eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T12:53:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported-en.mp3",
+   "district": "Cuttack",
+   "state": "Odisha",
+   "hi": {
+    "title": "कटक में आधी रात को लगी आग से 8 बसें जलकर खाक, कोई हताहत नहीं",
+    "summary": "ओडिशा के कटक में मंगलवार देर रात लिंक रोड के पास खड़ी 8 निजी बसों में आग लग गई। देखते ही देखते आग एक बस से दूसरी बस तक फैल गई और सभी 8 बसें जलकर खाक हो गईं। जिला अग्निशमन अधिकारी ने बताया कि हादसे में कोई हताहत नहीं हुआ है; आग लगने का कारण अभी पता नहीं चला है।"
+   },
+   "en": {
+    "title": "Eight buses gutted in midnight fire in Cuttack, no casualties reported",
+    "summary": "Eight private buses parked near OSL Tower on Link Road in Cuttack were gutted after a fire broke out late on Tuesday night. The blaze spread rapidly from one bus to another, destroying all eight. The district fire officer confirmed no casualties; the cause of the fire is still unknown."
+   }
+  },
+  {
+   "id": "dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T12:53:11+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each-en.mp3",
+   "district": "Kannur",
+   "state": "Kerala",
+   "hi": {
+    "title": "धनराज हत्याकांड: 3 दोषियों को उम्रकैद, 5-5 लाख जुर्माना, कोर्ट बोला, 'दया के हकदार नहीं'",
+    "summary": "केरल के कन्नूर जिले के पय्यन्नूर में 2016 में सीपीएम नेता सी. वी. धनराज की हत्या के मामले में तलिपरंबा की अदालत ने 3 दोषियों को उम्रकैद की सजा सुनाई है। तीनों पर 5-5 लाख रुपये का जुर्माना भी लगाया गया है। कोर्ट ने कहा कि दोषी दया के हकदार नहीं हैं।"
+   },
+   "en": {
+    "title": "Dhanaraj murder case: Three convicts get life term and Rs 5 lakh fine each — 'accused don't deserve mercy,' says court",
+    "summary": "A court in Taliparamba, Kerala, has sentenced three men convicted of murdering CPI(M) leader C. V. Dhanaraj in Payyannur in 2016 to life imprisonment, with a fine of ₹5 lakh each. Pronouncing the sentence, the court said the accused 'do not deserve mercy.'"
+   }
+  },
   {
    "id": "jalgaon-family-six-thrown-into-canal-surat-three-dead-november-25",
    "category": "Crime & Law",
@@ -3247,52 +3293,6 @@
    "en": {
     "title": "Sonia Gandhi gets legal notice over Savarkar remarks in memoir; apology and corrections sought in 15 days",
     "summary": "Satyaki Savarkar, a descendant of VD Savarkar, has sent a legal notice to Congress leader Sonia Gandhi over references to the Hindutva ideologue in her memoir 'Belonging: A Journey of Love'. The notice demands an unconditional apology and corrections, warning of a petition in Pune District Court if she does not respond in 15 days."
-   }
-  },
-  {
-   "id": "kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T08:54:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24-en.mp3",
-   "district": "Kannauj",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "कन्नौज: पिकनिक जा रही स्कूली बस को ट्रक ने मारी टक्कर, 4 बच्चों की मौत; 20 घायल",
-    "summary": "मंगलवार सुबह करीब 6 बजे लखनऊ-आगरा एक्सप्रेसवे पर किलोमीटर 210 के पास कौशांबी के ओरिएंटल पब्लिक स्कूल की बस खड़ी थी, तभी आलू लदे ट्रक ने उसे टक्कर मार दी। हादसे में 4 बच्चों की मौत हो गई और 20 घायल हो गए, जिन्हें राजकीय मेडिकल कॉलेज में भर्ती कराया गया है।"
-   },
-   "en": {
-    "title": "Truck rams picnic-bound school bus on Lucknow-Agra Expressway in Kannauj; four children killed, 20 injured",
-    "summary": "Around 6 am on Tuesday, a potato-laden truck rammed a stationary bus of Kaushambi's Oriental Public School near milestone 210 on the Lucknow-Agra Expressway in Kannauj. Four children were killed and 20 injured; the injured have been admitted to a Government Medical College."
-   }
-  },
-  {
-   "id": "balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T08:54:05+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24-en.mp3",
-   "district": "Balangir",
-   "state": "Odisha",
-   "hi": {
-    "title": "बालांगीर धनु यात्रा में हाथी ने महावत को कुचलकर मार डाला, उत्सव रद्द",
-    "summary": "बांगोमुंडा में 40वीं धनु यात्रा महोत्सव की पहली रात प्रयागराज के 61 वर्षीय महावत कल्पनाथ दुबे को उसी हाथी ने कुचल दिया, जिसे वह उत्सव के लिए उत्तर प्रदेश से लाए थे। प्रशासन ने उत्सव को अगले आदेश तक रद्द कर दिया है और वन विभाग व पुलिस जांच कर रहे हैं।"
-   },
-   "en": {
-    "title": "Elephant tramples mahout to death at Balangir's Dhanu Yatra; festival suspended",
-    "summary": "On the opening night of the 40th Bangomunda Dhanu Yatra Mahotsav, 61-year-old mahout Kalpanath Dubey of Prayagraj was trampled by the elephant he had brought from Uttar Pradesh for the festival. The administration has suspended the festival until further orders, and the Forest Department and police are investigating."
    }
   }
  ]
