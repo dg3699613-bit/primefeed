@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T05:58:24+05:30",
+ "updatedAt": "2026-11-25T06:25:40+05:30",
  "articles": [
+  {
+   "id": "kota-jk-lon-hospital-maternal-deaths-35-days",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T06:25:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kota-jk-lon-hospital-maternal-deaths-35-days.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-jk-lon-hospital-maternal-deaths-35-days-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-jk-lon-hospital-maternal-deaths-35-days-en.mp3",
+   "district": "Kota",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "कोटा के जेके लोन अस्पताल में 35 दिन में 8 मौतें, डरी महिलाएं अब प्राइवेट अस्पताल चुन रही हैं",
+    "summary": "कोटा के जेके लोन अस्पताल और मेडिकल कॉलेज के नए अस्पताल में 35 दिन में 8 मरीज़ों की मौत हो चुकी है, जिनमें 7 महिलाएं ऐसी हैं जिनकी हाल ही में डिलीवरी हुई थी। ताज़ा मौत मध्य प्रदेश के श्योपुर से रेफर की गई 29 साल की महिला की गुरुवार रात हुई, करीब 7 घंटे के इलाज के बाद। इस साल के आंकड़े को लेकर मतभेद है — रिपोर्टों में करीब 30 मौतें, जबकि प्रशासन के रिकॉर्ड में सिर्फ 13 — और डरी महिलाएं अब भारी बिल के बावजूद प्राइवेट अस्पताल चुन रही हैं।"
+   },
+   "en": {
+    "title": "8 deaths in 35 days at Kota's JK Lon Hospital, and frightened families now choose private hospitals",
+    "summary": "Eight patients have died in 35 days at Kota's JK Lon Hospital and the medical college's new hospital — 7 of them women who had recently given birth. The latest, a 29-year-old referred from Sheopur in Madhya Pradesh, died on Thursday night after nearly 7 hours of treatment. With the toll this year disputed — around 30 deaths by reports against 13 in official records — frightened families are now choosing private hospitals despite the heavy bills."
+   }
+  },
+  {
+   "id": "cia-odni-unclassified-system-breach-cyberattack",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T06:25:40+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cia-odni-unclassified-system-breach-cyberattack.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cia-odni-unclassified-system-breach-cyberattack-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cia-odni-unclassified-system-breach-cyberattack-en.mp3",
+   "hi": {
+    "title": "सीआईए और ओडीएनआई की गैर-गोपनीय खुफिया प्रणाली में साइबर हमला, गोपनीय डेटा सुरक्षित; हमलावर अज्ञात",
+    "summary": "हैकरों ने सीआईए और ऑफिस ऑफ द डायरेक्टर ऑफ नेशनल इंटेलिजेंस की एक गैर-गोपनीय कंप्यूटर प्रणाली में सेंध लगा दी है, जिसका इस्तेमाल सार्वजनिक रूप से उपलब्ध जानकारियों के विश्लेषण के लिए किया जाता है। न्यूयॉर्क टाइम्स ने मंगलवार को इस घटना की खबर सबसे पहले दी थी। कुछ गैर-गोपनीय जानकारी सामने आई है, लेकिन कोई गोपनीय सामग्री प्रभावित नहीं हुई और समस्या सुलझा ली गई है। हमले के पीछे कौन था, यह अभी पता नहीं है।"
+   },
+   "en": {
+    "title": "CIA and ODNI's unclassified intelligence system breached in cyberattack; no classified data hit, attacker unknown",
+    "summary": "Hackers have broken into an unclassified computer system used by the CIA and the Office of the Director of National Intelligence to analyse publicly available information, the New York Times reported on Tuesday. Some unclassified information was exposed, but no classified material was compromised and the issue has been resolved, people familiar with the incident said. Who was behind the breach is not yet known."
+   }
+  },
   {
    "id": "rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24",
    "category": "Weather",
@@ -3243,50 +3287,6 @@
    "en": {
     "title": "Navy, Coast Guard to get 76 new helicopters in ₹15,000 crore deal to replace ageing Cheetah-Chetak fleet",
     "summary": "The Indian Navy and the Coast Guard will get 76 new utility helicopters in a deal worth around ₹15,000 crore, replacing their ageing Cheetah and Chetak fleets. The Navy will take 51 helicopters and the Coast Guard 25, with the aircraft built in India under the Buy and Make (Indian) route."
-   }
-  },
-  {
-   "id": "bigg-boss-20-week-12-nominations-six-housemates-eviction-november-23",
-   "category": "Entertainment",
-   "sub": "TV",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:01:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-20-week-12-nominations-six-housemates-eviction-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-week-12-nominations-six-housemates-eviction-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-20-week-12-nominations-six-housemates-eviction-november-23-en.mp3",
-   "hi": {
-    "title": "बिग बॉस 20 वीक 12: 6 कंटेस्टेंट नॉमिनेट, स्काउट, लव गिल और माही विज समेत टॉप 10 की रेस कड़ी",
-    "summary": "बिग बॉस 20 के 12वें हफ्ते में 6 कंटेस्टेंट — स्काउट ओपी, लव गिल, माही विज, आम्रपाली दुबे, कनिका मान और गुल्लू — नॉमिनेट हो गए हैं। मनीष गोयल के मेडिकल कारणों से बाहर होने के बाद शो में टॉप 10 बचे हैं, और इस हफ्ते युंग डीएसए, अरिश्फा खान, काजी तौकीर और कप्तान उदिति सिंह सुरक्षित हैं।"
-   },
-   "en": {
-    "title": "Bigg Boss 20 Week 12: Six housemates nominated as top-10 race tightens — Scout, Love Gill, Mahhi Vij at risk",
-    "summary": "Six housemates — Scout OP, Love Gill, Mahhi Vij, Aamrapali Dubey, Kanika Mann and Gullu — have been nominated for eviction in Week 12 of Bigg Boss 20, days after Manish Goel's medical exit left the show with its top 10. Yung DSA, Arishfa Khan, Qazi Touqeer and captain Uditi Singh are safe this week."
-   }
-  },
-  {
-   "id": "manipur-cm-meets-anal-csos-liquor-tragedy-sit-aid-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T02:50:13+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Chandel",
-   "state": "Manipur",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-cm-meets-anal-csos-liquor-tragedy-sit-aid-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-cm-meets-anal-csos-liquor-tragedy-sit-aid-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-cm-meets-anal-csos-liquor-tragedy-sit-aid-november-23-en.mp3",
-   "hi": {
-    "title": "मणिपुर जहरीली शराब त्रासदी: मुख्यमंत्री ने अनल संगठनों से मुलाकात की, 17 मौतों पर मदद का भरोसा, जाँच के लिए एसआईटी",
-    "summary": "मुख्यमंत्री युम्नाम खेमचंद सिंह ने सोमवार को जहरीली शराब त्रासदी पर अनल आदिवासी संगठनों से मुलाकात की, जिसमें 17 लोगों की मौत हुई है। उन्होंने पीड़ित परिवारों को हर संभव मदद का भरोसा दिया; विशेष जाँच दल और उच्च स्तरीय जाँच समिति मामले की जाँच कर रही है।"
-   },
-   "en": {
-    "title": "Manipur spurious liquor tragedy: CM meets Anal bodies, assures help as toll stays at 17; SIT and month-long probe under way",
-    "summary": "Manipur Chief Minister Yumnam Khemchand Singh on Monday met Anal tribal organisations over the spurious liquor tragedy that has killed 17 people, and assured all possible help to the victims' families as a Special Investigation Team and a high-level enquiry committee probe the case."
    }
   }
  ]
