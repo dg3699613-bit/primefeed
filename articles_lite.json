@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T17:22:29+05:30",
+ "updatedAt": "2026-11-25T17:38:28+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Dharm-Astrology",
+   "district": "Puri",
+   "en": {
+    "title": "Puri: Counting of valuables in Jagannath Temple's inner Ratna Bhandar resumes on November 26 and 27; darshan only from Bahara Katha",
+    "summary": "The remaining inventory and valuation of ornaments in the inner Ratna Bhandar of Puri's Shree Jagannath Temple will resume on November 26 and 27, the district Collector announced on Wednesday. Devotees will have darshan only from the Bahara Katha on both days."
+   },
+   "featured": false,
+   "hi": {
+    "title": "पुरी: श्री जगन्नाथ मंदिर के रत्न भंडार की गिनती 26 और 27 नवंबर को फिर शुरू होगी, दर्शन बाहरा कथा से ही होंगे",
+    "summary": "पुरी के श्री जगन्नाथ मंदिर के भीतरी रत्न भंडार में बचे हुए आभूषणों की गिनती और मूल्यांकन 26 और 27 नवंबर को फिर शुरू होगा। जिलाधिकारी ने बुधवार को इसकी घोषणा की; 2 दिन तक श्रद्धालु बाहरा कथा से ही दर्शन कर सकेंगे।"
+   },
+   "id": "ratna-bhandar-inventory-resumes-puri-november-26-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Odisha",
+   "sub": "Mandir & Teerth",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:34:09+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ratna-bhandar-inventory-resumes-puri-november-26-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ratna-bhandar-inventory-resumes-puri-november-26-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ratna-bhandar-inventory-resumes-puri-november-26-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "UP 2027: BJP's CM face will be decided by MLAs after polls, says Keshav Maurya; Yogi says 'everyone knows who is who'",
+    "summary": "Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya said on Wednesday that the BJP will contest the 2027 Assembly elections on its lotus symbol and that the chief minister will be chosen by the MLAs elected after the polls. Chief Minister Yogi Adityanath said the lotus was everything for the party and that 'everyone knows who is who'."
+   },
+   "featured": false,
+   "hi": {
+    "title": "यूपी 2027: मौर्य बोले, चुनाव के बाद विधायक चुनेंगे मुख्यमंत्री; योगी बोले, कौन क्या है, यह सबको पता है",
+    "summary": "उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने बुधवार को कहा कि 2027 के विधानसभा चुनाव में भाजपा कमल के फूल पर लड़ेगी और मुख्यमंत्री का फैसला चुनाव के बाद चुने गए विधायक करेंगे। मुख्यमंत्री योगी आदित्यनाथ ने भी साफ कहा कि कमल ही सबकुछ है और कौन क्या है, यह सबको पता है।"
+   },
+   "id": "keshav-maurya-yogi-cm-face-up-2027-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Elections",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:34:09+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/keshav-maurya-yogi-cm-face-up-2027-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/keshav-maurya-yogi-cm-face-up-2027-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/keshav-maurya-yogi-cm-face-up-2027-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "State & Local",
@@ -3249,52 +3293,6 @@
    "en": {
     "title": "Bomb threat emailed over Diljit Dosanjh's Bengaluru concert on November 29, FIR filed; message ended with 'Khalistan Zindabad'",
     "summary": "Bengaluru police have registered an FIR against unidentified persons over an email threatening an IED blast at singer Diljit Dosanjh's concert on November 29 at NICE Grounds in Madavara. The email also targeted the nearby Madavara Metro station and ended with the slogan 'Khalistan Zindabad'."
-   }
-  },
-  {
-   "id": "palakkad-school-firing-class-9-student-injured-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:35:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/palakkad-school-firing-class-9-student-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/palakkad-school-firing-class-9-student-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/palakkad-school-firing-class-9-student-injured-november-24-en.mp3",
-   "district": "Palakkad",
-   "state": "Kerala",
-   "hi": {
-    "title": "पालक्काड: क्लास में सहपाठी की बंदूक से गोली चली, 9वीं के छात्र के कंधे में लगी",
-    "summary": "पालक्काड के पल्लिप्पुरम स्थित परुथुर हायर सेकेंडरी स्कूल में मंगलवार सुबह क्लास के दौरान एक छात्र की देशी बंदूक से गोली चल गई। 9वीं के एक छात्र के कंधे के पास गोली लगी; उसे कोट्टक्कल के निजी अस्पताल में भर्ती कराया गया है। पुलिस ने बंदूक कब्जे में लेकर जाँच शुरू कर दी है।"
-   },
-   "en": {
-    "title": "Class 9 student shot in Palakkad classroom as classmate's country-made gun goes off",
-    "summary": "A Class 9 student was shot inside his classroom at Paruthur Higher Secondary School in Pallippuram, Palakkad, on Tuesday morning after a country-made gun brought by a classmate went off. The bullet hit him near the shoulder; he has been admitted to a private hospital in Kottakkal. Police have seized the gun and begun an investigation."
-   }
-  },
-  {
-   "id": "satna-car-drags-bike-100-metres-three-killed-november-24",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:35:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/satna-car-drags-bike-100-metres-three-killed-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/satna-car-drags-bike-100-metres-three-killed-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/satna-car-drags-bike-100-metres-three-killed-november-24-en.mp3",
-   "district": "Satna",
-   "state": "Madhya Pradesh",
-   "hi": {
-    "title": "सतना: तेज रफ्तार कार ने बाइक को 100 मीटर घसीटा, जीजा-साले समेत 3 की मौत",
-    "summary": "सतना में मंगलवार तड़के तेज रफ्तार कार ने बाइक को टक्कर मार दी और उसे करीब 100 मीटर तक घसीटती हुई बिजली के खंभे से जा टकराई। हादसे में 3 युवकों की मौत हो गई — 2 ने मौके पर दम तोड़ा, तीसरे की अस्पताल ले जाते समय मौत हुई। तीनों शादी समारोह से लौट रहे थे।"
-   },
-   "en": {
-    "title": "Speeding car drags bike 100 metres in Satna, three men returning from wedding killed",
-    "summary": "A speeding car hit a motorcycle in Satna in the early hours of Tuesday and dragged it nearly 100 metres before crashing into an electricity pole, killing three young men. Two died on the spot and the third died on the way to hospital. All three were returning from a wedding."
    }
   }
  ]
