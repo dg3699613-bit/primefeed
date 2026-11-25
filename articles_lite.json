@@ -1,18 +1,60 @@
 {
- "updatedAt": "2026-11-26T00:13:49+05:30",
+ "updatedAt": "2026-11-26T00:24:59+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "North Korea expels Swiss envoy, orders diplomatic office shut within 48 hours in sanctions row",
+    "summary": "North Korea has ordered the head of Switzerland's diplomatic office in Pyongyang to leave the country within 48 hours and demanded the office close, in retaliation for Swiss sanctions on a children's camp accused of links to Russia's war in Ukraine. The office had reopened only last month."
+   },
+   "featured": false,
+   "hi": {
+    "title": "उत्तर कोरिया ने स्विस राजनयिक को देश से निकाला, 48 घंटों में कार्यालय बंद करने का आदेश",
+    "summary": "उत्तर कोरिया ने प्योंगयांग में स्विट्ज़रलैंड के राजनयिक कार्यालय के प्रमुख को 48 घंटों के भीतर देश छोड़ने का आदेश दिया है और कार्यालय बंद करने की माँग की है। यह कदम रूस के यूक्रेन युद्ध से जुड़े एक बच्चों के शिविर पर लगे स्विस प्रतिबंधों के जवाब में उठाया गया है। यह कार्यालय सिर्फ पिछले महीने ही फिर से खुला था।"
+   },
+   "id": "north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours",
+   "source": "PrimeFeed Desk",
+   "sub": "Asia",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:17:22+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "en": {
+    "title": "Gukesh and Sindarov draw Game 2 in just 20 moves; World Chess Championship level at 1-1",
+    "summary": "World champion D Gukesh played the London System with White in Game 2 of the World Chess Championship in Geneva on Wednesday, but challenger Javokhir Sindarov was fully prepared and the game ended in a 20-move draw by repetition. The match is level at 1-1 with 12 games to go."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गुकेश और सिंदारोव का दूसरा गेम सिर्फ 20 चालों में ड्रॉ; विश्व शतरंज चैंपियनशिप में स्कोर 1-1",
+    "summary": "विश्व चैंपियन डी गुकेश ने बुधवार को जिनेवा में विश्व शतरंज चैंपियनशिप के दूसरे गेम में सफ़ेद मोहरों से लंदन सिस्टम खेला, लेकिन चुनौती देने वाले जावोखिर सिंदारोव पूरी तैयारी के साथ आए थे और 20 चालों में एक ही स्थिति दोहराए जाने पर गेम ड्रॉ हो गया। अब स्कोर 1-1 है और 12 गेम बाकी हैं।"
+   },
+   "id": "gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1",
+   "source": "PrimeFeed Desk",
+   "sub": "Chess",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:17:22+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
    "district": "Bengaluru Urban",
    "en": {
-    "summary": "The woman who accused BJP MLA Munirathna of rape in 2020 has filed a fresh complaint at Bengaluru's Yeshwanthpur police station, alleging that the MLA publicly identified her and made derogatory remarks to stop her testifying in the ongoing trial. Police have registered a case and begun an investigation.",
-    "title": "Fresh complaint against BJP MLA Munirathna: rape case complainant alleges intimidation to stop her testifying"
+    "title": "Fresh complaint against BJP MLA Munirathna: rape case complainant alleges intimidation to stop her testifying",
+    "summary": "The woman who accused BJP MLA Munirathna of rape in 2020 has filed a fresh complaint at Bengaluru's Yeshwanthpur police station, alleging that the MLA publicly identified her and made derogatory remarks to stop her testifying in the ongoing trial. Police have registered a case and begun an investigation."
    },
    "featured": false,
    "hi": {
-    "summary": "2020 में दुष्कर्म का आरोप लगाने वाली महिला ने बेंगलुरु के यशवंतपुर थाने में नई शिकायत दर्ज कराई है। उनका आरोप है कि विधायक मुनिरथ्ना सार्वजनिक तौर पर उनकी पहचान उजागर कर अपमानजनक टिप्पणियां कर रहे हैं, ताकि वह चल रहे मुकदमे में गवाही न दे सकें। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।",
-    "title": "भाजपा विधायक मुनिरथ्ना के खिलाफ नई शिकायत: दुष्कर्म मामले की शिकायतकर्ता ने गवाही रोकने के लिए धमकाने का आरोप लगाया"
+    "title": "भाजपा विधायक मुनिरथ्ना के खिलाफ नई शिकायत: दुष्कर्म मामले की शिकायतकर्ता ने गवाही रोकने के लिए धमकाने का आरोप लगाया",
+    "summary": "2020 में दुष्कर्म का आरोप लगाने वाली महिला ने बेंगलुरु के यशवंतपुर थाने में नई शिकायत दर्ज कराई है। उनका आरोप है कि विधायक मुनिरथ्ना सार्वजनिक तौर पर उनकी पहचान उजागर कर अपमानजनक टिप्पणियां कर रहे हैं, ताकि वह चल रहे मुकदमे में गवाही न दे सकें। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।"
    },
    "id": "munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25",
    "source": "PrimeFeed Desk",
@@ -30,13 +72,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "Only around 3.5 lakh Form 6 applications came in by the end of the claims and objections period on Wednesday, against 47.5 lakh names dropped from the draft roll published on August 31. The final electoral roll is due on December 22.",
-    "title": "Delhi SIR: Nearly 44 lakh voters may stay off final roll as claims window closes"
+    "title": "Delhi SIR: Nearly 44 lakh voters may stay off final roll as claims window closes",
+    "summary": "Only around 3.5 lakh Form 6 applications came in by the end of the claims and objections period on Wednesday, against 47.5 lakh names dropped from the draft roll published on August 31. The final electoral roll is due on December 22."
    },
    "featured": false,
    "hi": {
-    "summary": "बुधवार को दावे और आपत्ति की अवधि खत्म होने तक सिर्फ करीब 3.5 लाख फॉर्म 6 आवेदन मिले, जबकि 31 अगस्त को जारी मसौदा सूची से 47.5 लाख नाम हटाए गए थे। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी।",
-    "title": "दिल्ली एसआईआर: 44 लाख मतदाता अंतिम सूची से बाहर रह सकते हैं, दावे-आपत्ति की अवधि खत्म"
+    "title": "दिल्ली एसआईआर: 44 लाख मतदाता अंतिम सूची से बाहर रह सकते हैं, दावे-आपत्ति की अवधि खत्म",
+    "summary": "बुधवार को दावे और आपत्ति की अवधि खत्म होने तक सिर्फ करीब 3.5 लाख फॉर्म 6 आवेदन मिले, जबकि 31 अगस्त को जारी मसौदा सूची से 47.5 लाख नाम हटाए गए थे। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी।"
    },
    "id": "delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25.jpg",
@@ -51,13 +93,13 @@
    "breaking": true,
    "category": "World",
    "en": {
-    "summary": "The US Virtual Embassy in Iran issued a security alert after Tehran attacked American assets in Bahrain and Kuwait and Houthi forces struck a tower in Riyadh's financial district, wounding 11 people.",
-    "title": "US tells citizens to leave Iran immediately, warns hostilities could escalate fast"
+    "title": "US tells citizens to leave Iran immediately, warns hostilities could escalate fast",
+    "summary": "The US Virtual Embassy in Iran issued a security alert after Tehran attacked American assets in Bahrain and Kuwait and Houthi forces struck a tower in Riyadh's financial district, wounding 11 people."
    },
    "featured": true,
    "hi": {
-    "summary": "तेहरान के बहरीन और कुवैत में अमेरिकी ठिकानों पर हमले और हूती विद्रोहियों के रियाद के वित्तीय ज़िले में टावर पर हमले, जिसमें 11 लोग घायल हुए, के बाद ईरान में अमेरिकी वर्चुअल दूतावास ने सुरक्षा चेतावनी जारी की है।",
-    "title": "अमेरिका ने अपने नागरिकों से कहा, ईरान तुरंत छोड़ दें, तनाव तेजी से बढ़ सकता है"
+    "title": "अमेरिका ने अपने नागरिकों से कहा, ईरान तुरंत छोड़ दें, तनाव तेजी से बढ़ सकता है",
+    "summary": "तेहरान के बहरीन और कुवैत में अमेरिकी ठिकानों पर हमले और हूती विद्रोहियों के रियाद के वित्तीय ज़िले में टावर पर हमले, जिसमें 11 लोग घायल हुए, के बाद ईरान में अमेरिकी वर्चुअल दूतावास ने सुरक्षा चेतावनी जारी की है।"
    },
    "id": "us-tells-citizens-leave-iran-immediately-november-25",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-tells-citizens-leave-iran-immediately-november-25.jpg",
@@ -70,13 +112,13 @@
    "breaking": false,
    "category": "Entertainment",
    "en": {
-    "summary": "A public interest litigation filed in Ranchi seeks the removal of allegedly controversial scenes from the film Ramayana and a stay on its screening and broadcast until the disputed portions are deleted. The petitioner alleges the film departs from the Valmiki Ramayana and gives Ravana greater prominence than Lord Rama.",
-    "title": "PIL in Jharkhand High Court seeks stay on Ramayana screenings, 50% of earnings for Ram Temple Trust"
+    "title": "PIL in Jharkhand High Court seeks stay on Ramayana screenings, 50% of earnings for Ram Temple Trust",
+    "summary": "A public interest litigation filed in Ranchi seeks the removal of allegedly controversial scenes from the film Ramayana and a stay on its screening and broadcast until the disputed portions are deleted. The petitioner alleges the film departs from the Valmiki Ramayana and gives Ravana greater prominence than Lord Rama."
    },
    "featured": false,
    "hi": {
-    "summary": "रांची में दाखिल जनहित याचिका में फिल्म रामायण के विवादित दृश्यों को हटाने और उन्हें हटाए जाने तक स्क्रीनिंग व प्रसारण पर रोक की माँग की गई है। याचिकाकर्ता का आरोप है कि फिल्म में वाल्मीकि रामायण से हटकर दृश्य दिखाए गए हैं और रावण को भगवान राम से ज़्यादा प्रमुखता दी गई है।",
-    "title": "रामायण की स्क्रीनिंग पर रोक की माँग: झारखंड हाई कोर्ट में जनहित याचिका, कमाई का 50% राम मंदिर ट्रस्ट को देने की भी माँग"
+    "title": "रामायण की स्क्रीनिंग पर रोक की माँग: झारखंड हाई कोर्ट में जनहित याचिका, कमाई का 50% राम मंदिर ट्रस्ट को देने की भी माँग",
+    "summary": "रांची में दाखिल जनहित याचिका में फिल्म रामायण के विवादित दृश्यों को हटाने और उन्हें हटाए जाने तक स्क्रीनिंग व प्रसारण पर रोक की माँग की गई है। याचिकाकर्ता का आरोप है कि फिल्म में वाल्मीकि रामायण से हटकर दृश्य दिखाए गए हैं और रावण को भगवान राम से ज़्यादा प्रमुखता दी गई है।"
    },
    "id": "ramayana-pil-jharkhand-high-court-stay-screening-november-25",
    "source": "PrimeFeed Desk",
@@ -91,13 +133,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "summary": "Ukraine's General Staff said its forces struck Russia's Savasleyka military airfield in the Nizhny Novgorod region on the night of November 24-25, hitting three MiG-31 jets and two Su-34 fighter-bombers. Russia did not immediately comment, and the extent of the damage has not been independently verified.",
-    "title": "Ukraine strikes Russia's Savasleyka air base, five warplanes hit; three MiG-31s and two Su-34s out of action for now"
+    "title": "Ukraine strikes Russia's Savasleyka air base, five warplanes hit; three MiG-31s and two Su-34s out of action for now",
+    "summary": "Ukraine's General Staff said its forces struck Russia's Savasleyka military airfield in the Nizhny Novgorod region on the night of November 24-25, hitting three MiG-31 jets and two Su-34 fighter-bombers. Russia did not immediately comment, and the extent of the damage has not been independently verified."
    },
    "featured": false,
    "hi": {
-    "summary": "यूक्रेन के जनरल स्टाफ़ ने कहा है कि 24 नवंबर की रात और 25 नवंबर की सुबह रूस के निज़नी नोवगोरोद इलाके में स्थित सवास्लेका सैन्य हवाई अड्डे पर हमले में 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त हो गए। रूस की ओर से इस पर अभी कोई टिप्पणी नहीं आई है, और नुकसान की सीमा की स्वतंत्र पुष्टि नहीं हुई है।",
-    "title": "यूक्रेन का रूस के सवास्लेका एयरबेस पर हमला: 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त, कुछ समय तक नहीं उड़ पाएँगे"
+    "title": "यूक्रेन का रूस के सवास्लेका एयरबेस पर हमला: 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त, कुछ समय तक नहीं उड़ पाएँगे",
+    "summary": "यूक्रेन के जनरल स्टाफ़ ने कहा है कि 24 नवंबर की रात और 25 नवंबर की सुबह रूस के निज़नी नोवगोरोद इलाके में स्थित सवास्लेका सैन्य हवाई अड्डे पर हमले में 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त हो गए। रूस की ओर से इस पर अभी कोई टिप्पणी नहीं आई है, और नुकसान की सीमा की स्वतंत्र पुष्टि नहीं हुई है।"
    },
    "id": "ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25",
    "source": "PrimeFeed Desk",
@@ -113,13 +155,13 @@
    "category": "State & Local",
    "district": "Pune",
    "en": {
-    "summary": "An Eicher tempo coming down the Bopdev Ghat slope in Pune hit a Hyundai car on Wednesday afternoon, then lost control and ploughed into students waiting at a bus stop near Garwa Hotel. Three Trinity College students were killed and two injured. The 22-year-old driver has been taken into custody.",
-    "title": "Out-of-control tempo rams into bus stop at Pune's Bopdev Ghat, 3 Trinity College students killed; 2 injured"
+    "title": "Out-of-control tempo rams into bus stop at Pune's Bopdev Ghat, 3 Trinity College students killed; 2 injured",
+    "summary": "An Eicher tempo coming down the Bopdev Ghat slope in Pune hit a Hyundai car on Wednesday afternoon, then lost control and ploughed into students waiting at a bus stop near Garwa Hotel. Three Trinity College students were killed and two injured. The 22-year-old driver has been taken into custody."
    },
    "featured": false,
    "hi": {
-    "summary": "बुधवार दोपहर पुणे के बोपदेव घाट में ढलान से उतर रहा एक आइशर टेंपो पहले हुंडई कार से टकराया, फिर नियंत्रण खोकर गरवा होटल के पास बस स्टॉप पर खड़े छात्रों में जा घुसा। हादसे में ट्रिनिटी कॉलेज के 3 छात्रों की मौत हो गई, 2 घायल हैं। 22 साल के ड्राइवर को हिरासत में ले लिया गया है।",
-    "title": "पुणे के बोपदेव घाट में बेकाबू टेंपो बस स्टॉप में घुसा, ट्रिनिटी कॉलेज के 3 छात्रों की मौत; 2 घायल"
+    "title": "पुणे के बोपदेव घाट में बेकाबू टेंपो बस स्टॉप में घुसा, ट्रिनिटी कॉलेज के 3 छात्रों की मौत; 2 घायल",
+    "summary": "बुधवार दोपहर पुणे के बोपदेव घाट में ढलान से उतर रहा एक आइशर टेंपो पहले हुंडई कार से टकराया, फिर नियंत्रण खोकर गरवा होटल के पास बस स्टॉप पर खड़े छात्रों में जा घुसा। हादसे में ट्रिनिटी कॉलेज के 3 छात्रों की मौत हो गई, 2 घायल हैं। 22 साल के ड्राइवर को हिरासत में ले लिया गया है।"
    },
    "id": "pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25",
    "source": "PrimeFeed Desk",
@@ -136,13 +178,13 @@
    "category": "Education",
    "district": "Nuapada",
    "en": {
-    "summary": "Chief Minister Mohan Charan Majhi announced at the National Scientific Convention on Homoeopathy in Bhubaneswar that two new government homoeopathic medical colleges will come up in Nuapada and Nayagarh districts. President Droupadi Murmu also attended the convention.",
-    "title": "Odisha to set up two new government homoeopathic medical colleges in Nuapada and Nayagarh, CM Mohan Majhi announces"
+    "title": "Odisha to set up two new government homoeopathic medical colleges in Nuapada and Nayagarh, CM Mohan Majhi announces",
+    "summary": "Chief Minister Mohan Charan Majhi announced at the National Scientific Convention on Homoeopathy in Bhubaneswar that two new government homoeopathic medical colleges will come up in Nuapada and Nayagarh districts. President Droupadi Murmu also attended the convention."
    },
    "featured": false,
    "hi": {
-    "summary": "मुख्यमंत्री मोहन चरण माझी ने भुवनेश्वर में होम्योपैथी पर राष्ट्रीय वैज्ञानिक सम्मेलन में ऐलान किया कि नुआपाड़ा और नयागढ़ में 2 नए सरकारी होम्योपैथिक मेडिकल कॉलेज खोले जाएँगे। राष्ट्रपति द्रौपदी मुर्मू भी सम्मेलन में मौजूद रहीं।",
-    "title": "नुआपाड़ा और नयागढ़ को मिलेंगे 2 नए सरकारी होम्योपैथिक मेडिकल कॉलेज, सीएम मोहन माझी का ऐलान"
+    "title": "नुआपाड़ा और नयागढ़ को मिलेंगे 2 नए सरकारी होम्योपैथिक मेडिकल कॉलेज, सीएम मोहन माझी का ऐलान",
+    "summary": "मुख्यमंत्री मोहन चरण माझी ने भुवनेश्वर में होम्योपैथी पर राष्ट्रीय वैज्ञानिक सम्मेलन में ऐलान किया कि नुआपाड़ा और नयागढ़ में 2 नए सरकारी होम्योपैथिक मेडिकल कॉलेज खोले जाएँगे। राष्ट्रपति द्रौपदी मुर्मू भी सम्मेलन में मौजूद रहीं।"
    },
    "id": "odisha-two-new-homoeopathic-medical-colleges-nuapada-nayagarh-november-25",
    "source": "PrimeFeed Desk",
@@ -159,13 +201,13 @@
    "category": "Crime & Law",
    "district": "Baghpat",
    "en": {
-    "summary": "The CBI has arrested Kuldeep alias Kuldeep Kapoor, a proclaimed offender in a 2017 case, from Baraut in Uttar Pradesh. He is accused of luring a Nepali woman to China with a false promise of employment.",
-    "title": "CBI arrests proclaimed offender from Baraut in 2017 case of sending workers to China on false job promise"
+    "title": "CBI arrests proclaimed offender from Baraut in 2017 case of sending workers to China on false job promise",
+    "summary": "The CBI has arrested Kuldeep alias Kuldeep Kapoor, a proclaimed offender in a 2017 case, from Baraut in Uttar Pradesh. He is accused of luring a Nepali woman to China with a false promise of employment."
    },
    "featured": false,
    "hi": {
-    "summary": "सीबीआई ने 2017 के एक मामले में भगोड़े घोषित आरोपी कुलदीप उर्फ कुलदीप कपूर को उत्तर प्रदेश के बड़ौत से गिरफ्तार किया है। आरोप है कि उसने चीन में नौकरी का झांसा देकर एक नेपाली महिला को वहाँ भेजा था।",
-    "title": "चीन में नौकरी का झांसा देकर महिला को भेजने के मामले में सीबीआई ने बड़ौत से भगोड़े आरोपी को पकड़ा"
+    "title": "चीन में नौकरी का झांसा देकर महिला को भेजने के मामले में सीबीआई ने बड़ौत से भगोड़े आरोपी को पकड़ा",
+    "summary": "सीबीआई ने 2017 के एक मामले में भगोड़े घोषित आरोपी कुलदीप उर्फ कुलदीप कपूर को उत्तर प्रदेश के बड़ौत से गिरफ्तार किया है। आरोप है कि उसने चीन में नौकरी का झांसा देकर एक नेपाली महिला को वहाँ भेजा था।"
    },
    "id": "cbi-arrests-proclaimed-offender-baraut-china-employment-racket-november-25",
    "source": "PrimeFeed Desk",
@@ -182,13 +224,13 @@
    "category": "Crime & Law",
    "district": "Mumbai",
    "en": {
-    "summary": "A special MCOCA court has declared one of the accused in the Tiger Shroff firing case a minor. Documents showed he was 17 years, 10 months and 18 days old on the day of the attack; his case will now go to the Juvenile Justice Board. Police have also obtained a non-bailable warrant against Abhishek Sharma, brother of Anil Pandit.",
-    "title": "Tiger Shroff firing case: One accused declared a minor, case sent to Juvenile Justice Board; non-bailable warrant against Abhishek Sharma"
+    "title": "Tiger Shroff firing case: One accused declared a minor, case sent to Juvenile Justice Board; non-bailable warrant against Abhishek Sharma",
+    "summary": "A special MCOCA court has declared one of the accused in the Tiger Shroff firing case a minor. Documents showed he was 17 years, 10 months and 18 days old on the day of the attack; his case will now go to the Juvenile Justice Board. Police have also obtained a non-bailable warrant against Abhishek Sharma, brother of Anil Pandit."
    },
    "featured": false,
    "hi": {
-    "summary": "विशेष एमसीओसीए अदालत ने टाइगर श्रॉफ फायरिंग मामले के एक आरोपी को नाबालिग करार दिया है। दस्तावेज़ों से पता चला कि हमले के दिन वह 17 साल 10 महीने 18 दिन का था; अब उसका मामला किशोर न्याय बोर्ड के पास जाएगा। पुलिस ने अनिल पंडित के भाई अभिषेक शर्मा के खिलाफ गैर-जमानती वारंट भी हासिल किया है।",
-    "title": "टाइगर श्रॉफ फायरिंग केस: एक आरोपी नाबालिग निकला, मामला किशोर न्याय बोर्ड को; अभिषेक शर्मा के खिलाफ गैर-जमानती वारंट"
+    "title": "टाइगर श्रॉफ फायरिंग केस: एक आरोपी नाबालिग निकला, मामला किशोर न्याय बोर्ड को; अभिषेक शर्मा के खिलाफ गैर-जमानती वारंट",
+    "summary": "विशेष एमसीओसीए अदालत ने टाइगर श्रॉफ फायरिंग मामले के एक आरोपी को नाबालिग करार दिया है। दस्तावेज़ों से पता चला कि हमले के दिन वह 17 साल 10 महीने 18 दिन का था; अब उसका मामला किशोर न्याय बोर्ड के पास जाएगा। पुलिस ने अनिल पंडित के भाई अभिषेक शर्मा के खिलाफ गैर-जमानती वारंट भी हासिल किया है।"
    },
    "id": "tiger-shroff-firing-case-accused-declared-minor-juvenile-justice-board-november-25",
    "source": "PrimeFeed Desk",
@@ -205,13 +247,13 @@
    "category": "Cricket & Sports",
    "district": null,
    "en": {
-    "summary": "Wiaan Mulder's century and career-best 7 for 31 powered South Africa to an innings-and-219-run win over Bangladesh in the Centurion Test, sealing the series 2-0. Bangladesh were bowled out for 91 and 184.",
-    "title": "Mulder's hundred and seven-for power South Africa to innings-and-219-run win over Bangladesh; series swept 2-0"
+    "title": "Mulder's hundred and seven-for power South Africa to innings-and-219-run win over Bangladesh; series swept 2-0",
+    "summary": "Wiaan Mulder's century and career-best 7 for 31 powered South Africa to an innings-and-219-run win over Bangladesh in the Centurion Test, sealing the series 2-0. Bangladesh were bowled out for 91 and 184."
    },
    "featured": false,
    "hi": {
-    "summary": "विआन मुल्डर के शतक और 31 रन देकर 7 विकेट के करियर-सर्वश्रेष्ठ प्रदर्शन से दक्षिण अफ्रीका ने सेंचुरियन टेस्ट में बांग्लादेश को पारी और 219 रन से हराकर सीरीज़ 2-0 से जीत ली। बांग्लादेश की दोनों पारियाँ 91 और 184 रन पर सिमटीं।",
-    "title": "मुल्डर का शतक और 7 विकेट: दक्षिण अफ्रीका ने बांग्लादेश को पारी और 219 रन से हराया, सीरीज़ 2-0 से जीती"
+    "title": "मुल्डर का शतक और 7 विकेट: दक्षिण अफ्रीका ने बांग्लादेश को पारी और 219 रन से हराया, सीरीज़ 2-0 से जीती",
+    "summary": "विआन मुल्डर के शतक और 31 रन देकर 7 विकेट के करियर-सर्वश्रेष्ठ प्रदर्शन से दक्षिण अफ्रीका ने सेंचुरियन टेस्ट में बांग्लादेश को पारी और 219 रन से हराकर सीरीज़ 2-0 से जीत ली। बांग्लादेश की दोनों पारियाँ 91 और 184 रन पर सिमटीं।"
    },
    "id": "south-africa-beat-bangladesh-innings-219-runs-mulder-seven-for-centurion-november-25",
    "source": "PrimeFeed Desk",
@@ -228,13 +270,13 @@
    "category": "Crime & Law",
    "district": "Kallakurichi",
    "en": {
-    "summary": "The Tamil Nadu government has constituted a four-member Internal Complaints Committee to inquire into Kallakurichi District Collector's complaint against TVK MLA C. Arul Vignesh. The state informed the Madras High Court on Wednesday; the panel must report by November 27. Meanwhile, Tirupur SP Shristi Singh has taken charge of the criminal investigation and police have served a summons on the MLA.",
-    "title": "Kallakurichi case: Four-member panel formed to probe Collector's complaint against TVK MLA Arul Vignesh; summons served"
+    "title": "Kallakurichi case: Four-member panel formed to probe Collector's complaint against TVK MLA Arul Vignesh; summons served",
+    "summary": "The Tamil Nadu government has constituted a four-member Internal Complaints Committee to inquire into Kallakurichi District Collector's complaint against TVK MLA C. Arul Vignesh. The state informed the Madras High Court on Wednesday; the panel must report by November 27. Meanwhile, Tirupur SP Shristi Singh has taken charge of the criminal investigation and police have served a summons on the MLA."
    },
    "featured": false,
    "hi": {
-    "summary": "तमिलनाडु सरकार ने कल्लाकुरिचि की महिला कलेक्टर की शिकायत पर टीवीके विधायक सी. अरुल विग्नेश के खिलाफ जाँच के लिए 4 सदस्यीय आंतरिक शिकायत समिति गठित की है। बुधवार को मद्रास हाई कोर्ट को इसकी जानकारी दी गई; समिति को 27 नवंबर तक रिपोर्ट देनी है। इस बीच तिरुपुर की एसपी श्रृष्टि सिंह ने आपराधिक मामले की जाँच शुरू कर दी है और पुलिस ने विधायक को समन भी थमा दिया है।",
-    "title": "कल्लाकुरिचि: महिला कलेक्टर की शिकायत पर 4 सदस्यीय समिति गठित, टीवीके विधायक अरुल विग्नेश को समन"
+    "title": "कल्लाकुरिचि: महिला कलेक्टर की शिकायत पर 4 सदस्यीय समिति गठित, टीवीके विधायक अरुल विग्नेश को समन",
+    "summary": "तमिलनाडु सरकार ने कल्लाकुरिचि की महिला कलेक्टर की शिकायत पर टीवीके विधायक सी. अरुल विग्नेश के खिलाफ जाँच के लिए 4 सदस्यीय आंतरिक शिकायत समिति गठित की है। बुधवार को मद्रास हाई कोर्ट को इसकी जानकारी दी गई; समिति को 27 नवंबर तक रिपोर्ट देनी है। इस बीच तिरुपुर की एसपी श्रृष्टि सिंह ने आपराधिक मामले की जाँच शुरू कर दी है और पुलिस ने विधायक को समन भी थमा दिया है।"
    },
    "id": "kallakurichi-icc-formed-arul-vignesh-complaint-probe-november-25",
    "source": "PrimeFeed Desk",
@@ -251,13 +293,13 @@
    "category": "Crime & Law",
    "district": "Dehradun",
    "en": {
-    "summary": "The parents of Ankita Bhandari began a sit-in at Gandhi Park in Dehradun on Wednesday, demanding an FIR against Vinod Arya, who they accuse of making their daughter's private chats public. Former chief minister Harish Rawat and several Congress leaders sat with them.",
-    "title": "Ankita Bhandari's parents sit in protest in Dehradun, demand FIR against Vinod Arya; Harish Rawat joins them"
+    "title": "Ankita Bhandari's parents sit in protest in Dehradun, demand FIR against Vinod Arya; Harish Rawat joins them",
+    "summary": "The parents of Ankita Bhandari began a sit-in at Gandhi Park in Dehradun on Wednesday, demanding an FIR against Vinod Arya, who they accuse of making their daughter's private chats public. Former chief minister Harish Rawat and several Congress leaders sat with them."
    },
    "featured": false,
    "hi": {
-    "summary": "अंकिता भंडारी के माता-पिता बुधवार को देहरादून के गांधी पार्क में धरने पर बैठ गए। वे विनोद आर्य के खिलाफ एफ़आईआर की माँग कर रहे हैं, जिन पर बेटी की निजी चैट सार्वजनिक करने का आरोप है। पूर्व मुख्यमंत्री हरीश रावत समेत कांग्रेस के कई नेता भी उनके साथ बैठे।",
-    "title": "अंकिता भंडारी के माता-पिता देहरादून में धरने पर: विनोद आर्य पर एफ़आईआर की माँग, हरीश रावत भी साथ बैठे"
+    "title": "अंकिता भंडारी के माता-पिता देहरादून में धरने पर: विनोद आर्य पर एफ़आईआर की माँग, हरीश रावत भी साथ बैठे",
+    "summary": "अंकिता भंडारी के माता-पिता बुधवार को देहरादून के गांधी पार्क में धरने पर बैठ गए। वे विनोद आर्य के खिलाफ एफ़आईआर की माँग कर रहे हैं, जिन पर बेटी की निजी चैट सार्वजनिक करने का आरोप है। पूर्व मुख्यमंत्री हरीश रावत समेत कांग्रेस के कई नेता भी उनके साथ बैठे।"
    },
    "id": "ankita-bhandari-parents-sit-in-dehradun-demand-fir-vinod-arya-november-25",
    "source": "PrimeFeed Desk",
@@ -274,13 +316,13 @@
    "category": "Crime & Law",
    "district": "Pune",
    "en": {
-    "summary": "Police took six suspects into custody within three hours of the daylight attack outside Pune's Shivajinagar court, where murder accused Mandar Kivale was attacked with sickles on Wednesday afternoon. Police Commissioner Amitesh Kumar said no bullet hit Kivale and doctors expect him to recover almost fully.",
-    "title": "Pune court attack: 6 suspects held within 3 hours; police say no bullet hit murder accused Mandar Kivale"
+    "title": "Pune court attack: 6 suspects held within 3 hours; police say no bullet hit murder accused Mandar Kivale",
+    "summary": "Police took six suspects into custody within three hours of the daylight attack outside Pune's Shivajinagar court, where murder accused Mandar Kivale was attacked with sickles on Wednesday afternoon. Police Commissioner Amitesh Kumar said no bullet hit Kivale and doctors expect him to recover almost fully."
    },
    "featured": false,
    "hi": {
-    "summary": "पुणे के शिवाजीनगर कोर्ट के बाहर दिनदहाड़े हुए हमले के 3 घंटे के भीतर पुलिस ने 6 संदिग्धों को हिरासत में ले लिया। हत्या के आरोपी मंदार किवळे पर बुधवार दोपहर कोयते से हमला हुआ था। पुलिस आयुक्त अमितेश कुमार ने कहा कि किवळे को कोई गोली नहीं लगी और डॉक्टरों को उम्मीद है कि वह लगभग पूरी तरह ठीक हो जाएगा।",
-    "title": "पुणे कोर्ट हमला: 3 घंटे में 6 संदिग्ध हिरासत में; पुलिस बोली — हत्या के आरोपी मंदार किवळे को गोली लगी ही नहीं"
+    "title": "पुणे कोर्ट हमला: 3 घंटे में 6 संदिग्ध हिरासत में; पुलिस बोली — हत्या के आरोपी मंदार किवळे को गोली लगी ही नहीं",
+    "summary": "पुणे के शिवाजीनगर कोर्ट के बाहर दिनदहाड़े हुए हमले के 3 घंटे के भीतर पुलिस ने 6 संदिग्धों को हिरासत में ले लिया। हत्या के आरोपी मंदार किवळे पर बुधवार दोपहर कोयते से हमला हुआ था। पुलिस आयुक्त अमितेश कुमार ने कहा कि किवळे को कोई गोली नहीं लगी और डॉक्टरों को उम्मीद है कि वह लगभग पूरी तरह ठीक हो जाएगा।"
    },
    "id": "pune-shivajinagar-court-attack-six-held-police-say-no-bullet-hit-kivale",
    "source": "PrimeFeed Desk",
@@ -297,13 +339,13 @@
    "category": "Crime & Law",
    "district": "Kendrapara",
    "en": {
-    "summary": "Aswasta Nayak, 45, died after touching live wires allegedly laid to trap wild boar in a field near Bhopal village in Kendrapara district. His body was found on Wednesday morning; two men who went with him on Tuesday evening are missing and police are searching for them.",
-    "title": "Suspected poacher electrocuted by live-wire trap in Kendrapara; two companions missing"
+    "title": "Suspected poacher electrocuted by live-wire trap in Kendrapara; two companions missing",
+    "summary": "Aswasta Nayak, 45, died after touching live wires allegedly laid to trap wild boar in a field near Bhopal village in Kendrapara district. His body was found on Wednesday morning; two men who went with him on Tuesday evening are missing and police are searching for them."
    },
    "featured": false,
    "hi": {
-    "summary": "45 वर्षीय अस्वस्त नायक की केंद्रपाड़ा जिले के भोपाल गाँव के पास खेत में जंगली सूअर के शिकार के लिए कथित तौर पर बिछाए गए करंट वाले तारों की चपेट में आकर मौत हो गई। उसका शव बुधवार सुबह मिला; मंगलवार शाम उसके साथ गए 2 लोग लापता हैं और पुलिस उनकी तलाश कर रही है।",
-    "title": "केंद्रपाड़ा में संदिग्ध शिकारी की करंट लगने से मौत, साथ गए 2 लोग लापता"
+    "title": "केंद्रपाड़ा में संदिग्ध शिकारी की करंट लगने से मौत, साथ गए 2 लोग लापता",
+    "summary": "45 वर्षीय अस्वस्त नायक की केंद्रपाड़ा जिले के भोपाल गाँव के पास खेत में जंगली सूअर के शिकार के लिए कथित तौर पर बिछाए गए करंट वाले तारों की चपेट में आकर मौत हो गई। उसका शव बुधवार सुबह मिला; मंगलवार शाम उसके साथ गए 2 लोग लापता हैं और पुलिस उनकी तलाश कर रही है।"
    },
    "id": "suspected-poacher-electrocuted-live-wire-trap-kendrapara-two-companions-missing",
    "source": "PrimeFeed Desk",
@@ -320,13 +362,13 @@
    "category": "Weather",
    "district": null,
    "en": {
-    "summary": "Ahilyanagar, Beed, Dharashiv, Sangli and Solapur are Maharashtra's most vulnerable districts to flash droughts, a MANIT Bhopal study of 44 years of data has found. In these districts soil dryness worsens by 6 to 9 percentile points every 8 days — far faster than in the rest of the state.",
-    "title": "Five Maharashtra districts face fastest-building flash droughts, 44-year study finds"
+    "title": "Five Maharashtra districts face fastest-building flash droughts, 44-year study finds",
+    "summary": "Ahilyanagar, Beed, Dharashiv, Sangli and Solapur are Maharashtra's most vulnerable districts to flash droughts, a MANIT Bhopal study of 44 years of data has found. In these districts soil dryness worsens by 6 to 9 percentile points every 8 days — far faster than in the rest of the state."
    },
    "featured": false,
    "hi": {
-    "summary": "अहिल्यानगर, बीड, धाराशिव, सांगली और सोलापुर फ्लैश सूखे के लिए महाराष्ट्र के सबसे संवेदनशील जिले हैं, मैनिट भोपाल के 44 साल के आंकड़ों के अध्ययन में यह बात सामने आई है। इन जिलों में मिट्टी का सूखापन हर 8 दिन में 6 से 9 पर्सेंटाइल अंक बढ़ जाता है — राज्य के बाकी हिस्सों से कहीं तेज़।",
-    "title": "महाराष्ट्र के 5 जिलों में सबसे तेज़ी से बढ़ता फ्लैश सूखा, 44 साल के अध्ययन में खुलासा"
+    "title": "महाराष्ट्र के 5 जिलों में सबसे तेज़ी से बढ़ता फ्लैश सूखा, 44 साल के अध्ययन में खुलासा",
+    "summary": "अहिल्यानगर, बीड, धाराशिव, सांगली और सोलापुर फ्लैश सूखे के लिए महाराष्ट्र के सबसे संवेदनशील जिले हैं, मैनिट भोपाल के 44 साल के आंकड़ों के अध्ययन में यह बात सामने आई है। इन जिलों में मिट्टी का सूखापन हर 8 दिन में 6 से 9 पर्सेंटाइल अंक बढ़ जाता है — राज्य के बाकी हिस्सों से कहीं तेज़।"
    },
    "id": "five-maharashtra-districts-face-fastest-building-flash-droughts-study",
    "source": "PrimeFeed Desk",
@@ -343,13 +385,13 @@
    "category": "India",
    "district": null,
    "en": {
-    "summary": "India's national pavilion, 'Geographies of Distance: Remembering Home', has won the Visitors' Lion for Best National Participation at the 61st Venice Art Biennale, voted the best by visitors from around the world. The honour comes on India's return to the Biennale after seven years.",
-    "title": "India's pavilion voted best in the world at Venice Art Biennale after seven-year return"
+    "title": "India's pavilion voted best in the world at Venice Art Biennale after seven-year return",
+    "summary": "India's national pavilion, 'Geographies of Distance: Remembering Home', has won the Visitors' Lion for Best National Participation at the 61st Venice Art Biennale, voted the best by visitors from around the world. The honour comes on India's return to the Biennale after seven years."
    },
    "featured": false,
    "hi": {
-    "summary": "भारत के राष्ट्रीय पवेलियन 'जियोग्राफ़ीज़ ऑफ़ डिस्टेंस: रिमेंबरिंग होम' ने 61वें वेनिस बिएनाले में सर्वश्रेष्ठ राष्ट्रीय भागीदारी का विज़िटर्स लायन जीत लिया है। दुनिया भर के दर्शकों के वोट से मिला यह सम्मान 7 साल बाद बिएनाले में भारत की वापसी पर आया है।",
-    "title": "वेनिस बिएनाले में भारत का पवेलियन दुनिया में सर्वश्रेष्ठ, 7 साल बाद वापसी पर मिला विज़िटर्स लायन"
+    "title": "वेनिस बिएनाले में भारत का पवेलियन दुनिया में सर्वश्रेष्ठ, 7 साल बाद वापसी पर मिला विज़िटर्स लायन",
+    "summary": "भारत के राष्ट्रीय पवेलियन 'जियोग्राफ़ीज़ ऑफ़ डिस्टेंस: रिमेंबरिंग होम' ने 61वें वेनिस बिएनाले में सर्वश्रेष्ठ राष्ट्रीय भागीदारी का विज़िटर्स लायन जीत लिया है। दुनिया भर के दर्शकों के वोट से मिला यह सम्मान 7 साल बाद बिएनाले में भारत की वापसी पर आया है।"
    },
    "id": "india-wins-visitors-lion-best-national-pavilion-venice-biennale",
    "source": "PrimeFeed Desk",
@@ -366,13 +408,13 @@
    "category": "Government Schemes",
    "district": null,
    "en": {
-    "summary": "Union Ministers Shivraj Singh Chouhan and Annapurna Devi launched the fifth edition of 'Nayi Chetna: Pahal Badlav Ki' in New Delhi. The month-long campaign, running till 23 December 2026, aims at villages free of violence against women, with a four-way agreement linking village support, district centres and legal aid.",
-    "title": "Nayi Chetna 5.0 launched: month-long drive for violence-free villages begins"
+    "title": "Nayi Chetna 5.0 launched: month-long drive for violence-free villages begins",
+    "summary": "Union Ministers Shivraj Singh Chouhan and Annapurna Devi launched the fifth edition of 'Nayi Chetna: Pahal Badlav Ki' in New Delhi. The month-long campaign, running till 23 December 2026, aims at villages free of violence against women, with a four-way agreement linking village support, district centres and legal aid."
    },
    "featured": false,
    "hi": {
-    "summary": "केंद्रीय मंत्रियों शिवराज सिंह चौहान और अन्नपूर्णा देवी ने नई दिल्ली में 'नई चेतना: पहल बदलाव की' के पाँचवें संस्करण का शुभारंभ किया। 23 दिसंबर 2026 तक चलने वाला यह अभियान हिंसा-मुक्त गाँवों के लिए है, जिसमें गाँव स्तर की मदद, ज़िला केंद्रों और कानूनी सहायता को जोड़ने वाला 4-पक्षीय समझौता हुआ है।",
-    "title": "नई चेतना 5.0 की शुरुआत: हिंसा-मुक्त गाँवों की ओर, 23 दिसंबर तक देशभर में चलेगा अभियान"
+    "title": "नई चेतना 5.0 की शुरुआत: हिंसा-मुक्त गाँवों की ओर, 23 दिसंबर तक देशभर में चलेगा अभियान",
+    "summary": "केंद्रीय मंत्रियों शिवराज सिंह चौहान और अन्नपूर्णा देवी ने नई दिल्ली में 'नई चेतना: पहल बदलाव की' के पाँचवें संस्करण का शुभारंभ किया। 23 दिसंबर 2026 तक चलने वाला यह अभियान हिंसा-मुक्त गाँवों के लिए है, जिसमें गाँव स्तर की मदद, ज़िला केंद्रों और कानूनी सहायता को जोड़ने वाला 4-पक्षीय समझौता हुआ है।"
    },
    "id": "nayi-chetna-5-0-launched-violence-free-villages-november-25",
    "source": "PrimeFeed Desk",
@@ -389,13 +431,13 @@
    "category": "Crime & Law",
    "district": "Nirmal",
    "en": {
-    "summary": "Nirmal SP Dr Janaki Sharmila said 18-year-old Challa Sampath, a second-year engineering student at RGUKT-Basar, had earned 5,000 rupees in a gold jewellery scheme before cyber fraudsters trapped him. She rejected claims that betting apps drove him to suicide.",
-    "title": "RGUKT-Basar student was duped by cyber fraudsters, not betting apps, Nirmal SP says"
+    "title": "RGUKT-Basar student was duped by cyber fraudsters, not betting apps, Nirmal SP says",
+    "summary": "Nirmal SP Dr Janaki Sharmila said 18-year-old Challa Sampath, a second-year engineering student at RGUKT-Basar, had earned 5,000 rupees in a gold jewellery scheme before cyber fraudsters trapped him. She rejected claims that betting apps drove him to suicide."
    },
    "featured": false,
    "hi": {
-    "summary": "निर्मल एसपी डॉ जानकी शर्मिला ने कहा कि आरजीयूकेटी बासर के 18 साल के छात्र चल्ला संपत ने सोने की ज्वैलरी स्कीम में 5,000 रुपये कमाए थे, फिर साइबर ठगों ने उसे फँसा लिया। उन्होंने सट्टेबाजी ऐप वाले दावों को खारिज कर दिया।",
-    "title": "आरजीयूकेटी बासर का छात्र सट्टेबाजी ऐप से नहीं, साइबर ठगों के जाल में फँसा था, निर्मल एसपी ने कहा"
+    "title": "आरजीयूकेटी बासर का छात्र सट्टेबाजी ऐप से नहीं, साइबर ठगों के जाल में फँसा था, निर्मल एसपी ने कहा",
+    "summary": "निर्मल एसपी डॉ जानकी शर्मिला ने कहा कि आरजीयूकेटी बासर के 18 साल के छात्र चल्ला संपत ने सोने की ज्वैलरी स्कीम में 5,000 रुपये कमाए थे, फिर साइबर ठगों ने उसे फँसा लिया। उन्होंने सट्टेबाजी ऐप वाले दावों को खारिज कर दिया।"
    },
    "id": "rgukt-basar-student-duped-cyber-fraudsters-nirmal-sp-november-25",
    "source": "PrimeFeed Desk",
@@ -412,13 +454,13 @@
    "category": "Business",
    "district": null,
    "en": {
-    "summary": "Walmart-backed PhonePe has resumed preparations for its stock market debut, targeting a listing in the first 3 months of 2027 at a 12–15 billion dollar valuation. The issue will be a pure offer for sale of 12,000–14,000 crore rupees.",
-    "title": "PhonePe revives IPO plan, targets 12–15 billion dollar listing in early 2027"
+    "title": "PhonePe revives IPO plan, targets 12–15 billion dollar listing in early 2027",
+    "summary": "Walmart-backed PhonePe has resumed preparations for its stock market debut, targeting a listing in the first 3 months of 2027 at a 12–15 billion dollar valuation. The issue will be a pure offer for sale of 12,000–14,000 crore rupees."
    },
    "featured": false,
    "hi": {
-    "summary": "वॉलमार्ट समर्थित फ़ोनपे ने शेयर बाज़ार में उतरने की तैयारी फिर शुरू कर दी है। कंपनी 2027 के पहले 3 महीनों में 12–15 अरब डॉलर के मूल्यांकन पर लिस्टिंग का लक्ष्य रख रही है। यह पूरी तरह 12,000–14,000 करोड़ रुपये का ऑफर फॉर सेल होगा।",
-    "title": "फ़ोनपे ने आईपीओ की तैयारी फिर शुरू की, 2027 की शुरुआत में 12–15 अरब डॉलर के मूल्यांकन पर लिस्टिंग का लक्ष्य"
+    "title": "फ़ोनपे ने आईपीओ की तैयारी फिर शुरू की, 2027 की शुरुआत में 12–15 अरब डॉलर के मूल्यांकन पर लिस्टिंग का लक्ष्य",
+    "summary": "वॉलमार्ट समर्थित फ़ोनपे ने शेयर बाज़ार में उतरने की तैयारी फिर शुरू कर दी है। कंपनी 2027 के पहले 3 महीनों में 12–15 अरब डॉलर के मूल्यांकन पर लिस्टिंग का लक्ष्य रख रही है। यह पूरी तरह 12,000–14,000 करोड़ रुपये का ऑफर फॉर सेल होगा।"
    },
    "id": "phonepe-revives-ipo-plans-12-15-billion-valuation-march-2027-november-25",
    "source": "PrimeFeed Desk",
@@ -435,13 +477,13 @@
    "category": "Crime & Law",
    "district": "Khordha",
    "en": {
-    "summary": "Bhubaneswar Cyber Police arrested three men, including the alleged mastermind, from Delhi for running a fake trading platform that lured a 59-year-old retired employee with deepfake celebrity videos and promises of doubled returns.",
-    "title": "Deepfake videos of Amitabh Bachchan and Nirmala Sitharaman used to dupe Bhubaneswar retiree of ₹29.54 lakh; 3 arrested in Delhi"
+    "title": "Deepfake videos of Amitabh Bachchan and Nirmala Sitharaman used to dupe Bhubaneswar retiree of ₹29.54 lakh; 3 arrested in Delhi",
+    "summary": "Bhubaneswar Cyber Police arrested three men, including the alleged mastermind, from Delhi for running a fake trading platform that lured a 59-year-old retired employee with deepfake celebrity videos and promises of doubled returns."
    },
    "featured": false,
    "hi": {
-    "summary": "भुवनेश्वर साइबर पुलिस ने दिल्ली से 3 लोगों को गिरफ्तार किया है, जिनमें कथित मास्टरमाइंड भी शामिल है। आरोप है कि उन्होंने फर्जी ट्रेडिंग प्लेटफॉर्म के जरिए दीपफेक वीडियो दिखाकर 59 साल के रिटायर्ड कर्मचारी से 29.54 लाख रुपये ठग लिए।",
-    "title": "अमिताभ बच्चन और निर्मला सीतारमण के दीपफेक वीडियो से भुवनेश्वर के रिटायर्ड कर्मचारी से 29.54 लाख रुपये की ठगी, दिल्ली से 3 गिरफ्तार"
+    "title": "अमिताभ बच्चन और निर्मला सीतारमण के दीपफेक वीडियो से भुवनेश्वर के रिटायर्ड कर्मचारी से 29.54 लाख रुपये की ठगी, दिल्ली से 3 गिरफ्तार",
+    "summary": "भुवनेश्वर साइबर पुलिस ने दिल्ली से 3 लोगों को गिरफ्तार किया है, जिनमें कथित मास्टरमाइंड भी शामिल है। आरोप है कि उन्होंने फर्जी ट्रेडिंग प्लेटफॉर्म के जरिए दीपफेक वीडियो दिखाकर 59 साल के रिटायर्ड कर्मचारी से 29.54 लाख रुपये ठग लिए।"
    },
    "id": "bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25",
    "source": "PrimeFeed Desk",
@@ -457,13 +499,13 @@
    "breaking": false,
    "category": "Business",
    "en": {
-    "summary": "The US Trade Representative has proposed new tariffs on India and 13 other economies after an eight-month probe into excess industrial capacity. India faces up to 25%, falling to 17% if a trade deal is signed.",
-    "title": "US proposes 25% tariff on Indian goods, but 17% if a trade deal is signed"
+    "title": "US proposes 25% tariff on Indian goods, but 17% if a trade deal is signed",
+    "summary": "The US Trade Representative has proposed new tariffs on India and 13 other economies after an eight-month probe into excess industrial capacity. India faces up to 25%, falling to 17% if a trade deal is signed."
    },
    "featured": false,
    "hi": {
-    "summary": "अमेरिका के व्यापार प्रतिनिधि ने 8 महीने की जांच के बाद भारत समेत 14 अर्थव्यवस्थाओं पर नए टैरिफ का प्रस्ताव रखा है। भारत पर 25% तक शुल्क लग सकता है, लेकिन व्यापार समझौता होने पर यह दर घटकर 17% रह जाएगी।",
-    "title": "अमेरिका ने भारतीय सामान पर 25% टैरिफ का प्रस्ताव रखा, व्यापार समझौता हुआ तो दर 17% होगी"
+    "title": "अमेरिका ने भारतीय सामान पर 25% टैरिफ का प्रस्ताव रखा, व्यापार समझौता हुआ तो दर 17% होगी",
+    "summary": "अमेरिका के व्यापार प्रतिनिधि ने 8 महीने की जांच के बाद भारत समेत 14 अर्थव्यवस्थाओं पर नए टैरिफ का प्रस्ताव रखा है। भारत पर 25% तक शुल्क लग सकता है, लेकिन व्यापार समझौता होने पर यह दर घटकर 17% रह जाएगी।"
    },
    "id": "us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25",
    "source": "PrimeFeed Desk",
@@ -479,13 +521,13 @@
    "category": "Crime & Law",
    "district": "Raipur",
    "en": {
-    "summary": "Raipur Police have cracked the ₹2 crore theft at the Marine Drive Apple store, arresting gang leader Rajesh Jhala and handler Safan Khan and recovering 125 of the 173 stolen iPhones after a 25-day investigation that followed more than 1,000 CCTV cameras across four states.",
-    "title": "Raipur Apple Store heist cracked: 2 arrested, 125 iPhones worth ₹1.50 crore recovered after 25-day hunt"
+    "title": "Raipur Apple Store heist cracked: 2 arrested, 125 iPhones worth ₹1.50 crore recovered after 25-day hunt",
+    "summary": "Raipur Police have cracked the ₹2 crore theft at the Marine Drive Apple store, arresting gang leader Rajesh Jhala and handler Safan Khan and recovering 125 of the 173 stolen iPhones after a 25-day investigation that followed more than 1,000 CCTV cameras across four states."
    },
    "featured": false,
    "hi": {
-    "summary": "रायपुर पुलिस ने मरीन ड्राइव एप्पल स्टोर से 2 करोड़ रुपये की चोरी का खुलासा कर दिया है। गिरोह के सरगना राजेश झाला और आईफोन खपाने वाले सफान खान को गिरफ्तार कर लिया गया है, और 25 दिन की जांच के बाद चोरी हुए 173 आईफोन में से 125 बरामद कर लिए गए हैं।",
-    "title": "रायपुर एप्पल स्टोर चोरी का खुलासा: 2 गिरफ्तार, 25 दिन की जांच के बाद 1.50 करोड़ रुपये के 125 आईफोन बरामद"
+    "title": "रायपुर एप्पल स्टोर चोरी का खुलासा: 2 गिरफ्तार, 25 दिन की जांच के बाद 1.50 करोड़ रुपये के 125 आईफोन बरामद",
+    "summary": "रायपुर पुलिस ने मरीन ड्राइव एप्पल स्टोर से 2 करोड़ रुपये की चोरी का खुलासा कर दिया है। गिरोह के सरगना राजेश झाला और आईफोन खपाने वाले सफान खान को गिरफ्तार कर लिया गया है, और 25 दिन की जांच के बाद चोरी हुए 173 आईफोन में से 125 बरामद कर लिए गए हैं।"
    },
    "id": "raipur-apple-store-theft-kanjar-gang-arrested-125-iphones-recovered-november-25",
    "source": "PrimeFeed Desk",
@@ -501,13 +543,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "summary": "India has said former Bangladesh prime minister Sheikh Hasina's plan to return home voluntarily on December 16 is a matter separate from Dhaka's request to extradite her, with the foreign ministry stressing that the extradition request is still being examined through established processes.",
-    "title": "Hasina's voluntary return is separate from extradition request, India tells Dhaka"
+    "title": "Hasina's voluntary return is separate from extradition request, India tells Dhaka",
+    "summary": "India has said former Bangladesh prime minister Sheikh Hasina's plan to return home voluntarily on December 16 is a matter separate from Dhaka's request to extradite her, with the foreign ministry stressing that the extradition request is still being examined through established processes."
    },
    "featured": false,
    "hi": {
-    "summary": "भारत ने कहा है कि बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना की 16 दिसंबर को स्वेच्छा से स्वदेश लौटने की योजना ढाका के प्रत्यर्पण अनुरोध से अलग मामला है। विदेश मंत्रालय ने कहा कि प्रत्यर्पण अनुरोध पर स्थापित प्रक्रिया के तहत विचार चल रहा है।",
-    "title": "हसीना की स्वैच्छिक वापसी प्रत्यर्पण अनुरोध से अलग मामला, भारत ने ढाका से कहा"
+    "title": "हसीना की स्वैच्छिक वापसी प्रत्यर्पण अनुरोध से अलग मामला, भारत ने ढाका से कहा",
+    "summary": "भारत ने कहा है कि बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना की 16 दिसंबर को स्वेच्छा से स्वदेश लौटने की योजना ढाका के प्रत्यर्पण अनुरोध से अलग मामला है। विदेश मंत्रालय ने कहा कि प्रत्यर्पण अनुरोध पर स्थापित प्रक्रिया के तहत विचार चल रहा है।"
    },
    "id": "mea-hasina-voluntary-return-separate-extradition-request-november-25",
    "source": "PrimeFeed Desk",
@@ -523,13 +565,13 @@
    "category": "State & Local",
    "district": "East Khasi Hills",
    "en": {
-    "summary": "Senior IAS officer Sampath Kumar, a 1997-batch officer of the Assam-Meghalaya cadre, will take over as Meghalaya's Chief Secretary on November 30, succeeding Dr Shakil P. Ahammed, who retires the same day.",
-    "title": "Sampath Kumar appointed Meghalaya's next Chief Secretary, takes charge on November 30"
+    "title": "Sampath Kumar appointed Meghalaya's next Chief Secretary, takes charge on November 30",
+    "summary": "Senior IAS officer Sampath Kumar, a 1997-batch officer of the Assam-Meghalaya cadre, will take over as Meghalaya's Chief Secretary on November 30, succeeding Dr Shakil P. Ahammed, who retires the same day."
    },
    "featured": false,
    "hi": {
-    "summary": "1997 बैच के असम-मेघालय कैडर के वरिष्ठ आईएएस अधिकारी संपत कुमार 30 नवंबर को मेघालय के मुख्य सचिव का कार्यभार संभालेंगे; उसी दिन सेवानिवृत्त हो रहे डॉ. शकील पी. अहमद का स्थान लेंगे।",
-    "title": "संपत कुमार मेघालय के अगले मुख्य सचिव नियुक्त, 30 नवंबर को संभालेंगे कार्यभार"
+    "title": "संपत कुमार मेघालय के अगले मुख्य सचिव नियुक्त, 30 नवंबर को संभालेंगे कार्यभार",
+    "summary": "1997 बैच के असम-मेघालय कैडर के वरिष्ठ आईएएस अधिकारी संपत कुमार 30 नवंबर को मेघालय के मुख्य सचिव का कार्यभार संभालेंगे; उसी दिन सेवानिवृत्त हो रहे डॉ. शकील पी. अहमद का स्थान लेंगे।"
    },
    "id": "sampath-kumar-appointed-meghalaya-chief-secretary-takes-charge-november-30",
    "source": "PrimeFeed Desk",
@@ -545,13 +587,13 @@
    "breaking": false,
    "category": "Crime & Law",
    "en": {
-    "summary": "The Supreme Court has given the Centre and the Delhi government 10 days to file a comprehensive response to petitions alleging detentions during the October 10 protests against Chief Election Commissioner Gyanesh Kumar.",
-    "title": "Supreme Court gives Centre and Delhi government 10 days to respond on detentions during anti-CEC protests"
+    "title": "Supreme Court gives Centre and Delhi government 10 days to respond on detentions during anti-CEC protests",
+    "summary": "The Supreme Court has given the Centre and the Delhi government 10 days to file a comprehensive response to petitions alleging detentions during the October 10 protests against Chief Election Commissioner Gyanesh Kumar."
    },
    "featured": false,
    "hi": {
-    "summary": "सुप्रीम कोर्ट ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ 10 अक्टूबर के प्रदर्शन के दौरान हिरासत के आरोपों वाली याचिकाओं पर केंद्र और दिल्ली सरकार को 10 दिन में विस्तृत जवाब दाखिल करने का निर्देश दिया है।",
-    "title": "सीईसी विरोधी प्रदर्शन के दौरान हिरासत पर सुप्रीम कोर्ट ने केंद्र और दिल्ली सरकार से 10 दिन में जवाब माँगा"
+    "title": "सीईसी विरोधी प्रदर्शन के दौरान हिरासत पर सुप्रीम कोर्ट ने केंद्र और दिल्ली सरकार से 10 दिन में जवाब माँगा",
+    "summary": "सुप्रीम कोर्ट ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ 10 अक्टूबर के प्रदर्शन के दौरान हिरासत के आरोपों वाली याचिकाओं पर केंद्र और दिल्ली सरकार को 10 दिन में विस्तृत जवाब दाखिल करने का निर्देश दिया है।"
    },
    "id": "supreme-court-centre-delhi-government-10-days-respond-anti-cec-protest-detentions",
    "source": "PrimeFeed Desk",
@@ -566,13 +608,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "Defence Minister Rajnath Singh told a BJP rally in Kalaburagi that power in India can change only through votes, never through anarchy on the streets — and warned Rahul Gandhi that Indian democracy is not that weak.",
-    "title": "Congress wants regime change through violence, not votes: Rajnath Singh's sharp attack in Kalaburagi"
+    "title": "Congress wants regime change through violence, not votes: Rajnath Singh's sharp attack in Kalaburagi",
+    "summary": "Defence Minister Rajnath Singh told a BJP rally in Kalaburagi that power in India can change only through votes, never through anarchy on the streets — and warned Rahul Gandhi that Indian democracy is not that weak."
    },
    "featured": false,
    "hi": {
-    "summary": "रक्षा मंत्री राजनाथ सिंह ने कलबुर्गी में भाजपा रैली में कांग्रेस पर तीखा हमला बोला — कहा, सत्ता सिर्फ वोट से बदल सकती है, सड़कों पर अराजकता फैलाकर नहीं; राहुल गांधी को भी नसीहत दी।",
-    "title": "कांग्रेस वोट से नहीं, हिंसा और अराजकता से सत्ता बदलना चाहती है: कलबुर्गी में राजनाथ सिंह का बड़ा हमला"
+    "title": "कांग्रेस वोट से नहीं, हिंसा और अराजकता से सत्ता बदलना चाहती है: कलबुर्गी में राजनाथ सिंह का बड़ा हमला",
+    "summary": "रक्षा मंत्री राजनाथ सिंह ने कलबुर्गी में भाजपा रैली में कांग्रेस पर तीखा हमला बोला — कहा, सत्ता सिर्फ वोट से बदल सकती है, सड़कों पर अराजकता फैलाकर नहीं; राहुल गांधी को भी नसीहत दी।"
    },
    "id": "rajnath-singh-congress-regime-change-violence-votes-kalaburagi-november-25",
    "source": "PrimeFeed Desk",
@@ -587,13 +629,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "The Jharkhand Assembly passed a resolution by voice vote demanding an immediate halt to the Special Intensive Revision of electoral rolls and a fresh exercise under transparent procedures; the BJP called the special session politically motivated.",
-    "title": "Jharkhand Assembly passes resolution to halt SIR, seeks fresh voter-roll revision under new SOP"
+    "title": "Jharkhand Assembly passes resolution to halt SIR, seeks fresh voter-roll revision under new SOP",
+    "summary": "The Jharkhand Assembly passed a resolution by voice vote demanding an immediate halt to the Special Intensive Revision of electoral rolls and a fresh exercise under transparent procedures; the BJP called the special session politically motivated."
    },
    "featured": false,
    "hi": {
-    "summary": "झारखंड विधानसभा के विशेष सत्र में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) को तुरंत रोकने और पारदर्शी प्रक्रिया के साथ नए सिरे से कराने का प्रस्ताव ध्वनिमत से पारित हुआ; भाजपा ने सत्र को 'राजनीतिक' बताया।",
-    "title": "झारखंड विधानसभा ने एसआईआर रोकने का प्रस्ताव ध्वनिमत से पारित किया, केंद्र को भेजा जाएगा"
+    "title": "झारखंड विधानसभा ने एसआईआर रोकने का प्रस्ताव ध्वनिमत से पारित किया, केंद्र को भेजा जाएगा",
+    "summary": "झारखंड विधानसभा के विशेष सत्र में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) को तुरंत रोकने और पारदर्शी प्रक्रिया के साथ नए सिरे से कराने का प्रस्ताव ध्वनिमत से पारित हुआ; भाजपा ने सत्र को 'राजनीतिक' बताया।"
    },
    "id": "jharkhand-assembly-passes-resolution-halt-sir-voice-vote-november-25",
    "source": "PrimeFeed Desk",
@@ -609,13 +651,13 @@
    "category": "State & Local",
    "district": "Jhansi",
    "en": {
-    "summary": "A food safety team raided a godown in Jhansi's Pali Pahari and seized 2,151 two-litre bottles of 'Bisroli' packaged water, whose name and green-capped packaging closely resemble Bisleri. Samples have gone for lab tests and the unit has been served a notice.",
-    "title": "Jhansi FDA raid: 2,151 bottles of 'Bisroli' water seized from godown selling a Bisleri lookalike"
+    "title": "Jhansi FDA raid: 2,151 bottles of 'Bisroli' water seized from godown selling a Bisleri lookalike",
+    "summary": "A food safety team raided a godown in Jhansi's Pali Pahari and seized 2,151 two-litre bottles of 'Bisroli' packaged water, whose name and green-capped packaging closely resemble Bisleri. Samples have gone for lab tests and the unit has been served a notice."
    },
    "featured": false,
    "hi": {
-    "summary": "झांसी के पाली पहाड़ी में श्री बालाजी बेवरेज़ के गोदाम पर खाद्य सुरक्षा विभाग की टीम ने छापा मारकर 'बिसरोली' ब्रांड की 2 लीटर वाली 2,151 पानी की बोतलें सीज कीं। बोतलों के नमूने जांच के लिए भेजे गए हैं और प्रतिष्ठान को नोटिस जारी किया गया है।",
-    "title": "झांसी: बिसलेरी से मिलता-जुलता 'बिसरोली' पानी बेचने वाले गोदाम पर एफ़डीए का छापा, 2,151 बोतलें सीज"
+    "title": "झांसी: बिसलेरी से मिलता-जुलता 'बिसरोली' पानी बेचने वाले गोदाम पर एफ़डीए का छापा, 2,151 बोतलें सीज",
+    "summary": "झांसी के पाली पहाड़ी में श्री बालाजी बेवरेज़ के गोदाम पर खाद्य सुरक्षा विभाग की टीम ने छापा मारकर 'बिसरोली' ब्रांड की 2 लीटर वाली 2,151 पानी की बोतलें सीज कीं। बोतलों के नमूने जांच के लिए भेजे गए हैं और प्रतिष्ठान को नोटिस जारी किया गया है।"
    },
    "id": "jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25",
    "source": "PrimeFeed Desk",
@@ -632,13 +674,13 @@
    "category": "World",
    "district": null,
    "en": {
-    "summary": "Bangladesh's wage board has raised the minimum monthly pay for garment workers by 36% to 17,000 taka ($139) after nearly 12 hours of talks. Workers had demanded the wage be doubled to 30,000 taka; the board approved the lower figure by four votes to two.",
-    "title": "Bangladesh raises garment workers' minimum wage 36% to $139 after weeks of protests"
+    "title": "Bangladesh raises garment workers' minimum wage 36% to $139 after weeks of protests",
+    "summary": "Bangladesh's wage board has raised the minimum monthly pay for garment workers by 36% to 17,000 taka ($139) after nearly 12 hours of talks. Workers had demanded the wage be doubled to 30,000 taka; the board approved the lower figure by four votes to two."
    },
    "featured": false,
    "hi": {
-    "summary": "बांग्लादेश के वेतन बोर्ड ने गारमेंट मज़दूरों का न्यूनतम मासिक वेतन 36% बढ़ाकर 17,000 टका (139 डॉलर) कर दिया है। मज़दूरों ने वेतन दोगुना करने की माँग की थी, लेकिन बोर्ड ने 4 के मुकाबले 2 मतों से इस प्रस्ताव को मंज़ूरी दी।",
-    "title": "बांग्लादेश में गारमेंट मज़दूरों का न्यूनतम वेतन 36% बढ़कर 17,000 टका, हफ़्तों के विरोध के बाद वेतन बोर्ड का फैसला"
+    "title": "बांग्लादेश में गारमेंट मज़दूरों का न्यूनतम वेतन 36% बढ़कर 17,000 टका, हफ़्तों के विरोध के बाद वेतन बोर्ड का फैसला",
+    "summary": "बांग्लादेश के वेतन बोर्ड ने गारमेंट मज़दूरों का न्यूनतम मासिक वेतन 36% बढ़ाकर 17,000 टका (139 डॉलर) कर दिया है। मज़दूरों ने वेतन दोगुना करने की माँग की थी, लेकिन बोर्ड ने 4 के मुकाबले 2 मतों से इस प्रस्ताव को मंज़ूरी दी।"
    },
    "id": "bangladesh-garment-workers-minimum-wage-17000-taka-november-25",
    "source": "PrimeFeed Desk",
@@ -655,13 +697,13 @@
    "category": "World",
    "district": null,
    "en": {
-    "summary": "Colombian police and soldiers stormed an Exito supermarket in Cartagena early on Wednesday, ending a 17-hour hostage siege. Ten hostages had been released on Tuesday; the remaining 20 were rescued and one captor was killed.",
-    "title": "Cartagena supermarket siege ends: all 20 remaining hostages freed, one captor killed after 17-hour standoff"
+    "title": "Cartagena supermarket siege ends: all 20 remaining hostages freed, one captor killed after 17-hour standoff",
+    "summary": "Colombian police and soldiers stormed an Exito supermarket in Cartagena early on Wednesday, ending a 17-hour hostage siege. Ten hostages had been released on Tuesday; the remaining 20 were rescued and one captor was killed."
    },
    "featured": false,
    "hi": {
-    "summary": "कोलंबिया के कार्टाजेना में एक्सिटो सुपरमार्केट में करीब 30 लोगों को बंधक बनाने वाले हथियारबंद लोगों के खिलाफ पुलिस और सेना ने बुधवार तड़के कार्रवाई की। 10 बंधकों को मंगलवार को ही छोड़ दिया गया था, बाकी 20 को छुड़ा लिया गया और 1 बंधककर्ता मारा गया।",
-    "title": "कार्टाजेना सुपरमार्केट बंधक संकट खत्म: 17 घंटे बाद सभी 20 बंधक छुड़ाए गए, 1 बंधककर्ता मारा गया"
+    "title": "कार्टाजेना सुपरमार्केट बंधक संकट खत्म: 17 घंटे बाद सभी 20 बंधक छुड़ाए गए, 1 बंधककर्ता मारा गया",
+    "summary": "कोलंबिया के कार्टाजेना में एक्सिटो सुपरमार्केट में करीब 30 लोगों को बंधक बनाने वाले हथियारबंद लोगों के खिलाफ पुलिस और सेना ने बुधवार तड़के कार्रवाई की। 10 बंधकों को मंगलवार को ही छोड़ दिया गया था, बाकी 20 को छुड़ा लिया गया और 1 बंधककर्ता मारा गया।"
    },
    "id": "cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25",
    "source": "PrimeFeed Desk",
@@ -678,13 +720,13 @@
    "category": "India",
    "district": null,
    "en": {
-    "summary": "Air India and Air India Express have extended the suspension of flights to and from Jeddah until November 30. Jeddah services had earlier been suspended only until November 24, while Riyadh and Dammam were already shut through November 30.",
-    "title": "Air India extends Jeddah flight suspension to November 30; all three Saudi routes now shut till month-end"
+    "title": "Air India extends Jeddah flight suspension to November 30; all three Saudi routes now shut till month-end",
+    "summary": "Air India and Air India Express have extended the suspension of flights to and from Jeddah until November 30. Jeddah services had earlier been suspended only until November 24, while Riyadh and Dammam were already shut through November 30."
    },
    "featured": false,
    "hi": {
-    "summary": "एयर इंडिया और एयर इंडिया एक्सप्रेस ने जेद्दा से आने-जाने वाली उड़ानों पर रोक 30 नवंबर तक बढ़ा दी है। पहले जेद्दा की उड़ानें 24 नवंबर तक ही बंद थीं, जबकि रियाद और दम्माम की सेवाएँ पहले से 30 नवंबर तक निलंबित थीं।",
-    "title": "एयर इंडिया ने जेद्दा उड़ानों पर रोक 30 नवंबर तक बढ़ाई; सऊदी के तीनों रूट महीने के अंत तक बंद"
+    "title": "एयर इंडिया ने जेद्दा उड़ानों पर रोक 30 नवंबर तक बढ़ाई; सऊदी के तीनों रूट महीने के अंत तक बंद",
+    "summary": "एयर इंडिया और एयर इंडिया एक्सप्रेस ने जेद्दा से आने-जाने वाली उड़ानों पर रोक 30 नवंबर तक बढ़ा दी है। पहले जेद्दा की उड़ानें 24 नवंबर तक ही बंद थीं, जबकि रियाद और दम्माम की सेवाएँ पहले से 30 नवंबर तक निलंबित थीं।"
    },
    "id": "air-india-jeddah-suspension-extended-november-30-november-25",
    "source": "PrimeFeed Desk",
@@ -701,13 +743,13 @@
    "category": "State & Local",
    "district": "Thane",
    "en": {
-    "summary": "53 people, including 17 children and 25 women, have been hospitalised in Bhiwandi after eating chicken shawarma from a roadside stall near Vanjarpatti Naka on Monday night. All patients are stable; a case has been filed against the absconding eatery owner and the stall has been demolished.",
-    "title": "53 hospitalised in Bhiwandi after eating shawarma, 17 children among them; case filed, stall demolished"
+    "title": "53 hospitalised in Bhiwandi after eating shawarma, 17 children among them; case filed, stall demolished",
+    "summary": "53 people, including 17 children and 25 women, have been hospitalised in Bhiwandi after eating chicken shawarma from a roadside stall near Vanjarpatti Naka on Monday night. All patients are stable; a case has been filed against the absconding eatery owner and the stall has been demolished."
    },
    "featured": false,
    "hi": {
-    "summary": "भिवंडी में सोमवार रात वंजारपट्टी नाका के पास की दुकान से चिकन शवर्मा खाने के बाद 53 लोग अस्पताल में भर्ती हुए हैं, जिनमें 17 बच्चे और 25 महिलाएं हैं। सभी की हालत स्थिर है; फरार दुकानदार के खिलाफ मामला दर्ज हुआ है और दुकान ध्वस्त कर दी गई है।",
-    "title": "भिवंडी में शवर्मा खाने से 53 लोग अस्पताल में, 17 बच्चे भी — दुकानदार पर केस, दुकान ध्वस्त"
+    "title": "भिवंडी में शवर्मा खाने से 53 लोग अस्पताल में, 17 बच्चे भी — दुकानदार पर केस, दुकान ध्वस्त",
+    "summary": "भिवंडी में सोमवार रात वंजारपट्टी नाका के पास की दुकान से चिकन शवर्मा खाने के बाद 53 लोग अस्पताल में भर्ती हुए हैं, जिनमें 17 बच्चे और 25 महिलाएं हैं। सभी की हालत स्थिर है; फरार दुकानदार के खिलाफ मामला दर्ज हुआ है और दुकान ध्वस्त कर दी गई है।"
    },
    "id": "bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25",
    "source": "PrimeFeed Desk",
@@ -724,13 +766,13 @@
    "category": "Crime & Law",
    "district": "Dharwad",
    "en": {
-    "summary": "The Supreme Court on Wednesday set aside the Karnataka High Court order suspending the conviction and life sentence of former Congress MLA Vinay Kulkarni in the 2016 murder of BJP leader Yogesh Gowda. Kulkarni and other convicts must surrender before the trial court within 2 weeks.",
-    "title": "Supreme Court sends ex-Congress MLA Vinay Kulkarni back to jail in Yogesh Gowda murder case, surrender in 2 weeks"
+    "title": "Supreme Court sends ex-Congress MLA Vinay Kulkarni back to jail in Yogesh Gowda murder case, surrender in 2 weeks",
+    "summary": "The Supreme Court on Wednesday set aside the Karnataka High Court order suspending the conviction and life sentence of former Congress MLA Vinay Kulkarni in the 2016 murder of BJP leader Yogesh Gowda. Kulkarni and other convicts must surrender before the trial court within 2 weeks."
    },
    "featured": false,
    "hi": {
-    "summary": "सुप्रीम कोर्ट ने बुधवार को भाजपा नेता योगेश गौड़ा की 2016 में हुई हत्या के मामले में पूर्व कांग्रेस विधायक विनय कुलकर्णी की सज़ा और आजीवन कारावास पर रोक लगाने वाले कर्नाटक हाईकोर्ट के आदेश को रद्द कर दिया। कुलकर्णी और अन्य दोषियों को 2 हफ्तों के भीतर ट्रायल कोर्ट के सामने सरेंडर करना होगा।",
-    "title": "सुप्रीम कोर्ट ने विनय कुलकर्णी की ज़मानत रद्द की, 2 हफ्तों में सरेंडर का आदेश — योगेश गौड़ा हत्याकांड"
+    "title": "सुप्रीम कोर्ट ने विनय कुलकर्णी की ज़मानत रद्द की, 2 हफ्तों में सरेंडर का आदेश — योगेश गौड़ा हत्याकांड",
+    "summary": "सुप्रीम कोर्ट ने बुधवार को भाजपा नेता योगेश गौड़ा की 2016 में हुई हत्या के मामले में पूर्व कांग्रेस विधायक विनय कुलकर्णी की सज़ा और आजीवन कारावास पर रोक लगाने वाले कर्नाटक हाईकोर्ट के आदेश को रद्द कर दिया। कुलकर्णी और अन्य दोषियों को 2 हफ्तों के भीतर ट्रायल कोर्ट के सामने सरेंडर करना होगा।"
    },
    "id": "supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25",
    "source": "PrimeFeed Desk",
@@ -747,13 +789,13 @@
    "category": "Dharm-Astrology",
    "district": "Puri",
    "en": {
-    "summary": "The remaining inventory and valuation of ornaments in the inner Ratna Bhandar of Puri's Shree Jagannath Temple will resume on November 26 and 27, the district Collector announced on Wednesday. Devotees will have darshan only from the Bahara Katha on both days.",
-    "title": "Puri: Counting of valuables in Jagannath Temple's inner Ratna Bhandar resumes on November 26 and 27; darshan only from Bahara Katha"
+    "title": "Puri: Counting of valuables in Jagannath Temple's inner Ratna Bhandar resumes on November 26 and 27; darshan only from Bahara Katha",
+    "summary": "The remaining inventory and valuation of ornaments in the inner Ratna Bhandar of Puri's Shree Jagannath Temple will resume on November 26 and 27, the district Collector announced on Wednesday. Devotees will have darshan only from the Bahara Katha on both days."
    },
    "featured": false,
    "hi": {
-    "summary": "पुरी के श्री जगन्नाथ मंदिर के भीतरी रत्न भंडार में बचे हुए आभूषणों की गिनती और मूल्यांकन 26 और 27 नवंबर को फिर शुरू होगा। जिलाधिकारी ने बुधवार को इसकी घोषणा की; 2 दिन तक श्रद्धालु बाहरा कथा से ही दर्शन कर सकेंगे।",
-    "title": "पुरी: श्री जगन्नाथ मंदिर के रत्न भंडार की गिनती 26 और 27 नवंबर को फिर शुरू होगी, दर्शन बाहरा कथा से ही होंगे"
+    "title": "पुरी: श्री जगन्नाथ मंदिर के रत्न भंडार की गिनती 26 और 27 नवंबर को फिर शुरू होगी, दर्शन बाहरा कथा से ही होंगे",
+    "summary": "पुरी के श्री जगन्नाथ मंदिर के भीतरी रत्न भंडार में बचे हुए आभूषणों की गिनती और मूल्यांकन 26 और 27 नवंबर को फिर शुरू होगा। जिलाधिकारी ने बुधवार को इसकी घोषणा की; 2 दिन तक श्रद्धालु बाहरा कथा से ही दर्शन कर सकेंगे।"
    },
    "id": "ratna-bhandar-inventory-resumes-puri-november-26-november-25",
    "source": "PrimeFeed Desk",
@@ -769,13 +811,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya said on Wednesday that the BJP will contest the 2027 Assembly elections on its lotus symbol and that the chief minister will be chosen by the MLAs elected after the polls. Chief Minister Yogi Adityanath said the lotus was everything for the party and that 'everyone knows who is who'.",
-    "title": "UP 2027: BJP's CM face will be decided by MLAs after polls, says Keshav Maurya; Yogi says 'everyone knows who is who'"
+    "title": "UP 2027: BJP's CM face will be decided by MLAs after polls, says Keshav Maurya; Yogi says 'everyone knows who is who'",
+    "summary": "Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya said on Wednesday that the BJP will contest the 2027 Assembly elections on its lotus symbol and that the chief minister will be chosen by the MLAs elected after the polls. Chief Minister Yogi Adityanath said the lotus was everything for the party and that 'everyone knows who is who'."
    },
    "featured": false,
    "hi": {
-    "summary": "उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने बुधवार को कहा कि 2027 के विधानसभा चुनाव में भाजपा कमल के फूल पर लड़ेगी और मुख्यमंत्री का फैसला चुनाव के बाद चुने गए विधायक करेंगे। मुख्यमंत्री योगी आदित्यनाथ ने भी साफ कहा कि कमल ही सबकुछ है और कौन क्या है, यह सबको पता है।",
-    "title": "यूपी 2027: मौर्य बोले, चुनाव के बाद विधायक चुनेंगे मुख्यमंत्री; योगी बोले, कौन क्या है, यह सबको पता है"
+    "title": "यूपी 2027: मौर्य बोले, चुनाव के बाद विधायक चुनेंगे मुख्यमंत्री; योगी बोले, कौन क्या है, यह सबको पता है",
+    "summary": "उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने बुधवार को कहा कि 2027 के विधानसभा चुनाव में भाजपा कमल के फूल पर लड़ेगी और मुख्यमंत्री का फैसला चुनाव के बाद चुने गए विधायक करेंगे। मुख्यमंत्री योगी आदित्यनाथ ने भी साफ कहा कि कमल ही सबकुछ है और कौन क्या है, यह सबको पता है।"
    },
    "id": "keshav-maurya-yogi-cm-face-up-2027-november-25",
    "source": "PrimeFeed Desk",
@@ -791,13 +833,13 @@
    "category": "State & Local",
    "district": "Hoshiarpur",
    "en": {
-    "summary": "A leopard that strayed into Sonalika International Tractors' factory in Hoshiarpur around 12:30 am was tranquilised and rescued after an operation lasting nearly 12 hours. The factory had to be shut and the morning shift cancelled; no one was injured.",
-    "title": "Leopard rescued from Sonalika tractor factory in Hoshiarpur after 12-hour operation"
+    "title": "Leopard rescued from Sonalika tractor factory in Hoshiarpur after 12-hour operation",
+    "summary": "A leopard that strayed into Sonalika International Tractors' factory in Hoshiarpur around 12:30 am was tranquilised and rescued after an operation lasting nearly 12 hours. The factory had to be shut and the morning shift cancelled; no one was injured."
    },
    "featured": false,
    "hi": {
-    "summary": "होशियारपुर में सोनालिका इंटरनेशनल ट्रैक्टर्स की फैक्ट्री में रात करीब 12:30 बजे घुसा तेंदुआ करीब 12 घंटे बाद बेहोश करके पकड़ा गया। वन विभाग की टीम ने सीसीटीवी और ड्रोन की मदद से उसे कन्वेयर बेल्ट के नीचे छिपा पाया। फैक्ट्री बंद करनी पड़ी और सुबह की शिफ्ट रद्द कर दी गई; किसी को चोट नहीं आई।",
-    "title": "होशियारपुर: सोनालिका फैक्ट्री में घुसा तेंदुआ, 12 घंटे के ऑपरेशन के बाद बेहोश करके पकड़ा गया"
+    "title": "होशियारपुर: सोनालिका फैक्ट्री में घुसा तेंदुआ, 12 घंटे के ऑपरेशन के बाद बेहोश करके पकड़ा गया",
+    "summary": "होशियारपुर में सोनालिका इंटरनेशनल ट्रैक्टर्स की फैक्ट्री में रात करीब 12:30 बजे घुसा तेंदुआ करीब 12 घंटे बाद बेहोश करके पकड़ा गया। वन विभाग की टीम ने सीसीटीवी और ड्रोन की मदद से उसे कन्वेयर बेल्ट के नीचे छिपा पाया। फैक्ट्री बंद करनी पड़ी और सुबह की शिफ्ट रद्द कर दी गई; किसी को चोट नहीं आई।"
    },
    "id": "leopard-rescued-sonalika-factory-hoshiarpur-november-25",
    "source": "PrimeFeed Desk",
@@ -813,13 +855,13 @@
    "breaking": false,
    "category": "World",
    "en": {
-    "summary": "Prime Minister Narendra Modi and German Chancellor Friedrich Merz spoke on the phone on Tuesday, reviewing the India-Germany strategic partnership. The two leaders said the proposed India-EU free trade agreement would unlock new opportunities for trade and investment.",
-    "title": "Modi, Merz review India-Germany strategic ties ahead of India-EU FTA signing"
+    "title": "Modi, Merz review India-Germany strategic ties ahead of India-EU FTA signing",
+    "summary": "Prime Minister Narendra Modi and German Chancellor Friedrich Merz spoke on the phone on Tuesday, reviewing the India-Germany strategic partnership. The two leaders said the proposed India-EU free trade agreement would unlock new opportunities for trade and investment."
    },
    "featured": false,
    "hi": {
-    "summary": "प्रधानमंत्री नरेंद्र मोदी और जर्मनी के चांसलर फ्रेडरिक मर्ज़ ने मंगलवार को फोन पर बात की। दोनों नेताओं ने भारत-जर्मनी रणनीतिक साझेदारी की प्रगति की समीक्षा की और कहा कि प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते से व्यापार और निवेश के नए मौके खुलेंगे।",
-    "title": "मोदी-मर्ज़ की फोन पर बातचीत, भारत-जर्मनी साझेदारी और भारत-यूरोपीय संघ व्यापार समझौते पर चर्चा"
+    "title": "मोदी-मर्ज़ की फोन पर बातचीत, भारत-जर्मनी साझेदारी और भारत-यूरोपीय संघ व्यापार समझौते पर चर्चा",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी और जर्मनी के चांसलर फ्रेडरिक मर्ज़ ने मंगलवार को फोन पर बात की। दोनों नेताओं ने भारत-जर्मनी रणनीतिक साझेदारी की प्रगति की समीक्षा की और कहा कि प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते से व्यापार और निवेश के नए मौके खुलेंगे।"
    },
    "id": "modi-merz-call-india-germany-ties-india-eu-fta-november-25",
    "source": "PrimeFeed Desk",
@@ -835,13 +877,13 @@
    "category": "Crime & Law",
    "district": "Reasi",
    "en": {
-    "summary": "Jammu and Kashmir DGP Nalin Prabhat has ordered the attachment of about 29 kanals of land belonging to five men from Reasi who are accused of operating from Pakistan. Police say they were trying to sell the land to fund terrorist activities.",
-    "title": "Reasi crackdown on terror funding: land of five accused operating from Pakistan attached"
+    "title": "Reasi crackdown on terror funding: land of five accused operating from Pakistan attached",
+    "summary": "Jammu and Kashmir DGP Nalin Prabhat has ordered the attachment of about 29 kanals of land belonging to five men from Reasi who are accused of operating from Pakistan. Police say they were trying to sell the land to fund terrorist activities."
    },
    "featured": false,
    "hi": {
-    "summary": "जम्मू कश्मीर के डीजीपी नलिन प्रभात ने रियासी के 5 आरोपियों की करीब 29 कनाल ज़मीन कुर्क करने का आदेश दिया है। पुलिस का कहना है कि ये लोग पाकिस्तान से आतंक चला रहे थे और ज़मीन बेचकर मिलने वाले पैसे को आतंकवाद में लगाने की तैयारी में थे।",
-    "title": "रियासी: पाकिस्तान से आतंक की फंडिंग पर प्रहार, 5 आरोपियों की 29 कनाल ज़मीन कुर्क"
+    "title": "रियासी: पाकिस्तान से आतंक की फंडिंग पर प्रहार, 5 आरोपियों की 29 कनाल ज़मीन कुर्क",
+    "summary": "जम्मू कश्मीर के डीजीपी नलिन प्रभात ने रियासी के 5 आरोपियों की करीब 29 कनाल ज़मीन कुर्क करने का आदेश दिया है। पुलिस का कहना है कि ये लोग पाकिस्तान से आतंक चला रहे थे और ज़मीन बेचकर मिलने वाले पैसे को आतंकवाद में लगाने की तैयारी में थे।"
    },
    "id": "jk-police-attach-29-kanal-land-five-reasi-accused-pakistan-november-25",
    "source": "PrimeFeed Desk",
@@ -857,13 +899,13 @@
    "breaking": false,
    "category": "Business",
    "en": {
-    "summary": "The Sensex closed 1,502.29 points higher at 83,938.28 on Wednesday, while the Nifty ended 469.60 points up at 25,819.25. Strong foreign fund inflows and softer crude oil prices powered a sharp rebound from Monday's fall.",
-    "title": "Sensex jumps 1,502 points to close at 83,938, Nifty ends at 25,819 after 2,062-point intraday surge"
+    "title": "Sensex jumps 1,502 points to close at 83,938, Nifty ends at 25,819 after 2,062-point intraday surge",
+    "summary": "The Sensex closed 1,502.29 points higher at 83,938.28 on Wednesday, while the Nifty ended 469.60 points up at 25,819.25. Strong foreign fund inflows and softer crude oil prices powered a sharp rebound from Monday's fall."
    },
    "featured": false,
    "hi": {
-    "summary": "सेंसेक्स बुधवार को 1,502.29 अंक चढ़कर 83,938.28 पर बंद हुआ, जबकि निफ्टी 469.60 अंक बढ़कर 25,819.25 पर बंद हुआ। विदेशी निवेशकों की भारी खरीदारी और कच्चे तेल की नरमी से बाज़ार ने सोमवार की गिरावट से ज़ोरदार वापसी की।",
-    "title": "सेंसेक्स 1,502 अंक चढ़कर 83,938 पर बंद, निफ्टी 25,819 पर — दिन में 2,062 अंक तक उछला"
+    "title": "सेंसेक्स 1,502 अंक चढ़कर 83,938 पर बंद, निफ्टी 25,819 पर — दिन में 2,062 अंक तक उछला",
+    "summary": "सेंसेक्स बुधवार को 1,502.29 अंक चढ़कर 83,938.28 पर बंद हुआ, जबकि निफ्टी 469.60 अंक बढ़कर 25,819.25 पर बंद हुआ। विदेशी निवेशकों की भारी खरीदारी और कच्चे तेल की नरमी से बाज़ार ने सोमवार की गिरावट से ज़ोरदार वापसी की।"
    },
    "id": "sensex-jumps-1502-points-nifty-closes-25819-november-25",
    "source": "PrimeFeed Desk",
@@ -878,13 +920,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "Meta's top executives in India held closed-door talks with Congress leaders at the party headquarters in New Delhi on Tuesday, the first direct engagement between the two sides since Youth Congress protests began. Meta made no commitments and said it acts within local laws.",
-    "title": "Meta meets Congress behind closed doors as protests over content curbs escalate"
+    "title": "Meta meets Congress behind closed doors as protests over content curbs escalate",
+    "summary": "Meta's top executives in India held closed-door talks with Congress leaders at the party headquarters in New Delhi on Tuesday, the first direct engagement between the two sides since Youth Congress protests began. Meta made no commitments and said it acts within local laws."
    },
    "featured": false,
    "hi": {
-    "summary": "मेटा के भारत के शीर्ष अधिकारियों ने मंगलवार को नई दिल्ली में कांग्रेस मुख्यालय में पार्टी नेताओं से बंद कमरे में बातचीत की। युवा कांग्रेस के विरोध प्रदर्शनों के बाद यह दोनों पक्षों की पहली सीधी बातचीत थी। मेटा ने कोई वादा नहीं किया और कहा कि वह स्थानीय कानूनों के दायरे में काम करता है।",
-    "title": "मेटा से कांग्रेस की बंद कमरे में बातचीत, कंटेंट पर पाबंदियों को लेकर तनाव कम करने की कोशिश"
+    "title": "मेटा से कांग्रेस की बंद कमरे में बातचीत, कंटेंट पर पाबंदियों को लेकर तनाव कम करने की कोशिश",
+    "summary": "मेटा के भारत के शीर्ष अधिकारियों ने मंगलवार को नई दिल्ली में कांग्रेस मुख्यालय में पार्टी नेताओं से बंद कमरे में बातचीत की। युवा कांग्रेस के विरोध प्रदर्शनों के बाद यह दोनों पक्षों की पहली सीधी बातचीत थी। मेटा ने कोई वादा नहीं किया और कहा कि वह स्थानीय कानूनों के दायरे में काम करता है।"
    },
    "id": "meta-meets-congress-content-curbs-protests-november-25",
    "source": "PrimeFeed Desk",
@@ -899,13 +941,13 @@
    "breaking": false,
    "category": "Politics",
    "en": {
-    "summary": "Differences between the Samajwadi Party and the Congress over seat-sharing for the 2027 Uttar Pradesh Assembly elections spilled into the open on Wednesday, with the Congress insisting on 120 seats against the SP's offer of 26. The SP has also announced its first list of 5 candidates.",
-    "title": "SP-Congress seat-sharing row spills into the open as Congress holds firm on 120 seats"
+    "title": "SP-Congress seat-sharing row spills into the open as Congress holds firm on 120 seats",
+    "summary": "Differences between the Samajwadi Party and the Congress over seat-sharing for the 2027 Uttar Pradesh Assembly elections spilled into the open on Wednesday, with the Congress insisting on 120 seats against the SP's offer of 26. The SP has also announced its first list of 5 candidates."
    },
    "featured": false,
    "hi": {
-    "summary": "2027 के यूपी विधानसभा चुनाव के लिए सीट बँटवारे पर समाजवादी पार्टी और कांग्रेस के बीच मतभेद खुलकर सामने आ गए हैं। कांग्रेस 120 सीटों पर अड़ी है, जबकि सपा ने 26 सीटों की पेशकश की है। सपा ने अपनी पहली सूची में 5 उम्मीदवारों के नाम भी घोषित कर दिए हैं।",
-    "title": "यूपी में सीट बँटवारे पर सपा-कांग्रेस में खुलकर तकरार, इमरान मसूद बोले — हम भिखारी नहीं"
+    "title": "यूपी में सीट बँटवारे पर सपा-कांग्रेस में खुलकर तकरार, इमरान मसूद बोले — हम भिखारी नहीं",
+    "summary": "2027 के यूपी विधानसभा चुनाव के लिए सीट बँटवारे पर समाजवादी पार्टी और कांग्रेस के बीच मतभेद खुलकर सामने आ गए हैं। कांग्रेस 120 सीटों पर अड़ी है, जबकि सपा ने 26 सीटों की पेशकश की है। सपा ने अपनी पहली सूची में 5 उम्मीदवारों के नाम भी घोषित कर दिए हैं।"
    },
    "id": "congress-sp-seat-sharing-row-120-seats-masood-november-25",
    "source": "PrimeFeed Desk",
@@ -3264,52 +3306,6 @@
     "title": "2027 यूपी चुनाव: सपा ने कांग्रेस को 403 में से सिर्फ 26 सीटें दीं, कांग्रेस 131 से घटाकर 120 पर आई; बातचीत अधर में",
     "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनावों के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस की माँग 181 से घटकर 120 रह गई है। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें, दूसरे नंबर वाली 4 सीटें और 20 अन्य सीटें हैं; अगले 2 दौर की बैठकों में बातचीत जारी रहेगी।"
    }
-  },
-  {
-   "id": "shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T21:41:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24-en.mp3",
-   "en": {
-    "title": "Shahjahanpur man faked his own death by killing a visually impaired man, police say",
-    "summary": "Police in Uttar Pradesh's Shahjahanpur district have arrested a 40-year-old man accused of killing a visually impaired man and passing off the body as his own to escape arrest in three criminal cases. The torso was found in a well on November 17 with the accused's Aadhaar card beside it."
-   },
-   "hi": {
-    "title": "शाहजहाँपुर में मौत का नाटक: गिरफ्तारी से बचने के लिए आरोपी ने दृष्टिहीन युवक की हत्या कर शव को अपना बताया",
-    "summary": "उत्तर प्रदेश के शाहजहाँपुर जिले में पुलिस ने 40 साल के एक आरोपी को गिरफ्तार किया है, जिस पर 3 आपराधिक मामलों में गिरफ्तारी से बचने के लिए एक दृष्टिहीन युवक की हत्या कर उसके शव को अपना बताने का आरोप है। 17 नवंबर को कुएँ में मिले धड़ के पास आरोपी का आधार कार्ड पड़ा था।"
-   },
-   "district": "Shahjahanpur",
-   "state": "Uttar Pradesh"
-  },
-  {
-   "id": "thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24",
-   "category": "Dharm-Astrology",
-   "sub": "Mandir & Teerth",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T21:41:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24-en.mp3",
-   "en": {
-    "title": "Karthigai Deepam lit at Uchipillayar, not Deepathoon, despite Supreme Court order; protests erupt in Madurai",
-    "summary": "The Karthigai Deepam was lit at the customary Uchipillayar mandapam on Thirupparankundram hill in Madurai on Tuesday evening, but no lamp was lit at the disputed Deepathoon pillar despite a Supreme Court order permitting it. Protests broke out and several BJP leaders were detained as around 6,000 police personnel kept watch."
-   },
-   "hi": {
-    "title": "सुप्रीम कोर्ट के आदेश के बावजूद दीपस्तंभ पर नहीं जला कार्तिगई दीपम, उचिपिल्लैयार मंडपम पर जली ज्योति; मदुरै में विरोध",
-    "summary": "मदुरै के तिरुप्परंकुंड्रम पहाड़ी पर मंगलवार शाम कार्तिगई दीपम पारंपरिक उचिपिल्लैयार मंडपम पर जलाया गया, लेकिन सुप्रीम कोर्ट के आदेश के बावजूद विवादित दीपस्तंभ पर दीप नहीं जला। विरोध प्रदर्शन हुए और कई बीजेपी नेताओं को हिरासत में लिया गया, जबकि करीब 6,000 पुलिसकर्मी तैनात रहे।"
-   },
-   "district": "Madurai",
-   "state": "Tamil Nadu"
   }
  ]
 }
