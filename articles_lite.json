@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T17:53:13+05:30",
+ "updatedAt": "2026-11-25T18:05:19+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "World",
+   "district": null,
+   "en": {
+    "title": "Cartagena supermarket siege ends: all 20 remaining hostages freed, one captor killed after 17-hour standoff",
+    "summary": "Colombian police and soldiers stormed an Exito supermarket in Cartagena early on Wednesday, ending a 17-hour hostage siege. Ten hostages had been released on Tuesday; the remaining 20 were rescued and one captor was killed."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कार्टाजेना सुपरमार्केट बंधक संकट खत्म: 17 घंटे बाद सभी 20 बंधक छुड़ाए गए, एक बंधककर्ता मारा गया",
+    "summary": "कोलंबिया के कार्टाजेना में एक्सिटो सुपरमार्केट में करीब 30 लोगों को बंधक बनाने वाले हथियारबंद लोगों के खिलाफ पुलिस और सेना ने बुधवार तड़के कार्रवाई की। 10 बंधकों को मंगलवार को ही छोड़ दिया गया था, बाकी 20 को छुड़ा लिया गया और एक बंधककर्ता मारा गया।"
+   },
+   "id": "cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "Others",
+   "trending": true,
+   "publishedAt": "2026-11-25T18:01:04+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "India",
+   "district": null,
+   "en": {
+    "title": "Air India extends Jeddah flight suspension to November 30; all three Saudi routes now shut till month-end",
+    "summary": "Air India and Air India Express have extended the suspension of flights to and from Jeddah until November 30. Jeddah services had earlier been suspended only until November 24, while Riyadh and Dammam were already shut through November 30."
+   },
+   "featured": false,
+   "hi": {
+    "title": "एयर इंडिया ने जेद्दा उड़ानों पर रोक 30 नवंबर तक बढ़ाई; सऊदी के तीनों रूट महीने के अंत तक बंद",
+    "summary": "एयर इंडिया और एयर इंडिया एक्सप्रेस ने जेद्दा से आने-जाने वाली उड़ानों पर रोक 30 नवंबर तक बढ़ा दी है। पहले जेद्दा की उड़ानें 24 नवंबर तक ही बंद थीं, जबकि रियाद और दम्माम की सेवाएँ पहले से 30 नवंबर तक निलंबित थीं।"
+   },
+   "id": "air-india-jeddah-suspension-extended-november-30-november-25",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "National",
+   "trending": false,
+   "publishedAt": "2026-11-25T18:01:04+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/air-india-jeddah-suspension-extended-november-30-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-jeddah-suspension-extended-november-30-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/air-india-jeddah-suspension-extended-november-30-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "State & Local",
@@ -3252,48 +3298,6 @@
    },
    "district": "Medchal-Malkajgiri",
    "state": "Telangana"
-  },
-  {
-   "id": "tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes",
-   "category": "Business",
-   "sub": "Auto",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T16:19:36+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes-en.mp3",
-   "en": {
-    "title": "Tata cars to cost more from December 1 as prices rise 0.5%; Hyundai and Audi also hike rates",
-    "summary": "Tata Motors Passenger Vehicles will raise prices across its entire cars and SUVs range, including electric vehicles, by an average of 0.5 per cent from December 1, 2026. Hyundai will raise select models by up to Rs 8,000 from the same day, Audi by up to 2 per cent from January 1, and Maruti Suzuki has already raised prices by about 0.31 per cent from November 22. Carmakers blame persistently high input costs."
-   },
-   "hi": {
-    "title": "1 दिसंबर से महंगी होंगी टाटा की कारें, 0.5% बढ़ेंगे दाम; हुंडई और ऑडी भी बढ़ा रहीं कीमतें",
-    "summary": "टाटा मोटर्स पैसेंजर व्हीकल्स 1 दिसंबर 2026 से अपनी सभी कारों और एसयूवी की कीमतों में औसतन 0.5% की बढ़ोतरी करेगी, जिसमें इलेक्ट्रिक गाड़ियां भी शामिल हैं। हुंडई चुनिंदा मॉडलों पर 8,000 रुपये तक और ऑडी 1 जनवरी से 2% तक दाम बढ़ाएगी, जबकि मारुति सुजुकी 22 नवंबर से ही करीब 0.31% की बढ़ोतरी कर चुकी है। कंपनियों ने बढ़ती लागत को वजह बताया है।"
-   }
-  },
-  {
-   "id": "ramayana-tickets-rs-99-gurpurab-offer-november-24",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T16:00:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-tickets-rs-99-gurpurab-offer-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-tickets-rs-99-gurpurab-offer-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-tickets-rs-99-gurpurab-offer-november-24-en.mp3",
-   "hi": {
-    "title": "रामायण के टिकट सिर्फ 99 रुपये: गुरुपरब पर मेकर्स का बड़ा ऑफर, तीसरे सोमवार को कमाई घटी",
-    "summary": "नितेश तिवारी की 'रामायण' के मेकर्स ने गुरुपरब के मौके पर टिकटों की कीमतें घटा दी हैं — मंगलवार को देशभर में 2डी टिकट सिर्फ 99 रुपये से शुरू। फिल्म 19 दिन में भारत में 955.45 करोड़ रुपये नेट कमा चुकी है।"
-   },
-   "en": {
-    "title": "Ramayana tickets slashed to Rs 99 for Gurpurab as third-Monday collections dip",
-    "summary": "The makers of Nitesh Tiwari's Ramayana have cut ticket prices for Gurpurab — 2D tickets start at just Rs 99 across India on Tuesday. The film has collected Rs 955.45 crore net in India in 19 days."
-   }
   }
  ]
 }
