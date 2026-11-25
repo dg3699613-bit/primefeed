@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T13:57:51+05:30",
+ "updatedAt": "2026-11-25T14:20:11+05:30",
  "articles": [
+  {
+   "id": "seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25",
+   "category": "State & Local",
+   "sub": "South India",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T14:16:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25-en.mp3",
+   "district": "Kakinada",
+   "state": "Andhra Pradesh",
+   "hi": {
+    "title": "काकिनाडा के 7 मछुआरे सुरक्षित मिले, 6 की तलाश अब बांग्लादेश-म्यांमार के समुद्र तक",
+    "summary": "आंध्र प्रदेश के काकिनाडा जिले के येतिमोगा गांव के 7 मछुआरे सुरक्षित मिल गए हैं। इंजन खराब होने से उनकी नाव कृष्णापुरम के पास समुद्र में फंस गई थी। वहीं, उप्पाडा के सुब्बंपेटा गांव के 6 मछुआरे 4 नवंबर से लापता हैं, और उनकी तलाश अब बांग्लादेश और म्यांमार के समुद्री क्षेत्र तक बढ़ा दी गई है।"
+   },
+   "en": {
+    "title": "Seven Kakinada fishermen found safe; search for six missing men now reaches Bangladesh and Myanmar waters",
+    "summary": "Seven fishermen from Yetimoga village in the Kakinada district of Andhra Pradesh have been found safe after their boat broke down at sea. Six other fishermen from Subbampeta in Uppada have been missing since 4 November, and the search for them has now been extended to the waters of Bangladesh and Myanmar."
+   }
+  },
+  {
+   "id": "supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T14:16:28+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25-en.mp3",
+   "hi": {
+    "title": "राहुल गांधी को सुप्रीम कोर्ट से बड़ी राहत, सीबीआई-ईडी जांच का इलाहाबाद हाई कोर्ट का आदेश रद्द",
+    "summary": "सुप्रीम कोर्ट ने बुधवार को राहुल गांधी की संपत्ति से जुड़े मामले में इलाहाबाद हाई कोर्ट के उस आदेश को रद्द कर दिया, जिसमें सीबीआई और ईडी को शिकायत की जांच करने को कहा गया था। मुख्य न्यायाधीश सूर्य कांत की अध्यक्षता वाली पीठ ने मामला हाई कोर्ट को नए सिरे से सुनवाई के लिए भेज दिया है।"
+   },
+   "en": {
+    "title": "Supreme Court sets aside Allahabad High Court order for CBI-ED probe into Rahul Gandhi's assets; fresh hearing ordered",
+    "summary": "The Supreme Court on Wednesday set aside orders of the Allahabad High Court directing the CBI and the Enforcement Directorate to examine allegations that Rahul Gandhi held assets disproportionate to his known sources of income. A bench led by Chief Justice Surya Kant sent the matter back to the High Court for a fresh hearing."
+   }
+  },
   {
    "id": "brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25",
    "category": "State & Local",
@@ -3253,52 +3297,6 @@
    "en": {
     "title": "Ankita Bhandari case: Ex-BJP MLA Suresh Rathore to undergo narco, polygraph tests in Gandhinagar today",
     "summary": "Former BJP MLA Suresh Rathore will undergo polygraph and narco-analysis tests in Gandhinagar on Tuesday as part of the CBI's probe into the alleged VIP angle in the 2022 murder of 19-year-old Ankita Bhandari. Rathore, who travelled to Gujarat on Monday, has said he will cooperate fully with the agency."
-   }
-  },
-  {
-   "id": "ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T10:18:41+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-arrests-lawyer-himanshu-shekhar-mahadev-case-raipur-november-24-en.mp3",
-   "district": "Raipur",
-   "state": "Chhattisgarh",
-   "hi": {
-    "title": "महादेव केस: ED ने वकील हिमांशु शेखर को रायपुर में गिरफ्तार किया, 28 नवंबर तक हिरासत में भेजा",
-    "summary": "बॉम्बे हाई कोर्ट ने मुंबई की विशेष अदालत का आदेश रद्द कर दिया था, जिसके बाद ED ने शेखर को रायपुर में गिरफ्तार किया। उन पर महादेव ऐप के कथित सरगना सौरभ चंद्राकर से 15 करोड़ रुपये लेकर मामलों में राहत दिलाने का वादा करने का आरोप है।"
-   },
-   "en": {
-    "title": "Mahadev case: ED arrests lawyer Himanshu Shekhar in Raipur, court grants custody till November 28",
-    "summary": "The Bombay High Court had quashed a Mumbai special court's order denying transit remand, after which the ED arrested Shekhar in Raipur. He is accused of taking Rs 15 crore from Mahadev app's alleged kingpin Sourabh Chandrakar, promising relief in cases."
-   }
-  },
-  {
-   "id": "rajsamand-bhim-trailer-overturns-catches-fire-one-dead-november-24",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-24T10:01:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajsamand-bhim-trailer-overturns-catches-fire-one-dead-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajsamand-bhim-trailer-overturns-catches-fire-one-dead-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajsamand-bhim-trailer-overturns-catches-fire-one-dead-november-24-en.mp3",
-   "district": "Rajsamand",
-   "state": "Rajasthan",
-   "hi": {
-    "title": "भीम में ट्रेलर पलटते ही लगी आग, 1 की मौत; केबिन में फंसे चालक-खलासी को जेसीबी से निकाला",
-    "summary": "राजसमंद जिले के भीम उपखंड में सोमवार देर रात राष्ट्रीय राजमार्ग 58 पर मलयाथड़ी के पास एक ट्रेलर पलट गया और उसमें आग लग गई। हादसे में झुलसने से 1 व्यक्ति की मौत हो गई, जबकि दूसरा गंभीर रूप से घायल है।"
-   },
-   "en": {
-    "title": "Trailer overturns and catches fire near Bhim in Rajsamand, 1 dead; driver and helper pulled from cabin with JCB",
-    "summary": "A trailer overturned and caught fire near Malayathadi on National Highway 58 in Bhim subdivision of Rajsamand district late on Monday night. One person died of burn injuries, while another was seriously injured."
    }
   }
  ]
