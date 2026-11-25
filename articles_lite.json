@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T17:38:28+05:30",
+ "updatedAt": "2026-11-25T17:53:13+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "State & Local",
+   "district": "Thane",
+   "en": {
+    "title": "53 hospitalised in Bhiwandi after eating shawarma, 17 children among them; case filed, stall demolished",
+    "summary": "53 people, including 17 children and 25 women, have been hospitalised in Bhiwandi after eating chicken shawarma from a roadside stall near Vanjarpatti Naka on Monday night. All patients are stable; a case has been filed against the absconding eatery owner and the stall has been demolished."
+   },
+   "featured": false,
+   "hi": {
+    "title": "भिवंडी में शवर्मा खाने से 53 लोग अस्पताल में, 17 बच्चे भी — दुकानदार पर केस, दुकान ध्वस्त",
+    "summary": "भिवंडी में सोमवार रात वंजारपट्टी नाका के पास की दुकान से चिकन शवर्मा खाने के बाद 53 लोग अस्पताल में भर्ती हुए हैं, जिनमें 17 बच्चे और 25 महिलाएं हैं। सभी की हालत स्थिर है; फरार दुकानदार के खिलाफ मामला दर्ज हुआ है और दुकान ध्वस्त कर दी गई है।"
+   },
+   "id": "bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Maharashtra",
+   "sub": "Maharashtra",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:48:27+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Dharwad",
+   "en": {
+    "title": "Supreme Court sends ex-Congress MLA Vinay Kulkarni back to jail in Yogesh Gowda murder case, surrender in 2 weeks",
+    "summary": "The Supreme Court on Wednesday set aside the Karnataka High Court order suspending the conviction and life sentence of former Congress MLA Vinay Kulkarni in the 2016 murder of BJP leader Yogesh Gowda. Kulkarni and other convicts must surrender before the trial court within 2 weeks."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुप्रीम कोर्ट ने विनय कुलकर्णी की ज़मानत रद्द की, 2 हफ्तों में सरेंडर का आदेश — योगेश गौड़ा हत्याकांड",
+    "summary": "सुप्रीम कोर्ट ने बुधवार को भाजपा नेता योगेश गौड़ा की 2016 में हुई हत्या के मामले में पूर्व कांग्रेस विधायक विनय कुलकर्णी की सज़ा और आजीवन कारावास पर रोक लगाने वाले कर्नाटक हाईकोर्ट के आदेश को रद्द कर दिया। कुलकर्णी और अन्य दोषियों को 2 हफ्तों के भीतर ट्रायल कोर्ट के सामने सरेंडर करना होगा।"
+   },
+   "id": "supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Karnataka",
+   "sub": "Courts",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:48:27+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Dharm-Astrology",
@@ -3247,52 +3293,6 @@
    "en": {
     "title": "Ramayana tickets slashed to Rs 99 for Gurpurab as third-Monday collections dip",
     "summary": "The makers of Nitesh Tiwari's Ramayana have cut ticket prices for Gurpurab — 2D tickets start at just Rs 99 across India on Tuesday. The film has collected Rs 955.45 crore net in India in 19 days."
-   }
-  },
-  {
-   "id": "tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24",
-   "category": "Politics",
-   "sub": "Regional Parties",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:47:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tn-bjp-chief-nainar-nagenthran-house-arrest-thirupparankundram-november-24-en.mp3",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "तिरुप्परंकुंद्रम: दीपम से पहले तमिलनाडु भाजपा अध्यक्ष नैनार नागेंद्रन नज़रबंद, एल मुरुगन हिरासत में",
-    "summary": "कार्तिगई दीपम से पहले तिरुप्परंकुंद्रम में सुप्रीम कोर्ट के आदेश पर दीप जलाए जाने की पुष्टि करने जा रहे तमिलनाडु भाजपा अध्यक्ष नैनार नागेंद्रन को तिरुनेलवेली में उनके घर पर नज़रबंद कर दिया गया। पूर्व केंद्रीय मंत्री एल मुरुगन को अन्नूर में हिरासत में लिया गया; पहाड़ी पर 5,000 से ज़्यादा पुलिसकर्मी तैनात हैं।"
-   },
-   "en": {
-    "title": "TN BJP chief Nainar Nagenthran placed under house arrest ahead of Thirupparankundram Deepam; L Murugan detained",
-    "summary": "Tamil Nadu BJP president Nainar Nagenthran was placed under house arrest at his home in Tirunelveli on Tuesday while heading to Thirupparankundram to check whether the Karthigai Deepam would be lit at the Deepathoon as the Supreme Court ordered. Former Union minister L Murugan was detained at Annur; more than 5,000 police personnel are deployed on the hill."
-   }
-  },
-  {
-   "id": "diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24",
-   "category": "Crime & Law",
-   "sub": "Cyber Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:47:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/diljit-dosanjh-bengaluru-concert-bomb-threat-fir-november-24-en.mp3",
-   "district": "Bengaluru Urban",
-   "state": "Karnataka",
-   "hi": {
-    "title": "दिलजीत दोसांझ के बेंगलुरु कॉन्सर्ट को IED धमाके की धमकी, FIR दर्ज; ईमेल में 'खालिस्तान जिंदाबाद'",
-    "summary": "गायक दिलजीत दोसांझ के 29 नवंबर को बेंगलुरु के नाइस ग्राउंड्स, मदावरा में होने वाले कॉन्सर्ट में IED धमाका करने की धमकी भरे ईमेल पर बेंगलुरु पुलिस ने अज्ञात लोगों के खिलाफ FIR दर्ज की है। ईमेल में मदावरा मेट्रो स्टेशन को भी निशाना बनाने और 'खालिस्तान जिंदाबाद' लिखने की बात सामने आई है।"
-   },
-   "en": {
-    "title": "Bomb threat emailed over Diljit Dosanjh's Bengaluru concert on November 29, FIR filed; message ended with 'Khalistan Zindabad'",
-    "summary": "Bengaluru police have registered an FIR against unidentified persons over an email threatening an IED blast at singer Diljit Dosanjh's concert on November 29 at NICE Grounds in Madavara. The email also targeted the nearby Madavara Metro station and ended with the slogan 'Khalistan Zindabad'."
    }
   }
  ]
