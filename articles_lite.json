@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T09:17:16+05:30",
+ "updatedAt": "2026-11-25T09:42:47+05:30",
  "articles": [
+  {
+   "id": "woman-killed-leopard-attack-kupwara-chowkibal-november-24",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T09:42:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/woman-killed-leopard-attack-kupwara-chowkibal-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-killed-leopard-attack-kupwara-chowkibal-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-killed-leopard-attack-kupwara-chowkibal-november-24-en.mp3",
+   "district": "Kupwara",
+   "state": "Jammu and Kashmir",
+   "hi": {
+    "title": "कुपवाड़ा में तेंदुए के हमले में महिला की मौत, जंगल में लकड़ी लेने गई थीं रिफ़त बेगम",
+    "summary": "कुपवाड़ा जिले के चौकीबल इलाके के ज़ुनरेशी गुंड में मंगलवार दोपहर तेंदुए के हमले में एक महिला की मौत हो गई। वह पास के जंगल में लकड़ी लेने गई थीं, तभी तेंदुए ने उन पर हमला कर दिया। मृतका की पहचान रिफ़त बेगम के रूप में हुई है।"
+   },
+   "en": {
+    "title": "Leopard kills woman collecting firewood in Kupwara's Chowkibal",
+    "summary": "A woman was killed in a leopard attack in the Zunreshi Gund area of Chowkibal in Kupwara district on Tuesday afternoon. She had gone to a nearby forest to collect firewood when the leopard attacked her. She has been identified as Rifat Begum, a resident of Zunreshi Gund."
+   }
+  },
+  {
+   "id": "uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24",
+   "category": "World",
+   "sub": "Middle East",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T09:42:47+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24-en.mp3",
+   "hi": {
+    "title": "यूएई के रास अल खैमाह में बस-ट्रक की टक्कर में 13 की मौत, मरने वालों में भारतीय भी",
+    "summary": "यूएई के रास अल खैमाह में अल वतन रोड पर 41 लोगों को लेकर जा रही एक यात्री बस के सड़क किनारे खड़े ट्रक से टकराने से 13 लोगों की मौत हो गई, जिनमें भारतीय नागरिक भी शामिल हैं। 11 लोगों की मौके पर मौत हुई, 2 ने अस्पताल में दम तोड़ा, 14 घायल हैं। दुबई स्थित भारतीय वाणिज्य दूतावास ने मदद के लिए 24 घंटे का हेल्पलाइन नंबर 800-46342 जारी किया है।"
+   },
+   "en": {
+    "title": "13 killed, including Indians, as bus rams broken-down truck in UAE's Ras Al Khaimah",
+    "summary": "Thirteen people, including Indian nationals, were killed after a passenger bus carrying 41 people crashed into a truck that had stopped on the roadside in Ras Al Khaimah in the UAE. Eleven people died at the scene and 2 more died in hospital; 14 others were injured. The Indian Consulate in Dubai has issued a 24-hour helpline, 800-46342, for assistance."
+   }
+  },
   {
    "id": "duliajan-triple-murder-accused-shot-in-police-firing-november-25",
    "category": "Crime & Law",
@@ -3249,48 +3293,6 @@
    "en": {
     "title": "Karnataka makes free sanitary pads, separate toilets mandatory in all schools and PU colleges",
     "summary": "Karnataka's School Education Department has made separate toilets for girls, free sanitary pads and menstrual hygiene facilities mandatory in every government, aided and unaided school and PU college in the state, following the Supreme Court's ruling that menstrual hygiene is a fundamental right. Girls in Classes 6 to 12 will get free biodegradable napkins, vending machines will be installed in toilets, and schools that fail to comply face disciplinary action."
-   }
-  },
-  {
-   "id": "north-korea-kim-yo-jong-swiss-office-pyongyang-threat-november-24",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T05:27:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/north-korea-kim-yo-jong-swiss-office-pyongyang-threat-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-kim-yo-jong-swiss-office-pyongyang-threat-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-kim-yo-jong-swiss-office-pyongyang-threat-november-24-en.mp3",
-   "hi": {
-    "title": "किम यो जोंग की धमकी: प्योंगयांग में स्विट्जरलैंड का दफ्तर बंद करने पर विचार करेगा उत्तर कोरिया",
-    "summary": "उत्तर कोरिया के नेता किम जोंग उन की बहन किम यो जोंग ने कहा है कि उनका देश प्योंगयांग में स्विट्जरलैंड के राजनयिक दफ्तर को बंद करने पर विचार करेगा। यह चेतावनी स्विट्जरलैंड की ओर से वोनसान के सोंगदोवन बच्चों के शिविर पर लगाए गए प्रतिबंधों के बाद आई है, जबकि यह दफ्तर अक्टूबर के आखिर में ही फिर से खुला था।"
-   },
-   "en": {
-    "title": "Kim Yo Jong threatens to shut Switzerland's Pyongyang office weeks after it reopened",
-    "summary": "North Korean leader Kim Jong Un's sister Kim Yo Jong has said Pyongyang will consider shutting down Switzerland's diplomatic office in the capital, after Bern sanctioned a children's camp in Wonsan over the transfer of Ukrainian children from Russian-occupied territory. The office had reopened only in late October."
-   }
-  },
-  {
-   "id": "congo-suspends-cobalt-exports-november-30-november-24",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T05:27:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congo-suspends-cobalt-exports-november-30-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congo-suspends-cobalt-exports-november-30-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congo-suspends-cobalt-exports-november-30-november-24-en.mp3",
-   "hi": {
-    "title": "कांगो 30 नवंबर से कोबाल्ट का सारा निर्यात रोकेगा, गिरती कीमतों को संभालने की कोशिश",
-    "summary": "दुनिया के सबसे बड़े कोबाल्ट उत्पादक कांगो लोकतांत्रिक गणराज्य ने 30 नवंबर से कोबाल्ट का सारा निर्यात अगले आदेश तक रोकने का फैसला किया है। नियामक एरेकॉम्स ने कहा है कि कमजोर माँग, बढ़ते भंडार और ज़रूरत से ज़्यादा आपूर्ति से कीमतें लगातार गिर रही हैं, और कोबाल्ट हाइड्रॉक्साइड की कीमत अप्रैल के शिखर से लगभग आधी रह गई है।"
-   },
-   "en": {
-    "title": "Congo to halt all cobalt exports from November 30 in fresh bid to lift slumping prices",
-    "summary": "The Democratic Republic of Congo will suspend all cobalt exports from November 30 until further notice, its strategic minerals regulator ARECOMS said on Monday. The world's biggest cobalt producer is acting against weak demand, rising inventories and excess supply, with cobalt hydroxide prices down by nearly half from their April peak."
    }
   }
  ]
