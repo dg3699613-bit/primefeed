@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T11:24:56+05:30",
+ "updatedAt": "2026-11-25T11:37:09+05:30",
  "articles": [
+  {
+   "id": "manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T11:37:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25-en.mp3",
+   "district": "Imphal West",
+   "state": "Manipur",
+   "hi": {
+    "title": "मणिपुर में 7 कथित केसीपी कैडर गिरफ्तार, इंफाल ईस्ट और वेस्ट में हथियारों का जखीरा बरामद",
+    "summary": "इंफाल वेस्ट और इंफाल ईस्ट जिलों में 23 और 24 नवंबर को हुई खुफिया जानकारी पर आधारित कार्रवाई में सुरक्षा बलों ने केसीपी के अलग-अलग गुटों के 7 कथित कैडरों को गिरफ्तार किया और हथियारों, गोला-बारूद व संचार उपकरणों का जखीरा बरामद किया।"
+   },
+   "en": {
+    "title": "7 alleged KCP cadres arrested in Manipur, arms cache seized in Imphal East and West operations",
+    "summary": "Security forces arrested 7 alleged cadres of different KCP factions and seized a cache of arms, ammunition and communication equipment during intelligence-based operations in Imphal West and Imphal East districts on November 23 and 24."
+   }
+  },
+  {
+   "id": "thiruparankundram-deepam-supreme-court-refuses-suo-motu-contempt-november-25",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T11:37:09+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-deepam-supreme-court-refuses-suo-motu-contempt-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-deepam-supreme-court-refuses-suo-motu-contempt-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-deepam-supreme-court-refuses-suo-motu-contempt-november-25-en.mp3",
+   "district": "Madurai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "तिरुपरंकुंड्रम दीपम विवाद में सुप्रीम कोर्ट ने स्वतः अवमानना लेने से इनकार किया, याचिकाकर्ताओं से अर्जी दाखिल करने को कहा",
+    "summary": "सुप्रीम कोर्ट ने बुधवार को तिरुपरंकुंड्रम पहाड़ी पर दीपथून पर कार्तिगई दीपम न जलने के मामले में तमिलनाडु के अधिकारियों के खिलाफ स्वतः अवमानना की कार्रवाई लेने से इनकार कर दिया और हिंदू धर्म परिषद से औपचारिक अवमानना याचिका दाखिल करने को कहा।"
+   },
+   "en": {
+    "title": "Supreme Court refuses to take suo motu contempt in Thiruparankundram Deepam row, tells petitioners to file plea",
+    "summary": "The Supreme Court on Wednesday declined to take suo motu contempt action against Tamil Nadu authorities after the Karthigai Deepam was not lit at the Deepathoon atop Thiruparankundram hill, and asked the Hindu Dharma Parishad to file a formal contempt petition."
+   }
+  },
   {
    "id": "rewa-school-hostel-student-suryansh-gupta-dies-cardiac-arrest-november-25",
    "category": "Crime & Law",
@@ -3243,52 +3289,6 @@
    "en": {
     "title": "At least 20 injured as Awami League factions clash in Gopalganj",
     "summary": "At least 20 people were injured when two factions of the activities-banned Awami League clashed in Gopalganj on Monday evening, with four crude bombs exploding and ten shops vandalised near the town's cricket stadium."
-   }
-  },
-  {
-   "id": "lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24",
-   "category": "State & Local",
-   "sub": "Bihar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T07:34:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24-en.mp3",
-   "district": "Lakhisarai",
-   "state": "Bihar",
-   "hi": {
-    "title": "लखीसराय-जमुई मार्ग पर स्कॉर्पियो-ट्रक की भीषण टक्कर, 5 की मौत; 3 घायल",
-    "summary": "बिहार के लखीसराय जिले में मंगलवार अहले सुबह स्कॉर्पियो और ट्रक की आमने-सामने टक्कर में 5 लोगों की मौत हो गई। हादसा तेतरहाट थाना क्षेत्र के गुणसागर गांव के पास हुआ।"
-   },
-   "en": {
-    "title": "Five killed, three injured as Scorpio collides with truck on Lakhisarai-Jamui road",
-    "summary": "Five people were killed and three others seriously injured in a head-on collision between a Scorpio and a truck near Gunsagar village in Bihar's Lakhisarai district early on Tuesday morning."
-   }
-  },
-  {
-   "id": "haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24",
-   "category": "Agriculture",
-   "sub": "Crops",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T07:34:10+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24-en.mp3",
-   "district": "Haveri",
-   "state": "Karnataka",
-   "hi": {
-    "title": "हावेरी में गन्ना किसानों की आधी जीत: 14 घंटे की बातचीत के बाद 3,225 रुपये प्रति टन पर सहमति",
-    "summary": "कर्नाटक के हावेरी में गन्ने के दाम को लेकर चल रहा किसानों का आंदोलन रंग लाया। रात 2 बजे तक चली 14 घंटे की बातचीत के बाद चीनी कारखाना मालिकों ने प्रति टन 3,225 रुपये देने पर सहमति जताई।"
-   },
-   "en": {
-    "title": "Haveri sugarcane farmers win partial victory: Rs 3,225 per tonne agreed after 14-hour talks",
-    "summary": "Sugarcane farmers in Karnataka's Haveri district ended their protest after factory owners agreed to pay Rs 3,225 per tonne following 14 hours of talks that ran till 2 am on Tuesday."
    }
   }
  ]
