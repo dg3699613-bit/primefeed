@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T14:20:11+05:30",
+ "updatedAt": "2026-11-25T14:36:38+05:30",
  "articles": [
+  {
+   "id": "srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25",
+   "category": "Weather",
+   "sub": "IMD Alerts",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T14:36:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25-en.mp3",
+   "district": "Srinagar",
+   "state": "Jammu and Kashmir",
+   "hi": {
+    "title": "श्रीनगर में सीज़न की सबसे सर्द रात, पारा माइनस 1.9 डिग्री — कश्मीर में ठंड और बढ़ेगी",
+    "summary": "श्रीनगर में इस सीज़न की सबसे सर्द रात दर्ज की गई — पारा माइनस 1.9 डिग्री सेल्सियस तक गिर गया। पहलगाम में पारा माइनस 3.6 डिग्री रहा। मौसम विभाग का कहना है कि 30 नवंबर तक जम्मू-कश्मीर में मौसम मुख्य रूप से शुष्क रहेगा।"
+   },
+   "en": {
+    "title": "Srinagar records season's coldest night at minus 1.9 degrees Celsius as cold wave tightens grip on Kashmir",
+    "summary": "Srinagar recorded the coldest night of the season so far at minus 1.9 degrees Celsius, the second straight day of record low night temperatures. Pahalgam remained the coldest place in the Valley at minus 3.6 degrees, and the Met Department expects dry weather across Jammu and Kashmir till November 30."
+   }
+  },
+  {
+   "id": "tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T14:36:38+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25-en.mp3",
+   "district": "Chengalpattu",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "तमिलनाडु में एक दिन में 78 निवेश समझौते, 58,214 करोड़ रुपये का निवेश — 65,786 नौकरियों की उम्मीद",
+    "summary": "तमिलनाडु सरकार ने कोवलम के पास आयोजित दूसरे वेट्री निवेश सम्मेलन में 78 समझौतों पर हस्ताक्षर किए, जिनसे 58,214 करोड़ रुपये के निवेश और 65,786 नौकरियों की उम्मीद है। मुख्यमंत्री सी जोसेफ विजय की अध्यक्षता में हुए सम्मेलन के साथ सरकार के पहले 200 दिनों में कुल निवेश वादे 1.73 लाख करोड़ रुपये से ऊपर पहुँच गए।"
+   },
+   "en": {
+    "title": "Tamil Nadu signs 78 MoUs worth Rs 58,214 crore at VETTRI conclave, 65,786 jobs in the pipeline",
+    "summary": "The Tamil Nadu government signed 78 investment agreements worth Rs 58,214 crore at the second VETTRI Investment and Conversion Conclave near Kovalam, projecting 65,786 jobs. With the latest pacts, total investment commitments in the government's first 200 days have crossed Rs 1.73 lakh crore."
+   }
+  },
   {
    "id": "seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25",
    "category": "State & Local",
@@ -2495,12 +2541,12 @@
    "district": "Bokaro",
    "state": "Jharkhand",
    "en": {
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
    },
    "hi": {
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
    }
   },
   {
@@ -2838,13 +2884,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
    },
    "featured": false,
    "hi": {
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3251,52 +3297,6 @@
    "en": {
     "title": "Stones pelted at Duronto Express near Nagpur, AC coach window shattered; no injuries",
     "summary": "Stones were pelted at the Nagpur-Mumbai Duronto Express near Ajni station on Monday night at around 8:10 pm, shattering the outer glass pane of a window in the A2 coach. The inner layer stayed intact and no passenger was injured."
-   }
-  },
-  {
-   "id": "msu-president-indefinite-hunger-strike-mpsc-aizawl-november-24",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T11:07:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/msu-president-indefinite-hunger-strike-mpsc-aizawl-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/msu-president-indefinite-hunger-strike-mpsc-aizawl-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/msu-president-indefinite-hunger-strike-mpsc-aizawl-november-24-en.mp3",
-   "district": "Aizawl",
-   "state": "Mizoram",
-   "hi": {
-    "title": "आइजोल: एमपीएससी अध्यक्ष के इस्तीफे की माँग पर छात्र संघ अध्यक्ष की अनिश्चितकालीन भूख हड़ताल",
-    "summary": "मिजो स्टूडेंट्स यूनियन के अध्यक्ष लालदिनसांगा सोमवार शाम से आइजोल में एमपीएससी कार्यालय परिसर में अनिश्चितकालीन भूख हड़ताल पर हैं। संघ का आरोप है कि अध्यक्ष आर. लालरामनघाका के कार्यकाल में भर्ती प्रक्रिया में बार-बार गलतियाँ हुई हैं और आयोग को 24 शुद्धिपत्र जारी करने पड़े हैं।"
-   },
-   "en": {
-    "title": "Aizawl: Students' union president begins indefinite hunger strike, demands MPSC chairman's resignation",
-    "summary": "Mizo Students' Union president Laldinsanga began an indefinite hunger strike at the Mizoram Public Service Commission office premises in Aizawl on Monday evening. The union alleges repeated errors in recruitment under chairman R. Lalramnghaka, forcing the commission to issue 24 corrigenda."
-   }
-  },
-  {
-   "id": "ankita-bhandari-case-rathore-narco-polygraph-test-gandhinagar-november-24",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T10:43:52+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ankita-bhandari-case-rathore-narco-polygraph-test-gandhinagar-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ankita-bhandari-case-rathore-narco-polygraph-test-gandhinagar-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ankita-bhandari-case-rathore-narco-polygraph-test-gandhinagar-november-24-en.mp3",
-   "district": "Gandhinagar",
-   "state": "Gujarat",
-   "hi": {
-    "title": "अंकिता भंडारी केस: पूर्व भाजपा विधायक सुरेश राठौर का आज गांधीनगर में होगा नार्को, पॉलीग्राफ टेस्ट",
-    "summary": "अंकिता भंडारी हत्याकांड में कथित वीआईपी एंगल की सीबीआई जांच के तहत पूर्व भाजपा विधायक सुरेश राठौर का मंगलवार को गांधीनगर में पॉलीग्राफ और नार्को-एनालिसिस टेस्ट होगा। सोमवार को गुजरात रवाना हुए राठौर ने कहा है कि वह जांच में पूरा सहयोग करेंगे।"
-   },
-   "en": {
-    "title": "Ankita Bhandari case: Ex-BJP MLA Suresh Rathore to undergo narco, polygraph tests in Gandhinagar today",
-    "summary": "Former BJP MLA Suresh Rathore will undergo polygraph and narco-analysis tests in Gandhinagar on Tuesday as part of the CBI's probe into the alleged VIP angle in the 2022 murder of 19-year-old Ankita Bhandari. Rathore, who travelled to Gujarat on Monday, has said he will cooperate fully with the agency."
    }
   }
  ]
