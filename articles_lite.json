@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-25T23:21:47+05:30",
+ "updatedAt": "2026-11-25T23:51:29+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Delhi SIR: Nearly 44 lakh voters may stay off final roll as claims window closes",
+    "summary": "Only around 3.5 lakh Form 6 applications came in by the end of the claims and objections period on Wednesday, against 47.5 lakh names dropped from the draft roll published on August 31. The final electoral roll is due on December 22."
+   },
+   "featured": false,
+   "hi": {
+    "title": "दिल्ली एसआईआर: 44 लाख मतदाता अंतिम सूची से बाहर रह सकते हैं, दावे-आपत्ति की अवधि खत्म",
+    "summary": "बुधवार को दावे और आपत्ति की अवधि खत्म होने तक सिर्फ करीब 3.5 लाख फॉर्म 6 आवेदन मिले, जबकि 31 अगस्त को जारी मसौदा सूची से 47.5 लाख नाम हटाए गए थे। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी।"
+   },
+   "id": "delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25.jpg",
+   "publishedAt": "2026-11-25T23:44:50+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Elections",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-tells-citizens-leave-iran-immediately-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-tells-citizens-leave-iran-immediately-november-25-hi.mp3",
+   "breaking": true,
+   "category": "World",
+   "en": {
+    "title": "US tells citizens to leave Iran immediately, warns hostilities could escalate fast",
+    "summary": "The US Virtual Embassy in Iran issued a security alert after Tehran attacked American assets in Bahrain and Kuwait and Houthi forces struck a tower in Riyadh's financial district, wounding 11 people."
+   },
+   "featured": true,
+   "hi": {
+    "title": "अमेरिका ने अपने नागरिकों से कहा, ईरान तुरंत छोड़ दें, तनाव तेजी से बढ़ सकता है",
+    "summary": "तेहरान के बहरीन और कुवैत में अमेरिकी ठिकानों पर हमले और हूती विद्रोहियों के रियाद के वित्तीय ज़िले में टावर पर हमले, जिसमें 11 लोग घायल हुए, के बाद ईरान में अमेरिकी वर्चुअल दूतावास ने सुरक्षा चेतावनी जारी की है।"
+   },
+   "id": "us-tells-citizens-leave-iran-immediately-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-tells-citizens-leave-iran-immediately-november-25.jpg",
+   "publishedAt": "2026-11-25T23:44:50+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Middle East",
+   "trending": true
+  },
   {
    "breaking": false,
    "category": "Entertainment",
@@ -944,7 +986,7 @@
    "category": "World",
    "sub": "Middle East",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-25T16:23:22+05:30",
    "source": "PrimeFeed Desk",
@@ -3268,52 +3310,6 @@
    },
    "district": "Tiruvannamalai",
    "state": "Tamil Nadu"
-  },
-  {
-   "id": "bardoli-canal-family-three-dead-two-children-missing-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T20:49:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bardoli-canal-family-three-dead-two-children-missing-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bardoli-canal-family-three-dead-two-children-missing-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bardoli-canal-family-three-dead-two-children-missing-november-24-en.mp3",
-   "en": {
-    "title": "Family thrown into canal near Bardoli in Surat, 3 dead including parents; 13-year-old boy survives holding a pipe, 2 children missing",
-    "summary": "A labourer family from Maharashtra's Jalgaon district was allegedly thrown into the Ukai-Kakrapar canal near Bardoli in Surat on the night of November 21. Three bodies - the parents and a young woman - have been recovered, a 13-year-old boy survived by holding a pipe, and two children are still missing. Police have booked four accused and formed eight teams to trace them."
-   },
-   "hi": {
-    "title": "बारडोली में नहर में फेंका गया पूरा परिवार, माता-पिता समेत 3 की मौत; 13 साल का बेटा पाइप पकड़कर बचा, 2 बच्चे लापता",
-    "summary": "महाराष्ट्र के जलगाँव जिले से सूरत आ रहा एक श्रमिक परिवार 21 नवंबर की रात बारडोली के पास उकाई-काकरापार नहर में फेंक दिए जाने का आरोप है। माता-पिता और एक युवती के शव मिले हैं, 13 साल का किशोर पाइप पकड़कर बच गया और 2 बच्चे अब भी लापता हैं। पुलिस ने 4 आरोपियों के खिलाफ मामला दर्ज कर 8 टीमें जाँच में लगाई हैं।"
-   },
-   "district": "Surat",
-   "state": "Gujarat"
-  },
-  {
-   "id": "president-murmu-inaugurates-bali-jatra-cuttack-november-24",
-   "category": "Dharm-Astrology",
-   "sub": "Vrat & Tyohar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T20:31:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/president-murmu-inaugurates-bali-jatra-cuttack-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-inaugurates-bali-jatra-cuttack-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-inaugurates-bali-jatra-cuttack-november-24-en.mp3",
-   "en": {
-    "title": "President Murmu crosses the Mahanadi by boat to open Cuttack's historic Bali Jatra",
-    "summary": "President Droupadi Murmu inaugurated the historic eight-day Bali Jatra in Cuttack on Tuesday evening, arriving at the fairground by boat across the Mahanadi and floating a miniature boat in the river. The festival, which marks the ancient sea voyages of Odisha's Sadhabas traders, runs till December 1."
-   },
-   "hi": {
-    "title": "राष्ट्रपति मुर्मू ने नाव से महानदी पार कर कटक में बाली जात्रा का उद्घाटन किया",
-    "summary": "राष्ट्रपति द्रौपदी मुर्मू ने मंगलवार शाम कटक में ऐतिहासिक बाली जात्रा 2026 का उद्घाटन किया। वह सिल्वर सिटी बोट क्लब से सजी हुई नाव कलिंगा तरंगिणी पर सवार होकर महानदी पार करके मेले के मैदान पहुँचीं और नदी में छोटी नाव तैराई। 8 दिन का यह मेला 1 दिसंबर तक चलेगा।"
-   },
-   "district": "Cuttack",
-   "state": "Odisha"
   }
  ]
 }
