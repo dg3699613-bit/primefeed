@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T05:31:46+05:30",
+ "updatedAt": "2026-11-25T05:58:24+05:30",
  "articles": [
+  {
+   "id": "rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24",
+   "category": "Weather",
+   "sub": "IMD Alerts",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T05:58:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24-en.mp3",
+   "district": "Sikar",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "राजस्थान में ठंड का सितम: फतेहपुर में पारा 2.4 डिग्री, चूरू में 4.1; अगले 48 घंटों में और गिरेगा तापमान",
+    "summary": "राजस्थान में ठंड ने अपनी पकड़ मज़बूत कर ली है। सीकर जिले के फतेहपुर में 24 नवंबर को न्यूनतम तापमान 2.4 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम है, जबकि चूरू में पारा 4.1 डिग्री रहा। जयपुर मौसम विज्ञान केंद्र के मुताबिक अगले 48 घंटों में उत्तरी और पूर्वी राजस्थान में रात का तापमान 1 से 2 डिग्री और गिर सकता है, और प्रदेश में 1 सप्ताह तक मौसम शुष्क रहेगा।"
+   },
+   "en": {
+    "title": "Cold wave grips Rajasthan: Fatehpur shivers at 2.4°C, Churu at 4.1°C; mercury may fall further in 48 hours",
+    "summary": "Winter has tightened its grip on Rajasthan. Fatehpur in Sikar district recorded a minimum of 2.4°C on 24 November, the lowest in the state, while Churu shivered at 4.1°C. The Jaipur weather office says night temperatures in northern and eastern Rajasthan could fall by another 1 to 2 degrees in the next 48 hours, and the state is expected to stay dry for a week."
+   }
+  },
+  {
+   "id": "rajasthan-zila-pramukh-elections-37-districts-november-25",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T05:58:24+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-zila-pramukh-elections-37-districts-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-elections-37-districts-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-elections-37-districts-november-25-en.mp3",
+   "hi": {
+    "title": "राजस्थान के 37 जिलों में आज जिला प्रमुख का चुनाव: कांग्रेस का 27 जिलों में जीत का दावा, बीजेपी की नज़र 12-13 पर",
+    "summary": "राजस्थान में मंगलवार को 37 जिलों में जिला परिषद प्रमुखों का चुनाव हो रहा है, जो पंचायत चुनाव का आखिरी चरण है। पिछले हफ्ते कांग्रेस ने 1,275 में से 796 सीटें जीती थीं, जिससे उसे 23 जिलों में बहुमत मिला है; कांग्रेस का दावा है कि वह 27 जिलों में जीत हासिल करेगी, जबकि बीजेपी 12 से 13 पदों पर नज़र लगाए है। मतदान 3 बजे से 5 बजे तक होगा और परिणाम मंगलवार शाम को आएंगे।"
+   },
+   "en": {
+    "title": "Rajasthan picks zila pramukhs in 37 districts today: Congress claims 27, BJP eyes 12-13",
+    "summary": "Rajasthan votes on Tuesday for the heads of its zila parishads in 37 districts, the final leg of panchayat elections in which the Congress won 796 of 1,275 seats last week. The Congress, with a majority in 23 districts, claims it will win 27; the BJP, which has a majority in only 5, is contesting all 37 and aiming for 12 to 13 posts. Voting runs from 3 pm to 5 pm, with results on Tuesday evening."
+   }
+  },
   {
    "id": "gaya-porter-sons-crack-neet-jee-november-14",
    "category": "Education",
@@ -3243,52 +3287,6 @@
    "en": {
     "title": "Manipur spurious liquor tragedy: CM meets Anal bodies, assures help as toll stays at 17; SIT and month-long probe under way",
     "summary": "Manipur Chief Minister Yumnam Khemchand Singh on Monday met Anal tribal organisations over the spurious liquor tragedy that has killed 17 people, and assured all possible help to the victims' families as a Special Investigation Team and a high-level enquiry committee probe the case."
-   }
-  },
-  {
-   "id": "villupuram-omnibus-van-crash-two-killed-ayyappa-devotees-november-23",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-24T02:50:13+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Villupuram",
-   "state": "Tamil Nadu",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/villupuram-omnibus-van-crash-two-killed-ayyappa-devotees-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/villupuram-omnibus-van-crash-two-killed-ayyappa-devotees-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/villupuram-omnibus-van-crash-two-killed-ayyappa-devotees-november-23-en.mp3",
-   "hi": {
-    "title": "विल्लुपुरम में ओमनी बस ने श्रद्धालुओं की वैन को मारी टक्कर, 2 की मौत, 13 घायल",
-    "summary": "विल्लुपुरम जिले में सोमवार को चेन्नई-तिरुचि राजमार्ग पर थेनी से चेन्नई जा रही ओमनी बस ने सबरीमला से लौट रहे श्रद्धालुओं की वैन को टक्कर मार दी। वैन चालक और अय्यप्पा श्रद्धालु की मौत हो गई, 13 लोग घायल हुए।"
-   },
-   "en": {
-    "title": "Omni bus rams into van of Ayyappa devotees near Tindivanam, two killed, 13 injured",
-    "summary": "A private omni bus travelling from Theni to Chennai lost control and rammed into a van carrying Ayyappa devotees returning from Sabarimala near Tindivanam in Villupuram district on Monday. The van driver and a devotee were killed and 13 people were injured."
-   }
-  },
-  {
-   "id": "pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T02:27:01+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Pune",
-   "state": "Maharashtra",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-hinjewadi-wipro-techie-komal-dahake-death-partner-arrested-november-23-en.mp3",
-   "hi": {
-    "title": "पुणे: हिंजेवाड़ी के पीजी में 27 साल की सॉफ्टवेयर इंजीनियर कोमल दहाके की मौत, साथी शुभम कलबांदे पर हत्या का आरोप; पुलिस ने किया गिरफ्तार",
-    "summary": "पुणे के हिंजेवाड़ी के प्रिस्टीन पीजी में रह रही 27 साल की सॉफ्टवेयर इंजीनियर कोमल दहाके की मौत हो गई। पुलिस के अनुसार उनके साथी शुभम कलबांदे ने झगड़े के बाद उन पर हमला किया था। आरोपी ने सुबह खुद पुलिस को फोन किया, जिसके बाद उसे गिरफ्तार कर लिया गया।"
-   },
-   "en": {
-    "title": "Pune: Wipro techie Komal Dahake allegedly killed by partner at Hinjewadi PG; Infosys employee Shubham Kalbande arrested",
-    "summary": "A 27-year-old software engineer, Komal Dahake, was found dead at her paying guest accommodation in Pune's Hinjewadi area on Monday. Police say her partner, Shubham Kalbande, assaulted her after an argument. The accused himself called the police in the morning and was arrested."
    }
   }
  ]
