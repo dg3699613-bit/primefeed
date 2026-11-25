@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-25T22:55:32+05:30",
+ "updatedAt": "2026-11-25T23:21:47+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Entertainment",
+   "en": {
+    "title": "PIL in Jharkhand High Court seeks stay on Ramayana screenings, 50% of earnings for Ram Temple Trust",
+    "summary": "A public interest litigation filed in Ranchi seeks the removal of allegedly controversial scenes from the film Ramayana and a stay on its screening and broadcast until the disputed portions are deleted. The petitioner alleges the film departs from the Valmiki Ramayana and gives Ravana greater prominence than Lord Rama."
+   },
+   "featured": false,
+   "hi": {
+    "title": "रामायण की स्क्रीनिंग पर रोक की माँग: झारखंड हाई कोर्ट में जनहित याचिका, कमाई का 50% राम मंदिर ट्रस्ट को देने की भी माँग",
+    "summary": "रांची में दाखिल जनहित याचिका में फिल्म रामायण के विवादित दृश्यों को हटाने और उन्हें हटाए जाने तक स्क्रीनिंग व प्रसारण पर रोक की माँग की गई है। याचिकाकर्ता का आरोप है कि फिल्म में वाल्मीकि रामायण से हटकर दृश्य दिखाए गए हैं और रावण को भगवान राम से ज़्यादा प्रमुखता दी गई है।"
+   },
+   "id": "ramayana-pil-jharkhand-high-court-stay-screening-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Bollywood",
+   "trending": true,
+   "publishedAt": "2026-11-25T23:17:07+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-pil-jharkhand-high-court-stay-screening-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-pil-jharkhand-high-court-stay-screening-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-pil-jharkhand-high-court-stay-screening-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "Ukraine strikes Russia's Savasleyka air base, five warplanes hit; three MiG-31s and two Su-34s out of action for now",
+    "summary": "Ukraine's General Staff said its forces struck Russia's Savasleyka military airfield in the Nizhny Novgorod region on the night of November 24-25, hitting three MiG-31 jets and two Su-34 fighter-bombers. Russia did not immediately comment, and the extent of the damage has not been independently verified."
+   },
+   "featured": false,
+   "hi": {
+    "title": "यूक्रेन का रूस के सवास्लेका एयरबेस पर हमला: 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त, कुछ समय तक नहीं उड़ पाएँगे",
+    "summary": "यूक्रेन के जनरल स्टाफ़ ने कहा है कि 24 नवंबर की रात और 25 नवंबर की सुबह रूस के निज़नी नोवगोरोद इलाके में स्थित सवास्लेका सैन्य हवाई अड्डे पर हमले में 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त हो गए। रूस की ओर से इस पर अभी कोई टिप्पणी नहीं आई है, और नुकसान की सीमा की स्वतंत्र पुष्टि नहीं हुई है।"
+   },
+   "id": "ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Europe",
+   "trending": true,
+   "publishedAt": "2026-11-25T23:17:07+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "State & Local",
@@ -3272,48 +3314,6 @@
    },
    "district": "Cuttack",
    "state": "Odisha"
-  },
-  {
-   "id": "senegal-migrant-boat-175-missing-yoff-november-24",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T20:31:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/senegal-migrant-boat-175-missing-yoff-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/senegal-migrant-boat-175-missing-yoff-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/senegal-migrant-boat-175-missing-yoff-november-24-en.mp3",
-   "en": {
-    "title": "Boat from Senegal carrying about 175 migrants missing for two weeks, families wait for news",
-    "summary": "Around 175 migrants are unaccounted for after contact was lost with a Europe-bound boat that left Dakar about two weeks ago. The wooden pirogue left the Yoff district around November 9 and 10, and families there say they have heard nothing since."
-   },
-   "hi": {
-    "title": "सेनेगल से यूरोप जा रही नाव का 2 हफ्ते से कोई पता नहीं, 175 प्रवासी लापता",
-    "summary": "सेनेगल की राजधानी डकार से करीब 2 हफ्ते पहले यूरोप के लिए निकली एक नाव का कोई पता नहीं है और उस पर सवार करीब 175 प्रवासी लापता हैं। लकड़ी की यह नाव यॉफ़ जिले से 9 और 10 नवंबर के आसपास निकली थी और तब से परिवारों को कोई खबर नहीं मिली है।"
-   }
-  },
-  {
-   "id": "china-medog-mega-dam-advanced-stage-satellite-images-november-24",
-   "category": "World",
-   "sub": "China",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T20:03:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-medog-mega-dam-advanced-stage-satellite-images-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-medog-mega-dam-advanced-stage-satellite-images-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-medog-mega-dam-advanced-stage-satellite-images-november-24-en.mp3",
-   "en": {
-    "title": "China's 60 GW Medog dam near Arunachal enters advanced stage, satellite images show villages cleared and river diverted",
-    "summary": "Fresh satellite imagery analysed by EarthSense Labs, a geospatial start-up incubated at IIT Delhi, shows construction of China's 60 GW Medog hydropower project on the Yarlung Tsangpo — 40 to 50 km from the Arunachal Pradesh border — has moved into an advanced phase, with villages cleared, river diversion under way and heavy infrastructure in place."
-   },
-   "hi": {
-    "title": "अरुणाचल सीमा के पास चीन का 60 GW मेडॉग बांध अब उन्नत चरण में, सैटेलाइट तस्वीरों में गाँव हटे, नदी का रास्ता बदला",
-    "summary": "आईआईटी दिल्ली में इनक्यूबेट हुए जियोस्पेशियल स्टार्टअप अर्थसेंस लैब्स के विश्लेषण से पता चला है कि अरुणाचल प्रदेश की सीमा से 40 से 50 km दूर यारलुंग त्सांगपो नदी पर चीन की 60 GW मेडॉग पनबिजली परियोजना का निर्माण उन्नत चरण में पहुँच गया है — गाँव हटाए गए, नदी का रास्ता मोड़ा जा रहा है और भारी बुनियादी ढाँचा खड़ा हो चुका है।"
-   }
   }
  ]
 }
