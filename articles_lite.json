@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-26T02:23:28+05:30",
+ "updatedAt": "2026-11-26T02:41:45+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Politics",
+   "district": null,
+   "en": {
+    "title": "SP names first 5 candidates for UP 2027 polls mid-talks, Congress fumes",
+    "summary": "The Samajwadi Party has named its first five candidates for the 2027 Uttar Pradesh Assembly elections — Umar Ali Khan (Behat), Ashu Malik (Saharanpur), Nahid Hasan (Kairana), Mehboob Ali (Amroha) and Jyoti Lodhi (Lalitpur) — while seat-sharing talks with the Congress are still under way, leaving Congress leaders fuming."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बातचीत के बीच सपा ने यूपी 2027 के लिए पहले 5 उम्मीदवार घोषित किए, कांग्रेस नाराज़",
+    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनावों के लिए अपने पहले 5 उम्मीदवारों के नाम घोषित कर दिए हैं — बेहट से उमर अली खान, सहारनपुर से आशु मलिक, कैराना से नाहिद हसन, अमरोहा से महबूब अली और ललितपुर से ज्योति लोधी — जबकि कांग्रेस के साथ सीट बंटवारे की बातचीत अभी चल ही रही है। कांग्रेस के नेता इस कदम से नाराज़ हैं।"
+   },
+   "id": "sp-names-first-5-candidates-up-2027-polls-mid-talks-congress-fumes",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "Elections",
+   "trending": true,
+   "publishedAt": "2026-11-26T02:38:19+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sp-names-first-5-candidates-up-2027-polls-mid-talks-congress-fumes.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sp-names-first-5-candidates-up-2027-polls-mid-talks-congress-fumes-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sp-names-first-5-candidates-up-2027-polls-mid-talks-congress-fumes-en.mp3"
+  },
   {
    "breaking": false,
    "category": "State & Local",
@@ -3284,29 +3307,6 @@
    "hi": {
     "title": "रियाद में हूती हमला: वित्तीय जिले के टावर पर हमले में 2 भारतीय समेत 11 घायल",
     "summary": "सऊदी अरब की राजधानी रियाद के किंग अब्दुल्ला वित्तीय जिले में मंगलवार को एक टावर पर हमला हुआ, जिसे सऊदी नागरिक सुरक्षा विभाग ने यमन के हूती विद्रोहियों का आतंकवादी हमला बताया है। हमले में 2 भारतीय नागरिकों समेत 11 लोग घायल हुए हैं।"
-   }
-  },
-  {
-   "id": "nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24",
-   "category": "State & Local",
-   "sub": "Rajasthan",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T00:03:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24-en.mp3",
-   "district": "Nagaur",
-   "state": "Rajasthan",
-   "en": {
-    "title": "Nagaur: Newly elected sarpanch Shailu Rajpurohit dies in airgun-cleaning accident days after winning by 155 votes",
-    "summary": "Shailu Rajpurohit, 56, who had just won the sarpanch election in Tunkaliya village of Rajasthan’s Nagaur district by 155 votes, died on Tuesday after an airgun went off accidentally while she was cleaning it at home. A pellet struck her in the chest, and she died on the way to a hospital in Jodhpur."
-   },
-   "hi": {
-    "title": "नागौर में नवनिर्वाचित सरपंच शैलू राजपुरोहित की एयरगन हादसे में मौत, 155 वोटों से जीती थीं",
-    "summary": "राजस्थान के नागौर जिले के टुंकलिया गाँव की नवनिर्वाचित सरपंच शैलू राजपुरोहित (56) की मंगलवार को घर पर एयरगन की सफाई करते समय हादसे में मौत हो गई। ट्रिगर दबने से निकला छर्रा उनके सीने में लगा था, औार परिजन उन्हें जोधपुर ले जा रहे थे, लेकिन रास्ते में ही उनकी मौत हो गई।"
    }
   }
  ]
