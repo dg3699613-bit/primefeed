@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T11:37:09+05:30",
+ "updatedAt": "2026-11-25T11:51:20+05:30",
  "articles": [
+  {
+   "id": "hanuman-artiste-dies-on-stage-ramayana-play-ganjam",
+   "category": "State & Local",
+   "sub": "Others",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T11:51:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hanuman-artiste-dies-on-stage-ramayana-play-ganjam.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hanuman-artiste-dies-on-stage-ramayana-play-ganjam-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hanuman-artiste-dies-on-stage-ramayana-play-ganjam-en.mp3",
+   "district": "Ganjam",
+   "state": "Odisha",
+   "hi": {
+    "title": "गंजाम में रामायण मंचन के दौरान हनुमान बने कलाकार की मंच पर ही मौत",
+    "summary": "ओडिशा के गंजाम जिले के कौड़िया गांव में कार्तिक पूर्णिमा पर हो रहे रामायण मंचन के दौरान हनुमान की भूमिका निभा रहे युवा कलाकार मिथुन प्रधान अचानक मंच पर गिर पड़े। उन्हें अडपदा अस्पताल ले जाया गया, जहां डॉक्टरों ने उन्हें मृत घोषित कर दिया। आशंका है कि उनकी मौत दिल का दौरा पड़ने से हुई।"
+   },
+   "en": {
+    "title": "Hanuman artiste collapses and dies on stage during Ramayana play in Ganjam",
+    "summary": "Young artiste Mithun Pradhan collapsed on stage while playing Lord Hanuman during a Ramayana performance at Kaudia village in Ganjam district on Kartik Purnima. He was rushed to Adapada Hospital, where doctors declared him dead; a heart attack is suspected."
+   }
+  },
+  {
+   "id": "gold-falls-rs-3220-silver-crashes-rs-10000-november-25",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T11:51:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-falls-rs-3220-silver-crashes-rs-10000-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-falls-rs-3220-silver-crashes-rs-10000-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-falls-rs-3220-silver-crashes-rs-10000-november-25-en.mp3",
+   "hi": {
+    "title": "सोना 3,220 रुपये सस्ता, चांदी एक दिन में 10,000 रुपये गिरी — फेड की ब्याज दरों की चिंता से सर्राफा बाजार में बिकवाली",
+    "summary": "बुधवार को सोने-चांदी की कीमतों में तेज गिरावट आई। 24 कैरेट सोना 10 ग्राम पर 3,220 रुपये गिरकर 1,24,580 रुपये पर आ गया, जबकि चांदी 10,000 रुपये गिरकर 1,65,000 रुपये प्रति किलोग्राम पर पहुंच गई।"
+   },
+   "en": {
+    "title": "Gold falls 3,220 rupees, silver crashes 10,000 rupees in a day as Fed rate fears rattle bullion",
+    "summary": "Gold and silver prices fell sharply on Wednesday as hawkish signals from US Federal Reserve officials and firm expectations of a December rate hike drove selling. 24-carat gold dropped 3,220 rupees per 10 grams to 1,24,580 rupees, while silver crashed 10,000 rupees per kilogram to 1,65,000 rupees."
+   }
+  },
   {
    "id": "manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25",
    "category": "Crime & Law",
@@ -3245,50 +3289,6 @@
    "en": {
     "title": "Wellington Test drawn: New Zealand survive 120 overs after India's record 720 as Mitchell and Phillips hold firm",
     "summary": "The first Test in Wellington ended in a draw. Replying to India's 720 for 9 declared, New Zealand finished on 239 for 5 in their second innings, with Daryl Mitchell (49 not out) and Glenn Phillips (26 not out) holding India off through the final session. The second Test starts in Christchurch on November 27."
-   }
-  },
-  {
-   "id": "churachandpur-idps-warn-total-shutdown-november-30-november-24",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T07:49:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/churachandpur-idps-warn-total-shutdown-november-30-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-en.mp3",
-   "district": "Churachandpur",
-   "state": "Manipur",
-   "hi": {
-    "title": "चुराचांदपुर के विस्थापितों की चेतावनी: मांगें नहीं मानीं तो 30 नवंबर से पूर्ण बंद",
-    "summary": "मणिपुर के चुराचांदपुर जिले में रह रहे 30,896 विस्थापितों की समिति ने सरकार को चेतावनी दी है कि अगर उनकी लंबित मांगें पूरी नहीं हुईं तो 30 नवंबर से पूर्ण बंद किया जाएगा।"
-   },
-   "en": {
-    "title": "Churachandpur IDPs warn of total shutdown from November 30 if demands go unmet",
-    "summary": "The Joint Internally Displaced Persons Committee in Manipur's Churachandpur district has warned of a total shutdown from November 30 if the government does not address the pending demands of the district's 30,896 displaced people."
-   }
-  },
-  {
-   "id": "gopalganj-awami-league-factions-clash-20-injured-november-23",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T07:49:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gopalganj-awami-league-factions-clash-20-injured-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gopalganj-awami-league-factions-clash-20-injured-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gopalganj-awami-league-factions-clash-20-injured-november-23-en.mp3",
-   "hi": {
-    "title": "गोपालगंज में अवामी लीग के 2 गुटों में झड़प, देसी बम फटे; 20 घायल",
-    "summary": "बांग्लादेश के गोपालगंज में सोमवार शाम प्रतिबंधित अवामी लीग के 2 गुटों के समर्थकों के बीच हुई झड़प में कम से कम 20 लोग घायल हो गए। झड़प के दौरान 4 देसी बम फटे और 10 दुकानों में तोड़फोड़ हुई।"
-   },
-   "en": {
-    "title": "At least 20 injured as Awami League factions clash in Gopalganj",
-    "summary": "At least 20 people were injured when two factions of the activities-banned Awami League clashed in Gopalganj on Monday evening, with four crude bombs exploding and ten shops vandalised near the town's cricket stadium."
    }
   }
  ]
