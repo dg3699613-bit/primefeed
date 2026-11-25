@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-25T15:05:12+05:30",
+ "updatedAt": "2026-11-25T15:17:55+05:30",
  "articles": [
+  {
+   "id": "om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T15:13:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre-en.mp3",
+   "district": "Kota",
+   "state": "Rajasthan",
+   "hi": {
+    "title": "ओम बिरला ने कोटा में अंतरराष्ट्रीय क्रिकेट स्टेडियम और एक्वाटिक सेंटर का शिलान्यास किया, 2028 तक तैयार होंगे दोनों प्रोजेक्ट",
+    "summary": "लोकसभा अध्यक्ष ओम बिरला ने बुधवार को कोटा में जेके पवेलियन अंतरराष्ट्रीय क्रिकेट स्टेडियम और विश्वस्तरीय एक्वाटिक सेंटर का भूमि पूजन एवं शिलान्यास किया। दोनों परियोजनाओं पर करीब 130 करोड़ रुपए खर्च होंगे और निर्माण 2028 तक पूरा करने का लक्ष्य है।"
+   },
+   "en": {
+    "title": "Om Birla lays foundation for Kota's international cricket stadium and aquatic centre, both due by 2028",
+    "summary": "Lok Sabha Speaker Om Birla on Wednesday performed the bhoomi pujan and laid the foundation stone for the JK Pavilion international cricket stadium and a world-class aquatic centre in Kota. The two projects together will cost around Rs 130 crore, with construction targeted for completion by 2028."
+   }
+  },
+  {
+   "id": "army-aircraft-land-gujarat-highway-nh-754k",
+   "category": "India",
+   "sub": "Defence",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T15:13:20+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/army-aircraft-land-gujarat-highway-nh-754k.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/army-aircraft-land-gujarat-highway-nh-754k-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/army-aircraft-land-gujarat-highway-nh-754k-en.mp3",
+   "district": "Patan",
+   "state": "Gujarat",
+   "hi": {
+    "title": "गुजरात के हाईवे पर उतरे सेना के 4 विमान, नेशनल हाईवे पर पहली बार 4 विमानों की फॉर्मेशन लैंडिंग",
+    "summary": "भारतीय सेना के 4 विमानों ने मंगलवार को गुजरात के पाटन जिले में नेशनल हाईवे एनएच-754K पर उतरकर इतिहास रच दिया। अमृतसर-जमनगर एक्सप्रेसवे पर बकुटरा टोल प्लाज़ा के पास हुई इस लैंडिंग में 2 माइक्रोलाइट विमान और 2 पावर्ड हैंग ग्लाइडर शामिल थे।"
+   },
+   "en": {
+    "title": "Four Army aircraft land on Gujarat highway in a first for a national highway",
+    "summary": "Four Indian Army aircraft made history on Tuesday, landing on National Highway NH-754K in Gujarat's Patan district. The formation — two microlight aircraft and two powered hang gliders — touched down on the Amritsar–Jamnagar Expressway near Bakutra Toll Plaza."
+   }
+  },
   {
    "id": "ghazipur-double-murder-mother-daughter-stabbed-dharwa-village-november-25",
    "category": "Crime & Law",
@@ -2585,12 +2631,12 @@
    "district": "Bokaro",
    "state": "Jharkhand",
    "en": {
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
    },
    "hi": {
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
    }
   },
   {
@@ -2928,13 +2974,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
    },
    "featured": false,
    "hi": {
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3253,50 +3299,6 @@
    "en": {
     "title": "Russian warplanes enter Korea's air defence zone near Ulleung; Seoul's alerts get it wrong twice",
     "summary": "Several Russian military aircraft entered South Korea's air defence identification zone over the East Sea early on Tuesday and flew close to Ulleung Island, prompting Seoul to scramble F-15K fighter jets. The interior ministry first wrongly warned of an airspace violation, then the provincial government wrongly called the planes North Korean. The military said no sovereign airspace was violated."
-   }
-  },
-  {
-   "id": "icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24",
-   "category": "Health",
-   "sub": "Diseases",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T11:58:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icmr-sampada-survey-anaemia-lower-half-women-anaemic-november-24-en.mp3",
-   "hi": {
-    "title": "आईसीएमआर की संपदा: एनीमिया पहले के सर्वे से कम, फिर भी देश की आधी से ज्यादा महिलाएँ एनीमिया से पीड़ित",
-    "summary": "आईसीएमआर ने सोमवार को अपने संपदा सर्वे 2023-25 के नतीजे जारी किए। दुनिया के सबसे बड़े पोषण सर्वेक्षणों में से एक इस सर्वे में 12 से 59 महीने के बच्चों में 42 प्रतिशत और प्रजनन आयु की महिलाओं में 56 प्रतिशत एनीमिया मिला। ज्यादातर मामले हल्के हैं और गंभीर एनीमिया ज्यादातर आयु समूहों में 2 प्रतिशत से कम है, लेकिन महिलाओं में बोझ अब भी बहुत ज्यादा है।"
-   },
-   "en": {
-    "title": "ICMR's SAMPADA: anaemia lower than earlier surveys, but more than half of India's women still anaemic",
-    "summary": "The Indian Council of Medical Research on Monday released findings from its SAMPADA survey of 2023-25, one of the world's largest nutrition surveys. It found anaemia in 42 per cent of children aged 12 to 59 months and 56 per cent of women of reproductive age. Most cases are mild and severe anaemia is below 2 per cent in most age groups, but the burden among women remains very high."
-   }
-  },
-  {
-   "id": "stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T11:28:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/stf-arrests-ujaid-meerut-shahzad-bhatti-network-november-24-en.mp3",
-   "district": "Meerut",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "मेरठ में फिदायीन हमले की साजिश का खुलासा: उजैद गिरफ्तार, पाकिस्तानी हैंडलर शहजाद भट्टी से जुड़ाव का शक",
-    "summary": "एसटीएफ ने मेरठ के बनियापाड़ा से 20 साल के उजैद को गिरफ्तार किया है। पुलिस के अनुसार वह ऑनलाइन कट्टरपंथी सामग्री से प्रभावित होकर जम्मू-कश्मीर में गिरफ्तार मोहम्मद साजिद के संपर्क में आया था और उस पर पुलिस व सेना के ठिकानों पर फिदायीन हमले की साजिश का आरोप है। कश्मीर पुलिस करीब 10 महीने से उसकी तलाश कर रही थी।"
-   },
-   "en": {
-    "title": "Fidayeen attack plot: Ujaid arrested in Meerut over suspected links to Pakistan-based handler Shahzad Bhatti",
-    "summary": "The Uttar Pradesh STF has arrested 20-year-old Ujaid from Baniyapadha in Meerut over suspected links to a network allegedly planning fidayeen attacks on police personnel and Army establishments. Police say he was radicalised online and came in contact with Jammu-based accused Mohd Sajid; Kashmir Police had been searching for him for nearly 10 months."
    }
   }
  ]
