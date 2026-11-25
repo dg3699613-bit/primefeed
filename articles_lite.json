@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T00:24:59+05:30",
+ "updatedAt": "2026-11-26T00:45:56+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "India",
+   "district": "Mumbai",
+   "en": {
+    "title": "Mumbai marks 18 years of 26/11: tributes for the 166 killed, and for the policemen who stood in the way",
+    "summary": "Eighteen years after 10 Lashkar-e-Taiba gunmen laid siege to Mumbai for 60 hours, the city pays tribute at the Gateway of India, CSMT and the Police Martyrs' Memorial, even as the trial of extradited accused Tahawwur Rana goes on in India."
+   },
+   "featured": false,
+   "hi": {
+    "title": "26/11 के 18 साल: मुंबई में 166 पीड़ितों और शहीद पुलिसकर्मियों को श्रद्धांजलि",
+    "summary": "26 नवंबर 2008 की रात 10 आतंकियों ने मुंबई को 60 घंटों तक बंधक बना लिया था, 166 लोग मारे गए थे। 18 साल बाद शहर गेटवे ऑफ इंडिया, सीएसएमटी और पुलिस शहीद स्मारक पर शहीदों को याद कर रहा है, जबकि अमेरिका से प्रत्यर्पित आरोपी तहव्वुर राणा पर भारत में मुकदमा चल रहा है।"
+   },
+   "id": "mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26",
+   "source": "PrimeFeed Desk",
+   "state": "Maharashtra",
+   "sub": "National",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:41:19+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "India",
+   "en": {
+    "title": "77th Constitution Day: Preamble readings and youth dialogues in 786 districts as India marks 77 years of its Constitution",
+    "summary": "The Constitution was adopted by the Constituent Assembly on 26 November 1949. On its 77th anniversary, the Preamble is being read in 23 languages online, schools are holding special assemblies, and the Constitution is being released in 22 regional languages."
+   },
+   "featured": false,
+   "hi": {
+    "title": "77वाँ संविधान दिवस: 786 जिलों में प्रस्तावना का पाठ, देश भर में संविधान के 77 साल पूरे होने का जश्न",
+    "summary": "26 नवंबर 1949 को संविधान सभा ने भारत का संविधान अपनाया था। 77वीं वर्षगाँठ पर 23 भाषाओं में ऑनलाइन प्रस्तावना का पाठ हो रहा है, स्कूलों में विशेष प्रार्थना सभाएँ हो रही हैं और संविधान 22 क्षेत्रीय भाषाओं में जारी किया जा रहा है।"
+   },
+   "id": "constitution-day-77th-india-preamble-readings-786-districts-november-26",
+   "source": "PrimeFeed Desk",
+   "sub": "National",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:41:19+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/constitution-day-77th-india-preamble-readings-786-districts-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/constitution-day-77th-india-preamble-readings-786-districts-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/constitution-day-77th-india-preamble-readings-786-districts-november-26-en.mp3"
+  },
   {
    "breaking": false,
    "category": "World",
@@ -3261,50 +3305,6 @@
    "hi": {
     "title": "भारत, चीन समेत 16 देशों पर नए टैरिफ की तैयारी में ट्रंप प्रशासन, इसी हफ्ते आ सकता है फैसला",
     "summary": "ट्रंप प्रशासन 16 देशों में औद्योगिक सब्सिडी और अतिरिक्त उत्पादन क्षमता की महीनों लंबी जाँच के नतीजे इसी हफ्ते जारी करने की तैयारी में है। भारत, चीन, यूरोपीय संघ और जापान समेत इन देशों पर नए आयात शुल्क लग सकते हैं; भारत और वियतनाम पर ऊँची दरें लगने की आशंका है, जबकि यूरोपीय संघ, जापान और दक्षिण कोरिया पर 15% की सीमा रह सकती है।"
-   }
-  },
-  {
-   "id": "morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24",
-   "category": "State & Local",
-   "sub": "Madhya Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T22:01:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24-en.mp3",
-   "en": {
-    "title": "Small cannon and 30 cannonballs unearthed during haveli excavation in Morena's Pahargarh; police seize haul, call archaeology department",
-    "summary": "A thin-barrelled small metal cannon and about 30 cannonballs have been found buried under an old garhi haveli in Panihari village of Pahargarh area in Morena district, during bulldozer excavation for new construction. Pahargarh police have seized the haul and informed the archaeology department."
-   },
-   "hi": {
-    "title": "मुरैना में हवेली की खुदाई में निकली पतली नाल वाली तोप और 30 गोले, पुलिस ने जब्त कर पुरातत्व विभाग को बुलाया",
-    "summary": "मुरैना जिले के पहाड़गढ़ क्षेत्र के पनिहारी गाँव में पुरानी गढ़ी हवेली की खुदाई के दौरान जमीन के नीचे दबी धातु की एक छोटी तोप और करीब 30 छोटे गोले मिले हैं। पहाड़गढ़ पुलिस ने पूरा सामान जब्त कर थाने में रखवा दिया है और पुरातत्व विभाग को जाँच के लिए बुलाया है।"
-   },
-   "district": "Morena",
-   "state": "Madhya Pradesh"
-  },
-  {
-   "id": "sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T22:01:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24-en.mp3",
-   "en": {
-    "title": "SP offers Congress just 26 of 403 seats for 2027 UP polls; Congress sought 131, now asks 120 as talks hang in balance",
-    "summary": "The Samajwadi Party has offered the Congress 26 seats for the 2027 Uttar Pradesh Assembly elections, against the Congress's demand that has come down from 181 to 120. The offer covers the two seats Congress won in 2022, four where it finished second, and 20 others; talks will continue in the next two rounds."
-   },
-   "hi": {
-    "title": "2027 यूपी चुनाव: सपा ने कांग्रेस को 403 में से सिर्फ 26 सीटें दीं, कांग्रेस 131 से घटाकर 120 पर आई; बातचीत अधर में",
-    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनावों के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस की माँग 181 से घटकर 120 रह गई है। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें, दूसरे नंबर वाली 4 सीटें और 20 अन्य सीटें हैं; अगले 2 दौर की बैठकों में बातचीत जारी रहेगी।"
    }
   }
  ]
