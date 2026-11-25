@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T16:38:02+05:30",
+ "updatedAt": "2026-11-25T16:50:07+05:30",
  "articles": [
+  {
+   "id": "pune-shivajinagar-court-attack-kiwale-identified-november-25",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T16:45:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-shivajinagar-court-attack-kiwale-identified-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-attack-kiwale-identified-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-attack-kiwale-identified-november-25-en.mp3",
+   "district": "Pune",
+   "state": "Maharashtra",
+   "hi": {
+    "title": "पुणे कोर्ट हमले में घायल शख्स की पहचान: हत्या का आरोपी मंदर किवले, 4 दिन पहले ही जमानत पर छूटा था; पुलिस बदले के एंगल की जांच में",
+    "summary": "पुणे के शिवाजीनगर कोर्ट के बाहर दिनदहाड़े हुए हमले में घायल शख्स की पहचान मंदर मारुति किवले के रूप में हुई है। 35 वर्षीय किवले 2025 के एक हत्या मामले में आरोपी है और 4 दिन पहले ही जेल से जमानत पर बाहर आया था। हमलावरों ने उसका एक हाथ काट दिया था और उस पर गोली चलाने की कोशिश भी की थी। उसकी हालत ससून जनरल अस्पताल में गंभीर बनी हुई है और पुलिस यह जांच रही है कि क्या हमला पुराने मामले से जुड़े बदले की कार्रवाई था।"
+   },
+   "en": {
+    "title": "Pune court attack victim identified as murder accused Mandar Kiwale, out on bail for 4 days; police probe revenge link",
+    "summary": "Hours after the daylight attack outside Pune's Shivajinagar court, police identified the injured man as Mandar Maruti Kiwale, 35, an accused in a 2025 murder case who had been released from prison four days ago. He is in critical condition at Sassoon General Hospital after assailants severed one of his hands and tried to fire at him; police are examining whether the attack was retaliation linked to the old case."
+   }
+  },
+  {
+   "id": "ipl-2027-auction-1220-players-register-66-slots-november-25",
+   "category": "Cricket & Sports",
+   "sub": "Cricket",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T16:45:46+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ipl-2027-auction-1220-players-register-66-slots-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ipl-2027-auction-1220-players-register-66-slots-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ipl-2027-auction-1220-players-register-66-slots-november-25-en.mp3",
+   "hi": {
+    "title": "आईपीएल 2027 नीलामी: 66 स्लॉट के लिए 1,220 खिलाड़ियों ने कराया पंजीकरण, स्टोक्स, वॉर्नर और बोल्ट भी मैदान में; 16 दिसंबर को गोवा में नीलामी",
+    "summary": "बीसीसीआई ने आईपीएल 2027 की नीलामी के लिए खिलाड़ियों की सूची जारी कर दी है। 17 देशों के 281 विदेशी क्रिकेटरों सहित 939 भारतीयों समेत कुल 1,220 खिलाड़ी 66 स्लॉट के लिए दौड़ में हैं। बेन स्टोक्स, डेविड वॉर्नर और ट्रेंट बोल्ट भी सूची में हैं और नीलामी 16 दिसंबर को गोवा में होगी।"
+   },
+   "en": {
+    "title": "IPL 2027 auction: 1,220 players register for 66 slots as Stokes, Warner and Boult sign up; auction in Goa on December 16",
+    "summary": "The BCCI has released the player register for the IPL 2027 auction, with 1,220 players — 939 Indians and 281 overseas cricketers from 17 countries — chasing a maximum of 66 squad slots. Ben Stokes, David Warner and Trent Boult are among the registered names, and the auction will be held in Goa on December 16."
+   }
+  },
   {
    "id": "kolkata-mullick-bazar-cloth-warehouse-fire-november-25",
    "category": "State & Local",
@@ -3253,50 +3297,6 @@
    "en": {
     "title": "Poonch: Forest fire along LoC burns into third day as fresh blazes erupt in Mendhar; Army steps up vigil",
     "summary": "A forest fire along the Line of Control in Jammu and Kashmir's Poonch district was still burning on Tuesday, its third day. Fresh blazes broke out on Tuesday morning in the Gohlad Top and Chajjla Patri forests of the Mendhar sector, while the fire that began in the Lanjote forest of Balakote on Sunday evening kept spreading. No casualties have been reported. Fire tenders cannot reach the rugged terrain, so personnel are beating out the flames by hand, and the Army has stepped up vigilance along the border."
-   }
-  },
-  {
-   "id": "greater-noida-cylinder-blast-father-son-killed-jewar-november-24",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T14:31:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/greater-noida-cylinder-blast-father-son-killed-jewar-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/greater-noida-cylinder-blast-father-son-killed-jewar-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/greater-noida-cylinder-blast-father-son-killed-jewar-november-24-en.mp3",
-   "district": "Gautam Buddha Nagar",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "ग्रेटर नोएडा: बेटी की शादी से एक हफ़्ते पहले सिलिंडर हादसा, पिता-बेटे की मौत; बहू और 2 साल का पोता झुलसे",
-    "summary": "ग्रेटर नोएडा के जेवर इलाके के दयानतपुर गाँव में सोमवार शाम सिलिंडर से गैस लीक होने के बाद लगी आग और धमाके में किसान वीरपाल सिंह (56) और उनके बेटे अभिषेक (24) की मौत हो गई। अभिषेक की पत्नी काजल (22) और 2 साल का बेटा आदित्य झुलस गए हैं; अस्पताल में दोनों की हालत स्थिर है। घर में वीरपाल की बेटी की 2 दिसंबर को शादी थी।"
-   },
-   "en": {
-    "title": "Days before daughter's wedding, cylinder leak fire kills father and son in Greater Noida; daughter-in-law and 2-year-old grandson injured",
-    "summary": "A gas cylinder leak triggered a fire and an explosion at a house in Dayanatpur village, Jewar, Greater Noida, on Monday evening, killing farmer Veerpal Singh, 56, and his son Abhishek, 24. Abhishek's wife Kajal, 22, and their two-year-old son Aditya suffered burn injuries and are stable in hospital. Veerpal's daughter was to be married on December 2."
-   }
-  },
-  {
-   "id": "hanoi-eatery-gas-explosion-six-killed-ten-injured-november-24",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T14:31:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hanoi-eatery-gas-explosion-six-killed-ten-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hanoi-eatery-gas-explosion-six-killed-ten-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hanoi-eatery-gas-explosion-six-killed-ten-injured-november-24-en.mp3",
-   "hi": {
-    "title": "हनोई: रेस्तरां में गैस धमाका, इमारत का हिस्सा ढहा; 6 की मौत, 10 घायल",
-    "summary": "वियतनाम की राजधानी हनोई में मंगलवार सुबह एक रेस्तरां में संदिग्ध गैस धमाके के बाद इमारत का हिस्सा ढह गया। 6 लोगों की मौत हो गई और 10 घायल हुए हैं। धमाका सुबह करीब 8 बजे हुआ, जब रेस्तरां खुल ही रहा था।"
-   },
-   "en": {
-    "title": "Gas blast rips through Hanoi eatery as it opens, part of building collapses: 6 killed, 10 injured",
-    "summary": "A suspected gas blast at a restaurant in Vietnam's capital Hanoi on Tuesday morning brought down part of the building, killing six people and injuring 10. The blast struck at around 8 am, just as the eatery was opening for business."
    }
   }
  ]
