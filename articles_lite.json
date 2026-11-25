@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T02:41:45+05:30",
+ "updatedAt": "2026-11-26T03:02:54+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "West Champaran",
+   "en": {
+    "title": "Bettiah Senco heist cracked within a week: 3 arrested in Vaishali, 11 more identified",
+    "summary": "Bihar Police say they have cracked the daylight robbery at Senco Jewellers in Bettiah, arresting three men from Vaishali district a week after eight armed men looted the showroom. Eleven more suspects have been identified and raids are on to catch them and recover the jewellery."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बेतिया सेनको लूटकांड का एक हफ्ते में खुलासा: वैशाली से 3 गिरफ्तार, 11 की पहचान",
+    "summary": "बिहार पुलिस का कहना है कि बेतिया के सेनको ज्वेलर्स में दिनदहाड़े हुई लूट का खुलासा हो गया है — वारदात के एक हफ्ते के भीतर वैशाली जिले से तीन लोगों को गिरफ्तार किया गया है। 11 और आरोपियों की पहचान हो चुकी है और गहने बरामद करने के लिए छापेमारी जारी है।"
+   },
+   "id": "bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Bihar",
+   "sub": "Police & Crime",
+   "trending": false,
+   "publishedAt": "2026-11-26T02:55:53+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "World",
+   "district": null,
+   "en": {
+    "title": "Judges tell prosecutors to drop Netanyahu's biggest corruption case",
+    "summary": "Judges in Benjamin Netanyahu's corruption trial have recommended that prosecutors drop the most serious case against the Israeli prime minister — the Case 4000 bribery charge — and reconsider a second case, in a major blow to the prosecution. The recommendation is not a ruling, and the attorney general says she will review it."
+   },
+   "featured": false,
+   "hi": {
+    "title": "नेतन्याहू के सबसे बड़े भ्रष्टाचार मामले को वापस लेने की सिफारिश, जज बोले — सजा की संभावना कम",
+    "summary": "बेंजामिन नेतन्याहू के भ्रष्टाचार मुकदमे की सुनवाई कर रहे जजों ने अभियोजन पक्ष से सिफारिश की है कि इज़राइली प्रधानमंत्री के खिलाफ सबसे गंभीर मामला — केस 4000 में रिश्वत का आरोप — वापस लिया जाए और दूसरे मामले पर फिर से विचार किया जाए। यह सिफारिश कोई फैसला नहीं है और अटॉर्नी जनरल ने कहा है कि वे इस पर विचार करेंगी।"
+   },
+   "id": "netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25",
+   "source": "PrimeFeed Desk",
+   "state": null,
+   "sub": "Middle East",
+   "trending": true,
+   "publishedAt": "2026-11-26T02:55:53+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Politics",
@@ -3265,48 +3311,6 @@
    "hi": {
     "title": "रूसी मिसाइलें गिरने के बाद NATO पोलैंड में तैनात करेगा AWACS निगरानी विमान",
     "summary": "20 नवंबर को 3 रूसी Kh-101 क्रूज़ मिसाइलों के पोलैंड में गिरने के बाद NATO पोलैंड को एक AWACS निगरानी विमान देगा। सोमवार को ब्रसेल्स में नॉर्थ अटलांटिक काउंसिल की आपात बैठक में यह फैसला लिया गया, और यूरोप में NATO के सर्वोच्च कमांडर ने तैनाती को मंज़ूरी दे दी है।"
-   }
-  },
-  {
-   "id": "england-beat-australia-eight-wickets-donald-85-second-t20i-november-24",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T00:17:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/england-beat-australia-eight-wickets-donald-85-second-t20i-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/england-beat-australia-eight-wickets-donald-85-second-t20i-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/england-beat-australia-eight-wickets-donald-85-second-t20i-november-24-en.mp3",
-   "en": {
-    "title": "Donald's 32-ball 85 powers England to eight-wicket rout of Australia, T20I series level at 1-1",
-    "summary": "Aneurin Donald smashed 85 off 32 balls and Phil Salt made 58 off 30 as England chased down 185 in just 13.1 overs to beat Australia by eight wickets in the second T20I at Carrara on Tuesday, levelling the five-match series 1-1."
-   },
-   "hi": {
-    "title": "डोनाल्ड की 32 गेंदों पर 85 रन की धमाकेदार पारी, इंग्लैंड ने ऑस्ट्रेलिया को 8 विकेट से हराकर सीरीज़ 1-1 की",
-    "summary": "एन्यूरिन डोनाल्ड ने 32 गेंदों पर 85 रन और फिल सॉल्ट ने 30 गेंदों पर 58 रन बनाए, जिससे इंग्लैंड ने मंगलवार को करारा में दूसरे T20I में 185 रन का लक्ष्य सिर्फ 13.1 ओवर में हासिल कर ऑस्ट्रेलिया को 8 विकेट से हरा दिया। 5 मैचों की सीरीज़ अब 1-1 से बराबर है।"
-   }
-  },
-  {
-   "id": "houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T00:03:30+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24-en.mp3",
-   "en": {
-    "title": "Houthi attack on Riyadh financial district tower injures 11, including 2 Indians",
-    "summary": "A tower in Riyadh’s King Abdullah Financial District was targeted on Tuesday in what Saudi Arabia’s Civil Defence called a terrorist attack by Yemen’s Houthi militia. Eleven people were injured, including two Indian nationals, two Saudis, three Nepalese and four Egyptians."
-   },
-   "hi": {
-    "title": "रियाद में हूती हमला: वित्तीय जिले के टावर पर हमले में 2 भारतीय समेत 11 घायल",
-    "summary": "सऊदी अरब की राजधानी रियाद के किंग अब्दुल्ला वित्तीय जिले में मंगलवार को एक टावर पर हमला हुआ, जिसे सऊदी नागरिक सुरक्षा विभाग ने यमन के हूती विद्रोहियों का आतंकवादी हमला बताया है। हमले में 2 भारतीय नागरिकों समेत 11 लोग घायल हुए हैं।"
    }
   }
  ]
