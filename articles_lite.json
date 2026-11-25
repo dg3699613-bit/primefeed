@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T19:18:54+05:30",
+ "updatedAt": "2026-11-25T19:40:08+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Khordha",
+   "en": {
+    "title": "Deepfake videos of Amitabh Bachchan and Nirmala Sitharaman used to dupe Bhubaneswar retiree of ₹29.54 lakh; 3 arrested in Delhi",
+    "summary": "Bhubaneswar Cyber Police arrested three men, including the alleged mastermind, from Delhi for running a fake trading platform that lured a 59-year-old retired employee with deepfake celebrity videos and promises of doubled returns."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अमिताभ बच्चन और निर्मला सीतारमण के दीपफेक वीडियो से भुवनेश्वर के रिटायर्ड कर्मचारी से 29.54 लाख रुपये की ठगी, दिल्ली से 3 गिरफ्तार",
+    "summary": "भुवनेश्वर साइबर पुलिस ने दिल्ली से 3 लोगों को गिरफ्तार किया है, जिनमें कथित मास्टरमाइंड भी शामिल है। आरोप है कि उन्होंने फर्जी ट्रेडिंग प्लेटफॉर्म के जरिए दीपफेक वीडियो दिखाकर 59 साल के रिटायर्ड कर्मचारी से 29.54 लाख रुपये ठग लिए।"
+   },
+   "id": "bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Odisha",
+   "sub": "Cyber Crime",
+   "trending": true,
+   "publishedAt": "2026-11-25T19:33:45+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "US proposes 25% tariff on Indian goods, but 17% if a trade deal is signed",
+    "summary": "The US Trade Representative has proposed new tariffs on India and 13 other economies after an eight-month probe into excess industrial capacity. India faces up to 25%, falling to 17% if a trade deal is signed."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अमेरिका ने भारतीय सामान पर 25% टैरिफ का प्रस्ताव रखा, व्यापार समझौता हुआ तो दर 17% होगी",
+    "summary": "अमेरिका के व्यापार प्रतिनिधि ने 8 महीने की जांच के बाद भारत समेत 14 अर्थव्यवस्थाओं पर नए टैरिफ का प्रस्ताव रखा है। भारत पर 25% तक शुल्क लग सकता है, लेकिन व्यापार समझौता होने पर यह दर घटकर 17% रह जाएगी।"
+   },
+   "id": "us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": true,
+   "publishedAt": "2026-11-25T19:33:45+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3255,50 +3299,6 @@
    "hi": {
     "title": "204 रन, 53 गेंद, 28 छक्के: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए का सबसे तेज़ दोहरा शतक",
     "summary": "15 साल के वैभव सूर्यवंशी ने एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ 53 गेंदों पर 204 रन बनाकर लिस्ट ए क्रिकेट का सबसे तेज़ दोहरा शतक जड़ दिया। उन्होंने 28 छक्के लगाए, किसी भी लिस्ट ए पारी में सबसे ज़्यादा।"
-   }
-  },
-  {
-   "id": "thousands-march-in-karachi-against-plan-to-divide-sindh-november-24",
-   "category": "World",
-   "sub": "Pakistan",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T17:28:37+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24-en.mp3",
-   "en": {
-    "title": "Thousands march in Karachi against plan to split Sindh; Sindhudesh demand resurfaces",
-    "summary": "Thousands of people marched in Karachi on Sunday against a proposal to split Pakistan's Sindh province into new administrative units. Protesters said not an inch of Sindh's territory would be allowed to separate, and demands for an independent Sindhudesh resurfaced."
-   },
-   "hi": {
-    "title": "सिंध के बँटवारे के प्रस्ताव पर कराची में हज़ारों लोग सड़कों पर, 'सिंधुदेश' की माँग भी उठी",
-    "summary": "पाकिस्तान के सिंध प्रांत को बाँटकर नए प्रांत बनाने के प्रस्ताव के खिलाफ रविवार को कराची में हज़ारों लोगों ने मार्च निकाला। प्रदर्शनकारियों ने कहा कि सिंध की एक इंच ज़मीन भी अलग नहीं होने दी जाएगी, और 'सिंधुदेश' की माँग भी उठी।"
-   }
-  },
-  {
-   "id": "four-of-a-family-swept-away-in-ganga-during-kartik-purnima-bath-in-bijnor-12-year-old-rescued-3-still-missing",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T17:17:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/four-of-a-family-swept-away-in-ganga-during-kartik-purnima-bath-in-bijnor-12-year-old-rescued-3-still-missing.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/four-of-a-family-swept-away-in-ganga-during-kartik-purnima-bath-in-bijnor-12-year-old-rescued-3-still-missing-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/four-of-a-family-swept-away-in-ganga-during-kartik-purnima-bath-in-bijnor-12-year-old-rescued-3-still-missing-en.mp3",
-   "district": "Bijnor",
-   "state": "Uttar Pradesh",
-   "en": {
-    "title": "Four of a family swept away in Ganga during Kartik Purnima bath in Bijnor; 12-year-old rescued, 3 still missing",
-    "summary": "Four members of a family from Najibabad were swept into deep water while bathing at the Nangalsoati Ganga ghat in Bijnor district on Kartik Purnima. A 12-year-old girl was pulled out by devotees; a woman and two teenagers are still missing, and divers are searching the river."
-   },
-   "hi": {
-    "title": "बिजनौर में कार्तिक पूर्णिमा स्नान के दौरान गंगा में बहे एक ही परिवार के 4 लोग, 12 साल की बच्ची बची; 3 लापता",
-    "summary": "बिजनौर जिले के नांगलसोती गंगा घाट पर कार्तिक पूर्णिमा के दिन स्नान करते समय नजीबाबाद के एक परिवार के 4 सदस्य गहरे पानी में बह गए। पास में स्नान कर रहे श्रद्धालुओं ने 12 साल की बच्ची को बाहर निकाल लिया, लेकिन एक महिला और 2 किशोर अब भी लापता हैं और गोताखोर नदी में उनकी तलाश कर रहे हैं।"
    }
   }
  ]
