@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-26T01:00:47+05:30",
+ "updatedAt": "2026-11-26T01:20:39+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "Houthis claim strike on Saudi Arabia's largest refinery; satellite images show smoke as oil jumps above $93",
+    "summary": "Yemen's Houthis said on Wednesday they had struck Saudi Arabia's Ras Tanura refinery, the kingdom's largest, and Riyadh's financial district. Satellite images showed thick black smoke over the refinery, and Brent crude climbed above $93 a barrel."
+   },
+   "featured": false,
+   "hi": {
+    "title": "हूती का दावा: सऊदी अरब की सबसे बड़ी रिफाइनरी रास तनुरा पर हमला, सैटेलाइट तस्वीरों में धुआँ, तेल 93 डॉलर के पार",
+    "summary": "यमन के हूती ने बुधवार को कहा कि उन्होंने सऊदी अरब की सबसे बड़ी रिफाइनरी रास तनुरा और रियाद के वित्तीय जिले पर हमला किया है। सैटेलाइट तस्वीरों में रिफाइनरी के ऊपर घना काला धुआँ दिखा, और ब्रेंट कच्चा तेल 93 डॉलर प्रति बैरल के पार चला गया।"
+   },
+   "id": "houthis-claim-strike-on-ras-tanura-refinery-oil-above-93",
+   "source": "PrimeFeed Desk",
+   "sub": "Middle East",
+   "trending": true,
+   "publishedAt": "2026-11-26T01:15:36+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthis-claim-strike-on-ras-tanura-refinery-oil-above-93.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-claim-strike-on-ras-tanura-refinery-oil-above-93-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-claim-strike-on-ras-tanura-refinery-oil-above-93-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Education",
+   "en": {
+    "title": "IITs to add 6,000 seats in robotics, physical AI and space tech from 2027",
+    "summary": "The Indian Institutes of Technology will add around 6,000 seats from 2027 in robotics, physical AI and space engineering and technology, backed by the Bhupat and Jyoti Mehta Family Foundation. The expansion will cover undergraduate, postgraduate and doctoral programmes across multiple IITs."
+   },
+   "featured": false,
+   "hi": {
+    "title": "आईआईटी में 2027 से रोबोटिक्स, फिजिकल एआई और स्पेस टेक में 6,000 नई सीटें",
+    "summary": "भारतीय प्रौद्योगिकी संस्थान 2027 से रोबोटिक्स, फिजिकल एआई और अंतरिक्ष इंजीनियरिंग व प्रौद्योगिकी में करीब 6,000 सीटें बढ़ाएँगे। भूपत और ज्योति मेहता फैमिली फाउंडेशन के सहयोग से यह विस्तार कई आईआईटी में स्नातक, स्नातकोत्तर और डॉक्टरेट कार्यक्रमों में होगा।"
+   },
+   "id": "iits-to-add-6000-seats-robotics-physical-ai-space-tech-2027",
+   "source": "PrimeFeed Desk",
+   "sub": "Admissions",
+   "trending": true,
+   "publishedAt": "2026-11-26T01:15:36+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/iits-to-add-6000-seats-robotics-physical-ai-space-tech-2027.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iits-to-add-6000-seats-robotics-physical-ai-space-tech-2027-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/iits-to-add-6000-seats-robotics-physical-ai-space-tech-2027-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3264,50 +3306,6 @@
     "title": "रास अल खैमाह में बस-ट्रक की टक्कर में 13 लोगों की मौत, मरने वालों में भारतीय भी शामिल",
     "summary": "रास अल खैमाह में मंगलवार तड़के अल वतन रोड पर 41 यात्रियों वाली बस के खड़े ट्रक से टकराने पर भारतीयों समेत 13 लोगों की मौत हो गई और 14 घायल हुए। यात्री ओमान से वीज़ा बदलने की प्रक्रिया पूरी करके लौट रहे थे; दुबई स्थित भारतीय वाणिज्य दूतावास ने पुष्टि की है कि मरने वालों में भारतीय शामिल हैं।"
    }
-  },
-  {
-   "id": "tamil-nadu-70-investment-deals-50000-crore-chennai-november-25",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T23:02:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-70-investment-deals-50000-crore-chennai-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-70-investment-deals-50000-crore-chennai-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-70-investment-deals-50000-crore-chennai-november-25-en.mp3",
-   "en": {
-    "title": "Tamil Nadu to announce 70 investment deals worth over Rs 50,000 crore at Chennai conclave on Wednesday",
-    "summary": "Tamil Nadu will announce roughly 70 investment deals worth more than Rs 500 billion ($5.38 billion) across sectors at an investor conclave in Chennai on Wednesday, with Brazilian motor maker WEG among the investors signing new pacts. The meet will focus on turning earlier announcements into projects on the ground."
-   },
-   "hi": {
-    "title": "तमिलनाडु बुधवार को 500 अरब रुपये के 70 निवेश समझौतों का ऐलान करेगा, चेन्नई में निवेशक सम्मेलन",
-    "summary": "तमिलनाडु बुधवार को चेन्नई में होने वाले निवेशक सम्मेलन में 500 अरब रुपये (5.38 अरब डॉलर) से ज्यादा के करीब 70 निवेश समझौतों का ऐलान करेगा। ब्राजील की मोटर कंपनी डब्ल्यूईजी भी नए समझौते पर हस्ताक्षर करने वालों में शामिल है। सम्मेलन का जोर पहले घोषित निवेशों को जमीन पर उतारने पर होगा।"
-   }
-  },
-  {
-   "id": "pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24",
-   "category": "State & Local",
-   "sub": "Gujarat",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T22:42:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24-en.mp3",
-   "en": {
-    "title": "PGVCL raises power rate by 15 paise a unit in Saurashtra and Kutch, hitting 62 lakh consumers",
-    "summary": "Paschim Gujarat Vij Company has raised electricity charges by about 15 paise per unit for its 62 lakh consumers in Saurashtra and Kutch, after a 3.99% rise since July in five charges that make up a power bill. The Congress has announced a protest at the PGVCL office."
-   },
-   "hi": {
-    "title": "सौराष्ट्र और कच्छ के 62 लाख बिजली उपभोक्ताओं पर महँगाई की मार, पीजीवीसीएल ने यूनिट पर 15 पैसे बढ़ाए",
-    "summary": "पश्चिम गुजरात विज कंपनी ने जुलाई से 5 तरह के चार्ज में 3.99% की बढ़ोतरी के बाद सौराष्ट्र और कच्छ के 62 लाख उपभोक्ताओं के लिए बिजली दर में यूनिट पर करीब 15 पैसे का इजाफा कर दिया है। कांग्रेस ने पीजीवीसीएल कार्यालय के सामने विरोध प्रदर्शन की घोषणा की है।"
-   },
-   "district": "Kutch",
-   "state": "Gujarat"
   }
  ]
 }
