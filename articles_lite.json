@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T04:39:30+05:30",
+ "updatedAt": "2026-11-26T04:57:24+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Dehradun",
+   "en": {
+    "title": "Ankita Bhandari case: Zero FIR against Vinod Arya over leaked chats, registered after parents' three-day struggle",
+    "summary": "A Zero FIR was registered at Dehradun's Rajpur police station on Wednesday evening. In their complaint, Ankita's parents accused Vinod Arya of making their daughter's private chats public, calling her death a suicide and casting aspersions on her character. The case will move to Haridwar."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अंकिता भंडारी केस: चैट लीक पर विनोद आर्य के खिलाफ ज़ीरो एफ़आईआर, माता-पिता के तीन दिन के संघर्ष के बाद दर्ज हुआ मामला",
+    "summary": "देहरादून के राजपुर थाने में बुधवार शाम ज़ीरो एफ़आईआर दर्ज हुई। शिकायत में अंकिता के माता-पिता ने आरोप लगाया है कि विनोद आर्य ने उनकी बेटी की निजी चैट सार्वजनिक कर उसके चरित्र पर सवाल उठाए और मौत को आत्महत्या बताया। मामला हरिद्वार स्थानांतरित होगा।"
+   },
+   "id": "ankita-bhandari-zero-fir-vinod-arya-chats-dehradun-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Uttarakhand",
+   "sub": "Police & Crime",
+   "trending": true,
+   "publishedAt": "2026-11-26T04:51:54+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ankita-bhandari-zero-fir-vinod-arya-chats-dehradun-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ankita-bhandari-zero-fir-vinod-arya-chats-dehradun-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ankita-bhandari-zero-fir-vinod-arya-chats-dehradun-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "en": {
+    "title": "New Delhi to host 2028 Thomas and Uber Cup Finals, badminton's biggest team event returns to India after 14 years",
+    "summary": "The Badminton World Federation on Wednesday awarded the 2028 Thomas and Uber Cup Finals to New Delhi. India has won the hosting rights for the tournament for the second time since 2014. The 2028 edition will be played in a new format, with 24 teams each in the men's and women's events."
+   },
+   "featured": false,
+   "hi": {
+    "title": "2028 थॉमस और उबेर कप की मेज़बानी नई दिल्ली को, 14 साल बाद भारत में होगा बैडमिंटन का सबसे बड़ा टीम टूर्नामेंट",
+    "summary": "बैडमिंटन विश्व महासंघ ने बुधवार को 2028 थॉमस और उबेर कप फाइनल्स की मेज़बानी नई दिल्ली को सौंपी। भारत ने 2014 के बाद दूसरी बार इस टूर्नामेंट की मेज़बानी जीती है। 2028 से मुकाबले नए अंदाज़ में होंगे — 24-24 टीमों के साथ लीग और नॉकआउट।"
+   },
+   "id": "new-delhi-host-thomas-uber-cup-finals-2028-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Badminton",
+   "trending": true,
+   "publishedAt": "2026-11-26T04:51:54+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/new-delhi-host-thomas-uber-cup-finals-2028-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/new-delhi-host-thomas-uber-cup-finals-2028-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/new-delhi-host-thomas-uber-cup-finals-2028-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Science",
@@ -3277,50 +3321,6 @@
    "hi": {
     "title": "प्रीत विहार के कैफे में 22 साल की युवती से सामूहिक दुष्कर्म का आरोप, 2 महिलाओं समेत 3 गिरफ्तार",
     "summary": "पूर्वी दिल्ली के प्रीत विहार के सल्टेनेट कैफे में सोमवार की रात पार्टी के बाद 22 साल की युवती ने 2 साथी कर्मचारियों पर सामूहिक दुष्कर्म का आरोप लगाया है। दिल्ली पुलिस ने 2 महिलाओं समेत 3 लोगों को गिरफ्तार किया है, जबकि 3 अन्य आरोपी फरार हैं।"
-   }
-  },
-  {
-   "id": "microsoft-declares-code-red-after-historic-outage-november-24",
-   "category": "Technology",
-   "sub": "Internet",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T02:14:25+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/microsoft-declares-code-red-after-historic-outage-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/microsoft-declares-code-red-after-historic-outage-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/microsoft-declares-code-red-after-historic-outage-november-24-en.mp3",
-   "en": {
-    "title": "Microsoft declares 'Code Red' after historic 24-hour outage crippled Outlook and Teams",
-    "summary": "Microsoft has declared a 'Code Red' drive to overhaul how it prevents and responds to major service failures, after its November 12-13 outage — the most customer-impacting incident in Exchange Online history — exposed serious gaps in its engineering systems and crisis response, internal memos reviewed by Reuters show."
-   },
-   "hi": {
-    "title": "माइक्रोसॉफ्ट ने ऐतिहासिक आउटेज के बाद 'कोड रेड' घोषित किया, 24 घंटे ठप रही थीं आउटलुक और टीम्स सेवाएं",
-    "summary": "माइक्रोसॉफ्ट ने 12-13 नवंबर के 24 घंटे के आउटेज के बाद बड़ी सेवा विफलताओं से निपटने के तरीके को बदलने के लिए 'कोड रेड' अभियान घोषित किया है। रॉयटर्स के देखे गए आंतरिक मेमो के मुताबिक यह एक्सचेंज ऑनलाइन के इतिहास की सबसे ज्यादा ग्राहकों को प्रभावित करने वाली घटना थी।"
-   }
-  },
-  {
-   "id": "charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T01:54:44+05:30",
-   "source": "PrimeFeed Desk",
-   "district": "Charkhi Dadri",
-   "state": "Haryana",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24-en.mp3",
-   "en": {
-    "title": "Farmer beaten to death in Charkhi Dadri over buffalo dung row; 4 arrested",
-    "summary": "Manoj, a 40-year-old farmer from Maharana village in Haryana's Charkhi Dadri district, died at PGIMS Rohtak on Monday night after a group of men allegedly attacked him with an axe, sticks and rods on November 20, following a dispute over buffalo dung near a cattle enclosure gate. Police have arrested 4 people, and villagers ended a 17-hour road blockade on Tuesday after the local MLA intervened."
-   },
-   "hi": {
-    "title": "चरखी दादरी में भैंस के गोबर को लेकर विवाद, किसान की पीट-पीटकर हत्या; 4 गिरफ्तार",
-    "summary": "हरियाणा के चरखी दादरी ज़िले के महाराणा गाँव के 40 वर्षीय किसान मनोज की सोमवार रात पीजीआईएमएस रोहतक में मौत हो गई। पशु बाड़े के द्वार के पास भैंस के गोबर को लेकर हुए विवाद के बाद 20 नवंबर को कुछ लोगों ने उस पर कुल्हाड़ी, लाठियों और रॉड से कथित तौर पर हमला किया था। पुलिस ने 4 लोगों को गिरफ्तार किया है, और ग्रामीणों ने स्थानीय विधायक के हस्तक्षेप के बाद मंगलवार को 17 घंटे चला सड़क जाम खत्म कर दिया।"
    }
   }
  ]
