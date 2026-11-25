@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T07:09:13+05:30",
+ "updatedAt": "2026-11-25T07:42:56+05:30",
  "articles": [
+  {
+   "id": "haryana-recommends-ifs-officer-termination-over-faridabad-tree-felling",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T07:42:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haryana-recommends-ifs-officer-termination-over-faridabad-tree-felling.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-recommends-ifs-officer-termination-over-faridabad-tree-felling-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-recommends-ifs-officer-termination-over-faridabad-tree-felling-en.mp3",
+   "district": "Faridabad",
+   "state": "Haryana",
+   "hi": {
+    "title": "फरीदाबाद में 2,585 पेड़ों की अवैध कटाई पर हरियाणा ने आईएफएस अधिकारी की बर्खास्तगी की सिफारिश की",
+    "summary": "हरियाणा वन विभाग ने फरीदाबाद के अलीपुर-सिकरगढ़ आरक्षित वन में 2,585 पेड़ों की कथित अवैध कटाई को लेकर आईएफएस अधिकारी झलकर उयाके की सेवाएं समाप्त करने की सिफारिश की है। निलंबित अधिकारी ने खुद 12 नवंबर को कटाई की जानकारी दी थी; 20 नवंबर को 3 वन अधिकारी बर्खास्त किए गए और एफआईआर दर्ज हुई है।"
+   },
+   "en": {
+    "title": "Haryana recommends termination of IFS officer over illegal felling of 2,585 trees in Faridabad forest",
+    "summary": "The Haryana Forest Department has recommended terminating the services of IFS officer Jhalkar Uyake over the alleged illegal felling of 2,585 trees in Faridabad's Alipur-Sikargarh Reserved Forest. The suspended officer had himself flagged the felling on November 12; three forest officials were dismissed on November 20 and an FIR has been registered."
+   }
+  },
+  {
+   "id": "india-calls-for-human-oversight-in-ai-warfare-at-un",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T07:42:56+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-calls-for-human-oversight-in-ai-warfare-at-un.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-calls-for-human-oversight-in-ai-warfare-at-un-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-calls-for-human-oversight-in-ai-warfare-at-un-en.mp3",
+   "hi": {
+    "title": "संयुक्त राष्ट्र में भारत की मांग: युद्ध में एआई पर मानवीय निगरानी ज़रूरी, आतंकियों के दुरुपयोग पर चेतावनी",
+    "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में कहा है कि जैसे-जैसे कृत्रिम बुद्धिमत्ता युद्ध का चेहरा बदल रही है, मानव का विवेक और निगरानी केंद्र में रहनी चाहिए। राजदूत हरीश परवथानेनी ने घातक स्वचालित हथियारों के जोखिम और आतंकी समूहों की ओर से एआई के दुरुपयोग पर चेतावनी दी और एआई संचालन में समावेशी वैश्विक सहयोग की मांग की।"
+   },
+   "en": {
+    "title": "At UN, India calls for human oversight in AI warfare and warns of autonomous weapons and terror misuse",
+    "summary": "India has told the United Nations Security Council that human judgement and oversight must remain central as artificial intelligence transforms warfare. Ambassador Harish Parvathaneni warned of the risks from lethal autonomous weapons and the misuse of AI by terrorist groups, and called for inclusive global cooperation on AI governance."
+   }
+  },
   {
    "id": "chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards",
    "category": "State & Local",
@@ -3245,50 +3289,6 @@
    "en": {
     "title": "Delhi air worsens again: AQI climbs to 260, surface ozone crosses 100 at 4 stations; 'very poor' likely by November 26",
     "summary": "Delhi's average AQI climbed to 260 on Monday, up 21 points from 239 on Sunday. Surface ozone crossed 100 micrograms per cubic metre at four monitoring stations, and the air is forecast to turn 'very poor' by November 26."
-   }
-  },
-  {
-   "id": "trump-orders-army-pause-iowa-lead-azide-detonation-november-23",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:49:55+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-orders-army-pause-iowa-lead-azide-detonation-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-orders-army-pause-iowa-lead-azide-detonation-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-orders-army-pause-iowa-lead-azide-detonation-november-23-en.mp3",
-   "hi": {
-    "title": "ट्रंप ने आयोवा में 10,000 पाउंड ज़हरीले विस्फोटक उड़ाने की योजना रोकी, सेना को कोर्ट और नए गवर्नर की मंज़ूरी का इंतज़ार करने को कहा",
-    "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने सोमवार को अमेरिकी सेना को आयोवा आर्मी एम्युनिशन प्लांट में रखे करीब 10,000 पाउंड खराब हो चुके लेड एज़ाइड को उड़ाने की योजना पर रोक लगाने का आदेश दिया। विस्फोट पहले बुधवार, 25 नवंबर को होना था, लेकिन अब यह तभी होगा जब आठवीं सर्किट अदालत और आयोवा के नवनिर्वाचित गवर्नर रॉब सैंड इस पर सहमत होंगे।"
-   },
-   "en": {
-    "title": "Trump orders Army to pause plan to blow up 10,000 pounds of toxic explosives in Iowa",
-    "summary": "President Donald Trump on Monday ordered the US Army to pause its plan to detonate about 10,000 pounds of degraded lead azide stored at the Iowa Army Ammunition Plant. The blast had been set for Wednesday, November 25, but will now go ahead only if the Eighth Circuit Court of Appeals and Iowa governor-elect Rob Sand agree to it."
-   }
-  },
-  {
-   "id": "karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23",
-   "category": "Politics",
-   "sub": "Congress",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T03:35:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-congress-mla-nayana-motamma-resigns-elephant-drive-mudigere-november-23-en.mp3",
-   "district": "Chikkamagaluru",
-   "state": "Karnataka",
-   "hi": {
-    "title": "हाथियों के स्थानांतरण के विरोध में मुदिगेरे विधायक नयना मोटम्मा ने दिया इस्तीफ़ा, विरोध के बाद अभियान रोका गया",
-    "summary": "कर्नाटक की कांग्रेस विधायक नयना मोटम्मा ने सोमवार को हासन से हाथियों को उनकी मुदिगेरे विधानसभा क्षेत्र में लाने के विरोध में इस्तीफ़ा दे दिया। इस्तीफ़ा निर्धारित प्रारूप में नहीं होने के कारण स्वीकार नहीं हुआ, और विरोध के बाद वन विभाग ने हाथी अभियान रोक दिया है।"
-   },
-   "en": {
-    "title": "Mudigere MLA Nayana Motamma resigns over elephant relocation; drive halted after protest",
-    "summary": "Karnataka Congress MLA Nayana Motamma resigned on Monday, protesting against the Forest Department driving a herd of wild elephants from Hassan into her Mudigere constituency. Her resignation was not accepted as it was not in the prescribed format, and the department has halted the elephant drive after the protest."
    }
   }
  ]
