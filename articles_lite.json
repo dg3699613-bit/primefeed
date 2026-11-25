@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T18:57:54+05:30",
+ "updatedAt": "2026-11-25T19:18:54+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Raipur",
+   "en": {
+    "title": "Raipur Apple Store heist cracked: 2 arrested, 125 iPhones worth ₹1.50 crore recovered after 25-day hunt",
+    "summary": "Raipur Police have cracked the ₹2 crore theft at the Marine Drive Apple store, arresting gang leader Rajesh Jhala and handler Safan Khan and recovering 125 of the 173 stolen iPhones after a 25-day investigation that followed more than 1,000 CCTV cameras across four states."
+   },
+   "featured": false,
+   "hi": {
+    "title": "रायपुर एप्पल स्टोर चोरी का खुलासा: 2 गिरफ्तार, 25 दिन की जांच के बाद 1.50 करोड़ रुपये के 125 आईफोन बरामद",
+    "summary": "रायपुर पुलिस ने मरीन ड्राइव एप्पल स्टोर से 2 करोड़ रुपये की चोरी का खुलासा कर दिया है। गिरोह के सरगना राजेश झाला और आईफोन खपाने वाले सफान खान को गिरफ्तार कर लिया गया है, और 25 दिन की जांच के बाद चोरी हुए 173 आईफोन में से 125 बरामद कर लिए गए हैं।"
+   },
+   "id": "raipur-apple-store-theft-kanjar-gang-arrested-125-iphones-recovered-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Chhattisgarh",
+   "sub": "Police & Crime",
+   "trending": true,
+   "publishedAt": "2026-11-25T19:12:26+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/raipur-apple-store-theft-kanjar-gang-arrested-125-iphones-recovered-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raipur-apple-store-theft-kanjar-gang-arrested-125-iphones-recovered-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/raipur-apple-store-theft-kanjar-gang-arrested-125-iphones-recovered-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "Hasina's voluntary return is separate from extradition request, India tells Dhaka",
+    "summary": "India has said former Bangladesh prime minister Sheikh Hasina's plan to return home voluntarily on December 16 is a matter separate from Dhaka's request to extradite her, with the foreign ministry stressing that the extradition request is still being examined through established processes."
+   },
+   "featured": false,
+   "hi": {
+    "title": "हसीना की स्वैच्छिक वापसी प्रत्यर्पण अनुरोध से अलग मामला, भारत ने ढाका से कहा",
+    "summary": "भारत ने कहा है कि बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना की 16 दिसंबर को स्वेच्छा से स्वदेश लौटने की योजना ढाका के प्रत्यर्पण अनुरोध से अलग मामला है। विदेश मंत्रालय ने कहा कि प्रत्यर्पण अनुरोध पर स्थापित प्रक्रिया के तहत विचार चल रहा है।"
+   },
+   "id": "mea-hasina-voluntary-return-separate-extradition-request-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Asia",
+   "trending": true,
+   "publishedAt": "2026-11-25T19:12:26+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mea-hasina-voluntary-return-separate-extradition-request-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mea-hasina-voluntary-return-separate-extradition-request-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mea-hasina-voluntary-return-separate-extradition-request-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "State & Local",
@@ -3255,50 +3299,6 @@
    "hi": {
     "title": "बिजनौर में कार्तिक पूर्णिमा स्नान के दौरान गंगा में बहे एक ही परिवार के 4 लोग, 12 साल की बच्ची बची; 3 लापता",
     "summary": "बिजनौर जिले के नांगलसोती गंगा घाट पर कार्तिक पूर्णिमा के दिन स्नान करते समय नजीबाबाद के एक परिवार के 4 सदस्य गहरे पानी में बह गए। पास में स्नान कर रहे श्रद्धालुओं ने 12 साल की बच्ची को बाहर निकाल लिया, लेकिन एक महिला और 2 किशोर अब भी लापता हैं और गोताखोर नदी में उनकी तलाश कर रहे हैं।"
-   }
-  },
-  {
-   "id": "israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T17:17:34+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city-en.mp3",
-   "en": {
-    "title": "Israeli strike kills Hamas internal security chief Naeem Abu Nahel in Gaza City",
-    "summary": "An Israeli airstrike in western Gaza City killed Naeem Abu Nahel, the director of Hamas' internal security apparatus, Hamas sources said. The Israeli military confirmed it struck a senior Hamas member but did not name him. Medics said at least 7 people were killed in strikes across Gaza on Tuesday."
-   },
-   "hi": {
-    "title": "गाजा सिटी में इजराइली हमले में हमास के आंतरिक सुरक्षा प्रमुख नईम अबू नहल की मौत",
-    "summary": "गाजा सिटी के पश्चिमी हिस्से में हुए इजराइली हवाई हमले में हमास के आंतरिक सुरक्षा तंत्र के प्रमुख नईम अबू नहल की मौत हो गई, हमास सूत्रों ने बताया। इजराइली सेना ने एक वरिष्ठ हमास सदस्य पर हमला करने की पुष्टि की, लेकिन उसका नाम नहीं बताया। चिकित्सकों के मुताबिक मंगलवार को गाजा में हुए हमलों में कम से कम 7 लोग मारे गए।"
-   }
-  },
-  {
-   "id": "leopard-drags-away-2-year-old-girl-in-nabarangpur-remains-found-in-forest",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T17:06:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/leopard-drags-away-2-year-old-girl-in-nabarangpur-remains-found-in-forest.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-drags-away-2-year-old-girl-in-nabarangpur-remains-found-in-forest-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-drags-away-2-year-old-girl-in-nabarangpur-remains-found-in-forest-en.mp3",
-   "district": "Nabarangpur",
-   "state": "Odisha",
-   "en": {
-    "title": "Leopard drags away 2-year-old girl from courtyard in Nabarangpur; remains found in forest after 18-hour search",
-    "summary": "A leopard dragged away a 2-year-old girl from the courtyard of her home in Chadiapara village of Odisha's Nabarangpur district on Monday evening. After an overnight search, the child's remains were found in a nearby forest on Tuesday morning. The Forest Department has stepped up monitoring in the area."
-   },
-   "hi": {
-    "title": "नाबरंगपुर में तेंदुए ने आँगन से उठाई 2 साल की बच्ची, 18 घंटे की तलाश के बाद जंगल में मिला शव",
-    "summary": "ओडिशा के नाबरंगपुर जिले के छाड़ियापाड़ा गाँव में सोमवार शाम एक तेंदुए ने घर के आँगन से 2 साल की बच्ची को उठा लिया। रातभर चली तलाश के बाद मंगलवार सुबह जंगल में बच्ची के शव के अवशेष मिले। वन विभाग ने इलाके में निगरानी बढ़ा दी है।"
    }
   }
  ]
