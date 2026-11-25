@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T23:51:29+05:30",
+ "updatedAt": "2026-11-26T00:07:32+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Bengaluru Urban",
+   "en": {
+    "title": "Fresh complaint against BJP MLA Munirathna: rape case complainant alleges intimidation to stop her testifying",
+    "summary": "The woman who accused BJP MLA Munirathna of rape in 2020 has filed a fresh complaint at Bengaluru's Yeshwanthpur police station, alleging that the MLA publicly identified her and made derogatory remarks to stop her testifying in the ongoing trial. Police have registered a case and begun an investigation."
+   },
+   "featured": false,
+   "hi": {
+    "title": "भाजपा विधायक मुनिरथ्ना के खिलाफ नई शिकायत: दुष्कर्म मामले की शिकायतकर्ता ने गवाही रोकने के लिए धमकाने का आरोप लगाया",
+    "summary": "2020 में दुष्कर्म का आरोप लगाने वाली महिला ने बेंगलुरु के यशवंतपुर थाने में नई शिकायत दर्ज कराई है। उनका आरोप है कि विधायक मुनिरथ्ना सार्वजनिक तौर पर उनकी पहचान उजागर कर अपमानजनक टिप्पणियां कर रहे हैं, ताकि वह चल रहे मुकदमे में गवाही न दे सकें। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।"
+   },
+   "id": "munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Karnataka",
+   "sub": "Police & Crime",
+   "trending": false,
+   "publishedAt": "2026-11-26T00:03:30+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED probe into Rahul Gandhi's assets; case sent back for fresh hearing",
+    "summary": "The Supreme Court on Wednesday set aside Allahabad High Court orders directing the CBI and the ED to look into allegations of disproportionate assets against Rahul Gandhi. A three-judge bench said the High Court must hear the case afresh, in open court, before a new bench, and that Gandhi must be made a party and heard before any further order."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुप्रीम कोर्ट ने राहुल गांधी की संपत्ति पर सीबीआई, ईडी जांच का इलाहाबाद हाईकोर्ट का आदेश रद्द किया, मामला नए सिरे से सुनवाई के लिए वापस",
+    "summary": "सुप्रीम कोर्ट ने बुधवार को इलाहाबाद हाईकोर्ट के उन आदेशों को रद्द कर दिया, जिनमें राहुल गांधी के खिलाफ आय से अधिक संपत्ति के आरोपों की सीबीआई और ईडी से जांच कराने को कहा गया था। 3 न्यायाधीशों की पीठ ने कहा कि हाईकोर्ट मामले को शुरू से, खुली अदालत में, नई पीठ के सामने सुनेगा और राहुल गांधी को पक्षकार बनाया जाएगा।"
+   },
+   "id": "supreme-court-sets-aside-allahabad-hc-order-cbi-ed-probe-rahul-gandhi-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "publishedAt": "2026-11-26T00:03:30+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-sets-aside-allahabad-hc-order-cbi-ed-probe-rahul-gandhi-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sets-aside-allahabad-hc-order-cbi-ed-probe-rahul-gandhi-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sets-aside-allahabad-hc-order-cbi-ed-probe-rahul-gandhi-november-25-en.mp3"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25-hi.mp3",
@@ -3264,52 +3308,6 @@
    },
    "district": "Shahjahanpur",
    "state": "Uttar Pradesh"
-  },
-  {
-   "id": "thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24",
-   "category": "Dharm-Astrology",
-   "sub": "Mandir & Teerth",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T21:41:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24-en.mp3",
-   "en": {
-    "title": "Karthigai Deepam lit at Uchipillayar, not Deepathoon, despite Supreme Court order; protests erupt in Madurai",
-    "summary": "The Karthigai Deepam was lit at the customary Uchipillayar mandapam on Thirupparankundram hill in Madurai on Tuesday evening, but no lamp was lit at the disputed Deepathoon pillar despite a Supreme Court order permitting it. Protests broke out and several BJP leaders were detained as around 6,000 police personnel kept watch."
-   },
-   "hi": {
-    "title": "सुप्रीम कोर्ट के आदेश के बावजूद दीपस्तंभ पर नहीं जला कार्तिगई दीपम, उचिपिल्लैयार मंडपम पर जली ज्योति; मदुरै में विरोध",
-    "summary": "मदुरै के तिरुप्परंकुंड्रम पहाड़ी पर मंगलवार शाम कार्तिगई दीपम पारंपरिक उचिपिल्लैयार मंडपम पर जलाया गया, लेकिन सुप्रीम कोर्ट के आदेश के बावजूद विवादित दीपस्तंभ पर दीप नहीं जला। विरोध प्रदर्शन हुए और कई बीजेपी नेताओं को हिरासत में लिया गया, जबकि करीब 6,000 पुलिसकर्मी तैनात रहे।"
-   },
-   "district": "Madurai",
-   "state": "Tamil Nadu"
-  },
-  {
-   "id": "tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24",
-   "category": "Dharm-Astrology",
-   "sub": "Vrat & Tyohar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T21:09:42+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24-en.mp3",
-   "en": {
-    "title": "Maha Deepam lit atop Arunachala Hill in Tiruvannamalai, lakhs of devotees undertake girivalam",
-    "summary": "The Maha Deepam was lit atop the 2,668-foot Arunachala Hill in Tiruvannamalai at 6 pm on Tuesday, closing the 10-day Karthigai Deepam festival. Lakhs of devotees are walking the 14-kilometre girivalam, and the flame will burn for 11 days."
-   },
-   "hi": {
-    "title": "तिरुवण्णामलै में जला महादीपम: अरुणाचल पहाड़ी की चोटी पर 6 बजे प्रज्वलित हुई ज्योति, लाखों श्रद्धालुओं ने किया गिरिवलम",
-    "summary": "तिरुवण्णामलै में मंगलवार शाम 6 बजे अरुणाचल पहाड़ी की 2,668 फुट ऊँची चोटी पर महादीपम जला दिया गया। 10 दिन के कार्तिगई दीपम उत्सव का समापन हुआ, लाखों श्रद्धालु 14 किलोमीटर गिरिवलम पर चल रहे हैं और ज्योति 11 दिन तक जलती रहेगी।"
-   },
-   "district": "Tiruvannamalai",
-   "state": "Tamil Nadu"
   }
  ]
 }
