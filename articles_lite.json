@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T07:42:56+05:30",
+ "updatedAt": "2026-11-25T08:02:23+05:30",
  "articles": [
+  {
+   "id": "kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24",
+   "category": "Health",
+   "sub": "Diseases",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T08:02:23+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24-en.mp3",
+   "district": "Kozhikode",
+   "state": "Kerala",
+   "hi": {
+    "title": "कोझिकोड में खाद्य सुरक्षा विभाग की छापेमारी: बेकरियों के लिए रखे 16,900 से ज़्यादा सड़े अंडे जब्त",
+    "summary": "कोझिकोड में खाद्य सुरक्षा विभाग ने मावूर के 2 प्रतिष्ठानों से 16,900 से ज़्यादा असुरक्षित अंडे जब्त किए हैं। आरोप है कि टूटे, सड़े और कीड़ों वाले अंडे बेकरी निर्माण इकाइयों को बेचे जा रहे थे। दोनों प्रतिष्ठानों के लाइसेंस निलंबित किए जा रहे हैं और खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत कार्यवाही शुरू हो गई है।"
+   },
+   "en": {
+    "title": "Kozhikode food safety raid: Over 16,900 rotten eggs meant for bakeries seized in Mavoor",
+    "summary": "Food safety officials in Kozhikode have seized more than 16,900 unsafe eggs — cracked, rotten and insect-infested — allegedly meant for bakery manufacturing units, during inspections at 2 establishments in Mavoor. The licences of both establishments are being suspended and proceedings have begun under the Food Safety and Standards Act, 2006."
+   }
+  },
+  {
+   "id": "supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T08:02:23+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25-en.mp3",
+   "hi": {
+    "title": "सुप्रीम कोर्ट आज सुनेगा उमर खालिद और शरजील इमाम की ज़मानत याचिकाएं, 2020 दिल्ली दंगा मामला",
+    "summary": "सुप्रीम कोर्ट बुधवार को उमर खालिद और शरजील इमाम की ज़मानत याचिकाओं पर सुनवाई करेगा। दोनों ने फरवरी 2020 के उत्तर-पूर्वी दिल्ली दंगों के पीछे कथित बड़ी साज़िश के मामले में दिल्ली हाईकोर्ट के ज़मानत से इनकार को चुनौती दी है। उनका कहना है कि अभियोजन पक्ष ने संरक्षित गवाहों की जांच नहीं की है और सुप्रीम कोर्ट की ओर से तय 1 साल की अवधि पूरी होने के करीब है।"
+   },
+   "en": {
+    "title": "Supreme Court to hear Umar Khalid, Sharjeel Imam bail pleas today in 2020 Delhi riots case",
+    "summary": "The Supreme Court is slated to hear on Wednesday the bail pleas of Umar Khalid and Sharjeel Imam, who have challenged the Delhi High Court's refusal of their fresh bail applications in the UAPA case over the alleged larger conspiracy behind the February 2020 northeast Delhi riots. The two contend the prosecution has not examined the protected witnesses and the one-year period set by the top court is nearing expiry."
+   }
+  },
   {
    "id": "haryana-recommends-ifs-officer-termination-over-faridabad-tree-felling",
    "category": "Crime & Law",
@@ -3245,50 +3289,6 @@
    "en": {
     "title": "Adani Airports to raise Rs 2,790 crore from 360 ONE at $18 billion valuation",
     "summary": "Adani Airport Holdings, a subsidiary of Adani Enterprises, has signed a binding agreement to raise Rs 2,790 crore (about $300 million) from 360 ONE Alternates Asset Management. The investment, for up to a 1.55% stake at an $18 billion pre-money valuation, takes the airport operator’s total equity fundraising to about $1.35 billion."
-   }
-  },
-  {
-   "id": "chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "district": "Chandauli",
-   "state": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandauli-scorpio-rams-bjp-mla-sushil-singh-convoy-two-fortuners-damaged-november-23-en.mp3",
-   "publishedAt": "2026-11-24T04:09:35+05:30",
-   "hi": {
-    "title": "चंदौली में बीजेपी विधायक सुशील सिंह के काफिले में घुसी तेज रफ्तार स्कॉर्पियो, 2 फॉर्च्यूनर क्षतिग्रस्त; विधायक बोले- हरकत संदिग्ध, पुलिस में शिकायत करूँगा",
-    "summary": "सोमवार रात चंदौली में तेज रफ्तार स्कॉर्पियो बीजेपी विधायक सुशील सिंह के काफिले में घुस गई। फुटिया और जगदीशसराय के पास 2 फॉर्च्यूनर गाड़ियाँ क्षतिग्रस्त हो गईं, स्कॉर्पियो सवार युवक गंभीर रूप से घायल हुआ। विधायक सुरक्षित हैं और उन्होंने घटना को संदिग्ध बताते हुए पुलिस में शिकायत की बात कही है।"
-   },
-   "en": {
-    "title": "Speeding Scorpio rams into BJP MLA Sushil Singh's convoy in Chandauli, damages 2 Fortuners; MLA calls it suspicious, to file police complaint",
-    "summary": "A speeding Scorpio drove into BJP MLA Sushil Singh's convoy in Chandauli on Monday night, damaging two Fortuner cars near Futia and Jagdishsarai. A young man in the Scorpio was seriously injured. The MLA escaped unhurt and has called the incident suspicious, saying he will file a police complaint."
-   }
-  },
-  {
-   "id": "delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26",
-   "category": "Weather",
-   "sub": "IMD Alerts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-aqi-260-surface-ozone-crosses-100-four-stations-very-poor-by-november-26-en.mp3",
-   "publishedAt": "2026-11-24T04:09:35+05:30",
-   "hi": {
-    "title": "दिल्ली की हवा फिर बिगड़ी: एक्यूआई 260 पर पहुँचा, 4 केंद्रों पर सतही ओजोन 100 के पार; 26 नवंबर तक 'बहुत खराब' होने का अनुमान",
-    "summary": "दिल्ली का औसत एक्यूआई सोमवार को 260 पर पहुँच गया, जो रविवार के 239 से 21 अंक ज़्यादा है। 4 केंद्रों पर सतही ओजोन 100 माइक्रोग्राम प्रति घन मीटर के पार चला गया, और 26 नवंबर तक हवा 'बहुत खराब' होने का अनुमान है।"
-   },
-   "en": {
-    "title": "Delhi air worsens again: AQI climbs to 260, surface ozone crosses 100 at 4 stations; 'very poor' likely by November 26",
-    "summary": "Delhi's average AQI climbed to 260 on Monday, up 21 points from 239 on Sunday. Surface ozone crossed 100 micrograms per cubic metre at four monitoring stations, and the air is forecast to turn 'very poor' by November 26."
    }
   }
  ]
