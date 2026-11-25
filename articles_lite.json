@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T15:55:08+05:30",
+ "updatedAt": "2026-11-25T16:04:29+05:30",
  "articles": [
+  {
+   "id": "cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25",
+   "category": "India",
+   "sub": "Government & Policy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T15:59:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25-en.mp3",
+   "hi": {
+    "title": "कैबिनेट का बड़ा फैसला: 19,934 करोड़ रुपये की 5 परियोजनाओं को मंजूरी, निर्माण उपकरणों के लिए 11,000 करोड़ की योजना",
+    "summary": "केंद्रीय मंत्रिमंडल ने बुधवार को 19,934 करोड़ रुपये की 5 परियोजनाओं को मंजूरी दी। सबसे बड़ा फैसला निर्माण और बुनियादी ढाँचा उपकरणों के लिए 11,000 करोड़ रुपये की योजना है, साथ ही सिलचर में नया हवाई अड्डा, कामराजर बंदरगाह पर दूसरा कंटेनर टर्मिनल और डाक विभाग की 2 योजनाएँ भी मंजूर हुईं।"
+   },
+   "en": {
+    "title": "Cabinet clears Rs 19,934 crore package: Rs 11,000 crore push for construction equipment, new Silchar airport",
+    "summary": "The Union Cabinet on Wednesday approved five projects worth Rs 19,934 crore. The biggest is an Rs 11,000 crore scheme for construction and infrastructure equipment manufacturing, alongside a new greenfield airport at Silchar, a second container terminal at Kamarajar Port and two schemes for the Department of Posts."
+   }
+  },
+  {
+   "id": "tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T15:59:58+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25-en.mp3",
+   "district": "Madurai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "दीपम विवाद: तमिलनाडु सरकार ने सुप्रीम कोर्ट से मांगी माफी, कहा — मंदिर बोर्ड ने टीम को इजाजत नहीं दी",
+    "summary": "तिरुप्परंकुंद्रम में कार्तिकै दीपम विवाद पर तमिलनाडु सरकार ने बुधवार को सुप्रीम कोर्ट से माफी माँगी। मदुरै के कलेक्टर ने अपनी रिपोर्ट में कहा कि दीपथून पर दीप जलाने के लिए मंदिर के न्यासी बोर्ड ने प्रस्तावित टीम को मंजूरी नहीं दी, इसलिए दीप परंपरागत स्थान पर ही जला। अदालत अवमानना याचिका पर सुनवाई करेगी।"
+   },
+   "en": {
+    "title": "Deepam row: Tamil Nadu apologises to Supreme Court, blames temple board for lamp not being lit at Deepathoon",
+    "summary": "The Tamil Nadu government on Wednesday apologised to the Supreme Court after the Karthigai Deepam was not lit at the disputed Deepathoon atop Thirupparankundram hill on November 24. Madurai's Collector told the court the temple's Board of Trustees did not authorise the team proposed to light the lamp, so it was lit at the customary spot instead. The court will hear a contempt plea."
+   }
+  },
   {
    "id": "meerut-hotel-case-accused-salman-arrested-after-encounter-november-25",
    "category": "Crime & Law",
@@ -2700,12 +2744,12 @@
    "district": "Bokaro",
    "state": "Jharkhand",
    "en": {
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
    },
    "hi": {
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
    }
   },
   {
@@ -3043,13 +3087,13 @@
    "breaking": false,
    "category": "Government Schemes",
    "en": {
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
    },
    "featured": false,
    "hi": {
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
    },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
@@ -3257,52 +3301,6 @@
    "en": {
     "title": "BJP and Akali Dal reunite for 2027 Punjab polls after 6 years, SAD back in NDA",
     "summary": "The BJP and the Shiromani Akali Dal will contest the 2027 Punjab Assembly elections together, Amit Shah announced in New Delhi, bringing the Akali Dal back into the NDA 6 years after it walked out over the farm laws. Shah promised a drug-free Punjab by December 2029 and said the Akali Dal will remain the 'big brother' in the alliance."
-   }
-  },
-  {
-   "id": "gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-24T13:53:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24-en.mp3",
-   "hi": {
-    "title": "गोंडा: 21 वर्षीय गर्भवती विवाहिता की दहेज हत्या में पति, सास-ससुर और 2 देवरों पर एफ़आईआर",
-    "summary": "गोंडा पुलिस ने 21 वर्षीय गर्भवती विवाहिता नंदिनी की मौत के मामले में उसके पति, सास-ससुर और 2 देवरों के खिलाफ दहेज हत्या की प्राथमिकी दर्ज की है। नंदिनी 6 माह की गर्भवती थी और रविवार को उसका शव मिश्रौलिया गांव में उसके घर में फंदे से लटका मिला था। पिता का आरोप है कि बाइक और सोने की चेन की मांग पूरी न होने पर उसकी गला दबाकर हत्या की गई।"
-   },
-   "en": {
-    "title": "Gonda: FIR against husband, in-laws in dowry death of 21-year-old pregnant woman",
-    "summary": "Police in Gonda have registered a dowry-death case against the husband, parents-in-law and 2 brothers-in-law of Nandini, a 21-year-old woman 6 months pregnant, who was found hanging at her home in Mishraulia village on Sunday. Her father alleges she was strangled over demands for a motorcycle and a gold chain."
-   },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
-  },
-  {
-   "id": "kallakurichi-tvk-mla-arul-vignesh-fir-madras-hc-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T13:32:12+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kallakurichi-tvk-mla-arul-vignesh-fir-madras-hc-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kallakurichi-tvk-mla-arul-vignesh-fir-madras-hc-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kallakurichi-tvk-mla-arul-vignesh-fir-madras-hc-november-24-en.mp3",
-   "district": "Kallakurichi",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "कल्लाकुरिचि की महिला कलेक्टर को संदेश भेजने के मामले में टीवीके विधायक अरुल विग्नेश पर एफ़आईआर, पुलिस ने मद्रास हाई कोर्ट को बताया",
-    "summary": "तमिलनाडु पुलिस ने मंगलवार को मद्रास हाई कोर्ट को बताया कि कल्लाकुरिचि के टीवीके विधायक सी. अरुल विग्नेश के खिलाफ महिला कलेक्टर को अश्लील संदेश भेजने के आरोप में एफ़आईआर दर्ज की गई है। कलेक्टर ने सोमवार दोपहर पुलिस अधीक्षक को औपचारिक शिकायत सौंपी थी, और कोर्ट ने 22 दिसंबर तक अंतिम रिपोर्ट दाखिल करने का निर्देश दिया है।"
-   },
-   "en": {
-    "title": "FIR filed against Kallakurichi TVK MLA Arul Vignesh over messages to woman Collector, police tell Madras High Court",
-    "summary": "Tamil Nadu police told the Madras High Court on Tuesday that an FIR has been registered against TVK MLA C. Arul Vignesh of Kallakurichi for allegedly sending obscene messages to the district Collector, a woman IAS officer. The Collector had handed a formal complaint to the district police chief on Monday, and the court has asked police to file their final report by December 22."
    }
   }
  ]
