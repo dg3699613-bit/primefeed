@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T09:42:47+05:30",
+ "updatedAt": "2026-11-25T10:03:27+05:30",
  "articles": [
+  {
+   "id": "jharkhand-special-session-sir-resolution-heman-soren-november-25",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": true,
+   "trending": true,
+   "publishedAt": "2026-11-25T10:03:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jharkhand-special-session-sir-resolution-heman-soren-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-special-session-sir-resolution-heman-soren-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-special-session-sir-resolution-heman-soren-november-25-en.mp3",
+   "hi": {
+    "title": "झारखंड विधानसभा का विशेष सत्र आज से: SIR के खिलाफ प्रस्ताव लाएगी सोरेन सरकार, काम रोककर नए सिरे से कराने की माँग",
+    "summary": "झारखंड सरकार आज से शुरू हो रहे विधानसभा के दो दिवसीय विशेष सत्र में मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) के खिलाफ प्रस्ताव लाएगी। प्रस्ताव में माँग की गई है कि चल रहे पुनरीक्षण को रोककर पारदर्शी प्रक्रिया के साथ नए सिरे से कराया जाए। मुख्यमंत्री हेमंत सोरेन यह प्रस्ताव पेश करेंगे, जिसमें कहा गया है कि असली मतदाताओं को परेशानी हो रही है और राज्य के 38 प्रतिशत से ज़्यादा मतदाताओं के नाम या तो हटा दिए गए हैं या उन्हें नोटिस जारी किए गए हैं।"
+   },
+   "en": {
+    "title": "Jharkhand Assembly's special session begins today: Soren government to move resolution against SIR, seeks halt and fresh exercise",
+    "summary": "The Jharkhand government will move a resolution in the Assembly's two-day special session beginning today, asking for the ongoing Special Intensive Revision of electoral rolls to be halted and done afresh with a transparent procedure. Chief Minister Hemant Soren will move the resolution, which says genuine voters are facing difficulties and that more than 38 per cent of the state's voters have either been deleted or served notices."
+   }
+  },
+  {
+   "id": "thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T10:03:27+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25-en.mp3",
+   "district": "Madurai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "तिरुप्परंकुंड्रम दीपम विरोध पर बीजेपी और हिंदू संगठनों के करीब 300 लोगों पर केस दर्ज",
+    "summary": "मदुरै पुलिस ने तिरुप्परंकुंड्रम में मंगलवार को हुए विरोध प्रदर्शन को लेकर बीजेपी और हिंदू संगठनों के करीब 300 सदस्यों के खिलाफ केस दर्ज किए हैं। प्रदर्शनकारी सुप्रीम कोर्ट के निर्देश के अनुसार कार्तिगई दीपम को दीपस्तंभ पर जलाने की माँग कर रहे थे। केस छह धाराओं के तहत दर्ज किए गए हैं, जिनमें गैरकानूनी सभा और सरकारी कर्मचारियों को काम से रोकना शामिल है।"
+   },
+   "en": {
+    "title": "Cases registered against around 300 BJP, Hindu outfit members over Thiruparankundram Deepam protest",
+    "summary": "Madurai Police have registered cases against around 300 members of the BJP and Hindu organisations for Tuesday's protest at Thiruparankundram, where they had demanded that the Karthigai Deepam be lit at the Deepathoon stone pillar as directed by the Supreme Court. The cases have been filed under six sections, including unlawful assembly and obstructing government servants."
+   }
+  },
   {
    "id": "woman-killed-leopard-attack-kupwara-chowkibal-november-24",
    "category": "State & Local",
@@ -291,7 +335,7 @@
    "category": "World",
    "sub": "Pakistan",
    "breaking": false,
-   "featured": true,
+   "featured": false,
    "trending": true,
    "publishedAt": "2026-11-25T07:09:13+05:30",
    "source": "PrimeFeed Desk",
@@ -3251,48 +3295,6 @@
    "en": {
     "title": "Supreme Court to Bihar judge: 'Don't try to become Baahubali' — rap over SP's conviction and Re 1 fine",
     "summary": "The Supreme Court on Monday pulled up a Bihar judge in unusually sharp language, telling him not to \"try to become Baahubali\" while exercising judicial powers. The Rohtas judge had convicted the district's Superintendent of Police for not registering an FIR and fined him Re 1 — an order the top court said went beyond his jurisdiction, while suggesting the judge undergo training at the National Judicial Academy."
-   }
-  },
-  {
-   "id": "supreme-court-illegal-constructions-flourish-with-civic-bodies-connivance",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T05:51:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-illegal-constructions-flourish-with-civic-bodies-connivance.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-illegal-constructions-flourish-with-civic-bodies-connivance-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-illegal-constructions-flourish-with-civic-bodies-connivance-en.mp3",
-   "hi": {
-    "title": "अवैध निर्माण पर सुप्रीम कोर्ट की फटकार: 'हर कदम पर क्या कीमत चुकाई जाती है?', नगर निकायों की मिलीभगत पर सवाल",
-    "summary": "सुप्रीम कोर्ट ने सोमवार को अवैध निर्माण पर नगर निकायों को फटकार लगाते हुए पूछा कि योजना की मंज़ूरी से लेकर ध्वस्तीकरण रोकने तक हर चरण पर 'क्या कीमत चुकाई जाती है'। अदालत ने कहा कि बिना मंज़ूरी वाले निर्माण नगर अधिकारियों की 'सक्रिय मिलीभगत' से फलते-फूलते हैं, साथ ही देशव्यापी कार्यवाही का दायरा सीमित करते हुए राज्यों से सुझावों वाले हलफनामे माँगे हैं।"
-   },
-   "en": {
-    "title": "Supreme Court pulls up civic bodies over illegal constructions: 'What price is paid at every stage?'",
-    "summary": "The Supreme Court on Monday pulled up municipal authorities over illegal constructions, asking what 'price' is paid at every stage from plan sanction to stopping demolitions. The court said unauthorised construction flourishes with the 'active connivance' of civic bodies, even as it narrowed its pan-India proceedings and asked states to file affidavits with suggestions."
-   }
-  },
-  {
-   "id": "karnataka-makes-free-sanitary-pads-separate-toilets-mandatory-in-all-schools-pu-colleges",
-   "category": "Government Schemes",
-   "sub": "State Schemes",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T05:51:29+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-makes-free-sanitary-pads-separate-toilets-mandatory-in-all-schools-pu-colleges.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-makes-free-sanitary-pads-separate-toilets-mandatory-in-all-schools-pu-colleges-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-makes-free-sanitary-pads-separate-toilets-mandatory-in-all-schools-pu-colleges-en.mp3",
-   "hi": {
-    "title": "कर्नाटक के सभी स्कूलों में मुफ्त सैनिटरी पैड और लड़कियों के लिए अलग शौचालय अनिवार्य, नहीं माना तो कार्रवाई",
-    "summary": "कर्नाटक के स्कूल शिक्षा विभाग ने राज्य के सभी सरकारी, सहायता प्राप्त और गैर-सहायता प्राप्त स्कूलों और पीयू कॉलेजों में लड़कियों के लिए अलग शौचालय, मुफ्त सैनिटरी पैड और मासिक धर्म स्वच्छता सुविधाएँ अनिवार्य कर दी हैं। सुप्रीम कोर्ट के फैसले के बाद जारी परिपत्र के तहत कक्षा 6 से 12 की छात्राओं को मुफ्त बायोडिग्रेडेबल नैपकिन मिलेंगे, शौचालयों में वेंडिंग मशीनें लगेंगी, और पालन न करने पर अनुशासनात्मक कार्रवाई होगी।"
-   },
-   "en": {
-    "title": "Karnataka makes free sanitary pads, separate toilets mandatory in all schools and PU colleges",
-    "summary": "Karnataka's School Education Department has made separate toilets for girls, free sanitary pads and menstrual hygiene facilities mandatory in every government, aided and unaided school and PU college in the state, following the Supreme Court's ruling that menstrual hygiene is a fundamental right. Girls in Classes 6 to 12 will get free biodegradable napkins, vending machines will be installed in toilets, and schools that fail to comply face disciplinary action."
    }
   }
  ]
