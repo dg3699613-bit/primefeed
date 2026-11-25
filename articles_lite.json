@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-25T08:19:07+05:30",
+ "updatedAt": "2026-11-25T08:32:19+05:30",
  "articles": [
+  {
+   "id": "huawei-convicted-us-jury-fraud-trade-secrets-iran-november-25",
+   "category": "World",
+   "sub": "USA",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T08:32:19+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/huawei-convicted-us-jury-fraud-trade-secrets-iran-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/huawei-convicted-us-jury-fraud-trade-secrets-iran-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/huawei-convicted-us-jury-fraud-trade-secrets-iran-november-25-en.mp3",
+   "en": {
+    "title": "US jury convicts Huawei of fraud and stealing trade secrets in Iran sanctions case; cleared of racketeering",
+    "summary": "A federal jury in Brooklyn has convicted Huawei Technologies and 3 of its subsidiaries on 10 of 12 criminal counts, including bank fraud, wire fraud and conspiracy to steal trade secrets, in a case that began in 2018. The jury cleared the company of racketeering conspiracy and conspiracy to obstruct justice; sentencing is set for September 14, 2027."
+   },
+   "hi": {
+    "title": "अमेरिकी जूरी ने हुआवेई को बैंक धोखाधड़ी और ट्रेड सीक्रेट चुराने का दोषी ठहराया, रैकेटियरिंग के आरोप से बरी",
+    "summary": "ब्रुकलिन की संघीय अदालत की जूरी ने चीनी टेलीकॉम कंपनी हुआवेई टेक्नोलॉजीज और उसकी 3 सहायक कंपनियों को 12 में से 10 आपराधिक आरोपों में दोषी ठहराया है, जिनमें बैंक धोखाधड़ी, वायर धोखाधड़ी और ट्रेड सीक्रेट चुराने की साजिश शामिल है। जूरी ने कंपनी को रैकेटियरिंग की साजिश और न्याय में बाधा डालने की साजिश के आरोपों से बरी कर दिया; सजा 14 सितंबर 2027 को सुनाई जाएगी।"
+   }
+  },
   {
    "id": "gonda-cattle-theft-gang-busted-three-arrested-buffaloes-recovered-november-25",
    "category": "Crime & Law",
@@ -15,13 +36,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-cattle-theft-gang-busted-three-arrested-buffaloes-recovered-november-25-en.mp3",
    "district": "Gonda",
    "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा में पशु चोर गिरोह का भंडाफोड़: 3 आरोपी गिरफ्तार, चोरी की 3 भैंसें और बाइक बरामद",
-    "summary": "गोंडा पुलिस ने पशु चोरी करने वाले एक गिरोह का भंडाफोड़ किया है। पुलिस ने 3 आरोपियों को गिरफ्तार कर चोरी की 3 भैंसें और अपराध में इस्तेमाल की गई बाइक बरामद की है। आरोपियों ने इस महीने जिले में हुई 3 अन्य पशु चोरी की घटनाओं को भी स्वीकार किया है। मोतीगंज और देहात कोतवाली थानों में मामले दर्ज किए गए हैं।"
-   },
    "en": {
     "title": "Gonda police bust cattle-theft gang: 3 arrested, 3 stolen buffaloes and bike recovered",
     "summary": "Police in Gonda have busted a cattle-theft gang, arresting 3 accused and recovering 3 stolen buffaloes and the motorcycle used in the crime. The accused have admitted to 3 other cattle thefts in the district this month, and cases have been registered at Motiganj and Dehat Kotwali police stations."
+   },
+   "hi": {
+    "title": "गोंडा में पशु चोर गिरोह का भंडाफोड़: 3 आरोपी गिरफ्तार, चोरी की 3 भैंसें और बाइक बरामद",
+    "summary": "गोंडा पुलिस ने पशु चोरी करने वाले एक गिरोह का भंडाफोड़ किया है। पुलिस ने 3 आरोपियों को गिरफ्तार कर चोरी की 3 भैंसें और अपराध में इस्तेमाल की गई बाइक बरामद की है। आरोपियों ने इस महीने जिले में हुई 3 अन्य पशु चोरी की घटनाओं को भी स्वीकार किया है। मोतीगंज और देहात कोतवाली थानों में मामले दर्ज किए गए हैं।"
    }
   },
   {
@@ -36,13 +57,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24-en.mp3",
-   "hi": {
-    "title": "एनटीपीसी ने असिस्टेंट ऑफिसर भर्ती परीक्षा रद्द की, अभ्यर्थियों ने मंत्री खट्टर से जांच की मांग की",
-    "summary": "एनटीपीसी ने 15 असिस्टेंट ऑफिसर (कॉरपोरेट कम्युनिकेशन) पदों की चयन प्रक्रिया 'प्रशासनिक कारणों' से रद्द कर दी है। 1 नवंबर को हुई परीक्षा के बाद यह फैसला आया है। दोबारा परीक्षा की कोई तारीख नहीं दी गई है, इसलिए अभ्यर्थियों के एक समूह ने केंद्रीय विद्युत मंत्री एमएल खट्टर को पत्र लिखकर जांच, पारदर्शिता और प्रक्रिया बहाल करने की मांग की है।"
-   },
    "en": {
     "title": "NTPC cancels Assistant Officer recruitment exam; candidates write to Minister Khattar seeking inquiry",
     "summary": "NTPC has cancelled the selection process for 15 Assistant Officer (Corporate Communication) posts, weeks after the examination held on November 1, citing 'administrative reasons'. With no re-exam date announced, a group of applicants has written to Union Power Minister M. L. Khattar seeking an inquiry, transparency and possible reinstatement of the process."
+   },
+   "hi": {
+    "title": "एनटीपीसी ने असिस्टेंट ऑफिसर भर्ती परीक्षा रद्द की, अभ्यर्थियों ने मंत्री खट्टर से जांच की मांग की",
+    "summary": "एनटीपीसी ने 15 असिस्टेंट ऑफिसर (कॉरपोरेट कम्युनिकेशन) पदों की चयन प्रक्रिया 'प्रशासनिक कारणों' से रद्द कर दी है। 1 नवंबर को हुई परीक्षा के बाद यह फैसला आया है। दोबारा परीक्षा की कोई तारीख नहीं दी गई है, इसलिए अभ्यर्थियों के एक समूह ने केंद्रीय विद्युत मंत्री एमएल खट्टर को पत्र लिखकर जांच, पारदर्शिता और प्रक्रिया बहाल करने की मांग की है।"
    }
   },
   {
@@ -59,13 +80,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24-en.mp3",
    "district": "Kozhikode",
    "state": "Kerala",
-   "hi": {
-    "title": "कोझिकोड में खाद्य सुरक्षा विभाग की छापेमारी: बेकरियों के लिए रखे 16,900 से ज़्यादा सड़े अंडे जब्त",
-    "summary": "कोझिकोड में खाद्य सुरक्षा विभाग ने मावूर के 2 प्रतिष्ठानों से 16,900 से ज़्यादा असुरक्षित अंडे जब्त किए हैं। आरोप है कि टूटे, सड़े और कीड़ों वाले अंडे बेकरी निर्माण इकाइयों को बेचे जा रहे थे। दोनों प्रतिष्ठानों के लाइसेंस निलंबित किए जा रहे हैं और खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत कार्यवाही शुरू हो गई है।"
-   },
    "en": {
     "title": "Kozhikode food safety raid: Over 16,900 rotten eggs meant for bakeries seized in Mavoor",
     "summary": "Food safety officials in Kozhikode have seized more than 16,900 unsafe eggs — cracked, rotten and insect-infested — allegedly meant for bakery manufacturing units, during inspections at 2 establishments in Mavoor. The licences of both establishments are being suspended and proceedings have begun under the Food Safety and Standards Act, 2006."
+   },
+   "hi": {
+    "title": "कोझिकोड में खाद्य सुरक्षा विभाग की छापेमारी: बेकरियों के लिए रखे 16,900 से ज़्यादा सड़े अंडे जब्त",
+    "summary": "कोझिकोड में खाद्य सुरक्षा विभाग ने मावूर के 2 प्रतिष्ठानों से 16,900 से ज़्यादा असुरक्षित अंडे जब्त किए हैं। आरोप है कि टूटे, सड़े और कीड़ों वाले अंडे बेकरी निर्माण इकाइयों को बेचे जा रहे थे। दोनों प्रतिष्ठानों के लाइसेंस निलंबित किए जा रहे हैं और खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत कार्यवाही शुरू हो गई है।"
    }
   },
   {
@@ -80,13 +101,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-hear-umar-khalid-sharjeel-imam-bail-pleas-november-25-en.mp3",
-   "hi": {
-    "title": "सुप्रीम कोर्ट आज सुनेगा उमर खालिद और शरजील इमाम की ज़मानत याचिकाएं, 2020 दिल्ली दंगा मामला",
-    "summary": "सुप्रीम कोर्ट बुधवार को उमर खालिद और शरजील इमाम की ज़मानत याचिकाओं पर सुनवाई करेगा। दोनों ने फरवरी 2020 के उत्तर-पूर्वी दिल्ली दंगों के पीछे कथित बड़ी साज़िश के मामले में दिल्ली हाईकोर्ट के ज़मानत से इनकार को चुनौती दी है। उनका कहना है कि अभियोजन पक्ष ने संरक्षित गवाहों की जांच नहीं की है और सुप्रीम कोर्ट की ओर से तय 1 साल की अवधि पूरी होने के करीब है।"
-   },
    "en": {
     "title": "Supreme Court to hear Umar Khalid, Sharjeel Imam bail pleas today in 2020 Delhi riots case",
     "summary": "The Supreme Court is slated to hear on Wednesday the bail pleas of Umar Khalid and Sharjeel Imam, who have challenged the Delhi High Court's refusal of their fresh bail applications in the UAPA case over the alleged larger conspiracy behind the February 2020 northeast Delhi riots. The two contend the prosecution has not examined the protected witnesses and the one-year period set by the top court is nearing expiry."
+   },
+   "hi": {
+    "title": "सुप्रीम कोर्ट आज सुनेगा उमर खालिद और शरजील इमाम की ज़मानत याचिकाएं, 2020 दिल्ली दंगा मामला",
+    "summary": "सुप्रीम कोर्ट बुधवार को उमर खालिद और शरजील इमाम की ज़मानत याचिकाओं पर सुनवाई करेगा। दोनों ने फरवरी 2020 के उत्तर-पूर्वी दिल्ली दंगों के पीछे कथित बड़ी साज़िश के मामले में दिल्ली हाईकोर्ट के ज़मानत से इनकार को चुनौती दी है। उनका कहना है कि अभियोजन पक्ष ने संरक्षित गवाहों की जांच नहीं की है और सुप्रीम कोर्ट की ओर से तय 1 साल की अवधि पूरी होने के करीब है।"
    }
   },
   {
@@ -103,13 +124,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-recommends-ifs-officer-termination-over-faridabad-tree-felling-en.mp3",
    "district": "Faridabad",
    "state": "Haryana",
-   "hi": {
-    "title": "फरीदाबाद में 2,585 पेड़ों की अवैध कटाई पर हरियाणा ने आईएफएस अधिकारी की बर्खास्तगी की सिफारिश की",
-    "summary": "हरियाणा वन विभाग ने फरीदाबाद के अलीपुर-सिकरगढ़ आरक्षित वन में 2,585 पेड़ों की कथित अवैध कटाई को लेकर आईएफएस अधिकारी झलकर उयाके की सेवाएं समाप्त करने की सिफारिश की है। निलंबित अधिकारी ने खुद 12 नवंबर को कटाई की जानकारी दी थी; 20 नवंबर को 3 वन अधिकारी बर्खास्त किए गए और एफआईआर दर्ज हुई है।"
-   },
    "en": {
     "title": "Haryana recommends termination of IFS officer over illegal felling of 2,585 trees in Faridabad forest",
     "summary": "The Haryana Forest Department has recommended terminating the services of IFS officer Jhalkar Uyake over the alleged illegal felling of 2,585 trees in Faridabad's Alipur-Sikargarh Reserved Forest. The suspended officer had himself flagged the felling on November 12; three forest officials were dismissed on November 20 and an FIR has been registered."
+   },
+   "hi": {
+    "title": "फरीदाबाद में 2,585 पेड़ों की अवैध कटाई पर हरियाणा ने आईएफएस अधिकारी की बर्खास्तगी की सिफारिश की",
+    "summary": "हरियाणा वन विभाग ने फरीदाबाद के अलीपुर-सिकरगढ़ आरक्षित वन में 2,585 पेड़ों की कथित अवैध कटाई को लेकर आईएफएस अधिकारी झलकर उयाके की सेवाएं समाप्त करने की सिफारिश की है। निलंबित अधिकारी ने खुद 12 नवंबर को कटाई की जानकारी दी थी; 20 नवंबर को 3 वन अधिकारी बर्खास्त किए गए और एफआईआर दर्ज हुई है।"
    }
   },
   {
@@ -124,13 +145,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-calls-for-human-oversight-in-ai-warfare-at-un.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-calls-for-human-oversight-in-ai-warfare-at-un-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-calls-for-human-oversight-in-ai-warfare-at-un-en.mp3",
-   "hi": {
-    "title": "संयुक्त राष्ट्र में भारत की मांग: युद्ध में एआई पर मानवीय निगरानी ज़रूरी, आतंकियों के दुरुपयोग पर चेतावनी",
-    "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में कहा है कि जैसे-जैसे कृत्रिम बुद्धिमत्ता युद्ध का चेहरा बदल रही है, मानव का विवेक और निगरानी केंद्र में रहनी चाहिए। राजदूत हरीश परवथानेनी ने घातक स्वचालित हथियारों के जोखिम और आतंकी समूहों की ओर से एआई के दुरुपयोग पर चेतावनी दी और एआई संचालन में समावेशी वैश्विक सहयोग की मांग की।"
-   },
    "en": {
     "title": "At UN, India calls for human oversight in AI warfare and warns of autonomous weapons and terror misuse",
     "summary": "India has told the United Nations Security Council that human judgement and oversight must remain central as artificial intelligence transforms warfare. Ambassador Harish Parvathaneni warned of the risks from lethal autonomous weapons and the misuse of AI by terrorist groups, and called for inclusive global cooperation on AI governance."
+   },
+   "hi": {
+    "title": "संयुक्त राष्ट्र में भारत की मांग: युद्ध में एआई पर मानवीय निगरानी ज़रूरी, आतंकियों के दुरुपयोग पर चेतावनी",
+    "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में कहा है कि जैसे-जैसे कृत्रिम बुद्धिमत्ता युद्ध का चेहरा बदल रही है, मानव का विवेक और निगरानी केंद्र में रहनी चाहिए। राजदूत हरीश परवथानेनी ने घातक स्वचालित हथियारों के जोखिम और आतंकी समूहों की ओर से एआई के दुरुपयोग पर चेतावनी दी और एआई संचालन में समावेशी वैश्विक सहयोग की मांग की।"
    }
   },
   {
@@ -147,13 +168,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards-en.mp3",
    "district": "Idukki",
    "state": "Kerala",
-   "hi": {
-    "title": "मिशन चक्काकोम्बन आज से: इडुक्की में बेकाबू हाथी को रेडियो-कॉलर लगाने की तैयारी, चिन्नकनाल के 6 वार्डों में स्कूल बंद",
-    "summary": "केरल के इडुक्की जिले में वन विभाग आज से जंगली हाथी चक्काकोम्बन को बेहोश करके रेडियो-कॉलर लगाने का अभियान शुरू कर रहा है। हाथी के बार-बार चिन्नकनाल की बस्तियों में घुसने के बाद पंचायत के 6 वार्डों में सभी शिक्षण संस्थान बंद रहेंगे, पर्यटन गतिविधियों पर रोक है और अभियान में करीब 100 कर्मी शामिल हैं।"
-   },
    "en": {
     "title": "Mission Chakkakomban begins today in Idukki: forest department to radio-collar rogue tusker, schools shut in six Chinnakanal wards",
     "summary": "Kerala's Forest Department begins its mission today to tranquilise and radio-collar wild tusker Chakkakomban in Idukki district, after the elephant's repeated forays into settlements in Chinnakanal. Schools in six wards of the panchayat stay shut, tourist activity is banned in the area, and around 100 personnel are part of the operation."
+   },
+   "hi": {
+    "title": "मिशन चक्काकोम्बन आज से: इडुक्की में बेकाबू हाथी को रेडियो-कॉलर लगाने की तैयारी, चिन्नकनाल के 6 वार्डों में स्कूल बंद",
+    "summary": "केरल के इडुक्की जिले में वन विभाग आज से जंगली हाथी चक्काकोम्बन को बेहोश करके रेडियो-कॉलर लगाने का अभियान शुरू कर रहा है। हाथी के बार-बार चिन्नकनाल की बस्तियों में घुसने के बाद पंचायत के 6 वार्डों में सभी शिक्षण संस्थान बंद रहेंगे, पर्यटन गतिविधियों पर रोक है और अभियान में करीब 100 कर्मी शामिल हैं।"
    }
   },
   {
@@ -168,13 +189,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24-en.mp3",
-   "hi": {
-    "title": "कैमरे पर जैश कमांडर का कबूलनामा: पीओके में आतंकी कैंप और आईएसआई से मुलाकात का खुलासा, रावलकोट-धारमसाल के ठिकानों के नाम लिए",
-    "summary": "जैश-ए-मोहम्मद के वरिष्ठ कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में एक सभा में कैमरे के सामने स्वीकार किया है कि संगठन का रावलकोट में आतंकी कैंप और पाकिस्तान अधिकृत कश्मीर के पूंछ जिले के धारमसाल में मरकज़ सक्रिय है। उसने यह भी कहा कि पाकिस्तानी खुफिया अधिकारियों ने इस्लामाबाद में उससे मुलाकात की और 22 नामों वाली सूची सौंपी थी।"
-   },
    "en": {
     "title": "On camera, JeM commander admits terror camps in PoK and ISI meeting, names Rawalakot and Dharamsal sites",
     "summary": "Senior Jaish-e-Mohammed commander Masood Ilyas Kashmiri has admitted on camera at a gathering in Islamabad that the outfit runs an operational terror camp in Rawalakot and a markaz in Dharamsal in Pakistan-occupied Kashmir's Poonch district. He also claimed Pakistani intelligence officials met him in Islamabad and handed him a list of 22 names."
+   },
+   "hi": {
+    "title": "कैमरे पर जैश कमांडर का कबूलनामा: पीओके में आतंकी कैंप और आईएसआई से मुलाकात का खुलासा, रावलकोट-धारमसाल के ठिकानों के नाम लिए",
+    "summary": "जैश-ए-मोहम्मद के वरिष्ठ कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में एक सभा में कैमरे के सामने स्वीकार किया है कि संगठन का रावलकोट में आतंकी कैंप और पाकिस्तान अधिकृत कश्मीर के पूंछ जिले के धारमसाल में मरकज़ सक्रिय है। उसने यह भी कहा कि पाकिस्तानी खुफिया अधिकारियों ने इस्लामाबाद में उससे मुलाकात की और 22 नामों वाली सूची सौंपी थी।"
    }
   },
   {
@@ -191,13 +212,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25-en.mp3",
    "district": "Sri Ganganagar",
    "state": "Rajasthan",
-   "hi": {
-    "title": "श्रीगंगानगर रेल पटरी धमाका: एनआईए संभालेगी जांच, फोरेंसिक में आरडीएक्स के संकेत; तीसरे आरोपी की गिरफ्तारी",
-    "summary": "राष्ट्रीय जांच एजेंसी अब राजस्थान के श्रीगंगानगर जिले में 3 नवंबर को रेल पटरी पर हुए धमाके की जांच संभालेगी। एनडीटीवी की खबर के मुताबिक बरामद 2 विस्फोटक उपकरणों की प्रारंभिक फोरेंसिक जांच में आरडीएक्स के संकेत मिले हैं। अब तक 3 लोगों को गिरफ्तार किया जा चुका है, जिनमें 21 नवंबर को पकड़ा गया एक और आरोपी भी शामिल है, और पुलिस का आरोप है कि पाकिस्तान में बैठे 'शाह' नाम के हैंडलर ने यह साजिश रची थी।"
-   },
    "en": {
     "title": "NIA to take over Sri Ganganagar railway blast probe as forensic tests point to RDX; third accused held",
     "summary": "The National Investigation Agency will take over the probe into the November 3 blast that damaged a railway track in Rajasthan's Sri Ganganagar district, NDTV reported, after preliminary forensic findings from two recovered explosive devices indicated RDX. Three people have been arrested so far, including a third accused held on November 21, and police allege a Pakistan-based handler known as Shah directed the plot."
+   },
+   "hi": {
+    "title": "श्रीगंगानगर रेल पटरी धमाका: एनआईए संभालेगी जांच, फोरेंसिक में आरडीएक्स के संकेत; तीसरे आरोपी की गिरफ्तारी",
+    "summary": "राष्ट्रीय जांच एजेंसी अब राजस्थान के श्रीगंगानगर जिले में 3 नवंबर को रेल पटरी पर हुए धमाके की जांच संभालेगी। एनडीटीवी की खबर के मुताबिक बरामद 2 विस्फोटक उपकरणों की प्रारंभिक फोरेंसिक जांच में आरडीएक्स के संकेत मिले हैं। अब तक 3 लोगों को गिरफ्तार किया जा चुका है, जिनमें 21 नवंबर को पकड़ा गया एक और आरोपी भी शामिल है, और पुलिस का आरोप है कि पाकिस्तान में बैठे 'शाह' नाम के हैंडलर ने यह साजिश रची थी।"
    }
   },
   {
@@ -212,13 +233,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/trump-floats-pardon-jensen-huang-nvidia-congress-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-floats-pardon-jensen-huang-nvidia-congress-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/trump-floats-pardon-jensen-huang-nvidia-congress-november-25-en.mp3",
-   "hi": {
-    "title": "ट्रंप बोले — एनवीडिया प्रमुख जेन्सेन हुआंग को माफी देना 'हमेशा एक विकल्प', लेकिन कांग्रेस के सामने सच बोलें",
-    "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि अगर ज़रूरत पड़ी तो वे एनवीडिया के मुख्य कार्यकारी जेन्सेन हुआंग को माफ करने पर विचार करेंगे। न्यूयॉर्क पोस्ट से उन्होंने कहा कि माफी 'हमेशा एक विकल्प' है, लेकिन इसकी ज़रूरत पड़ने की संभावना नहीं है — साथ ही उन्होंने हुआंग से कहा है कि अगले हफ्ते कांग्रेस के सामने पेश होकर सच बोलें, जहां उनसे निर्यात नियंत्रण और चीन से जुड़े एनवीडिया के कारोबार पर सवाल पूछे जाएंगे।"
-   },
    "en": {
     "title": "Trump says pardoning Nvidia CEO Jensen Huang is 'always an option' — but urges him to tell Congress the truth",
     "summary": "President Donald Trump has said he would consider pardoning Nvidia chief executive Jensen Huang if necessary, telling the New York Post that a pardon is 'always an option' but unlikely to be needed — while urging Huang to tell the truth when he testifies before Congress next week over export controls and Nvidia's China dealings."
+   },
+   "hi": {
+    "title": "ट्रंप बोले — एनवीडिया प्रमुख जेन्सेन हुआंग को माफी देना 'हमेशा एक विकल्प', लेकिन कांग्रेस के सामने सच बोलें",
+    "summary": "राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि अगर ज़रूरत पड़ी तो वे एनवीडिया के मुख्य कार्यकारी जेन्सेन हुआंग को माफ करने पर विचार करेंगे। न्यूयॉर्क पोस्ट से उन्होंने कहा कि माफी 'हमेशा एक विकल्प' है, लेकिन इसकी ज़रूरत पड़ने की संभावना नहीं है — साथ ही उन्होंने हुआंग से कहा है कि अगले हफ्ते कांग्रेस के सामने पेश होकर सच बोलें, जहां उनसे निर्यात नियंत्रण और चीन से जुड़े एनवीडिया के कारोबार पर सवाल पूछे जाएंगे।"
    }
   },
   {
@@ -235,13 +256,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kota-jk-lon-hospital-maternal-deaths-35-days-en.mp3",
    "district": "Kota",
    "state": "Rajasthan",
-   "hi": {
-    "title": "कोटा के जेके लोन अस्पताल में 35 दिन में 8 मौतें, डरी महिलाएं अब प्राइवेट अस्पताल चुन रही हैं",
-    "summary": "कोटा के जेके लोन अस्पताल और मेडिकल कॉलेज के नए अस्पताल में 35 दिन में 8 मरीज़ों की मौत हो चुकी है, जिनमें 7 महिलाएं ऐसी हैं जिनकी हाल ही में डिलीवरी हुई थी। ताज़ा मौत मध्य प्रदेश के श्योपुर से रेफर की गई 29 साल की महिला की गुरुवार रात हुई, करीब 7 घंटे के इलाज के बाद। इस साल के आंकड़े को लेकर मतभेद है — रिपोर्टों में करीब 30 मौतें, जबकि प्रशासन के रिकॉर्ड में सिर्फ 13 — और डरी महिलाएं अब भारी बिल के बावजूद प्राइवेट अस्पताल चुन रही हैं।"
-   },
    "en": {
     "title": "8 deaths in 35 days at Kota's JK Lon Hospital, and frightened families now choose private hospitals",
     "summary": "Eight patients have died in 35 days at Kota's JK Lon Hospital and the medical college's new hospital — 7 of them women who had recently given birth. The latest, a 29-year-old referred from Sheopur in Madhya Pradesh, died on Thursday night after nearly 7 hours of treatment. With the toll this year disputed — around 30 deaths by reports against 13 in official records — frightened families are now choosing private hospitals despite the heavy bills."
+   },
+   "hi": {
+    "title": "कोटा के जेके लोन अस्पताल में 35 दिन में 8 मौतें, डरी महिलाएं अब प्राइवेट अस्पताल चुन रही हैं",
+    "summary": "कोटा के जेके लोन अस्पताल और मेडिकल कॉलेज के नए अस्पताल में 35 दिन में 8 मरीज़ों की मौत हो चुकी है, जिनमें 7 महिलाएं ऐसी हैं जिनकी हाल ही में डिलीवरी हुई थी। ताज़ा मौत मध्य प्रदेश के श्योपुर से रेफर की गई 29 साल की महिला की गुरुवार रात हुई, करीब 7 घंटे के इलाज के बाद। इस साल के आंकड़े को लेकर मतभेद है — रिपोर्टों में करीब 30 मौतें, जबकि प्रशासन के रिकॉर्ड में सिर्फ 13 — और डरी महिलाएं अब भारी बिल के बावजूद प्राइवेट अस्पताल चुन रही हैं।"
    }
   },
   {
@@ -256,13 +277,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cia-odni-unclassified-system-breach-cyberattack.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cia-odni-unclassified-system-breach-cyberattack-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cia-odni-unclassified-system-breach-cyberattack-en.mp3",
-   "hi": {
-    "title": "सीआईए और ओडीएनआई की गैर-गोपनीय खुफिया प्रणाली में साइबर हमला, गोपनीय डेटा सुरक्षित; हमलावर अज्ञात",
-    "summary": "हैकरों ने सीआईए और ऑफिस ऑफ द डायरेक्टर ऑफ नेशनल इंटेलिजेंस की एक गैर-गोपनीय कंप्यूटर प्रणाली में सेंध लगा दी है, जिसका इस्तेमाल सार्वजनिक रूप से उपलब्ध जानकारियों के विश्लेषण के लिए किया जाता है। न्यूयॉर्क टाइम्स ने मंगलवार को इस घटना की खबर सबसे पहले दी थी। कुछ गैर-गोपनीय जानकारी सामने आई है, लेकिन कोई गोपनीय सामग्री प्रभावित नहीं हुई और समस्या सुलझा ली गई है। हमले के पीछे कौन था, यह अभी पता नहीं है।"
-   },
    "en": {
     "title": "CIA and ODNI's unclassified intelligence system breached in cyberattack; no classified data hit, attacker unknown",
     "summary": "Hackers have broken into an unclassified computer system used by the CIA and the Office of the Director of National Intelligence to analyse publicly available information, the New York Times reported on Tuesday. Some unclassified information was exposed, but no classified material was compromised and the issue has been resolved, people familiar with the incident said. Who was behind the breach is not yet known."
+   },
+   "hi": {
+    "title": "सीआईए और ओडीएनआई की गैर-गोपनीय खुफिया प्रणाली में साइबर हमला, गोपनीय डेटा सुरक्षित; हमलावर अज्ञात",
+    "summary": "हैकरों ने सीआईए और ऑफिस ऑफ द डायरेक्टर ऑफ नेशनल इंटेलिजेंस की एक गैर-गोपनीय कंप्यूटर प्रणाली में सेंध लगा दी है, जिसका इस्तेमाल सार्वजनिक रूप से उपलब्ध जानकारियों के विश्लेषण के लिए किया जाता है। न्यूयॉर्क टाइम्स ने मंगलवार को इस घटना की खबर सबसे पहले दी थी। कुछ गैर-गोपनीय जानकारी सामने आई है, लेकिन कोई गोपनीय सामग्री प्रभावित नहीं हुई और समस्या सुलझा ली गई है। हमले के पीछे कौन था, यह अभी पता नहीं है।"
    }
   },
   {
@@ -279,13 +300,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24-en.mp3",
    "district": "Sikar",
    "state": "Rajasthan",
-   "hi": {
-    "title": "राजस्थान में ठंड का सितम: फतेहपुर में पारा 2.4 डिग्री, चूरू में 4.1; अगले 48 घंटों में और गिरेगा तापमान",
-    "summary": "राजस्थान में ठंड ने अपनी पकड़ मज़बूत कर ली है। सीकर जिले के फतेहपुर में 24 नवंबर को न्यूनतम तापमान 2.4 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम है, जबकि चूरू में पारा 4.1 डिग्री रहा। जयपुर मौसम विज्ञान केंद्र के मुताबिक अगले 48 घंटों में उत्तरी और पूर्वी राजस्थान में रात का तापमान 1 से 2 डिग्री और गिर सकता है, और प्रदेश में 1 सप्ताह तक मौसम शुष्क रहेगा।"
-   },
    "en": {
     "title": "Cold wave grips Rajasthan: Fatehpur shivers at 2.4°C, Churu at 4.1°C; mercury may fall further in 48 hours",
     "summary": "Winter has tightened its grip on Rajasthan. Fatehpur in Sikar district recorded a minimum of 2.4°C on 24 November, the lowest in the state, while Churu shivered at 4.1°C. The Jaipur weather office says night temperatures in northern and eastern Rajasthan could fall by another 1 to 2 degrees in the next 48 hours, and the state is expected to stay dry for a week."
+   },
+   "hi": {
+    "title": "राजस्थान में ठंड का सितम: फतेहपुर में पारा 2.4 डिग्री, चूरू में 4.1; अगले 48 घंटों में और गिरेगा तापमान",
+    "summary": "राजस्थान में ठंड ने अपनी पकड़ मज़बूत कर ली है। सीकर जिले के फतेहपुर में 24 नवंबर को न्यूनतम तापमान 2.4 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम है, जबकि चूरू में पारा 4.1 डिग्री रहा। जयपुर मौसम विज्ञान केंद्र के मुताबिक अगले 48 घंटों में उत्तरी और पूर्वी राजस्थान में रात का तापमान 1 से 2 डिग्री और गिर सकता है, और प्रदेश में 1 सप्ताह तक मौसम शुष्क रहेगा।"
    }
   },
   {
@@ -300,13 +321,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-zila-pramukh-elections-37-districts-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-elections-37-districts-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-elections-37-districts-november-25-en.mp3",
-   "hi": {
-    "title": "राजस्थान के 37 जिलों में आज जिला प्रमुख का चुनाव: कांग्रेस का 27 जिलों में जीत का दावा, बीजेपी की नज़र 12-13 पर",
-    "summary": "राजस्थान में मंगलवार को 37 जिलों में जिला परिषद प्रमुखों का चुनाव हो रहा है, जो पंचायत चुनाव का आखिरी चरण है। पिछले हफ्ते कांग्रेस ने 1,275 में से 796 सीटें जीती थीं, जिससे उसे 23 जिलों में बहुमत मिला है; कांग्रेस का दावा है कि वह 27 जिलों में जीत हासिल करेगी, जबकि बीजेपी 12 से 13 पदों पर नज़र लगाए है। मतदान 3 बजे से 5 बजे तक होगा और परिणाम मंगलवार शाम को आएंगे।"
-   },
    "en": {
     "title": "Rajasthan picks zila pramukhs in 37 districts today: Congress claims 27, BJP eyes 12-13",
     "summary": "Rajasthan votes on Tuesday for the heads of its zila parishads in 37 districts, the final leg of panchayat elections in which the Congress won 796 of 1,275 seats last week. The Congress, with a majority in 23 districts, claims it will win 27; the BJP, which has a majority in only 5, is contesting all 37 and aiming for 12 to 13 posts. Voting runs from 3 pm to 5 pm, with results on Tuesday evening."
+   },
+   "hi": {
+    "title": "राजस्थान के 37 जिलों में आज जिला प्रमुख का चुनाव: कांग्रेस का 27 जिलों में जीत का दावा, बीजेपी की नज़र 12-13 पर",
+    "summary": "राजस्थान में मंगलवार को 37 जिलों में जिला परिषद प्रमुखों का चुनाव हो रहा है, जो पंचायत चुनाव का आखिरी चरण है। पिछले हफ्ते कांग्रेस ने 1,275 में से 796 सीटें जीती थीं, जिससे उसे 23 जिलों में बहुमत मिला है; कांग्रेस का दावा है कि वह 27 जिलों में जीत हासिल करेगी, जबकि बीजेपी 12 से 13 पदों पर नज़र लगाए है। मतदान 3 बजे से 5 बजे तक होगा और परिणाम मंगलवार शाम को आएंगे।"
    }
   },
   {
@@ -323,13 +344,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaya-porter-sons-crack-neet-jee-november-14-en.mp3",
    "district": "Gaya",
    "state": "Bihar",
-   "hi": {
-    "title": "गया के मजदूर के बेटों ने NEET और JEE में मारी बाजी: सोनू बनेगा डॉक्टर, मोनू इंजीनियर",
-    "summary": "बिहार के गया जिले के 2 भाई, जिनके पिता अनाज मंडी में मजदूर हैं और जिन्होंने कोटा में कोचिंग की फीस के लिए परिवार के 2 छोटे खेतों में से 1 बेच दिया था, देश की सबसे कठिन प्रवेश परीक्षाओं में सफल हुए हैं। सोनू राज ने NEET 2026 में 636 अंक लाकर दिल्ली के सेंट्रल आर्म्ड पुलिस फोर्सेज़ इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ में दाखिला पाया है, जबकि मोनू राज ने JEE Main में 93 पर्सेंटाइल लाकर BIT मेसरा में केमिकल इंजीनियरिंग की सीट जीती है।"
-   },
    "en": {
     "title": "Gaya porter's sons crack NEET and JEE: Sonu heads for MBBS, Monu for engineering at BIT Mesra",
     "summary": "Two brothers from Gaya district in Bihar, sons of a grain-market porter who sold one of the family's two small plots of land to pay for their coaching in Kota, have cracked India's toughest entrance exams. Sonu Raj scored 636 marks in NEET 2026 and has secured admission to the Central Armed Police Forces Institute of Medical Sciences in Delhi, while Monu Raj scored in the 93rd percentile in JEE Main and has won a Chemical Engineering seat at BIT Mesra."
+   },
+   "hi": {
+    "title": "गया के मजदूर के बेटों ने NEET और JEE में मारी बाजी: सोनू बनेगा डॉक्टर, मोनू इंजीनियर",
+    "summary": "बिहार के गया जिले के 2 भाई, जिनके पिता अनाज मंडी में मजदूर हैं और जिन्होंने कोटा में कोचिंग की फीस के लिए परिवार के 2 छोटे खेतों में से 1 बेच दिया था, देश की सबसे कठिन प्रवेश परीक्षाओं में सफल हुए हैं। सोनू राज ने NEET 2026 में 636 अंक लाकर दिल्ली के सेंट्रल आर्म्ड पुलिस फोर्सेज़ इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ में दाखिला पाया है, जबकि मोनू राज ने JEE Main में 93 पर्सेंटाइल लाकर BIT मेसरा में केमिकल इंजीनियरिंग की सीट जीती है।"
    }
   },
   {
@@ -344,13 +365,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-kartarpur-corridor-reopen-security-concerns-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-kartarpur-corridor-reopen-security-concerns-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-kartarpur-corridor-reopen-security-concerns-november-24-en.mp3",
-   "hi": {
-    "title": "सुरक्षा चिंताएं दूर होते ही फिर खुलेगा करतारपुर कॉरिडोर, अमित शाह ने कहा",
-    "summary": "केंद्रीय गृह मंत्री अमित शाह ने मंगलवार को कहा कि श्री करतारपुर साहिब कॉरिडोर को जैसे ही राष्ट्रीय सुरक्षा से जुड़ी चिंताएं पूरी तरह दूर हो जाएंगी, उसे फिर से खोल दिया जाएगा। पाकिस्तान में गुरुद्वारा दरबार साहिब के बिना वीज़ा दर्शन की सुविधा देने वाला यह कॉरिडोर 7 मई 2025 से बंद है। फिर से खोलने की कोई तारीख घोषित नहीं की गई है।"
-   },
    "en": {
     "title": "Kartarpur corridor will reopen once security concerns are resolved, Amit Shah says",
     "summary": "Union Home Minister Amit Shah said on Tuesday that the Sri Kartarpur Sahib Corridor will be reopened as soon as the national security concerns that led to its suspension are completely resolved. The corridor, which gives Sikh pilgrims visa-free access to Gurdwara Darbar Sahib in Pakistan, has been shut since 7 May 2025. No date for reopening was announced."
+   },
+   "hi": {
+    "title": "सुरक्षा चिंताएं दूर होते ही फिर खुलेगा करतारपुर कॉरिडोर, अमित शाह ने कहा",
+    "summary": "केंद्रीय गृह मंत्री अमित शाह ने मंगलवार को कहा कि श्री करतारपुर साहिब कॉरिडोर को जैसे ही राष्ट्रीय सुरक्षा से जुड़ी चिंताएं पूरी तरह दूर हो जाएंगी, उसे फिर से खोल दिया जाएगा। पाकिस्तान में गुरुद्वारा दरबार साहिब के बिना वीज़ा दर्शन की सुविधा देने वाला यह कॉरिडोर 7 मई 2025 से बंद है। फिर से खोलने की कोई तारीख घोषित नहीं की गई है।"
    }
   },
   {
@@ -367,13 +388,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti-en.mp3",
    "district": "Gonda",
    "state": "Uttar Pradesh",
-   "hi": {
-    "title": "27 नवंबर को गोंडा आएंगे सीएम योगी, मेधावी छात्रों को बांटेंगे टैबलेट; ठड़क्कीपट्टी में तैयारियां तेज",
-    "summary": "मुख्यमंत्री योगी आदित्यनाथ शुक्रवार, 27 नवंबर को गोंडा आएंगे और बेलसर ब्लॉक के ठड़क्कीपट्टी गांव में मेधावी छात्र-छात्राओं को टैबलेट वितरित करेंगे। मंगलवार को वरिष्ठ अधिकारियों ने कार्यक्रम स्थल का निरीक्षण किया, और पड़ोसी जिले श्रावस्ती से 1,100 छात्र-छात्राएं कार्यक्रम में शामिल होंगे।"
-   },
    "en": {
     "title": "CM Yogi to visit Gonda on November 27, will hand out tablets to meritorious students; preparations under way in Thadakkipatti",
     "summary": "Chief Minister Yogi Adityanath will visit Gonda on Friday, 27 November, and hand out tablets to meritorious students at a programme in Thadakkipatti village in Belsar block. Senior district officials inspected the venue on Tuesday, and neighbouring Shravasti will send 1,100 students to the event."
+   },
+   "hi": {
+    "title": "27 नवंबर को गोंडा आएंगे सीएम योगी, मेधावी छात्रों को बांटेंगे टैबलेट; ठड़क्कीपट्टी में तैयारियां तेज",
+    "summary": "मुख्यमंत्री योगी आदित्यनाथ शुक्रवार, 27 नवंबर को गोंडा आएंगे और बेलसर ब्लॉक के ठड़क्कीपट्टी गांव में मेधावी छात्र-छात्राओं को टैबलेट वितरित करेंगे। मंगलवार को वरिष्ठ अधिकारियों ने कार्यक्रम स्थल का निरीक्षण किया, और पड़ोसी जिले श्रावस्ती से 1,100 छात्र-छात्राएं कार्यक्रम में शामिल होंगे।"
    }
   },
   {
@@ -388,13 +409,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24-en.mp3",
-   "hi": {
-    "title": "अमेरिका से स्वेच्छा से जाएंगे किल्मर अब्रेगो गार्सिया, स्पेन के लिए उड़ान; 20 महीने की कानूनी लड़ाई खत्म",
-    "summary": "किल्मर अब्रेगो गार्सिया, 31, संघीय अधिकारियों के साथ हुए समझौते के तहत स्वेच्छा से अमेरिका छोड़ेंगे, अमेरिकी मीडिया ने मंगलवार को बताया। वह मंगलवार शाम यूरोप के लिए उड़ान भर सकते हैं, स्पेन जा रहे हैं, और अंत में मेक्सिको पहुंचने की योजना है।"
-   },
    "en": {
     "title": "Kilmar Abrego Garcia to leave US voluntarily and fly to Spain, ending 20-month legal saga",
     "summary": "Kilmar Abrego Garcia, 31, will leave the United States voluntarily under a negotiated agreement with federal authorities, US media reported on Tuesday. He is expected to fly to Europe on Tuesday evening, heading for Spain, and ultimately plans to make his way to Mexico."
+   },
+   "hi": {
+    "title": "अमेरिका से स्वेच्छा से जाएंगे किल्मर अब्रेगो गार्सिया, स्पेन के लिए उड़ान; 20 महीने की कानूनी लड़ाई खत्म",
+    "summary": "किल्मर अब्रेगो गार्सिया, 31, संघीय अधिकारियों के साथ हुए समझौते के तहत स्वेच्छा से अमेरिका छोड़ेंगे, अमेरिकी मीडिया ने मंगलवार को बताया। वह मंगलवार शाम यूरोप के लिए उड़ान भर सकते हैं, स्पेन जा रहे हैं, और अंत में मेक्सिको पहुंचने की योजना है।"
    }
   },
   {
@@ -411,13 +432,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-biker-killed-chinese-manjha-barapullah-expressway-november-24-en.mp3",
    "district": "South East Delhi",
    "state": "Delhi",
-   "hi": {
-    "title": "दिल्ली: बारापुला के पास चाइनीज़ मांझे से 26 वर्षीय बाइक सवार की मौत, पीछे रह गए पत्नी और 3 महीने का बेटा",
-    "summary": "विकास सिंह, 26, सोमवार को काम से घर लौट रहे थे, जब दिल्ली-मुंबई एक्सप्रेसवे पर बारापुला के पास प्रतिबंधित चाइनीज़ मांझे की डोर उनके गले में फंस गई, पुलिस ने बताया। बाइक से नियंत्रण छूटा, वह गिर पड़े और मौके पर ही उनकी मौत हो गई। पीछे उनकी पत्नी और 3 महीने का बेटा रह गए।"
-   },
    "en": {
     "title": "Delhi biker, 26, killed as banned Chinese manjha slits his throat on expressway near Barapullah",
     "summary": "Vikas Singh, 26, was returning home from work on Monday when a banned Chinese kite string got entangled around his neck on a stretch of the Delhi-Mumbai Expressway near Barapullah, police said. He lost control of his motorcycle, crashed and died on the spot, leaving behind a wife and a three-month-old son."
+   },
+   "hi": {
+    "title": "दिल्ली: बारापुला के पास चाइनीज़ मांझे से 26 वर्षीय बाइक सवार की मौत, पीछे रह गए पत्नी और 3 महीने का बेटा",
+    "summary": "विकास सिंह, 26, सोमवार को काम से घर लौट रहे थे, जब दिल्ली-मुंबई एक्सप्रेसवे पर बारापुला के पास प्रतिबंधित चाइनीज़ मांझे की डोर उनके गले में फंस गई, पुलिस ने बताया। बाइक से नियंत्रण छूटा, वह गिर पड़े और मौके पर ही उनकी मौत हो गई। पीछे उनकी पत्नी और 3 महीने का बेटा रह गए।"
    }
   },
   {
@@ -432,13 +453,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24-en.mp3",
-   "hi": {
-    "title": "तुर्किये: प्रशिक्षण उड़ान के दौरान वायुसेना का हेलीकॉप्टर दुर्घटनाग्रस्त, 5 जवानों की मौत",
-    "summary": "तुर्किये की वायुसेना का एएस-532 कूगर हेलीकॉप्टर मंगलवार शाम एस्किशेहिर प्रांत में प्रशिक्षण उड़ान के दौरान दुर्घटनाग्रस्त हो गया, जिसमें सवार सभी 5 जवानों की मौत हो गई, रक्षा मंत्रालय ने बताया। 12 दिनों में यह दूसरा घातक सैन्य हेलीकॉप्टर हादसा है।"
-   },
    "en": {
     "title": "Turkish Air Force helicopter crashes during training flight in Eskisehir, all 5 crew killed",
     "summary": "A Turkish Air Force AS-532 Cougar helicopter crashed during a training flight in Eskisehir province on Tuesday evening, killing all five crew members, the Defence Ministry said. It is the second fatal Turkish military helicopter crash in 12 days."
+   },
+   "hi": {
+    "title": "तुर्किये: प्रशिक्षण उड़ान के दौरान वायुसेना का हेलीकॉप्टर दुर्घटनाग्रस्त, 5 जवानों की मौत",
+    "summary": "तुर्किये की वायुसेना का एएस-532 कूगर हेलीकॉप्टर मंगलवार शाम एस्किशेहिर प्रांत में प्रशिक्षण उड़ान के दौरान दुर्घटनाग्रस्त हो गया, जिसमें सवार सभी 5 जवानों की मौत हो गई, रक्षा मंत्रालय ने बताया। 12 दिनों में यह दूसरा घातक सैन्य हेलीकॉप्टर हादसा है।"
    }
   },
   {
@@ -453,13 +474,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eisenkot-lieberman-first-coalition-deal-israel-government-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eisenkot-lieberman-first-coalition-deal-israel-government-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eisenkot-lieberman-first-coalition-deal-israel-government-november-24-en.mp3",
-   "hi": {
-    "title": "इज़रायल: आइज़ेनकोट को सरकार बनाने की पहली कामयाबी, लिबरमैन से गठबंधन डील; डेमोक्रेट्स ने बातचीत रोकी",
-    "summary": "गादी आइज़ेनकोट की यशर पार्टी और अविग्डोर लिबरमैन की इसराएल बेतेनु ने मंगलवार शाम गठबंधन समझौते पर दस्तखत करने पर सहमति जता दी, 27 अक्टूबर के चुनाव के बाद 2 पार्टियों के बीच यह पहली डील है। इसके कुछ ही मिनट पहले यायर गोलान की डेमोक्रेट्स पार्टी ने यशर से बातचीत रोक दी थी।"
-   },
    "en": {
     "title": "Eisenkot strikes first coalition deal with Lieberman in bid to form Israel's next government",
     "summary": "Gadi Eisenkot's Yashar party and Avigdor Lieberman's Yisrael Beiteinu agreed to sign a coalition deal on Tuesday evening, the first pact between any two parties since the 27 October election. Minutes earlier, Yair Golan's Democrats froze talks with Yashar over its unity negotiations with Netanyahu's Likud."
+   },
+   "hi": {
+    "title": "इज़रायल: आइज़ेनकोट को सरकार बनाने की पहली कामयाबी, लिबरमैन से गठबंधन डील; डेमोक्रेट्स ने बातचीत रोकी",
+    "summary": "गादी आइज़ेनकोट की यशर पार्टी और अविग्डोर लिबरमैन की इसराएल बेतेनु ने मंगलवार शाम गठबंधन समझौते पर दस्तखत करने पर सहमति जता दी, 27 अक्टूबर के चुनाव के बाद 2 पार्टियों के बीच यह पहली डील है। इसके कुछ ही मिनट पहले यायर गोलान की डेमोक्रेट्स पार्टी ने यशर से बातचीत रोक दी थी।"
    }
   },
   {
@@ -474,13 +495,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-moves-supreme-court-cauvery-vaigai-gundar-link-injunction-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-moves-supreme-court-cauvery-vaigai-gundar-link-injunction-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-moves-supreme-court-cauvery-vaigai-gundar-link-injunction-november-24-en.mp3",
-   "hi": {
-    "title": "कर्नाटक सुप्रीम कोर्ट पहुंचा: तमिलनाडु की कावेरी–वैगै–गुंडार लिंक परियोजना पर रोक की मांग, बिना मंजूरी काम का आरोप",
-    "summary": "कर्नाटक ने सुप्रीम कोर्ट से तमिलनाडु की कावेरी–वैगै–गुंडार नदी जोड़ परियोजना के किसी भी आगे के काम पर रोक लगाने की मांग की है। राज्य का आरोप है कि पहले चरण के कुछ हिस्से केंद्र सरकार की मंजूरी के बिना बनाए गए और यह बात अदालत से छिपाई गई। मामले की सुनवाई 10 दिसंबर को हो सकती है।"
-   },
    "en": {
     "title": "Karnataka moves Supreme Court to stop Tamil Nadu's Cauvery–Vaigai–Gundar link, says work began without Centre's nod",
     "summary": "Karnataka has asked the Supreme Court to restrain Tamil Nadu from any further work on the Cauvery–Vaigai–Gundar river-link project, alleging that parts of the first phase were built without the Union government's clearance and that the facts were kept from the court. The case is likely to be heard on December 10."
+   },
+   "hi": {
+    "title": "कर्नाटक सुप्रीम कोर्ट पहुंचा: तमिलनाडु की कावेरी–वैगै–गुंडार लिंक परियोजना पर रोक की मांग, बिना मंजूरी काम का आरोप",
+    "summary": "कर्नाटक ने सुप्रीम कोर्ट से तमिलनाडु की कावेरी–वैगै–गुंडार नदी जोड़ परियोजना के किसी भी आगे के काम पर रोक लगाने की मांग की है। राज्य का आरोप है कि पहले चरण के कुछ हिस्से केंद्र सरकार की मंजूरी के बिना बनाए गए और यह बात अदालत से छिपाई गई। मामले की सुनवाई 10 दिसंबर को हो सकती है।"
    }
   },
   {
@@ -495,13 +516,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24-en.mp3",
-   "hi": {
-    "title": "एनसीबी-डीईए की 'ऑपरेशन मॉनसून थंडर' में 6 गिरफ्तार: अमेरिका भेजी गईं 5 लाख नशीली गोलियां, 59,000 ग्राहकों का डेटा भी मिला",
-    "summary": "भारत के नारकोटिक्स कंट्रोल ब्यूरो और अमेरिका की ड्रग एनफोर्समेंट एडमिनिस्ट्रेशन के संयुक्त अभियान में 6 भारतीय गिरफ्तार किए गए हैं। आरोप है कि इस गिरोह ने 4 साल में करीब 3,000 पार्सल में लगभग 5 लाख नशीली गोलियां अमेरिकी ग्राहकों तक पहुंचाईं। गिरफ्तार लोगों में एमबीए स्नातक और 2024 में अमेरिका से निकाला गया एक युवक भी शामिल है।"
-   },
    "en": {
     "title": "6 held as NCB and US DEA bust 'Operation Monsoon Thunder' ring that sent 5 lakh opioid pills to America",
     "summary": "Six Indians, including an MBA graduate and a man deported from the United States in 2024, have been arrested in a joint Narcotics Control Bureau and US Drug Enforcement Administration operation that allegedly shipped nearly 5 lakh opioid tablets to American buyers in about 3,000 parcels over four years."
+   },
+   "hi": {
+    "title": "एनसीबी-डीईए की 'ऑपरेशन मॉनसून थंडर' में 6 गिरफ्तार: अमेरिका भेजी गईं 5 लाख नशीली गोलियां, 59,000 ग्राहकों का डेटा भी मिला",
+    "summary": "भारत के नारकोटिक्स कंट्रोल ब्यूरो और अमेरिका की ड्रग एनफोर्समेंट एडमिनिस्ट्रेशन के संयुक्त अभियान में 6 भारतीय गिरफ्तार किए गए हैं। आरोप है कि इस गिरोह ने 4 साल में करीब 3,000 पार्सल में लगभग 5 लाख नशीली गोलियां अमेरिकी ग्राहकों तक पहुंचाईं। गिरफ्तार लोगों में एमबीए स्नातक और 2024 में अमेरिका से निकाला गया एक युवक भी शामिल है।"
    }
   },
   {
@@ -516,16 +537,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kannauj-school-bus-truck-crash-four-children-killed-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-crash-four-children-killed-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-crash-four-children-killed-november-24-en.mp3",
-   "district": "Kannauj",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "4 schoolchildren killed as truck rams parked bus on Lucknow-Agra Expressway in Kannauj",
+    "summary": "A speeding truck rammed into a stationary school bus on the Lucknow-Agra Expressway near Thathia in Kannauj early on Tuesday morning, killing 4 children and injuring 32 others. The bus, carrying students of Classes 6 to 10 back from a tour of Agra and Mathura, had stopped on the shoulder so the children could use the toilet."
+   },
    "hi": {
     "title": "कन्नौज में खड़ी स्कूल बस में पीछे से ट्रक की टक्कर, 4 स्कूली बच्चों की मौत",
     "summary": "मंगलवार सुबह कन्नौज के थठिया के पास लखनऊ-आगरा एक्सप्रेसवे पर खड़ी स्कूल बस में तेज रफ्तार ट्रक ने पीछे से टक्कर मार दी, जिससे 4 बच्चों की मौत हो गई और 32 अन्य घायल हो गए। आगरा-मथुरा के दौरे से लौट रहे छठी से दसवीं कक्षा के छात्रों की बस शौच के लिए किनारे रुकी थी।"
    },
-   "en": {
-    "title": "4 schoolchildren killed as truck rams parked bus on Lucknow-Agra Expressway in Kannauj",
-    "summary": "A speeding truck rammed into a stationary school bus on the Lucknow-Agra Expressway near Thathia in Kannauj early on Tuesday morning, killing 4 children and injuring 32 others. The bus, carrying students of Classes 6 to 10 back from a tour of Agra and Mathura, had stopped on the shoulder so the children could use the toilet."
-   }
+   "district": "Kannauj",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24",
@@ -539,13 +560,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24-en.mp3",
-   "hi": {
-    "title": "नेपाल में 5.3 तीव्रता का भूकंप, उत्तर बंगाल, बिहार और सिक्किम तक झटके",
-    "summary": "मंगलवार सुबह 7:02 बजे नेपाल के कोशी प्रांत में 5.3 तीव्रता का भूकंप आया, जिसके झटके उत्तर बंगाल, सिक्किम, बिहार और मेघालय के साथ-साथ भूटान, बांग्लादेश और चीन में भी महसूस किए गए। अधिकारियों ने कहा कि तत्काल किसी के हताहत होने या नुकसान की खबर नहीं है।"
-   },
    "en": {
     "title": "5.3-magnitude quake in Nepal shakes north Bengal, Bihar and Sikkim; no damage reported",
     "summary": "A 5.3-magnitude earthquake struck Nepal's Koshi province at 7:02 am on Tuesday, with tremors felt across north Bengal, Sikkim, Bihar and Meghalaya, as well as in Bhutan, Bangladesh and China. Officials said there were no immediate reports of casualties or damage."
+   },
+   "hi": {
+    "title": "नेपाल में 5.3 तीव्रता का भूकंप, उत्तर बंगाल, बिहार और सिक्किम तक झटके",
+    "summary": "मंगलवार सुबह 7:02 बजे नेपाल के कोशी प्रांत में 5.3 तीव्रता का भूकंप आया, जिसके झटके उत्तर बंगाल, सिक्किम, बिहार और मेघालय के साथ-साथ भूटान, बांग्लादेश और चीन में भी महसूस किए गए। अधिकारियों ने कहा कि तत्काल किसी के हताहत होने या नुकसान की खबर नहीं है।"
    }
   },
   {
@@ -560,13 +581,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-canada-cepa-very-close-official-daily-talks-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-very-close-official-daily-talks-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-very-close-official-daily-talks-november-24-en.mp3",
-   "hi": {
-    "title": "भारत-कनाडा व्यापार समझौता 'बिल्कुल करीब', अधिकारी बोले — रोज़ाना बातचीत जारी, साल के अंत तक समझौते का लक्ष्य",
-    "summary": "भारत और कनाडा के वार्ताकार रोज़ाना चर्चा कर रहे हैं और प्रस्तावित व्यापक आर्थिक भागीदारी समझौते को अंतिम रूप देने के 'बिल्कुल करीब' हैं, एक अधिकारी ने 24 नवंबर को कहा। दोनों पक्ष साल के अंत तक समझौता पूरा करने का लक्ष्य लेकर चल रहे हैं, और 2030 तक द्विपक्षीय व्यापार 50 अरब डॉलर तक बढ़ाने का लक्ष्य रखा गया है।"
-   },
    "en": {
     "title": "India, Canada 'very close' to concluding trade pact, official says; daily talks on as year-end deadline nears",
     "summary": "Negotiators from India and Canada are holding daily discussions and are 'very close' to concluding the proposed Comprehensive Economic Partnership Agreement, an official said on 24 November. Both sides aim to wrap up the pact by the end of the year, with bilateral trade targeted at $50 billion by 2030."
+   },
+   "hi": {
+    "title": "भारत-कनाडा व्यापार समझौता 'बिल्कुल करीब', अधिकारी बोले — रोज़ाना बातचीत जारी, साल के अंत तक समझौते का लक्ष्य",
+    "summary": "भारत और कनाडा के वार्ताकार रोज़ाना चर्चा कर रहे हैं और प्रस्तावित व्यापक आर्थिक भागीदारी समझौते को अंतिम रूप देने के 'बिल्कुल करीब' हैं, एक अधिकारी ने 24 नवंबर को कहा। दोनों पक्ष साल के अंत तक समझौता पूरा करने का लक्ष्य लेकर चल रहे हैं, और 2030 तक द्विपक्षीय व्यापार 50 अरब डॉलर तक बढ़ाने का लक्ष्य रखा गया है।"
    }
   },
   {
@@ -581,13 +602,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/invest-telangana-global-summit-december-7-9-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/invest-telangana-global-summit-december-7-9-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/invest-telangana-global-summit-december-7-9-november-23-en.mp3",
-   "hi": {
-    "title": "तेलंगाना में 7 दिसंबर से देश का सबसे बड़ा राज्य स्तरीय वैश्विक शिखर सम्मेलन, 1,000 से अधिक कंपनियां और 1,500 सीईओ आएंगे",
-    "summary": "तेलंगाना 7 से 9 दिसंबर तक हैदराबाद के भारत फ्यूचर सिटी में इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 की मेज़बानी करेगा, मुख्यमंत्री ए रेवंत रेड्डी ने सोमवार को घोषणा की। देश की सबसे बड़ी राज्य स्तरीय बहु-क्षेत्रीय प्रदर्शनी के रूप में पेश किए जा रहे 80,000 वर्ग मीटर के इस शिखर सम्मेलन में 1,000 से अधिक कंपनियों और करीब 1,500 सीईओ, निवेशकों व राजदूतों के आने की उम्मीद है।"
-   },
    "en": {
     "title": "Telangana to host India's 'largest' state-led global summit from 7 December; 1,000+ firms, 1,500 CEOs expected",
     "summary": "Telangana will host the Invest Telangana Global Summit 2026 from 7 to 9 December at Bharat Future City in Hyderabad, Chief Minister A Revanth Reddy announced on Monday. Billed as India's largest state-led multi-sector exhibition, the 80,000-square-metre summit is expected to draw more than 1,000 companies and around 1,500 CEOs, investors and ambassadors."
+   },
+   "hi": {
+    "title": "तेलंगाना में 7 दिसंबर से देश का सबसे बड़ा राज्य स्तरीय वैश्विक शिखर सम्मेलन, 1,000 से अधिक कंपनियां और 1,500 सीईओ आएंगे",
+    "summary": "तेलंगाना 7 से 9 दिसंबर तक हैदराबाद के भारत फ्यूचर सिटी में इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 की मेज़बानी करेगा, मुख्यमंत्री ए रेवंत रेड्डी ने सोमवार को घोषणा की। देश की सबसे बड़ी राज्य स्तरीय बहु-क्षेत्रीय प्रदर्शनी के रूप में पेश किए जा रहे 80,000 वर्ग मीटर के इस शिखर सम्मेलन में 1,000 से अधिक कंपनियों और करीब 1,500 सीईओ, निवेशकों व राजदूतों के आने की उम्मीद है।"
    }
   },
   {
@@ -604,13 +625,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balaghat-field-328-crore-nagpur-robbery-recovery-november-24-en.mp3",
    "district": "Balaghat",
    "state": "Madhya Pradesh",
-   "hi": {
-    "title": "नागपुर लूट के 3.28 करोड़ रुपये बालाघाट के खेत में भूसे के नीचे मिले, 2 आरोपी गिरफ्तार",
-    "summary": "नागपुर में सशस्त्र लूट में लूटे गए 3.74 करोड़ रुपये में से 3.28 करोड़ रुपये बालाघाट के डोरली गांव के एक खेत में भूसे के नीचे छिपी 3 बोरियों में मिले हैं। 2 आरोपी गिरफ्तार हुए हैं, 6 फरार हैं, और 46 लाख रुपये अब भी लापता हैं।"
-   },
    "en": {
     "title": "₹3.28 crore of Nagpur's ₹3.74-crore loot found under haystack in Balaghat field; 2 arrested",
     "summary": "Police have recovered ₹3.28 crore of the ₹3.74 crore looted in an armed robbery in Nagpur, hidden in 3 sacks under a haystack in a field in Balaghat's Dorli village. Two accused have been arrested and 6 are on the run, while ₹46 lakh is still missing."
+   },
+   "hi": {
+    "title": "नागपुर लूट के 3.28 करोड़ रुपये बालाघाट के खेत में भूसे के नीचे मिले, 2 आरोपी गिरफ्तार",
+    "summary": "नागपुर में सशस्त्र लूट में लूटे गए 3.74 करोड़ रुपये में से 3.28 करोड़ रुपये बालाघाट के डोरली गांव के एक खेत में भूसे के नीचे छिपी 3 बोरियों में मिले हैं। 2 आरोपी गिरफ्तार हुए हैं, 6 फरार हैं, और 46 लाख रुपये अब भी लापता हैं।"
    }
   },
   {
@@ -625,13 +646,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bigg-boss-malayalam-8-double-eviction-tashi-wikky-thug-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-malayalam-8-double-eviction-tashi-wikky-thug-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bigg-boss-malayalam-8-double-eviction-tashi-wikky-thug-november-24-en.mp3",
-   "hi": {
-    "title": "बिग बॉस मलयालम 8 में डबल झटका, ताशी और विक्की ठग 11वें हफ्ते में घर से बाहर",
-    "summary": "बिग बॉस मलयालम 8 में 11वें हफ्ते में डबल एविक्शन हुआ — ताशी शनिवार को और विक्की ठग रविवार को घर से बाहर हुए। होस्ट मोहनलाल ने हाथापाई के बाद सिर्फ 3 प्रतियोगियों को सीधे खतरे में डाला था। पूर्व विजेता अखिल मारार ने ताशी के एविक्शन में गड़बड़ी का आरोप लगाया है।"
-   },
    "en": {
     "title": "Bigg Boss Malayalam 8: Tashi and Wikky Thug out in shock double eviction in Week 11",
     "summary": "Bigg Boss Malayalam 8 has seen a shock double eviction in Week 11 — Tashi left on Saturday and Wikky Thug on Sunday — after host Mohanlal put only the 3 contestants involved in a physical altercation directly in the danger zone. Former winner Akhil Marar has alleged foul play over Tashi's eviction."
+   },
+   "hi": {
+    "title": "बिग बॉस मलयालम 8 में डबल झटका, ताशी और विक्की ठग 11वें हफ्ते में घर से बाहर",
+    "summary": "बिग बॉस मलयालम 8 में 11वें हफ्ते में डबल एविक्शन हुआ — ताशी शनिवार को और विक्की ठग रविवार को घर से बाहर हुए। होस्ट मोहनलाल ने हाथापाई के बाद सिर्फ 3 प्रतियोगियों को सीधे खतरे में डाला था। पूर्व विजेता अखिल मारार ने ताशी के एविक्शन में गड़बड़ी का आरोप लगाया है।"
    }
   },
   {
@@ -648,13 +669,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-preet-vihar-cafe-alleged-gang-rape-three-arrested-november-24-en.mp3",
    "district": "East Delhi",
    "state": "Delhi",
-   "hi": {
-    "title": "प्रीत विहार के कैफे में 22 साल की युवती से सामूहिक दुष्कर्म का आरोप, 2 महिलाओं समेत 3 गिरफ्तार",
-    "summary": "पूर्वी दिल्ली के प्रीत विहार के सल्टेनेट कैफे में सोमवार की रात पार्टी के बाद 22 साल की युवती ने 2 साथी कर्मचारियों पर सामूहिक दुष्कर्म का आरोप लगाया है। दिल्ली पुलिस ने 2 महिलाओं समेत 3 लोगों को गिरफ्तार किया है, जबकि 3 अन्य आरोपी फरार हैं।"
-   },
    "en": {
     "title": "22-year-old allegedly gang-raped by colleagues at Preet Vihar cafe; 3 arrested, 3 on the run",
     "summary": "A 22-year-old woman has alleged that she was gang-raped by 2 colleagues at Saltanate Cafe in East Delhi's Preet Vihar after a late-night party on Monday night. Delhi Police have arrested 3 people, including 2 women, and 3 other accused are on the run."
+   },
+   "hi": {
+    "title": "प्रीत विहार के कैफे में 22 साल की युवती से सामूहिक दुष्कर्म का आरोप, 2 महिलाओं समेत 3 गिरफ्तार",
+    "summary": "पूर्वी दिल्ली के प्रीत विहार के सल्टेनेट कैफे में सोमवार की रात पार्टी के बाद 22 साल की युवती ने 2 साथी कर्मचारियों पर सामूहिक दुष्कर्म का आरोप लगाया है। दिल्ली पुलिस ने 2 महिलाओं समेत 3 लोगों को गिरफ्तार किया है, जबकि 3 अन्य आरोपी फरार हैं।"
    }
   },
   {
@@ -669,13 +690,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/microsoft-declares-code-red-after-historic-outage-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/microsoft-declares-code-red-after-historic-outage-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/microsoft-declares-code-red-after-historic-outage-november-24-en.mp3",
-   "hi": {
-    "title": "माइक्रोसॉफ्ट ने ऐतिहासिक आउटेज के बाद 'कोड रेड' घोषित किया, 24 घंटे ठप रही थीं आउटलुक और टीम्स सेवाएं",
-    "summary": "माइक्रोसॉफ्ट ने 12-13 नवंबर के 24 घंटे के आउटेज के बाद बड़ी सेवा विफलताओं से निपटने के तरीके को बदलने के लिए 'कोड रेड' अभियान घोषित किया है। रॉयटर्स के देखे गए आंतरिक मेमो के मुताबिक यह एक्सचेंज ऑनलाइन के इतिहास की सबसे ज्यादा ग्राहकों को प्रभावित करने वाली घटना थी।"
-   },
    "en": {
     "title": "Microsoft declares 'Code Red' after historic 24-hour outage crippled Outlook and Teams",
     "summary": "Microsoft has declared a 'Code Red' drive to overhaul how it prevents and responds to major service failures, after its November 12-13 outage — the most customer-impacting incident in Exchange Online history — exposed serious gaps in its engineering systems and crisis response, internal memos reviewed by Reuters show."
+   },
+   "hi": {
+    "title": "माइक्रोसॉफ्ट ने ऐतिहासिक आउटेज के बाद 'कोड रेड' घोषित किया, 24 घंटे ठप रही थीं आउटलुक और टीम्स सेवाएं",
+    "summary": "माइक्रोसॉफ्ट ने 12-13 नवंबर के 24 घंटे के आउटेज के बाद बड़ी सेवा विफलताओं से निपटने के तरीके को बदलने के लिए 'कोड रेड' अभियान घोषित किया है। रॉयटर्स के देखे गए आंतरिक मेमो के मुताबिक यह एक्सचेंज ऑनलाइन के इतिहास की सबसे ज्यादा ग्राहकों को प्रभावित करने वाली घटना थी।"
    }
   },
   {
@@ -692,13 +713,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/charkhi-dadri-farmer-manoj-beaten-death-buffalo-dung-dispute-four-arrested-november-24-en.mp3",
-   "hi": {
-    "title": "चरखी दादरी में भैंस के गोबर को लेकर विवाद, किसान की पीट-पीटकर हत्या; 4 गिरफ्तार",
-    "summary": "हरियाणा के चरखी दादरी ज़िले के महाराणा गाँव के 40 वर्षीय किसान मनोज की सोमवार रात पीजीआईएमएस रोहतक में मौत हो गई। पशु बाड़े के द्वार के पास भैंस के गोबर को लेकर हुए विवाद के बाद 20 नवंबर को कुछ लोगों ने उस पर कुल्हाड़ी, लाठियों और रॉड से कथित तौर पर हमला किया था। पुलिस ने 4 लोगों को गिरफ्तार किया है, और ग्रामीणों ने स्थानीय विधायक के हस्तक्षेप के बाद मंगलवार को 17 घंटे चला सड़क जाम खत्म कर दिया।"
-   },
    "en": {
     "title": "Farmer beaten to death in Charkhi Dadri over buffalo dung row; 4 arrested",
     "summary": "Manoj, a 40-year-old farmer from Maharana village in Haryana's Charkhi Dadri district, died at PGIMS Rohtak on Monday night after a group of men allegedly attacked him with an axe, sticks and rods on November 20, following a dispute over buffalo dung near a cattle enclosure gate. Police have arrested 4 people, and villagers ended a 17-hour road blockade on Tuesday after the local MLA intervened."
+   },
+   "hi": {
+    "title": "चरखी दादरी में भैंस के गोबर को लेकर विवाद, किसान की पीट-पीटकर हत्या; 4 गिरफ्तार",
+    "summary": "हरियाणा के चरखी दादरी ज़िले के महाराणा गाँव के 40 वर्षीय किसान मनोज की सोमवार रात पीजीआईएमएस रोहतक में मौत हो गई। पशु बाड़े के द्वार के पास भैंस के गोबर को लेकर हुए विवाद के बाद 20 नवंबर को कुछ लोगों ने उस पर कुल्हाड़ी, लाठियों और रॉड से कथित तौर पर हमला किया था। पुलिस ने 4 लोगों को गिरफ्तार किया है, और ग्रामीणों ने स्थानीय विधायक के हस्तक्षेप के बाद मंगलवार को 17 घंटे चला सड़क जाम खत्म कर दिया।"
    }
   },
   {
@@ -713,13 +734,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-women-hockey-highest-ever-fih-ranking-world-no-5-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-women-hockey-highest-ever-fih-ranking-world-no-5-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-women-hockey-highest-ever-fih-ranking-world-no-5-november-24-en.mp3",
-   "hi": {
-    "title": "भारतीय महिला हॉकी टीम विश्व रैंकिंग में 5वें स्थान पर — अब तक की सर्वश्रेष्ठ रैंकिंग",
-    "summary": "भारतीय महिला हॉकी टीम एफआईएच विश्व रैंकिंग में 5वें स्थान पर पहुँच गई है — टीम के इतिहास की यह सर्वश्रेष्ठ रैंकिंग है। यह उपलब्धि मंगलवार को भोपाल में महिला एशियन चैंपियंस ट्रॉफी में चीन पर 6-2 की जीत के बाद मिली। पिछली सर्वश्रेष्ठ रैंकिंग 6वीं थी, जो 2022 में और फिर 2023 में मिली थी।"
-   },
    "en": {
     "title": "Indian women reach world No. 5 — their highest-ever FIH ranking",
     "summary": "India's women's hockey team has climbed to No. 5 in the FIH World Rankings — the highest position in the team's history — after Tuesday's 6-2 win over China in the Women's Asian Champions Trophy in Bhopal. The previous best was No. 6, reached in 2022 and again in 2023."
+   },
+   "hi": {
+    "title": "भारतीय महिला हॉकी टीम विश्व रैंकिंग में 5वें स्थान पर — अब तक की सर्वश्रेष्ठ रैंकिंग",
+    "summary": "भारतीय महिला हॉकी टीम एफआईएच विश्व रैंकिंग में 5वें स्थान पर पहुँच गई है — टीम के इतिहास की यह सर्वश्रेष्ठ रैंकिंग है। यह उपलब्धि मंगलवार को भोपाल में महिला एशियन चैंपियंस ट्रॉफी में चीन पर 6-2 की जीत के बाद मिली। पिछली सर्वश्रेष्ठ रैंकिंग 6वीं थी, जो 2022 में और फिर 2023 में मिली थी।"
    }
   },
   {
@@ -736,13 +757,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chandeep-singh-gold-world-para-taekwondo-muju-november-24-en.mp3",
    "district": "Jammu",
    "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "जम्मू-कश्मीर के चंदीप सिंह ने दक्षिण कोरिया में विश्व पैरा ताइक्वांडो चैंपियनशिप में जीता स्वर्ण",
-    "summary": "पिछले 2 विश्व चैंपियनशिप में रजत पदक जीतने वाले चंदीप सिंह ने सोमवार को दक्षिण कोरिया के मुजू में हुई विश्व पैरा ताइक्वांडो चैंपियनशिप में हैवीवेट वर्ग का स्वर्ण पदक जीता। जम्मू-कश्मीर खेल परिषद ने इस जीत को केंद्र शासित प्रदेश के पैरा ताइक्वांडो के लिए ऐतिहासिक विश्व खिताब बताया है।"
-   },
    "en": {
     "title": "J&K's Chandeep Singh wins gold at World Para Taekwondo Championship in South Korea",
     "summary": "Chandeep Singh, who had finished with silver at the last 2 World Championships, won the heavyweight gold at the World Para Taekwondo Championship in Muju, South Korea, on Monday, and the Jammu and Kashmir Sports Council hailed it as a historic world crown for the Union Territory's para-taekwondo."
+   },
+   "hi": {
+    "title": "जम्मू-कश्मीर के चंदीप सिंह ने दक्षिण कोरिया में विश्व पैरा ताइक्वांडो चैंपियनशिप में जीता स्वर्ण",
+    "summary": "पिछले 2 विश्व चैंपियनशिप में रजत पदक जीतने वाले चंदीप सिंह ने सोमवार को दक्षिण कोरिया के मुजू में हुई विश्व पैरा ताइक्वांडो चैंपियनशिप में हैवीवेट वर्ग का स्वर्ण पदक जीता। जम्मू-कश्मीर खेल परिषद ने इस जीत को केंद्र शासित प्रदेश के पैरा ताइक्वांडो के लिए ऐतिहासिक विश्व खिताब बताया है।"
    }
   },
   {
@@ -757,13 +778,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pixxel-350-crore-satellite-facility-bengaluru-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pixxel-350-crore-satellite-facility-bengaluru-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pixxel-350-crore-satellite-facility-bengaluru-november-24-en.mp3",
-   "hi": {
-    "title": "पिक्सेल बेंगलुरु हवाई अड्डे के पास बनाएगी 350 करोड़ रुपये की सैटेलाइट फैक्टरी",
-    "summary": "बेंगलुरु की अंतरिक्ष प्रौद्योगिकी कंपनी पिक्सेल केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डे के पास 350 करोड़ रुपये के प्रस्तावित निवेश से अपनी अगली सैटेलाइट फैक्टरी लगाएगी। उद्योग मंत्री एम बी पाटिल ने सोमवार को कहा कि 2,50,000 वर्ग फुट की गिगापिक्सेल फैक्टरी के 2027 में शुरू होने की उम्मीद है।"
-   },
    "en": {
     "title": "Pixxel to set up ₹350-crore satellite manufacturing facility near Bengaluru airport",
     "summary": "Bengaluru space-tech company Pixxel will set up its next satellite manufacturing facility near Kempegowda International Airport with a proposed investment of ₹350 crore, Karnataka Industries Minister M B Patil said on Monday, adding that the 2,50,000 sq ft GigaPixxel plant is expected to become operational in 2027."
+   },
+   "hi": {
+    "title": "पिक्सेल बेंगलुरु हवाई अड्डे के पास बनाएगी 350 करोड़ रुपये की सैटेलाइट फैक्टरी",
+    "summary": "बेंगलुरु की अंतरिक्ष प्रौद्योगिकी कंपनी पिक्सेल केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डे के पास 350 करोड़ रुपये के प्रस्तावित निवेश से अपनी अगली सैटेलाइट फैक्टरी लगाएगी। उद्योग मंत्री एम बी पाटिल ने सोमवार को कहा कि 2,50,000 वर्ग फुट की गिगापिक्सेल फैक्टरी के 2027 में शुरू होने की उम्मीद है।"
    }
   },
   {
@@ -778,13 +799,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-jal-board-lpsc-waiver-566-lakh-consumers-3618-crore-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-jal-board-lpsc-waiver-566-lakh-consumers-3618-crore-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-jal-board-lpsc-waiver-566-lakh-consumers-3618-crore-november-24-en.mp3",
-   "hi": {
-    "title": "दिल्ली में 5.66 लाख उपभोक्ताओं ने चुकाए बकाया पानी के बिल, जल बोर्ड ने 3,618 करोड़ रुपये का विलंब शुल्क माफ किया",
-    "summary": "दिल्ली जल बोर्ड की विलंब शुल्क छूट योजना के तहत 5.66 लाख से ज्यादा आवासीय और वाणिज्यिक उपभोक्ताओं ने अपने पुराने पानी के बिल चुका दिए हैं। उपभोक्ताओं को 3,618.73 करोड़ रुपये की छूट मिली है, जबकि बोर्ड को मूल राशि के तौर पर 1,076.15 करोड़ रुपये मिले हैं।"
-   },
    "en": {
     "title": "5.66 lakh Delhi consumers clear water bills as DJB waives ₹3,618 crore in late-payment surcharge",
     "summary": "More than 5.66 lakh residential and commercial consumers in Delhi have cleared long-pending water bills under the Delhi Jal Board’s Late Payment Surcharge Rebate Scheme, receiving waivers worth ₹3,618.73 crore, while the board has collected ₹1,076.15 crore towards the principal amount."
+   },
+   "hi": {
+    "title": "दिल्ली में 5.66 लाख उपभोक्ताओं ने चुकाए बकाया पानी के बिल, जल बोर्ड ने 3,618 करोड़ रुपये का विलंब शुल्क माफ किया",
+    "summary": "दिल्ली जल बोर्ड की विलंब शुल्क छूट योजना के तहत 5.66 लाख से ज्यादा आवासीय और वाणिज्यिक उपभोक्ताओं ने अपने पुराने पानी के बिल चुका दिए हैं। उपभोक्ताओं को 3,618.73 करोड़ रुपये की छूट मिली है, जबकि बोर्ड को मूल राशि के तौर पर 1,076.15 करोड़ रुपये मिले हैं।"
    }
   },
   {
@@ -799,13 +820,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haryana-panchayat-accounts-45-crore-missing-forensic-audit-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-45-crore-missing-forensic-audit-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-45-crore-missing-forensic-audit-november-24-en.mp3",
-   "hi": {
-    "title": "हरियाणा की पंचायतों के खातों से 4.5 करोड़ रुपये गायब, डिजिटल धोखाधड़ी पर फॉरेंसिक ऑडिट के आदेश",
-    "summary": "हरियाणा के विकास एवं पंचायत विभाग ने कई पंचायती राज संस्थाओं के बैंक खातों से करीब 4.5 करोड़ रुपये गायब मिलने के बाद सी-डैक से फॉरेंसिक ऑडिट कराने के आदेश दिए हैं। ज्यादातर विवादित लेनदेन 14 और 15 नवंबर को हुए थे।"
-   },
    "en": {
     "title": "₹4.5 crore missing from Haryana panchayat accounts, forensic audit ordered after digital fraud",
     "summary": "The Haryana Development and Panchayats Department has ordered a forensic audit by C-DAC after nearly ₹4.5 crore was found missing from the bank accounts of several Panchayati Raj institutions, with most of the disputed transactions taking place on 14 and 15 November."
+   },
+   "hi": {
+    "title": "हरियाणा की पंचायतों के खातों से 4.5 करोड़ रुपये गायब, डिजिटल धोखाधड़ी पर फॉरेंसिक ऑडिट के आदेश",
+    "summary": "हरियाणा के विकास एवं पंचायत विभाग ने कई पंचायती राज संस्थाओं के बैंक खातों से करीब 4.5 करोड़ रुपये गायब मिलने के बाद सी-डैक से फॉरेंसिक ऑडिट कराने के आदेश दिए हैं। ज्यादातर विवादित लेनदेन 14 और 15 नवंबर को हुए थे।"
    }
   },
   {
@@ -822,13 +843,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seven-andhra-fishermen-missing-bay-of-bengal-kakinada-paradip-search-november-24-en.mp3",
    "district": "Kakinada",
    "state": "Andhra Pradesh",
-   "hi": {
-    "title": "बंगाल की खाड़ी में 19 नवंबर से लापता आंध्र प्रदेश के 7 मछुआरे, पारादीप के पास तटरक्षक बल औार नौसेना की तलाश",
-    "summary": "आंध्र प्रदेश के काकीनाडा जिले के उप्पाडा के 7 मछुआरे 19 नवंबर से समुद्र में लापता हैं। उनकी मोटरचालित मछली नाव का ओडिशा के पारादीप बंदरगाह के पास संपर्क टूट गया था। तटरक्षक बल औार नौसेना जहाजों औार हेलीकॉप्टर से पारादीप के पास समुद्र में तलाश कर रहे हैं, औार बांग्लादेश औार म्यांमार के तटरक्षक बलों को भी सतर्क कर दिया गया है।"
-   },
    "en": {
     "title": "Seven Andhra fishermen missing in Bay of Bengal since 19 November; Coast Guard and Navy search off Paradip",
     "summary": "Seven fishermen from Uppada in Andhra Pradesh’s Kakinada district have been missing at sea since 19 November, after their motorised fishing boat lost contact near Paradip Port in Odisha. The Coast Guard and the Navy are searching the waters off Paradip with ships and a helicopter, and the coast guards of Bangladesh and Myanmar have been alerted."
+   },
+   "hi": {
+    "title": "बंगाल की खाड़ी में 19 नवंबर से लापता आंध्र प्रदेश के 7 मछुआरे, पारादीप के पास तटरक्षक बल औार नौसेना की तलाश",
+    "summary": "आंध्र प्रदेश के काकीनाडा जिले के उप्पाडा के 7 मछुआरे 19 नवंबर से समुद्र में लापता हैं। उनकी मोटरचालित मछली नाव का ओडिशा के पारादीप बंदरगाह के पास संपर्क टूट गया था। तटरक्षक बल औार नौसेना जहाजों औार हेलीकॉप्टर से पारादीप के पास समुद्र में तलाश कर रहे हैं, औार बांग्लादेश औार म्यांमार के तटरक्षक बलों को भी सतर्क कर दिया गया है।"
    }
   },
   {
@@ -843,13 +864,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/samajwadi-party-first-list-five-candidates-up-polls-2027-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-first-list-five-candidates-up-polls-2027-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-first-list-five-candidates-up-polls-2027-november-24-en.mp3",
-   "hi": {
-    "title": "सपा ने 2027 के यूपी चुनाव के लिए पहली सूची में 5 उम्मीदवार घोषित किए, कांग्रेस की मांग वाली 2 सीटों पर अपने विधायक उतारे",
-    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए अपने पहले 5 उम्मीदवारों की सूची जारी कर दी है। बेहट, सहारनपुर, कैराना, अमरोहा औार ललितपुर से पार्टी के मौजूदा विधायक चुनाव लड़ेंगे। इनमें से 2 सीटें, बेहट औार सहारनपुर, वो हैं जिन्हें कांग्रेस ने सीट बंटवारे की बातचीत में मांगा था, औार कांग्रेस नेता इमरान मसूद ने कहा है कि वे सहारनपुर में सपा के खिलाफ अपने उम्मीदवार उतारेंगे।"
-   },
    "en": {
     "title": "SP names first 5 candidates for 2027 UP polls, fields own MLAs on 2 seats Congress had sought",
     "summary": "The Samajwadi Party has announced its first list of five candidates for the 2027 Uttar Pradesh Assembly elections, naming sitting MLAs in Behat, Saharanpur, Kairana, Amroha and Lalitpur. Two of the seats, Behat and Saharanpur, were among those the Congress had sought in the seat-sharing talks, and Congress leader Imran Masood has said he will field candidates against the SP in Saharanpur."
+   },
+   "hi": {
+    "title": "सपा ने 2027 के यूपी चुनाव के लिए पहली सूची में 5 उम्मीदवार घोषित किए, कांग्रेस की मांग वाली 2 सीटों पर अपने विधायक उतारे",
+    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए अपने पहले 5 उम्मीदवारों की सूची जारी कर दी है। बेहट, सहारनपुर, कैराना, अमरोहा औार ललितपुर से पार्टी के मौजूदा विधायक चुनाव लड़ेंगे। इनमें से 2 सीटें, बेहट औार सहारनपुर, वो हैं जिन्हें कांग्रेस ने सीट बंटवारे की बातचीत में मांगा था, औार कांग्रेस नेता इमरान मसूद ने कहा है कि वे सहारनपुर में सपा के खिलाफ अपने उम्मीदवार उतारेंगे।"
    }
   },
   {
@@ -864,13 +885,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nato-awacs-aircraft-poland-russian-missiles-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nato-awacs-aircraft-poland-russian-missiles-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nato-awacs-aircraft-poland-russian-missiles-november-24-en.mp3",
-   "hi": {
-    "title": "रूसी मिसाइलें गिरने के बाद NATO पोलैंड में तैनात करेगा AWACS निगरानी विमान",
-    "summary": "20 नवंबर को 3 रूसी Kh-101 क्रूज़ मिसाइलों के पोलैंड में गिरने के बाद NATO पोलैंड को एक AWACS निगरानी विमान देगा। सोमवार को ब्रसेल्स में नॉर्थ अटलांटिक काउंसिल की आपात बैठक में यह फैसला लिया गया, और यूरोप में NATO के सर्वोच्च कमांडर ने तैनाती को मंज़ूरी दे दी है।"
-   },
    "en": {
     "title": "NATO to deploy AWACS early-warning aircraft to Poland after Russian missiles land on its soil",
     "summary": "NATO will send an AWACS early-warning aircraft to Poland after three Russian Kh-101 cruise missiles landed on Polish territory on 20 November. The decision was taken at an extraordinary meeting of the North Atlantic Council in Brussels on Monday, and NATO's supreme commander in Europe has authorised the deployment."
+   },
+   "hi": {
+    "title": "रूसी मिसाइलें गिरने के बाद NATO पोलैंड में तैनात करेगा AWACS निगरानी विमान",
+    "summary": "20 नवंबर को 3 रूसी Kh-101 क्रूज़ मिसाइलों के पोलैंड में गिरने के बाद NATO पोलैंड को एक AWACS निगरानी विमान देगा। सोमवार को ब्रसेल्स में नॉर्थ अटलांटिक काउंसिल की आपात बैठक में यह फैसला लिया गया, और यूरोप में NATO के सर्वोच्च कमांडर ने तैनाती को मंज़ूरी दे दी है।"
    }
   },
   {
@@ -885,13 +906,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/england-beat-australia-eight-wickets-donald-85-second-t20i-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/england-beat-australia-eight-wickets-donald-85-second-t20i-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/england-beat-australia-eight-wickets-donald-85-second-t20i-november-24-en.mp3",
-   "hi": {
-    "title": "डोनाल्ड की 32 गेंदों पर 85 रन की धमाकेदार पारी, इंग्लैंड ने ऑस्ट्रेलिया को 8 विकेट से हराकर सीरीज़ 1-1 की",
-    "summary": "एन्यूरिन डोनाल्ड ने 32 गेंदों पर 85 रन और फिल सॉल्ट ने 30 गेंदों पर 58 रन बनाए, जिससे इंग्लैंड ने मंगलवार को करारा में दूसरे T20I में 185 रन का लक्ष्य सिर्फ 13.1 ओवर में हासिल कर ऑस्ट्रेलिया को 8 विकेट से हरा दिया। 5 मैचों की सीरीज़ अब 1-1 से बराबर है।"
-   },
    "en": {
     "title": "Donald's 32-ball 85 powers England to eight-wicket rout of Australia, T20I series level at 1-1",
     "summary": "Aneurin Donald smashed 85 off 32 balls and Phil Salt made 58 off 30 as England chased down 185 in just 13.1 overs to beat Australia by eight wickets in the second T20I at Carrara on Tuesday, levelling the five-match series 1-1."
+   },
+   "hi": {
+    "title": "डोनाल्ड की 32 गेंदों पर 85 रन की धमाकेदार पारी, इंग्लैंड ने ऑस्ट्रेलिया को 8 विकेट से हराकर सीरीज़ 1-1 की",
+    "summary": "एन्यूरिन डोनाल्ड ने 32 गेंदों पर 85 रन और फिल सॉल्ट ने 30 गेंदों पर 58 रन बनाए, जिससे इंग्लैंड ने मंगलवार को करारा में दूसरे T20I में 185 रन का लक्ष्य सिर्फ 13.1 ओवर में हासिल कर ऑस्ट्रेलिया को 8 विकेट से हरा दिया। 5 मैचों की सीरीज़ अब 1-1 से बराबर है।"
    }
   },
   {
@@ -906,13 +927,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthi-attack-riyadh-pif-tower-11-injured-two-indians-november-24-en.mp3",
-   "hi": {
-    "title": "रियाद में हूती हमला: वित्तीय जिले के टावर पर हमले में 2 भारतीय समेत 11 घायल",
-    "summary": "सऊदी अरब की राजधानी रियाद के किंग अब्दुल्ला वित्तीय जिले में मंगलवार को एक टावर पर हमला हुआ, जिसे सऊदी नागरिक सुरक्षा विभाग ने यमन के हूती विद्रोहियों का आतंकवादी हमला बताया है। हमले में 2 भारतीय नागरिकों समेत 11 लोग घायल हुए हैं।"
-   },
    "en": {
     "title": "Houthi attack on Riyadh financial district tower injures 11, including 2 Indians",
     "summary": "A tower in Riyadh’s King Abdullah Financial District was targeted on Tuesday in what Saudi Arabia’s Civil Defence called a terrorist attack by Yemen’s Houthi militia. Eleven people were injured, including two Indian nationals, two Saudis, three Nepalese and four Egyptians."
+   },
+   "hi": {
+    "title": "रियाद में हूती हमला: वित्तीय जिले के टावर पर हमले में 2 भारतीय समेत 11 घायल",
+    "summary": "सऊदी अरब की राजधानी रियाद के किंग अब्दुल्ला वित्तीय जिले में मंगलवार को एक टावर पर हमला हुआ, जिसे सऊदी नागरिक सुरक्षा विभाग ने यमन के हूती विद्रोहियों का आतंकवादी हमला बताया है। हमले में 2 भारतीय नागरिकों समेत 11 लोग घायल हुए हैं।"
    }
   },
   {
@@ -929,13 +950,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nagaur-newly-elected-sarpanch-shailu-rajpurohit-airgun-accident-death-november-24-en.mp3",
    "district": "Nagaur",
    "state": "Rajasthan",
-   "hi": {
-    "title": "नागौर में नवनिर्वाचित सरपंच शैलू राजपुरोहित की एयरगन हादसे में मौत, 155 वोटों से जीती थीं",
-    "summary": "राजस्थान के नागौर जिले के टुंकलिया गाँव की नवनिर्वाचित सरपंच शैलू राजपुरोहित (56) की मंगलवार को घर पर एयरगन की सफाई करते समय हादसे में मौत हो गई। ट्रिगर दबने से निकला छर्रा उनके सीने में लगा था, औार परिजन उन्हें जोधपुर ले जा रहे थे, लेकिन रास्ते में ही उनकी मौत हो गई।"
-   },
    "en": {
     "title": "Nagaur: Newly elected sarpanch Shailu Rajpurohit dies in airgun-cleaning accident days after winning by 155 votes",
     "summary": "Shailu Rajpurohit, 56, who had just won the sarpanch election in Tunkaliya village of Rajasthan’s Nagaur district by 155 votes, died on Tuesday after an airgun went off accidentally while she was cleaning it at home. A pellet struck her in the chest, and she died on the way to a hospital in Jodhpur."
+   },
+   "hi": {
+    "title": "नागौर में नवनिर्वाचित सरपंच शैलू राजपुरोहित की एयरगन हादसे में मौत, 155 वोटों से जीती थीं",
+    "summary": "राजस्थान के नागौर जिले के टुंकलिया गाँव की नवनिर्वाचित सरपंच शैलू राजपुरोहित (56) की मंगलवार को घर पर एयरगन की सफाई करते समय हादसे में मौत हो गई। ट्रिगर दबने से निकला छर्रा उनके सीने में लगा था, औार परिजन उन्हें जोधपुर ले जा रहे थे, लेकिन रास्ते में ही उनकी मौत हो गई।"
    }
   },
   {
@@ -952,13 +973,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/badrinath-donation-theft-sit-submits-300-page-report-november-24-en.mp3",
    "district": "Chamoli",
    "state": "Uttarakhand",
-   "hi": {
-    "title": "बदरीनाथ चढ़ावा चोरी: एसआईटी ने शासन को सौंपी 300 पन्नों की रिपोर्ट, कांच की दीवारों में गिनती की सिफारिश",
-    "summary": "बदरीनाथ धाम में चढ़ावे की गिनती में हेराफेरी के मामले की करीब 5 महीने तक जाँच के बाद 3 सदस्यीय एसआईटी ने शासन को 300 से अधिक पन्नों की रिपोर्ट सौंप दी है। रिपोर्ट में गिनती, सुरक्षा और बैंक खाते में जमा कराने की व्यवस्था में खामियाँ बताई गई हैं, और कांच की दीवारों में गिनती, 360 डिग्री कैमरे व बिना जेब वाले कपड़ों की सिफारिश की गई है।"
-   },
    "en": {
     "title": "Badrinath donation theft: SIT submits 300-page report, recommends glass-walled counting room and pocketless clothes",
     "summary": "After a five-month probe into irregularities in the counting of offerings at the Badrinath shrine, a three-member SIT has submitted a report of more than 300 pages to the Uttarakhand government. It flags gaps in counting, security and bank deposits, and suggests a glass-walled counting room, 360-degree cameras and pocketless clothes for counting staff."
+   },
+   "hi": {
+    "title": "बदरीनाथ चढ़ावा चोरी: एसआईटी ने शासन को सौंपी 300 पन्नों की रिपोर्ट, कांच की दीवारों में गिनती की सिफारिश",
+    "summary": "बदरीनाथ धाम में चढ़ावे की गिनती में हेराफेरी के मामले की करीब 5 महीने तक जाँच के बाद 3 सदस्यीय एसआईटी ने शासन को 300 से अधिक पन्नों की रिपोर्ट सौंप दी है। रिपोर्ट में गिनती, सुरक्षा और बैंक खाते में जमा कराने की व्यवस्था में खामियाँ बताई गई हैं, और कांच की दीवारों में गिनती, 360 डिग्री कैमरे व बिना जेब वाले कपड़ों की सिफारिश की गई है।"
    }
   },
   {
@@ -973,13 +994,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-draws-game-1-sindarov-world-chess-championship-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-draws-game-1-sindarov-world-chess-championship-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-draws-game-1-sindarov-world-chess-championship-november-24-en.mp3",
-   "hi": {
-    "title": "गुकेश ने सिंदारोव को पहले गेम में ड्रॉ पर रोका, 38 चालों में बराबरी; स्कोर 0.5-0.5",
-    "summary": "विश्व चैंपियन डी गुकेश ने मंगलवार को जिनेवा में विश्व शतरंज चैंपियनशिप के पहले गेम में जावोखिर सिंदारोव को काले मोहरों से ड्रॉ पर रोक दिया। 38 चालों का यह गेम 3 बार एक ही स्थिति दोहराए जाने पर ड्रॉ हुआ; बुधवार को दूसरे गेम में गुकेश को सफ़ेद मोहरे मिलेंगे।"
-   },
    "en": {
     "title": "Gukesh holds Sindarov to a draw in Game 1 after 38 moves; World Chess Championship level at 0.5-0.5",
     "summary": "Defending champion D Gukesh held challenger Javokhir Sindarov to a draw with the Black pieces in Game 1 of the World Chess Championship in Geneva on Tuesday. The 38-move game was drawn by threefold repetition, and Gukesh will have White in Game 2 on Wednesday."
+   },
+   "hi": {
+    "title": "गुकेश ने सिंदारोव को पहले गेम में ड्रॉ पर रोका, 38 चालों में बराबरी; स्कोर 0.5-0.5",
+    "summary": "विश्व चैंपियन डी गुकेश ने मंगलवार को जिनेवा में विश्व शतरंज चैंपियनशिप के पहले गेम में जावोखिर सिंदारोव को काले मोहरों से ड्रॉ पर रोक दिया। 38 चालों का यह गेम 3 बार एक ही स्थिति दोहराए जाने पर ड्रॉ हुआ; बुधवार को दूसरे गेम में गुकेश को सफ़ेद मोहरे मिलेंगे।"
    }
   },
   {
@@ -996,13 +1017,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharsa-custody-death-sho-among-five-suspended-november-24-en.mp3",
    "district": "Saharsa",
    "state": "Bihar",
-   "hi": {
-    "title": "सहरसा में हिरासत में मौत: थाने के बाथरूम में मिला आरोपी का शव, एसएचओ समेत 5 पुलिसकर्मी सस्पेंड",
-    "summary": "प्रेम-प्रसंग के मामले में आरोपी अनमोल कुमार मंगलवार सुबह सहरसा के सौरबाज़ार थाने के बाथरूम में मृत मिला। एसपी विक्रम सिहाग ने एसएचओ समेत 5 कर्मियों को लापरवाही के आरोप में सस्पेंड कर दिया है; मजिस्ट्रेट की मौजूदगी में जाँच और वीडियोग्राफी के साथ पोस्टमॉर्टम चल रहा है।"
-   },
    "en": {
     "title": "Custody death in Saharsa: accused found dead in police station washroom, SHO among 5 suspended",
     "summary": "Anmol Kumar, an accused in a love-affair case, was found dead in the washroom of Saurbazar police station in Saharsa on Tuesday morning. SP Vikram Sihag suspended the SHO and 4 other personnel for alleged negligence, and a custodial death inquiry with a videographed post-mortem is under way."
+   },
+   "hi": {
+    "title": "सहरसा में हिरासत में मौत: थाने के बाथरूम में मिला आरोपी का शव, एसएचओ समेत 5 पुलिसकर्मी सस्पेंड",
+    "summary": "प्रेम-प्रसंग के मामले में आरोपी अनमोल कुमार मंगलवार सुबह सहरसा के सौरबाज़ार थाने के बाथरूम में मृत मिला। एसपी विक्रम सिहाग ने एसएचओ समेत 5 कर्मियों को लापरवाही के आरोप में सस्पेंड कर दिया है; मजिस्ट्रेट की मौजूदगी में जाँच और वीडियोग्राफी के साथ पोस्टमॉर्टम चल रहा है।"
    }
   },
   {
@@ -1017,13 +1038,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-beat-china-6-2-womens-asian-champions-trophy-deepika-hat-trick-november-24-en.mp3",
-   "hi": {
-    "title": "दीपिका की हैट्रिक से भारत ने चीन को 6-2 से हराया, महिला एशियाई चैंपियंस ट्रॉफी में चौथी जीत",
-    "summary": "गत विजेता भारत ने भोपाल में मंगलवार को ओलंपिक रजत पदक विजेता चीन को 6-2 से हराया; दीपिका ने लगातार दूसरी हैट्रिक लगाई। भारत ने 4 लीग मैचों में 4 जीत दर्ज की हैं और 12 अंकों के साथ जापान के बराबर शीर्ष पर है।"
-   },
    "en": {
     "title": "Deepika's hat-trick powers India to 6-2 rout of China in Women's Asian Champions Trophy",
     "summary": "Defending champions India thrashed Olympic silver medallists China 6-2 in Bhopal on Tuesday, with Deepika scoring a second successive hat-trick. India have won all 4 league matches and sit level with Japan on 12 points at the top of the table."
+   },
+   "hi": {
+    "title": "दीपिका की हैट्रिक से भारत ने चीन को 6-2 से हराया, महिला एशियाई चैंपियंस ट्रॉफी में चौथी जीत",
+    "summary": "गत विजेता भारत ने भोपाल में मंगलवार को ओलंपिक रजत पदक विजेता चीन को 6-2 से हराया; दीपिका ने लगातार दूसरी हैट्रिक लगाई। भारत ने 4 लीग मैचों में 4 जीत दर्ज की हैं और 12 अंकों के साथ जापान के बराबर शीर्ष पर है।"
    }
   },
   {
@@ -1040,13 +1061,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kenyan-held-for-abducting-puri-minor-after-online-gaming-friendship-en.mp3",
    "district": "Puri",
    "state": "Odisha",
-   "hi": {
-    "title": "पुरी की छात्रा भुवनेश्वर के होटल से बचाई गई, केन्या का नागरिक गिरफ़्तार; पुलिस बोली — ऑनलाइन कैरम गेम से शुरू हुई थी दोस्ती",
-    "summary": "पुरी पुलिस ने भुवनेश्वर के एक होटल से केन्या के 34 वर्षीय नागरिक मोहम्मद फ़ैज़ मोहम्मद को गिरफ़्तार किया और पुरी की 17 वर्षीय छात्रा को बचाया। 1 लाख रुपये की फिरौती वाली कॉल ने पुलिस को होटल तक पहुँचाया। पुलिस के मुताबिक दोनों की पहचान सितंबर 2025 में कैरम किंग ऑनलाइन गेम पर हुई थी।"
-   },
    "en": {
     "title": "Kenyan national held after Puri schoolgirl rescued from Bhubaneswar hotel; police say online carrom game led to kidnap and ransom demand",
     "summary": "Puri police arrested 34-year-old Kenyan national Mohamed Faiz Mohamed from a Bhubaneswar hotel and rescued a 17-year-old Puri schoolgirl, after a Rs 1 lakh ransom call led them to the hotel. Police say the two met on the Carrom King online game in September 2025."
+   },
+   "hi": {
+    "title": "पुरी की छात्रा भुवनेश्वर के होटल से बचाई गई, केन्या का नागरिक गिरफ़्तार; पुलिस बोली — ऑनलाइन कैरम गेम से शुरू हुई थी दोस्ती",
+    "summary": "पुरी पुलिस ने भुवनेश्वर के एक होटल से केन्या के 34 वर्षीय नागरिक मोहम्मद फ़ैज़ मोहम्मद को गिरफ़्तार किया और पुरी की 17 वर्षीय छात्रा को बचाया। 1 लाख रुपये की फिरौती वाली कॉल ने पुलिस को होटल तक पहुँचाया। पुलिस के मुताबिक दोनों की पहचान सितंबर 2025 में कैरम किंग ऑनलाइन गेम पर हुई थी।"
    }
   },
   {
@@ -1061,13 +1082,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indians-among-13-killed-in-ras-al-khaimah-bus-truck-crash.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indians-among-13-killed-in-ras-al-khaimah-bus-truck-crash-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indians-among-13-killed-in-ras-al-khaimah-bus-truck-crash-en.mp3",
-   "hi": {
-    "title": "रास अल खैमाह में बस-ट्रक की टक्कर में 13 लोगों की मौत, मरने वालों में भारतीय भी शामिल",
-    "summary": "रास अल खैमाह में मंगलवार तड़के अल वतन रोड पर 41 यात्रियों वाली बस के खड़े ट्रक से टकराने पर भारतीयों समेत 13 लोगों की मौत हो गई और 14 घायल हुए। यात्री ओमान से वीज़ा बदलने की प्रक्रिया पूरी करके लौट रहे थे; दुबई स्थित भारतीय वाणिज्य दूतावास ने पुष्टि की है कि मरने वालों में भारतीय शामिल हैं।"
-   },
    "en": {
     "title": "13 killed, Indians among them, as bus returning from Oman visa trip rams parked truck in Ras Al Khaimah",
     "summary": "Thirteen people, including Indian nationals, were killed and 14 injured when a bus carrying 41 people hit a truck parked on Al Watan Road in Ras Al Khaimah early on Tuesday. The passengers were returning from Oman after a visa-change trip; the Indian Consulate in Dubai has confirmed Indians are among the dead."
+   },
+   "hi": {
+    "title": "रास अल खैमाह में बस-ट्रक की टक्कर में 13 लोगों की मौत, मरने वालों में भारतीय भी शामिल",
+    "summary": "रास अल खैमाह में मंगलवार तड़के अल वतन रोड पर 41 यात्रियों वाली बस के खड़े ट्रक से टकराने पर भारतीयों समेत 13 लोगों की मौत हो गई और 14 घायल हुए। यात्री ओमान से वीज़ा बदलने की प्रक्रिया पूरी करके लौट रहे थे; दुबई स्थित भारतीय वाणिज्य दूतावास ने पुष्टि की है कि मरने वालों में भारतीय शामिल हैं।"
    }
   },
   {
@@ -1082,13 +1103,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-70-investment-deals-50000-crore-chennai-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-70-investment-deals-50000-crore-chennai-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-70-investment-deals-50000-crore-chennai-november-25-en.mp3",
-   "hi": {
-    "title": "तमिलनाडु बुधवार को 500 अरब रुपये के 70 निवेश समझौतों का ऐलान करेगा, चेन्नई में निवेशक सम्मेलन",
-    "summary": "तमिलनाडु बुधवार को चेन्नई में होने वाले निवेशक सम्मेलन में 500 अरब रुपये (5.38 अरब डॉलर) से ज्यादा के करीब 70 निवेश समझौतों का ऐलान करेगा। ब्राजील की मोटर कंपनी डब्ल्यूईजी भी नए समझौते पर हस्ताक्षर करने वालों में शामिल है। सम्मेलन का जोर पहले घोषित निवेशों को जमीन पर उतारने पर होगा।"
-   },
    "en": {
     "title": "Tamil Nadu to announce 70 investment deals worth over Rs 50,000 crore at Chennai conclave on Wednesday",
     "summary": "Tamil Nadu will announce roughly 70 investment deals worth more than Rs 500 billion ($5.38 billion) across sectors at an investor conclave in Chennai on Wednesday, with Brazilian motor maker WEG among the investors signing new pacts. The meet will focus on turning earlier announcements into projects on the ground."
+   },
+   "hi": {
+    "title": "तमिलनाडु बुधवार को 500 अरब रुपये के 70 निवेश समझौतों का ऐलान करेगा, चेन्नई में निवेशक सम्मेलन",
+    "summary": "तमिलनाडु बुधवार को चेन्नई में होने वाले निवेशक सम्मेलन में 500 अरब रुपये (5.38 अरब डॉलर) से ज्यादा के करीब 70 निवेश समझौतों का ऐलान करेगा। ब्राजील की मोटर कंपनी डब्ल्यूईजी भी नए समझौते पर हस्ताक्षर करने वालों में शामिल है। सम्मेलन का जोर पहले घोषित निवेशों को जमीन पर उतारने पर होगा।"
    }
   },
   {
@@ -1103,16 +1124,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pgvcl-electricity-rate-hike-15-paise-saurashtra-kutch-november-24-en.mp3",
-   "district": "Kutch",
-   "state": "Gujarat",
+   "en": {
+    "title": "PGVCL raises power rate by 15 paise a unit in Saurashtra and Kutch, hitting 62 lakh consumers",
+    "summary": "Paschim Gujarat Vij Company has raised electricity charges by about 15 paise per unit for its 62 lakh consumers in Saurashtra and Kutch, after a 3.99% rise since July in five charges that make up a power bill. The Congress has announced a protest at the PGVCL office."
+   },
    "hi": {
     "title": "सौराष्ट्र और कच्छ के 62 लाख बिजली उपभोक्ताओं पर महँगाई की मार, पीजीवीसीएल ने यूनिट पर 15 पैसे बढ़ाए",
     "summary": "पश्चिम गुजरात विज कंपनी ने जुलाई से 5 तरह के चार्ज में 3.99% की बढ़ोतरी के बाद सौराष्ट्र और कच्छ के 62 लाख उपभोक्ताओं के लिए बिजली दर में यूनिट पर करीब 15 पैसे का इजाफा कर दिया है। कांग्रेस ने पीजीवीसीएल कार्यालय के सामने विरोध प्रदर्शन की घोषणा की है।"
    },
-   "en": {
-    "title": "PGVCL raises power rate by 15 paise a unit in Saurashtra and Kutch, hitting 62 lakh consumers",
-    "summary": "Paschim Gujarat Vij Company has raised electricity charges by about 15 paise per unit for its 62 lakh consumers in Saurashtra and Kutch, after a 3.99% rise since July in five charges that make up a power bill. The Congress has announced a protest at the PGVCL office."
-   }
+   "district": "Kutch",
+   "state": "Gujarat"
   },
   {
    "id": "ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24",
@@ -1126,13 +1147,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-critics-choice-awards-shortlist-vfx-stunt-design-november-24-en.mp3",
-   "hi": {
-    "title": "रामायण क्रिटिक्स चॉइस अवॉर्ड्स में 2 श्रेणियों में शॉर्टलिस्ट, द ओडिसी और ड्यून: पार्ट थ्री के साथ दौड़ में",
-    "summary": "नितेश तिवारी की फिल्म रामायण 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड्स में बेस्ट विजुअल इफेक्ट्स और बेस्ट स्टंट डिज़ाइन की शॉर्टलिस्ट में जगह बनाने में कामयाब रही है। अंतिम नामांकन 4 दिसंबर को घोषित होंगे, जबकि पुरस्कार समारोह 3 जनवरी, 2027 को होगा।"
-   },
    "en": {
     "title": "Ramayana shortlisted in two categories at Critics Choice Awards, alongside The Odyssey and Dune: Part Three",
     "summary": "Nitesh Tiwari's Ramayana has made it to the shortlists for Best Visual Effects and Best Stunt Design at the 32nd Annual Critics Choice Awards. The final nominations will be announced on December 4, ahead of the ceremony on January 3, 2027."
+   },
+   "hi": {
+    "title": "रामायण क्रिटिक्स चॉइस अवॉर्ड्स में 2 श्रेणियों में शॉर्टलिस्ट, द ओडिसी और ड्यून: पार्ट थ्री के साथ दौड़ में",
+    "summary": "नितेश तिवारी की फिल्म रामायण 32वें वार्षिक क्रिटिक्स चॉइस अवॉर्ड्स में बेस्ट विजुअल इफेक्ट्स और बेस्ट स्टंट डिज़ाइन की शॉर्टलिस्ट में जगह बनाने में कामयाब रही है। अंतिम नामांकन 4 दिसंबर को घोषित होंगे, जबकि पुरस्कार समारोह 3 जनवरी, 2027 को होगा।"
    }
   },
   {
@@ -1147,13 +1168,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-trump-new-tariffs-16-economies-india-section-301-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-trump-new-tariffs-16-economies-india-section-301-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-trump-new-tariffs-16-economies-india-section-301-november-24-en.mp3",
-   "hi": {
-    "title": "भारत, चीन समेत 16 देशों पर नए टैरिफ की तैयारी में ट्रंप प्रशासन, इसी हफ्ते आ सकता है फैसला",
-    "summary": "ट्रंप प्रशासन 16 देशों में औद्योगिक सब्सिडी और अतिरिक्त उत्पादन क्षमता की महीनों लंबी जाँच के नतीजे इसी हफ्ते जारी करने की तैयारी में है। भारत, चीन, यूरोपीय संघ और जापान समेत इन देशों पर नए आयात शुल्क लग सकते हैं; भारत और वियतनाम पर ऊँची दरें लगने की आशंका है, जबकि यूरोपीय संघ, जापान और दक्षिण कोरिया पर 15% की सीमा रह सकती है।"
-   },
    "en": {
     "title": "Trump administration poised to unveil fresh tariffs on India, China and 14 other economies after subsidies probe",
     "summary": "The Trump administration is poised to release the findings of a months-long Section 301 probe into excess industrial capacity in 16 economies, including India, China, the EU and Japan, with new import duties expected as early as Tuesday or Wednesday. India and Vietnam could face higher rates, while the EU, Japan and South Korea may be capped at 15%."
+   },
+   "hi": {
+    "title": "भारत, चीन समेत 16 देशों पर नए टैरिफ की तैयारी में ट्रंप प्रशासन, इसी हफ्ते आ सकता है फैसला",
+    "summary": "ट्रंप प्रशासन 16 देशों में औद्योगिक सब्सिडी और अतिरिक्त उत्पादन क्षमता की महीनों लंबी जाँच के नतीजे इसी हफ्ते जारी करने की तैयारी में है। भारत, चीन, यूरोपीय संघ और जापान समेत इन देशों पर नए आयात शुल्क लग सकते हैं; भारत और वियतनाम पर ऊँची दरें लगने की आशंका है, जबकि यूरोपीय संघ, जापान और दक्षिण कोरिया पर 15% की सीमा रह सकती है।"
    }
   },
   {
@@ -1168,16 +1189,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/morena-pahargarh-panihari-haveli-excavation-cannon-cannonballs-november-24-en.mp3",
-   "district": "Morena",
-   "state": "Madhya Pradesh",
+   "en": {
+    "title": "Small cannon and 30 cannonballs unearthed during haveli excavation in Morena's Pahargarh; police seize haul, call archaeology department",
+    "summary": "A thin-barrelled small metal cannon and about 30 cannonballs have been found buried under an old garhi haveli in Panihari village of Pahargarh area in Morena district, during bulldozer excavation for new construction. Pahargarh police have seized the haul and informed the archaeology department."
+   },
    "hi": {
     "title": "मुरैना में हवेली की खुदाई में निकली पतली नाल वाली तोप और 30 गोले, पुलिस ने जब्त कर पुरातत्व विभाग को बुलाया",
     "summary": "मुरैना जिले के पहाड़गढ़ क्षेत्र के पनिहारी गाँव में पुरानी गढ़ी हवेली की खुदाई के दौरान जमीन के नीचे दबी धातु की एक छोटी तोप और करीब 30 छोटे गोले मिले हैं। पहाड़गढ़ पुलिस ने पूरा सामान जब्त कर थाने में रखवा दिया है और पुरातत्व विभाग को जाँच के लिए बुलाया है।"
    },
-   "en": {
-    "title": "Small cannon and 30 cannonballs unearthed during haveli excavation in Morena's Pahargarh; police seize haul, call archaeology department",
-    "summary": "A thin-barrelled small metal cannon and about 30 cannonballs have been found buried under an old garhi haveli in Panihari village of Pahargarh area in Morena district, during bulldozer excavation for new construction. Pahargarh police have seized the haul and informed the archaeology department."
-   }
+   "district": "Morena",
+   "state": "Madhya Pradesh"
   },
   {
    "id": "sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24",
@@ -1191,13 +1212,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sp-offers-congress-26-seats-up-assembly-polls-seat-sharing-november-24-en.mp3",
-   "hi": {
-    "title": "2027 यूपी चुनाव: सपा ने कांग्रेस को 403 में से सिर्फ 26 सीटें दीं, कांग्रेस 131 से घटाकर 120 पर आई; बातचीत अधर में",
-    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनावों के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस की माँग 181 से घटकर 120 रह गई है। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें, दूसरे नंबर वाली 4 सीटें और 20 अन्य सीटें हैं; अगले 2 दौर की बैठकों में बातचीत जारी रहेगी।"
-   },
    "en": {
     "title": "SP offers Congress just 26 of 403 seats for 2027 UP polls; Congress sought 131, now asks 120 as talks hang in balance",
     "summary": "The Samajwadi Party has offered the Congress 26 seats for the 2027 Uttar Pradesh Assembly elections, against the Congress's demand that has come down from 181 to 120. The offer covers the two seats Congress won in 2022, four where it finished second, and 20 others; talks will continue in the next two rounds."
+   },
+   "hi": {
+    "title": "2027 यूपी चुनाव: सपा ने कांग्रेस को 403 में से सिर्फ 26 सीटें दीं, कांग्रेस 131 से घटाकर 120 पर आई; बातचीत अधर में",
+    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनावों के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस की माँग 181 से घटकर 120 रह गई है। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें, दूसरे नंबर वाली 4 सीटें और 20 अन्य सीटें हैं; अगले 2 दौर की बैठकों में बातचीत जारी रहेगी।"
    }
   },
   {
@@ -1212,16 +1233,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/shahjahanpur-man-faked-own-death-killed-visually-impaired-man-november-24-en.mp3",
-   "district": "Shahjahanpur",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "Shahjahanpur man faked his own death by killing a visually impaired man, police say",
+    "summary": "Police in Uttar Pradesh's Shahjahanpur district have arrested a 40-year-old man accused of killing a visually impaired man and passing off the body as his own to escape arrest in three criminal cases. The torso was found in a well on November 17 with the accused's Aadhaar card beside it."
+   },
    "hi": {
     "title": "शाहजहाँपुर में मौत का नाटक: गिरफ्तारी से बचने के लिए आरोपी ने दृष्टिहीन युवक की हत्या कर शव को अपना बताया",
     "summary": "उत्तर प्रदेश के शाहजहाँपुर जिले में पुलिस ने 40 साल के एक आरोपी को गिरफ्तार किया है, जिस पर 3 आपराधिक मामलों में गिरफ्तारी से बचने के लिए एक दृष्टिहीन युवक की हत्या कर उसके शव को अपना बताने का आरोप है। 17 नवंबर को कुएँ में मिले धड़ के पास आरोपी का आधार कार्ड पड़ा था।"
    },
-   "en": {
-    "title": "Shahjahanpur man faked his own death by killing a visually impaired man, police say",
-    "summary": "Police in Uttar Pradesh's Shahjahanpur district have arrested a 40-year-old man accused of killing a visually impaired man and passing off the body as his own to escape arrest in three criminal cases. The torso was found in a well on November 17 with the accused's Aadhaar card beside it."
-   }
+   "district": "Shahjahanpur",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24",
@@ -1235,16 +1256,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-karthigai-deepam-lit-uchipillayar-deepathoon-unlit-protests-november-24-en.mp3",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
+   "en": {
+    "title": "Karthigai Deepam lit at Uchipillayar, not Deepathoon, despite Supreme Court order; protests erupt in Madurai",
+    "summary": "The Karthigai Deepam was lit at the customary Uchipillayar mandapam on Thirupparankundram hill in Madurai on Tuesday evening, but no lamp was lit at the disputed Deepathoon pillar despite a Supreme Court order permitting it. Protests broke out and several BJP leaders were detained as around 6,000 police personnel kept watch."
+   },
    "hi": {
     "title": "सुप्रीम कोर्ट के आदेश के बावजूद दीपस्तंभ पर नहीं जला कार्तिगई दीपम, उचिपिल्लैयार मंडपम पर जली ज्योति; मदुरै में विरोध",
     "summary": "मदुरै के तिरुप्परंकुंड्रम पहाड़ी पर मंगलवार शाम कार्तिगई दीपम पारंपरिक उचिपिल्लैयार मंडपम पर जलाया गया, लेकिन सुप्रीम कोर्ट के आदेश के बावजूद विवादित दीपस्तंभ पर दीप नहीं जला। विरोध प्रदर्शन हुए और कई बीजेपी नेताओं को हिरासत में लिया गया, जबकि करीब 6,000 पुलिसकर्मी तैनात रहे।"
    },
-   "en": {
-    "title": "Karthigai Deepam lit at Uchipillayar, not Deepathoon, despite Supreme Court order; protests erupt in Madurai",
-    "summary": "The Karthigai Deepam was lit at the customary Uchipillayar mandapam on Thirupparankundram hill in Madurai on Tuesday evening, but no lamp was lit at the disputed Deepathoon pillar despite a Supreme Court order permitting it. Protests broke out and several BJP leaders were detained as around 6,000 police personnel kept watch."
-   }
+   "district": "Madurai",
+   "state": "Tamil Nadu"
   },
   {
    "id": "tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24",
@@ -1258,16 +1279,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiruvannamalai-maha-deepam-lit-arunachala-hill-karthigai-november-24-en.mp3",
-   "district": "Tiruvannamalai",
-   "state": "Tamil Nadu",
+   "en": {
+    "title": "Maha Deepam lit atop Arunachala Hill in Tiruvannamalai, lakhs of devotees undertake girivalam",
+    "summary": "The Maha Deepam was lit atop the 2,668-foot Arunachala Hill in Tiruvannamalai at 6 pm on Tuesday, closing the 10-day Karthigai Deepam festival. Lakhs of devotees are walking the 14-kilometre girivalam, and the flame will burn for 11 days."
+   },
    "hi": {
     "title": "तिरुवण्णामलै में जला महादीपम: अरुणाचल पहाड़ी की चोटी पर 6 बजे प्रज्वलित हुई ज्योति, लाखों श्रद्धालुओं ने किया गिरिवलम",
     "summary": "तिरुवण्णामलै में मंगलवार शाम 6 बजे अरुणाचल पहाड़ी की 2,668 फुट ऊँची चोटी पर महादीपम जला दिया गया। 10 दिन के कार्तिगई दीपम उत्सव का समापन हुआ, लाखों श्रद्धालु 14 किलोमीटर गिरिवलम पर चल रहे हैं और ज्योति 11 दिन तक जलती रहेगी।"
    },
-   "en": {
-    "title": "Maha Deepam lit atop Arunachala Hill in Tiruvannamalai, lakhs of devotees undertake girivalam",
-    "summary": "The Maha Deepam was lit atop the 2,668-foot Arunachala Hill in Tiruvannamalai at 6 pm on Tuesday, closing the 10-day Karthigai Deepam festival. Lakhs of devotees are walking the 14-kilometre girivalam, and the flame will burn for 11 days."
-   }
+   "district": "Tiruvannamalai",
+   "state": "Tamil Nadu"
   },
   {
    "id": "bardoli-canal-family-three-dead-two-children-missing-november-24",
@@ -1281,16 +1302,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bardoli-canal-family-three-dead-two-children-missing-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bardoli-canal-family-three-dead-two-children-missing-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bardoli-canal-family-three-dead-two-children-missing-november-24-en.mp3",
-   "district": "Surat",
-   "state": "Gujarat",
+   "en": {
+    "title": "Family thrown into canal near Bardoli in Surat, 3 dead including parents; 13-year-old boy survives holding a pipe, 2 children missing",
+    "summary": "A labourer family from Maharashtra's Jalgaon district was allegedly thrown into the Ukai-Kakrapar canal near Bardoli in Surat on the night of November 21. Three bodies - the parents and a young woman - have been recovered, a 13-year-old boy survived by holding a pipe, and two children are still missing. Police have booked four accused and formed eight teams to trace them."
+   },
    "hi": {
     "title": "बारडोली में नहर में फेंका गया पूरा परिवार, माता-पिता समेत 3 की मौत; 13 साल का बेटा पाइप पकड़कर बचा, 2 बच्चे लापता",
     "summary": "महाराष्ट्र के जलगाँव जिले से सूरत आ रहा एक श्रमिक परिवार 21 नवंबर की रात बारडोली के पास उकाई-काकरापार नहर में फेंक दिए जाने का आरोप है। माता-पिता और एक युवती के शव मिले हैं, 13 साल का किशोर पाइप पकड़कर बच गया और 2 बच्चे अब भी लापता हैं। पुलिस ने 4 आरोपियों के खिलाफ मामला दर्ज कर 8 टीमें जाँच में लगाई हैं।"
    },
-   "en": {
-    "title": "Family thrown into canal near Bardoli in Surat, 3 dead including parents; 13-year-old boy survives holding a pipe, 2 children missing",
-    "summary": "A labourer family from Maharashtra's Jalgaon district was allegedly thrown into the Ukai-Kakrapar canal near Bardoli in Surat on the night of November 21. Three bodies - the parents and a young woman - have been recovered, a 13-year-old boy survived by holding a pipe, and two children are still missing. Police have booked four accused and formed eight teams to trace them."
-   }
+   "district": "Surat",
+   "state": "Gujarat"
   },
   {
    "id": "president-murmu-inaugurates-bali-jatra-cuttack-november-24",
@@ -1304,16 +1325,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/president-murmu-inaugurates-bali-jatra-cuttack-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-inaugurates-bali-jatra-cuttack-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-inaugurates-bali-jatra-cuttack-november-24-en.mp3",
-   "district": "Cuttack",
-   "state": "Odisha",
+   "en": {
+    "title": "President Murmu crosses the Mahanadi by boat to open Cuttack's historic Bali Jatra",
+    "summary": "President Droupadi Murmu inaugurated the historic eight-day Bali Jatra in Cuttack on Tuesday evening, arriving at the fairground by boat across the Mahanadi and floating a miniature boat in the river. The festival, which marks the ancient sea voyages of Odisha's Sadhabas traders, runs till December 1."
+   },
    "hi": {
     "title": "राष्ट्रपति मुर्मू ने नाव से महानदी पार कर कटक में बाली जात्रा का उद्घाटन किया",
     "summary": "राष्ट्रपति द्रौपदी मुर्मू ने मंगलवार शाम कटक में ऐतिहासिक बाली जात्रा 2026 का उद्घाटन किया। वह सिल्वर सिटी बोट क्लब से सजी हुई नाव कलिंगा तरंगिणी पर सवार होकर महानदी पार करके मेले के मैदान पहुँचीं और नदी में छोटी नाव तैराई। 8 दिन का यह मेला 1 दिसंबर तक चलेगा।"
    },
-   "en": {
-    "title": "President Murmu crosses the Mahanadi by boat to open Cuttack's historic Bali Jatra",
-    "summary": "President Droupadi Murmu inaugurated the historic eight-day Bali Jatra in Cuttack on Tuesday evening, arriving at the fairground by boat across the Mahanadi and floating a miniature boat in the river. The festival, which marks the ancient sea voyages of Odisha's Sadhabas traders, runs till December 1."
-   }
+   "district": "Cuttack",
+   "state": "Odisha"
   },
   {
    "id": "senegal-migrant-boat-175-missing-yoff-november-24",
@@ -1327,13 +1348,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/senegal-migrant-boat-175-missing-yoff-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/senegal-migrant-boat-175-missing-yoff-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/senegal-migrant-boat-175-missing-yoff-november-24-en.mp3",
-   "hi": {
-    "title": "सेनेगल से यूरोप जा रही नाव का 2 हफ्ते से कोई पता नहीं, 175 प्रवासी लापता",
-    "summary": "सेनेगल की राजधानी डकार से करीब 2 हफ्ते पहले यूरोप के लिए निकली एक नाव का कोई पता नहीं है और उस पर सवार करीब 175 प्रवासी लापता हैं। लकड़ी की यह नाव यॉफ़ जिले से 9 और 10 नवंबर के आसपास निकली थी और तब से परिवारों को कोई खबर नहीं मिली है।"
-   },
    "en": {
     "title": "Boat from Senegal carrying about 175 migrants missing for two weeks, families wait for news",
     "summary": "Around 175 migrants are unaccounted for after contact was lost with a Europe-bound boat that left Dakar about two weeks ago. The wooden pirogue left the Yoff district around November 9 and 10, and families there say they have heard nothing since."
+   },
+   "hi": {
+    "title": "सेनेगल से यूरोप जा रही नाव का 2 हफ्ते से कोई पता नहीं, 175 प्रवासी लापता",
+    "summary": "सेनेगल की राजधानी डकार से करीब 2 हफ्ते पहले यूरोप के लिए निकली एक नाव का कोई पता नहीं है और उस पर सवार करीब 175 प्रवासी लापता हैं। लकड़ी की यह नाव यॉफ़ जिले से 9 और 10 नवंबर के आसपास निकली थी और तब से परिवारों को कोई खबर नहीं मिली है।"
    }
   },
   {
@@ -1348,13 +1369,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-medog-mega-dam-advanced-stage-satellite-images-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-medog-mega-dam-advanced-stage-satellite-images-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-medog-mega-dam-advanced-stage-satellite-images-november-24-en.mp3",
-   "hi": {
-    "title": "अरुणाचल सीमा के पास चीन का 60 GW मेडॉग बांध अब उन्नत चरण में, सैटेलाइट तस्वीरों में गाँव हटे, नदी का रास्ता बदला",
-    "summary": "आईआईटी दिल्ली में इनक्यूबेट हुए जियोस्पेशियल स्टार्टअप अर्थसेंस लैब्स के विश्लेषण से पता चला है कि अरुणाचल प्रदेश की सीमा से 40 से 50 km दूर यारलुंग त्सांगपो नदी पर चीन की 60 GW मेडॉग पनबिजली परियोजना का निर्माण उन्नत चरण में पहुँच गया है — गाँव हटाए गए, नदी का रास्ता मोड़ा जा रहा है और भारी बुनियादी ढाँचा खड़ा हो चुका है।"
-   },
    "en": {
     "title": "China's 60 GW Medog dam near Arunachal enters advanced stage, satellite images show villages cleared and river diverted",
     "summary": "Fresh satellite imagery analysed by EarthSense Labs, a geospatial start-up incubated at IIT Delhi, shows construction of China's 60 GW Medog hydropower project on the Yarlung Tsangpo — 40 to 50 km from the Arunachal Pradesh border — has moved into an advanced phase, with villages cleared, river diversion under way and heavy infrastructure in place."
+   },
+   "hi": {
+    "title": "अरुणाचल सीमा के पास चीन का 60 GW मेडॉग बांध अब उन्नत चरण में, सैटेलाइट तस्वीरों में गाँव हटे, नदी का रास्ता बदला",
+    "summary": "आईआईटी दिल्ली में इनक्यूबेट हुए जियोस्पेशियल स्टार्टअप अर्थसेंस लैब्स के विश्लेषण से पता चला है कि अरुणाचल प्रदेश की सीमा से 40 से 50 km दूर यारलुंग त्सांगपो नदी पर चीन की 60 GW मेडॉग पनबिजली परियोजना का निर्माण उन्नत चरण में पहुँच गया है — गाँव हटाए गए, नदी का रास्ता मोड़ा जा रहा है और भारी बुनियादी ढाँचा खड़ा हो चुका है।"
    }
   },
   {
@@ -1371,13 +1392,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/srinagar-durgeshwari-temple-reopens-37-years-prayers-november-24-en.mp3",
    "district": "Srinagar",
    "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "37 साल बाद श्रीनगर के 700 साल पुराने दुर्गेश्वरी मंदिर में फिर हुई पूजा",
-    "summary": "1980 के दशक के अंत में घाटी में आतंकवाद भड़कने के बाद से बंद पड़ा श्रीनगर के फतेहकदल इलाके का दुर्गेश्वरी मंदिर मंगलवार को फिर खुल गया। सफाई और छोटी-मोटी मरम्मत के बाद 37 साल में पहली बार मंदिर में विशेष पूजा हुई, जिसमें अधिकारी, पुलिसकर्मी और श्रद्धालु शामिल हुए।"
-   },
    "en": {
     "title": "After 37 years, prayers return to Srinagar's 700-year-old Durgeshwari Temple",
     "summary": "Closed since militancy erupted in the Valley in the late 1980s, the Durgeshwari Temple in Srinagar's Fatehkadal locality reopened on Tuesday after cleaning and minor renovation, with officials, police officers and devotees offering prayers inside for the first time in 37 years."
+   },
+   "hi": {
+    "title": "37 साल बाद श्रीनगर के 700 साल पुराने दुर्गेश्वरी मंदिर में फिर हुई पूजा",
+    "summary": "1980 के दशक के अंत में घाटी में आतंकवाद भड़कने के बाद से बंद पड़ा श्रीनगर के फतेहकदल इलाके का दुर्गेश्वरी मंदिर मंगलवार को फिर खुल गया। सफाई और छोटी-मोटी मरम्मत के बाद 37 साल में पहली बार मंदिर में विशेष पूजा हुई, जिसमें अधिकारी, पुलिसकर्मी और श्रद्धालु शामिल हुए।"
    }
   },
   {
@@ -1392,13 +1413,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/coca-cola-gold-spot-returns-after-26-years-low-sugar-cans-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/coca-cola-gold-spot-returns-after-26-years-low-sugar-cans-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/coca-cola-gold-spot-returns-after-26-years-low-sugar-cans-november-24-en.mp3",
-   "hi": {
-    "title": "26 साल बाद लौट रहा है गोल्ड स्पॉट, कोका-कोला लो-शुगर वर्जन ला रहा है",
-    "summary": "कोका-कोला 2000 में बंद किए गए ऑरेंज ड्रिंक गोल्ड स्पॉट को 26 साल बाद वापस ला रहा है। कंपनी के सूत्रों के अनुसार यह लो-शुगर या नो-शुगर वर्जन में आएगा और सिर्फ कैन में, सिर्फ क्विक कॉमर्स पर मिलेगा। पुरानी टैगलाइन 'द ज़िंग थिंग' भी बरकरार रहेगी।"
-   },
    "en": {
     "title": "Gold Spot is coming back after 26 years as Coca-Cola plans a low-sugar relaunch",
     "summary": "Coca-Cola is set to bring back Gold Spot, the orange fizzy drink it discontinued in 2000, in a low-sugar or no-sugar version. Company sources say the relaunch will be limited to cans sold only through quick commerce, with the old 'The Zing Thing' tagline kept intact."
+   },
+   "hi": {
+    "title": "26 साल बाद लौट रहा है गोल्ड स्पॉट, कोका-कोला लो-शुगर वर्जन ला रहा है",
+    "summary": "कोका-कोला 2000 में बंद किए गए ऑरेंज ड्रिंक गोल्ड स्पॉट को 26 साल बाद वापस ला रहा है। कंपनी के सूत्रों के अनुसार यह लो-शुगर या नो-शुगर वर्जन में आएगा और सिर्फ कैन में, सिर्फ क्विक कॉमर्स पर मिलेगा। पुरानी टैगलाइन 'द ज़िंग थिंग' भी बरकरार रहेगी।"
    }
   },
   {
@@ -1413,13 +1434,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-bird-flu-three-h5n1-cases-one-death-washington-dairy-workers-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-bird-flu-three-h5n1-cases-one-death-washington-dairy-workers-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-bird-flu-three-h5n1-cases-one-death-washington-dairy-workers-november-24-en.mp3",
-   "hi": {
-    "title": "अमेरिका में बर्ड फ्लू के 3 मामले, वॉशिंगटन में डेयरी फार्म के 1 कर्मचारी की मौत",
-    "summary": "विश्व स्वास्थ्य संगठन ने कहा है कि अमेरिका ने वॉशिंगटन राज्य में बर्ड फ्लू के 3 मानव मामलों की जानकारी दी है, जिनमें 1 मौत भी शामिल है। तीनों याकिमा काउंटी के डेयरी फार्मों में काम करने वाले लोग थे और जेनेटिक जांच में उनके संक्रमण का संबंध स्थानीय डेयरी मवेशियों में मिले वायरस से जुड़ा है।"
-   },
    "en": {
     "title": "US reports three H5N1 bird flu cases in Washington, one dairy worker dead",
     "summary": "The WHO said the United States has reported three confirmed human cases of H5N1 bird flu in Washington state, including one death. All three were dairy farm workers in Yakima County, and genetic sequencing linked their infections to the virus found in local dairy cattle."
+   },
+   "hi": {
+    "title": "अमेरिका में बर्ड फ्लू के 3 मामले, वॉशिंगटन में डेयरी फार्म के 1 कर्मचारी की मौत",
+    "summary": "विश्व स्वास्थ्य संगठन ने कहा है कि अमेरिका ने वॉशिंगटन राज्य में बर्ड फ्लू के 3 मानव मामलों की जानकारी दी है, जिनमें 1 मौत भी शामिल है। तीनों याकिमा काउंटी के डेयरी फार्मों में काम करने वाले लोग थे और जेनेटिक जांच में उनके संक्रमण का संबंध स्थानीय डेयरी मवेशियों में मिले वायरस से जुड़ा है।"
    }
   },
   {
@@ -1434,13 +1455,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-investigates-politburo-member-chen-jining-shanghai-party-chief-november-24-en.mp3",
-   "hi": {
-    "title": "चीन के पोलितब्यूरो सदस्य और शंघाई के पार्टी प्रमुख चेन जिनिंग जांच के घेरे में",
-    "summary": "चीन की सरकारी समाचार एजेंसी शिन्हुआ ने मंगलवार को कहा कि कम्युनिस्ट पार्टी के शक्तिशाली पोलितब्यूरो के सदस्य और शंघाई के पार्टी प्रमुख चेन जिनिंग के खिलाफ अनुशासन और कानून के गंभीर उल्लंघन के संदेह में जांच शुरू की गई है। 2022 में बने 24 सदस्यीय पोलितब्यूरो के वे चौथे सदस्य हैं, जिनकी 2025 से जांच हो रही है।"
-   },
    "en": {
     "title": "China puts Politburo member and Shanghai party chief Chen Jining under investigation",
     "summary": "China's state news agency Xinhua said on Tuesday that Chen Jining, a member of the Communist Party's elite Politburo and the party chief of Shanghai, is under investigation for suspected serious violations of discipline and law. He is the fourth member of the 24-member Politburo formed in 2022 to be probed since 2025."
+   },
+   "hi": {
+    "title": "चीन के पोलितब्यूरो सदस्य और शंघाई के पार्टी प्रमुख चेन जिनिंग जांच के घेरे में",
+    "summary": "चीन की सरकारी समाचार एजेंसी शिन्हुआ ने मंगलवार को कहा कि कम्युनिस्ट पार्टी के शक्तिशाली पोलितब्यूरो के सदस्य और शंघाई के पार्टी प्रमुख चेन जिनिंग के खिलाफ अनुशासन और कानून के गंभीर उल्लंघन के संदेह में जांच शुरू की गई है। 2022 में बने 24 सदस्यीय पोलितब्यूरो के वे चौथे सदस्य हैं, जिनकी 2025 से जांच हो रही है।"
    }
   },
   {
@@ -1455,13 +1476,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaganyaan-not-delayed-final-phase-first-private-pslv-early-2027-november-24-en.mp3",
-   "hi": {
-    "title": "गगनयान में कोई देरी नहीं, तैयारी अंतिम चरण में: इसरो प्रमुख; पहला प्राइवेट पीएसएलवी 2027 की शुरुआत में उड़ेगा",
-    "summary": "इसरो अध्यक्ष वी नारायणन ने मंगलवार को कहा कि गगनयान मानव अंतरिक्ष उड़ान मिशन में कोई देरी नहीं हुई है और यह अंतिम चरण में है। रॉकेट और उसके सभी उपकरण तैयार हैं और ऑर्बिटल मॉड्यूल पर काम चल रहा है। उन्होंने यह भी कहा कि हिंदुस्तान एयरोनॉटिक्स लिमिटेड और लार्सन ऐंड टुब्रो के समूह की बनाई पहली प्राइवेट पीएसएलवी तैयार है और 2027 की पहली तिमाही में उड़ान भरेगी।"
-   },
    "en": {
     "title": "Gaganyaan not delayed and in final phase, says ISRO chief; first privately built PSLV to fly in early 2027",
     "summary": "ISRO Chairman V Narayanan said on Tuesday that the Gaganyaan human spaceflight mission has not been delayed and is in its final phase, with the rocket and all its components ready and work under way on the orbital module. He also said the first PSLV built by private industry, by the HAL and Larsen and Toubro consortium, is ready for its maiden launch in the first quarter of 2027."
+   },
+   "hi": {
+    "title": "गगनयान में कोई देरी नहीं, तैयारी अंतिम चरण में: इसरो प्रमुख; पहला प्राइवेट पीएसएलवी 2027 की शुरुआत में उड़ेगा",
+    "summary": "इसरो अध्यक्ष वी नारायणन ने मंगलवार को कहा कि गगनयान मानव अंतरिक्ष उड़ान मिशन में कोई देरी नहीं हुई है और यह अंतिम चरण में है। रॉकेट और उसके सभी उपकरण तैयार हैं और ऑर्बिटल मॉड्यूल पर काम चल रहा है। उन्होंने यह भी कहा कि हिंदुस्तान एयरोनॉटिक्स लिमिटेड और लार्सन ऐंड टुब्रो के समूह की बनाई पहली प्राइवेट पीएसएलवी तैयार है और 2027 की पहली तिमाही में उड़ान भरेगी।"
    }
   },
   {
@@ -1476,16 +1497,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mathura-yamuna-expressway-134-kg-ganja-seized-three-arrested-november-24-en.mp3",
-   "district": "Mathura",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "134 kg of ganja worth Rs 70 lakh seized from two cars on Yamuna Expressway in Mathura; 3 arrested",
+    "summary": "The ANTF Agra Zone and Mant police seized 134 kg of ganja worth about Rs 70 lakh from two cars on the Yamuna Expressway near the Mant toll plaza in Mathura and arrested three alleged smugglers who were carrying the consignment from Rajahmundry to Delhi."
+   },
    "hi": {
     "title": "मथुरा में यमुना एक्सप्रेसवे पर 2 कारों से 134 किलो गांजा बरामद, कीमत 70 लाख रुपये; 3 तस्कर गिरफ्तार",
     "summary": "यमुना एक्सप्रेसवे पर मंत टोल प्लाजा के पास एएनटीएफ आगरा जोन और मंत पुलिस ने 2 कारों से करीब 70 लाख रुपये कीमत का 134 किलो गांजा बरामद किया और 3 कथित तस्करों को गिरफ्तार किया, जो खेप राजमुंदरी से दिल्ली ले जा रहे थे।"
    },
-   "en": {
-    "title": "134 kg of ganja worth Rs 70 lakh seized from two cars on Yamuna Expressway in Mathura; 3 arrested",
-    "summary": "The ANTF Agra Zone and Mant police seized 134 kg of ganja worth about Rs 70 lakh from two cars on the Yamuna Expressway near the Mant toll plaza in Mathura and arrested three alleged smugglers who were carrying the consignment from Rajahmundry to Delhi."
-   }
+   "district": "Mathura",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24",
@@ -1499,16 +1520,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-numaligarh-750-crore-industrial-project-foundation-golaghat-november-24-en.mp3",
-   "district": "Golaghat",
-   "state": "Assam",
+   "en": {
+    "title": "Assam CM lays foundation stone for Rs 750-crore Numaligarh industrial project; 300-plus jobs expected",
+    "summary": "Assam Chief Minister Himanta Biswa Sarma laid the foundation stone for the Rs 750-crore Numaligarh LLP project at Rajabari in Golaghat district; the RLG Group project, being built in two phases, will make industrial chemicals and pharma raw materials and is expected to create more than 300 jobs."
+   },
    "hi": {
     "title": "असम के मुख्यमंत्री ने नुमलीगढ़ में 750 करोड़ रुपये की औद्योगिक परियोजना का शिलान्यास किया; 300 से अधिक नौकरियों की उम्मीद",
     "summary": "असम के मुख्यमंत्री हिमंत बिस्व सरमा ने गोलाघाट जिले के राजाबारी में 750 करोड़ रुपये की नुमलीगढ़ एलएलपी परियोजना का शिलान्यास किया; आरएलजी ग्रुप की यह परियोजना 2 चरणों में बनेगी, इसमें औद्योगिक रसायन और दवा कच्चा माल बनेगा और 300 से अधिक नौकरियां पैदा होने की उम्मीद है।"
    },
-   "en": {
-    "title": "Assam CM lays foundation stone for Rs 750-crore Numaligarh industrial project; 300-plus jobs expected",
-    "summary": "Assam Chief Minister Himanta Biswa Sarma laid the foundation stone for the Rs 750-crore Numaligarh LLP project at Rajabari in Golaghat district; the RLG Group project, being built in two phases, will make industrial chemicals and pharma raw materials and is expected to create more than 300 jobs."
-   }
+   "district": "Golaghat",
+   "state": "Assam"
   },
   {
    "id": "bhilwara-rswm-factory-gas-two-brothers-die-tank-cleaning-november-24",
@@ -1522,16 +1543,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhilwara-rswm-factory-gas-two-brothers-die-tank-cleaning-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhilwara-rswm-factory-gas-two-brothers-die-tank-cleaning-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhilwara-rswm-factory-gas-two-brothers-die-tank-cleaning-november-24-en.mp3",
-   "district": "Bhilwara",
-   "state": "Rajasthan",
+   "en": {
+    "title": "Two real brothers die of toxic gas while cleaning factory tank in Bhilwara; second brother went in to save the first",
+    "summary": "Two real brothers, Roshan and Raju from Dausa's Rampura village, died after inhaling toxic gas while cleaning a tank at the RSWM cloth factory in Bhilwara's Hamirgarh area; the second brother climbed into the tank to rescue the first and was overcome by the same gas."
+   },
    "hi": {
     "title": "भीलवाड़ा में फैक्ट्री के टैंक की सफाई के दौरान जहरीली गैस से 2 सगे भाइयों की मौत; बचाने उतरा दूसरा भाई भी नहीं लौटा",
     "summary": "दौसा के रामपुरा गांव के रहने वाले 2 सगे भाई रोशन और राजू की भीलवाड़ा के हमीरगढ़ इलाके की आरएसडब्ल्यूएम कपड़ा फैक्ट्री में टैंक की सफाई के दौरान जहरीली गैस से मौत हो गई। पहला भाई टैंक में उतरा और बाहर नहीं आया, तो दूसरा भाई उसे बचाने अंदर गया और उसी गैस की चपेट में आ गया।"
    },
-   "en": {
-    "title": "Two real brothers die of toxic gas while cleaning factory tank in Bhilwara; second brother went in to save the first",
-    "summary": "Two real brothers, Roshan and Raju from Dausa's Rampura village, died after inhaling toxic gas while cleaning a tank at the RSWM cloth factory in Bhilwara's Hamirgarh area; the second brother climbed into the tank to rescue the first and was overcome by the same gas."
-   }
+   "district": "Bhilwara",
+   "state": "Rajasthan"
   },
   {
    "id": "tn-bjp-chief-nainar-nagenthran-detained-thirupparankundram-november-24",
@@ -1545,16 +1566,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tn-bjp-chief-nainar-nagenthran-detained-thirupparankundram-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tn-bjp-chief-nainar-nagenthran-detained-thirupparankundram-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tn-bjp-chief-nainar-nagenthran-detained-thirupparankundram-november-24-en.mp3",
-   "district": "Tirunelveli",
-   "state": "Tamil Nadu",
+   "en": {
+    "title": "Tamil Nadu BJP chief Nainar Nagenthran detained at Tirunelveli check-post on way to Thirupparankundram Deepam; High Court orders release",
+    "summary": "Tamil Nadu BJP president Nainar Nagenthran was detained at the Thatchanallur check-post outside Tirunelveli while heading to Thirupparankundram to see the Karthigai Deepam lit at the Deepathoon; the Madras High Court later ordered the release of persons detained under the prohibitory orders."
+   },
    "hi": {
     "title": "तिरुनेलवेलि चेक-पोस्ट पर हिरासत में लिए गए तमिलनाडु भाजपा अध्यक्ष नैनार नागेंद्रन; हाईकोर्ट ने हिरासत में लिए गए लोगों को रिहा करने का आदेश दिया",
     "summary": "तमिलनाडु भाजपा अध्यक्ष नैनार नागेंद्रन को तिरुप्परंकुंद्रम में दीपतून पर कार्तिगई दीपम जलता देखने जाते समय तिरुनेलवेलि के बाहर थच्चनल्लूर चेक-पोस्ट पर हिरासत में लिया गया। मद्रास हाईकोर्ट ने बाद में निषेधाज्ञा के तहत हिरासत में लिए गए लोगों को रिहा करने का आदेश दिया।"
    },
-   "en": {
-    "title": "Tamil Nadu BJP chief Nainar Nagenthran detained at Tirunelveli check-post on way to Thirupparankundram Deepam; High Court orders release",
-    "summary": "Tamil Nadu BJP president Nainar Nagenthran was detained at the Thatchanallur check-post outside Tirunelveli while heading to Thirupparankundram to see the Karthigai Deepam lit at the Deepathoon; the Madras High Court later ordered the release of persons detained under the prohibitory orders."
-   }
+   "district": "Tirunelveli",
+   "state": "Tamil Nadu"
   },
   {
    "id": "wayanad-township-149-houses-ready-for-handover-december-november-24",
@@ -1568,16 +1589,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/wayanad-township-149-houses-ready-for-handover-december-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wayanad-township-149-houses-ready-for-handover-december-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/wayanad-township-149-houses-ready-for-handover-december-november-24-en.mp3",
-   "district": "Wayanad",
-   "state": "Kerala",
+   "en": {
+    "title": "149 more homes nearly ready for Wayanad landslide survivors; families to move in December",
+    "summary": "Construction of 149 houses in the second phase of the Wayanad township for survivors of the Mundakkai-Chooralmala landslides is almost complete, with inspections under way and beneficiaries expected to move in during December, taking the township's total to 327 homes."
+   },
    "hi": {
     "title": "वायनाड भूस्खलन पीड़ितों के लिए 149 और घर लगभग तैयार; दिसंबर में नए घरों में शिफ्ट होंगे परिवार",
     "summary": "मुंडक्कई-चूरलमला भूस्खलन के पीड़ितों के लिए बनाई जा रही वायनाड टाउनशिप के दूसरे चरण के 149 घरों का निर्माण लगभग पूरा हो गया है। निरीक्षण चल रहा है और लाभार्थियों के दिसंबर में नए घरों में शिफ्ट होने की उम्मीद है, जिससे टाउनशिप में कुल घरों की संख्या 327 हो जाएगी।"
    },
-   "en": {
-    "title": "149 more homes nearly ready for Wayanad landslide survivors; families to move in December",
-    "summary": "Construction of 149 houses in the second phase of the Wayanad township for survivors of the Mundakkai-Chooralmala landslides is almost complete, with inspections under way and beneficiaries expected to move in during December, taking the township's total to 327 homes."
-   }
+   "district": "Wayanad",
+   "state": "Kerala"
   },
   {
    "id": "india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24",
@@ -1591,13 +1612,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-a-beat-uae-seven-wickets-vaibhav-204-rising-stars-semifinal-november-24-en.mp3",
-   "hi": {
-    "title": "वैभव के 204 रन से इंडिया ए ने यूएई को 7 विकेट से हराया, राइजिंग स्टार्स सेमीफाइनल में",
-    "summary": "वैभव सूर्यवंशी के 53 गेंदों पर रिकॉर्ड 204 रन की बदौलत इंडिया ए ने दोहा में यूएई को 7 विकेट से हरा दिया। टीम ने 250 रन का लक्ष्य सिर्फ 14.2 ओवर में हासिल कर एशिया कप राइजिंग स्टार्स के सेमीफाइनल में जगह बना ली।"
-   },
    "en": {
     "title": "Vaibhav's 204 powers India A past UAE by 7 wickets into Rising Stars semifinals",
     "summary": "Vaibhav Sooryavanshi's record 204 off 53 balls powered India A to a seven-wicket win over the UAE in Doha, chasing 250 in just 14.2 overs to seal a place in the Asia Cup Rising Stars semifinals."
+   },
+   "hi": {
+    "title": "वैभव के 204 रन से इंडिया ए ने यूएई को 7 विकेट से हराया, राइजिंग स्टार्स सेमीफाइनल में",
+    "summary": "वैभव सूर्यवंशी के 53 गेंदों पर रिकॉर्ड 204 रन की बदौलत इंडिया ए ने दोहा में यूएई को 7 विकेट से हरा दिया। टीम ने 250 रन का लक्ष्य सिर्फ 14.2 ओवर में हासिल कर एशिया कप राइजिंग स्टार्स के सेमीफाइनल में जगह बना ली।"
    }
   },
   {
@@ -1612,16 +1633,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-suv-bike-crash-couple-killed-bjp-corporators-minor-son-booked-november-24-en.mp3",
-   "district": "Beed",
-   "state": "Maharashtra",
+   "en": {
+    "title": "BJP corporator's minor son booked after SUV rams bike in Beed, couple killed",
+    "summary": "A couple was killed in Maharashtra's Beed district on November 20 after their motorcycle was hit by an SUV allegedly driven by a minor, the son of a BJP corporator. Police have booked the minor, but are yet to confirm who was driving, after CCTV footage of the crash surfaced."
+   },
    "hi": {
     "title": "बीड में एसयूवी ने बाइक को मारी टक्कर, दंपती की मौत; भाजपा पार्षद के नाबालिग बेटे पर एफआईआर दर्ज",
     "summary": "महाराष्ट्र के बीड जिले में 20 नवंबर को एक एसयूवी ने बाइक सवार दंपती को टक्कर मार दी, जिसमें दोनों की मौत हो गई। पुलिस का कहना है कि एसयूवी भाजपा पार्षद के नाबालिग बेटे की थी और उस पर मामला दर्ज किया गया है, लेकिन गाड़ी कौन चला रहा था, यह अब तक साफ नहीं हुआ है।"
    },
-   "en": {
-    "title": "BJP corporator's minor son booked after SUV rams bike in Beed, couple killed",
-    "summary": "A couple was killed in Maharashtra's Beed district on November 20 after their motorcycle was hit by an SUV allegedly driven by a minor, the son of a BJP corporator. Police have booked the minor, but are yet to confirm who was driving, after CCTV footage of the crash surfaced."
-   }
+   "district": "Beed",
+   "state": "Maharashtra"
   },
   {
    "id": "samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24",
@@ -1635,13 +1656,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/samajwadi-party-offers-congress-26-seats-after-130-demand-up-polls-november-24-en.mp3",
-   "hi": {
-    "title": "कांग्रेस की 130 सीटों की मांग पर सपा का जवाब: सिर्फ 26 सीटें; यूपी में सीट बंटवारे पर दूसरे दिन भी बातचीत",
-    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस ने 130 सीटें मांगी थीं। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें और दूसरे नंबर पर रही 4 सीटें शामिल हैं, और दोनों दलों के बीच दिल्ली में बातचीत जारी है।"
-   },
    "en": {
     "title": "SP offers Congress just 26 of 403 UP seats after it sought 130; seat-sharing talks enter day 2",
     "summary": "The Samajwadi Party has offered the Congress 26 seats for the 2027 Uttar Pradesh Assembly elections, a day after the Congress sought 130. The offer includes the two seats the Congress won in 2022 and four where it finished second, with talks between the INDIA bloc allies continuing in Delhi."
+   },
+   "hi": {
+    "title": "कांग्रेस की 130 सीटों की मांग पर सपा का जवाब: सिर्फ 26 सीटें; यूपी में सीट बंटवारे पर दूसरे दिन भी बातचीत",
+    "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश विधानसभा चुनाव के लिए कांग्रेस को 26 सीटें देने का प्रस्ताव दिया है, जबकि कांग्रेस ने 130 सीटें मांगी थीं। प्रस्ताव में कांग्रेस की जीती हुई 2 सीटें और दूसरे नंबर पर रही 4 सीटें शामिल हैं, और दोनों दलों के बीच दिल्ली में बातचीत जारी है।"
    }
   },
   {
@@ -1656,13 +1677,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vaibhav-sooryavanshi-204-off-53-balls-fastest-list-a-double-hundred-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-204-off-53-balls-fastest-list-a-double-hundred-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-204-off-53-balls-fastest-list-a-double-hundred-november-24-en.mp3",
-   "hi": {
-    "title": "204 रन, 53 गेंद, 28 छक्के: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए का सबसे तेज़ दोहरा शतक",
-    "summary": "15 साल के वैभव सूर्यवंशी ने एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ 53 गेंदों पर 204 रन बनाकर लिस्ट ए क्रिकेट का सबसे तेज़ दोहरा शतक जड़ दिया। उन्होंने 28 छक्के लगाए, किसी भी लिस्ट ए पारी में सबसे ज़्यादा।"
-   },
    "en": {
     "title": "204 off 53 balls, 28 sixes: Vaibhav Sooryavanshi smashes fastest List A double hundred",
     "summary": "15-year-old Vaibhav Sooryavanshi smashed 204 off 53 balls for India A against the UAE in the Asia Cup Rising Stars, the fastest double hundred in List A history. His 28 sixes are the most ever hit in a List A innings."
+   },
+   "hi": {
+    "title": "204 रन, 53 गेंद, 28 छक्के: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए का सबसे तेज़ दोहरा शतक",
+    "summary": "15 साल के वैभव सूर्यवंशी ने एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ 53 गेंदों पर 204 रन बनाकर लिस्ट ए क्रिकेट का सबसे तेज़ दोहरा शतक जड़ दिया। उन्होंने 28 छक्के लगाए, किसी भी लिस्ट ए पारी में सबसे ज़्यादा।"
    }
   },
   {
@@ -1677,13 +1698,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thousands-march-in-karachi-against-plan-to-divide-sindh-november-24-en.mp3",
-   "hi": {
-    "title": "सिंध के बँटवारे के प्रस्ताव पर कराची में हज़ारों लोग सड़कों पर, 'सिंधुदेश' की माँग भी उठी",
-    "summary": "पाकिस्तान के सिंध प्रांत को बाँटकर नए प्रांत बनाने के प्रस्ताव के खिलाफ रविवार को कराची में हज़ारों लोगों ने मार्च निकाला। प्रदर्शनकारियों ने कहा कि सिंध की एक इंच ज़मीन भी अलग नहीं होने दी जाएगी, और 'सिंधुदेश' की माँग भी उठी।"
-   },
    "en": {
     "title": "Thousands march in Karachi against plan to split Sindh; Sindhudesh demand resurfaces",
     "summary": "Thousands of people marched in Karachi on Sunday against a proposal to split Pakistan's Sindh province into new administrative units. Protesters said not an inch of Sindh's territory would be allowed to separate, and demands for an independent Sindhudesh resurfaced."
+   },
+   "hi": {
+    "title": "सिंध के बँटवारे के प्रस्ताव पर कराची में हज़ारों लोग सड़कों पर, 'सिंधुदेश' की माँग भी उठी",
+    "summary": "पाकिस्तान के सिंध प्रांत को बाँटकर नए प्रांत बनाने के प्रस्ताव के खिलाफ रविवार को कराची में हज़ारों लोगों ने मार्च निकाला। प्रदर्शनकारियों ने कहा कि सिंध की एक इंच ज़मीन भी अलग नहीं होने दी जाएगी, और 'सिंधुदेश' की माँग भी उठी।"
    }
   },
   {
@@ -1700,13 +1721,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/four-of-a-family-swept-away-in-ganga-during-kartik-purnima-bath-in-bijnor-12-year-old-rescued-3-still-missing-en.mp3",
    "district": "Bijnor",
    "state": "Uttar Pradesh",
-   "hi": {
-    "title": "बिजनौर में कार्तिक पूर्णिमा स्नान के दौरान गंगा में बहे एक ही परिवार के 4 लोग, 12 साल की बच्ची बची; 3 लापता",
-    "summary": "बिजनौर जिले के नांगलसोती गंगा घाट पर कार्तिक पूर्णिमा के दिन स्नान करते समय नजीबाबाद के एक परिवार के 4 सदस्य गहरे पानी में बह गए। पास में स्नान कर रहे श्रद्धालुओं ने 12 साल की बच्ची को बाहर निकाल लिया, लेकिन एक महिला और 2 किशोर अब भी लापता हैं और गोताखोर नदी में उनकी तलाश कर रहे हैं।"
-   },
    "en": {
     "title": "Four of a family swept away in Ganga during Kartik Purnima bath in Bijnor; 12-year-old rescued, 3 still missing",
     "summary": "Four members of a family from Najibabad were swept into deep water while bathing at the Nangalsoati Ganga ghat in Bijnor district on Kartik Purnima. A 12-year-old girl was pulled out by devotees; a woman and two teenagers are still missing, and divers are searching the river."
+   },
+   "hi": {
+    "title": "बिजनौर में कार्तिक पूर्णिमा स्नान के दौरान गंगा में बहे एक ही परिवार के 4 लोग, 12 साल की बच्ची बची; 3 लापता",
+    "summary": "बिजनौर जिले के नांगलसोती गंगा घाट पर कार्तिक पूर्णिमा के दिन स्नान करते समय नजीबाबाद के एक परिवार के 4 सदस्य गहरे पानी में बह गए। पास में स्नान कर रहे श्रद्धालुओं ने 12 साल की बच्ची को बाहर निकाल लिया, लेकिन एक महिला और 2 किशोर अब भी लापता हैं और गोताखोर नदी में उनकी तलाश कर रहे हैं।"
    }
   },
   {
@@ -1721,13 +1742,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strike-kills-hamas-internal-security-chief-naeem-abu-nahel-in-gaza-city-en.mp3",
-   "hi": {
-    "title": "गाजा सिटी में इजराइली हमले में हमास के आंतरिक सुरक्षा प्रमुख नईम अबू नहल की मौत",
-    "summary": "गाजा सिटी के पश्चिमी हिस्से में हुए इजराइली हवाई हमले में हमास के आंतरिक सुरक्षा तंत्र के प्रमुख नईम अबू नहल की मौत हो गई, हमास सूत्रों ने बताया। इजराइली सेना ने एक वरिष्ठ हमास सदस्य पर हमला करने की पुष्टि की, लेकिन उसका नाम नहीं बताया। चिकित्सकों के मुताबिक मंगलवार को गाजा में हुए हमलों में कम से कम 7 लोग मारे गए।"
-   },
    "en": {
     "title": "Israeli strike kills Hamas internal security chief Naeem Abu Nahel in Gaza City",
     "summary": "An Israeli airstrike in western Gaza City killed Naeem Abu Nahel, the director of Hamas' internal security apparatus, Hamas sources said. The Israeli military confirmed it struck a senior Hamas member but did not name him. Medics said at least 7 people were killed in strikes across Gaza on Tuesday."
+   },
+   "hi": {
+    "title": "गाजा सिटी में इजराइली हमले में हमास के आंतरिक सुरक्षा प्रमुख नईम अबू नहल की मौत",
+    "summary": "गाजा सिटी के पश्चिमी हिस्से में हुए इजराइली हवाई हमले में हमास के आंतरिक सुरक्षा तंत्र के प्रमुख नईम अबू नहल की मौत हो गई, हमास सूत्रों ने बताया। इजराइली सेना ने एक वरिष्ठ हमास सदस्य पर हमला करने की पुष्टि की, लेकिन उसका नाम नहीं बताया। चिकित्सकों के मुताबिक मंगलवार को गाजा में हुए हमलों में कम से कम 7 लोग मारे गए।"
    }
   },
   {
@@ -1744,13 +1765,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-drags-away-2-year-old-girl-in-nabarangpur-remains-found-in-forest-en.mp3",
    "district": "Nabarangpur",
    "state": "Odisha",
-   "hi": {
-    "title": "नाबरंगपुर में तेंदुए ने आँगन से उठाई 2 साल की बच्ची, 18 घंटे की तलाश के बाद जंगल में मिला शव",
-    "summary": "ओडिशा के नाबरंगपुर जिले के छाड़ियापाड़ा गाँव में सोमवार शाम एक तेंदुए ने घर के आँगन से 2 साल की बच्ची को उठा लिया। रातभर चली तलाश के बाद मंगलवार सुबह जंगल में बच्ची के शव के अवशेष मिले। वन विभाग ने इलाके में निगरानी बढ़ा दी है।"
-   },
    "en": {
     "title": "Leopard drags away 2-year-old girl from courtyard in Nabarangpur; remains found in forest after 18-hour search",
     "summary": "A leopard dragged away a 2-year-old girl from the courtyard of her home in Chadiapara village of Odisha's Nabarangpur district on Monday evening. After an overnight search, the child's remains were found in a nearby forest on Tuesday morning. The Forest Department has stepped up monitoring in the area."
+   },
+   "hi": {
+    "title": "नाबरंगपुर में तेंदुए ने आँगन से उठाई 2 साल की बच्ची, 18 घंटे की तलाश के बाद जंगल में मिला शव",
+    "summary": "ओडिशा के नाबरंगपुर जिले के छाड़ियापाड़ा गाँव में सोमवार शाम एक तेंदुए ने घर के आँगन से 2 साल की बच्ची को उठा लिया। रातभर चली तलाश के बाद मंगलवार सुबह जंगल में बच्ची के शव के अवशेष मिले। वन विभाग ने इलाके में निगरानी बढ़ा दी है।"
    }
   },
   {
@@ -1767,13 +1788,13 @@
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/over-5-lakh-devotees-gather-at-luguburu-hemant-soren-joins-closing-day-november-24-en.mp3",
    "district": "Bokaro",
    "state": "Jharkhand",
-   "hi": {
-    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन",
-    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।"
-   },
    "en": {
-    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day",
-    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended."
+    "summary": "More than 5 lakh devotees gathered at Luguburu Ghantabari Dhoromgarh in Bokaro on Tuesday for the closing day of the 26th International Santal Sarna Dharma Mahasammelan, where Chief Minister Hemant Soren arrived by helicopter and addressed the gathering. Leader of the Opposition Babulal Marandi also attended.",
+    "title": "Over 5 lakh devotees gather at Luguburu as Hemant Soren joins Santhal festival's closing day"
+   },
+   "hi": {
+    "summary": "बोकारो के लुगुबुरू घांटाबाड़ी धोरोमगढ़ में मंगलवार को 26वें अंतरराष्ट्रीय संताल सरना धर्म महासम्मेलन के समापन दिवस पर 5 लाख से अधिक श्रद्धालु जुटे। मुख्यमंत्री हेमंत सोरेन हेलिकॉप्टर से पहुंचे और सभा को संबोधित किया, जबकि नेता प्रतिपक्ष बाबूलाल मरांडी भी महासम्मेलन में शामिल हुए।",
+    "title": "लुगुबुरू में 5 लाख से अधिक श्रद्धालुओं का सैलाब, समापन दिवस पर पहुंचे मुख्यमंत्री हेमंत सोरेन"
    }
   },
   {
@@ -1788,13 +1809,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rahul-gandhi-rajiv-security-removed-killed-claim-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-rajiv-security-removed-killed-claim-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rahul-gandhi-rajiv-security-removed-killed-claim-november-24-en.mp3",
-   "hi": {
-    "title": "राजीव गांधी की सुरक्षा जानबूझकर हटाई गई थी, ताकि उनकी हत्या हो सके: राहुल गांधी का बड़ा आरोप",
-    "summary": "राहुल गांधी ने आरोप लगाया है कि उनके पिता राजीव गांधी की सुरक्षा जानबूझकर हटाई गई थी, ताकि उनकी हत्या हो सके। सोनिया गांधी और प्रियंका गांधी वाड्रा के साथ किताब 'बिलॉन्गिंग: अ जर्नी ऑफ लव' पर हुई वीडियो बातचीत में उन्होंने कहा कि उन्होंने माँ को पहले ही चेताया था कि अगर पिता की सुरक्षा पर ध्यान नहीं दिया गया तो उन्हें उनके अंतिम संस्कार के लिए लौटना पड़ेगा।"
-   },
    "en": {
     "title": "Rajiv Gandhi's security was removed so he could be killed, alleges Rahul Gandhi in memoir conversation",
     "summary": "Rahul Gandhi has alleged that his father Rajiv Gandhi's security was deliberately withdrawn so that he could be killed, recalling in a video conversation with Sonia and Priyanka Gandhi that he had warned his mother he would return home for his father's funeral. Sonia Gandhi said the 1991 Bihar tour, when stones were thrown at Rajiv's open jeep, convinced her the danger was real."
+   },
+   "hi": {
+    "title": "राजीव गांधी की सुरक्षा जानबूझकर हटाई गई थी, ताकि उनकी हत्या हो सके: राहुल गांधी का बड़ा आरोप",
+    "summary": "राहुल गांधी ने आरोप लगाया है कि उनके पिता राजीव गांधी की सुरक्षा जानबूझकर हटाई गई थी, ताकि उनकी हत्या हो सके। सोनिया गांधी और प्रियंका गांधी वाड्रा के साथ किताब 'बिलॉन्गिंग: अ जर्नी ऑफ लव' पर हुई वीडियो बातचीत में उन्होंने कहा कि उन्होंने माँ को पहले ही चेताया था कि अगर पिता की सुरक्षा पर ध्यान नहीं दिया गया तो उन्हें उनके अंतिम संस्कार के लिए लौटना पड़ेगा।"
    }
   },
   {
@@ -1809,13 +1830,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vaibhav-sooryavanshi-fastest-list-a-hundred-28-balls-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-fastest-list-a-hundred-28-balls-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vaibhav-sooryavanshi-fastest-list-a-hundred-28-balls-november-24-en.mp3",
-   "hi": {
-    "title": "28 गेंदों में शतक: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए क्रिकेट का सबसे तेज़ शतक",
-    "summary": "15 साल के वैभव सूर्यवंशी ने लिस्ट ए क्रिकेट का सबसे तेज़ शतक जड़ दिया है। दोहा में एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ इंडिया ए के लिए उन्होंने सिर्फ 28 गेंदों में 100 रन बनाए और जेक फ्रेजर-मैकगर्क के 29 गेंदों के रिकॉर्ड को तोड़ दिया। 5 महीने पहले वे इसी रिकॉर्ड से 1 हिट दूर रह गए थे।"
-   },
    "en": {
     "title": "Vaibhav Sooryavanshi smashes fastest List-A hundred in history, 28 balls, as India A chase 250 against UAE",
     "summary": "15-year-old Vaibhav Sooryavanshi has broken the record for the fastest century in List-A cricket, reaching 100 in just 28 balls for India A against UAE in the Asia Cup Rising Stars in Doha. He went past Jake Fraser-McGurk's 29-ball hundred from 2023-24, five months after falling one hit short of the same record."
+   },
+   "hi": {
+    "title": "28 गेंदों में शतक: वैभव सूर्यवंशी ने रचा इतिहास, लिस्ट ए क्रिकेट का सबसे तेज़ शतक",
+    "summary": "15 साल के वैभव सूर्यवंशी ने लिस्ट ए क्रिकेट का सबसे तेज़ शतक जड़ दिया है। दोहा में एशिया कप राइजिंग स्टार्स में यूएई के खिलाफ इंडिया ए के लिए उन्होंने सिर्फ 28 गेंदों में 100 रन बनाए और जेक फ्रेजर-मैकगर्क के 29 गेंदों के रिकॉर्ड को तोड़ दिया। 5 महीने पहले वे इसी रिकॉर्ड से 1 हिट दूर रह गए थे।"
    }
   },
   {
@@ -1830,13 +1851,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/motorola-edge-70-neo-india-launch-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/motorola-edge-70-neo-india-launch-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/motorola-edge-70-neo-india-launch-november-24-en.mp3",
-   "hi": {
-    "title": "भारत में लॉन्च हुआ Motorola Edge 70 Neo: 40,999 रुपये कीमत, 7,000mAh बैटरी और 144Hz डिस्प्ले, 1 दिसंबर से बिक्री",
-    "summary": "मोटोरोला ने भारत में Edge 70 Neo लॉन्च कर दिया है। इसकी कीमत 40,999 रुपये रखी गई है, लेकिन लॉन्च ऑफर के साथ यह 34,999 रुपये में मिलेगा। फोन में 7,000mAh बैटरी, 144Hz एमोलेड डिस्प्ले और 50MP सोनी कैमरा है, और इसकी बिक्री 1 दिसंबर से शुरू होगी।"
-   },
    "en": {
     "title": "Motorola Edge 70 Neo launched in India at Rs 40,999: 7,000mAh battery, 144Hz display, sale from December 1",
     "summary": "Motorola has launched the Edge 70 Neo in India at Rs 40,999, with launch offers bringing the effective price down to Rs 34,999. The phone packs a 7,000mAh battery, a 144Hz AMOLED display and a 50MP Sony camera, and goes on sale on December 1."
+   },
+   "hi": {
+    "title": "भारत में लॉन्च हुआ Motorola Edge 70 Neo: 40,999 रुपये कीमत, 7,000mAh बैटरी और 144Hz डिस्प्ले, 1 दिसंबर से बिक्री",
+    "summary": "मोटोरोला ने भारत में Edge 70 Neo लॉन्च कर दिया है। इसकी कीमत 40,999 रुपये रखी गई है, लेकिन लॉन्च ऑफर के साथ यह 34,999 रुपये में मिलेगा। फोन में 7,000mAh बैटरी, 144Hz एमोलेड डिस्प्ले और 50MP सोनी कैमरा है, और इसकी बिक्री 1 दिसंबर से शुरू होगी।"
    }
   },
   {
@@ -1851,13 +1872,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nahel-merzouk-murder-trial-versailles-court-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nahel-merzouk-murder-trial-versailles-court-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nahel-merzouk-murder-trial-versailles-court-november-24-en.mp3",
-   "hi": {
-    "title": "नाहेल मर्ज़ूक को गोली मारने वाला फ्रांसीसी पुलिसकर्मी हत्या के मुकदमे का सामना करेगा, वर्साय कोर्ट का फैसला",
-    "summary": "फ्रांस की एक अपील अदालत ने फैसला दिया है कि जून 2023 में नैन्टेयर में ट्रैफिक जांच के दौरान 17 साल के नाहेल मर्ज़ूक को गोली मारकर मारने वाला पुलिसकर्मी हत्या के मुकदमे का सामना करेगा। यह फैसला कुछ महीने पहले हत्या का आरोप घटाकर कम गंभीर धारा में बदले जाने के बाद आया है।"
-   },
    "en": {
     "title": "French officer who shot dead teenager Nahel Merzouk to stand trial for murder, Versailles court rules",
     "summary": "A French appeals court has ruled that the police officer who shot dead 17-year-old Nahel Merzouk during a traffic stop in Nanterre in June 2023 will stand trial for murder. The decision restores the murder charge months after it was lowered to a lesser offence."
+   },
+   "hi": {
+    "title": "नाहेल मर्ज़ूक को गोली मारने वाला फ्रांसीसी पुलिसकर्मी हत्या के मुकदमे का सामना करेगा, वर्साय कोर्ट का फैसला",
+    "summary": "फ्रांस की एक अपील अदालत ने फैसला दिया है कि जून 2023 में नैन्टेयर में ट्रैफिक जांच के दौरान 17 साल के नाहेल मर्ज़ूक को गोली मारकर मारने वाला पुलिसकर्मी हत्या के मुकदमे का सामना करेगा। यह फैसला कुछ महीने पहले हत्या का आरोप घटाकर कम गंभीर धारा में बदले जाने के बाद आया है।"
    }
   },
   {
@@ -1872,16 +1893,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/three-sanitation-workers-die-septic-tank-bachupally-toxic-gas-suspected-en.mp3",
-   "district": "Medchal-Malkajgiri",
-   "state": "Telangana",
+   "en": {
+    "title": "Three sanitation workers die in septic tank in Bachupally, toxic gas suspected",
+    "summary": "Three sanitation workers employed by septic-tank cleaning agency HR Invests died in an underground septic tank at an apartment complex in Bachupally on Tuesday. Police say the first worker went down to clean the tank and lost consciousness, and the two others who went in to rescue him also died. A case has been registered and the police are investigating toxic gases and safety arrangements."
+   },
    "hi": {
     "title": "बाचुपल्ली में सेप्टिक टैंक की सफाई के दौरान 3 कर्मचारियों की मौत, जहरीली गैस का शक",
     "summary": "बाचुपल्ली में एक अपार्टमेंट परिसर के भूमिगत सेप्टिक टैंक में मंगलवार को 3 सफाई कर्मचारियों की मौत हो गई। तीनों सेप्टिक टैंक सफाई एजेंसी एचआर इन्वेस्ट्स के कर्मचारी थे। पुलिस के मुताबिक पहला कर्मचारी टैंक की सफाई के लिए नीचे उतरा और बेहोश हो गया, उसे बचाने गए 2 साथियों की भी मौत हो गई। मामला दर्ज कर जहरीली गैस और सुरक्षा इंतज़ामों की जांच की जा रही है।"
    },
-   "en": {
-    "title": "Three sanitation workers die in septic tank in Bachupally, toxic gas suspected",
-    "summary": "Three sanitation workers employed by septic-tank cleaning agency HR Invests died in an underground septic tank at an apartment complex in Bachupally on Tuesday. Police say the first worker went down to clean the tank and lost consciousness, and the two others who went in to rescue him also died. A case has been registered and the police are investigating toxic gases and safety arrangements."
-   }
+   "district": "Medchal-Malkajgiri",
+   "state": "Telangana"
   },
   {
    "id": "tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes",
@@ -1895,13 +1916,13 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-cars-costlier-december-1-price-rise-hyundai-audi-hikes-en.mp3",
-   "hi": {
-    "title": "1 दिसंबर से महंगी होंगी टाटा की कारें, 0.5% बढ़ेंगे दाम; हुंडई और ऑडी भी बढ़ा रहीं कीमतें",
-    "summary": "टाटा मोटर्स पैसेंजर व्हीकल्स 1 दिसंबर 2026 से अपनी सभी कारों और एसयूवी की कीमतों में औसतन 0.5% की बढ़ोतरी करेगी, जिसमें इलेक्ट्रिक गाड़ियां भी शामिल हैं। हुंडई चुनिंदा मॉडलों पर 8,000 रुपये तक और ऑडी 1 जनवरी से 2% तक दाम बढ़ाएगी, जबकि मारुति सुजुकी 22 नवंबर से ही करीब 0.31% की बढ़ोतरी कर चुकी है। कंपनियों ने बढ़ती लागत को वजह बताया है।"
-   },
    "en": {
     "title": "Tata cars to cost more from December 1 as prices rise 0.5%; Hyundai and Audi also hike rates",
     "summary": "Tata Motors Passenger Vehicles will raise prices across its entire cars and SUVs range, including electric vehicles, by an average of 0.5 per cent from December 1, 2026. Hyundai will raise select models by up to Rs 8,000 from the same day, Audi by up to 2 per cent from January 1, and Maruti Suzuki has already raised prices by about 0.31 per cent from November 22. Carmakers blame persistently high input costs."
+   },
+   "hi": {
+    "title": "1 दिसंबर से महंगी होंगी टाटा की कारें, 0.5% बढ़ेंगे दाम; हुंडई और ऑडी भी बढ़ा रहीं कीमतें",
+    "summary": "टाटा मोटर्स पैसेंजर व्हीकल्स 1 दिसंबर 2026 से अपनी सभी कारों और एसयूवी की कीमतों में औसतन 0.5% की बढ़ोतरी करेगी, जिसमें इलेक्ट्रिक गाड़ियां भी शामिल हैं। हुंडई चुनिंदा मॉडलों पर 8,000 रुपये तक और ऑडी 1 जनवरी से 2% तक दाम बढ़ाएगी, जबकि मारुति सुजुकी 22 नवंबर से ही करीब 0.31% की बढ़ोतरी कर चुकी है। कंपनियों ने बढ़ती लागत को वजह बताया है।"
    }
   },
   {
@@ -2094,8 +2115,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोंडा: कार्तिक पूर्णिमा पर सरयू के घाटों पर उमड़ा आस्था का सैलाब, लाखों ने लगाई डुबकी",
     "summary": "कार्तिक पूर्णिमा पर मंगलवार को गोंडा में सरयू के घाटों पर भोर से ही श्रद्धालुओं का सैलाब उमड़ पड़ा। करनैलगंज में लाखों लोगों ने सरयू में डुबकी लगाई, जिले भर की नदियों और सरोवरों के तट पर मेले लगे। पूरे उत्तर प्रदेश में अयोध्या, वाराणसी और प्रयागराज के घाटों पर भी भारी भीड़ रही, और शाम को वाराणसी में देव दीपावली पर 11 लाख दीये जलाए जाने थे।"
@@ -2103,28 +2122,30 @@
    "en": {
     "title": "Gonda: Lakhs take a holy dip in the Saryu on Kartik Purnima, fairs line the ghats",
     "summary": "Devotees thronged the Saryu ghats in Gonda from before dawn on Kartik Purnima, with lakhs taking a dip at Karnailganj and fairs held along the rivers and lakes across the district. Across Uttar Pradesh, crowds gathered at the ghats of Ayodhya, Varanasi and Prayagraj, and Varanasi prepared to light 11 lakh lamps for Dev Deepawali in the evening."
-   }
+   },
+   "district": "Gonda",
+   "state": "Uttar Pradesh"
   },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-unemployment-allowance-2000-from-january-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-bengal-bharosa-unemployment-allowance-2000-from-january-hi.mp3",
    "breaking": false,
    "category": "Government Schemes",
+   "en": {
+    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived.",
+    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived"
+   },
    "featured": false,
+   "hi": {
+    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।",
+    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री"
+   },
    "id": "west-bengal-bharosa-unemployment-allowance-2000-from-january",
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-bengal-bharosa-unemployment-allowance-2000-from-january.jpg",
    "publishedAt": "2026-11-24T15:07:35+05:30",
    "source": "PrimeFeed Desk",
    "sub": "State Schemes",
-   "trending": true,
-   "hi": {
-    "title": "बंगाल में बेरोजगार युवाओं को 2,000 रुपये महीना: 'भरोसा' योजना जनवरी से, सरकारी नौकरी की परीक्षा अब फ्री",
-    "summary": "पश्चिम बंगाल सरकार ने बेरोजगार युवाओं के लिए 'भरोसा' योजना की घोषणा की है — जनवरी 2027 से स्नातकों और आईटीआई डिप्लोमा धारकों को 2,000 रुपये महीना और गैर-स्नातकों को 1,500 रुपये महीना मिलेगा। मुख्यमंत्री सुवेंदु अधिकारी ने यह भी ऐलान किया कि अब से राज्य सरकार की किसी भी भर्ती परीक्षा के लिए आवेदन शुल्क नहीं लिया जाएगा।"
-   },
-   "en": {
-    "title": "West Bengal's unemployed youth to get ₹2,000 a month from January under 'Bharosa' scheme; government job exam fees waived",
-    "summary": "West Bengal has announced 'Bharosa', a monthly allowance for unemployed youth — ₹2,000 a month for graduates and ITI diploma holders and ₹1,500 for non-graduates from January 2027. Chief Minister Suvendu Adhikari also announced that application fees for all state government recruitment exams will be waived."
-   }
+   "trending": true
   },
   {
    "id": "poonch-loc-forest-fires-mendhar-balakote-november-24",
@@ -2339,8 +2360,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-dowry-death-fir-husband-in-laws-mishraulia-november-24-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
    "hi": {
     "title": "गोंडा: 21 वर्षीय गर्भवती विवाहिता की दहेज हत्या में पति, सास-ससुर और 2 देवरों पर एफ़आईआर",
     "summary": "गोंडा पुलिस ने 21 वर्षीय गर्भवती विवाहिता नंदिनी की मौत के मामले में उसके पति, सास-ससुर और 2 देवरों के खिलाफ दहेज हत्या की प्राथमिकी दर्ज की है। नंदिनी 6 माह की गर्भवती थी और रविवार को उसका शव मिश्रौलिया गांव में उसके घर में फंदे से लटका मिला था। पिता का आरोप है कि बाइक और सोने की चेन की मांग पूरी न होने पर उसकी गला दबाकर हत्या की गई।"
@@ -2348,7 +2367,9 @@
    "en": {
     "title": "Gonda: FIR against husband, in-laws in dowry death of 21-year-old pregnant woman",
     "summary": "Police in Gonda have registered a dowry-death case against the husband, parents-in-law and 2 brothers-in-law of Nandini, a 21-year-old woman 6 months pregnant, who was found hanging at her home in Mishraulia village on Sunday. Her father alleges she was strangled over demands for a motorcycle and a gold chain."
-   }
+   },
+   "district": "Gonda",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "kallakurichi-tvk-mla-arul-vignesh-fir-madras-hc-november-24",
@@ -2630,8 +2651,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kolkata-dhakuria-car-rams-footpath-seven-injured-november-24-en.mp3",
-   "district": "Kolkata",
-   "state": "West Bengal",
    "hi": {
     "title": "ढाकुरिया में बेकाबू कार फुटपाथ पर चढ़ी, 7 लोग घायल; 4 की हालत गंभीर, चालक हिरासत में",
     "summary": "कोलकाता के ढाकुरिया स्टेशन के पास सोमवार रात एक तेज रफ्तार कार नियंत्रण खोकर फुटपाथ पर चढ़ गई। हादसे में कम से कम 7 लोग घायल हो गए, जिनमें 4 की हालत गंभीर है। पुलिस ने गाड़ी जब्त कर ली है और चालक को हिरासत में ले लिया है।"
@@ -2639,7 +2658,9 @@
    "en": {
     "title": "Speeding car mounts footpath near Dhakuria station in Kolkata, 7 injured; 4 critical, driver detained",
     "summary": "A speeding car lost control and mounted a footpath near Dhakuria station in Kolkata late on Monday night. At least 7 people were injured, 4 of them critically. Police have seized the car and detained the driver."
-   }
+   },
+   "district": "Kolkata",
+   "state": "West Bengal"
   },
   {
    "id": "gukesh-sindarov-world-chess-championship-game-1-geneva-november-24",
@@ -2758,8 +2779,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-collision-four-children-killed-20-injured-november-24-en.mp3",
-   "district": "Kannauj",
-   "state": "Uttar Pradesh",
    "hi": {
     "title": "कन्नौज: पिकनिक जा रही स्कूली बस को ट्रक ने मारी टक्कर, 4 बच्चों की मौत; 20 घायल",
     "summary": "मंगलवार सुबह करीब 6 बजे लखनऊ-आगरा एक्सप्रेसवे पर किलोमीटर 210 के पास कौशांबी के ओरिएंटल पब्लिक स्कूल की बस खड़ी थी, तभी आलू लदे ट्रक ने उसे टक्कर मार दी। हादसे में 4 बच्चों की मौत हो गई और 20 घायल हो गए, जिन्हें राजकीय मेडिकल कॉलेज में भर्ती कराया गया है।"
@@ -2767,7 +2786,9 @@
    "en": {
     "title": "Truck rams picnic-bound school bus on Lucknow-Agra Expressway in Kannauj; four children killed, 20 injured",
     "summary": "Around 6 am on Tuesday, a potato-laden truck rammed a stationary bus of Kaushambi's Oriental Public School near milestone 210 on the Lucknow-Agra Expressway in Kannauj. Four children were killed and 20 injured; the injured have been admitted to a Government Medical College."
-   }
+   },
+   "district": "Kannauj",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24",
@@ -2781,8 +2802,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balangir-dhanu-yatra-mahout-killed-elephant-attack-festival-suspended-november-24-en.mp3",
-   "district": "Balangir",
-   "state": "Odisha",
    "hi": {
     "title": "बालांगीर धनु यात्रा में हाथी ने महावत को कुचलकर मार डाला, उत्सव रद्द",
     "summary": "बांगोमुंडा में 40वीं धनु यात्रा महोत्सव की पहली रात प्रयागराज के 61 वर्षीय महावत कल्पनाथ दुबे को उसी हाथी ने कुचल दिया, जिसे वह उत्सव के लिए उत्तर प्रदेश से लाए थे। प्रशासन ने उत्सव को अगले आदेश तक रद्द कर दिया है और वन विभाग व पुलिस जांच कर रहे हैं।"
@@ -2790,7 +2809,9 @@
    "en": {
     "title": "Elephant tramples mahout to death at Balangir's Dhanu Yatra; festival suspended",
     "summary": "On the opening night of the 40th Bangomunda Dhanu Yatra Mahotsav, 61-year-old mahout Kalpanath Dubey of Prayagraj was trampled by the elephant he had brought from Uttar Pradesh for the festival. The administration has suspended the festival until further orders, and the Forest Department and police are investigating."
-   }
+   },
+   "district": "Balangir",
+   "state": "Odisha"
   },
   {
    "id": "ramayana-day-19-1704-crore-worldwide-ranbir-kapoor-biggest-grosser-november-24",
@@ -2888,8 +2909,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/churachandpur-idps-warn-total-shutdown-november-30-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/churachandpur-idps-warn-total-shutdown-november-30-november-24-en.mp3",
-   "district": "Churachandpur",
-   "state": "Manipur",
    "hi": {
     "title": "चुराचांदपुर के विस्थापितों की चेतावनी: मांगें नहीं मानीं तो 30 नवंबर से पूर्ण बंद",
     "summary": "मणिपुर के चुराचांदपुर जिले में रह रहे 30,896 विस्थापितों की समिति ने सरकार को चेतावनी दी है कि अगर उनकी लंबित मांगें पूरी नहीं हुईं तो 30 नवंबर से पूर्ण बंद किया जाएगा।"
@@ -2897,7 +2916,9 @@
    "en": {
     "title": "Churachandpur IDPs warn of total shutdown from November 30 if demands go unmet",
     "summary": "The Joint Internally Displaced Persons Committee in Manipur's Churachandpur district has warned of a total shutdown from November 30 if the government does not address the pending demands of the district's 30,896 displaced people."
-   }
+   },
+   "district": "Churachandpur",
+   "state": "Manipur"
   },
   {
    "id": "gopalganj-awami-league-factions-clash-20-injured-november-23",
@@ -2932,8 +2953,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/lakhisarai-scorpio-truck-collision-five-killed-three-injured-november-24-en.mp3",
-   "district": "Lakhisarai",
-   "state": "Bihar",
    "hi": {
     "title": "लखीसराय-जमुई मार्ग पर स्कॉर्पियो-ट्रक की भीषण टक्कर, 5 की मौत; 3 घायल",
     "summary": "बिहार के लखीसराय जिले में मंगलवार अहले सुबह स्कॉर्पियो और ट्रक की आमने-सामने टक्कर में 5 लोगों की मौत हो गई। हादसा तेतरहाट थाना क्षेत्र के गुणसागर गांव के पास हुआ।"
@@ -2941,7 +2960,9 @@
    "en": {
     "title": "Five killed, three injured as Scorpio collides with truck on Lakhisarai-Jamui road",
     "summary": "Five people were killed and three others seriously injured in a head-on collision between a Scorpio and a truck near Gunsagar village in Bihar's Lakhisarai district early on Tuesday morning."
-   }
+   },
+   "district": "Lakhisarai",
+   "state": "Bihar"
   },
   {
    "id": "haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24",
@@ -2955,8 +2976,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haveri-sugarcane-farmers-agree-rs-3225-per-tonne-after-14-hour-talks-november-24-en.mp3",
-   "district": "Haveri",
-   "state": "Karnataka",
    "hi": {
     "title": "हावेरी में गन्ना किसानों की आधी जीत: 14 घंटे की बातचीत के बाद 3,225 रुपये प्रति टन पर सहमति",
     "summary": "कर्नाटक के हावेरी में गन्ने के दाम को लेकर चल रहा किसानों का आंदोलन रंग लाया। रात 2 बजे तक चली 14 घंटे की बातचीत के बाद चीनी कारखाना मालिकों ने प्रति टन 3,225 रुपये देने पर सहमति जताई।"
@@ -2964,7 +2983,9 @@
    "en": {
     "title": "Haveri sugarcane farmers win partial victory: Rs 3,225 per tonne agreed after 14-hour talks",
     "summary": "Sugarcane farmers in Karnataka's Haveri district ended their protest after factory owners agreed to pay Rs 3,225 per tonne following 14 hours of talks that ran till 2 am on Tuesday."
-   }
+   },
+   "district": "Haveri",
+   "state": "Karnataka"
   },
   {
    "id": "saharanpur-co-removed-after-owaisi-guard-of-honour",
@@ -2978,16 +2999,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saharanpur-co-removed-after-owaisi-guard-of-honour.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharanpur-co-removed-after-owaisi-guard-of-honour-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saharanpur-co-removed-after-owaisi-guard-of-honour-en.mp3",
-   "district": "Saharanpur",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "Mistook Owaisi for a judge and saluted him: Saharanpur Sadar CO removed",
+    "summary": "Police in Saharanpur had arranged a guard of honour for a Supreme Court judge due at the circuit house on Saturday, but AIMIM chief Asaduddin Owaisi arrived first and was mistaken for the judge. After a video of the salute went viral, an inquiry was held and Sadar Circle Officer Pawan Kumar was removed from his post on Monday and shifted to traffic duties."
+   },
    "hi": {
     "title": "जज समझकर ओवैसी को दे दी सलामी, सहारनपुर के सदर सीओ हटाए गए",
     "summary": "शनिवार को सहारनपुर के सर्किट हाउस में सुप्रीम कोर्ट के जज के स्वागत की तैयारी थी, लेकिन उनसे पहले पहुंचे एआईएमआईएम प्रमुख असदुद्दीन ओवैसी को पुलिस ने गार्ड ऑफ ऑनर दे दिया। वीडियो वायरल होने के बाद जांच हुई और सोमवार को सदर सीओ पवन कुमार को हटाकर ट्रैफिक सीओ बना दिया गया।"
    },
-   "en": {
-    "title": "Mistook Owaisi for a judge and saluted him: Saharanpur Sadar CO removed",
-    "summary": "Police in Saharanpur had arranged a guard of honour for a Supreme Court judge due at the circuit house on Saturday, but AIMIM chief Asaduddin Owaisi arrived first and was mistaken for the judge. After a video of the salute went viral, an inquiry was held and Sadar Circle Officer Pawan Kumar was removed from his post on Monday and shifted to traffic duties."
-   }
+   "district": "Saharanpur",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali",
@@ -3001,16 +3022,16 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anant-ambani-donates-5-crore-kashi-vishwanath-dev-deepawali-en.mp3",
-   "district": "Varanasi",
-   "state": "Uttar Pradesh",
+   "en": {
+    "title": "Anant Ambani donates Rs 5 crore to Kashi Vishwanath Dham, Rs 1 crore to Maa Annapurna",
+    "summary": "A day before Dev Deepawali, Reliance Industries executive director Anant Ambani visited Kashi on Monday and offered prayers at the Kashi Vishwanath and Maa Annapurna temples. He donated Rs 5 crore to the Shri Kashi Vishwanath Dham, the largest donation by the Ambani family to the Dham so far, and Rs 1 crore to the Maa Annapurna temple."
+   },
    "hi": {
     "title": "काशी विश्वनाथ धाम को अनंत अंबानी ने दिए 5 करोड़ रुपये, मां अन्नपूर्णा को 1 करोड़",
     "summary": "सोमवार को वाराणसी पहुंचे रिलायंस इंडस्ट्रीज के कार्यकारी निदेशक अनंत अंबानी ने बाबा विश्वनाथ और मां अन्नपूर्णा के दर्शन किए। उन्होंने विश्वनाथ धाम को 5 करोड़ रुपये और मां अन्नपूर्णा मंदिर को 1 करोड़ रुपये का दान दिया। अंबानी परिवार की ओर से धाम को यह अब तक का सबसे बड़ा दान है।"
    },
-   "en": {
-    "title": "Anant Ambani donates Rs 5 crore to Kashi Vishwanath Dham, Rs 1 crore to Maa Annapurna",
-    "summary": "A day before Dev Deepawali, Reliance Industries executive director Anant Ambani visited Kashi on Monday and offered prayers at the Kashi Vishwanath and Maa Annapurna temples. He donated Rs 5 crore to the Shri Kashi Vishwanath Dham, the largest donation by the Ambani family to the Dham so far, and Rs 1 crore to the Maa Annapurna temple."
-   }
+   "district": "Varanasi",
+   "state": "Uttar Pradesh"
   },
   {
    "id": "alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners",
@@ -3024,8 +3045,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alwar-police-return-114-lost-mobile-phones-worth-rs-33-lakh-to-owners-en.mp3",
-   "district": "Alwar",
-   "state": "Rajasthan",
    "hi": {
     "title": "अलवर पुलिस ने लौटाए 33 लाख रुपये के 114 गुमशुदा मोबाइल, सीईआईआर पोर्टल से हुआ ट्रेस",
     "summary": "राजस्थान के अलवर में पुलिस ने सोमवार को 114 गुमशुदा मोबाइल फोन उनके मालिकों को लौटा दिए। इन मोबाइलों की अनुमानित कीमत करीब 33 लाख रुपये है।"
@@ -3033,7 +3052,9 @@
    "en": {
     "title": "Alwar police return 114 lost mobile phones worth Rs 33 lakh to owners under Operation Cyber Sangram",
     "summary": "Police in Rajasthan's Alwar district on Monday returned 114 lost mobile phones, worth an estimated Rs 33 lakh, to their rightful owners under Operation Cyber Sangram 3.0."
-   }
+   },
+   "district": "Alwar",
+   "state": "Rajasthan"
   },
   {
    "id": "supreme-court-children-not-toys-for-parents-mother-keeps-custody-of-two-sons",
@@ -3219,8 +3240,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/skims-srinagar-psma-pet-scan-neuro-navigation-brain-surgery-november-23.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/skims-srinagar-psma-pet-scan-neuro-navigation-brain-surgery-november-23-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/skims-srinagar-psma-pet-scan-neuro-navigation-brain-surgery-november-23-en.mp3",
-   "district": "Srinagar",
-   "state": "Jammu and Kashmir",
    "hi": {
     "title": "श्रीनगर: स्किम्स में प्रोस्टेट कैंसर की पीएसएमए पेट स्कैन और ब्रेन सर्जरी की नई सुविधा, इलाज के लिए अब बाहर नहीं जाना होगा",
     "summary": "शेर-ए-कश्मीर इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ (स्किम्स), सौरा में प्रोस्टेट कैंसर के मरीजों के लिए पीएसएमए पेट स्कैन और दिमाग की सर्जरी के लिए न्यूरो नेविगेशन प्रणाली शुरू हो गई है। निदेशक प्रोफेसर (डॉक्टर) एम. अशरफ गनी ने सोमवार को इन सुविधाओं का उद्घाटन किया — अब इन इलाजों के लिए मरीजों को जम्मू-कश्मीर से बाहर नहीं जाना पड़ेगा।"
@@ -3228,7 +3247,9 @@
    "en": {
     "title": "SKIMS Srinagar adds PSMA PET scan for prostate cancer and neuro-navigation for brain surgery",
     "summary": "The Sher-i-Kashmir Institute of Medical Sciences (SKIMS), Soura, has introduced a PSMA PET scan for prostate cancer patients and a neuro-navigation system for brain surgery. Director Prof. (Dr.) M. Ashraf Ganie inaugurated the facilities on Monday, saying patients will no longer need to travel outside Jammu and Kashmir for these services."
-   }
+   },
+   "district": "Srinagar",
+   "state": "Jammu and Kashmir"
   },
   {
    "id": "trump-hush-money-conviction-federal-court-second-circuit-ruling-november-23",
@@ -3270,27 +3291,6 @@
    "en": {
     "title": "Kashmir winter break for nursery to Class 5 likely from December 1, education minister signals",
     "summary": "Education Minister Shameema Firdous said on Monday that the government is considering winter vacations from December 1 for children from nursery to Class 5 in Kashmir. Children’s health is the first priority, she said, though parents are divided — some want the break, others say it is too early."
-   }
-  },
-  {
-   "id": "nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T04:51:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nvidia-shares-soar-31-percent-record-952-billion-gain-huang-return-november-23-en.mp3",
-   "hi": {
-    "title": "हुआंग की वापसी पर एनवीडिया का शेयर 31% उछला, 1 दिन में 952 अरब डॉलर बढ़ा कंपनी का बाजार मूल्य",
-    "summary": "जेनसन हुआंग के सीईओ पद पर लौटते ही एनवीडिया के शेयर सोमवार को 31.48% चढ़कर 165.05 डॉलर पर बंद हुए — 2003 के बाद कंपनी का सबसे बड़ा एकदिनी उछाल। 1 दिन में कंपनी का बाजार मूल्य 952 अरब डॉलर बढ़ा, जो किसी भी अमेरिकी कंपनी के लिए रिकॉर्ड है। नैस्डैक 6.51% और एसएंडपी 500 4.73% चढ़ा।"
-   },
-   "en": {
-    "title": "Nvidia shares soar 31% as Huang returns, adding a record $952 billion in a day",
-    "summary": "Nvidia shares closed 31.48% higher at $165.05 on Monday after Jensen Huang returned as CEO — the stock’s biggest one-day gain since 2003. The company added a record $952 billion in market value in a single session, while the Nasdaq jumped 6.51% and the S&P 500 4.73%."
    }
   }
  ]
