@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T16:59:57+05:30",
+ "updatedAt": "2026-11-25T17:13:45+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Reasi",
+   "en": {
+    "title": "Reasi crackdown on terror funding: land of five accused operating from Pakistan attached",
+    "summary": "Jammu and Kashmir DGP Nalin Prabhat has ordered the attachment of about 29 kanals of land belonging to five men from Reasi who are accused of operating from Pakistan. Police say they were trying to sell the land to fund terrorist activities."
+   },
+   "featured": false,
+   "hi": {
+    "title": "रियासी: पाकिस्तान से आतंक की फंडिंग पर प्रहार, 5 आरोपियों की 29 कनाल ज़मीन कुर्क",
+    "summary": "जम्मू कश्मीर के डीजीपी नलिन प्रभात ने रियासी के 5 आरोपियों की करीब 29 कनाल ज़मीन कुर्क करने का आदेश दिया है। पुलिस का कहना है कि ये लोग पाकिस्तान से आतंक चला रहे थे और ज़मीन बेचकर मिलने वाले पैसे को आतंकवाद में लगाने की तैयारी में थे।"
+   },
+   "id": "jk-police-attach-29-kanal-land-five-reasi-accused-pakistan-november-25",
+   "source": "PrimeFeed Desk",
+   "state": "Jammu and Kashmir",
+   "sub": "Police & Crime",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:08:51+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jk-police-attach-29-kanal-land-five-reasi-accused-pakistan-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jk-police-attach-29-kanal-land-five-reasi-accused-pakistan-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jk-police-attach-29-kanal-land-five-reasi-accused-pakistan-november-25-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "Sensex jumps 1,502 points to close at 83,938, Nifty ends at 25,819 after 2,062-point intraday surge",
+    "summary": "The Sensex closed 1,502.29 points higher at 83,938.28 on Wednesday, while the Nifty ended 469.60 points up at 25,819.25. Strong foreign fund inflows and softer crude oil prices powered a sharp rebound from Monday's fall."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सेंसेक्स 1,502 अंक चढ़कर 83,938 पर बंद, निफ्टी 25,819 पर — दिन में 2,062 अंक तक उछला",
+    "summary": "सेंसेक्स बुधवार को 1,502.29 अंक चढ़कर 83,938.28 पर बंद हुआ, जबकि निफ्टी 469.60 अंक बढ़कर 25,819.25 पर बंद हुआ। विदेशी निवेशकों की भारी खरीदारी और कच्चे तेल की नरमी से बाज़ार ने सोमवार की गिरावट से ज़ोरदार वापसी की।"
+   },
+   "id": "sensex-jumps-1502-points-nifty-closes-25819-november-25",
+   "source": "PrimeFeed Desk",
+   "sub": "Share Market",
+   "trending": true,
+   "publishedAt": "2026-11-25T17:08:51+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-jumps-1502-points-nifty-closes-25819-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-jumps-1502-points-nifty-closes-25819-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-jumps-1502-points-nifty-closes-25819-november-25-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Politics",
@@ -3252,50 +3296,6 @@
     "title": "Russian strikes kill 2, injure 40 in Zaporizhzhia; five-storey building partly destroyed",
     "summary": "Russian strikes on the southeastern Ukrainian city of Zaporizhzhia early on Tuesday killed two people and injured 40, including four children. A private home was destroyed and a five-storey apartment building was partly demolished."
    }
-  },
-  {
-   "id": "colombia-villavicencio-car-bomb-meta-government-dozens-injured-november-24",
-   "category": "World",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T15:14:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/colombia-villavicencio-car-bomb-meta-government-dozens-injured-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/colombia-villavicencio-car-bomb-meta-government-dozens-injured-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/colombia-villavicencio-car-bomb-meta-government-dozens-injured-november-24-en.mp3",
-   "hi": {
-    "title": "कोलंबिया के विलाविसेंसियो में सरकारी दफ्तर के बाहर कार बम धमाका, कम से कम 19 घायल",
-    "summary": "कोलंबिया के विलाविसेंसियो शहर में मेटा विभाग के सरकारी मुख्यालय के बाहर सोमवार देर रात कार बम धमाका हुआ, जिसमें कम से कम 19 लोग घायल हुए, जिनमें 5 सुरक्षा गार्ड भी शामिल हैं। इमारत और आसपास की दुकानों को भारी नुकसान पहुंचा है। किसी की मौत की खबर नहीं है। राष्ट्रपति एबेलार्डो दे ला एस्प्रीएला ने नशीले पदार्थों की तस्करी करने वाले गिरोहों को ज़िम्मेदार ठहराया है।"
-   },
-   "en": {
-    "title": "Car bomb outside Meta government offices in Colombia's Villavicencio injures at least 19",
-    "summary": "A car bomb exploded outside the Meta department government headquarters in Villavicencio, Colombia, late on Monday, injuring at least 19 people, including 5 security guards, and damaging the building and nearby shops. No deaths have been reported. President Abelardo de la Espriella blamed drug-trafficking groups and vowed they would be held to account."
-   }
-  },
-  {
-   "id": "gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24",
-   "category": "Dharm-Astrology",
-   "sub": "Vrat & Tyohar",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-24T15:14:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-kartik-purnima-saryu-ghats-lakhs-devotees-november-24-en.mp3",
-   "hi": {
-    "title": "गोंडा: कार्तिक पूर्णिमा पर सरयू के घाटों पर उमड़ा आस्था का सैलाब, लाखों ने लगाई डुबकी",
-    "summary": "कार्तिक पूर्णिमा पर मंगलवार को गोंडा में सरयू के घाटों पर भोर से ही श्रद्धालुओं का सैलाब उमड़ पड़ा। करनैलगंज में लाखों लोगों ने सरयू में डुबकी लगाई, जिले भर की नदियों और सरोवरों के तट पर मेले लगे। पूरे उत्तर प्रदेश में अयोध्या, वाराणसी और प्रयागराज के घाटों पर भी भारी भीड़ रही, और शाम को वाराणसी में देव दीपावली पर 11 लाख दीये जलाए जाने थे।"
-   },
-   "en": {
-    "title": "Gonda: Lakhs take a holy dip in the Saryu on Kartik Purnima, fairs line the ghats",
-    "summary": "Devotees thronged the Saryu ghats in Gonda from before dawn on Kartik Purnima, with lakhs taking a dip at Karnailganj and fairs held along the rivers and lakes across the district. Across Uttar Pradesh, crowds gathered at the ghats of Ayodhya, Varanasi and Prayagraj, and Varanasi prepared to light 11 lakh lamps for Dev Deepawali in the evening."
-   },
-   "district": "Gonda",
-   "state": "Uttar Pradesh"
   }
  ]
 }
