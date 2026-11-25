@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-25T08:02:23+05:30",
+ "updatedAt": "2026-11-25T08:19:07+05:30",
  "articles": [
+  {
+   "id": "gonda-cattle-theft-gang-busted-three-arrested-buffaloes-recovered-november-25",
+   "category": "Crime & Law",
+   "sub": "Police & Crime",
+   "breaking": false,
+   "featured": false,
+   "trending": false,
+   "publishedAt": "2026-11-25T08:19:07+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-cattle-theft-gang-busted-three-arrested-buffaloes-recovered-november-25.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-cattle-theft-gang-busted-three-arrested-buffaloes-recovered-november-25-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-cattle-theft-gang-busted-three-arrested-buffaloes-recovered-november-25-en.mp3",
+   "district": "Gonda",
+   "state": "Uttar Pradesh",
+   "hi": {
+    "title": "गोंडा में पशु चोर गिरोह का भंडाफोड़: 3 आरोपी गिरफ्तार, चोरी की 3 भैंसें और बाइक बरामद",
+    "summary": "गोंडा पुलिस ने पशु चोरी करने वाले एक गिरोह का भंडाफोड़ किया है। पुलिस ने 3 आरोपियों को गिरफ्तार कर चोरी की 3 भैंसें और अपराध में इस्तेमाल की गई बाइक बरामद की है। आरोपियों ने इस महीने जिले में हुई 3 अन्य पशु चोरी की घटनाओं को भी स्वीकार किया है। मोतीगंज और देहात कोतवाली थानों में मामले दर्ज किए गए हैं।"
+   },
+   "en": {
+    "title": "Gonda police bust cattle-theft gang: 3 arrested, 3 stolen buffaloes and bike recovered",
+    "summary": "Police in Gonda have busted a cattle-theft gang, arresting 3 accused and recovering 3 stolen buffaloes and the motorcycle used in the crime. The accused have admitted to 3 other cattle thefts in the district this month, and cases have been registered at Motiganj and Dehat Kotwali police stations."
+   }
+  },
+  {
+   "id": "ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24",
+   "category": "Rozgar",
+   "sub": "Sarkari Naukri",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-25T08:19:07+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24-en.mp3",
+   "hi": {
+    "title": "एनटीपीसी ने असिस्टेंट ऑफिसर भर्ती परीक्षा रद्द की, अभ्यर्थियों ने मंत्री खट्टर से जांच की मांग की",
+    "summary": "एनटीपीसी ने 15 असिस्टेंट ऑफिसर (कॉरपोरेट कम्युनिकेशन) पदों की चयन प्रक्रिया 'प्रशासनिक कारणों' से रद्द कर दी है। 1 नवंबर को हुई परीक्षा के बाद यह फैसला आया है। दोबारा परीक्षा की कोई तारीख नहीं दी गई है, इसलिए अभ्यर्थियों के एक समूह ने केंद्रीय विद्युत मंत्री एमएल खट्टर को पत्र लिखकर जांच, पारदर्शिता और प्रक्रिया बहाल करने की मांग की है।"
+   },
+   "en": {
+    "title": "NTPC cancels Assistant Officer recruitment exam; candidates write to Minister Khattar seeking inquiry",
+    "summary": "NTPC has cancelled the selection process for 15 Assistant Officer (Corporate Communication) posts, weeks after the examination held on November 1, citing 'administrative reasons'. With no re-exam date announced, a group of applicants has written to Union Power Minister M. L. Khattar seeking an inquiry, transparency and possible reinstatement of the process."
+   }
+  },
   {
    "id": "kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24",
    "category": "Health",
@@ -3247,48 +3291,6 @@
    "en": {
     "title": "Nvidia shares soar 31% as Huang returns, adding a record $952 billion in a day",
     "summary": "Nvidia shares closed 31.48% higher at $165.05 on Monday after Jensen Huang returned as CEO — the stock’s biggest one-day gain since 2003. The company added a record $952 billion in market value in a single session, while the Nasdaq jumped 6.51% and the S&P 500 4.73%."
-   }
-  },
-  {
-   "id": "pmgkay-study-13-2-percent-ineligible-beneficiaries-free-ration-november-23",
-   "category": "Government Schemes",
-   "sub": "Centre Schemes",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T04:31:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pmgkay-study-13-2-percent-ineligible-beneficiaries-free-ration-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pmgkay-study-13-2-percent-ineligible-beneficiaries-free-ration-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pmgkay-study-13-2-percent-ineligible-beneficiaries-free-ration-november-23-en.mp3",
-   "hi": {
-    "title": "मुफ्त राशन में 13.2% अपात्र लाभार्थी: कार-एसी और सरकारी नौकरी वालों को भी मिल रहा अनाज, पश्चिम बंगाल में 39.5% गड़बड़ी",
-    "summary": "खाद्य और सार्वजनिक वितरण विभाग के लिए हुए समवर्ती मूल्यांकन में पाया गया है कि मुफ्त अनाज योजना पीएमजीकेवाई के 13.2% लाभार्थी पात्रता की शर्तें पूरी नहीं करते। 51,303 परिवारों पर हुए अध्ययन में पश्चिम बंगाल में सबसे ज़्यादा 39.5%, त्रिपुरा में 39.2% और तमिलनाडु में 38.7% गड़बड़ी मिली है।"
-   },
-   "en": {
-    "title": "13.2% of free-ration beneficiaries ineligible, Centre study finds; West Bengal tops list at 39.5%",
-    "summary": "A concurrent evaluation commissioned by the Centre has found a 13.2% inclusion error among beneficiaries of the free foodgrain scheme PMGKAY. The study of 51,303 households found the highest error rates in West Bengal at 39.5%, Tripura at 39.2% and Tamil Nadu at 38.7%."
-   }
-  },
-  {
-   "id": "adani-airports-360-one-rs-2790-crore-stake-sale-18-billion-valuation-november-23",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-24T04:31:35+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/adani-airports-360-one-rs-2790-crore-stake-sale-18-billion-valuation-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-airports-360-one-rs-2790-crore-stake-sale-18-billion-valuation-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/adani-airports-360-one-rs-2790-crore-stake-sale-18-billion-valuation-november-23-en.mp3",
-   "hi": {
-    "title": "अदाणी एयरपोर्ट्स में 360 वन की 2,790 करोड़ रुपये की हिस्सेदारी, कंपनी का मूल्यांकन 18 अरब डॉलर",
-    "summary": "अदाणी एंटरप्राइजेज की सहायक कंपनी अदाणी एयरपोर्ट होल्डिंग्स ने 360 वन अल्टरनेट्स एसेट मैनेजमेंट से 2,790 करोड़ रुपये (करीब 30 करोड़ डॉलर) जुटाने का बाध्यकारी समझौता किया है। कंपनी में 1.55% तक हिस्सेदारी के बदले यह निवेश 18 अरब डॉलर के मूल्यांकन पर होगा, और इससे कंपनी की कुल इक्विटी जुटाव राशि करीब 1.35 अरब डॉलर हो जाएगी।"
-   },
-   "en": {
-    "title": "Adani Airports to raise Rs 2,790 crore from 360 ONE at $18 billion valuation",
-    "summary": "Adani Airport Holdings, a subsidiary of Adani Enterprises, has signed a binding agreement to raise Rs 2,790 crore (about $300 million) from 360 ONE Alternates Asset Management. The investment, for up to a 1.55% stake at an $18 billion pre-money valuation, takes the airport operator’s total equity fundraising to about $1.35 billion."
    }
   }
  ]
