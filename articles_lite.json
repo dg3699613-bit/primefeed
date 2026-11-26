@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T11:55:27+05:30",
+ "updatedAt": "2026-11-26T12:09:42+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kamarajar-port-second-container-terminal-4288-crore-cabinet-approval-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kamarajar-port-second-container-terminal-4288-crore-cabinet-approval-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "Cabinet clears Rs 4,288-crore second container terminal at Kamarajar Port, Chennai coast to get 2 million TEU capacity",
+    "summary": "The Union Cabinet on Wednesday cleared a Rs 4,288.26-crore second container terminal at Kamarajar Port near Chennai, to be built under the PPP model in 2 phases with a capacity of 2 million TEUs a year. Phase 1 is to be ready within 24 months of the award, with the concession running for 40 years."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कामराजर बंदरगाह पर 4,288 करोड़ रुपये के दूसरे कंटेनर टर्मिनल को मंज़ूरी, चेन्नई तट पर बनेगी 20 लाख टीईयू क्षमता",
+    "summary": "केंद्रीय मंत्रिमंडल ने बुधवार को चेन्नई के पास कामराजर बंदरगाह में 4,288.26 करोड़ रुपये की लागत से दूसरा कंटेनर टर्मिनल बनाने को मंज़ूरी दी। 900 मीटर लंबा टर्मिनल 2 चरणों में बनेगा और इसकी सालाना क्षमता 20 लाख टीईयू होगी। पहला चरण रियायत मिलने के 24 महीने में पूरा होगा।"
+   },
+   "id": "kamarajar-port-second-container-terminal-4288-crore-cabinet-approval-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kamarajar-port-second-container-terminal-4288-crore-cabinet-approval-november-26.jpg",
+   "publishedAt": "2026-11-26T12:05:29+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": true,
+   "district": "Chennai",
+   "state": "Tamil Nadu"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anantapur-lorry-rams-vehicle-4-killed-8-injured-tadipatri-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anantapur-lorry-rams-vehicle-4-killed-8-injured-tadipatri-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "4 killed, 8 injured as lorry rams wedding-return vehicle near Tadipatri in Anantapur",
+    "summary": "4 people were killed and 8 seriously injured in the early hours of Thursday when a lorry rammed into a vehicle returning to Tadipatri after a wedding in Hyderabad, near Rayalacheruvu in Anantapur district. 2 of the dead have been identified as Siddu and Lakshmi Prasad, both from Yadiki."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अनंतपुर में लॉरी ने शादी से लौट रहे वाहन को टक्कर मारी, 4 की मौत, 8 घायल",
+    "summary": "गुरुवार तड़के अनंतपुर ज़िले में रायलाचेरुवु के पास लॉरी ने हैदराबाद में शादी से लौटकर ताडिपत्री जा रहे वाहन को टक्कर मार दी, जिसमें 4 लोगों की मौत हो गई और 8 गंभीर रूप से घायल हो गए। मृतकों में से 2 की पहचान यादिकी के सिद्धू और लक्ष्मी प्रसाद के रूप में हुई है।"
+   },
+   "id": "anantapur-lorry-rams-vehicle-4-killed-8-injured-tadipatri-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anantapur-lorry-rams-vehicle-4-killed-8-injured-tadipatri-november-26.jpg",
+   "publishedAt": "2026-11-26T12:05:29+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "South India",
+   "trending": false,
+   "district": "Anantapur",
+   "state": "Andhra Pradesh"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-buses-off-roads-as-indefinite-transport-strike-begins-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-buses-off-roads-as-indefinite-transport-strike-begins-november-26-hi.mp3",
@@ -3294,48 +3340,6 @@
    },
    "district": "Sribhumi",
    "state": "Assam"
-  },
-  {
-   "id": "cessna-crash-horn-island-all-six-aboard-found-dead-november-25",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T11:08:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cessna-crash-horn-island-all-six-aboard-found-dead-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cessna-crash-horn-island-all-six-aboard-found-dead-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cessna-crash-horn-island-all-six-aboard-found-dead-november-25-en.mp3",
-   "en": {
-    "title": "All 6 aboard downed Cessna found dead in Gulf of Mexico as search off Mississippi's Horn Island ends",
-    "summary": "Divers found the remains of all six people aboard a Cessna 210 that crashed into the Gulf of Mexico off Mississippi's Horn Island, the US Coast Guard said on Wednesday, ending the search. The plane, carrying 4 adults and 2 boys aged 8 and 10, had left New Orleans for Fort Myers, Florida, on Tuesday afternoon when air traffic control lost contact with it."
-   },
-   "hi": {
-    "title": "मिसिसिपी के हॉर्न आइलैंड के पास समंदर में गिरे सेसना विमान के 6 सवारों के शव मिले, तलाश खत्म",
-    "summary": "अमेरिकी तटरक्षक बल ने बुधवार को कहा कि मिसिसिपी के हॉर्न आइलैंड के पास मैक्सिको की खाड़ी में गिरे सेसना 210 विमान के 6 सवारों के शव मिल गए हैं, जिसके साथ ही तलाश खत्म हो गई। विमान में 4 वयस्क और 8 और 10 साल के 2 लड़के सवार थे। वह मंगलवार दोपहर न्यू ऑरलियन्स से फ्लोरिडा के फ़ोर्ट मायर्स जा रहा था, तभी हवाई यातायात नियंत्रण से उसका संपर्क टूट गया था।"
-   }
-  },
-  {
-   "id": "jennifer-barreto-puerto-rico-wins-miss-universe-2026-november-25",
-   "category": "Entertainment",
-   "sub": "Celebrity",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T10:52:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jennifer-barreto-puerto-rico-wins-miss-universe-2026-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jennifer-barreto-puerto-rico-wins-miss-universe-2026-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jennifer-barreto-puerto-rico-wins-miss-universe-2026-november-25-en.mp3",
-   "hi": {
-    "title": "प्यूर्टो रिको की जेनिफर बैरेटो मिस यूनिवर्स 2026, भारत की काज़िया लिज़ मेजो टॉप 30 में",
-    "summary": "प्यूर्टो रिको की 27 साल की जेनिफर बैरेटो मिस यूनिवर्स 2026 बन गई हैं। सैन हुआन में हुए 75वें संस्करण के फ़ाइनल में उन्होंने 116 प्रतियोगियों को पीछे छोड़ा। भारत की काज़िया लिज़ मेजो टॉप 30 तक पहुंचीं, लेकिन टॉप 12 में जगह नहीं बना पाईं।"
-   },
-   "en": {
-    "title": "Puerto Rico's Jennifer Barreto crowned Miss Universe 2026; India's Kaziah Liz Mejo reaches Top 30",
-    "summary": "Jennifer Barreto, 27, of Puerto Rico has been crowned Miss Universe 2026. She beat 116 contestants in the final of the pageant's 75th edition in San Juan. India's Kaziah Liz Mejo reached the Top 30 but could not make it to the Top 12."
-   }
   }
  ]
 }
