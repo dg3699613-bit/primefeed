@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T13:01:10+05:30",
+ "updatedAt": "2026-11-26T13:12:47+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/koraput-church-demolished-day-after-vandalism-complaint-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/koraput-church-demolished-day-after-vandalism-complaint-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Koraput church razed a day after vandalism complaint; FIR against 7, owner says he was forced to demolish it",
+    "summary": "A church in Odisha's Koraput district was demolished with an excavator a day after its owner complained of vandalism. Police have filed an FIR against 7 people; the owner says he was pressured into razing it himself, while officials say it stood on government land."
+   },
+   "featured": false,
+   "hi": {
+    "title": "शिकायत के अगले ही दिन जेसीबी से गिरा दी गई कोरापुट की चर्च, तोड़फोड़ के 7 आरोपियों पर एफआईआर",
+    "summary": "ओडिशा के कोरापुट जिले के पतरागुड़ा गाँव में चर्च में तोड़फोड़ की शिकायत के अगले ही दिन उसे जेसीबी से गिरा दिया गया। पुलिस ने 7 लोगों के खिलाफ एफआईआर दर्ज की है; चर्च के मालिक का आरोप है कि उन्हें दबाव में आकर खुद ही ढाँचा गिराना पड़ा, जबकि अधिकारियों का कहना है कि वह सरकारी जमीन पर बना था।"
+   },
+   "id": "koraput-church-demolished-day-after-vandalism-complaint-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/koraput-church-demolished-day-after-vandalism-complaint-november-25.jpg",
+   "publishedAt": "2026-11-26T13:08:54+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Koraput",
+   "state": "Odisha"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chariot-1-foundation-models-launched-indiaai-mission-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chariot-1-foundation-models-launched-indiaai-mission-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Technology",
+   "en": {
+    "title": "India's homegrown AI foundation model Chariot-1 launched, works in English and 10 Indian languages",
+    "summary": "Chariot-1, an AI foundation model developed entirely in India, was launched in New Delhi. Built under the IndiaAI Mission, it works in English and 10 Indian languages, combining text, speech and recognition in a single architecture."
+   },
+   "featured": false,
+   "hi": {
+    "title": "भारत का अपना एआई फाउंडेशन मॉडल चैरियट-1 लॉन्च, अंग्रेजी के साथ 10 भारतीय भाषाओं में काम करेगा",
+    "summary": "भारत में ही तैयार एआई फाउंडेशन मॉडल चैरियट-1 नई दिल्ली में लॉन्च हुआ। यह अंग्रेजी के साथ हिंदी, बंगाली, तमिल समेत 10 भारतीय भाषाओं में काम करता है और इंडिया एआई मिशन के तहत बना है।"
+   },
+   "id": "chariot-1-foundation-models-launched-indiaai-mission-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chariot-1-foundation-models-launched-indiaai-mission-november-25.jpg",
+   "publishedAt": "2026-11-26T13:08:54+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "AI",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-narol-vishala-godown-fire-no-casualties-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-narol-vishala-godown-fire-no-casualties-november-26-hi.mp3",
@@ -3294,50 +3338,6 @@
    },
    "district": "Jalgaon",
    "state": "Maharashtra"
-  },
-  {
-   "id": "supreme-court-refuses-interim-bail-umar-khalid-sharjeel-imam-november-25",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T12:27:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-refuses-interim-bail-umar-khalid-sharjeel-imam-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-refuses-interim-bail-umar-khalid-sharjeel-imam-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-refuses-interim-bail-umar-khalid-sharjeel-imam-november-25-en.mp3",
-   "en": {
-    "title": "Supreme Court refuses interim bail to Umar Khalid and Sharjeel Imam for now, issues notice to Delhi Police",
-    "summary": "The Supreme Court on Wednesday declined to consider interim bail for Umar Khalid and Sharjeel Imam in the 2020 Delhi riots larger conspiracy case, saying it would first hear the Delhi Police. The court issued notice on their bail pleas and directed that the matter be placed before the Chief Justice for the constitution of a three-judge bench."
-   },
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने उमर खालिद और शरजील इमाम को फिलहाल अंतरिम जमानत देने से इनकार किया, दिल्ली पुलिस को नोटिस जारी",
-    "summary": "सुप्रीम कोर्ट ने बुधवार को 2020 के दिल्ली दंगा मामले में उमर खालिद और शरजील इमाम को अंतरिम जमानत देने पर विचार करने से इनकार कर दिया और कहा कि पहले दिल्ली पुलिस को सुना जाएगा। अदालत ने दोनों की जमानत याचिकाओं पर दिल्ली पुलिस को नोटिस जारी किया और मामले को 3 जजों की पीठ के गठन के लिए मुख्य न्यायाधीश के सामने रखने का निर्देश दिया।"
-   }
-  },
-  {
-   "id": "jashpur-panchayats-bar-pastors-priests-conversion-row-november-25",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T12:06:53+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jashpur-panchayats-bar-pastors-priests-conversion-row-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jashpur-panchayats-bar-pastors-priests-conversion-row-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jashpur-panchayats-bar-pastors-priests-conversion-row-november-25-en.mp3",
-   "en": {
-    "title": "Four Jashpur panchayats bar pastors and priests, reigniting debate over conversions and gram sabha powers",
-    "summary": "Four gram panchayats in Chhattisgarh's Jashpur district have put up boards barring the entry of pastors, fathers and sisters after passing resolutions against alleged religious conversions. Tribal groups say the move protects their culture; the Christian Adivasi Mahasabha calls it a violation of religious freedom."
-   },
-   "hi": {
-    "title": "जशपुर की 4 ग्राम पंचायतों ने पादरी, फादर और सिस्टर के प्रवेश पर रोक के बोर्ड लगाए, धर्मांतरण और ग्राम सभा की शक्तियों पर बहस तेज",
-    "summary": "छत्तीसगढ़ के जशपुर जिले की 4 ग्राम पंचायतों ने कथित धर्मांतरण के खिलाफ प्रस्ताव पारित कर गांवों के प्रवेश द्वार पर पादरी, फादर और सिस्टर के प्रवेश पर रोक वाले बोर्ड लगा दिए हैं। आदिवासी संगठनों का कहना है कि यह कदम उनकी संस्कृति की रक्षा के लिए है, जबकि क्रिश्चियन आदिवासी महासभा ने इसे धार्मिक स्वतंत्रता का उल्लंघन बताया है।"
-   },
-   "district": "Jashpur",
-   "state": "Chhattisgarh"
   }
  ]
 }
