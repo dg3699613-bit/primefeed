@@ -1,6 +1,54 @@
 {
- "updatedAt": "2026-11-26T08:56:48+05:30",
+ "updatedAt": "2026-11-26T09:12:33+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "body": "Rohtak: 4 young men were shot dead at a dhaba in Haryana's Rohtak in the early hours of Thursday, in a firing incident police suspect is linked to a gang war. The shooting took place around 1 am at Milan Dhaba near Kharawar village, around 30 metres from the local police station.\n\nAccording to reports, 5 armed assailants arrived in a Swift car and opened fire on the 4 men, who were having dinner at the eatery. As the gunfire rang out, panic spread through the dhaba and people hid behind and beneath tables to save themselves. 3 of the men died at the dining table; the 4th tried to flee but was chased down and shot. The assailants brandished their weapons at the scene for several minutes before fleeing.\n\nThe 4 men who died have been identified as Rinku, son of Jagbir; Vineet, son of Jaibir; and Ganju, all from Dighal village, and Himanshu, son of Rajbir, from Beri.\n\nPreliminary information suggests the shooting stemmed from the ongoing rivalry between the Baba gang and the Himanshu Bhau gang. Police are investigating that angle along with others and are working to establish the identities and affiliations of those involved.\n\nPolice teams reached the spot soon after the shooting. Rohtak Range Inspector General Hamid Akhtar and Superintendent of Police Gaurav Rajpurohit also visited the scene. Police have cordoned off the area and launched a search for the attackers.\n\nPhoto: India TV",
+    "summary": "4 young men having dinner at Milan Dhaba near Kharawar village in Rohtak were shot dead in the early hours of Thursday, in a firing police suspect is linked to the rivalry between the Baba gang and the Himanshu Bhau gang. 5 armed assailants arrived in a Swift car and opened fire; police have launched a search.",
+    "title": "Rohtak: 4 shot dead at dhaba metres from police station in suspected gang war"
+   },
+   "featured": false,
+   "hi": {
+    "body": "रोहतक: हरियाणा के रोहतक में गुरुवार तड़के करीब 1 बजे खरावर गाँव के पास मिलन ढाबे पर गोलियों की आवाज़ से अफरा-तफरी मच गई। थाने से करीब 30 मीटर दूर स्थित ढाबे पर खाना खा रहे 4 युवकों पर 5 हथियारबंद हमलावरों ने ताबड़तोड़ फायरिंग कर दी। गोली लगने से 4 युवकों की मौके पर ही मौत हो गई।\n\nजानकारी के मुताबिक हमलावर एक स्विफ्ट कार में आए थे। गोलीबारी शुरू होते ही ढाबे में मौजूद लोग जान बचाने के लिए मेज़ों के पीछे और नीचे छिप गए। 3 युवकों की मौत खाने की मेज़ पर ही हो गई, जबकि चौथा युवक भागने की कोशिश में था। हमलावरों ने उसका पीछा कर उसे भी गोली मार दी। वारदात के बाद हमलावर कुछ मिनट तक हथियार लहराते हुए मौके पर घूमते रहे, फिर फरार हो गए।\n\nमारे गए युवकों की पहचान दिघल गाँव के रिंकू (पिता जगबीर), विनीत (पिता जैबीर) और गंजू, तथा बेरी के हिमांशु (पिता राजबीर) के रूप में हुई है।\n\nशुरुआती जानकारी में इस गोलीबारी को बाबा गैंग और हिमांशु भाऊ गैंग के बीच चल रही रंजिश से जोड़कर देखा जा रहा है। पुलिस दोनों गैंगों के बीच झड़प की आशंका समेत हर एंगल से जाँच कर रही है और हमलावरों की पहचान व उनसे जुड़े लोगों का पता लगाने की कोशिश में है।\n\nघटना की जानकारी मिलते ही पुलिस की टीमें मौके पर पहुँचीं। रोहतक रेंज के आईजी हामिद अख्तर और पुलिस अधीक्षक गौरव राजपुरोहित भी घटनास्थल पर पहुँचे। पुलिस ने इलाके में नाकेबंदी कर हमलावरों की तलाश शुरू कर दी है।\n\nफ़ोटो साभार: इंडिया टीवी",
+    "summary": "रोहतक के खरावर गाँव के पास मिलन ढाबे पर गुरुवार तड़के करीब 1 बजे खाना खा रहे 4 युवकों पर 5 हथियारबंद हमलावरों ने गोलियाँ चला दीं। 4 की मौके पर मौत हो गई। पुलिस बाबा गैंग और हिमांशु भाऊ गैंग की रंजिश के एंगल से जाँच कर रही है।",
+    "title": "रोहतक: थाने से 30 मीटर दूर ढाबे पर गैंगवार, खाना खा रहे 4 युवकों की गोली मारकर हत्या"
+   },
+   "id": "rohtak-milan-dhaba-gangwar-four-shot-dead-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26.jpg",
+   "publishedAt": "2026-11-26T09:08:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Rohtak",
+   "state": "Haryana"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "body": "Jaipur: The Congress registered a big victory in Rajasthan's Zila Pramukh elections on Wednesday, winning the top post in 24 of the state's 37 districts, while the ruling BJP secured 10. The Bharat Adivasi Party (BAP) won 2 posts and the Rashtriya Loktantrik Party (RLP) 1, according to the State Election Commission.\n\nThe result caps a strong run for the Congress in the rural body polls. According to the final figures of the State Election Commission, the Congress won 796 of the 1,275 Zila Parishad seats, against the BJP's 359. In the Panchayat Samiti elections, the Congress secured 3,772 of the 7,543 seats.\n\nCross-voting and last-minute realignments overturned party majorities in several districts. The biggest setback for the BJP came in Chief Minister Bhajan Lal Sharma's home district of Bharatpur, where Congress candidate Renu Bala defeated the BJP's Pooja Jatav.\n\nIn Churu, the BJP's Kanika Singh won the Zila Pramukh post with 22 votes in the 39-member council, even though the Congress held a clear majority there. In Beawar, Congress candidate Mamta Gurjar defeated the BJP's Nirmala Devi by 14 votes to 13, despite the BJP having a majority in the 27-member council. In Didwana-Kuchaman, the contest ended in a tie and the BJP won the post through a lottery draw.\n\nThe Congress candidates were elected unopposed in Dausa, Jaisalmer and Sawai Madhopur. In Jaisalmer, 21-year-old Santosh Kumari became the Zila Pramukh, reported to be the youngest in the state.\n\nOf the 23 councils where the Congress held an outright majority, the party won 22, losing only Churu. In the 8 councils where no party had a clear majority, the BJP won 5, the BAP 2 and the Congress 1.\n\nElections for Deputy Zila Pramukh posts are scheduled for Thursday, followed by the Pradhan and Deputy Pradhan elections on 27 and 28 November.\n\nPhoto: ANI",
+    "summary": "The Congress won the Zila Pramukh posts in 24 of Rajasthan's 37 districts on Wednesday, while the ruling BJP secured 10. The Bharat Adivasi Party won 2 and the Rashtriya Loktantrik Party 1, as cross-voting overturned party majorities in several districts, including the Chief Minister's home district of Bharatpur.",
+    "title": "Congress wins 24 of 37 Zila Pramukh posts in Rajasthan; BJP 10, loses CM home district Bharatpur"
+   },
+   "featured": false,
+   "hi": {
+    "body": "जयपुर: राजस्थान में बुधवार को हुए जिला प्रमुख चुनाव में कांग्रेस ने बड़ी जीत दर्ज की। राज्य के 37 जिलों में से 24 में कांग्रेस ने जिला प्रमुख का पद जीत लिया, जबकि सत्तारूढ़ भाजपा को 10 पद मिले। भारत आदिवासी पार्टी (बीएपी) को 2 और राष्ट्रीय लोकतांत्रिक पार्टी (आरएलपी) को 1 पद मिला है, राज्य चुनाव आयोग ने बताया।\n\nयह नतीजा ग्रामीण निकाय चुनावों में कांग्रेस के मजबूत प्रदर्शन की कड़ी है। राज्य चुनाव आयोग के अंतिम आँकड़ों के मुताबिक कांग्रेस ने 1,275 जिला परिषद सीटों में से 796 सीटें जीती हैं, जबकि भाजपा को 359 सीटें मिली हैं। पंचायत समिति चुनाव में कांग्रेस को 7,543 में से 3,772 सीटें मिली हैं।\n\nकई जिलों में क्रॉस वोटिंग और आखिरी वक्त के समीकरणों ने दलीय बहुमत को पलट दिया। भाजपा को सबसे बड़ा झटका मुख्यमंत्री भजन लाल शर्मा के गृह जिले भरतपुर में लगा, जहाँ कांग्रेस की रेणु बाला ने भाजपा की पूजा जाटव को हरा दिया।\n\nचूरू में भाजपा की कनिका सिंह ने 39 सदस्यीय परिषद में 22 वोट पाकर जिला प्रमुख का पद जीत लिया, जबकि वहाँ कांग्रेस का स्पष्ट बहुमत था। ब्यावर में कांग्रेस की ममता गुर्जर ने भाजपा की निर्मला देवी को 14 के मुकाबले 13 वोट से हरा दिया, जबकि 27 सदस्यीय परिषद में भाजपा का बहुमत था। डीडवाना-कुचामन में मुकाबला बराबरी पर रहा और लॉटरी से भाजपा को पद मिला।\n\nदौसा, जैसलमेर और सवाई माधोपुर में कांग्रेस के उम्मीदवार निर्विरोध चुने गए। जैसलमेर में 21 साल की संतोष कुमारी जिला प्रमुख बनी हैं, जिन्हें राज्य की सबसे युवा जिला प्रमुख बताया जा रहा है।\n\nजिन 23 परिषदों में कांग्रेस का स्पष्ट बहुमत था, उनमें से 22 में पार्टी ने जीत दर्ज की, सिर्फ चूरू में हार मिली। जिन 8 परिषदों में किसी दल का स्पष्ट बहुमत नहीं था, उनमें भाजपा को 5, बीएपी को 2 और कांग्रेस को 1 पद मिला।\n\nउप जिला प्रमुख के चुनाव गुरुवार को होंगे, जबकि प्रधान और उप प्रधान के चुनाव 27 और 28 नवंबर को होंगे।\n\nफ़ोटो साभार: एएनआई",
+    "summary": "राजस्थान में बुधवार को हुए जिला प्रमुख चुनाव में कांग्रेस ने 37 में से 24 पद जीत लिए, जबकि सत्तारूढ़ भाजपा को 10 पद मिले। भारत आदिवासी पार्टी को 2 और राष्ट्रीय लोकतांत्रिक पार्टी को 1 पद मिला। कई जिलों में क्रॉस वोटिंग ने दलीय बहुमत को पलट दिया, जिनमें मुख्यमंत्री के गृह जिले भरतपुर भी शामिल है।",
+    "title": "राजस्थान: कांग्रेस ने 37 में से 24 जिला प्रमुख पद जीते, भाजपा 10 पर; सीएम के गृह जिले भरतपुर में भी हार"
+   },
+   "id": "rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25.jpg",
+   "publishedAt": "2026-11-26T09:08:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Elections",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-tablet-distribution-41000-students-november-27-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-tablet-distribution-41000-students-november-27-hi.mp3",
