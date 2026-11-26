@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T05:41:01+05:30",
+ "updatedAt": "2026-11-26T06:17:20+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ghaziabad-woman-arrested-slow-poisoning-husband-lead-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ghaziabad-woman-arrested-slow-poisoning-husband-lead-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Ghaziabad",
+   "en": {
+    "title": "Wife arrested in Ghaziabad for slowly poisoning husband, son and nephew with lead",
+    "summary": "Indirapuram police have arrested Renu Bhatnagar of Vasundhara, Ghaziabad, for allegedly mixing lead into her family's food for months. Her husband Sushil Kumar Bhatnagar, a travel agency owner, fell seriously ill, and medical tests found toxic levels of lead in his body. Police say she confessed during questioning, driven by greed for a 6-crore-rupee business and a 2-crore-rupee insurance policy."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गाज़ियाबाद में पत्नी गिरफ्तार, पति, बेटे और भतीजे को सीसे से धीरे-धीरे जहर देने का आरोप",
+    "summary": "इंदिरापुरम पुलिस ने वसुंधरा की रेनू भटनागर को गिरफ्तार किया है। उन पर आरोप है कि उन्होंने महीनों तक पति सुशील कुमार भटनागर, बेटे और भतीजे के खाने में सीसा मिलाया। मेडिकल जांच में सुशील के शरीर में सीसे का जहरीला स्तर मिला था। पुलिस का कहना है कि पूछताछ में उन्होंने लालच में जहर देने की बात कबूल की है।"
+   },
+   "id": "ghaziabad-woman-arrested-slow-poisoning-husband-lead-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ghaziabad-woman-arrested-slow-poisoning-husband-lead-november-25.jpg",
+   "publishedAt": "2026-11-26T06:11:42+05:30",
+   "source": "PrimeFeed Desk",
+   "state": "Uttar Pradesh",
+   "sub": "Police & Crime",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rupee-hits-8-month-high-92-23-record-foreign-inflows-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rupee-hits-8-month-high-92-23-record-foreign-inflows-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "Rupee hits 8-month high of 92.19, wipes out this year's losses on record foreign inflows",
+    "summary": "The rupee closed at 92.23 against the dollar on Wednesday after touching an 8-month high of 92.19, gaining 0.7 percent in a day and 2.9 percent in November. Record foreign portfolio inflows of 14.28 billion dollars into Indian stocks, softer crude prices and better dollar supply drove the rally."
+   },
+   "featured": false,
+   "hi": {
+    "title": "रुपया 8 महीने के उच्च स्तर 92.19 पर, रिकॉर्ड विदेशी निवेश से इस साल का घाटा खत्म",
+    "summary": "रुपया बुधवार को डॉलर के मुकाबले 92.23 पर बंद हुआ, दिन में 92.19 के 8 महीने के उच्च स्तर तक गया। नवंबर में इसमें 2.9 प्रतिशत की बढ़त हुई है, जिससे इस वित्त वर्ष का घाटा खत्म हो गया। भारतीय शेयरों में रिकॉर्ड 14.28 अरब डॉलर का विदेशी निवेश और कच्चे तेल की नरम कीमतों ने तेजी को सहारा दिया।"
+   },
+   "id": "rupee-hits-8-month-high-92-23-record-foreign-inflows-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rupee-hits-8-month-high-92-23-record-foreign-inflows-november-25.jpg",
+   "publishedAt": "2026-11-26T06:11:42+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": true
+  },
   {
    "breaking": false,
    "category": "State & Local",
@@ -3282,48 +3326,6 @@
    },
    "district": "Kannauj",
    "state": "Uttar Pradesh"
-  },
-  {
-   "id": "nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24",
-   "category": "World",
-   "sub": "Asia",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T03:34:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-earthquake-5-3-koshi-tremors-north-bengal-bihar-november-24-en.mp3",
-   "en": {
-    "title": "5.3-magnitude quake in Nepal shakes north Bengal, Bihar and Sikkim; no damage reported",
-    "summary": "A 5.3-magnitude earthquake struck Nepal's Koshi province at 7:02 am on Tuesday, with tremors felt across north Bengal, Sikkim, Bihar and Meghalaya, as well as in Bhutan, Bangladesh and China. Officials said there were no immediate reports of casualties or damage."
-   },
-   "hi": {
-    "title": "नेपाल में 5.3 तीव्रता का भूकंप, उत्तर बंगाल, बिहार और सिक्किम तक झटके",
-    "summary": "मंगलवार सुबह 7:02 बजे नेपाल के कोशी प्रांत में 5.3 तीव्रता का भूकंप आया, जिसके झटके उत्तर बंगाल, सिक्किम, बिहार और मेघालय के साथ-साथ भूटान, बांग्लादेश और चीन में भी महसूस किए गए। अधिकारियों ने कहा कि तत्काल किसी के हताहत होने या नुकसान की खबर नहीं है।"
-   }
-  },
-  {
-   "id": "india-canada-cepa-very-close-official-daily-talks-november-24",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T03:05:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-canada-cepa-very-close-official-daily-talks-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-very-close-official-daily-talks-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-canada-cepa-very-close-official-daily-talks-november-24-en.mp3",
-   "en": {
-    "title": "India, Canada 'very close' to concluding trade pact, official says; daily talks on as year-end deadline nears",
-    "summary": "Negotiators from India and Canada are holding daily discussions and are 'very close' to concluding the proposed Comprehensive Economic Partnership Agreement, an official said on 24 November. Both sides aim to wrap up the pact by the end of the year, with bilateral trade targeted at $50 billion by 2030."
-   },
-   "hi": {
-    "title": "भारत-कनाडा व्यापार समझौता 'बिल्कुल करीब', अधिकारी बोले — रोज़ाना बातचीत जारी, साल के अंत तक समझौते का लक्ष्य",
-    "summary": "भारत और कनाडा के वार्ताकार रोज़ाना चर्चा कर रहे हैं और प्रस्तावित व्यापक आर्थिक भागीदारी समझौते को अंतिम रूप देने के 'बिल्कुल करीब' हैं, एक अधिकारी ने 24 नवंबर को कहा। दोनों पक्ष साल के अंत तक समझौता पूरा करने का लक्ष्य लेकर चल रहे हैं, और 2030 तक द्विपक्षीय व्यापार 50 अरब डॉलर तक बढ़ाने का लक्ष्य रखा गया है।"
-   }
   }
  ]
 }
