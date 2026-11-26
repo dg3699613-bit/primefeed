@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T12:47:46+05:30",
+ "updatedAt": "2026-11-26T13:01:10+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-narol-vishala-godown-fire-no-casualties-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-narol-vishala-godown-fire-no-casualties-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Massive fire guts scrap godown on Ahmedabad's Narol-Vishala Highway; black smoke chokes traffic, no casualties",
+    "summary": "A massive fire broke out in a scrap godown near the Pirana dumping yard on Ahmedabad's Narol-Vishala Highway on Thursday. Thick black smoke spread over the highway and left commuters struggling to breathe; firefighters brought the blaze under control after a long effort, and no major casualties were reported."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अहमदाबाद: नारोल-विशाला हाइवे पर भंगार के गोदाम में भीषण आग, काला धुआँ छाने से साँस लेना हुआ मुश्किल",
+    "summary": "गुरुवार को अहमदाबाद में नारोल-विशाला हाइवे पर पीराणा डंपिंग यार्ड के पास भंगार के गोदाम में भीषण आग लग गई। काले धुएँ के कारण हाइवे पर साँस लेना मुश्किल हो गया। लंबी मशक्कत के बाद दमकल ने आग पर काबू पा लिया और कोई बड़ी जनहानि नहीं हुई।"
+   },
+   "id": "ahmedabad-narol-vishala-godown-fire-no-casualties-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ahmedabad-narol-vishala-godown-fire-no-casualties-november-26.jpg",
+   "publishedAt": "2026-11-26T12:56:34+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": false,
+   "district": "Ahmedabad",
+   "state": "Gujarat"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saurav-das-loc-delhi-high-court-centre-mumbai-police-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/saurav-das-loc-delhi-high-court-centre-mumbai-police-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Centre tells Delhi High Court: Mumbai Police issued lookout circular against CJP's Saurav Das over passport discrepancies",
+    "summary": "The Centre told the Delhi High Court on Thursday that the Mumbai Police issued a Look Out Circular against CJP co-convener Saurav Das on November 23 over alleged discrepancies in his passport details. The court sought the Centre's response and listed the matter for December 9."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सौरव दास के खिलाफ लुकआउट सर्कुलर जारी, केंद्र ने दिल्ली हाई कोर्ट को बताया — 9 दिसंबर को अगली सुनवाई",
+    "summary": "केंद्र ने गुरुवार को दिल्ली हाई कोर्ट को बताया कि मुंबई पुलिस ने सीजेपी सह-संयोजक सौरव दास के खिलाफ 23 नवंबर को लुकआउट सर्कुलर जारी किया था। पासपोर्ट विवरण में कथित गड़बड़ी इसका कारण बताई गई है। कोर्ट ने केंद्र से जवाब माँगा है और अगली सुनवाई 9 दिसंबर को होगी।"
+   },
+   "id": "saurav-das-loc-delhi-high-court-centre-mumbai-police-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/saurav-das-loc-delhi-high-court-centre-mumbai-police-november-26.jpg",
+   "publishedAt": "2026-11-26T12:56:34+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-separate-warning-labels-high-fat-sugar-salt-packaged-foods-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-separate-warning-labels-high-fat-sugar-salt-packaged-foods-november-26-hi.mp3",
@@ -3294,50 +3338,6 @@
    },
    "district": "Jashpur",
    "state": "Chhattisgarh"
-  },
-  {
-   "id": "houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T12:06:53+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/houthis-threaten-jeddah-red-sea-ports-coalition-strikes-hodeidah-november-25-en.mp3",
-   "en": {
-    "title": "Houthis threaten Jeddah and all Saudi Red Sea ports as coalition strikes Hodeidah",
-    "summary": "Yemen's Houthis warned on Wednesday that Jeddah and every other Saudi port on the Red Sea coast would be targeted if Saudi Arabia attacked the port of Hodeidah. Hours later, the Saudi-led coalition said it had struck operational capabilities at Hodeidah and targets in the Saada and Amran governorates."
-   },
-   "hi": {
-    "title": "हूती विद्रोहियों ने जेद्दा समेत सऊदी अरब के सभी लाल सागर बंदरगाहों को निशाना बनाने की धमकी दी, गठबंधन ने होदेइदा पर हमला किया",
-    "summary": "यमन के हूती विद्रोहियों ने बुधवार को चेतावनी दी कि अगर सऊदी अरब ने होदेइदा बंदरगाह पर हमला किया तो जेद्दा समेत लाल सागर तट के सभी सऊदी बंदरगाहों को निशाना बनाया जाएगा। चेतावनी के कुछ घंटे बाद सऊदी नेतृत्व वाले गठबंधन ने कहा कि उसने होदेइदा में ठिकानों और सादा व अमरान प्रांतों में लक्ष्यों पर हमला किया है।"
-   }
-  },
-  {
-   "id": "hanuman-artiste-dies-on-stage-ramayana-play-ganjam",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T11:51:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/hanuman-artiste-dies-on-stage-ramayana-play-ganjam.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hanuman-artiste-dies-on-stage-ramayana-play-ganjam-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/hanuman-artiste-dies-on-stage-ramayana-play-ganjam-en.mp3",
-   "en": {
-    "title": "Hanuman artiste collapses and dies on stage during Ramayana play in Ganjam",
-    "summary": "Young artiste Mithun Pradhan collapsed on stage while playing Lord Hanuman during a Ramayana performance at Kaudia village in Ganjam district on Kartik Purnima. He was rushed to Adapada Hospital, where doctors declared him dead; a heart attack is suspected."
-   },
-   "hi": {
-    "title": "गंजाम में रामायण मंचन के दौरान हनुमान बने कलाकार की मंच पर ही मौत",
-    "summary": "ओडिशा के गंजाम जिले के कौड़िया गांव में कार्तिक पूर्णिमा पर हो रहे रामायण मंचन के दौरान हनुमान की भूमिका निभा रहे युवा कलाकार मिथुन प्रधान अचानक मंच पर गिर पड़े। उन्हें अडपदा अस्पताल ले जाया गया, जहां डॉक्टरों ने उन्हें मृत घोषित कर दिया। आशंका है कि उनकी मौत दिल का दौरा पड़ने से हुई।"
-   },
-   "district": "Ganjam",
-   "state": "Odisha"
   }
  ]
 }
