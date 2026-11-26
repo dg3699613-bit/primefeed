@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T23:42:32+05:30",
+ "updatedAt": "2026-11-27T00:01:32+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kallakurichi-collector-statement-magistrate-mla-arul-vignesh-summons-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kallakurichi-collector-statement-magistrate-mla-arul-vignesh-summons-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Kallakurichi collector records statement before magistrate for over 3 hours; TVK MLA Arul Vignesh summoned in harassment case",
+    "summary": "The woman IAS officer who heads Kallakurichi district recorded her statement before a fast-track court judge for over 3 hours on Thursday, as the probe into her sexual harassment complaint against TVK MLA C. Arul Vignesh entered its second day. Police have served summons on Vignesh, and a state inquiry committee headed by additional chief secretary Kakarla Usha will visit Kallakurichi on Friday."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कल्लाकुरिची कलेक्टर ने मजिस्ट्रेट के सामने 3 घंटे तक बयान दर्ज कराया, टीवीके विधायक अरुल विग्नेश को पूछताछ के लिए समन",
+    "summary": "कल्लाकुरिची जिले की प्रमुख महिला आईएएस अधिकारी ने गुरुवार को फास्ट-ट्रैक कोर्ट की न्यायाधीश के सामने 3 घंटे से ज्यादा समय तक अपना बयान दर्ज कराया, जबकि टीवीके विधायक सी. अरुल विग्नेश के खिलाफ उनकी यौन उत्पीड़न की शिकायत की जांच दूसरे दिन में पहुंच गई है। पुलिस ने विग्नेश को समन देकर पूछताछ के लिए पेश होने को कहा है, और अपर मुख्य सचिव काकरला उषा की अध्यक्षता वाली राज्य स्तरीय जांच समिति शुक्रवार को कल्लाकुरिची जाएगी।"
+   },
+   "id": "kallakurichi-collector-statement-magistrate-mla-arul-vignesh-summons-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kallakurichi-collector-statement-magistrate-mla-arul-vignesh-summons-november-26.jpg",
+   "publishedAt": "2026-11-26T23:57:30+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Kallakurichi",
+   "state": "Tamil Nadu"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alok-singh-appointed-uppsc-chairman-tenure-january-2029-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/alok-singh-appointed-uppsc-chairman-tenure-january-2029-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Rozgar",
+   "en": {
+    "title": "IPS officer Alok Singh appointed UPPSC chairman, to serve till 23 January 2029",
+    "summary": "The Uttar Pradesh government on Thursday appointed senior IPS officer Alok Singh as chairman of the Uttar Pradesh Public Service Commission in Prayagraj, with his tenure running until 23 January 2029. Singh, a 1995-batch officer who currently heads the Provincial Armed Constabulary, succeeds Sanjay Shrinet, who retired on 21 November; with this appointment, all 4 of the state's major recruitment bodies are now headed by IPS officers."
+   },
+   "featured": false,
+   "hi": {
+    "title": "आईपीएस अधिकारी आलोक सिंह बने यूपीपीएससी के अध्यक्ष, 23 जनवरी 2029 तक रहेगा कार्यकाल",
+    "summary": "उत्तर प्रदेश सरकार ने गुरुवार को वरिष्ठ आईपीएस अधिकारी आलोक सिंह को प्रयागराज स्थित उत्तर प्रदेश लोक सेवा आयोग का अध्यक्ष नियुक्त किया है, और उनका कार्यकाल 23 जनवरी 2029 तक रहेगा। 1995 बैच के अधिकारी सिंह इस समय प्रांतीय सशस्त्र पुलिस के महानिदेशक हैं और 21 नवंबर को सेवानिवृत्त हुए संजय श्रीनेत की जगह लेंगे। इस नियुक्ति के साथ ही राज्य के सभी 4 प्रमुख भर्ती निकायों का नेतृत्व अब आईपीएस अधिकारियों के हाथ में आ गया है।"
+   },
+   "id": "alok-singh-appointed-uppsc-chairman-tenure-january-2029-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/alok-singh-appointed-uppsc-chairman-tenure-january-2029-november-26.jpg",
+   "publishedAt": "2026-11-26T23:57:30+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Sarkari Naukri",
+   "trending": false,
+   "district": "Prayagraj",
+   "state": "Uttar Pradesh"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/telangana-hc-sentences-cyberabad-police-commissioner-medchal-dcp-two-weeks-jail-contempt-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/telangana-hc-sentences-cyberabad-police-commissioner-medchal-dcp-two-weeks-jail-contempt-november-26-hi.mp3",
@@ -3278,48 +3324,6 @@
    "source": "PrimeFeed Desk",
    "sub": "Elections",
    "trending": true
-  },
-  {
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-tells-citizens-leave-iran-immediately-november-25-en.mp3",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-tells-citizens-leave-iran-immediately-november-25-hi.mp3",
-   "breaking": true,
-   "category": "World",
-   "en": {
-    "title": "US tells citizens to leave Iran immediately, warns hostilities could escalate fast",
-    "summary": "The US Virtual Embassy in Iran issued a security alert after Tehran attacked American assets in Bahrain and Kuwait and Houthi forces struck a tower in Riyadh's financial district, wounding 11 people."
-   },
-   "featured": false,
-   "hi": {
-    "title": "अमेरिका ने अपने नागरिकों से कहा, ईरान तुरंत छोड़ दें, तनाव तेजी से बढ़ सकता है",
-    "summary": "तेहरान के बहरीन और कुवैत में अमेरिकी ठिकानों पर हमले और हूती विद्रोहियों के रियाद के वित्तीय ज़िले में टावर पर हमले, जिसमें 11 लोग घायल हुए, के बाद ईरान में अमेरिकी वर्चुअल दूतावास ने सुरक्षा चेतावनी जारी की है।"
-   },
-   "id": "us-tells-citizens-leave-iran-immediately-november-25",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-tells-citizens-leave-iran-immediately-november-25.jpg",
-   "publishedAt": "2026-11-25T23:44:50+05:30",
-   "source": "PrimeFeed Desk",
-   "sub": "Middle East",
-   "trending": true
-  },
-  {
-   "breaking": false,
-   "category": "Entertainment",
-   "en": {
-    "title": "PIL in Jharkhand High Court seeks stay on Ramayana screenings, 50% of earnings for Ram Temple Trust",
-    "summary": "A public interest litigation filed in Ranchi seeks the removal of allegedly controversial scenes from the film Ramayana and a stay on its screening and broadcast until the disputed portions are deleted. The petitioner alleges the film departs from the Valmiki Ramayana and gives Ravana greater prominence than Lord Rama."
-   },
-   "featured": false,
-   "hi": {
-    "title": "रामायण की स्क्रीनिंग पर रोक की माँग: झारखंड हाई कोर्ट में जनहित याचिका, कमाई का 50% राम मंदिर ट्रस्ट को देने की भी माँग",
-    "summary": "रांची में दाखिल जनहित याचिका में फिल्म रामायण के विवादित दृश्यों को हटाने और उन्हें हटाए जाने तक स्क्रीनिंग व प्रसारण पर रोक की माँग की गई है। याचिकाकर्ता का आरोप है कि फिल्म में वाल्मीकि रामायण से हटकर दृश्य दिखाए गए हैं और रावण को भगवान राम से ज़्यादा प्रमुखता दी गई है।"
-   },
-   "id": "ramayana-pil-jharkhand-high-court-stay-screening-november-25",
-   "source": "PrimeFeed Desk",
-   "sub": "Bollywood",
-   "trending": true,
-   "publishedAt": "2026-11-25T23:17:07+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-pil-jharkhand-high-court-stay-screening-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-pil-jharkhand-high-court-stay-screening-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-pil-jharkhand-high-court-stay-screening-november-25-en.mp3"
   }
  ]
 }
