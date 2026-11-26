@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T22:05:15+05:30",
+ "updatedAt": "2026-11-26T22:18:54+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sujith-kumar-arrested-thrissur-dhanesh-murder-16-years-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sujith-kumar-arrested-thrissur-dhanesh-murder-16-years-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "16 years on the run: Prime accused in 2008 Thrissur murder of DYFI leader brought back from Abu Dhabi, arrested",
+    "summary": "Thrissur Rural police have arrested Sujith Kumar (46), the prime accused in the 2008 murder of DYFI leader I K Dhanesh at Vadanappally, after bringing him back from Abu Dhabi through extradition proceedings following an Interpol Red Corner Notice. Kumar had been absconding for 16 years after getting bail; last week, the third accused in the same case was brought back from Dubai after 18 years."
+   },
+   "featured": false,
+   "hi": {
+    "title": "16 साल से फरार: 2008 में त्रिशूर में डीवाईएफआई नेता की हत्या का मुख्य आरोपी अबू धाबी से लाकर गिरफ्तार",
+    "summary": "त्रिशूर ग्रामीण पुलिस ने 2008 में वडानप्पल्ली में डीवाईएफआई नेता आई के धनेश की हत्या के मुख्य आरोपी सुजित कुमार (46) को गिरफ्तार कर लिया है। उसे इंटरपोल के रेड कॉर्नर नोटिस के बाद प्रत्यर्पण की कार्रवाई से अबू धाबी से वापस लाया गया। जमानत मिलने के बाद वह 16 साल से फरार था। पिछले हफ्ते इसी मामले के तीसरे आरोपी को दुबई से 18 साल बाद वापस लाया गया था।"
+   },
+   "id": "sujith-kumar-arrested-thrissur-dhanesh-murder-16-years-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sujith-kumar-arrested-thrissur-dhanesh-murder-16-years-november-26.jpg",
+   "publishedAt": "2026-11-26T22:14:55+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Thrissur",
+   "state": "Kerala"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-disaster-ex-gratia-raised-8-lakh-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-disaster-ex-gratia-raised-8-lakh-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Odisha doubles disaster ex-gratia to Rs 8 lakh, retrospective from April 1",
+    "summary": "The Odisha government has doubled the ex-gratia paid to the families of people killed in natural disasters from Rs 4 lakh to Rs 8 lakh, with retrospective effect from April 1, 2026. Revenue and Disaster Management Minister Suresh Pujari told the Assembly that district administrations have been asked to pay the additional Rs 4 lakh to eligible families, and that Rs 1,842 lakh has been disbursed so far."
+   },
+   "featured": false,
+   "hi": {
+    "title": "ओडिशा में आपदा में मौत पर अनुग्रह राशि दोगुनी, अब 8 लाख रुपये",
+    "summary": "ओडिशा सरकार ने प्राकृतिक आपदाओं में जान गंवाने वाले लोगों के परिजनों को दी जाने वाली अनुग्रह राशि 4 लाख रुपये से बढ़ाकर 8 लाख रुपये कर दी है। यह बढ़ोतरी 1 अप्रैल, 2026 से लागू होगी। राजस्व एवं आपदा प्रबंधन मंत्री सुरेश पुजारी ने विधानसभा को बताया कि जिला प्रशासन को पात्र परिवारों को बाकी के 4 लाख रुपये देने का निर्देश दिया गया है और अब तक 1,842 लाख रुपये दिए जा चुके हैं।"
+   },
+   "id": "odisha-disaster-ex-gratia-raised-8-lakh-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-disaster-ex-gratia-raised-8-lakh-november-26.jpg",
+   "publishedAt": "2026-11-26T22:14:55+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/agp-leader-jintu-choudhury-life-sentence-ajay-deka-murder-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/agp-leader-jintu-choudhury-life-sentence-ajay-deka-murder-november-26-hi.mp3",
@@ -3280,52 +3324,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-shivajinagar-court-attack-six-held-police-say-no-bullet-hit-kivale.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-attack-six-held-police-say-no-bullet-hit-kivale-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-attack-six-held-police-say-no-bullet-hit-kivale-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Kendrapara",
-   "en": {
-    "title": "Suspected poacher electrocuted by live-wire trap in Kendrapara; two companions missing",
-    "summary": "Aswasta Nayak, 45, died after touching live wires allegedly laid to trap wild boar in a field near Bhopal village in Kendrapara district. His body was found on Wednesday morning; two men who went with him on Tuesday evening are missing and police are searching for them."
-   },
-   "featured": false,
-   "hi": {
-    "title": "केंद्रपाड़ा में संदिग्ध शिकारी की करंट लगने से मौत, साथ गए 2 लोग लापता",
-    "summary": "45 वर्षीय अस्वस्त नायक की केंद्रपाड़ा जिले के भोपाल गाँव के पास खेत में जंगली सूअर के शिकार के लिए कथित तौर पर बिछाए गए करंट वाले तारों की चपेट में आकर मौत हो गई। उसका शव बुधवार सुबह मिला; मंगलवार शाम उसके साथ गए 2 लोग लापता हैं और पुलिस उनकी तलाश कर रही है।"
-   },
-   "id": "suspected-poacher-electrocuted-live-wire-trap-kendrapara-two-companions-missing",
-   "source": "PrimeFeed Desk",
-   "state": "Odisha",
-   "sub": "Police & Crime",
-   "trending": true,
-   "publishedAt": "2026-11-25T21:00:46+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/suspected-poacher-electrocuted-live-wire-trap-kendrapara-two-companions-missing.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/suspected-poacher-electrocuted-live-wire-trap-kendrapara-two-companions-missing-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/suspected-poacher-electrocuted-live-wire-trap-kendrapara-two-companions-missing-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Weather",
-   "district": null,
-   "en": {
-    "title": "Five Maharashtra districts face fastest-building flash droughts, 44-year study finds",
-    "summary": "Ahilyanagar, Beed, Dharashiv, Sangli and Solapur are Maharashtra's most vulnerable districts to flash droughts, a MANIT Bhopal study of 44 years of data has found. In these districts soil dryness worsens by 6 to 9 percentile points every 8 days — far faster than in the rest of the state."
-   },
-   "featured": false,
-   "hi": {
-    "title": "महाराष्ट्र के 5 जिलों में सबसे तेज़ी से बढ़ता फ्लैश सूखा, 44 साल के अध्ययन में खुलासा",
-    "summary": "अहिल्यानगर, बीड, धाराशिव, सांगली और सोलापुर फ्लैश सूखे के लिए महाराष्ट्र के सबसे संवेदनशील जिले हैं, मैनिट भोपाल के 44 साल के आंकड़ों के अध्ययन में यह बात सामने आई है। इन जिलों में मिट्टी का सूखापन हर 8 दिन में 6 से 9 पर्सेंटाइल अंक बढ़ जाता है — राज्य के बाकी हिस्सों से कहीं तेज़।"
-   },
-   "id": "five-maharashtra-districts-face-fastest-building-flash-droughts-study",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Rainfall",
-   "trending": true,
-   "publishedAt": "2026-11-25T21:00:46+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/five-maharashtra-districts-face-fastest-building-flash-droughts-study.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-maharashtra-districts-face-fastest-building-flash-droughts-study-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-maharashtra-districts-face-fastest-building-flash-droughts-study-en.mp3"
   }
  ]
 }
