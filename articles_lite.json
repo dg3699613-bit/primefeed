@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T06:17:20+05:30",
+ "updatedAt": "2026-11-26T06:36:15+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "State & Local",
+   "district": "East Khasi Hills",
+   "en": {
+    "title": "Meghalaya's deficit teachers' strike enters its third week as annual exams begin, and students are bearing the brunt",
+    "summary": "Deficit schoolteachers in Meghalaya have been on indefinite strike since November 11 over provident fund, pension and pay demands. With annual examinations under way and the SSLC board exams due from December 4, the education minister says the issues are complex and cannot be resolved overnight, and has called all sides to talks on November 30."
+   },
+   "featured": false,
+   "hi": {
+    "title": "मेघालय में डेफिसिट शिक्षकों की हड़ताल तीसरे हफ्ते में, वार्षिक परीक्षाएँ शुरू होते ही छात्रों पर पड़ा असर",
+    "summary": "मेघालय में डेफिसिट स्कूलों के शिक्षक 11 नवंबर से भविष्य निधि, पेंशन और वेतन की माँगों को लेकर अनिश्चितकालीन हड़ताल पर हैं। वार्षिक परीक्षाएँ चल रही हैं और 4 दिसंबर से एसएसएलसी बोर्ड परीक्षा होनी है। शिक्षा मंत्री ने कहा है कि मुद्दे पेचीदा हैं और रातोंरात हल नहीं हो सकते; सभी पक्षों को 30 नवंबर की बातचीत के लिए बुलाया गया है।"
+   },
+   "id": "meghalaya-deficit-teachers-strike-exams-november-26",
+   "source": "PrimeFeed Desk",
+   "state": "Meghalaya",
+   "sub": "Others",
+   "trending": true,
+   "publishedAt": "2026-11-26T06:29:53+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/meghalaya-deficit-teachers-strike-exams-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meghalaya-deficit-teachers-strike-exams-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meghalaya-deficit-teachers-strike-exams-november-26-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "US judge halts FCC's early review of ABC licences, says it looks like retaliation for speech Trump dislikes",
+    "summary": "A federal judge in Washington has blocked the Federal Communications Commission from pressing ahead with an unusually early review of ABC's broadcast licences, finding Disney is likely to prove the move was retaliation for the network's protected speech. The judge said the case was 'not a close' one."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अमेरिकी जज ने एबीसी के लाइसेंस की जल्दी समीक्षा पर रोक लगाई, कहा — ट्रंप को नापसंद भाषण का बदला लगता है",
+    "summary": "वॉशिंगटन में एक संघीय जज ने संघीय संचार आयोग को एबीसी के प्रसारण लाइसेंस की असामान्य रूप से जल्दी समीक्षा आगे बढ़ाने से रोक दिया है। जज ने कहा कि डिज़्नी के इस दावे में दम दिखता है कि यह कार्रवाई नेटवर्क के संरक्षित भाषण का बदला है, और यह मामला 'करीब का नहीं' है।"
+   },
+   "id": "us-judge-halts-fcc-early-review-abc-licences-november-26",
+   "source": "PrimeFeed Desk",
+   "sub": "USA",
+   "trending": true,
+   "publishedAt": "2026-11-26T06:29:53+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-judge-halts-fcc-early-review-abc-licences-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-judge-halts-fcc-early-review-abc-licences-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-judge-halts-fcc-early-review-abc-licences-november-26-en.mp3"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ghaziabad-woman-arrested-slow-poisoning-husband-lead-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ghaziabad-woman-arrested-slow-poisoning-husband-lead-november-25-hi.mp3",
@@ -3282,50 +3326,6 @@
     "title": "कर्नाटक सुप्रीम कोर्ट पहुंचा: तमिलनाडु की कावेरी–वैगै–गुंडार लिंक परियोजना पर रोक की मांग, बिना मंजूरी काम का आरोप",
     "summary": "कर्नाटक ने सुप्रीम कोर्ट से तमिलनाडु की कावेरी–वैगै–गुंडार नदी जोड़ परियोजना के किसी भी आगे के काम पर रोक लगाने की मांग की है। राज्य का आरोप है कि पहले चरण के कुछ हिस्से केंद्र सरकार की मंजूरी के बिना बनाए गए और यह बात अदालत से छिपाई गई। मामले की सुनवाई 10 दिसंबर को हो सकती है।"
    }
-  },
-  {
-   "id": "ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T04:04:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ncb-dea-operation-monsoon-thunder-five-lakh-tablets-six-arrested-november-24-en.mp3",
-   "en": {
-    "title": "6 held as NCB and US DEA bust 'Operation Monsoon Thunder' ring that sent 5 lakh opioid pills to America",
-    "summary": "Six Indians, including an MBA graduate and a man deported from the United States in 2024, have been arrested in a joint Narcotics Control Bureau and US Drug Enforcement Administration operation that allegedly shipped nearly 5 lakh opioid tablets to American buyers in about 3,000 parcels over four years."
-   },
-   "hi": {
-    "title": "एनसीबी-डीईए की 'ऑपरेशन मॉनसून थंडर' में 6 गिरफ्तार: अमेरिका भेजी गईं 5 लाख नशीली गोलियां, 59,000 ग्राहकों का डेटा भी मिला",
-    "summary": "भारत के नारकोटिक्स कंट्रोल ब्यूरो और अमेरिका की ड्रग एनफोर्समेंट एडमिनिस्ट्रेशन के संयुक्त अभियान में 6 भारतीय गिरफ्तार किए गए हैं। आरोप है कि इस गिरोह ने 4 साल में करीब 3,000 पार्सल में लगभग 5 लाख नशीली गोलियां अमेरिकी ग्राहकों तक पहुंचाईं। गिरफ्तार लोगों में एमबीए स्नातक और 2024 में अमेरिका से निकाला गया एक युवक भी शामिल है।"
-   }
-  },
-  {
-   "id": "kannauj-school-bus-truck-crash-four-children-killed-november-24",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T03:34:49+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kannauj-school-bus-truck-crash-four-children-killed-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-crash-four-children-killed-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kannauj-school-bus-truck-crash-four-children-killed-november-24-en.mp3",
-   "en": {
-    "title": "4 schoolchildren killed as truck rams parked bus on Lucknow-Agra Expressway in Kannauj",
-    "summary": "A speeding truck rammed into a stationary school bus on the Lucknow-Agra Expressway near Thathia in Kannauj early on Tuesday morning, killing 4 children and injuring 32 others. The bus, carrying students of Classes 6 to 10 back from a tour of Agra and Mathura, had stopped on the shoulder so the children could use the toilet."
-   },
-   "hi": {
-    "title": "कन्नौज में खड़ी स्कूल बस में पीछे से ट्रक की टक्कर, 4 स्कूली बच्चों की मौत",
-    "summary": "मंगलवार सुबह कन्नौज के थठिया के पास लखनऊ-आगरा एक्सप्रेसवे पर खड़ी स्कूल बस में तेज रफ्तार ट्रक ने पीछे से टक्कर मार दी, जिससे 4 बच्चों की मौत हो गई और 32 अन्य घायल हो गए। आगरा-मथुरा के दौरे से लौट रहे छठी से दसवीं कक्षा के छात्रों की बस शौच के लिए किनारे रुकी थी।"
-   },
-   "district": "Kannauj",
-   "state": "Uttar Pradesh"
   }
  ]
 }
