@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T00:41:46+05:30",
+ "updatedAt": "2026-11-27T00:56:20+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sagar-doctors-health-checkups-outside-liquor-shops-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sagar-doctors-health-checkups-outside-liquor-shops-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Health",
+   "en": {
+    "title": "Doctors set up health check-ups outside liquor shops in MP's Sagar district",
+    "summary": "Doctors and health workers in Madhya Pradesh's Sagar district have started conducting medical check-ups outside liquor shops, examining people who arrive to buy alcohol and counselling them about the health risks of drinking. The drive, run jointly by the health and excise departments on the District Magistrate's orders, follows more than 20 deaths in a spurious liquor tragedy in the Banda area in September. The check-ups are voluntary."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सागर में शराब की दुकानों के बाहर डॉक्टरों की टीम, खरीदने वालों की हो रही स्वास्थ्य जांच",
+    "summary": "मध्य प्रदेश के सागर जिले में शराब की दुकानों के बाहर डॉक्टर और स्वास्थ्य कर्मी शराब खरीदने आए लोगों की स्वास्थ्य जांच कर रहे हैं। जिलाधिकारी के निर्देश पर स्वास्थ्य और आबकारी विभाग की संयुक्त टीमें यह अभियान चला रही हैं। सितंबर में बांदा क्षेत्र में जहरीली शराब से 20 से ज्यादा लोगों की मौत के बाद यह पहल शुरू हुई है। जांच स्वैच्छिक है।"
+   },
+   "id": "sagar-doctors-health-checkups-outside-liquor-shops-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sagar-doctors-health-checkups-outside-liquor-shops-november-26.jpg",
+   "publishedAt": "2026-11-27T00:50:53+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Diseases",
+   "trending": true,
+   "district": "Sagar",
+   "state": "Madhya Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kharif-foodgrain-estimate-167-14-million-tonnes-record-2025-26-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kharif-foodgrain-estimate-167-14-million-tonnes-record-2025-26-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Agriculture",
+   "en": {
+    "title": "Kharif foodgrain output estimated at 167.14 million tonnes despite El Nino; 2025-26 output a record 378.54 million tonnes",
+    "summary": "Kharif foodgrain production in the 2026-27 crop year is projected at 167.14 million tonnes, 9.77 million tonnes higher than the average of the last 5 years, despite El Nino and a delayed monsoon, Agriculture Minister Shivraj Singh Chouhan said while releasing the first advance estimates. He also announced a record 378.54 million tonnes of foodgrain production in 2025-26, up 5.8% from a year earlier."
+   },
+   "featured": false,
+   "hi": {
+    "title": "खरीफ खाद्यान्न उत्पादन 167.14 मिलियन टन रहने का अनुमान, एल नीनो के बावजूद 5 साल के औसत से ज्यादा",
+    "summary": "कृषि मंत्री शिवराज सिंह चौहान ने कहा कि 2026-27 फसल वर्ष में खरीफ खाद्यान्न उत्पादन 167.14 मिलियन टन रहने का अनुमान है, जो पिछले 5 साल के औसत से 9.77 मिलियन टन ज्यादा है। एल नीनो और देर से आए मानसून के बावजूद यह अनुमान पहले अग्रिम अनुमानों में जारी किया गया है। 2025-26 में खाद्यान्न उत्पादन रिकॉर्ड 378.54 मिलियन टन रहा, जो 1 साल पहले से 5.8 प्रतिशत ज्यादा है।"
+   },
+   "id": "kharif-foodgrain-estimate-167-14-million-tonnes-record-2025-26-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kharif-foodgrain-estimate-167-14-million-tonnes-record-2025-26-november-26.jpg",
+   "publishedAt": "2026-11-27T00:50:53+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Crops",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/east-champaran-hooch-tragedy-four-life-imprisonment-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/east-champaran-hooch-tragedy-four-life-imprisonment-november-26-hi.mp3",
@@ -3282,50 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/icc-test-rankings-pant-gill-jaiswal-top-10-bumrah-joint-second-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "India",
-   "district": "Mumbai",
-   "en": {
-    "title": "Mumbai marks 18 years of 26/11: tributes for the 166 killed, and for the policemen who stood in the way",
-    "summary": "Eighteen years after 10 Lashkar-e-Taiba gunmen laid siege to Mumbai for 60 hours, the city pays tribute at the Gateway of India, CSMT and the Police Martyrs' Memorial, even as the trial of extradited accused Tahawwur Rana goes on in India."
-   },
-   "featured": false,
-   "hi": {
-    "title": "26/11 के 18 साल: मुंबई में 166 पीड़ितों और शहीद पुलिसकर्मियों को श्रद्धांजलि",
-    "summary": "26 नवंबर 2008 की रात 10 आतंकियों ने मुंबई को 60 घंटों तक बंधक बना लिया था, 166 लोग मारे गए थे। 18 साल बाद शहर गेटवे ऑफ इंडिया, सीएसएमटी और पुलिस शहीद स्मारक पर शहीदों को याद कर रहा है, जबकि अमेरिका से प्रत्यर्पित आरोपी तहव्वुर राणा पर भारत में मुकदमा चल रहा है।"
-   },
-   "id": "mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26",
-   "source": "PrimeFeed Desk",
-   "state": "Maharashtra",
-   "sub": "National",
-   "trending": true,
-   "publishedAt": "2026-11-26T00:41:19+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-18th-anniversary-26-11-terror-attacks-tributes-november-26-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "India",
-   "en": {
-    "title": "77th Constitution Day: Preamble readings and youth dialogues in 786 districts as India marks 77 years of its Constitution",
-    "summary": "The Constitution was adopted by the Constituent Assembly on 26 November 1949. On its 77th anniversary, the Preamble is being read in 23 languages online, schools are holding special assemblies, and the Constitution is being released in 22 regional languages."
-   },
-   "featured": false,
-   "hi": {
-    "title": "77वाँ संविधान दिवस: 786 जिलों में प्रस्तावना का पाठ, देश भर में संविधान के 77 साल पूरे होने का जश्न",
-    "summary": "26 नवंबर 1949 को संविधान सभा ने भारत का संविधान अपनाया था। 77वीं वर्षगाँठ पर 23 भाषाओं में ऑनलाइन प्रस्तावना का पाठ हो रहा है, स्कूलों में विशेष प्रार्थना सभाएँ हो रही हैं और संविधान 22 क्षेत्रीय भाषाओं में जारी किया जा रहा है।"
-   },
-   "id": "constitution-day-77th-india-preamble-readings-786-districts-november-26",
-   "source": "PrimeFeed Desk",
-   "sub": "National",
-   "trending": true,
-   "publishedAt": "2026-11-26T00:41:19+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/constitution-day-77th-india-preamble-readings-786-districts-november-26.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/constitution-day-77th-india-preamble-readings-786-districts-november-26-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/constitution-day-77th-india-preamble-readings-786-districts-november-26-en.mp3"
   }
  ]
 }
