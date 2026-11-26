@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T07:33:47+05:30",
+ "updatedAt": "2026-11-26T08:15:31+05:30",
  "articles": [
+  {
+   "audioEn": null,
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jk-pmjay-sehat-601-crore-dues-hospitals-crisis-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Government Schemes",
+   "district": "Srinagar",
+   "en": {
+    "title": "Rs 601 crore unpaid, J&K private hospitals say they are on the verge of bankruptcy",
+    "summary": "Private hospitals and dialysis centres empanelled under Ayushman Bharat-PMJAY and SEHAT in Jammu and Kashmir say Rs 601 crore in payments has been pending for more than 20 months, pushing them to the verge of bankruptcy. They warn they may have to suspend services that lakhs of poor patients depend on."
+   },
+   "featured": false,
+   "hi": {
+    "title": "601 करोड़ रुपये बकाया, जम्मू-कश्मीर के निजी अस्पताल बोले- दिवालिया होने की कगार पर हैं",
+    "summary": "जम्मू-कश्मीर में आयुष्मान भारत-पीएमजेएवाई और सेहत योजना के तहत सूचीबद्ध निजी अस्पतालों और डायलिसिस केंद्रों का कहना है कि 601 करोड़ रुपये का भुगतान 20 महीने से ज्यादा समय से लंबित है, जिससे वे दिवालिया होने की कगार पर पहुंच गए हैं। उन्होंने चेतावनी दी है कि अगर भुगतान नहीं हुआ तो वे उन सेवाओं को रोकने पर मजबूर होंगे, जिन पर लाखों गरीब मरीज निर्भर हैं।"
+   },
+   "id": "jk-pmjay-sehat-601-crore-dues-hospitals-crisis-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jk-pmjay-sehat-601-crore-dues-hospitals-crisis-november-26.jpg",
+   "publishedAt": "2026-11-26T07:57:21+05:30",
+   "source": "PrimeFeed Desk",
+   "state": "Jammu and Kashmir",
+   "sub": "Centre Schemes",
+   "trending": true
+  },
+  {
+   "audioEn": null,
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-rejects-ustr-excess-capacity-charge-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "India rejects US 'excess capacity' charge as USTR proposes 25% tariff, pushes for early trade deal",
+    "summary": "India has rejected Washington's charge that its manufacturing policies create structural excess capacity, after the US Trade Representative proposed tariffs of up to 25% on Indian goods, 17% if the two sides sign a trade deal. New Delhi said the notice is under examination and trade concerns should be settled through the bilateral trade agreement talks."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अमेरिका के 'अतिरिक्त क्षमता' वाले आरोप को भारत ने खारिज किया, यूएसटीआर ने 25% टैरिफ का प्रस्ताव रखा",
+    "summary": "अमेरिकी व्यापार प्रतिनिधि (यूएसटीआर) के भारतीय सामान पर 25% तक टैरिफ लगाने के प्रस्ताव के बाद भारत ने वाशिंगटन के इस आरोप को खारिज कर दिया है कि उसकी विनिर्माण नीतियां संरचनात्मक अतिरिक्त क्षमता पैदा करती हैं। अगर दोनों देश व्यापार समझौता कर लेते हैं तो यह दर 17% रह जाएगी। नई दिल्ली ने कहा है कि नोटिस पर विचार चल रहा है और व्यापार से जुड़ी चिंताओं का समाधान द्विपक्षीय व्यापार समझौते की बातचीत के दायरे में होना चाहिए।"
+   },
+   "id": "india-rejects-ustr-excess-capacity-charge-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-rejects-ustr-excess-capacity-charge-november-26.jpg",
+   "publishedAt": "2026-11-26T07:57:21+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": true
+  },
   {
    "id": "andhra-pradesh-panchayat-ulb-phase-1-polling-november-26",
    "category": "Politics",
@@ -3283,50 +3327,6 @@
    "hi": {
     "title": "गया के मजदूर के बेटों ने NEET और JEE में मारी बाजी: सोनू बनेगा डॉक्टर, मोनू इंजीनियर",
     "summary": "बिहार के गया जिले के 2 भाई, जिनके पिता अनाज मंडी में मजदूर हैं और जिन्होंने कोटा में कोचिंग की फीस के लिए परिवार के 2 छोटे खेतों में से 1 बेच दिया था, देश की सबसे कठिन प्रवेश परीक्षाओं में सफल हुए हैं। सोनू राज ने NEET 2026 में 636 अंक लाकर दिल्ली के सेंट्रल आर्म्ड पुलिस फोर्सेज़ इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ में दाखिला पाया है, जबकि मोनू राज ने JEE Main में 93 पर्सेंटाइल लाकर BIT मेसरा में केमिकल इंजीनियरिंग की सीट जीती है।"
-   }
-  },
-  {
-   "id": "amit-shah-kartarpur-corridor-reopen-security-concerns-november-24",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T05:31:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/amit-shah-kartarpur-corridor-reopen-security-concerns-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-kartarpur-corridor-reopen-security-concerns-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/amit-shah-kartarpur-corridor-reopen-security-concerns-november-24-en.mp3",
-   "en": {
-    "title": "Kartarpur corridor will reopen once security concerns are resolved, Amit Shah says",
-    "summary": "Union Home Minister Amit Shah said on Tuesday that the Sri Kartarpur Sahib Corridor will be reopened as soon as the national security concerns that led to its suspension are completely resolved. The corridor, which gives Sikh pilgrims visa-free access to Gurdwara Darbar Sahib in Pakistan, has been shut since 7 May 2025. No date for reopening was announced."
-   },
-   "hi": {
-    "title": "सुरक्षा चिंताएं दूर होते ही फिर खुलेगा करतारपुर कॉरिडोर, अमित शाह ने कहा",
-    "summary": "केंद्रीय गृह मंत्री अमित शाह ने मंगलवार को कहा कि श्री करतारपुर साहिब कॉरिडोर को जैसे ही राष्ट्रीय सुरक्षा से जुड़ी चिंताएं पूरी तरह दूर हो जाएंगी, उसे फिर से खोल दिया जाएगा। पाकिस्तान में गुरुद्वारा दरबार साहिब के बिना वीज़ा दर्शन की सुविधा देने वाला यह कॉरिडोर 7 मई 2025 से बंद है। फिर से खोलने की कोई तारीख घोषित नहीं की गई है।"
-   }
-  },
-  {
-   "id": "yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T05:10:02+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/yogi-adityanath-gonda-visit-november-27-tablet-distribution-thadakkipatti-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "en": {
-    "title": "CM Yogi to visit Gonda on November 27, will hand out tablets to meritorious students; preparations under way in Thadakkipatti",
-    "summary": "Chief Minister Yogi Adityanath will visit Gonda on Friday, 27 November, and hand out tablets to meritorious students at a programme in Thadakkipatti village in Belsar block. Senior district officials inspected the venue on Tuesday, and neighbouring Shravasti will send 1,100 students to the event."
-   },
-   "hi": {
-    "title": "27 नवंबर को गोंडा आएंगे सीएम योगी, मेधावी छात्रों को बांटेंगे टैबलेट; ठड़क्कीपट्टी में तैयारियां तेज",
-    "summary": "मुख्यमंत्री योगी आदित्यनाथ शुक्रवार, 27 नवंबर को गोंडा आएंगे और बेलसर ब्लॉक के ठड़क्कीपट्टी गांव में मेधावी छात्र-छात्राओं को टैबलेट वितरित करेंगे। मंगलवार को वरिष्ठ अधिकारियों ने कार्यक्रम स्थल का निरीक्षण किया, और पड़ोसी जिले श्रावस्ती से 1,100 छात्र-छात्राएं कार्यक्रम में शामिल होंगे।"
    }
   }
  ]
