@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-26T20:52:53+05:30",
+ "updatedAt": "2026-11-26T21:07:17+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-youth-dies-filming-reel-waterfall-digapahandi-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-youth-dies-filming-reel-waterfall-digapahandi-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Reel turns fatal: Berhampur youth, 20, dies after slipping into swollen stream at Ganjam waterfall",
+    "summary": "A 20-year-old medical aspirant from Berhampur died on Thursday after slipping into the swollen Magarma Nala stream near the Bankeswari temple in Ganjam district while filming a social media reel with a friend. Fire services personnel recovered his body from the water and doctors at the Digapahandi hospital declared him dead. Police have registered a case and sent the body to MKCG Medical College and Hospital in Berhampur for post-mortem."
+   },
+   "featured": false,
+   "hi": {
+    "title": "रील बनाते समय हादसा: गंजाम के झरने में फिसलकर गिरा बेरहामपुर का 20 साल का युवक, मौत",
+    "summary": "गंजाम जिले में गुरुवार को रील बनाते समय बेरहामपुर का 20 साल का युवक झरने के पास फिसलकर गहरे पानी में गिर गया और तेज बहाव में बहकर उसकी मौत हो गई। दिगपहांडी दमकल कर्मियों ने उसका शव पानी से निकाला और दिगपहांडी अस्पताल के डॉक्टरों ने उसे मृत घोषित कर दिया। पुलिस ने मामला दर्ज कर शव को पोस्टमॉर्टम के लिए बेरहामपुर के एमकेसीजी मेडिकल कॉलेज अस्पताल भेज दिया है।"
+   },
+   "id": "ganjam-youth-dies-filming-reel-waterfall-digapahandi-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-youth-dies-filming-reel-waterfall-digapahandi-november-26.jpg",
+   "publishedAt": "2026-11-26T21:04:09+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": true,
+   "district": "Ganjam",
+   "state": "Odisha"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/training-aircraft-forced-landing-golconda-hyderabad-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/training-aircraft-forced-landing-golconda-hyderabad-november-26-hi.mp3",
@@ -3305,27 +3328,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Business",
-   "en": {
-    "title": "US proposes 25% tariff on Indian goods, but 17% if a trade deal is signed",
-    "summary": "The US Trade Representative has proposed new tariffs on India and 13 other economies after an eight-month probe into excess industrial capacity. India faces up to 25%, falling to 17% if a trade deal is signed."
-   },
-   "featured": false,
-   "hi": {
-    "title": "अमेरिका ने भारतीय सामान पर 25% टैरिफ का प्रस्ताव रखा, व्यापार समझौता हुआ तो दर 17% होगी",
-    "summary": "अमेरिका के व्यापार प्रतिनिधि ने 8 महीने की जांच के बाद भारत समेत 14 अर्थव्यवस्थाओं पर नए टैरिफ का प्रस्ताव रखा है। भारत पर 25% तक शुल्क लग सकता है, लेकिन व्यापार समझौता होने पर यह दर घटकर 17% रह जाएगी।"
-   },
-   "id": "us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25",
-   "source": "PrimeFeed Desk",
-   "sub": "Economy",
-   "trending": true,
-   "publishedAt": "2026-11-25T19:33:45+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-proposes-25-percent-tariff-india-17-percent-trade-deal-november-25-en.mp3"
   }
  ]
 }
