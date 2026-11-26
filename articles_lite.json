@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T06:55:37+05:30",
+ "updatedAt": "2026-11-26T07:14:38+05:30",
  "articles": [
+  {
+   "id": "sit-reaches-jarange-home-in-jalna-takes-pen-drive-of-500-crore-audio-clip",
+   "category": "Politics",
+   "sub": "Regional Parties",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-26T07:08:59+05:30",
+   "source": "PrimeFeed Desk",
+   "district": "Jalna",
+   "state": "Maharashtra",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sit-reaches-jarange-home-in-jalna-takes-pen-drive-of-500-crore-audio-clip.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sit-reaches-jarange-home-in-jalna-takes-pen-drive-of-500-crore-audio-clip-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sit-reaches-jarange-home-in-jalna-takes-pen-drive-of-500-crore-audio-clip-en.mp3",
+   "en": {
+    "title": "SIT reaches Jarange's home in Jalna, takes pen drive of Rs 500-crore audio clip; activist demands probe into Ramdas Kadam too",
+    "summary": "A Mumbai Police SIT team visited Maratha quota activist Manoj Jarange Patil at Antarwali Sarati in Jalna district on Wednesday, took custody of the pen drive carrying the alleged Rs 500-crore audio clip, and recorded his statement. Jarange said he handed over the clip exactly as he received it, and demanded the SIT also question Shiv Sena leader Ramdas Kadam, hinting the same person may have given the clip to both men."
+   },
+   "hi": {
+    "title": "एसआईटी जालना में जरांगे के घर पहुँची, 500 करोड़ की ऑडियो क्लिप वाला पेन ड्राइव लिया; रामदास कदम की भी जाँच की माँग",
+    "summary": "मुंबई पुलिस की एसआईटी टीम बुधवार को जालना जिले के अंतरवाली सराटी में मराठा आरक्षण आंदोलक मनोज जरांगे पाटील के घर पहुँची, 500 करोड़ रुपये की कथित ऑडियो क्लिप वाला पेन ड्राइव अपने कब्जे में लिया और उनका बयान दर्ज किया। जरांगे ने कहा कि उन्होंने क्लिप ठीक उसी रूप में सौंपी है जैसी उन्हें मिली थी, और एसआईटी से शिवसेना नेता रामदास कदम से भी पूछताछ की माँग की। उनका इशारा था कि जिस व्यक्ति ने कदम को क्लिप दी, उसी ने उन्हें भी दी होगी।"
+   }
+  },
+  {
+   "id": "rbi-brings-home-60-tonnes-of-gold-in-six-months-84-percent-reserves-in-india",
+   "category": "Business",
+   "sub": "Economy",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-26T07:08:59+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rbi-brings-home-60-tonnes-of-gold-in-six-months-84-percent-reserves-in-india.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rbi-brings-home-60-tonnes-of-gold-in-six-months-84-percent-reserves-in-india-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rbi-brings-home-60-tonnes-of-gold-in-six-months-84-percent-reserves-in-india-en.mp3",
+   "en": {
+    "title": "RBI brings home 60 tonnes of gold in six months; 84 percent of its reserves now held in India",
+    "summary": "The Reserve Bank of India brought 60.08 tonnes of gold back to the country between April and September 2026, taking the share of its gold reserves held at home to 84.06 percent, its half-yearly reserves report released on Wednesday shows. Total holdings stayed unchanged at 880.52 tonnes."
+   },
+   "hi": {
+    "title": "आरबीआई ने 6 महीने में 60 टन सोना भारत वापस लाया; अब कुल भंडार का 84 प्रतिशत देश में",
+    "summary": "भारतीय रिज़र्व बैंक ने अप्रैल से सितंबर 2026 के बीच 60.08 टन सोना देश वापस लाया है। इससे देश में रखे गए उसके सोने के भंडार का हिस्सा 84.06 प्रतिशत हो गया है। यह जानकारी बुधवार को जारी विदेशी मुद्रा भंडार प्रबंधन पर उसकी छमाही रिपोर्ट में दी गई है। कुल भंडार 880.52 टन पर ही रहा।"
+   }
+  },
   {
    "id": "karnataka-hc-quashes-sringeri-ballot-tampering-fir-november-21",
    "category": "Crime & Law",
@@ -3283,50 +3327,6 @@
    "hi": {
     "title": "अमेरिका से स्वेच्छा से जाएंगे किल्मर अब्रेगो गार्सिया, स्पेन के लिए उड़ान; 20 महीने की कानूनी लड़ाई खत्म",
     "summary": "किल्मर अब्रेगो गार्सिया, 31, संघीय अधिकारियों के साथ हुए समझौते के तहत स्वेच्छा से अमेरिका छोड़ेंगे, अमेरिकी मीडिया ने मंगलवार को बताया। वह मंगलवार शाम यूरोप के लिए उड़ान भर सकते हैं, स्पेन जा रहे हैं, और अंत में मेक्सिको पहुंचने की योजना है।"
-   }
-  },
-  {
-   "id": "delhi-biker-killed-chinese-manjha-barapullah-expressway-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T04:52:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-biker-killed-chinese-manjha-barapullah-expressway-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-biker-killed-chinese-manjha-barapullah-expressway-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-biker-killed-chinese-manjha-barapullah-expressway-november-24-en.mp3",
-   "district": "South East Delhi",
-   "state": "Delhi",
-   "en": {
-    "title": "Delhi biker, 26, killed as banned Chinese manjha slits his throat on expressway near Barapullah",
-    "summary": "Vikas Singh, 26, was returning home from work on Monday when a banned Chinese kite string got entangled around his neck on a stretch of the Delhi-Mumbai Expressway near Barapullah, police said. He lost control of his motorcycle, crashed and died on the spot, leaving behind a wife and a three-month-old son."
-   },
-   "hi": {
-    "title": "दिल्ली: बारापुला के पास चाइनीज़ मांझे से 26 वर्षीय बाइक सवार की मौत, पीछे रह गए पत्नी और 3 महीने का बेटा",
-    "summary": "विकास सिंह, 26, सोमवार को काम से घर लौट रहे थे, जब दिल्ली-मुंबई एक्सप्रेसवे पर बारापुला के पास प्रतिबंधित चाइनीज़ मांझे की डोर उनके गले में फंस गई, पुलिस ने बताया। बाइक से नियंत्रण छूटा, वह गिर पड़े और मौके पर ही उनकी मौत हो गई। पीछे उनकी पत्नी और 3 महीने का बेटा रह गए।"
-   }
-  },
-  {
-   "id": "turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T04:52:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/turkiye-air-force-helicopter-crash-five-killed-eskisehir-november-24-en.mp3",
-   "en": {
-    "title": "Turkish Air Force helicopter crashes during training flight in Eskisehir, all 5 crew killed",
-    "summary": "A Turkish Air Force AS-532 Cougar helicopter crashed during a training flight in Eskisehir province on Tuesday evening, killing all five crew members, the Defence Ministry said. It is the second fatal Turkish military helicopter crash in 12 days."
-   },
-   "hi": {
-    "title": "तुर्किये: प्रशिक्षण उड़ान के दौरान वायुसेना का हेलीकॉप्टर दुर्घटनाग्रस्त, 5 जवानों की मौत",
-    "summary": "तुर्किये की वायुसेना का एएस-532 कूगर हेलीकॉप्टर मंगलवार शाम एस्किशेहिर प्रांत में प्रशिक्षण उड़ान के दौरान दुर्घटनाग्रस्त हो गया, जिसमें सवार सभी 5 जवानों की मौत हो गई, रक्षा मंत्रालय ने बताया। 12 दिनों में यह दूसरा घातक सैन्य हेलीकॉप्टर हादसा है।"
    }
   }
  ]
