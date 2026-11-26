@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T03:46:01+05:30",
+ "updatedAt": "2026-11-27T04:03:55+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-park-minor-assault-repeat-offender-arrested-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-park-minor-assault-repeat-offender-arrested-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Repeat offender held for assault on 10-year-old in northwest Delhi park, months after release from jail",
+    "summary": "A 10-year-old girl was allegedly sexually assaulted by a man inside a park in northwest Delhi on November 24, police said on Thursday. Locals heard the girl's cries, caught the accused and handed him over to the police. The accused, Rajesh Kumar Sharma, was convicted in a 2018 case involving the sexual assault of a minor and released from jail a few months ago. An FIR has been registered under the POCSO Act."
+   },
+   "featured": false,
+   "hi": {
+    "title": "उत्तर-पश्चिम दिल्ली के पार्क में 10 साल की बच्ची से दुष्कर्म का आरोप, आरोपी गिरफ्तार; 2018 के मामले में सजा काटकर कुछ महीने पहले ही छूटा था",
+    "summary": "उत्तर-पश्चिम दिल्ली के संगम पार्क इलाके के इस्माइल खान वाला बाग पार्क में 24 नवंबर को 10 साल की बच्ची से कथित तौर पर दुष्कर्म का मामला सामने आया है। बच्ची की चीख सुनकर आसपास के लोगों ने आरोपी को पकड़कर पुलिस के हवाले कर दिया। आरोपी राजेश कुमार शर्मा 2018 में नाबालिग से दुष्कर्म के मामले में दोषी ठहराया गया था और कुछ महीने पहले ही जेल से छूटा था। पॉक्सो कानून के तहत मामला दर्ज किया गया है।"
+   },
+   "id": "delhi-park-minor-assault-repeat-offender-arrested-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-park-minor-assault-repeat-offender-arrested-november-26.jpg",
+   "publishedAt": "2026-11-27T03:57:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "North West Delhi",
+   "state": "Delhi"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-closes-sunjay-kapur-mediation-trust-dispute-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-closes-sunjay-kapur-mediation-trust-dispute-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Supreme Court closes mediation in Sunjay Kapur's Rs 30,000-crore trust dispute; 'the battle begins now'",
+    "summary": "The Supreme Court on Thursday closed the mediation in the dispute over late industrialist Sunjay Kapur's family trust after the court-appointed mediator, former Chief Justice of India DY Chandrachud, reported that the talks had reached an impasse despite 15 sittings. Rani Kapur, 81, is seeking Rs 6,000 crore from the trust, whose corpus has been put at around Rs 30,000 crore. The court said it would now pass an order, and the rival claims will be tested in court."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुप्रीम कोर्ट ने संजय कपूर के 30,000 करोड़ रुपये के ट्रस्ट विवाद में मध्यस्थता खत्म की; 'अब लड़ाई शुरू'",
+    "summary": "सुप्रीम कोर्ट ने गुरुवार को दिवंगत उद्योगपति संजय कपूर के पारिवारिक ट्रस्ट को लेकर चल रहे विवाद में मध्यस्थता खत्म कर दी। कोर्ट के नियुक्त मध्यस्थ, भारत के पूर्व मुख्य न्यायाधीश डी. वाई. चंद्रचूड़ ने बताया कि 15 बैठकें होने के बावजूद कोई समझौता नहीं हो सका। 81 साल की रानी कपूर ट्रस्ट से 6,000 करोड़ रुपये मांग रही हैं, जबकि ट्रस्ट की कुल संपत्ति करीब 30,000 करोड़ रुपये बताई गई है। कोर्ट ने कहा कि अब वह आदेश पारित करेगा और दावों की जांच अदालत में होगी।"
+   },
+   "id": "supreme-court-closes-sunjay-kapur-mediation-trust-dispute-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-closes-sunjay-kapur-mediation-trust-dispute-november-26.jpg",
+   "publishedAt": "2026-11-27T03:57:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-suo-motu-pil-private-land-state-authorities-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-suo-motu-pil-private-land-state-authorities-november-26-hi.mp3",
@@ -3272,52 +3316,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Politics",
-   "district": "West Tripura",
-   "en": {
-    "title": "Campaigning ends for Tripura civic polls: CM Manik Saha leads final roadshow in Agartala, urges early voting on 27 November",
-    "summary": "Campaigning for Tripura's urban local body elections ended on Wednesday, with Chief Minister Manik Saha leading a final roadshow in Agartala's Ward No. 32 and urging voters to vote early on 27 November. The BJP has already won 77 of 345 seats unopposed; counting is on 2 December."
-   },
-   "featured": false,
-   "hi": {
-    "title": "त्रिपुरा निकाय चुनाव का प्रचार थमा: सीएम माणिक साहा ने अगरतला में अंतिम रोड शो किया, 27 नवंबर को सुबह मतदान की अपील की",
-    "summary": "त्रिपुरा में शहरी निकाय चुनावों का प्रचार बुधवार को थम गया। मुख्यमंत्री माणिक साहा ने अगरतला के वार्ड 32 में अंतिम रोड शो किया और 27 नवंबर को सुबह जल्दी मतदान की अपील की। भाजपा पहले ही 345 में से 77 सीटें निर्विरोध जीत चुकी है; गिनती 2 दिसंबर को होगी।"
-   },
-   "id": "tripura-civic-polls-campaign-ends-cm-manik-saha-final-roadshow-agartala",
-   "source": "PrimeFeed Desk",
-   "state": "Tripura",
-   "sub": "Elections",
-   "trending": true,
-   "publishedAt": "2026-11-26T04:02:00+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tripura-civic-polls-campaign-ends-cm-manik-saha-final-roadshow-agartala.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tripura-civic-polls-campaign-ends-cm-manik-saha-final-roadshow-agartala-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tripura-civic-polls-campaign-ends-cm-manik-saha-final-roadshow-agartala-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Bijnor",
-   "en": {
-    "title": "Bijnor man, 37, killed in sword attack over 20-yard land dispute; brother injured",
-    "summary": "A 37-year-old man was killed in a sword attack in Noorpur, Bijnor, in a killing the family links to an old dispute over a 20-yard plot of land. His brother, who tried to intervene, was injured. Police are investigating the case."
-   },
-   "featured": false,
-   "hi": {
-    "title": "बिजनौर में 20 गज जमीन के विवाद में 37 साल के अरवेंदर सिंह की तलवार से हत्या, भाई घायल",
-    "summary": "बिजनौर के नूरपुर में 20 गज जमीन के पुराने विवाद में 37 साल के अरवेंदर सिंह पूरन की तलवार से हत्या कर दी गई। खाना देकर लौटते समय रास्ते में घेरकर उन पर हमला किया गया। भाई गुरचरन सिंह भी घायल हुए। पुलिस मामले की जांच कर रही है।"
-   },
-   "id": "bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Uttar Pradesh",
-   "sub": "Police & Crime",
-   "trending": false,
-   "publishedAt": "2026-11-26T03:44:37+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25-en.mp3"
   }
  ]
 }
