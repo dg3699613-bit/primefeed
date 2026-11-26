@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T08:15:31+05:30",
+ "updatedAt": "2026-11-26T08:27:13+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-stf-arrests-russia-job-racket-kingpin-pankaj-nishad-ambedkar-nagar-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-stf-arrests-russia-job-racket-kingpin-pankaj-nishad-ambedkar-nagar-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Ambedkar Nagar",
+   "en": {
+    "title": "UP STF arrests fake Russia jobs racket kingpin in Ambedkar Nagar; Rs 50,000 reward on Pankaj Nishad",
+    "summary": "The Uttar Pradesh Special Task Force has arrested Pankaj Nishad alias Golu, the alleged kingpin of a gang that duped job-seekers with promises of construction work in Russia, collecting up to Rs 1.60 lakh from each applicant. Nishad, who carried a Rs 50,000 reward, was picked up in Ambedkar Nagar in a 2024 Ayodhya cheating case."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अंबेडकर नगर में फर्जी रूस नौकरी रैकेट का सरगना गिरफ्तार; पंकज निषाद पर 50,000 रुपये का इनाम था",
+    "summary": "उत्तर प्रदेश विशेष कार्य बल (एसटीएफ) ने रूस में निर्माण कार्य के नाम पर नौकरी का झांसा देकर ठगने वाले गिरोह के कथित सरगना पंकज निषाद उर्फ गोलू को गिरफ्तार किया है। निषाद पर 50,000 रुपये का इनाम था और वह 2024 के अयोध्या धोखाधड़ी मामले में वांछित था। गिरोह हर आवेदक से 1.60 लाख रुपये तक लेता था।"
+   },
+   "id": "up-stf-arrests-russia-job-racket-kingpin-pankaj-nishad-ambedkar-nagar-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/up-stf-arrests-russia-job-racket-kingpin-pankaj-nishad-ambedkar-nagar-november-25.jpg",
+   "publishedAt": "2026-11-26T08:21:36+05:30",
+   "source": "PrimeFeed Desk",
+   "state": "Uttar Pradesh",
+   "sub": "Scams & Fraud",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-raids-sad-leader-ravinder-singh-khera-kharar-mohali-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-raids-sad-leader-ravinder-singh-khera-kharar-mohali-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Mohali",
+   "en": {
+    "title": "ED raids SAD leader Ravinder Singh Khera's home and office in Kharar, a day after SAD-BJP alliance returns",
+    "summary": "The Enforcement Directorate searched the home and office of Shiromani Akali Dal leader Ravinder Singh Khera in Kharar on Wednesday, a day after the SAD and BJP announced their pre-poll alliance for the 2027 Punjab elections. Officials said the action stems from a January 2023 CBI case over alleged favours to rice millers in foodgrain procurement."
+   },
+   "featured": false,
+   "hi": {
+    "title": "शिअद-भाजपा गठबंधन के एक दिन बाद ईडी ने खरड़ में अकाली नेता रवींद्र सिंह खेरा के घर और दफ्तर पर छापे मारे",
+    "summary": "प्रवर्तन निदेशालय ने बुधवार को शिरोमणि अकाली दल के नेता रवींद्र सिंह खेरा के खरड़ स्थित घर और दफ्तर की तलाशी ली। यह कार्रवाई शिअद-भाजपा गठबंधन की घोषणा के एक दिन बाद हुई। अधिकारियों ने कहा कि कार्रवाई की जड़ जनवरी 2023 के सीबीआई मामले में है, जिसमें खाद्यान्न खरीद में एफसीआई अधिकारियों के साथ मिलीभगत का आरोप है।"
+   },
+   "id": "ed-raids-sad-leader-ravinder-singh-khera-kharar-mohali-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-raids-sad-leader-ravinder-singh-khera-kharar-mohali-november-25.jpg",
+   "publishedAt": "2026-11-26T08:21:36+05:30",
+   "source": "PrimeFeed Desk",
+   "state": "Punjab",
+   "sub": "Police & Crime",
+   "trending": true
+  },
   {
    "audioEn": null,
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jk-pmjay-sehat-601-crore-dues-hospitals-crisis-november-26-hi.mp3",
@@ -3283,50 +3329,6 @@
    "hi": {
     "title": "राजस्थान में ठंड का सितम: फतेहपुर में पारा 2.4 डिग्री, चूरू में 4.1; अगले 48 घंटों में और गिरेगा तापमान",
     "summary": "राजस्थान में ठंड ने अपनी पकड़ मज़बूत कर ली है। सीकर जिले के फतेहपुर में 24 नवंबर को न्यूनतम तापमान 2.4 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम है, जबकि चूरू में पारा 4.1 डिग्री रहा। जयपुर मौसम विज्ञान केंद्र के मुताबिक अगले 48 घंटों में उत्तरी और पूर्वी राजस्थान में रात का तापमान 1 से 2 डिग्री और गिर सकता है, और प्रदेश में 1 सप्ताह तक मौसम शुष्क रहेगा।"
-   }
-  },
-  {
-   "id": "rajasthan-zila-pramukh-elections-37-districts-november-25",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T05:58:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-zila-pramukh-elections-37-districts-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-elections-37-districts-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-elections-37-districts-november-25-en.mp3",
-   "en": {
-    "title": "Rajasthan picks zila pramukhs in 37 districts today: Congress claims 27, BJP eyes 12-13",
-    "summary": "Rajasthan votes on Tuesday for the heads of its zila parishads in 37 districts, the final leg of panchayat elections in which the Congress won 796 of 1,275 seats last week. The Congress, with a majority in 23 districts, claims it will win 27; the BJP, which has a majority in only 5, is contesting all 37 and aiming for 12 to 13 posts. Voting runs from 3 pm to 5 pm, with results on Tuesday evening."
-   },
-   "hi": {
-    "title": "राजस्थान के 37 जिलों में आज जिला प्रमुख का चुनाव: कांग्रेस का 27 जिलों में जीत का दावा, बीजेपी की नज़र 12-13 पर",
-    "summary": "राजस्थान में मंगलवार को 37 जिलों में जिला परिषद प्रमुखों का चुनाव हो रहा है, जो पंचायत चुनाव का आखिरी चरण है। पिछले हफ्ते कांग्रेस ने 1,275 में से 796 सीटें जीती थीं, जिससे उसे 23 जिलों में बहुमत मिला है; कांग्रेस का दावा है कि वह 27 जिलों में जीत हासिल करेगी, जबकि बीजेपी 12 से 13 पदों पर नज़र लगाए है। मतदान 3 बजे से 5 बजे तक होगा और परिणाम मंगलवार शाम को आएंगे।"
-   }
-  },
-  {
-   "id": "gaya-porter-sons-crack-neet-jee-november-14",
-   "category": "Education",
-   "sub": "Results",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T05:31:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gaya-porter-sons-crack-neet-jee-november-14.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaya-porter-sons-crack-neet-jee-november-14-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gaya-porter-sons-crack-neet-jee-november-14-en.mp3",
-   "district": "Gaya",
-   "state": "Bihar",
-   "en": {
-    "title": "Gaya porter's sons crack NEET and JEE: Sonu heads for MBBS, Monu for engineering at BIT Mesra",
-    "summary": "Two brothers from Gaya district in Bihar, sons of a grain-market porter who sold one of the family's two small plots of land to pay for their coaching in Kota, have cracked India's toughest entrance exams. Sonu Raj scored 636 marks in NEET 2026 and has secured admission to the Central Armed Police Forces Institute of Medical Sciences in Delhi, while Monu Raj scored in the 93rd percentile in JEE Main and has won a Chemical Engineering seat at BIT Mesra."
-   },
-   "hi": {
-    "title": "गया के मजदूर के बेटों ने NEET और JEE में मारी बाजी: सोनू बनेगा डॉक्टर, मोनू इंजीनियर",
-    "summary": "बिहार के गया जिले के 2 भाई, जिनके पिता अनाज मंडी में मजदूर हैं और जिन्होंने कोटा में कोचिंग की फीस के लिए परिवार के 2 छोटे खेतों में से 1 बेच दिया था, देश की सबसे कठिन प्रवेश परीक्षाओं में सफल हुए हैं। सोनू राज ने NEET 2026 में 636 अंक लाकर दिल्ली के सेंट्रल आर्म्ड पुलिस फोर्सेज़ इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ में दाखिला पाया है, जबकि मोनू राज ने JEE Main में 93 पर्सेंटाइल लाकर BIT मेसरा में केमिकल इंजीनियरिंग की सीट जीती है।"
    }
   }
  ]
