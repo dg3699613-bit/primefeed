@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-26T13:25:15+05:30",
+ "updatedAt": "2026-11-26T13:37:45+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/surrendered-terrorist-on-run-20-years-arrested-reasi-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/surrendered-terrorist-on-run-20-years-arrested-reasi-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Surrendered terrorist on the run for over 20 years arrested in J&K's Reasi",
+    "summary": "Reasi Police have arrested Mohd Mansha, a surrendered terrorist who had been absconding for over 20 years in connection with 13 cases, including a case in which a Special Police Officer was killed in 2000. A warrant against him had been pending since 2001; a special police team traced him to Tral in Awantipora and arrested him with the help of local police."
+   },
+   "featured": false,
+   "hi": {
+    "title": "20 साल से फरार आतंकवादी मोहम्मद मंशा रियासी में गिरफ्तार",
+    "summary": "रियासी पुलिस ने मोहम्मद मंशा को गिरफ्तार किया है, जो आत्मसमर्पण के बाद 20 साल से ज्यादा समय से फरार था। उस पर 2000 से 2007 के बीच दर्ज 13 मामलों में आरोप हैं, जिनमें वह मामला भी शामिल है जिसमें जम्मू-कश्मीर पुलिस के एसपीओ की मौत हुई थी। उसके खिलाफ 2001 से गिरफ्तारी वारंट लंबित था; पुलिस की विशेष टीम ने उसे अवंतीपोरा के त्राल में खोजकर गिरफ्तार किया।"
+   },
+   "id": "surrendered-terrorist-on-run-20-years-arrested-reasi-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/surrendered-terrorist-on-run-20-years-arrested-reasi-november-26.jpg",
+   "publishedAt": "2026-11-26T13:35:22+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Reasi",
+   "state": "Jammu and Kashmir"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baramati-traffic-constable-dragged-on-thar-bonnet-fancy-number-plate-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baramati-traffic-constable-dragged-on-thar-bonnet-fancy-number-plate-november-25-hi.mp3",
@@ -3313,29 +3336,6 @@
     "title": "रूस के हमलों में ओडेसा में 2 लोगों की मौत, कीव में अपार्टमेंट में लगी आग",
     "summary": "रूस ने रात में यूक्रेन पर हमले किए, जिसमें ओडेसा क्षेत्र में 2 लोगों की मौत हो गई और 1 बच्चे समेत 3 लोग घायल हो गए। कीव में रूसी ड्रोन के मलबे से 16 मंजिला अपार्टमेंट इमारत में आग लग गई और 2 लोग घायल हुए। रॉयटर्स ने कहा है कि वह इन खबरों की स्वतंत्र पुष्टि नहीं कर सका है।"
    }
-  },
-  {
-   "id": "eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T12:53:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eight-buses-gutted-in-midnight-fire-in-cuttack-no-casualties-reported-en.mp3",
-   "en": {
-    "title": "Eight buses gutted in midnight fire in Cuttack, no casualties reported",
-    "summary": "Eight private buses parked near OSL Tower on Link Road in Cuttack were gutted after a fire broke out late on Tuesday night. The blaze spread rapidly from one bus to another, destroying all eight. The district fire officer confirmed no casualties; the cause of the fire is still unknown."
-   },
-   "hi": {
-    "title": "कटक में आधी रात को लगी आग से 8 बसें जलकर खाक, कोई हताहत नहीं",
-    "summary": "ओडिशा के कटक में मंगलवार देर रात लिंक रोड के पास खड़ी 8 निजी बसों में आग लग गई। देखते ही देखते आग एक बस से दूसरी बस तक फैल गई और सभी 8 बसें जलकर खाक हो गईं। जिला अग्निशमन अधिकारी ने बताया कि हादसे में कोई हताहत नहीं हुआ है; आग लगने का कारण अभी पता नहीं चला है।"
-   },
-   "district": "Cuttack",
-   "state": "Odisha"
   }
  ]
 }
