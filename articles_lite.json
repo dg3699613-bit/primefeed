@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T04:03:55+05:30",
+ "updatedAt": "2026-11-27T04:17:38+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-sets-aside-bjp-mla-om-kumar-election-nehtaur-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-sets-aside-bjp-mla-om-kumar-election-nehtaur-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Allahabad High Court voids BJP MLA Om Kumar's Nehtaur election over defective nomination affidavit",
+    "summary": "The Allahabad High Court on Thursday set aside the election of BJP MLA Om Kumar from the Nehtaur Assembly seat in Uttar Pradesh's Bijnor district, holding that his nomination paper was improperly accepted because his Form 26 affidavit suffered from a defect of substantial character. Om Kumar, who defeated RLD candidate Munshi Ram by 258 votes in the 2022 election, has 15 days to approach the Supreme Court."
+   },
+   "featured": false,
+   "hi": {
+    "title": "इलाहाबाद हाई कोर्ट ने बीजेपी विधायक ओम कुमार का नेहतौर चुनाव रद्द किया; नामांकन हलफनामे में खामी",
+    "summary": "इलाहाबाद हाई कोर्ट ने गुरुवार को उत्तर प्रदेश के बिजनौर जिले की नेहतौर विधानसभा सीट से बीजेपी विधायक ओम कुमार का चुनाव रद्द कर दिया। कोर्ट ने कहा कि उनका नामांकन पत्र गलत तरीके से स्वीकार किया गया था, क्योंकि फॉर्म 26 के हलफनामे में गंभीर खामी थी। 2022 के चुनाव में रालोद उम्मीदवार मुंशी राम को 258 वोटों से हराने वाले ओम कुमार के पास सुप्रीम कोर्ट जाने के लिए 15 दिन हैं।"
+   },
+   "id": "allahabad-hc-sets-aside-bjp-mla-om-kumar-election-nehtaur-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/allahabad-hc-sets-aside-bjp-mla-om-kumar-election-nehtaur-november-26.jpg",
+   "publishedAt": "2026-11-27T04:13:36+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "Bijnor",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-3-60-moves-world-chess-championship-level-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-3-60-moves-world-chess-championship-level-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "en": {
+    "title": "Gukesh holds Sindarov to a 60-move draw in Game 3; World Chess Championship level at 1.5-1.5",
+    "summary": "Defending champion D Gukesh held challenger Javokhir Sindarov to a draw in Game 3 of the World Chess Championship in Geneva on Thursday, after 60 moves and nearly 5 hours of play. With all 3 games drawn, the scores are level at 1.5-1.5. Friday is a rest day; Game 4 is on Saturday, with Gukesh playing White."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गुकेश ने सिंदारोव को 60 चालों के बाद ड्रॉ पर रोका; विश्व शतरंज चैंपियनशिप में स्कोर 1.5-1.5",
+    "summary": "गत चैंपियन डी. गुकेश ने गुरुवार को जिनेवा में विश्व शतरंज चैंपियनशिप के तीसरे गेम में चैलेंजर जावोखिर सिंदारोव को 60 चालों और करीब 5 घंटे के खेल के बाद ड्रॉ पर रोक दिया। तीनों गेम ड्रॉ रहे हैं और स्कोर 1.5-1.5 से बराबर है। शुक्रवार को विश्राम दिवस है और चौथा गेम शनिवार को खेला जाएगा, जिसमें गुकेश सफेद मोहरों से खेलेंगे।"
+   },
+   "id": "gukesh-sindarov-draw-game-3-60-moves-world-chess-championship-level-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-sindarov-draw-game-3-60-moves-world-chess-championship-level-november-26.jpg",
+   "publishedAt": "2026-11-27T04:13:36+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Chess",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-park-minor-assault-repeat-offender-arrested-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-park-minor-assault-repeat-offender-arrested-november-26-hi.mp3",
@@ -3272,50 +3316,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/groundwater-falls-over-1-5-metres-in-budgam-pulwama-mining-zones-study.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/groundwater-falls-over-1-5-metres-in-budgam-pulwama-mining-zones-study-hi.mp3",
    "audioEn": null
-  },
-  {
-   "breaking": false,
-   "category": "Politics",
-   "en": {
-    "title": "PM Modi tells ministers to stay put and be ready: next Parliament session likely before 15 December",
-    "summary": "Prime Minister Narendra Modi has asked ministers to complete preparations for the next Parliament session before 15 December and avoid foreign travel, with the Cabinet Committee on Parliamentary Affairs to fix the dates. The Monsoon Session remains unprorogued more than 100 days after the Houses were adjourned on 13 August."
-   },
-   "featured": false,
-   "hi": {
-    "title": "पीएम मोदी ने मंत्रियों से कहा — तैयार रहें, विदेश यात्रा टालें: संसद का अगला सत्र 15 दिसंबर से पहले संभव",
-    "summary": "प्रधानमंत्री नरेंद्र मोदी ने मंत्रियों से कहा है कि संसद के अगले सत्र की तैयारियाँ 15 दिसंबर से पहले पूरी कर लें और विदेश यात्रा से बचें। सत्र की तारीखों पर अंतिम फैसला संसदीय मामलों की कैबिनेट समिति लेगी। 13 अगस्त को स्थगित मानसून सत्र अब भी समाप्त घोषित नहीं हुआ है।"
-   },
-   "id": "pm-modi-asks-ministers-to-stay-ready-parliament-session-likely-before-december-15",
-   "source": "PrimeFeed Desk",
-   "sub": "Parliament",
-   "trending": true,
-   "publishedAt": "2026-11-26T04:27:56+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-asks-ministers-to-stay-ready-parliament-session-likely-before-december-15.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-asks-ministers-to-stay-ready-parliament-session-likely-before-december-15-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-asks-ministers-to-stay-ready-parliament-session-likely-before-december-15-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Coimbatore",
-   "en": {
-    "title": "State audit flags ₹2,277-crore gaps in Coimbatore Corporation books over 5 years; property tax lapses top ₹2,050 crore",
-    "summary": "A state audit has flagged discrepancies of ₹2,277.27 crore in Coimbatore Corporation's accounts between 2021-22 and 2025-26, with property tax lapses alone accounting for ₹2,050.41 crore. The 419-page report, obtained through RTI, recommends action against officials and recovery of the losses."
-   },
-   "featured": false,
-   "hi": {
-    "title": "राज्य ऑडिट में कोयंबटूर नगर निगम के खातों में 5 साल में 2,277 करोड़ रुपये की गड़बड़ियाँ, संपत्ति कर में सबसे बड़ी चूक",
-    "summary": "तमिलनाडु सरकार के ऑडिट विभाग की ओर से किए गए ऑडिट में कोयंबटूर नगर निगम के खातों में 2021-22 से 2025-26 के बीच 2,277.27 करोड़ रुपये की गड़बड़ियाँ सामने आई हैं। अकेले संपत्ति कर की चूक 2,050.41 करोड़ रुपये की है। 419 पन्नों की रिपोर्ट में अधिकारियों पर कार्रवाई और नुकसान की भरपाई की सिफारिश की गई है।"
-   },
-   "id": "state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years",
-   "source": "PrimeFeed Desk",
-   "state": "Tamil Nadu",
-   "sub": "South India",
-   "trending": true,
-   "publishedAt": "2026-11-26T04:02:00+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/state-audit-flags-2277-crore-irregularities-in-coimbatore-corporation-over-five-years-en.mp3"
   }
  ]
 }
