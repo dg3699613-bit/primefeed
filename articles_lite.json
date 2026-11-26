@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-26T17:23:39+05:30",
+ "updatedAt": "2026-11-26T17:42:27+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-213-indians-missing-august-floods-presumed-dead-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nepal-213-indians-missing-august-floods-presumed-dead-november-26-hi.mp3",
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "Nepal begins process to declare 213 Indians missing in August flash floods presumed dead",
+    "summary": "Nepal has begun the process of declaring 213 Indian nationals missing since the August 26 flash floods in the Trishuli-Bhote Koshi river system presumed dead. The disaster authority has published the list and invited objections by December 2, the Indian Embassy in Kathmandu said."
+   },
+   "featured": false,
+   "hi": {
+    "title": "नेपाल में अगस्त की बाढ़ में लापता 213 भारतीयों को मृत घोषित करने की प्रक्रिया शुरू",
+    "summary": "नेपाल सरकार ने 26 अगस्त को त्रिशूली-भोटे कोशी नदी तंत्र में आई बाढ़ के बाद से लापता 213 भारतीय नागरिकों को मृत घोषित करने की प्रक्रिया शुरू कर दी है। आपदा प्राधिकरण ने सूची प्रकाशित कर 2 दिसंबर तक आपत्तियां मांगी हैं, काठमांडू स्थित भारतीय दूतावास ने यह जानकारी दी है।"
+   },
+   "id": "nepal-213-indians-missing-august-floods-presumed-dead-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nepal-213-indians-missing-august-floods-presumed-dead-november-26.jpg",
+   "publishedAt": "2026-11-26T17:36:11+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Asia",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-attaches-ozone-group-properties-702-crore-homebuyers-fraud-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-attaches-ozone-group-properties-702-crore-homebuyers-fraud-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "ED attaches Ozone Group flats, land worth Rs 702.70 crore in Rs 1,305 crore homebuyers fraud case",
+    "summary": "The Enforcement Directorate has attached flats and land worth Rs 702.70 crore in a money-laundering case linked to Ozone Group companies, through a provisional attachment order dated November 25. The agency alleges the group defrauded homebuyers of Rs 1,305.11 crore across 5 projects and diverted the money to repay loans and meet corporate expenses."
+   },
+   "featured": false,
+   "hi": {
+    "title": "ईडी ने ओज़ोन समूह की 702.70 करोड़ रुपये की संपत्ति कुर्क की, घर खरीदारों से 1,305.11 करोड़ रुपये की धोखाधड़ी का आरोप",
+    "summary": "प्रवर्तन निदेशालय ने ओज़ोन समूह की कंपनियों से जुड़े धन शोधन मामले में 25 नवंबर के अस्थायी कुर्की आदेश से 702.70 करोड़ रुपये के फ्लैट और जमीन कुर्क किए हैं। एजेंसी का आरोप है कि समूह ने 5 परियोजनाओं में घर खरीदारों से 1,305.11 करोड़ रुपये की धोखाधड़ी की और पैसा कर्ज चुकाने व कंपनी के खर्चों में लगा दिया।"
+   },
+   "id": "ed-attaches-ozone-group-properties-702-crore-homebuyers-fraud-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ed-attaches-ozone-group-properties-702-crore-homebuyers-fraud-november-26.jpg",
+   "publishedAt": "2026-11-26T17:36:11+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Scams & Fraud",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangkok-bangchak-refinery-explosion-seven-injured-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangkok-bangchak-refinery-explosion-seven-injured-november-26-hi.mp3",
@@ -3284,50 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congress-sp-seat-sharing-row-120-seats-masood-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-sp-seat-sharing-row-120-seats-masood-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congress-sp-seat-sharing-row-120-seats-masood-november-25-en.mp3"
-  },
-  {
-   "id": "pune-shivajinagar-court-attack-kiwale-identified-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T16:45:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-shivajinagar-court-attack-kiwale-identified-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-attack-kiwale-identified-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-attack-kiwale-identified-november-25-en.mp3",
-   "district": "Pune",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "पुणे कोर्ट हमले में घायल शख्स की पहचान: हत्या का आरोपी मंदर किवले, 4 दिन पहले ही जमानत पर छूटा था; पुलिस बदले के एंगल की जांच में",
-    "summary": "पुणे के शिवाजीनगर कोर्ट के बाहर दिनदहाड़े हुए हमले में घायल शख्स की पहचान मंदर मारुति किवले के रूप में हुई है। 35 वर्षीय किवले 2025 के एक हत्या मामले में आरोपी है और 4 दिन पहले ही जेल से जमानत पर बाहर आया था। हमलावरों ने उसका 1 हाथ काट दिया था और उस पर गोली चलाने की कोशिश भी की थी। उसकी हालत ससून जनरल अस्पताल में गंभीर बनी हुई है और पुलिस यह जांच रही है कि क्या हमला पुराने मामले से जुड़े बदले की कार्रवाई था।"
-   },
-   "en": {
-    "title": "Pune court attack victim identified as murder accused Mandar Kiwale, out on bail for 4 days; police probe revenge link",
-    "summary": "Hours after the daylight attack outside Pune's Shivajinagar court, police identified the injured man as Mandar Maruti Kiwale, 35, an accused in a 2025 murder case who had been released from prison four days ago. He is in critical condition at Sassoon General Hospital after assailants severed one of his hands and tried to fire at him; police are examining whether the attack was retaliation linked to the old case."
-   }
-  },
-  {
-   "id": "ipl-2027-auction-1220-players-register-66-slots-november-25",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T16:45:46+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ipl-2027-auction-1220-players-register-66-slots-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ipl-2027-auction-1220-players-register-66-slots-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ipl-2027-auction-1220-players-register-66-slots-november-25-en.mp3",
-   "hi": {
-    "title": "आईपीएल 2027 नीलामी: 66 स्लॉट के लिए 1,220 खिलाड़ियों ने कराया पंजीकरण, स्टोक्स, वॉर्नर और बोल्ट भी मैदान में; 16 दिसंबर को गोवा में नीलामी",
-    "summary": "बीसीसीआई ने आईपीएल 2027 की नीलामी के लिए खिलाड़ियों की सूची जारी कर दी है। 17 देशों के 281 विदेशी क्रिकेटरों सहित 939 भारतीयों समेत कुल 1,220 खिलाड़ी 66 स्लॉट के लिए दौड़ में हैं। बेन स्टोक्स, डेविड वॉर्नर और ट्रेंट बोल्ट भी सूची में हैं और नीलामी 16 दिसंबर को गोवा में होगी।"
-   },
-   "en": {
-    "title": "IPL 2027 auction: 1,220 players register for 66 slots as Stokes, Warner and Boult sign up; auction in Goa on December 16",
-    "summary": "The BCCI has released the player register for the IPL 2027 auction, with 1,220 players — 939 Indians and 281 overseas cricketers from 17 countries — chasing a maximum of 66 squad slots. Ben Stokes, David Warner and Trent Boult are among the registered names, and the auction will be held in Goa on December 16."
-   }
   }
  ]
 }
