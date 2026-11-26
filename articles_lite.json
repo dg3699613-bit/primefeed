@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-26T07:14:38+05:30",
+ "updatedAt": "2026-11-26T07:33:47+05:30",
  "articles": [
+  {
+   "id": "andhra-pradesh-panchayat-ulb-phase-1-polling-november-26",
+   "category": "Politics",
+   "sub": "Elections",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-26T07:30:44+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/andhra-pradesh-panchayat-ulb-phase-1-polling-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-pradesh-panchayat-ulb-phase-1-polling-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/andhra-pradesh-panchayat-ulb-phase-1-polling-november-26-en.mp3",
+   "en": {
+    "title": "Andhra Pradesh votes today in first phase of panchayat and urban local body polls, 3,191 sarpanch posts at stake",
+    "summary": "Polling is under way in Andhra Pradesh for the first phase of gram panchayat elections and elections to 23 urban local bodies. In 201 mandals across 26 districts, 9,052 candidates are contesting 3,191 sarpanch posts, with voting from 7 am to 1 pm and counting from 2 pm. Results will be declared the same day."
+   },
+   "hi": {
+    "title": "आंध्र प्रदेश में पंचायत और शहरी निकाय चुनाव के पहले चरण का मतदान आज, 3,191 सरपंच पदों पर वोटिंग",
+    "summary": "आंध्र प्रदेश में आज पहले चरण के पंचायत चुनाव और 23 शहरी निकायों के लिए मतदान हो रहा है। राज्य के 26 जिलों के 201 मंडलों में 3,191 सरपंच पदों के लिए 9,052 उम्मीदवार मैदान में हैं। पंचायतों में मतदान सुबह 7 बजे से दोपहर 1 बजे तक होगा और मतगणना दोपहर 2 बजे से शुरू होकर नतीजे आज ही घोषित कर दिए जाएंगे।"
+   }
+  },
   {
    "id": "sit-reaches-jarange-home-in-jalna-takes-pen-drive-of-500-crore-audio-clip",
    "category": "Politics",
@@ -3306,27 +3327,6 @@
    "hi": {
     "title": "27 नवंबर को गोंडा आएंगे सीएम योगी, मेधावी छात्रों को बांटेंगे टैबलेट; ठड़क्कीपट्टी में तैयारियां तेज",
     "summary": "मुख्यमंत्री योगी आदित्यनाथ शुक्रवार, 27 नवंबर को गोंडा आएंगे और बेलसर ब्लॉक के ठड़क्कीपट्टी गांव में मेधावी छात्र-छात्राओं को टैबलेट वितरित करेंगे। मंगलवार को वरिष्ठ अधिकारियों ने कार्यक्रम स्थल का निरीक्षण किया, और पड़ोसी जिले श्रावस्ती से 1,100 छात्र-छात्राएं कार्यक्रम में शामिल होंगे।"
-   }
-  },
-  {
-   "id": "kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T05:10:02+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kilmar-abrego-garcia-leave-us-voluntarily-spain-november-24-en.mp3",
-   "en": {
-    "title": "Kilmar Abrego Garcia to leave US voluntarily and fly to Spain, ending 20-month legal saga",
-    "summary": "Kilmar Abrego Garcia, 31, will leave the United States voluntarily under a negotiated agreement with federal authorities, US media reported on Tuesday. He is expected to fly to Europe on Tuesday evening, heading for Spain, and ultimately plans to make his way to Mexico."
-   },
-   "hi": {
-    "title": "अमेरिका से स्वेच्छा से जाएंगे किल्मर अब्रेगो गार्सिया, स्पेन के लिए उड़ान; 20 महीने की कानूनी लड़ाई खत्म",
-    "summary": "किल्मर अब्रेगो गार्सिया, 31, संघीय अधिकारियों के साथ हुए समझौते के तहत स्वेच्छा से अमेरिका छोड़ेंगे, अमेरिकी मीडिया ने मंगलवार को बताया। वह मंगलवार शाम यूरोप के लिए उड़ान भर सकते हैं, स्पेन जा रहे हैं, और अंत में मेक्सिको पहुंचने की योजना है।"
    }
   }
  ]
