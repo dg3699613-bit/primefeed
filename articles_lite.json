@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T13:37:45+05:30",
+ "updatedAt": "2026-11-26T13:52:04+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-pugmarks-burla-sambalpur-forest-alert-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-pugmarks-burla-sambalpur-forest-alert-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Tiger scare in Sambalpur: pugmarks near Burla's Chandli Hill put forest department on alert",
+    "summary": "Suspected tiger pugmarks near Chandli Hill in Burla have put Sambalpur's Forest Department on alert, with residents and visitors asked to stay extremely cautious while the species is confirmed. A leopard also reportedly killed a calf in Nuapada district."
+   },
+   "featured": false,
+   "hi": {
+    "title": "संबलपुर में बाघ की दहशत: बुरला की चांदली पहाड़ी के पास पंजों के निशान, वन विभाग अलर्ट पर",
+    "summary": "बुरला की चांदली पहाड़ी के पास बाघ के पंजों के संदिग्ध निशान मिलने के बाद संबलपुर वन विभाग ने अलर्ट जारी किया है और लोगों से सतर्क रहने को कहा गया है। प्रजाति की पुष्टि जाँच के बाद होगी। नुआपड़ा जिले में तेंदुए ने बछड़े को भी मार डाला है।"
+   },
+   "id": "tiger-pugmarks-burla-sambalpur-forest-alert-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tiger-pugmarks-burla-sambalpur-forest-alert-november-26.jpg",
+   "publishedAt": "2026-11-26T13:46:45+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": true,
+   "district": "Sambalpur",
+   "state": "Odisha"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-pmla-adjudicating-authority-judicial-member-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-pmla-adjudicating-authority-judicial-member-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Supreme Court: ED property attachment can be confirmed only by a bench with a judicial member",
+    "summary": "The Supreme Court has ruled that the Adjudicating Authority under the PMLA can finally confirm an ED property attachment only through a bench that includes a judicial member, though the Chairperson need not be one. The ruling will apply prospectively, and the court also urged the Centre to consider multiple adjudicating authorities."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुप्रीम कोर्ट: ईडी की संपत्ति कुर्की की पुष्टि तभी होगी, जब पीठ में न्यायिक सदस्य हो",
+    "summary": "सुप्रीम कोर्ट ने फैसला सुनाया है कि धन शोधन निवारण अधिनियम के तहत न्यायनिर्णयन प्राधिकरण प्रवर्तन निदेशालय की संपत्ति कुर्की की पुष्टि केवल उसी पीठ से कर सकता है, जिसमें न्यायिक सदस्य शामिल हो। अध्यक्ष का न्यायिक सदस्य होना ज़रूरी नहीं है। फैसला आगे से लागू होगा और अदालत ने केंद्र से कई प्राधिकरण बनाने पर विचार करने को भी कहा है।"
+   },
+   "id": "supreme-court-pmla-adjudicating-authority-judicial-member-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-pmla-adjudicating-authority-judicial-member-november-26.jpg",
+   "publishedAt": "2026-11-26T13:46:45+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/surrendered-terrorist-on-run-20-years-arrested-reasi-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/surrendered-terrorist-on-run-20-years-arrested-reasi-november-26-hi.mp3",
@@ -3291,50 +3335,6 @@
    "en": {
     "title": "Firing outside Pune's Shivajinagar court in broad daylight, sickle attack leaves one injured; attackers flee",
     "summary": "Unidentified attackers opened fire and attacked with sickles outside gate number 4 of the Shivajinagar district court in Pune on Wednesday afternoon. One person was injured and taken to hospital. The attackers fled the spot; police and the crime branch are investigating."
-   }
-  },
-  {
-   "id": "uttarkashi-pawani-village-fire-33-houses-gutted-58-families-affected-november-25",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T13:13:45+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/uttarkashi-pawani-village-fire-33-houses-gutted-58-families-affected-november-25.jpg",
-   "audioHi": null,
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uttarkashi-pawani-village-fire-33-houses-gutted-58-families-affected-november-25-en.mp3",
-   "en": {
-    "title": "33 houses gutted in Uttarkashi village fire, 58 families hit; no deaths",
-    "summary": "A fire swept through Pawani village in Uttarkashi district's Mori tehsil on Tuesday evening, gutting 33 houses and leaving 58 families homeless. A panchayat building and a primary school were also damaged. No one was killed; one man was injured while fighting the flames. Chief Minister Pushkar Singh Dhami has ordered relief and rehabilitation for the affected families."
-   },
-   "hi": {
-    "title": "उत्तरकाशी के पवानी गाँव में आग से 33 घर जलकर खाक, 58 परिवार बेघर",
-    "summary": "उत्तराखंड के उत्तरकाशी जिले की मोरी तहसील के पवानी गाँव में मंगलवार शाम लगी भीषण आग में 33 घर जलकर खाक हो गए और 58 परिवार बेघर हो गए। गाँव की पंचायत भवन और प्राथमिक विद्यालय भी आग की चपेट में आ गए। हादसे में किसी की मौत नहीं हुई; आग बुझाते समय 1 व्यक्ति घायल हो गया। मुख्यमंत्री पुष्कर सिंह धामी ने प्रभावित परिवारों के लिए राहत और पुनर्वास के निर्देश दिए हैं।"
-   },
-   "district": "Uttarkashi",
-   "state": "Uttarakhand"
-  },
-  {
-   "id": "russian-strikes-kill-two-in-odesa-kyiv-apartment-block-fire-november-25",
-   "category": "World",
-   "sub": "Europe",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T13:13:45+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/russian-strikes-kill-two-in-odesa-kyiv-apartment-block-fire-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/russian-strikes-kill-two-in-odesa-kyiv-apartment-block-fire-november-25-hi.mp3",
-   "audioEn": null,
-   "en": {
-    "title": "Russian strikes kill 2 in Odesa, set Kyiv apartment block ablaze",
-    "summary": "Russian forces struck Ukraine overnight, killing 2 people and injuring 3, including a child, in the Odesa region, the regional governor said. In Kyiv, debris from a Russian drone set fire to a 16-storey apartment building, injuring 2 people. Reuters said it could not independently verify the reports."
-   },
-   "hi": {
-    "title": "रूस के हमलों में ओडेसा में 2 लोगों की मौत, कीव में अपार्टमेंट में लगी आग",
-    "summary": "रूस ने रात में यूक्रेन पर हमले किए, जिसमें ओडेसा क्षेत्र में 2 लोगों की मौत हो गई और 1 बच्चे समेत 3 लोग घायल हो गए। कीव में रूसी ड्रोन के मलबे से 16 मंजिला अपार्टमेंट इमारत में आग लग गई और 2 लोग घायल हुए। रॉयटर्स ने कहा है कि वह इन खबरों की स्वतंत्र पुष्टि नहीं कर सका है।"
    }
   }
  ]
