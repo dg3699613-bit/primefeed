@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-11-26T11:01:44+05:30",
+ "updatedAt": "2026-11-26T11:19:42+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-trusts-bombay-high-court-chandrasekaran-reappointment-65-crore-damages-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-trusts-bombay-high-court-chandrasekaran-reappointment-65-crore-damages-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "Tata Trusts to move Bombay High Court against Chandrasekaran's reappointment, seek Rs 65 crore in damages",
+    "summary": "The Sir Dorabji Tata Trust and the R.D. Tata Trust passed resolutions on 25 November to approach the Bombay High Court — challenging the 17 September board decision as a breach of Article 121 and seeking a stay on the casting vote ahead of the 30 November board meeting."
+   },
+   "featured": false,
+   "hi": {
+    "title": "टाटा ट्रस्ट्स बॉम्बे हाईकोर्ट जाएँगे: चंद्रशेखरन की दोबारा नियुक्ति को चुनौती, 65 करोड़ रुपये हर्जाने की माँग",
+    "summary": "सर दोराबजी टाटा ट्रस्ट और आरडी टाटा ट्रस्ट ने 25 नवंबर को प्रस्ताव पारित कर बॉम्बे हाईकोर्ट जाने का फैसला किया है — 17 सितंबर के बोर्ड फैसले को अनुच्छेद 121 का उल्लंघन बताते हुए चुनौती दी गई है, और 30 नवंबर की बोर्ड बैठक से पहले कास्टिंग वोट पर रोक की माँग की गई है।"
+   },
+   "id": "tata-trusts-bombay-high-court-chandrasekaran-reappointment-65-crore-damages-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tata-trusts-bombay-high-court-chandrasekaran-reappointment-65-crore-damages-november-26.jpg",
+   "publishedAt": "2026-11-26T11:16:38+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Banking & Finance",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eow-chargesheet-three-bandipora-class-iv-job-fraud-forged-certificates-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eow-chargesheet-three-bandipora-class-iv-job-fraud-forged-certificates-november-26-hi.mp3",
@@ -3315,29 +3336,6 @@
    },
    "district": "Madurai",
    "state": "Tamil Nadu"
-  },
-  {
-   "id": "woman-killed-leopard-attack-kupwara-chowkibal-november-24",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T09:42:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/woman-killed-leopard-attack-kupwara-chowkibal-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-killed-leopard-attack-kupwara-chowkibal-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-killed-leopard-attack-kupwara-chowkibal-november-24-en.mp3",
-   "district": "Kupwara",
-   "state": "Jammu and Kashmir",
-   "en": {
-    "title": "Leopard kills woman collecting firewood in Kupwara's Chowkibal",
-    "summary": "A woman was killed in a leopard attack in the Zunreshi Gund area of Chowkibal in Kupwara district on Tuesday afternoon. She had gone to a nearby forest to collect firewood when the leopard attacked her. She has been identified as Rifat Begum, a resident of Zunreshi Gund."
-   },
-   "hi": {
-    "title": "कुपवाड़ा में तेंदुए के हमले में महिला की मौत, जंगल में लकड़ी लेने गई थीं रिफ़त बेगम",
-    "summary": "कुपवाड़ा जिले के चौकीबल इलाके के ज़ुनरेशी गुंड में मंगलवार दोपहर तेंदुए के हमले में 1 महिला की मौत हो गई। वह पास के जंगल में लकड़ी लेने गई थीं, तभी तेंदुए ने उन पर हमला कर दिया। मृतका की पहचान रिफ़त बेगम के रूप में हुई है।"
-   }
   }
  ]
 }
