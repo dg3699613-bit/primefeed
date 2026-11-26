@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-26T18:42:34+05:30",
+ "updatedAt": "2026-11-26T19:00:05+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fifa-confirms-cyberattack-personal-business-data-stolen-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/fifa-confirms-cyberattack-personal-business-data-stolen-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "FIFA confirms cyberattack: hackers accessed personal and business data, World Cup stake-sale files untouched",
+    "summary": "FIFA has confirmed it was the victim of a criminal cyberattack that gave hackers unauthorised access to a limited set of personal and business information. The governing body said it is working with law enforcement, and a person with knowledge of the matter said no files from the abandoned plan to sell a stake in the World Cup were accessed."
+   },
+   "featured": false,
+   "hi": {
+    "title": "फीफा पर साइबर हमला: हैकरों ने निजी और कारोबारी डेटा चुराया, वर्ल्ड कप हिस्सेदारी वाले दस्तावेज़ सुरक्षित",
+    "summary": "फीफा ने माना है कि वह 1 आपराधिक साइबर हमले का शिकार हुई है, जिसमें हैकरों ने सीमित निजी और कारोबारी जानकारी तक अनधिकृत पहुँच बनाई। संस्था ने कहा है कि वह कानून प्रवर्तन एजेंसियों के साथ काम कर रही है, और मामले की जानकारी रखने वाले 1 व्यक्ति ने बताया कि वर्ल्ड कप में हिस्सेदारी बेचने की ठंडी पड़ी योजना से जुड़े कोई दस्तावेज़ नहीं लिए गए।"
+   },
+   "id": "fifa-confirms-cyberattack-personal-business-data-stolen-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/fifa-confirms-cyberattack-personal-business-data-stolen-november-26.jpg",
+   "publishedAt": "2026-11-26T18:53:52+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Cyber Crime",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jee-main-2027-15-84-lakh-forms-late-fee-last-day-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jee-main-2027-15-84-lakh-forms-late-fee-last-day-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Education",
+   "en": {
+    "title": "JEE Main 2027: record 15.84 lakh forms in, late-fee window closes tonight at 11:50 pm",
+    "summary": "JEE Main 2027 Session 1 has drawn a record 15,84,014 applications, with 14,06,780 candidates completing the fee payment, the National Testing Agency said. The late-fee window closes at 11:50 pm tonight, and the correction window opens on November 27."
+   },
+   "featured": false,
+   "hi": {
+    "title": "जेईई मेन 2027: 15.84 लाख आवेदन, लेट फीस वाली खिड़की आज रात 11:50 बजे बंद",
+    "summary": "जेईई मेन 2027 सेशन 1 के लिए 15,84,014 आवेदन आए हैं, जिनमें से 14,06,780 उम्मीदवारों ने फीस जमा कर दी है। राष्ट्रीय परीक्षा एजेंसी ने बताया कि लेट फीस वाली खिड़की आज रात 11:50 बजे बंद हो जाएगी, और फॉर्म में सुधार की खिड़की 27 नवंबर से खुलेगी।"
+   },
+   "id": "jee-main-2027-15-84-lakh-forms-late-fee-last-day-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jee-main-2027-15-84-lakh-forms-late-fee-last-day-november-26.jpg",
+   "publishedAt": "2026-11-26T18:53:52+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Govt Exams",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-hc-summons-sndp-microfinance-probe-officer-reports-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-hc-summons-sndp-microfinance-probe-officer-reports-november-26-hi.mp3",
@@ -3284,52 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhiwandi-shawarma-food-poisoning-53-hospitalised-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Dharwad",
-   "en": {
-    "title": "Supreme Court sends ex-Congress MLA Vinay Kulkarni back to jail in Yogesh Gowda murder case, surrender in 2 weeks",
-    "summary": "The Supreme Court on Wednesday set aside the Karnataka High Court order suspending the conviction and life sentence of former Congress MLA Vinay Kulkarni in the 2016 murder of BJP leader Yogesh Gowda. Kulkarni and other convicts must surrender before the trial court within 2 weeks."
-   },
-   "featured": false,
-   "hi": {
-    "title": "सुप्रीम कोर्ट ने विनय कुलकर्णी की ज़मानत रद्द की, 2 हफ्तों में सरेंडर का आदेश — योगेश गौड़ा हत्याकांड",
-    "summary": "सुप्रीम कोर्ट ने बुधवार को भाजपा नेता योगेश गौड़ा की 2016 में हुई हत्या के मामले में पूर्व कांग्रेस विधायक विनय कुलकर्णी की सज़ा और आजीवन कारावास पर रोक लगाने वाले कर्नाटक हाईकोर्ट के आदेश को रद्द कर दिया। कुलकर्णी और अन्य दोषियों को 2 हफ्तों के भीतर ट्रायल कोर्ट के सामने सरेंडर करना होगा।"
-   },
-   "id": "supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Karnataka",
-   "sub": "Courts",
-   "trending": true,
-   "publishedAt": "2026-11-25T17:48:27+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-cancels-vinay-kulkarni-bail-yogesh-gowda-murder-case-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Dharm-Astrology",
-   "district": "Puri",
-   "en": {
-    "title": "Puri: Counting of valuables in Jagannath Temple's inner Ratna Bhandar resumes on November 26 and 27; darshan only from Bahara Katha",
-    "summary": "The remaining inventory and valuation of ornaments in the inner Ratna Bhandar of Puri's Shree Jagannath Temple will resume on November 26 and 27, the district Collector announced on Wednesday. Devotees will have darshan only from the Bahara Katha on both days."
-   },
-   "featured": false,
-   "hi": {
-    "title": "पुरी: श्री जगन्नाथ मंदिर के रत्न भंडार की गिनती 26 और 27 नवंबर को फिर शुरू होगी, दर्शन बाहरा कथा से ही होंगे",
-    "summary": "पुरी के श्री जगन्नाथ मंदिर के भीतरी रत्न भंडार में बचे हुए आभूषणों की गिनती और मूल्यांकन 26 और 27 नवंबर को फिर शुरू होगा। जिलाधिकारी ने बुधवार को इसकी घोषणा की; 2 दिन तक श्रद्धालु बाहरा कथा से ही दर्शन कर सकेंगे।"
-   },
-   "id": "ratna-bhandar-inventory-resumes-puri-november-26-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Odisha",
-   "sub": "Mandir & Teerth",
-   "trending": true,
-   "publishedAt": "2026-11-25T17:34:09+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ratna-bhandar-inventory-resumes-puri-november-26-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ratna-bhandar-inventory-resumes-puri-november-26-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ratna-bhandar-inventory-resumes-puri-november-26-november-25-en.mp3"
   }
  ]
 }
