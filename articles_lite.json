@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T23:24:34+05:30",
+ "updatedAt": "2026-11-26T23:42:32+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/telangana-hc-sentences-cyberabad-police-commissioner-medchal-dcp-two-weeks-jail-contempt-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/telangana-hc-sentences-cyberabad-police-commissioner-medchal-dcp-two-weeks-jail-contempt-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Telangana High Court sentences Cyberabad Police Commissioner, Medchal DCP to 2 weeks in jail for contempt",
+    "summary": "The Telangana High Court on Thursday sentenced Cyberabad Police Commissioner M. Ramesh and Medchal Deputy Commissioner of Police N. Koti Reddy to 2 weeks of simple imprisonment for contempt of court in a land dispute case in Jeedimetla, Medchal-Malkajgiri district. Justice C. V. Bhaskar Reddy suspended the sentence for 1 week so the officers can seek a legal remedy, and fined each of them Rs 2,000."
+   },
+   "featured": false,
+   "hi": {
+    "title": "तेलंगाना हाई कोर्ट ने साइबराबाद पुलिस आयुक्त और मेडचल डीसीपी को अवमानना में 2 हफ्ते की जेल की सजा सुनाई",
+    "summary": "तेलंगाना हाई कोर्ट ने गुरुवार को साइबराबाद के पुलिस आयुक्त एम. रमेश और मेडचल के पुलिस उपायुक्त एन. कोटी रेड्डी को जीडिमेटला में जमीन विवाद के मामले में अदालत की अवमानना के लिए 2 हफ्ते के साधारण कारावास की सजा सुनाई है। न्यायमूर्ति सी. वी. भास्कर रेड्डी ने सजा पर 1 हफ्ते की रोक लगाई है, ताकि अधिकारी कानूनी उपाय कर सकें, और दोनों पर 2,000 रुपये का जुर्माना भी लगाया है।"
+   },
+   "id": "telangana-hc-sentences-cyberabad-police-commissioner-medchal-dcp-two-weeks-jail-contempt-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/telangana-hc-sentences-cyberabad-police-commissioner-medchal-dcp-two-weeks-jail-contempt-november-26.jpg",
+   "publishedAt": "2026-11-26T23:36:18+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "Medchal-Malkajgiri",
+   "state": "Telangana"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-assembly-passes-resolution-against-mmdr-act-cites-rs-13000-crore-revenue-loss-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-assembly-passes-resolution-against-mmdr-act-cites-rs-13000-crore-revenue-loss-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Jharkhand Assembly passes resolution against amended mining law, warns of Rs 13,000 crore annual revenue loss",
+    "summary": "The Jharkhand Assembly on Thursday passed a resolution seeking the withdrawal or reconsideration of the amended Mines and Minerals (Development and Regulation) Act, 2026, with Chief Minister Hemant Soren warning that the law could cost the state around Rs 13,000 crore in revenue every year. The resolution was passed by voice vote after BJP legislators staged a walkout, and will now be sent to the Centre."
+   },
+   "featured": false,
+   "hi": {
+    "title": "झारखंड विधानसभा ने संशोधित खनन कानून के खिलाफ प्रस्ताव पारित किया, 13,000 करोड़ रुपये के सालाना राजस्व नुकसान की चेतावनी दी",
+    "summary": "झारखंड विधानसभा ने गुरुवार को संशोधित खान और खनिज (विकास और विनियमन) अधिनियम, 2026 को वापस लेने या उस पर पुनर्विचार की मांग वाला प्रस्ताव पारित कर दिया। मुख्यमंत्री हेमंत सोरेन ने चेतावनी दी कि इस कानून से राज्य को हर साल करीब 13,000 करोड़ रुपये के राजस्व का नुकसान हो सकता है। प्रस्ताव ध्वनि मत से पारित हुआ, इससे पहले भाजपा विधायकों ने सदन से बहिर्गमन किया था, और अब इसे केंद्र को भेजा जाएगा।"
+   },
+   "id": "jharkhand-assembly-passes-resolution-against-mmdr-act-cites-rs-13000-crore-revenue-loss-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jharkhand-assembly-passes-resolution-against-mmdr-act-cites-rs-13000-crore-revenue-loss-november-26.jpg",
+   "publishedAt": "2026-11-26T23:36:18+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": false,
+   "district": "Ranchi",
+   "state": "Jharkhand"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-stabbed-to-death-bike-borne-assailants-barpeta-road-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-stabbed-to-death-bike-borne-assailants-barpeta-road-november-26-hi.mp3",
@@ -3274,50 +3320,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-pil-jharkhand-high-court-stay-screening-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-pil-jharkhand-high-court-stay-screening-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-pil-jharkhand-high-court-stay-screening-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "World",
-   "en": {
-    "title": "Ukraine strikes Russia's Savasleyka air base, five warplanes hit; three MiG-31s and two Su-34s out of action for now",
-    "summary": "Ukraine's General Staff said its forces struck Russia's Savasleyka military airfield in the Nizhny Novgorod region on the night of November 24-25, hitting three MiG-31 jets and two Su-34 fighter-bombers. Russia did not immediately comment, and the extent of the damage has not been independently verified."
-   },
-   "featured": false,
-   "hi": {
-    "title": "यूक्रेन का रूस के सवास्लेका एयरबेस पर हमला: 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त, कुछ समय तक नहीं उड़ पाएँगे",
-    "summary": "यूक्रेन के जनरल स्टाफ़ ने कहा है कि 24 नवंबर की रात और 25 नवंबर की सुबह रूस के निज़नी नोवगोरोद इलाके में स्थित सवास्लेका सैन्य हवाई अड्डे पर हमले में 3 मिग-31 और 2 सुखोई-34 विमान क्षतिग्रस्त हो गए। रूस की ओर से इस पर अभी कोई टिप्पणी नहीं आई है, और नुकसान की सीमा की स्वतंत्र पुष्टि नहीं हुई है।"
-   },
-   "id": "ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25",
-   "source": "PrimeFeed Desk",
-   "sub": "Europe",
-   "trending": true,
-   "publishedAt": "2026-11-25T23:17:07+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ukraine-strikes-savasleyka-air-base-five-russian-aircraft-hit-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Pune",
-   "en": {
-    "title": "Out-of-control tempo rams into bus stop at Pune's Bopdev Ghat, 3 Trinity College students killed; 2 injured",
-    "summary": "An Eicher tempo coming down the Bopdev Ghat slope in Pune hit a Hyundai car on Wednesday afternoon, then lost control and ploughed into students waiting at a bus stop near Garwa Hotel. Three Trinity College students were killed and two injured. The 22-year-old driver has been taken into custody."
-   },
-   "featured": false,
-   "hi": {
-    "title": "पुणे के बोपदेव घाट में बेकाबू टेंपो बस स्टॉप में घुसा, ट्रिनिटी कॉलेज के 3 छात्रों की मौत; 2 घायल",
-    "summary": "बुधवार दोपहर पुणे के बोपदेव घाट में ढलान से उतर रहा एक आइशर टेंपो पहले हुंडई कार से टकराया, फिर नियंत्रण खोकर गरवा होटल के पास बस स्टॉप पर खड़े छात्रों में जा घुसा। हादसे में ट्रिनिटी कॉलेज के 3 छात्रों की मौत हो गई, 2 घायल हैं। 22 साल के ड्राइवर को हिरासत में ले लिया गया है।"
-   },
-   "id": "pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Maharashtra",
-   "sub": "Maharashtra",
-   "trending": true,
-   "publishedAt": "2026-11-25T22:52:24+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25-en.mp3"
   }
  ]
 }
