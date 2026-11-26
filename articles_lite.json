@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T10:46:00+05:30",
+ "updatedAt": "2026-11-26T11:01:44+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eow-chargesheet-three-bandipora-class-iv-job-fraud-forged-certificates-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/eow-chargesheet-three-bandipora-class-iv-job-fraud-forged-certificates-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "EOW files chargesheet against 3 in Bandipora Class-IV job fraud over forged certificates, inflated marks",
+    "summary": "The Economic Offences Wing of Jammu and Kashmir Police has filed a chargesheet against 3 candidates accused of submitting forged academic certificates to secure Class-IV government jobs in Bandipora. Investigators found inflated marks on the certificates, and the Jammu and Kashmir Board of School Education confirmed that one candidate had not even appeared for the Class 12 examination shown on her certificate."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बांदीपोरा नौकरी घोटाला: फर्जी प्रमाणपत्र और बढ़े अंकों के मामले में 3 के खिलाफ चार्जशीट",
+    "summary": "जम्मू-कश्मीर पुलिस की आर्थिक अपराध शाखा ने बांदीपोरा में चतुर्थ श्रेणी की नौकरियों के लिए फर्जी शैक्षणिक प्रमाणपत्र जमा करने के आरोपी 3 उम्मीदवारों के खिलाफ चार्जशीट दाखिल की है। जाँच में पाया गया कि प्रमाणपत्रों पर अंक बढ़ाए गए थे, और एक उम्मीदवार के 12वीं कक्षा के प्रमाणपत्र को बोर्ड ने फर्जी बताया है।"
+   },
+   "id": "eow-chargesheet-three-bandipora-class-iv-job-fraud-forged-certificates-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/eow-chargesheet-three-bandipora-class-iv-job-fraud-forged-certificates-november-26.jpg",
+   "publishedAt": "2026-11-26T10:57:38+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Scams & Fraud",
+   "trending": false,
+   "district": "Bandipora",
+   "state": "Jammu and Kashmir"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/apple-kukatpally-hyderabad-first-store-december-10-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/apple-kukatpally-hyderabad-first-store-december-10-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "Apple's first Hyderabad store, Apple Kukatpally, opens December 10 — its 7th in India",
+    "summary": "Apple has announced that its first retail store in Hyderabad, Apple Kukatpally at Lake Shore-Y Junction Mall, will open on December 10 at 5 PM. It will be the company's first store in Telangana and its 7th retail store in India; the barricade carries a pearl-inspired Apple logo, a nod to Hyderabad's identity as the City of Pearls."
+   },
+   "featured": false,
+   "hi": {
+    "title": "एप्पल कुकटपल्ली: हैदराबाद में एप्पल का पहला स्टोर 10 दिसंबर को खुलेगा, भारत में 7वाँ स्टोर",
+    "summary": "एप्पल ने घोषणा की है कि हैदराबाद में उसका पहला रिटेल स्टोर, कुकटपल्ली के लेक शोर-वाई जंक्शन मॉल में स्थित एप्पल कुकटपल्ली, 10 दिसंबर को शाम 5 बजे खुलेगा। यह तेलंगाना में कंपनी का पहला स्टोर और भारत में उसका 7वाँ रिटेल स्टोर होगा; बैरिकेड पर मोती से प्रेरित एप्पल लोगो है, जो हैदराबाद की मोतियों के शहर वाली पहचान को दर्शाता है।"
+   },
+   "id": "apple-kukatpally-hyderabad-first-store-december-10-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/apple-kukatpally-hyderabad-first-store-december-10-november-26.jpg",
+   "publishedAt": "2026-11-26T10:57:38+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": false
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-hc-constable-dismissal-illegal-20-lakh-compensation-november-23-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-hc-constable-dismissal-illegal-20-lakh-compensation-november-23-hi.mp3",
@@ -3293,50 +3337,6 @@
    "hi": {
     "title": "कुपवाड़ा में तेंदुए के हमले में महिला की मौत, जंगल में लकड़ी लेने गई थीं रिफ़त बेगम",
     "summary": "कुपवाड़ा जिले के चौकीबल इलाके के ज़ुनरेशी गुंड में मंगलवार दोपहर तेंदुए के हमले में 1 महिला की मौत हो गई। वह पास के जंगल में लकड़ी लेने गई थीं, तभी तेंदुए ने उन पर हमला कर दिया। मृतका की पहचान रिफ़त बेगम के रूप में हुई है।"
-   }
-  },
-  {
-   "id": "uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24",
-   "category": "World",
-   "sub": "Middle East",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T09:42:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uae-ras-al-khaimah-bus-truck-crash-13-killed-indians-november-24-en.mp3",
-   "en": {
-    "title": "13 killed, including Indians, as bus rams broken-down truck in UAE's Ras Al Khaimah",
-    "summary": "Thirteen people, including Indian nationals, were killed after a passenger bus carrying 41 people crashed into a truck that had stopped on the roadside in Ras Al Khaimah in the UAE. Eleven people died at the scene and 2 more died in hospital; 14 others were injured. The Indian Consulate in Dubai has issued a 24-hour helpline, 800-46342, for assistance."
-   },
-   "hi": {
-    "title": "यूएई के रास अल खैमाह में बस-ट्रक की टक्कर में 13 की मौत, मरने वालों में भारतीय भी",
-    "summary": "यूएई के रास अल खैमाह में अल वतन रोड पर 41 लोगों को लेकर जा रही एक यात्री बस के सड़क किनारे खड़े ट्रक से टकराने से 13 लोगों की मौत हो गई, जिनमें भारतीय नागरिक भी शामिल हैं। 11 लोगों की मौके पर मौत हुई, 2 ने अस्पताल में दम तोड़ा, 14 घायल हैं। दुबई स्थित भारतीय वाणिज्य दूतावास ने मदद के लिए 24 घंटे का हेल्पलाइन नंबर 800-46342 जारी किया है।"
-   }
-  },
-  {
-   "id": "duliajan-triple-murder-accused-shot-in-police-firing-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T09:17:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/duliajan-triple-murder-accused-shot-in-police-firing-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/duliajan-triple-murder-accused-shot-in-police-firing-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/duliajan-triple-murder-accused-shot-in-police-firing-november-25-en.mp3",
-   "district": "Dibrugarh",
-   "state": "Assam",
-   "en": {
-    "title": "Duliajan triple murder accused shot in police firing during weapon recovery; two policemen injured",
-    "summary": "Two accused in the Duliajan triple murder case were injured in police firing near Balijan Tea Estate in Dibrugarh district after they allegedly tried to escape during a weapon-recovery operation. Two policemen were also injured in the incident."
-   },
-   "hi": {
-    "title": "दुलियाजान तिहरा हत्याकांड: हथियार बरामदगी के दौरान भागने की कोशिश में 2 आरोपी पुलिस फायरिंग में घायल, 2 जवान भी जख्मी",
-    "summary": "डिब्रूगढ़ जिले के बालिजान चाय बागान के पास हथियार बरामद करने ले जाए गए दुलियाजान तिहरा हत्याकांड के 2 आरोपियों ने भागने की कोशिश की, तो पुलिस की गोलीबारी में दोनों घायल हो गए। इस घटना में 2 पुलिसकर्मी भी जख्मी हुए हैं।"
    }
   }
  ]
