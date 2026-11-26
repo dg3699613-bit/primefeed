@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-26T08:38:11+05:30",
+ "updatedAt": "2026-11-26T08:45:41+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-security-forces-destroy-160-acres-poppy-ukhrul-kangpokpi-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-security-forces-destroy-160-acres-poppy-ukhrul-kangpokpi-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Ukhrul",
+   "en": {
+    "title": "Manipur security forces destroy 160 acres of illegal poppy in Ukhrul and Kangpokpi; 675 acres cleared this month",
+    "summary": "Security forces in Manipur destroyed 160 acres of illegal poppy cultivation in Ukhrul and Kangpokpi districts on Tuesday, police said. The drive has now cleared more than 675 acres of the crop across six hill districts this month, and an aerial survey has detected over 700 more acres in Kangpokpi."
+   },
+   "featured": false,
+   "hi": {
+    "title": "मणिपुर में सुरक्षा बलों ने उखरुल और कांगपोकपी में 160 एकड़ अवैध अफीम की फसल नष्ट की; इस महीने 675 एकड़ साफ",
+    "summary": "मणिपुर में सुरक्षा बलों ने मंगलवार को उखरुल और कांगपोकपी जिलों में 160 एकड़ अवैध अफीम की फसल नष्ट कर दी। पुलिस ने बताया कि इस महीने अब तक 6 पहाड़ी जिलों में 675 एकड़ से ज़्यादा फसल नष्ट की जा चुकी है, और हवाई सर्वेक्षण में कांगपोकपी में 700 एकड़ से ज़्यादा खेती और मिली है।"
+   },
+   "id": "manipur-security-forces-destroy-160-acres-poppy-ukhrul-kangpokpi-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-security-forces-destroy-160-acres-poppy-ukhrul-kangpokpi-november-25.jpg",
+   "publishedAt": "2026-11-26T08:43:19+05:30",
+   "source": "PrimeFeed Desk",
+   "state": "Manipur",
+   "sub": "Police & Crime",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/aligarh-12-bangladeshi-nationals-arrested-fake-indian-documents-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/aligarh-12-bangladeshi-nationals-arrested-fake-indian-documents-november-25-hi.mp3",
@@ -3308,27 +3331,6 @@
    "hi": {
     "title": "कोटा के जेके लोन अस्पताल में 35 दिन में 8 मौतें, डरी महिलाएं अब प्राइवेट अस्पताल चुन रही हैं",
     "summary": "कोटा के जेके लोन अस्पताल और मेडिकल कॉलेज के नए अस्पताल में 35 दिन में 8 मरीज़ों की मौत हो चुकी है, जिनमें 7 महिलाएं ऐसी हैं जिनकी हाल ही में डिलीवरी हुई थी। ताज़ा मौत मध्य प्रदेश के श्योपुर से रेफर की गई 29 साल की महिला की गुरुवार रात हुई, करीब 7 घंटे के इलाज के बाद। इस साल के आंकड़े को लेकर मतभेद है — रिपोर्टों में करीब 30 मौतें, जबकि प्रशासन के रिकॉर्ड में सिर्फ 13 — और डरी महिलाएं अब भारी बिल के बावजूद प्राइवेट अस्पताल चुन रही हैं।"
-   }
-  },
-  {
-   "id": "cia-odni-unclassified-system-breach-cyberattack",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T06:25:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cia-odni-unclassified-system-breach-cyberattack.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cia-odni-unclassified-system-breach-cyberattack-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cia-odni-unclassified-system-breach-cyberattack-en.mp3",
-   "en": {
-    "title": "CIA and ODNI's unclassified intelligence system breached in cyberattack; no classified data hit, attacker unknown",
-    "summary": "Hackers have broken into an unclassified computer system used by the CIA and the Office of the Director of National Intelligence to analyse publicly available information, the New York Times reported on Tuesday. Some unclassified information was exposed, but no classified material was compromised and the issue has been resolved, people familiar with the incident said. Who was behind the breach is not yet known."
-   },
-   "hi": {
-    "title": "सीआईए और ओडीएनआई की गैर-गोपनीय खुफिया प्रणाली में साइबर हमला, गोपनीय डेटा सुरक्षित; हमलावर अज्ञात",
-    "summary": "हैकरों ने सीआईए और ऑफिस ऑफ द डायरेक्टर ऑफ नेशनल इंटेलिजेंस की एक गैर-गोपनीय कंप्यूटर प्रणाली में सेंध लगा दी है, जिसका इस्तेमाल सार्वजनिक रूप से उपलब्ध जानकारियों के विश्लेषण के लिए किया जाता है। न्यूयॉर्क टाइम्स ने मंगलवार को इस घटना की खबर सबसे पहले दी थी। कुछ गैर-गोपनीय जानकारी सामने आई है, लेकिन कोई गोपनीय सामग्री प्रभावित नहीं हुई और समस्या सुलझा ली गई है। हमले के पीछे कौन था, यह अभी पता नहीं है।"
    }
   }
  ]
