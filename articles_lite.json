@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-26T16:47:32+05:30",
+ "updatedAt": "2026-11-26T16:53:54+05:30",
  "articles": [
+  {
+   "id": "deepathoon-contempt-pleas-sc-hearing-november-27-madurai-november-26",
+   "category": "Crime & Law",
+   "sub": "Courts",
+   "breaking": false,
+   "featured": false,
+   "trending": true,
+   "publishedAt": "2026-11-26T16:53:54+05:30",
+   "source": "PrimeFeed Desk",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/deepathoon-contempt-pleas-sc-hearing-november-27-madurai-november-26.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/deepathoon-contempt-pleas-sc-hearing-november-27-madurai-november-26-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/deepathoon-contempt-pleas-sc-hearing-november-27-madurai-november-26-en.mp3",
+   "district": "Madurai",
+   "state": "Tamil Nadu",
+   "hi": {
+    "title": "दीपस्तंभ विवाद: सुप्रीम कोर्ट 27 नवंबर को सुनेगा अवमानना याचिकाएँ, मुख्यमंत्री विजय की भूमिका पर भी सवाल",
+    "summary": "सुप्रीम कोर्ट ने गुरुवार को तिरुप्परंकुंद्रम दीपस्तंभ मामले में अवमानना याचिकाओं और दीप जलाने की नई अर्जी पर सुनवाई 27 नवंबर को तय की। याचिकाकर्ता रामा रविकुमार ने पूछा है कि क्या मुख्यमंत्री विजय या उनके मंत्रियों ने 20 नवंबर के आदेश पर अमल रोकने के निर्देश दिए थे।"
+   },
+   "en": {
+    "title": "Deepathoon row: Supreme Court to hear contempt pleas on November 27; petition questions CM Vijay's role",
+    "summary": "The Supreme Court on Thursday fixed November 27 for hearing the contempt petitions in the Thirupparankundram Deepathoon case, along with a fresh plea to light the lamp from the flame still burning at the Deepa Mandapam. Petitioner Rama Ravikumar has asked whether Chief Minister Vijay or his ministers issued instructions against implementing the court's November 20 order."
+   }
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-upholds-irctc-charges-lalu-rabri-tejashwi-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-upholds-irctc-charges-lalu-rabri-tejashwi-november-26-hi.mp3",
@@ -3304,29 +3327,6 @@
    "en": {
     "title": "Israeli strike kills Hamas security chief Mohammed Abu al-Ouf, wife and two daughters in Gaza",
     "summary": "An Israeli airstrike on an apartment in the Shati refugee camp in Gaza City early on Wednesday killed Hamas internal security official Mohammed Abu al-Ouf, his wife and his two daughters. It is the second killing of a senior Hamas internal security official in under 24 hours."
-   }
-  },
-  {
-   "id": "jharsuguda-jnv-principal-pocso-case-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T16:12:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jharsuguda-jnv-principal-pocso-case-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharsuguda-jnv-principal-pocso-case-november-25-hi.mp3",
-   "audioEn": null,
-   "district": "Jharsuguda",
-   "state": "Odisha",
-   "hi": {
-    "title": "झारसुगुड़ा: नवोदय विद्यालय के प्राचार्य पर पोक्सो एक्ट में केस दर्ज, छात्रा की शिकायत पर जांच शुरू",
-    "summary": "ओडिशा के झारसुगुड़ा जिले के जवाहर नवोदय विद्यालय के प्राचार्य के खिलाफ छात्रा की शिकायत पर सदर थाने में बीएनएस और पोक्सो एक्ट के तहत केस दर्ज हुआ है। पुलिस अधीक्षक सोनाली सिंह परमार ने पुष्टि की है कि जांच चल रही है और प्राचार्य व छात्रा दोनों की मेडिकल जांच कराई गई है।"
-   },
-   "en": {
-    "title": "Jharsuguda: POCSO case against Navodaya Vidyalaya principal after student's complaint",
-    "summary": "The principal of Jawahar Navodaya Vidyalaya in Odisha's Jharsuguda district has been booked under the BNS and the POCSO Act after a girl student accused him of misbehaviour. Superintendent of Police Sonali Singh Parmar confirmed that a case has been registered at Jharsuguda Sadar police station and an investigation is under way."
    }
   }
  ]
