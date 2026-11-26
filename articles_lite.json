@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T09:44:00+05:30",
+ "updatedAt": "2026-11-26T09:57:01+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tirumala-121-kg-gold-donation-largest-single-offering-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tirumala-121-kg-gold-donation-largest-single-offering-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Dharm-Astrology",
+   "en": {
+    "summary": "An anonymous devotee will hand over 121 kg of gold ornaments, valued at around Rs 160 crore, to the Tirumala Tirupati Devasthanams on Thursday — described as the largest single donation by an individual in the temple's history. Chief Minister N Chandrababu Naidu will attend the handover ceremony.",
+    "title": "121 kg of gold for Lord Venkateswara: anonymous devotee's record offering reaches Tirumala today"
+   },
+   "featured": false,
+   "hi": {
+    "summary": "एक गुमनाम भक्त गुरुवार को तिरुमला तिरुपति देवस्थानम को 121 किलोग्राम सोने के आभूषण सौंपेंगे, जिनकी कीमत लगभग 160 करोड़ रुपये बताई जा रही है — मंदिर के इतिहास में किसी एक व्यक्ति का सबसे बड़ा दान। मुख्यमंत्री एन चंद्रबाबू नायडू समर्पण समारोह में मौजूद रहेंगे।",
+    "title": "तिरुमला में आज 121 किलोग्राम सोने की ऐतिहासिक भेंट: गुमनाम भक्त का दान, मुख्यमंत्री नायडू रहेंगे मौजूद"
+   },
+   "id": "tirumala-121-kg-gold-donation-largest-single-offering-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tirumala-121-kg-gold-donation-largest-single-offering-november-26.jpg",
+   "publishedAt": "2026-11-26T09:49:41+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Mandir & Teerth",
+   "trending": true,
+   "district": "Tirupati",
+   "state": "Andhra Pradesh"
+  },
+  {
+   "audioEn": null,
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-si-prabhasini-sahu-death-case-against-husband-in-laws-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "summary": "Police in Odisha's Ganjam district have registered a case against the husband and in-laws of woman sub-inspector Prabhasini Sahu, who was found dead in her quarters at Purushottampur police station on November 21. Her father has alleged she faced mental and financial harassment; the allegations are yet to be established.",
+    "title": "Ganjam woman SI death: case against husband and in-laws after father's harassment complaint"
+   },
+   "featured": false,
+   "hi": {
+    "summary": "ओडिशा के गंजम जिले की पुलिस ने महिला सब-इंस्पेक्टर प्रभासिनी साहू के पति और सास-ससुर पर केस दर्ज किया है। प्रभासिनी 21 नवंबर को पुरुषोत्तमपुर थाने के क्वार्टर में मृत मिली थीं। उनके पिता ने मानसिक और आर्थिक प्रताड़ना का आरोप लगाया है; आरोपों की पुष्टि अभी जाँच से होनी है।",
+    "title": "गंजम महिला सब-इंस्पेक्टर की मौत: पिता की शिकायत पर पति और सास-ससुर पर केस दर्ज"
+   },
+   "id": "ganjam-si-prabhasini-sahu-death-case-against-husband-in-laws-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ganjam-si-prabhasini-sahu-death-case-against-husband-in-laws-november-25.jpg",
+   "publishedAt": "2026-11-26T09:49:41+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": false,
+   "district": "Ganjam",
+   "state": "Odisha"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jamshedpur-tata-motors-standoff-ends-job-for-subodh-patro-son-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jamshedpur-tata-motors-standoff-ends-job-for-subodh-patro-son-november-25-hi.mp3",
@@ -3287,50 +3333,6 @@
    "hi": {
     "title": "गोंडा में पशु चोर गिरोह का भंडाफोड़: 3 आरोपी गिरफ्तार, चोरी की 3 भैंसें और बाइक बरामद",
     "summary": "गोंडा पुलिस ने पशु चोरी करने वाले एक गिरोह का भंडाफोड़ किया है। पुलिस ने 3 आरोपियों को गिरफ्तार कर चोरी की 3 भैंसें और अपराध में इस्तेमाल की गई बाइक बरामद की है। आरोपियों ने इस महीने जिले में हुई 3 अन्य पशु चोरी की घटनाओं को भी स्वीकार किया है। मोतीगंज और देहात कोतवाली थानों में मामले दर्ज किए गए हैं।"
-   }
-  },
-  {
-   "id": "ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24",
-   "category": "Rozgar",
-   "sub": "Sarkari Naukri",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T08:19:07+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ntpc-cancels-assistant-officer-exam-candidates-write-to-minister-khattar-november-24-en.mp3",
-   "en": {
-    "title": "NTPC cancels Assistant Officer recruitment exam; candidates write to Minister Khattar seeking inquiry",
-    "summary": "NTPC has cancelled the selection process for 15 Assistant Officer (Corporate Communication) posts, weeks after the examination held on November 1, citing 'administrative reasons'. With no re-exam date announced, a group of applicants has written to Union Power Minister M. L. Khattar seeking an inquiry, transparency and possible reinstatement of the process."
-   },
-   "hi": {
-    "title": "एनटीपीसी ने असिस्टेंट ऑफिसर भर्ती परीक्षा रद्द की, अभ्यर्थियों ने मंत्री खट्टर से जांच की मांग की",
-    "summary": "एनटीपीसी ने 15 असिस्टेंट ऑफिसर (कॉरपोरेट कम्युनिकेशन) पदों की चयन प्रक्रिया 'प्रशासनिक कारणों' से रद्द कर दी है। 1 नवंबर को हुई परीक्षा के बाद यह फैसला आया है। दोबारा परीक्षा की कोई तारीख नहीं दी गई है, इसलिए अभ्यर्थियों के एक समूह ने केंद्रीय विद्युत मंत्री एमएल खट्टर को पत्र लिखकर जांच, पारदर्शिता और प्रक्रिया बहाल करने की मांग की है।"
-   }
-  },
-  {
-   "id": "kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24",
-   "category": "Health",
-   "sub": "Diseases",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T08:02:23+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kozhikode-16900-unsafe-eggs-seized-bakery-units-november-24-en.mp3",
-   "district": "Kozhikode",
-   "state": "Kerala",
-   "en": {
-    "title": "Kozhikode food safety raid: Over 16,900 rotten eggs meant for bakeries seized in Mavoor",
-    "summary": "Food safety officials in Kozhikode have seized more than 16,900 unsafe eggs — cracked, rotten and insect-infested — allegedly meant for bakery manufacturing units, during inspections at 2 establishments in Mavoor. The licences of both establishments are being suspended and proceedings have begun under the Food Safety and Standards Act, 2006."
-   },
-   "hi": {
-    "title": "कोझिकोड में खाद्य सुरक्षा विभाग की छापेमारी: बेकरियों के लिए रखे 16,900 से ज़्यादा सड़े अंडे जब्त",
-    "summary": "कोझिकोड में खाद्य सुरक्षा विभाग ने मावूर के 2 प्रतिष्ठानों से 16,900 से ज़्यादा असुरक्षित अंडे जब्त किए हैं। आरोप है कि टूटे, सड़े और कीड़ों वाले अंडे बेकरी निर्माण इकाइयों को बेचे जा रहे थे। दोनों प्रतिष्ठानों के लाइसेंस निलंबित किए जा रहे हैं और खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत कार्यवाही शुरू हो गई है।"
    }
   }
  ]
