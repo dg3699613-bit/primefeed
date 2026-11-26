@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T14:56:19+05:30",
+ "updatedAt": "2026-11-26T15:16:27+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-paternity-leave-15-days-male-govt-employees-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-paternity-leave-15-days-male-govt-employees-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Government Schemes",
+   "en": {
+    "title": "Tamil Nadu announces 15 days of paternity leave for male government employees, a first for the state",
+    "summary": "Tamil Nadu Chief Minister C. Joseph Vijay on Thursday announced 15 days of paternity leave for married male employees of the state government, the first time the state has offered the benefit to fathers in government service. The leave can be taken 15 days before the birth of the child or within 6 months of the birth; women employees currently get 365 days of maternity leave."
+   },
+   "featured": false,
+   "hi": {
+    "title": "तमिलनाडु में पुरुष सरकारी कर्मचारियों को 15 दिन का पितृत्व अवकाश, राज्य में पहली बार",
+    "summary": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने गुरुवार को राज्य सरकार के विवाहित पुरुष कर्मचारियों के लिए 15 दिन के पितृत्व अवकाश की घोषणा की, जो राज्य में सरकारी सेवा में कार्यरत पिताओं के लिए पहली बार है। यह अवकाश बच्चे के जन्म से 15 दिन पहले या जन्म के 6 महीने के भीतर लिया जा सकता है; महिला कर्मचारियों को अभी 365 दिन का मातृत्व अवकाश मिलता है।"
+   },
+   "id": "tamil-nadu-paternity-leave-15-days-male-govt-employees-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-paternity-leave-15-days-male-govt-employees-november-26.jpg",
+   "publishedAt": "2026-11-26T15:13:19+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "State Schemes",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-chandrashekhar-first-joint-rally-lucknow-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/owaisi-chandrashekhar-first-joint-rally-lucknow-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Owaisi and Chandrashekhar Azad hold first joint rally in Lucknow, name Azad the Morcha's CM face",
+    "summary": "AIMIM chief Asaduddin Owaisi and Azad Samaj Party (Kanshi Ram) president Chandrashekhar Azad shared a stage in Lucknow on Thursday for the first joint rally of their new alliance, the Samajik Parivartan Morcha, ahead of the 2027 Uttar Pradesh Assembly elections. Owaisi named Azad as the Morcha's chief ministerial face and said the public would no longer fall for the Samajwadi Party's opportunism."
+   },
+   "featured": false,
+   "hi": {
+    "title": "लखनऊ में ओवैसी और चंद्रशेखर आजाद की पहली साझा रैली, आजाद को मोर्चे का मुख्यमंत्री चेहरा बताया",
+    "summary": "एआईएमआईएम प्रमुख असदुद्दीन ओवैसी और आजाद समाज पार्टी (कांशीराम) के अध्यक्ष चंद्रशेखर आजाद गुरुवार को लखनऊ में अपने नए गठबंधन सामाजिक परिवर्तन मोर्चा की पहली साझा रैली के लिए 1 मंच पर आए। ओवैसी ने आजाद को मोर्चे का मुख्यमंत्री चेहरा बताया और कहा कि जनता अब समाजवादी पार्टी के अवसरवाद में नहीं आएगी।"
+   },
+   "id": "owaisi-chandrashekhar-first-joint-rally-lucknow-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/owaisi-chandrashekhar-first-joint-rally-lucknow-november-26.jpg",
+   "publishedAt": "2026-11-26T15:13:19+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Elections",
+   "trending": true,
+   "district": "Lucknow",
+   "state": "Uttar Pradesh"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jabalpur-mother-daughter-found-dead-narmada-nagar-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jabalpur-mother-daughter-found-dead-narmada-nagar-november-26-hi.mp3",
@@ -3289,52 +3333,6 @@
    "en": {
     "title": "Vantara signs 10-year deal with Madagascar to bring seized wildlife home",
     "summary": "Vantara has signed a 10-year agreement with Madagascar to help return wildlife seized from traffickers to the island nation, rehabilitate rescued animals and, where possible, release them back into the wild. The deal also envisages support for a national wildlife rescue and rehabilitation centre in Madagascar."
-   }
-  },
-  {
-   "id": "srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25",
-   "category": "Weather",
-   "sub": "IMD Alerts",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T14:36:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/srinagar-records-coldest-night-of-season-minus-1-9-degree-celsius-november-25-en.mp3",
-   "district": "Srinagar",
-   "state": "Jammu and Kashmir",
-   "hi": {
-    "title": "श्रीनगर में सीज़न की सबसे सर्द रात, पारा माइनस 1.9 डिग्री — कश्मीर में ठंड और बढ़ेगी",
-    "summary": "श्रीनगर में इस सीज़न की सबसे सर्द रात दर्ज की गई — पारा माइनस 1.9 डिग्री सेल्सियस तक गिर गया। पहलगाम में पारा माइनस 3.6 डिग्री रहा। मौसम विभाग का कहना है कि 30 नवंबर तक जम्मू-कश्मीर में मौसम मुख्य रूप से शुष्क रहेगा।"
-   },
-   "en": {
-    "title": "Srinagar records season's coldest night at minus 1.9 degrees Celsius as cold wave tightens grip on Kashmir",
-    "summary": "Srinagar recorded the coldest night of the season so far at minus 1.9 degrees Celsius, the second straight day of record low night temperatures. Pahalgam remained the coldest place in the Valley at minus 3.6 degrees, and the Met Department expects dry weather across Jammu and Kashmir till November 30."
-   }
-  },
-  {
-   "id": "tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T14:36:38+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-signs-78-mous-worth-rs-58214-crore-at-vettri-conclave-november-25-en.mp3",
-   "district": "Chengalpattu",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "तमिलनाडु में 1 दिन में 78 निवेश समझौते, 58,214 करोड़ रुपये का निवेश — 65,786 नौकरियों की उम्मीद",
-    "summary": "तमिलनाडु सरकार ने कोवलम के पास आयोजित दूसरे वेट्री निवेश सम्मेलन में 78 समझौतों पर हस्ताक्षर किए, जिनसे 58,214 करोड़ रुपये के निवेश और 65,786 नौकरियों की उम्मीद है। मुख्यमंत्री सी जोसेफ विजय की अध्यक्षता में हुए सम्मेलन के साथ सरकार के पहले 200 दिनों में कुल निवेश वादे 1.73 लाख करोड़ रुपये से ऊपर पहुँच गए।"
-   },
-   "en": {
-    "title": "Tamil Nadu signs 78 MoUs worth Rs 58,214 crore at VETTRI conclave, 65,786 jobs in the pipeline",
-    "summary": "The Tamil Nadu government signed 78 investment agreements worth Rs 58,214 crore at the second VETTRI Investment and Conversion Conclave near Kovalam, projecting 65,786 jobs. With the latest pacts, total investment commitments in the government's first 200 days have crossed Rs 1.73 lakh crore."
    }
   }
  ]
