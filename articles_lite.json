@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T15:31:39+05:30",
+ "updatedAt": "2026-11-26T15:47:13+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vardhaman-jain-donates-121-kg-gold-tirumala-temple-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vardhaman-jain-donates-121-kg-gold-tirumala-temple-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Dharm-Astrology",
+   "en": {
+    "title": "Chennai businessman Vardhaman Jain donates 121 kg of gold ornaments worth Rs 160 crore to Tirumala temple",
+    "summary": "Chennai-based industrialist Vardhaman Jain on Thursday handed over 121 kg of gold ornaments, estimated to be worth around Rs 160 crore, to Lord Venkateswara at Tirumala in the presence of Andhra Pradesh Chief Minister N Chandrababu Naidu. The 45 ornaments, made to adorn the deity from head to toe, are described as the largest offering of its kind in the history of the Tirumala Tirupati Devasthanams."
+   },
+   "featured": false,
+   "hi": {
+    "title": "चेन्नई के कारोबारी वर्धमान जैन ने तिरुमला मंदिर को 121 किलो सोने के आभूषण दान किए, कीमत करीब 160 करोड़ रुपये",
+    "summary": "चेन्नई के उद्योगपति वर्धमान जैन ने गुरुवार को तिरुमला में भगवान वेंकटेश्वर को 121 किलो सोने के आभूषण सौंपे, जिनकी कीमत करीब 160 करोड़ रुपये आंकी गई है। आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू की मौजूदगी में हुए इस समर्पण में 45 तरह के आभूषण शामिल हैं, जिन्हें तिरुमला तिरुपति देवस्थानम के इतिहास में अपनी तरह का सबसे बड़ा एकल समर्पण बताया जा रहा है।"
+   },
+   "id": "vardhaman-jain-donates-121-kg-gold-tirumala-temple-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vardhaman-jain-donates-121-kg-gold-tirumala-temple-november-26.jpg",
+   "publishedAt": "2026-11-26T15:43:04+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Mandir & Teerth",
+   "trending": true,
+   "district": "Tirupati",
+   "state": "Andhra Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vivo-x500-series-launched-india-price-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vivo-x500-series-launched-india-price-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Technology",
+   "en": {
+    "title": "Vivo X500 series launched in India: 3 flagships from Rs 1,19,999, open sale from December 3",
+    "summary": "Vivo on Thursday launched its X500 flagship series in India — the X500, X500 Pro and X500 Pro Max — with prices starting at Rs 1,19,999. The ZEISS co-engineered phones, made at the company's Greater Noida facility, go on pre-booking from today, with open sales beginning December 3."
+   },
+   "featured": false,
+   "hi": {
+    "title": "वीवो एक्स500 सीरीज़ भारत में लॉन्च: 3 फ्लैगशिप फोन, कीमत 1,19,999 रुपये से शुरू, बिक्री 3 दिसंबर से",
+    "summary": "वीवो ने गुरुवार को भारत में अपनी एक्स500 फ्लैगशिप सीरीज़ लॉन्च की — एक्स500, एक्स500 प्रो और एक्स500 प्रो मैक्स — जिनकी कीमत 1,19,999 रुपये से शुरू होती है। ज़ाइस के साथ मिलकर बने ये फोन कंपनी के ग्रेटर नोएडा कारखाने में तैयार हुए हैं। इनकी प्री-बुकिंग आज से शुरू हो गई है और खुली बिक्री 3 दिसंबर से शुरू होगी।"
+   },
+   "id": "vivo-x500-series-launched-india-price-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vivo-x500-series-launched-india-price-november-26.jpg",
+   "publishedAt": "2026-11-26T15:43:04+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Mobile",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jet-airways-nclat-480-crore-dues-employees-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jet-airways-nclat-480-crore-dues-employees-november-26-hi.mp3",
@@ -3285,52 +3329,6 @@
    "en": {
     "title": "Farmer Ramsagar Ram killed in tiger attack in Bihar's West Champaran; villagers block road with body in protest",
     "summary": "A 50-year-old farmer, Ramsagar Ram, was killed in a tiger attack near the Valmiki Tiger Reserve in Bihar's West Champaran district on Tuesday evening. Angry villagers blocked the Bagaha-Valmikinagar road for hours with the body, protesting against the Forest Department. Officials have begun compensation formalities."
-   }
-  },
-  {
-   "id": "om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre",
-   "category": "Cricket & Sports",
-   "sub": "Cricket",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:13:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/om-birla-lays-foundation-kota-international-cricket-stadium-aquatic-centre-en.mp3",
-   "district": "Kota",
-   "state": "Rajasthan",
-   "hi": {
-    "title": "ओम बिरला ने कोटा में अंतरराष्ट्रीय क्रिकेट स्टेडियम और एक्वाटिक सेंटर का शिलान्यास किया, 2028 तक तैयार होंगे दोनों प्रोजेक्ट",
-    "summary": "लोकसभा अध्यक्ष ओम बिरला ने बुधवार को कोटा में जेके पवेलियन अंतरराष्ट्रीय क्रिकेट स्टेडियम और विश्वस्तरीय एक्वाटिक सेंटर का भूमि पूजन एवं शिलान्यास किया। दोनों परियोजनाओं पर करीब 130 करोड़ रुपए खर्च होंगे और निर्माण 2028 तक पूरा करने का लक्ष्य है।"
-   },
-   "en": {
-    "title": "Om Birla lays foundation for Kota's international cricket stadium and aquatic centre, both due by 2028",
-    "summary": "Lok Sabha Speaker Om Birla on Wednesday performed the bhoomi pujan and laid the foundation stone for the JK Pavilion international cricket stadium and a world-class aquatic centre in Kota. The two projects together will cost around Rs 130 crore, with construction targeted for completion by 2028."
-   }
-  },
-  {
-   "id": "army-aircraft-land-gujarat-highway-nh-754k",
-   "category": "India",
-   "sub": "Defence",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:13:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/army-aircraft-land-gujarat-highway-nh-754k.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/army-aircraft-land-gujarat-highway-nh-754k-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/army-aircraft-land-gujarat-highway-nh-754k-en.mp3",
-   "district": "Patan",
-   "state": "Gujarat",
-   "hi": {
-    "title": "गुजरात के हाईवे पर उतरे सेना के 4 विमान, नेशनल हाईवे पर पहली बार 4 विमानों की फॉर्मेशन लैंडिंग",
-    "summary": "भारतीय सेना के 4 विमानों ने मंगलवार को गुजरात के पाटन जिले में नेशनल हाईवे एनएच-754K पर उतरकर इतिहास रच दिया। अमृतसर-जमनगर एक्सप्रेसवे पर बकुटरा टोल प्लाज़ा के पास हुई इस लैंडिंग में 2 माइक्रोलाइट विमान और 2 पावर्ड हैंग ग्लाइडर शामिल थे।"
-   },
-   "en": {
-    "title": "Four Army aircraft land on Gujarat highway in a first for a national highway",
-    "summary": "Four Indian Army aircraft made history on Tuesday, landing on National Highway NH-754K in Gujarat's Patan district. The formation — two microlight aircraft and two powered hang gliders — touched down on the Amritsar–Jamnagar Expressway near Bakutra Toll Plaza."
    }
   }
  ]
