@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T19:38:15+05:30",
+ "updatedAt": "2026-11-26T19:58:50+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/crime-branch-kashmir-arrests-fake-job-scam-accused-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/crime-branch-kashmir-arrests-fake-job-scam-accused-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Crime Branch Kashmir arrests man who duped Ganderbal family of Rs 12.20 lakh with forged job orders",
+    "summary": "The Special Crime Wing of Crime Branch Kashmir has arrested Mohammad Abdullah Mir, a resident of Shilvat in Bandipora, for allegedly cheating a Ganderbal family of Rs 12.20 lakh by promising government jobs for their 2 sons and 1 daughter. He allegedly handed over 3 forged appointment orders, 2 purportedly from J&K Bank and 1 from the Forest Department, which verification showed were never issued. A Srinagar court has granted the Crime Branch 9 days' remand."
+   },
+   "featured": false,
+   "hi": {
+    "title": "क्राइम ब्रांच कश्मीर ने फर्ज़ी नौकरी के वादे पर गांदरबल परिवार से 12.20 लाख रुपये ठगने वाले आरोपी को गिरफ्तार किया",
+    "summary": "क्राइम ब्रांच कश्मीर की विशेष अपराध शाखा ने बांडीपोरा के शिलवट के रहने वाले मोहम्मद अब्दुल्ला मीर को गिरफ्तार किया है। उस पर गांदरबल के 1 परिवार से 12.20 लाख रुपये ठगने का आरोप है। उसने परिवार के 2 बेटों और 1 बेटी को सरकारी नौकरी दिलाने का वादा किया था। उसने 3 जाली नियुक्ति आदेश भी सौंपे थे, जिनमें से 2 कथित तौर पर जम्मू और कश्मीर बैंक के और 1 वन विभाग का था। जाँच में पता चला कि ये आदेश कभी जारी ही नहीं हुए थे। श्रीनगर की अदालत ने क्राइम ब्रांच को 9 दिन की रिमांड दी है।"
+   },
+   "id": "crime-branch-kashmir-arrests-fake-job-scam-accused-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/crime-branch-kashmir-arrests-fake-job-scam-accused-november-26.jpg",
+   "publishedAt": "2026-11-26T19:53:42+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Scams & Fraud",
+   "trending": false,
+   "district": "Srinagar",
+   "state": "Jammu and Kashmir"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/special-parliament-session-november-30-december-2-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/special-parliament-session-november-30-december-2-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Government calls special Parliament session: Lok Sabha to reconvene on November 30, Rajya Sabha on December 2",
+    "summary": "The government has proposed a special sitting of Parliament, with the Lok Sabha reconvening on November 30 and the Rajya Sabha on December 2, Parliamentary Affairs Minister Kiren Rijiju announced on Thursday. The sittings, called to transact essential government business, may conclude on December 3, and there will be no Question Hour, Zero Hour or Private Members' business. The agenda has not been officially confirmed, amid speculation that the Delimitation Bill could be taken up."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सरकार ने संसद का विशेष सत्र बुलाया: लोकसभा 30 नवंबर को, राज्यसभा 2 दिसंबर को फिर से बैठेगी",
+    "summary": "सरकार ने संसद का विशेष सत्र बुलाने का प्रस्ताव किया है। लोकसभा 30 नवंबर को और राज्यसभा 2 दिसंबर को फिर से बैठेगी। संसदीय कार्य मंत्री किरेन रिजिजू ने गुरुवार को यह घोषणा की। सरकारी कामकाज निपटाने के लिए बुलाई गई इन बैठकों के दौरान प्रश्नकाल, शून्यकाल और निजी सदस्यों का कामकाज नहीं होगा। सत्र का एजेंडा आधिकारिक तौर पर नहीं बताया गया है, लेकिन अटकलें हैं कि इसमें परिसीमन विधेयक लाया जा सकता है।"
+   },
+   "id": "special-parliament-session-november-30-december-2-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/special-parliament-session-november-30-december-2-november-26.jpg",
+   "publishedAt": "2026-11-26T19:53:42+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Parliament",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/belagavi-district-court-bomb-threat-hoax-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/belagavi-district-court-bomb-threat-hoax-november-26-hi.mp3",
@@ -3278,50 +3322,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajnath-singh-congress-regime-change-violence-votes-kalaburagi-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajnath-singh-congress-regime-change-violence-votes-kalaburagi-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajnath-singh-congress-regime-change-violence-votes-kalaburagi-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Politics",
-   "en": {
-    "title": "Jharkhand Assembly passes resolution to halt SIR, seeks fresh voter-roll revision under new SOP",
-    "summary": "The Jharkhand Assembly passed a resolution by voice vote demanding an immediate halt to the Special Intensive Revision of electoral rolls and a fresh exercise under transparent procedures; the BJP called the special session politically motivated."
-   },
-   "featured": false,
-   "hi": {
-    "title": "झारखंड विधानसभा ने एसआईआर रोकने का प्रस्ताव ध्वनिमत से पारित किया, केंद्र को भेजा जाएगा",
-    "summary": "झारखंड विधानसभा के विशेष सत्र में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) को तुरंत रोकने और पारदर्शी प्रक्रिया के साथ नए सिरे से कराने का प्रस्ताव ध्वनिमत से पारित हुआ; भाजपा ने सत्र को 'राजनीतिक' बताया।"
-   },
-   "id": "jharkhand-assembly-passes-resolution-halt-sir-voice-vote-november-25",
-   "source": "PrimeFeed Desk",
-   "sub": "Elections",
-   "trending": true,
-   "publishedAt": "2026-11-25T18:34:10+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jharkhand-assembly-passes-resolution-halt-sir-voice-vote-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-assembly-passes-resolution-halt-sir-voice-vote-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-assembly-passes-resolution-halt-sir-voice-vote-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Jhansi",
-   "en": {
-    "title": "Jhansi FDA raid: 2,151 bottles of 'Bisroli' water seized from godown selling a Bisleri lookalike",
-    "summary": "A food safety team raided a godown in Jhansi's Pali Pahari and seized 2,151 two-litre bottles of 'Bisroli' packaged water, whose name and green-capped packaging closely resemble Bisleri. Samples have gone for lab tests and the unit has been served a notice."
-   },
-   "featured": false,
-   "hi": {
-    "title": "झांसी: बिसलेरी से मिलता-जुलता 'बिसरोली' पानी बेचने वाले गोदाम पर एफ़डीए का छापा, 2,151 बोतलें सीज",
-    "summary": "झांसी के पाली पहाड़ी में श्री बालाजी बेवरेज़ के गोदाम पर खाद्य सुरक्षा विभाग की टीम ने छापा मारकर 'बिसरोली' ब्रांड की 2 लीटर वाली 2,151 पानी की बोतलें सीज कीं। बोतलों के नमूने जांच के लिए भेजे गए हैं और प्रतिष्ठान को नोटिस जारी किया गया है।"
-   },
-   "id": "jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Uttar Pradesh",
-   "sub": "Uttar Pradesh",
-   "trending": false,
-   "publishedAt": "2026-11-25T18:14:49+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25-en.mp3"
   }
  ]
 }
