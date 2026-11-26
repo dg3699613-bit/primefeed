@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T19:19:18+05:30",
+ "updatedAt": "2026-11-26T19:38:15+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/belagavi-district-court-bomb-threat-hoax-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/belagavi-district-court-bomb-threat-hoax-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Bomb threat email to Belagavi District Court turns out to be a hoax; bomb squad finds nothing after full search",
+    "summary": "A threatening email claiming a bomb had been planted in the Belagavi District Court triggered panic on Thursday, with the bomb squad and dog squad searching the premises and the vehicles parked there. Police found nothing and declared it a hoax, and are now tracing the source of the email. A similar threat to the Belagavi City Corporation earlier this month had also turned out to be false."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बेलगावि जिला अदालत को बम से उड़ाने की धमकी निकली अफवाह, बम निरोधक दस्ते को कुछ नहीं मिला",
+    "summary": "बेलगावि जिला अदालत में बम रखे होने की धमकी वाला ईमेल मिलने के बाद गुरुवार को हड़कंप मच गया। बम निरोधक दस्ते और श्वान दस्ते ने अदालत परिसर और वहाँ खड़े वाहनों की पूरी तलाशी ली, लेकिन कुछ नहीं मिला। पुलिस ने धमकी को अफवाह बताया है और ईमेल भेजने वाले की तलाश कर रही है। इस महीने की शुरुआत में बेलगावि नगर निगम को मिली ऐसी ही धमकी भी झूठी निकली थी।"
+   },
+   "id": "belagavi-district-court-bomb-threat-hoax-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/belagavi-district-court-bomb-threat-hoax-november-26.jpg",
+   "publishedAt": "2026-11-26T19:32:47+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": false,
+   "district": "Belagavi",
+   "state": "Karnataka"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ibm-ends-h1b-green-card-sponsorship-indian-employees-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ibm-ends-h1b-green-card-sponsorship-indian-employees-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "IBM ends H-1B and green card sponsorship for most consulting roles; Indian employees face relocation or exit by December 31",
+    "summary": "IBM is ending US visa and green card sponsorship for most positions in its consulting division, its largest business with more than 150,000 employees. Affected foreign workers, including Indian professionals, have 3 weeks to choose between relocating to an IBM role outside the US or leaving the company by December 31, with 3 months' severance for those who do not move. One employee estimated that relocating to India could mean an 80% pay cut."
+   },
+   "featured": false,
+   "hi": {
+    "title": "आईबीएम ने कंसल्टिंग के अधिकतर पदों पर एच-1बी और ग्रीन कार्ड स्पॉन्सरशिप खत्म की, भारतीय कर्मचारियों के सामने तबादला या नौकरी छोड़ने का विकल्प",
+    "summary": "आईबीएम अपनी सबसे बड़ी इकाई कंसल्टिंग डिवीजन के अधिकतर पदों पर अमेरिका में वीजा और ग्रीन कार्ड स्पॉन्सरशिप खत्म कर रहा है। भारतीय पेशेवरों समेत प्रभावित विदेशी कर्मचारियों को 3 हफ्ते में फैसला करना है — अमेरिका से बाहर आईबीएम की किसी भूमिका में तबादला लें या 31 दिसंबर तक कंपनी छोड़ दें। तबादला न लेने वालों को 3 महीने का सेवरेंस मिलेगा। 1 कर्मचारी का अनुमान है कि भारत तबादले पर वेतन में 80% की कटौती हो सकती है।"
+   },
+   "id": "ibm-ends-h1b-green-card-sponsorship-indian-employees-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ibm-ends-h1b-green-card-sponsorship-indian-employees-november-26.jpg",
+   "publishedAt": "2026-11-26T19:32:47+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Economy",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gwalior-dabra-rooftop-firing-stone-pelting-bike-dispute-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gwalior-dabra-rooftop-firing-stone-pelting-bike-dispute-november-26-hi.mp3",
@@ -3278,52 +3322,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jhansi-fda-raid-bisroli-water-bottles-2151-seized-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "World",
-   "district": null,
-   "en": {
-    "title": "Bangladesh raises garment workers' minimum wage 36% to $139 after weeks of protests",
-    "summary": "Bangladesh's wage board has raised the minimum monthly pay for garment workers by 36% to 17,000 taka ($139) after nearly 12 hours of talks. Workers had demanded the wage be doubled to 30,000 taka; the board approved the lower figure by four votes to two."
-   },
-   "featured": false,
-   "hi": {
-    "title": "बांग्लादेश में गारमेंट मज़दूरों का न्यूनतम वेतन 36% बढ़कर 17,000 टका, हफ़्तों के विरोध के बाद वेतन बोर्ड का फैसला",
-    "summary": "बांग्लादेश के वेतन बोर्ड ने गारमेंट मज़दूरों का न्यूनतम मासिक वेतन 36% बढ़ाकर 17,000 टका (139 डॉलर) कर दिया है। मज़दूरों ने वेतन दोगुना करने की माँग की थी, लेकिन बोर्ड ने 4 के मुकाबले 2 मतों से इस प्रस्ताव को मंज़ूरी दी।"
-   },
-   "id": "bangladesh-garment-workers-minimum-wage-17000-taka-november-25",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Asia",
-   "trending": true,
-   "publishedAt": "2026-11-25T18:14:49+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bangladesh-garment-workers-minimum-wage-17000-taka-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-garment-workers-minimum-wage-17000-taka-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bangladesh-garment-workers-minimum-wage-17000-taka-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "World",
-   "district": null,
-   "en": {
-    "title": "Cartagena supermarket siege ends: all 20 remaining hostages freed, one captor killed after 17-hour standoff",
-    "summary": "Colombian police and soldiers stormed an Exito supermarket in Cartagena early on Wednesday, ending a 17-hour hostage siege. Ten hostages had been released on Tuesday; the remaining 20 were rescued and one captor was killed."
-   },
-   "featured": false,
-   "hi": {
-    "title": "कार्टाजेना सुपरमार्केट बंधक संकट खत्म: 17 घंटे बाद सभी 20 बंधक छुड़ाए गए, 1 बंधककर्ता मारा गया",
-    "summary": "कोलंबिया के कार्टाजेना में एक्सिटो सुपरमार्केट में करीब 30 लोगों को बंधक बनाने वाले हथियारबंद लोगों के खिलाफ पुलिस और सेना ने बुधवार तड़के कार्रवाई की। 10 बंधकों को मंगलवार को ही छोड़ दिया गया था, बाकी 20 को छुड़ा लिया गया और 1 बंधककर्ता मारा गया।"
-   },
-   "id": "cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Others",
-   "trending": true,
-   "publishedAt": "2026-11-25T18:01:04+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cartagena-supermarket-siege-hostages-freed-one-captor-killed-november-25-en.mp3"
   }
  ]
 }
