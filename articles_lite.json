@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T10:15:11+05:30",
+ "updatedAt": "2026-11-26T10:46:00+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-hc-constable-dismissal-illegal-20-lakh-compensation-november-23-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-hc-constable-dismissal-illegal-20-lakh-compensation-november-23-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "After 28 years, sacked Rajasthan constable gets justice: High Court quashes dismissal, orders Rs 20 lakh compensation",
+    "summary": "The Rajasthan High Court has held the dismissal of constable Shaitana Ram illegal and contradictory, and ordered the state government to pay him Rs 20 lakh as lump-sum compensation instead of reinstating him. The court found the 1998 dismissal order flawed because the same order had regularised his 56 days of absence as leave without pay, yet punished him for that absence; he had remained out of service for more than 28 years."
+   },
+   "featured": false,
+   "hi": {
+    "title": "28 साल बाद बर्खास्त सिपाही को इंसाफ: राजस्थान हाईकोर्ट ने बर्खास्तगी रद्द कर 20 लाख रुपये मुआवजा देने का आदेश दिया",
+    "summary": "राजस्थान हाईकोर्ट ने कांस्टेबल शैताना राम की बर्खास्तगी को अवैध और विरोधाभासी ठहराते हुए राज्य सरकार को बहाली की जगह 20 लाख रुपये का एकमुश्त मुआवजा देने का आदेश दिया है। कोर्ट ने पाया कि 1998 के बर्खास्तगी आदेश में ही उनकी 56 दिन की अनुपस्थिति को बिना वेतन अवकाश मानकर नियमित कर दिया गया था, फिर भी उसी अनुपस्थिति के लिए उन्हें दंडित किया गया; वे 28 साल से ज़्यादा समय से सेवा से बाहर हैं।"
+   },
+   "id": "rajasthan-hc-constable-dismissal-illegal-20-lakh-compensation-november-23",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-hc-constable-dismissal-illegal-20-lakh-compensation-november-23.jpg",
+   "publishedAt": "2026-11-26T10:41:13+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": false,
+   "district": "Nagaur",
+   "state": "Rajasthan"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-fir-comedian-yash-maheshwari-chhath-remarks-saket-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-fir-comedian-yash-maheshwari-chhath-remarks-saket-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Delhi Police register FIR against comedian Yash Maheshwari over Chhath remarks at Saket station",
+    "summary": "Delhi Police has registered an FIR at Saket police station against stand-up comedian Yash Maheshwari over alleged objectionable remarks about women from Bihar, the Chhath festival and the sindoor tradition. The complaint says the remarks were made at a Saket comedy club on October 24; Patna Cyber Police had already registered a case on November 24, and Maheshwari has issued a public apology."
+   },
+   "featured": false,
+   "hi": {
+    "title": "दिल्ली पुलिस ने कॉमेडियन यश माहेश्वरी पर छठ टिप्पणी को लेकर साकेत थाने में एफआईआर दर्ज की",
+    "summary": "दिल्ली पुलिस ने स्टैंड-अप कॉमेडियन यश माहेश्वरी के खिलाफ बिहार की महिलाओं, छठ पर्व और सिंदूर परंपरा पर आपत्तिजनक टिप्पणी के आरोप में साकेत थाने में एफआईआर दर्ज की है। शिकायत में कहा गया है कि टिप्पणी 24 अक्टूबर को साकेत के एक कॉमेडी क्लब में की गई थी; पटना साइबर पुलिस 24 नवंबर को पहले ही मामला दर्ज कर चुकी है, और माहेश्वरी सार्वजनिक रूप से माफ़ी माँग चुके हैं।"
+   },
+   "id": "delhi-police-fir-comedian-yash-maheshwari-chhath-remarks-saket-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-police-fir-comedian-yash-maheshwari-chhath-remarks-saket-november-26.jpg",
+   "publishedAt": "2026-11-26T10:41:13+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "South Delhi",
+   "state": "Delhi"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-icds-stones-insects-anganwadi-rations-imphal-west-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-icds-stones-insects-anganwadi-rations-imphal-west-november-26-hi.mp3",
@@ -3291,48 +3337,6 @@
    "hi": {
     "title": "दुलियाजान तिहरा हत्याकांड: हथियार बरामदगी के दौरान भागने की कोशिश में 2 आरोपी पुलिस फायरिंग में घायल, 2 जवान भी जख्मी",
     "summary": "डिब्रूगढ़ जिले के बालिजान चाय बागान के पास हथियार बरामद करने ले जाए गए दुलियाजान तिहरा हत्याकांड के 2 आरोपियों ने भागने की कोशिश की, तो पुलिस की गोलीबारी में दोनों घायल हो गए। इस घटना में 2 पुलिसकर्मी भी जख्मी हुए हैं।"
-   }
-  },
-  {
-   "id": "china-shenzhou-24-launch-first-pakistani-astronaut-november-25",
-   "category": "Science",
-   "sub": "Space",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T09:17:16+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/china-shenzhou-24-launch-first-pakistani-astronaut-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-shenzhou-24-launch-first-pakistani-astronaut-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/china-shenzhou-24-launch-first-pakistani-astronaut-november-25-en.mp3",
-   "en": {
-    "title": "Shenzhou-24 lifts off with first Pakistani astronaut aboard, a first for China's space station",
-    "summary": "China successfully launched the Shenzhou-24 spacecraft on Wednesday morning, carrying 3 astronauts including Muhammad Zeeshan Ali, the first Pakistani in orbit. Ali will become the first foreign national to board China's Tiangong space station."
-   },
-   "hi": {
-    "title": "शेनझोउ-24 रवाना: चीन के अंतरिक्ष स्टेशन पर पहुंचेंगे पहले पाकिस्तानी अंतरिक्ष यात्री जीशान अली",
-    "summary": "चीन ने बुधवार सुबह शेनझोउ-24 अंतरिक्ष यान सफलतापूर्वक लॉन्च किया। इसमें पाकिस्तान के पहले अंतरिक्ष यात्री मुहम्मद जीशान अली समेत 3 अंतरिक्ष यात्री सवार हैं। जीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर जाने वाले पहले विदेशी नागरिक होंगे।"
-   }
-  },
-  {
-   "id": "ramayana-day-20-17-50-crore-99-rupee-tickets-pushpa-2-record-november-25",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T08:51:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-day-20-17-50-crore-99-rupee-tickets-pushpa-2-record-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-20-17-50-crore-99-rupee-tickets-pushpa-2-record-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-day-20-17-50-crore-99-rupee-tickets-pushpa-2-record-november-25-en.mp3",
-   "hi": {
-    "title": "Ramayana ने 20वें दिन 17.50 करोड़ कमाए, 99 रुपये के टिकट का कमाल — पुष्पा 2 का रिकॉर्ड अब बस कुछ दूर",
-    "summary": "मंगलवार को फ़िल्म ने भारत में 17.50 करोड़ रुपये नेट कमाए। टिकट 99 रुपये करने के बाद कमाई सोमवार के 12.70 करोड़ रुपये से 37.8% बढ़ी। 20 दिन में भारत में नेट कलेक्शन 972.95 करोड़ रुपये और दुनियाभर में कुल ग्रॉस 1735.15 करोड़ रुपये हो गया है — पुष्पा 2 से अब सिर्फ 6.95 करोड़ रुपये पीछे।"
-   },
-   "en": {
-    "title": "Ramayana earns 17.50 crore on Day 20 as 99-rupee tickets work their magic — Pushpa 2's record now within reach",
-    "summary": "The film earned 17.50 crore net in India on Tuesday. After tickets were cut to 99 rupees, collections rose 37.8% from Monday's 12.70 crore. In 20 days its India net has reached 972.95 crore and worldwide gross 1,735.15 crore — just 6.95 crore behind Pushpa 2."
    }
   }
  ]
