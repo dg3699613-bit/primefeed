@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T23:11:42+05:30",
+ "updatedAt": "2026-11-26T23:24:34+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-stabbed-to-death-bike-borne-assailants-barpeta-road-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/woman-stabbed-to-death-bike-borne-assailants-barpeta-road-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Woman stabbed to death by bike-borne assailants on highway near Barpeta Road",
+    "summary": "A young woman was stabbed to death by 2 unidentified men on a motorcycle on a national highway at Hatapara near Barpeta Road in Assam on Thursday. Another woman walking with her escaped unhurt. Police said the victim is yet to be identified and the motive is unclear."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बारपेटा रोड के पास हाईवे पर बाइक सवार हमलावरों ने युवती की चाकू मारकर हत्या की",
+    "summary": "असम के बारपेटा रोड के पास हाटापारा में राष्ट्रीय राजमार्ग पर गुरुवार को बाइक सवार 2 अज्ञात हमलावरों ने 1 युवती की चाकू मारकर हत्या कर दी। उसके साथ चल रही दूसरी युवती भागकर बच गई। पुलिस ने बताया कि मृतका की पहचान अभी नहीं हुई है और हत्या की वजह भी साफ नहीं है।"
+   },
+   "id": "woman-stabbed-to-death-bike-borne-assailants-barpeta-road-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/woman-stabbed-to-death-bike-borne-assailants-barpeta-road-november-26.jpg",
+   "publishedAt": "2026-11-26T23:20:29+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": false,
+   "district": "Barpeta",
+   "state": "Assam"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-bust-cyber-slavery-racket-164-foreigners-rescued-noida-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-police-bust-cyber-slavery-racket-164-foreigners-rescued-noida-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Delhi Police bust 'cyber slavery' racket in Noida, rescue 164 Indonesians and Malaysians",
+    "summary": "Delhi Police's Crime Branch has rescued 164 foreign nationals - 92 Indonesians and 72 Malaysians - from a call centre in Noida's Sector 136, busting what it called a transnational 'cyber slavery' racket that lured people with job offers and forced them to run online investment scams. A 25-year-old Malaysian national was arrested and 549 digital devices and 174 passports were seized."
+   },
+   "featured": false,
+   "hi": {
+    "title": "नोएडा कॉल सेंटर से 164 विदेशी नागरिक बचाए गए, 'साइबर स्लेवरी' रैकेट का भंडाफोड़",
+    "summary": "दिल्ली पुलिस की क्राइम ब्रांच ने नोएडा के सेक्टर 136 में चल रहे कॉल सेंटर से 164 विदेशी नागरिकों — 92 इंडोनेशियाई और 72 मलेशियाई — को बचाया है। पुलिस ने इसे अंतरराष्ट्रीय 'साइबर स्लेवरी' रैकेट बताया है, जिसमें लोगों को नौकरी का झांसा देकर भारत लाया गया और ऑनलाइन निवेश घोटाले चलाने पर मजबूर किया गया। 1 मलेशियाई नागरिक गिरफ्तार हुआ है और 549 डिजिटल उपकरण व 174 पासपोर्ट जब्त किए गए हैं।"
+   },
+   "id": "delhi-police-bust-cyber-slavery-racket-164-foreigners-rescued-noida-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-police-bust-cyber-slavery-racket-164-foreigners-rescued-noida-november-26.jpg",
+   "publishedAt": "2026-11-26T23:20:29+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Cyber Crime",
+   "trending": true,
+   "district": "Gautam Buddha Nagar",
+   "state": "Uttar Pradesh"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-italians-killed-iranian-drone-attack-kuwait-air-defence-site-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/two-italians-killed-iranian-drone-attack-kuwait-air-defence-site-november-26-hi.mp3",
@@ -3272,52 +3318,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-bopdev-ghat-tempo-bus-stop-three-students-killed-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Education",
-   "district": "Nuapada",
-   "en": {
-    "title": "Odisha to set up two new government homoeopathic medical colleges in Nuapada and Nayagarh, CM Mohan Majhi announces",
-    "summary": "Chief Minister Mohan Charan Majhi announced at the National Scientific Convention on Homoeopathy in Bhubaneswar that two new government homoeopathic medical colleges will come up in Nuapada and Nayagarh districts. President Droupadi Murmu also attended the convention."
-   },
-   "featured": false,
-   "hi": {
-    "title": "नुआपाड़ा और नयागढ़ को मिलेंगे 2 नए सरकारी होम्योपैथिक मेडिकल कॉलेज, सीएम मोहन माझी का ऐलान",
-    "summary": "मुख्यमंत्री मोहन चरण माझी ने भुवनेश्वर में होम्योपैथी पर राष्ट्रीय वैज्ञानिक सम्मेलन में ऐलान किया कि नुआपाड़ा और नयागढ़ में 2 नए सरकारी होम्योपैथिक मेडिकल कॉलेज खोले जाएँगे। राष्ट्रपति द्रौपदी मुर्मू भी सम्मेलन में मौजूद रहीं।"
-   },
-   "id": "odisha-two-new-homoeopathic-medical-colleges-nuapada-nayagarh-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Odisha",
-   "sub": "Admissions",
-   "trending": false,
-   "publishedAt": "2026-11-25T22:24:39+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/odisha-two-new-homoeopathic-medical-colleges-nuapada-nayagarh-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-two-new-homoeopathic-medical-colleges-nuapada-nayagarh-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/odisha-two-new-homoeopathic-medical-colleges-nuapada-nayagarh-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Baghpat",
-   "en": {
-    "title": "CBI arrests proclaimed offender from Baraut in 2017 case of sending workers to China on false job promise",
-    "summary": "The CBI has arrested Kuldeep alias Kuldeep Kapoor, a proclaimed offender in a 2017 case, from Baraut in Uttar Pradesh. He is accused of luring a Nepali woman to China with a false promise of employment."
-   },
-   "featured": false,
-   "hi": {
-    "title": "चीन में नौकरी का झांसा देकर महिला को भेजने के मामले में सीबीआई ने बड़ौत से भगोड़े आरोपी को पकड़ा",
-    "summary": "सीबीआई ने 2017 के एक मामले में भगोड़े घोषित आरोपी कुलदीप उर्फ कुलदीप कपूर को उत्तर प्रदेश के बड़ौत से गिरफ्तार किया है। आरोप है कि उसने चीन में नौकरी का झांसा देकर एक नेपाली महिला को वहाँ भेजा था।"
-   },
-   "id": "cbi-arrests-proclaimed-offender-baraut-china-employment-racket-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Uttar Pradesh",
-   "sub": "Police & Crime",
-   "trending": false,
-   "publishedAt": "2026-11-25T22:24:39+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cbi-arrests-proclaimed-offender-baraut-china-employment-racket-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-proclaimed-offender-baraut-china-employment-racket-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cbi-arrests-proclaimed-offender-baraut-china-employment-racket-november-25-en.mp3"
   }
  ]
 }
