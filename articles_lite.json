@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-26T15:16:27+05:30",
+ "updatedAt": "2026-11-26T15:31:39+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jet-airways-nclat-480-crore-dues-employees-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jet-airways-nclat-480-crore-dues-employees-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "NCLAT orders Rs 480 crore payout to Jet Airways employees within 2 weeks, ending a 7-year wait",
+    "summary": "The National Company Law Appellate Tribunal on Thursday ordered the release of provident fund and gratuity dues, with interest, for former Jet Airways employees within 2 weeks. The total payout is estimated at around Rs 480 crore, ending a wait of nearly 7 years since the airline stopped flying in April 2019. The gratuity will be paid directly into employees' bank accounts, while provident fund contributions will come through the PF office."
+   },
+   "featured": false,
+   "hi": {
+    "title": "जेट एयरवेज़ के कर्मचारियों को 2 हफ्ते में मिलेंगे 480 करोड़ रुपये, एनसीएलएटी का आदेश — 7 साल का इंतज़ार खत्म",
+    "summary": "राष्ट्रीय कंपनी विधि अपील अधिकरण ने गुरुवार को जेट एयरवेज़ के पूर्व कर्मचारियों का ब्याज समेत भविष्य निधि और ग्रेच्युटी बकाया 2 हफ्ते के भीतर जारी करने का आदेश दिया। कुल भुगतान करीब 480 करोड़ रुपये अनुमानित है, जिससे अप्रैल 2019 में एयरलाइन की उड़ानें बंद होने के बाद से चला आ रहा करीब 7 साल का इंतज़ार खत्म होगा। ग्रेच्युटी सीधे कर्मचारियों के बैंक खातों में जाएगी, जबकि भविष्य निधि का अंशदान भविष्य निधि कार्यालय के ज़रिये मिलेगा।"
+   },
+   "id": "jet-airways-nclat-480-crore-dues-employees-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jet-airways-nclat-480-crore-dues-employees-november-26.jpg",
+   "publishedAt": "2026-11-26T15:27:26+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Banking & Finance",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-congress-moves-delhi-high-court-meta-rahul-gandhi-posts-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/youth-congress-moves-delhi-high-court-meta-rahul-gandhi-posts-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Youth Congress moves Delhi High Court against Meta, says Rahul Gandhi's name and photo trigger automatic blocks",
+    "summary": "The Indian Youth Congress has moved the Delhi High Court against Meta Platforms, alleging that Instagram and Facebook automatically restrict posts carrying the name or photograph of Leader of Opposition Rahul Gandhi. The petition by IYC National Secretary Manu Jain says the automated system treats Gandhi's name and photograph as keywords, and challenges Rule 4(4) of the IT Rules, 2021, which mandates automated takedowns. It seeks restoration of the blocked posts and disclosure of the orders and criteria behind the restrictions."
+   },
+   "featured": false,
+   "hi": {
+    "title": "युवा कांग्रेस दिल्ली हाई कोर्ट पहुंची, मेटा पर आरोप — राहुल गांधी का नाम-फोटो देखते ही पोस्ट ब्लॉक",
+    "summary": "भारतीय युवा कांग्रेस ने मेटा प्लेटफॉर्म्स के खिलाफ दिल्ली हाई कोर्ट का रुख किया है। आरोप है कि इंस्टाग्राम और फेसबुक पर नेता प्रतिपक्ष राहुल गांधी का नाम या फोटो वाली पोस्ट अपने आप ब्लॉक कर दी जाती हैं। भारतीय युवा कांग्रेस के राष्ट्रीय सचिव मनु जैन की याचिका में कहा गया है कि स्वचालित व्यवस्था गांधी के नाम और फोटो को कीवर्ड की तरह इस्तेमाल करती है। याचिका में सूचना प्रौद्योगिकी नियम, 2021 के नियम 4(4) को भी चुनौती दी गई है, जो स्वचालित तरीके से सामग्री हटाना अनिवार्य करता है।"
+   },
+   "id": "youth-congress-moves-delhi-high-court-meta-rahul-gandhi-posts-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/youth-congress-moves-delhi-high-court-meta-rahul-gandhi-posts-november-26.jpg",
+   "publishedAt": "2026-11-26T15:27:26+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Congress",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-paternity-leave-15-days-male-govt-employees-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-paternity-leave-15-days-male-govt-employees-november-26-hi.mp3",
@@ -3289,50 +3331,6 @@
    "en": {
     "title": "Four Army aircraft land on Gujarat highway in a first for a national highway",
     "summary": "Four Indian Army aircraft made history on Tuesday, landing on National Highway NH-754K in Gujarat's Patan district. The formation — two microlight aircraft and two powered hang gliders — touched down on the Amritsar–Jamnagar Expressway near Bakutra Toll Plaza."
-   }
-  },
-  {
-   "id": "ghazipur-double-murder-mother-daughter-stabbed-dharwa-village-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T14:57:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ghazipur-double-murder-mother-daughter-stabbed-dharwa-village-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ghazipur-double-murder-mother-daughter-stabbed-dharwa-village-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ghazipur-double-murder-mother-daughter-stabbed-dharwa-village-november-25-en.mp3",
-   "district": "Ghazipur",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गाजीपुर में घर में घुसकर मां-बेटी की चाकू से हत्या, पुलिस ने नामजद आरोपी की तलाश शुरू की",
-    "summary": "गाजीपुर जिले के नंदगंज थाना क्षेत्र के धरवां गांव में बुधवार सुबह 35 वर्षीय जयमून निशा और उनकी 12 साल की बेटी की घर में घुसकर चाकू से हत्या कर दी गई। दोनों घर में अकेली थीं। पुलिस ने परिजनों की तहरीर पर मुकदमा दर्ज कर नामजद आरोपी की तलाश शुरू कर दी है।"
-   },
-   "en": {
-    "title": "Mother and 12-year-old daughter stabbed to death inside their Ghazipur home; police hunt named accused",
-    "summary": "A 35-year-old woman and her 12-year-old daughter were stabbed to death inside their home in Dharwa village, Ghazipur district, on Wednesday morning. The two were alone at home when the attacker entered the house. Police have registered a case and are searching for an accused named by the family."
-   }
-  },
-  {
-   "id": "vantara-signs-10-year-madagascar-deal-wildlife-repatriation-november-25",
-   "category": "Science",
-   "sub": "Environment",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T14:57:03+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vantara-signs-10-year-madagascar-deal-wildlife-repatriation-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vantara-signs-10-year-madagascar-deal-wildlife-repatriation-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vantara-signs-10-year-madagascar-deal-wildlife-repatriation-november-25-en.mp3",
-   "hi": {
-    "title": "वंतारा और मेडागास्कर के बीच 10 साल का समझौता — तस्करी से बचाए गए वन्यजीव अब अपने घर लौटेंगे",
-    "summary": "वंतारा ने मेडागास्कर के साथ 10 साल का समझौता किया है, जिसके तहत तस्करी से जब्त किए गए मेडागास्कर के वन्यजीवों को उनके देश वापस लाने, उनका इलाज और पुनर्वास करने में मदद की जाएगी। मेडागास्कर में एक राष्ट्रीय वन्यजीव बचाव और पुनर्वास केंद्र बनाने में भी सहयोग मिलेगा।"
-   },
-   "en": {
-    "title": "Vantara signs 10-year deal with Madagascar to bring seized wildlife home",
-    "summary": "Vantara has signed a 10-year agreement with Madagascar to help return wildlife seized from traffickers to the island nation, rehabilitate rescued animals and, where possible, release them back into the wild. The deal also envisages support for a national wildlife rescue and rehabilitation centre in Madagascar."
    }
   }
  ]
