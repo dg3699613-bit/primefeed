@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T13:52:04+05:30",
+ "updatedAt": "2026-11-26T14:04:44+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anuppur-kotma-nh43-truck-accident-two-killed-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anuppur-kotma-nh43-truck-accident-two-killed-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Two killed as wood-laden truck rams stationary truck on NH-43 near Anuppur's Kotma",
+    "summary": "A wood-laden truck rammed a stationary truck on National Highway 43 near Kotma in Anuppur district in the early hours of Thursday, killing the driver and his helper on the spot. Both bodies were trapped in the crushed cabin and had to be cut out."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अनूपपुर के कोतमा में खड़े ट्रक से टकराया लकड़ी से लदा ट्रक, चालक और हेल्पर की मौत",
+    "summary": "अनूपपुर जिले के कोतमा के पास राष्ट्रीय राजमार्ग 43 पर गुरुवार तड़के लकड़ी से लदे ट्रक ने सड़क किनारे खड़े ट्रक को टक्कर मार दी। हादसे में चालक और उसके हेल्पर की मौके पर ही मौत हो गई। कुचले हुए केबिन में फंसे दोनों शवों को काटकर निकालना पड़ा।"
+   },
+   "id": "anuppur-kotma-nh43-truck-accident-two-killed-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/anuppur-kotma-nh43-truck-accident-two-killed-november-26.jpg",
+   "publishedAt": "2026-11-26T14:01:29+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": true,
+   "district": "Anuppur",
+   "state": "Madhya Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/centre-asks-netflix-keep-pakistani-content-off-india-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/centre-asks-netflix-keep-pakistani-content-off-india-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Entertainment",
+   "en": {
+    "title": "Centre asks Netflix to keep Pakistani content off India platform amid row over new series",
+    "summary": "The Information and Broadcasting Ministry has asked Netflix to ensure no Pakistani-origin content is streamed in India, after complaints over the possible India release of the series Jo Bachay Hain Sang Samait Lo. The trailer dropped on Tuesday and the series is set to premiere on December 4, but Netflix has not said whether India is included."
+   },
+   "featured": false,
+   "hi": {
+    "title": "केंद्र ने नेटफ्लिक्स से कहा — भारत में पाकिस्तानी कंटेंट न दिखाए, नई सीरीज़ को लेकर विवाद",
+    "summary": "सूचना और प्रसारण मंत्रालय ने नेटफ्लिक्स से कहा है कि वह भारत में पाकिस्तान से जुड़ा कोई कंटेंट न दिखाए। यह कदम पाकिस्तानी सीरीज़ जो बचाए हैं संग समेट लो की भारत में संभावित रिलीज़ को लेकर मिली शिकायतों के बाद उठाया गया है। सीरीज़ का ट्रेलर मंगलवार को आया था और यह 4 दिसंबर को रिलीज़ होनी है, लेकिन नेटफ्लिक्स ने अब तक यह नहीं बताया है कि भारत इसमें शामिल है या नहीं।"
+   },
+   "id": "centre-asks-netflix-keep-pakistani-content-off-india-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/centre-asks-netflix-keep-pakistani-content-off-india-november-26.jpg",
+   "publishedAt": "2026-11-26T14:01:29+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "OTT / Web Series",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-pugmarks-burla-sambalpur-forest-alert-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tiger-pugmarks-burla-sambalpur-forest-alert-november-26-hi.mp3",
@@ -3289,52 +3333,6 @@
    "en": {
     "title": "Kartarpur Corridor: Delhi High Court refuses to order reopening, calls closure a policy decision",
     "summary": "The Delhi High Court on Wednesday refused to entertain a petition seeking directions to reopen the Kartarpur Corridor. The bench said closing the corridor after the Pahalgam terror attack was a policy decision taken in the interest of citizens, so there was no reason to interfere with it."
-   }
-  },
-  {
-   "id": "archbishop-thomas-menamparampil-dies-90-guwahati-november-25",
-   "category": "Dharm-Astrology",
-   "sub": "Katha & Dharm News",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T13:35:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/archbishop-thomas-menamparampil-dies-90-guwahati-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/archbishop-thomas-menamparampil-dies-90-guwahati-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/archbishop-thomas-menamparampil-dies-90-guwahati-november-25-en.mp3",
-   "district": "Kamrup Metropolitan",
-   "state": "Assam",
-   "hi": {
-    "title": "गुवाहाटी के पहले आर्कबिशप थॉमस मेनमपरमपिल का 90 साल की उम्र में निधन",
-    "summary": "गुवाहाटी के पहले कैथोलिक आर्कबिशप और नोबेल शांति पुरस्कार के लिए नामांकित शांति-दूत थॉमस मेनमपरमपिल का बुधवार सुबह हैदराबाद के एआईजी हॉस्पिटल्स में 90 साल की उम्र में निधन हो गया। पूर्वोत्तर में दशकों तक चले जातीय संघर्षों में उन्होंने शांति की मध्यस्थता की थी। असम और मेघालय के मुख्यमंत्रियों ने शोक जताया है।"
-   },
-   "en": {
-    "title": "Guwahati's first Archbishop Thomas Menamparampil dies at 90",
-    "summary": "Thomas Menamparampil, the first Catholic Archbishop of Guwahati and a Nobel Peace Prize-nominated mediator who spent decades brokering peace in the Northeast's ethnic conflicts, died in Hyderabad on Wednesday morning. He was 90. The chief ministers of Assam and Meghalaya have condoled his death."
-   }
-  },
-  {
-   "id": "pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": true,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T13:35:00+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pune-shivajinagar-court-firing-sickle-attack-one-injured-november-25-en.mp3",
-   "district": "Pune",
-   "state": "Maharashtra",
-   "hi": {
-    "title": "पुणे के शिवाजीनगर कोर्ट के बाहर दिनदहाड़े गोलीबारी, कोयते से हमला; 1 घायल, हमलावर फरार",
-    "summary": "पुणे के शिवाजीनगर जिला न्यायालय के गेट नंबर 4 के बाहर बुधवार दोपहर अज्ञात हमलावरों ने गोलीबारी की और कोयते से हमला किया। 1 व्यक्ति घायल हुआ है, जिसे अस्पताल में भर्ती कराया गया है। हमलावर मौके से फरार हो गए; पुलिस और क्राइम ब्रांच की टीम जांच में जुटी है।"
-   },
-   "en": {
-    "title": "Firing outside Pune's Shivajinagar court in broad daylight, sickle attack leaves one injured; attackers flee",
-    "summary": "Unidentified attackers opened fire and attacked with sickles outside gate number 4 of the Shivajinagar district court in Pune on Wednesday afternoon. One person was injured and taken to hospital. The attackers fled the spot; police and the crime branch are investigating."
    }
   }
  ]
