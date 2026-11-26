@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T08:56:48+05:30",
+ "updatedAt": "2026-11-26T09:12:33+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Rohtak: 4 shot dead at dhaba metres from police station in suspected gang war",
+    "summary": "4 young men having dinner at Milan Dhaba near Kharawar village in Rohtak were shot dead in the early hours of Thursday, in a firing police suspect is linked to the rivalry between the Baba gang and the Himanshu Bhau gang. 5 armed assailants arrived in a Swift car and opened fire; police have launched a search."
+   },
+   "featured": false,
+   "hi": {
+    "title": "रोहतक: थाने से 30 मीटर दूर ढाबे पर गैंगवार, खाना खा रहे 4 युवकों की गोली मारकर हत्या",
+    "summary": "रोहतक के खरावर गाँव के पास मिलन ढाबे पर गुरुवार तड़के करीब 1 बजे खाना खा रहे 4 युवकों पर 5 हथियारबंद हमलावरों ने गोलियाँ चला दीं। 4 की मौके पर मौत हो गई। पुलिस बाबा गैंग और हिमांशु भाऊ गैंग की रंजिश के एंगल से जाँच कर रही है।"
+   },
+   "id": "rohtak-milan-dhaba-gangwar-four-shot-dead-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26.jpg",
+   "publishedAt": "2026-11-26T09:08:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Rohtak",
+   "state": "Haryana"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Congress wins 24 of 37 Zila Pramukh posts in Rajasthan; BJP 10, loses CM home district Bharatpur",
+    "summary": "The Congress won the Zila Pramukh posts in 24 of Rajasthan's 37 districts on Wednesday, while the ruling BJP secured 10. The Bharat Adivasi Party won 2 and the Rashtriya Loktantrik Party 1, as cross-voting overturned party majorities in several districts, including the Chief Minister's home district of Bharatpur."
+   },
+   "featured": false,
+   "hi": {
+    "title": "राजस्थान: कांग्रेस ने 37 में से 24 जिला प्रमुख पद जीते, भाजपा 10 पर; सीएम के गृह जिले भरतपुर में भी हार",
+    "summary": "राजस्थान में बुधवार को हुए जिला प्रमुख चुनाव में कांग्रेस ने 37 में से 24 पद जीत लिए, जबकि सत्तारूढ़ भाजपा को 10 पद मिले। भारत आदिवासी पार्टी को 2 और राष्ट्रीय लोकतांत्रिक पार्टी को 1 पद मिला। कई जिलों में क्रॉस वोटिंग ने दलीय बहुमत को पलट दिया, जिनमें मुख्यमंत्री के गृह जिले भरतपुर भी शामिल है।"
+   },
+   "id": "rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-zila-pramukh-results-congress-24-bjp-10-november-25.jpg",
+   "publishedAt": "2026-11-26T09:08:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Elections",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-tablet-distribution-41000-students-november-27-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cm-yogi-gonda-tablet-distribution-41000-students-november-27-hi.mp3",
@@ -3287,50 +3331,6 @@
    "hi": {
     "title": "मिशन चक्काकोम्बन आज से: इडुक्की में बेकाबू हाथी को रेडियो-कॉलर लगाने की तैयारी, चिन्नकनाल के 6 वार्डों में स्कूल बंद",
     "summary": "केरल के इडुक्की जिले में वन विभाग आज से जंगली हाथी चक्काकोम्बन को बेहोश करके रेडियो-कॉलर लगाने का अभियान शुरू कर रहा है। हाथी के बार-बार चिन्नकनाल की बस्तियों में घुसने के बाद पंचायत के 6 वार्डों में सभी शिक्षण संस्थान बंद रहेंगे, पर्यटन गतिविधियों पर रोक है और अभियान में करीब 100 कर्मी शामिल हैं।"
-   }
-  },
-  {
-   "id": "jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24",
-   "category": "World",
-   "sub": "Pakistan",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T07:09:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jem-commander-admits-terror-camps-in-pok-claims-isi-meeting-november-24-en.mp3",
-   "en": {
-    "title": "On camera, JeM commander admits terror camps in PoK and ISI meeting, names Rawalakot and Dharamsal sites",
-    "summary": "Senior Jaish-e-Mohammed commander Masood Ilyas Kashmiri has admitted on camera at a gathering in Islamabad that the outfit runs an operational terror camp in Rawalakot and a markaz in Dharamsal in Pakistan-occupied Kashmir's Poonch district. He also claimed Pakistani intelligence officials met him in Islamabad and handed him a list of 22 names."
-   },
-   "hi": {
-    "title": "कैमरे पर जैश कमांडर का कबूलनामा: पीओके में आतंकी कैंप और आईएसआई से मुलाकात का खुलासा, रावलकोट-धारमसाल के ठिकानों के नाम लिए",
-    "summary": "जैश-ए-मोहम्मद के वरिष्ठ कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में एक सभा में कैमरे के सामने स्वीकार किया है कि संगठन का रावलकोट में आतंकी कैंप और पाकिस्तान अधिकृत कश्मीर के पूंछ जिले के धारमसाल में मरकज़ सक्रिय है। उसने यह भी कहा कि पाकिस्तानी खुफिया अधिकारियों ने इस्लामाबाद में उससे मुलाकात की और 22 नामों वाली सूची सौंपी थी।"
-   }
-  },
-  {
-   "id": "nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T06:48:15+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nia-probe-sri-ganganagar-railway-blast-rdx-third-accused-november-25-en.mp3",
-   "district": "Sri Ganganagar",
-   "state": "Rajasthan",
-   "en": {
-    "title": "NIA to take over Sri Ganganagar railway blast probe as forensic tests point to RDX; third accused held",
-    "summary": "The National Investigation Agency will take over the probe into the November 3 blast that damaged a railway track in Rajasthan's Sri Ganganagar district, NDTV reported, after preliminary forensic findings from two recovered explosive devices indicated RDX. Three people have been arrested so far, including a third accused held on November 21, and police allege a Pakistan-based handler known as Shah directed the plot."
-   },
-   "hi": {
-    "title": "श्रीगंगानगर रेल पटरी धमाका: एनआईए संभालेगी जांच, फोरेंसिक में आरडीएक्स के संकेत; तीसरे आरोपी की गिरफ्तारी",
-    "summary": "राष्ट्रीय जांच एजेंसी अब राजस्थान के श्रीगंगानगर जिले में 3 नवंबर को रेल पटरी पर हुए धमाके की जांच संभालेगी। एनडीटीवी की खबर के मुताबिक बरामद 2 विस्फोटक उपकरणों की प्रारंभिक फोरेंसिक जांच में आरडीएक्स के संकेत मिले हैं। अब तक 3 लोगों को गिरफ्तार किया जा चुका है, जिनमें 21 नवंबर को पकड़ा गया एक और आरोपी भी शामिल है, और पुलिस का आरोप है कि पाकिस्तान में बैठे 'शाह' नाम के हैंडलर ने यह साजिश रची थी।"
    }
   }
  ]
