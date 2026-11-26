@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T00:22:39+05:30",
+ "updatedAt": "2026-11-27T00:41:46+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/east-champaran-hooch-tragedy-four-life-imprisonment-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/east-champaran-hooch-tragedy-four-life-imprisonment-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "East Champaran hooch tragedy: 4 get life imprisonment over 12 deaths in 2023",
+    "summary": "A special Excise Court in Bihar's East Champaran district on Thursday sentenced 4 men to life imprisonment in the 2023 spurious liquor tragedy that claimed 12 lives in the Harsiddhi area. The court had found the 4 guilty on 21 November, and also awarded 5-year and 10-year terms under other provisions of the Bihar Prohibition and Excise Act and the Indian Penal Code."
+   },
+   "featured": false,
+   "hi": {
+    "title": "पूर्वी चंपारण जहरीली शराब कांड: 12 मौतों के मामले में 4 को उम्रकैद की सज़ा",
+    "summary": "बिहार के पूर्वी चंपारण जिले की विशेष उत्पाद अदालत ने 2023 के जहरीली शराब कांड में 4 लोगों को उम्रकैद की सज़ा सुनाई है। इस हादसे में हरसिद्धि थाना क्षेत्र में 12 लोगों की मौत हो गई थी। अदालत ने 21 नवंबर को 4 आरोपियों को दोषी ठहराया था। इसके साथ ही बिहार मद्यनिषेध और उत्पाद अधिनियम व भारतीय दंड संहिता के अन्य प्रावधानों के तहत 5 साल व 10 साल की सज़ा भी सुनाई गई है।"
+   },
+   "id": "east-champaran-hooch-tragedy-four-life-imprisonment-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/east-champaran-hooch-tragedy-four-life-imprisonment-november-26.jpg",
+   "publishedAt": "2026-11-27T00:36:19+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "East Champaran",
+   "state": "Bihar"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-women-hockey-beat-japan-4-0-world-number-4-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-women-hockey-beat-japan-4-0-world-number-4-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "en": {
+    "title": "India women rout Japan 4-0, climb to historic World No. 4 in hockey rankings",
+    "summary": "India beat Japan 4-0 in their final league match of the Women's Asian Champions Trophy 2026 in Bhopal on Wednesday, completing a perfect league campaign of 5 wins from 5 matches. The win lifted India to World No. 4 in the FIH rankings — the highest position the team has ever reached — a day after the 6-2 win over China had taken them to No. 5."
+   },
+   "featured": false,
+   "hi": {
+    "title": "भारतीय महिला हॉकी टीम ने जापान को 4-0 से हराया, विश्व रैंकिंग में ऐतिहासिक चौथे स्थान पर पहुंची",
+    "summary": "भारतीय महिला हॉकी टीम ने बुधवार को भोपाल में महिला एशियाई चैंपियंस ट्रॉफी 2026 के आखिरी लीग मैच में जापान को 4-0 से हराया और 5 मैचों में 5 जीत के साथ लीग अभियान बेदाग पूरा किया। इस जीत से भारत एफ़आईएच विश्व रैंकिंग में चौथे स्थान पर पहुंच गया है, जो टीम की अब तक की सबसे ऊंची रैंकिंग है। चीन पर 6-2 की जीत के बाद 1 दिन पहले ही टीम 5वें स्थान पर पहुंची थी।"
+   },
+   "id": "india-women-hockey-beat-japan-4-0-world-number-4-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-women-hockey-beat-japan-4-0-world-number-4-november-26.jpg",
+   "publishedAt": "2026-11-27T00:36:19+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Hockey",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-minor-girl-suspicious-death-ghuru-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-minor-girl-suspicious-death-ghuru-november-26-hi.mp3",
@@ -3282,48 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/constitution-day-77th-india-preamble-readings-786-districts-november-26.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/constitution-day-77th-india-preamble-readings-786-districts-november-26-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/constitution-day-77th-india-preamble-readings-786-districts-november-26-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "World",
-   "en": {
-    "title": "North Korea expels Swiss envoy, orders diplomatic office shut within 48 hours in sanctions row",
-    "summary": "North Korea has ordered the head of Switzerland's diplomatic office in Pyongyang to leave the country within 48 hours and demanded the office close, in retaliation for Swiss sanctions on a children's camp accused of links to Russia's war in Ukraine. The office had reopened only last month."
-   },
-   "featured": false,
-   "hi": {
-    "title": "उत्तर कोरिया ने स्विस राजनयिक को देश से निकाला, 48 घंटों में कार्यालय बंद करने का आदेश",
-    "summary": "उत्तर कोरिया ने प्योंगयांग में स्विट्ज़रलैंड के राजनयिक कार्यालय के प्रमुख को 48 घंटों के भीतर देश छोड़ने का आदेश दिया है और कार्यालय बंद करने की माँग की है। यह कदम रूस के यूक्रेन युद्ध से जुड़े एक बच्चों के शिविर पर लगे स्विस प्रतिबंधों के जवाब में उठाया गया है। यह कार्यालय सिर्फ पिछले महीने ही फिर से खुला था।"
-   },
-   "id": "north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours",
-   "source": "PrimeFeed Desk",
-   "sub": "Asia",
-   "trending": true,
-   "publishedAt": "2026-11-26T00:17:22+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/north-korea-expels-swiss-envoy-orders-diplomatic-office-shut-48-hours-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Cricket & Sports",
-   "en": {
-    "title": "Gukesh and Sindarov draw Game 2 in just 20 moves; World Chess Championship level at 1-1",
-    "summary": "World champion D Gukesh played the London System with White in Game 2 of the World Chess Championship in Geneva on Wednesday, but challenger Javokhir Sindarov was fully prepared and the game ended in a 20-move draw by repetition. The match is level at 1-1 with 12 games to go."
-   },
-   "featured": false,
-   "hi": {
-    "title": "गुकेश और सिंदारोव का दूसरा गेम सिर्फ 20 चालों में ड्रॉ; विश्व शतरंज चैंपियनशिप में स्कोर 1-1",
-    "summary": "विश्व चैंपियन डी गुकेश ने बुधवार को जिनेवा में विश्व शतरंज चैंपियनशिप के दूसरे गेम में सफ़ेद मोहरों से लंदन सिस्टम खेला, लेकिन चुनौती देने वाले जावोखिर सिंदारोव पूरी तैयारी के साथ आए थे और 20 चालों में एक ही स्थिति दोहराए जाने पर गेम ड्रॉ हो गया। अब स्कोर 1-1 है और 12 गेम बाकी हैं।"
-   },
-   "id": "gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1",
-   "source": "PrimeFeed Desk",
-   "sub": "Chess",
-   "trending": true,
-   "publishedAt": "2026-11-26T00:17:22+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1-en.mp3"
   }
  ]
 }
