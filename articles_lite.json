@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T05:16:44+05:30",
+ "updatedAt": "2026-11-26T05:41:01+05:30",
  "articles": [
+  {
+   "breaking": false,
+   "category": "State & Local",
+   "district": "Bengaluru Urban",
+   "en": {
+    "title": "Karnataka ASHA workers' strike enters day 10: 15,000 health workers camp at Bengaluru's Freedom Park, demand ₹15,000 honorarium",
+    "summary": "Around 15,000 ASHA workers have camped at Bengaluru's Freedom Park since November 17, demanding their monthly honorarium rise from ₹5,000 to ₹15,000; the strike continues despite the Chief Minister's video-call appeal."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कर्नाटक आशा कार्यकर्ताओं की हड़ताल 10वें दिन में: फ्रीडम पार्क में 15,000 स्वास्थ्य कार्यकर्ता डटे, 15,000 रुपये मानदेय की माँग",
+    "summary": "17 नवंबर से फ्रीडम पार्क में डेरा डाले करीब 15,000 आशा कार्यकर्ता मासिक मानदेय 5,000 रुपये से बढ़ाकर 15,000 रुपये करने की माँग पर अड़े हैं; मुख्यमंत्री से वीडियो कॉल पर अपील के बाद भी हड़ताल जारी है।"
+   },
+   "id": "karnataka-asha-workers-strike-enters-day-10-freedom-park",
+   "source": "PrimeFeed Desk",
+   "state": "Karnataka",
+   "sub": "South India",
+   "trending": true,
+   "publishedAt": "2026-11-26T05:35:49+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/karnataka-asha-workers-strike-enters-day-10-freedom-park.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-asha-workers-strike-enters-day-10-freedom-park-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/karnataka-asha-workers-strike-enters-day-10-freedom-park-en.mp3"
+  },
+  {
+   "breaking": false,
+   "category": "Education",
+   "en": {
+    "title": "Super 30 founder Anand Kumar receives Japan's Special Achievement Award for education of underprivileged children",
+    "summary": "Anand Kumar received the Special Achievement Award in Japan from CGC Group chairman Atsuhiro Horiuchi, honouring his work in giving free, quality education to underprivileged children through Super 30 and Super Infinity."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुपर 30 के संस्थापक आनंद कुमार को जापान में विशेष उपलब्धि पुरस्कार, वंचित बच्चों की शिक्षा के लिए मिला सम्मान",
+    "summary": "आनंद कुमार को जापान में सीजीसी ग्रुप के अध्यक्ष अत्सुहिरो होरिउची ने विशेष उपलब्धि पुरस्कार दिया; सुपर 30 और सुपर इनफिनिटी के ज़रिए वंचित बच्चों को मुफ़्त गुणवत्तापूर्ण शिक्षा देने के काम को सराहा गया।"
+   },
+   "id": "super-30-founder-anand-kumar-japan-special-achievement-award",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": false,
+   "publishedAt": "2026-11-26T05:35:49+05:30",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/super-30-founder-anand-kumar-japan-special-achievement-award.jpg",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/super-30-founder-anand-kumar-japan-special-achievement-award-hi.mp3",
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/super-30-founder-anand-kumar-japan-special-achievement-award-en.mp3"
+  },
   {
    "breaking": false,
    "category": "Crime & Law",
@@ -3279,50 +3323,6 @@
    "hi": {
     "title": "भारत-कनाडा व्यापार समझौता 'बिल्कुल करीब', अधिकारी बोले — रोज़ाना बातचीत जारी, साल के अंत तक समझौते का लक्ष्य",
     "summary": "भारत और कनाडा के वार्ताकार रोज़ाना चर्चा कर रहे हैं और प्रस्तावित व्यापक आर्थिक भागीदारी समझौते को अंतिम रूप देने के 'बिल्कुल करीब' हैं, एक अधिकारी ने 24 नवंबर को कहा। दोनों पक्ष साल के अंत तक समझौता पूरा करने का लक्ष्य लेकर चल रहे हैं, और 2030 तक द्विपक्षीय व्यापार 50 अरब डॉलर तक बढ़ाने का लक्ष्य रखा गया है।"
-   }
-  },
-  {
-   "id": "invest-telangana-global-summit-december-7-9-november-23",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T03:05:08+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/invest-telangana-global-summit-december-7-9-november-23.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/invest-telangana-global-summit-december-7-9-november-23-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/invest-telangana-global-summit-december-7-9-november-23-en.mp3",
-   "en": {
-    "title": "Telangana to host India's 'largest' state-led global summit from 7 December; 1,000+ firms, 1,500 CEOs expected",
-    "summary": "Telangana will host the Invest Telangana Global Summit 2026 from 7 to 9 December at Bharat Future City in Hyderabad, Chief Minister A Revanth Reddy announced on Monday. Billed as India's largest state-led multi-sector exhibition, the 80,000-square-metre summit is expected to draw more than 1,000 companies and around 1,500 CEOs, investors and ambassadors."
-   },
-   "hi": {
-    "title": "तेलंगाना में 7 दिसंबर से देश का सबसे बड़ा राज्य स्तरीय वैश्विक शिखर सम्मेलन, 1,000 से अधिक कंपनियां और 1,500 सीईओ आएंगे",
-    "summary": "तेलंगाना 7 से 9 दिसंबर तक हैदराबाद के भारत फ्यूचर सिटी में इन्वेस्ट तेलंगाना ग्लोबल समिट 2026 की मेज़बानी करेगा, मुख्यमंत्री ए रेवंत रेड्डी ने सोमवार को घोषणा की। देश की सबसे बड़ी राज्य स्तरीय बहु-क्षेत्रीय प्रदर्शनी के रूप में पेश किए जा रहे 80,000 वर्ग मीटर के इस शिखर सम्मेलन में 1,000 से अधिक कंपनियों और करीब 1,500 सीईओ, निवेशकों व राजदूतों के आने की उम्मीद है।"
-   }
-  },
-  {
-   "id": "balaghat-field-328-crore-nagpur-robbery-recovery-november-24",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T02:45:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/balaghat-field-328-crore-nagpur-robbery-recovery-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balaghat-field-328-crore-nagpur-robbery-recovery-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/balaghat-field-328-crore-nagpur-robbery-recovery-november-24-en.mp3",
-   "district": "Balaghat",
-   "state": "Madhya Pradesh",
-   "en": {
-    "title": "₹3.28 crore of Nagpur's ₹3.74-crore loot found under haystack in Balaghat field; 2 arrested",
-    "summary": "Police have recovered ₹3.28 crore of the ₹3.74 crore looted in an armed robbery in Nagpur, hidden in 3 sacks under a haystack in a field in Balaghat's Dorli village. Two accused have been arrested and 6 are on the run, while ₹46 lakh is still missing."
-   },
-   "hi": {
-    "title": "नागपुर लूट के 3.28 करोड़ रुपये बालाघाट के खेत में भूसे के नीचे मिले, 2 आरोपी गिरफ्तार",
-    "summary": "नागपुर में सशस्त्र लूट में लूटे गए 3.74 करोड़ रुपये में से 3.28 करोड़ रुपये बालाघाट के डोरली गांव के एक खेत में भूसे के नीचे छिपी 3 बोरियों में मिले हैं। 2 आरोपी गिरफ्तार हुए हैं, 6 फरार हैं, और 46 लाख रुपये अब भी लापता हैं।"
    }
   }
  ]
