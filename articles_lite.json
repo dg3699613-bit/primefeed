@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T16:31:23+05:30",
+ "updatedAt": "2026-11-26T16:47:32+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-upholds-irctc-charges-lalu-rabri-tejashwi-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-upholds-irctc-charges-lalu-rabri-tejashwi-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Delhi High Court upholds IRCTC charges against Lalu Yadav, Rabri Devi and Tejashwi Yadav",
+    "summary": "The Delhi High Court on Thursday dismissed the petitions filed by Lalu Prasad Yadav, Rabri Devi and Tejashwi Yadav against the framing of criminal charges against them in the alleged IRCTC hotel scam, upholding the trial court's October 13, 2025 order. The court said all petitions are dismissed and the order on charge stands, clearing the way for the trial to proceed at the Rouse Avenue court."
+   },
+   "featured": true,
+   "hi": {
+    "title": "दिल्ली हाई कोर्ट ने आईआरसीटीसी मामले में लालू यादव, राबड़ी देवी और तेजस्वी यादव के खिलाफ आरोप बरकरार रखे",
+    "summary": "दिल्ली हाई कोर्ट ने गुरुवार को लालू प्रसाद यादव, राबड़ी देवी और तेजस्वी यादव की याचिकाएं खारिज करते हुए कथित आईआरसीटीसी होटल घोटाले में उनके खिलाफ आरोप तय करने का ट्रायल कोर्ट का 13 अक्टूबर, 2025 का आदेश बरकरार रखा। कोर्ट ने कहा कि सभी याचिकाएं खारिज की जाती हैं और आरोप तय करने का आदेश बरकरार रहेगा, जिससे राउज एवेन्यू कोर्ट में मुकदमा आगे बढ़ सकेगा।"
+   },
+   "id": "delhi-high-court-upholds-irctc-charges-lalu-rabri-tejashwi-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-high-court-upholds-irctc-charges-lalu-rabri-tejashwi-november-26.jpg",
+   "publishedAt": "2026-11-26T16:44:26+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cuttack-ama-bus-runs-over-woman-leg-link-road-dashcam-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cuttack-ama-bus-runs-over-woman-leg-link-road-dashcam-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Ama Bus runs over woman's leg on Cuttack's Link Road, dashcam shows how she fell under the wheel",
+    "summary": "A woman was critically injured on Thursday after an Ama Bus ran over her leg on Link Road in Cuttack, near the BSNL office. Dashboard camera footage shows a scooter rider colliding with an auto-rickshaw and falling onto the road before the woman came under the bus's wheel. She was rushed to a private hospital, where she remains in critical condition."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कटक की लिंक रोड पर अमा बस महिला के पैर पर चढ़ी, डैशकैम में दिखा हादसा कैसे हुआ",
+    "summary": "कटक की लिंक रोड पर गुरुवार को बीएसएनएल दफ्तर के पास 1 अमा बस महिला के पैर पर चढ़ गई, जिससे वह गंभीर रूप से घायल हो गई। डैशबोर्ड कैमरे में दिखता है कि 1 स्कूटर सवार ऑटो-रिक्शा से टकराकर सड़क पर गिर गया, जिसके बाद महिला बस के पहिये के नीचे आ गई। उसे निजी अस्पताल ले जाया गया, जहां उसकी हालत गंभीर बनी हुई है।"
+   },
+   "id": "cuttack-ama-bus-runs-over-woman-leg-link-road-dashcam-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cuttack-ama-bus-runs-over-woman-leg-link-road-dashcam-november-26.jpg",
+   "publishedAt": "2026-11-26T16:44:26+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": false,
+   "district": "Cuttack",
+   "state": "Odisha"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-polls-row-wangchuk-summoned-peace-bond-december-4-vote-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-polls-row-wangchuk-summoned-peace-bond-december-4-vote-november-26-hi.mp3",
@@ -982,7 +1026,7 @@
     "title": "India officially Naxal-free: no district left affected as LWE falls from 126 to zero",
     "summary": "India has been declared effectively free from Left-Wing Extremism, with no district left on the Naxal-affected list, the government said in a release published on November 24. Affected districts fell from 126 in 2014 to zero by March-April 2026, incidents dropped from 870 to 33, and around 8,526 Naxalites have surrendered."
    },
-   "featured": true,
+   "featured": false,
    "hi": {
     "title": "भारत आधिकारिक रूप से नक्सल मुक्त: प्रभावित जिले 126 से घटकर 0, हिंसा 870 से घटकर 33",
     "summary": "भारत को वामपंथी उग्रवाद से प्रभावी रूप से मुक्त घोषित कर दिया गया है। 24 नवंबर को जारी विज्ञप्ति में सरकार ने कहा कि प्रभावित जिले 2014 में 126 थे, जो मार्च-अप्रैल 2026 तक 0 रह गए, घटनाएँ 870 से घटकर 33 रह गईं, और करीब 8,526 नक्सलियों ने आत्मसमर्पण किया है।"
@@ -3283,48 +3327,6 @@
    "en": {
     "title": "Jharsuguda: POCSO case against Navodaya Vidyalaya principal after student's complaint",
     "summary": "The principal of Jawahar Navodaya Vidyalaya in Odisha's Jharsuguda district has been booked under the BNS and the POCSO Act after a girl student accused him of misbehaviour. Superintendent of Police Sonali Singh Parmar confirmed that a case has been registered at Jharsuguda Sadar police station and an investigation is under way."
-   }
-  },
-  {
-   "id": "ramayana-oscars-visual-effects-top-20-november-25",
-   "category": "Entertainment",
-   "sub": "Bollywood",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T16:12:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ramayana-oscars-visual-effects-top-20-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-oscars-visual-effects-top-20-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ramayana-oscars-visual-effects-top-20-november-25-en.mp3",
-   "hi": {
-    "title": "ऑस्कर की दौड़ में रामायण: विजुअल इफेक्ट्स की टॉप 20 सूची में जगह, एवेंजर्स और ड्यून के साथ",
-    "summary": "नितेश तिवारी की फिल्म रामायण: राइज ऑफ ए लेजेंड 99वें अकादमी पुरस्कारों में बेस्ट विजुअल इफेक्ट्स की टॉप 20 सूची में पहुंच गई है। वैरायटी की रिपोर्ट के मुताबिक फिल्म द ओडिसी, ड्यून: पार्ट थ्री और एवेंजर्स: डूम्सडे जैसी बड़ी फिल्मों के साथ इस दौड़ में है। इससे पहले आरआरआर भी इसी श्रेणी में टॉप 20 तक पहुंची थी।"
-   },
-   "en": {
-    "title": "Ramayana enters Oscars VFX Top 20, joins The Odyssey, Dune: Part Three and Avengers: Doomsday",
-    "summary": "Nitesh Tiwari's Ramayana: Rise of a Legend has made the Top 20 in the Visual Effects race for the 99th Academy Awards. Variety reports the film is in contention alongside The Odyssey, Dune: Part Three and Avengers: Doomsday. RRR had reached the same stage before it, at the 95th Academy Awards."
-   }
-  },
-  {
-   "id": "cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:59:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cabinet-approves-19934-crore-package-cie-scheme-silchar-airport-november-25-en.mp3",
-   "hi": {
-    "title": "कैबिनेट का बड़ा फैसला: 19,934 करोड़ रुपये की 5 परियोजनाओं को मंजूरी, निर्माण उपकरणों के लिए 11,000 करोड़ की योजना",
-    "summary": "केंद्रीय मंत्रिमंडल ने बुधवार को 19,934 करोड़ रुपये की 5 परियोजनाओं को मंजूरी दी। सबसे बड़ा फैसला निर्माण और बुनियादी ढाँचा उपकरणों के लिए 11,000 करोड़ रुपये की योजना है, साथ ही सिलचर में नया हवाई अड्डा, कामराजर बंदरगाह पर दूसरा कंटेनर टर्मिनल और डाक विभाग की 2 योजनाएँ भी मंजूर हुईं।"
-   },
-   "en": {
-    "title": "Cabinet clears Rs 19,934 crore package: Rs 11,000 crore push for construction equipment, new Silchar airport",
-    "summary": "The Union Cabinet on Wednesday approved five projects worth Rs 19,934 crore. The biggest is an Rs 11,000 crore scheme for construction and infrastructure equipment manufacturing, alongside a new greenfield airport at Silchar, a second container terminal at Kamarajar Port and two schemes for the Department of Posts."
    }
   }
  ]
