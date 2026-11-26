@@ -1,6 +1,29 @@
 {
- "updatedAt": "2026-11-26T08:27:13+05:30",
+ "updatedAt": "2026-11-26T08:38:11+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/aligarh-12-bangladeshi-nationals-arrested-fake-indian-documents-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/aligarh-12-bangladeshi-nationals-arrested-fake-indian-documents-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "district": "Aligarh",
+   "en": {
+    "title": "12 suspected Bangladeshi nationals arrested in Aligarh for alleged illegal stay; Aadhaar, PAN, voter ID cards among documents seized",
+    "summary": "Police in Aligarh arrested 12 suspected Bangladeshi nationals on Wednesday for allegedly living in India after entering the country illegally. Officers recovered 10 Aadhaar cards, two PAN cards, a voter ID card, five mobile phones and bank documents from them, and a case has been registered under the BNS and the Immigration and Foreigners Act."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अलीगढ़ में अवैध रूप से रह रहे 12 संदिग्ध बांग्लादेशी नागरिक गिरफ्तार; आधार, पैन, वोटर आईडी और बैंक दस्तावेज बरामद",
+    "summary": "अलीगढ़ पुलिस ने बुधवार को 12 संदिग्ध बांग्लादेशी नागरिकों को गिरफ्तार किया है। पुलिस के अनुसार वे कथित तौर पर अवैध रूप से भारत में दाखिल होकर भारतीय पहचान दस्तावेजों के सहारे रह रहे थे। उनके पास से 10 आधार कार्ड, 2 पैन कार्ड, वोटर आईडी, 5 मोबाइल फोन और बैंक दस्तावेज बरामद हुए हैं।"
+   },
+   "id": "aligarh-12-bangladeshi-nationals-arrested-fake-indian-documents-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/aligarh-12-bangladeshi-nationals-arrested-fake-indian-documents-november-25.jpg",
+   "publishedAt": "2026-11-26T08:35:22+05:30",
+   "source": "PrimeFeed Desk",
+   "state": "Uttar Pradesh",
+   "sub": "Police & Crime",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-stf-arrests-russia-job-racket-kingpin-pankaj-nishad-ambedkar-nagar-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/up-stf-arrests-russia-job-racket-kingpin-pankaj-nishad-ambedkar-nagar-november-25-hi.mp3",
@@ -3306,29 +3329,6 @@
    "hi": {
     "title": "सीआईए और ओडीएनआई की गैर-गोपनीय खुफिया प्रणाली में साइबर हमला, गोपनीय डेटा सुरक्षित; हमलावर अज्ञात",
     "summary": "हैकरों ने सीआईए और ऑफिस ऑफ द डायरेक्टर ऑफ नेशनल इंटेलिजेंस की एक गैर-गोपनीय कंप्यूटर प्रणाली में सेंध लगा दी है, जिसका इस्तेमाल सार्वजनिक रूप से उपलब्ध जानकारियों के विश्लेषण के लिए किया जाता है। न्यूयॉर्क टाइम्स ने मंगलवार को इस घटना की खबर सबसे पहले दी थी। कुछ गैर-गोपनीय जानकारी सामने आई है, लेकिन कोई गोपनीय सामग्री प्रभावित नहीं हुई और समस्या सुलझा ली गई है। हमले के पीछे कौन था, यह अभी पता नहीं है।"
-   }
-  },
-  {
-   "id": "rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24",
-   "category": "Weather",
-   "sub": "IMD Alerts",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T05:58:24+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rajasthan-cold-wave-fatehpur-2-4-degrees-churu-4-1-november-24-en.mp3",
-   "district": "Sikar",
-   "state": "Rajasthan",
-   "en": {
-    "title": "Cold wave grips Rajasthan: Fatehpur shivers at 2.4°C, Churu at 4.1°C; mercury may fall further in 48 hours",
-    "summary": "Winter has tightened its grip on Rajasthan. Fatehpur in Sikar district recorded a minimum of 2.4°C on 24 November, the lowest in the state, while Churu shivered at 4.1°C. The Jaipur weather office says night temperatures in northern and eastern Rajasthan could fall by another 1 to 2 degrees in the next 48 hours, and the state is expected to stay dry for a week."
-   },
-   "hi": {
-    "title": "राजस्थान में ठंड का सितम: फतेहपुर में पारा 2.4 डिग्री, चूरू में 4.1; अगले 48 घंटों में और गिरेगा तापमान",
-    "summary": "राजस्थान में ठंड ने अपनी पकड़ मज़बूत कर ली है। सीकर जिले के फतेहपुर में 24 नवंबर को न्यूनतम तापमान 2.4 डिग्री सेल्सियस दर्ज किया गया, जो प्रदेश में सबसे कम है, जबकि चूरू में पारा 4.1 डिग्री रहा। जयपुर मौसम विज्ञान केंद्र के मुताबिक अगले 48 घंटों में उत्तरी और पूर्वी राजस्थान में रात का तापमान 1 से 2 डिग्री और गिर सकता है, और प्रदेश में 1 सप्ताह तक मौसम शुष्क रहेगा।"
    }
   }
  ]
