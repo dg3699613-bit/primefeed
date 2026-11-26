@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T01:47:52+05:30",
+ "updatedAt": "2026-11-27T02:04:29+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prayagraj-salon-murder-arvind-bhartiya-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prayagraj-salon-murder-arvind-bhartiya-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Property dealer shot dead inside Prayagraj salon while getting a shave; police suspect old enmity",
+    "summary": "A 30-year-old property dealer, Arvind Bhartiya, was shot dead inside a salon in Prayagraj's Allapur area on Thursday evening while getting a shave. Bhartiya was a witness in the Sajan Mehtar murder case from 2025 and was pursuing the case in court. His family has blamed old enmity, and police have formed 3 teams to trace the attackers."
+   },
+   "featured": false,
+   "hi": {
+    "title": "प्रयागराज: सैलून में सेविंग करवा रहे प्रॉपर्टी डीलर की गोली मारकर हत्या, पुरानी रंजिश का शक",
+    "summary": "प्रयागराज के अल्लापुर में गुरुवार शाम 30 वर्षीय प्रॉपर्टी डीलर अरविंद भारतीय की सैलून में घुसकर गोली मारकर हत्या कर दी गई। वह 2025 में हुए साजन मेहतर हत्याकांड में गवाह था और मुकदमे की पैरवी कर रहा था। परिवार ने पुरानी रंजिश का आरोप लगाया है। पुलिस ने 3 टीमें बनाकर हमलावरों की तलाश शुरू कर दी है।"
+   },
+   "id": "prayagraj-salon-murder-arvind-bhartiya-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/prayagraj-salon-murder-arvind-bhartiya-november-26.jpg",
+   "publishedAt": "2026-11-27T01:59:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Prayagraj",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/central-team-assesses-monsoon-damage-doda-kishtwar-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/central-team-assesses-monsoon-damage-doda-kishtwar-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Central team visits Doda and Kishtwar to assess monsoon damage, reviews relief and restoration work",
+    "summary": "An inter-ministerial central team led by Joint Secretary Gaya Prasad visited Doda and Kishtwar districts to assess the damage caused by floods, landslides and cloudbursts during Monsoon 2026. The team inspected affected areas in Thathri and Chatroo and reviewed the restoration of roads, bridges, power and water supply schemes."
+   },
+   "featured": false,
+   "hi": {
+    "title": "डोडा-किश्तवाड़: मानसून से हुए नुकसान का जायजा लेने पहुंची केंद्र की टीम, राहत कार्यों की समीक्षा",
+    "summary": "गृह मंत्रालय के संयुक्त सचिव गया प्रसाद के नेतृत्व में अंतर-मंत्रालयी केंद्रीय टीम ने डोडा और किश्तवाड़ जिलों में मानसून 2026 के दौरान बाढ़, भूस्खलन और बादल फटने से हुए नुकसान का जायजा लिया। टीम ने थाटरी और छत्रू के प्रभावित इलाकों का दौरा किया और सड़कों, पुलों, बिजली व पानी की योजनाओं की बहाली की समीक्षा की।"
+   },
+   "id": "central-team-assesses-monsoon-damage-doda-kishtwar-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/central-team-assesses-monsoon-damage-doda-kishtwar-november-26.jpg",
+   "publishedAt": "2026-11-27T01:59:57+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": false
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gariaband-speeding-car-hits-three-college-girls-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gariaband-speeding-car-hits-three-college-girls-november-26-hi.mp3",
@@ -3280,52 +3324,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Soreng",
-   "en": {
-    "title": "Sikkim Chief Minister Prem Singh Tamang's mother Dhan Maya Tamang dies at 87 in Siliguri",
-    "summary": "Dhan Maya Tamang, 87, mother of Sikkim Chief Minister Prem Singh Tamang, died at a hospital in Siliguri on Wednesday evening after a prolonged illness. She was a resident of Singling village in Soreng district, and condolences poured in from across the region."
-   },
-   "featured": false,
-   "hi": {
-    "title": "सिक्किम के मुख्यमंत्री प्रेम सिंह तमांग की मां धन माया तमांग का 87 वर्ष की उम्र में सिलीगुड़ी में निधन",
-    "summary": "सिक्किम के मुख्यमंत्री प्रेम सिंह तमांग की मां धन माया तमांग का बुधवार शाम सिलीगुड़ी के एक अस्पताल में लंबी बीमारी के बाद 87 वर्ष की उम्र में निधन हो गया। वह सोरेंग जिले के सिंगलिंग गांव की रहने वाली थीं।"
-   },
-   "id": "sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri",
-   "source": "PrimeFeed Desk",
-   "state": "Sikkim",
-   "sub": "Others",
-   "trending": true,
-   "publishedAt": "2026-11-26T02:04:19+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sikkim-cm-prem-singh-tamang-mother-dhan-maya-tamang-dies-at-87-in-siliguri-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Chandel",
-   "en": {
-    "title": "Manipur spurious liquor toll rises to 20 as another man dies in Kakching; nine arrested sent to police custody",
-    "summary": "The death toll in Manipur's spurious liquor tragedy rose to 20 on Wednesday after a 35-year-old man from Kakching district died at RIMS in Imphal. Nine people arrested in the case, including two women, have been remanded to six days in police custody."
-   },
-   "featured": false,
-   "hi": {
-    "title": "मणिपुर जहरीली शराब त्रासदी: एक और मौत के बाद मृतकों की संख्या 20 हुई, 9 गिरफ्तार आरोपियों को पुलिस हिरासत में भेजा गया",
-    "summary": "मणिपुर में जहरीली शराब से हुई त्रासदी में मृतकों की संख्या बुधवार को 20 हो गई, जब काकचिंग जिले के 35 वर्षीय एक व्यक्ति की इंफाल के रिम्स अस्पताल में मौत हो गई। मामले में गिरफ्तार 9 लोगों को 6 दिन की पुलिस हिरासत में भेजा गया है।"
-   },
-   "id": "manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody",
-   "source": "PrimeFeed Desk",
-   "state": "Manipur",
-   "sub": "Police & Crime",
-   "trending": true,
-   "publishedAt": "2026-11-26T02:04:19+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody-en.mp3"
   }
  ]
 }
