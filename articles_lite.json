@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T21:07:17+05:30",
+ "updatedAt": "2026-11-26T21:24:22+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tirupati-121-kg-gold-206-crore-donation-vardhaman-jain-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tirupati-121-kg-gold-206-crore-donation-vardhaman-jain-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Dharm-Astrology",
+   "en": {
+    "title": "121 kg gold, Rs 206 crore: Chennai couple's record offering to Lord Venkateswara at Tirumala",
+    "summary": "Chennai-based businessman Vardhaman Jain and his wife Radhika Jain on Thursday handed over 121 kg of gold ornaments worth around Rs 206 crore to Lord Venkateswara at the Tirumala temple, in the presence of Chief Minister N. Chandrababu Naidu. Temple officials described it as the largest individual offering in the shrine's history. The 46 ornaments in 9 sets, studded with 238.2 carats of diamonds, will adorn the deity after Friday's abhishekam."
+   },
+   "featured": false,
+   "hi": {
+    "title": "तिरुमला में 121 किलो सोना, 206 करोड़ रुपये का चढ़ावा: चेन्नई के दंपती ने भगवान वेंकटेश्वर को सौंपे आभूषण",
+    "summary": "चेन्नई के व्यवसायी वर्धमान जैन और उनकी पत्नी राधिका जैन ने गुरुवार को तिरुमला मंदिर में भगवान वेंकटेश्वर को 121 किलो सोने के आभूषण चढ़ाए, जिनकी कीमत करीब 206 करोड़ रुपये है। मुख्यमंत्री एन. चंद्रबाबू नायडू की मौजूदगी में आभूषण तिरुमला तिरुपति देवस्थानम को सौंपे गए। मंदिर के अधिकारियों ने इसे मंदिर के इतिहास का सबसे बड़ा व्यक्तिगत चढ़ावा बताया है। 9 सेटों में सजे 46 आभूषणों से शुक्रवार को अभिषेक के बाद देवता को सजाया जाएगा।"
+   },
+   "id": "tirupati-121-kg-gold-206-crore-donation-vardhaman-jain-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tirupati-121-kg-gold-206-crore-donation-vardhaman-jain-november-26.jpg",
+   "publishedAt": "2026-11-26T21:19:52+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Mandir & Teerth",
+   "trending": true,
+   "district": "Tirupati",
+   "state": "Andhra Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-father-son-duo-50-lakh-cop-inquiry-scam-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ahmedabad-father-son-duo-50-lakh-cop-inquiry-scam-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Father-son duo held in Ahmedabad for 'settling' police inquiries: Rs 50 lakh from a constable, hundreds of files seized",
+    "summary": "The Ahmedabad Crime Branch has arrested a father-son duo for allegedly cheating a police constable of Rs 50 lakh by promising to settle a departmental inquiry against him, then demanding Rs 10 lakh more with threats. Police suspect the duo cheated hundreds of government employees across north Gujarat, charging Rs 5,000 to Rs 50 lakh for official favours, and have alerted the Income Tax Department and the Enforcement Directorate over suspected benami transactions."
+   },
+   "featured": false,
+   "hi": {
+    "title": "जाँच निपटाने के नाम पर ठगी: अहमदाबाद में बाप-बेटे की जोड़ी गिरफ्तार, कांस्टेबल से 50 लाख रुपये लिए, सैकड़ों फाइलें बरामद",
+    "summary": "अहमदाबाद क्राइम ब्रांच ने बाप-बेटे की जोड़ी को गिरफ्तार किया है, जिन पर विभागीय जाँच निपटाने का झाँसा देकर 1 पुलिस कांस्टेबल से 50 लाख रुपये ठगने और फिर 10 लाख रुपये और माँगने का आरोप है। पुलिस को शक है कि दोनों ने उत्तर गुजरात में सैकड़ों सरकारी कर्मचारियों से 5,000 रुपये से 50 लाख रुपये तक वसूले हैं। बेनामी लेनदेन के शक में आयकर विभाग और प्रवर्तन निदेशालय को भी सूचित कर दिया गया है।"
+   },
+   "id": "ahmedabad-father-son-duo-50-lakh-cop-inquiry-scam-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ahmedabad-father-son-duo-50-lakh-cop-inquiry-scam-november-26.jpg",
+   "publishedAt": "2026-11-26T21:19:52+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Scams & Fraud",
+   "trending": true,
+   "district": "Ahmedabad",
+   "state": "Gujarat"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-youth-dies-filming-reel-waterfall-digapahandi-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ganjam-youth-dies-filming-reel-waterfall-digapahandi-november-26-hi.mp3",
@@ -3282,52 +3328,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/rgukt-basar-student-duped-cyber-fraudsters-nirmal-sp-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rgukt-basar-student-duped-cyber-fraudsters-nirmal-sp-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rgukt-basar-student-duped-cyber-fraudsters-nirmal-sp-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Business",
-   "district": null,
-   "en": {
-    "title": "PhonePe revives IPO plan, targets 12–15 billion dollar listing in early 2027",
-    "summary": "Walmart-backed PhonePe has resumed preparations for its stock market debut, targeting a listing in the first 3 months of 2027 at a 12–15 billion dollar valuation. The issue will be a pure offer for sale of 12,000–14,000 crore rupees."
-   },
-   "featured": false,
-   "hi": {
-    "title": "फ़ोनपे ने आईपीओ की तैयारी फिर शुरू की, 2027 की शुरुआत में 12–15 अरब डॉलर के मूल्यांकन पर लिस्टिंग का लक्ष्य",
-    "summary": "वॉलमार्ट समर्थित फ़ोनपे ने शेयर बाज़ार में उतरने की तैयारी फिर शुरू कर दी है। कंपनी 2027 के पहले 3 महीनों में 12–15 अरब डॉलर के मूल्यांकन पर लिस्टिंग का लक्ष्य रख रही है। यह पूरी तरह 12,000–14,000 करोड़ रुपये का ऑफर फॉर सेल होगा।"
-   },
-   "id": "phonepe-revives-ipo-plans-12-15-billion-valuation-march-2027-november-25",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Share Market",
-   "trending": true,
-   "publishedAt": "2026-11-25T19:56:36+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/phonepe-revives-ipo-plans-12-15-billion-valuation-march-2027-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/phonepe-revives-ipo-plans-12-15-billion-valuation-march-2027-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/phonepe-revives-ipo-plans-12-15-billion-valuation-march-2027-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Khordha",
-   "en": {
-    "title": "Deepfake videos of Amitabh Bachchan and Nirmala Sitharaman used to dupe Bhubaneswar retiree of ₹29.54 lakh; 3 arrested in Delhi",
-    "summary": "Bhubaneswar Cyber Police arrested three men, including the alleged mastermind, from Delhi for running a fake trading platform that lured a 59-year-old retired employee with deepfake celebrity videos and promises of doubled returns."
-   },
-   "featured": false,
-   "hi": {
-    "title": "अमिताभ बच्चन और निर्मला सीतारमण के दीपफेक वीडियो से भुवनेश्वर के रिटायर्ड कर्मचारी से 29.54 लाख रुपये की ठगी, दिल्ली से 3 गिरफ्तार",
-    "summary": "भुवनेश्वर साइबर पुलिस ने दिल्ली से 3 लोगों को गिरफ्तार किया है, जिनमें कथित मास्टरमाइंड भी शामिल है। आरोप है कि उन्होंने फर्जी ट्रेडिंग प्लेटफॉर्म के जरिए दीपफेक वीडियो दिखाकर 59 साल के रिटायर्ड कर्मचारी से 29.54 लाख रुपये ठग लिए।"
-   },
-   "id": "bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Odisha",
-   "sub": "Cyber Crime",
-   "trending": true,
-   "publishedAt": "2026-11-25T19:33:45+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bhubaneswar-deepfake-investment-scam-2954-lakh-three-arrested-delhi-november-25-en.mp3"
   }
  ]
 }
