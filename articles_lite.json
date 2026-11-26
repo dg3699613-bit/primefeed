@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-26T12:34:20+05:30",
+ "updatedAt": "2026-11-26T12:47:46+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-separate-warning-labels-high-fat-sugar-salt-packaged-foods-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-separate-warning-labels-high-fat-sugar-salt-packaged-foods-november-26-hi.mp3",
+   "breaking": true,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Supreme Court orders separate warning labels for high fat, sugar and salt on packaged foods",
+    "summary": "The Supreme Court on Thursday directed FSSAI to put a separate hexagon-shaped warning on the front of packaged foods for each nutrient of concern — high fat, high sugar and high salt — and to finalise the labelling rules within 4 months."
+   },
+   "featured": false,
+   "hi": {
+    "title": "पैकेटबंद खाने पर अब हर पोषक तत्व की अलग चेतावनी होगी — सुप्रीम कोर्ट का आदेश",
+    "summary": "सुप्रीम कोर्ट ने गुरुवार को एफएसएसएआई को निर्देश दिया कि पैकेटबंद खाने के पैकेट के सामने हर पोषक तत्व — अधिक वसा, अधिक चीनी और अधिक नमक — के लिए अलग षट्भुज आकार की चेतावनी लगाई जाए, और लेबलिंग नियम 4 महीने में अंतिम किए जाएं।"
+   },
+   "id": "supreme-court-separate-warning-labels-high-fat-sugar-salt-packaged-foods-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-separate-warning-labels-high-fat-sugar-salt-packaged-foods-november-26.jpg",
+   "publishedAt": "2026-11-26T12:43:02+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true
+  },
+  {
+   "audioEn": null,
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-record-foodgrain-production-378-53-million-tonnes-2025-26-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Agriculture",
+   "en": {
+    "title": "India logs record 378.53 million tonnes of foodgrain production in 2025-26",
+    "summary": "India produced a record 378.53 million tonnes of foodgrains in 2025-26, the government said on Thursday, with rice output at 155.15 million tonnes and wheat at 122.06 million tonnes."
+   },
+   "featured": false,
+   "hi": {
+    "title": "2025-26 में देश में रिकॉर्ड 378.53 मिलियन टन अनाज उत्पादन",
+    "summary": "सरकार ने गुरुवार को बताया कि 2025-26 में देश में रिकॉर्ड 378.53 मिलियन टन खाद्यान्न उत्पादन हुआ है। चावल का उत्पादन 155.15 मिलियन टन और गेहूं का 122.06 मिलियन टन रहा।"
+   },
+   "id": "india-record-foodgrain-production-378-53-million-tonnes-2025-26-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-record-foodgrain-production-378-53-million-tonnes-2025-26-november-26.jpg",
+   "publishedAt": "2026-11-26T12:43:02+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Crops",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanak-tiwari-former-chhattisgarh-advocate-general-dies-durg-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kanak-tiwari-former-chhattisgarh-advocate-general-dies-durg-november-26-hi.mp3",
@@ -3296,50 +3338,6 @@
    },
    "district": "Ganjam",
    "state": "Odisha"
-  },
-  {
-   "id": "gold-falls-rs-3220-silver-crashes-rs-10000-november-25",
-   "category": "Business",
-   "sub": "Economy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T11:51:20+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gold-falls-rs-3220-silver-crashes-rs-10000-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-falls-rs-3220-silver-crashes-rs-10000-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gold-falls-rs-3220-silver-crashes-rs-10000-november-25-en.mp3",
-   "en": {
-    "title": "Gold falls 3,220 rupees, silver crashes 10,000 rupees in a day as Fed rate fears rattle bullion",
-    "summary": "Gold and silver prices fell sharply on Wednesday as hawkish signals from US Federal Reserve officials and firm expectations of a December rate hike drove selling. 24-carat gold dropped 3,220 rupees per 10 grams to 1,24,580 rupees, while silver crashed 10,000 rupees per kilogram to 1,65,000 rupees."
-   },
-   "hi": {
-    "title": "सोना 3,220 रुपये सस्ता, चांदी 1 दिन में 10,000 रुपये गिरी — फेड की ब्याज दरों की चिंता से सर्राफा बाजार में बिकवाली",
-    "summary": "बुधवार को सोने-चांदी की कीमतों में तेज गिरावट आई। 24 कैरेट सोना 10 ग्राम पर 3,220 रुपये गिरकर 1,24,580 रुपये पर आ गया, जबकि चांदी 10,000 रुपये गिरकर 1,65,000 रुपये प्रति किलोग्राम पर पहुंच गई।"
-   }
-  },
-  {
-   "id": "manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T11:37:09+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-seven-kcp-cadres-arrested-arms-recovered-imphal-november-25-en.mp3",
-   "en": {
-    "title": "7 alleged KCP cadres arrested in Manipur, arms cache seized in Imphal East and West operations",
-    "summary": "Security forces arrested 7 alleged cadres of different KCP factions and seized a cache of arms, ammunition and communication equipment during intelligence-based operations in Imphal West and Imphal East districts on November 23 and 24."
-   },
-   "hi": {
-    "title": "मणिपुर में 7 कथित केसीपी कैडर गिरफ्तार, इंफाल ईस्ट और वेस्ट में हथियारों का जखीरा बरामद",
-    "summary": "इंफाल वेस्ट और इंफाल ईस्ट जिलों में 23 और 24 नवंबर को हुई खुफिया जानकारी पर आधारित कार्रवाई में सुरक्षा बलों ने केसीपी के अलग-अलग गुटों के 7 कथित कैडरों को गिरफ्तार किया और हथियारों, गोला-बारूद व संचार उपकरणों का जखीरा बरामद किया।"
-   },
-   "district": "Imphal West",
-   "state": "Manipur"
   }
  ]
 }
