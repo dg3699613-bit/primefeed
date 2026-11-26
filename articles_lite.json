@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T16:08:00+05:30",
+ "updatedAt": "2026-11-26T16:31:23+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-polls-row-wangchuk-summoned-peace-bond-december-4-vote-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ladakh-polls-row-wangchuk-summoned-peace-bond-december-4-vote-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Ladakh polls row: Wangchuk summoned over peace bond as administration holds December 4 vote",
+    "summary": "Climate activist Sonam Wangchuk has been summoned to appear before a magistrate in Leh on Thursday and explain why he should not be made to sign a peace bond, as the Ladakh administration refused to defer the December 4 hill council elections despite the Leh Apex Body's protest entering its third week."
+   },
+   "featured": false,
+   "hi": {
+    "title": "लद्दाख चुनाव विवाद: शांति बॉन्ड को लेकर सोनम वांगचुक तलब, प्रशासन 4 दिसंबर को मतदान पर अड़ा",
+    "summary": "जलवायु कार्यकर्ता सोनम वांगचुक को गुरुवार को लेह में मजिस्ट्रेट के सामने पेश होकर यह बताना है कि उनसे शांति बॉन्ड क्यों न भरवाया जाए, जबकि लद्दाख प्रशासन ने लेह एपेक्स बॉडी के विरोध के तीसरे हफ्ते में भी 4 दिसंबर को होने वाले पहाड़ी परिषद चुनाव टालने से इनकार कर दिया है।"
+   },
+   "id": "ladakh-polls-row-wangchuk-summoned-peace-bond-december-4-vote-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ladakh-polls-row-wangchuk-summoned-peace-bond-december-4-vote-november-26.jpg",
+   "publishedAt": "2026-11-26T16:26:58+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Elections",
+   "trending": true,
+   "district": "Leh",
+   "state": "Ladakh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strikes-kill-9-gaza-overnight-hamas-deputy-education-minister-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/israeli-strikes-kill-9-gaza-overnight-hamas-deputy-education-minister-november-26-hi.mp3",
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "Israeli strikes kill 9 in Gaza overnight, including Hamas-appointed deputy education minister",
+    "summary": "Israeli airstrikes and gunfire killed at least 9 Palestinians across Gaza overnight, medics said, including Hamas-appointed deputy education minister Khaled Abu Nada and his wife in a strike on an apartment in Deir al-Balah — the third straight night of attacks despite a ceasefire in place for over a year."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गाजा में रात भर इजराइली हमलों में 9 की मौत, हमास नियुक्त उप शिक्षा मंत्री भी मारे गए",
+    "summary": "गाजा में रात भर हुए इजराइली हवाई हमलों और गोलीबारी में कम से कम 9 फलस्तीनी मारे गए, जिनमें देइर अल-बलाह में 1 अपार्टमेंट पर हुए हमले में हमास नियुक्त उप शिक्षा मंत्री खालिद अबू नादा और उनकी पत्नी भी शामिल हैं। 1 साल से ज्यादा से लागू युद्धविराम के बावजूद यह लगातार तीसरी रात हमले हुए हैं।"
+   },
+   "id": "israeli-strikes-kill-9-gaza-overnight-hamas-deputy-education-minister-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/israeli-strikes-kill-9-gaza-overnight-hamas-deputy-education-minister-november-26.jpg",
+   "publishedAt": "2026-11-26T16:26:58+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Middle East",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sundargarh-mentally-ill-man-tied-to-tree-chc-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sundargarh-mentally-ill-man-tied-to-tree-chc-november-26-hi.mp3",
@@ -3281,52 +3325,6 @@
    "en": {
     "title": "Cabinet clears Rs 19,934 crore package: Rs 11,000 crore push for construction equipment, new Silchar airport",
     "summary": "The Union Cabinet on Wednesday approved five projects worth Rs 19,934 crore. The biggest is an Rs 11,000 crore scheme for construction and infrastructure equipment manufacturing, alongside a new greenfield airport at Silchar, a second container terminal at Kamarajar Port and two schemes for the Department of Posts."
-   }
-  },
-  {
-   "id": "tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:59:58+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tamil-nadu-apologises-supreme-court-deepam-deepathoon-november-25-en.mp3",
-   "district": "Madurai",
-   "state": "Tamil Nadu",
-   "hi": {
-    "title": "दीपम विवाद: तमिलनाडु सरकार ने सुप्रीम कोर्ट से मांगी माफी, कहा — मंदिर बोर्ड ने टीम को इजाजत नहीं दी",
-    "summary": "तिरुप्परंकुंद्रम में कार्तिकै दीपम विवाद पर तमिलनाडु सरकार ने बुधवार को सुप्रीम कोर्ट से माफी माँगी। मदुरै के कलेक्टर ने अपनी रिपोर्ट में कहा कि दीपथून पर दीप जलाने के लिए मंदिर के न्यासी बोर्ड ने प्रस्तावित टीम को मंजूरी नहीं दी, इसलिए दीप परंपरागत स्थान पर ही जला। अदालत अवमानना याचिका पर सुनवाई करेगी।"
-   },
-   "en": {
-    "title": "Deepam row: Tamil Nadu apologises to Supreme Court, blames temple board for lamp not being lit at Deepathoon",
-    "summary": "The Tamil Nadu government on Wednesday apologised to the Supreme Court after the Karthigai Deepam was not lit at the disputed Deepathoon atop Thirupparankundram hill on November 24. Madurai's Collector told the court the temple's Board of Trustees did not authorise the team proposed to light the lamp, so it was lit at the customary spot instead. The court will hear a contempt plea."
-   }
-  },
-  {
-   "id": "meerut-hotel-case-accused-salman-arrested-after-encounter-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:43:47+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/meerut-hotel-case-accused-salman-arrested-after-encounter-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meerut-hotel-case-accused-salman-arrested-after-encounter-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/meerut-hotel-case-accused-salman-arrested-after-encounter-november-25-en.mp3",
-   "district": "Meerut",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "मेरठ होटल कांड: एनकाउंटर के बाद आरोपी सलमान गिरफ्तार, बोला — सर, गलती हो गई, माफ कर दो",
-    "summary": "मेरठ के बहुचर्चित होटल कांड में पुलिस ने फरार आरोपी सलमान को बुधवार को मुठभेड़ के बाद गिरफ्तार कर लिया। पुलिस के मुताबिक घेराबंदी पर आरोपी ने पुलिस टीम पर फायरिंग की, फिर पुल से भागते हुए गिरकर घायल हो गया। युवती को होटल में बंधक बनाकर रखने और सड़क पर घसीटने का आरोप है।"
-   },
-   "en": {
-    "title": "Meerut hotel case: Accused Salman arrested after encounter, pleads 'sir, I made a mistake, forgive me'",
-    "summary": "Police in Meerut on Wednesday arrested Salman, the accused in the widely reported hotel case, after an encounter near an underpass under construction. Police say he opened fire on the team when cornered, then fell from a bridge while fleeing and injured his leg and hand. He is accused of holding a young woman captive in a hotel and dragging her through the street."
    }
   }
  ]
