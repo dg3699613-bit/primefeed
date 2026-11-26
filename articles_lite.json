@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-11-26T11:19:42+05:30",
+ "updatedAt": "2026-11-26T11:34:51+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-illegal-gold-mine-flood-13-dead-13-trapped-bogor-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-illegal-gold-mine-flood-13-dead-13-trapped-bogor-november-26-hi.mp3",
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "13 dead, 13 trapped as floodwater swamps illegal gold mine in Indonesia's Bogor",
+    "summary": "Heavy rain sent the Ciseureuh River overflowing into a 100-metre-deep shaft in Bogor regency on Monday. A 325-member rescue operation resumed on Thursday, but high water, darkness and slippery ground are slowing the search for the 13 miners still underground."
+   },
+   "featured": false,
+   "hi": {
+    "title": "इंडोनेशिया की अवैध सोने की खान में बाढ़: 13 की मौत, 13 अब भी फंसे",
+    "summary": "सोमवार को भारी बारिश से सिसुरेह नदी उफन गई और बोगोर ज़िले की 100 मीटर गहरी खान में पानी भर गया। गुरुवार को 325 सदस्यों वाला बचाव अभियान फिर शुरू हुआ, लेकिन ऊँचा पानी, अंधेरा और फिसलन भरी ज़मीन अब भी फंसे 13 मज़दूरों की तलाश में रुकावट बन रही है।"
+   },
+   "id": "indonesia-illegal-gold-mine-flood-13-dead-13-trapped-bogor-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/indonesia-illegal-gold-mine-flood-13-dead-13-trapped-bogor-november-26.jpg",
+   "publishedAt": "2026-11-26T11:30:46+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Asia",
+   "trending": true
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congo-ebola-cases-pass-12000-deaths-5904-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/congo-ebola-cases-pass-12000-deaths-5904-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Health",
+   "en": {
+    "title": "Congo's Ebola cases cross 12,000 as fighting traps health workers and stalls the response",
+    "summary": "Government data shows 12,021 confirmed cases and 5,904 deaths from the Bundibugyo Ebola outbreak, up sharply in 11 days. Only 15% of new cases are found among known contacts, and clashes in Ituri have forced WHO teams to evacuate."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कांगो में इबोला के मामले 12,000 के पार: 5,904 की मौत, लड़ाई से राहत कार्य ठप",
+    "summary": "सरकारी आँकड़ों के मुताबिक बुंडिबुग्यो इबोला प्रकोप में 12,021 पुष्ट मामले और 5,904 मौतें हो चुकी हैं — 11 दिन में तेज़ बढ़ोतरी। नए मामलों में से सिर्फ़ 15 प्रतिशत ही जाने-पहचाने संपर्कों में मिल रहे हैं, और इटुरी में झड़पों के कारण विश्व स्वास्थ्य संगठन की टीमों को निकलना पड़ा है।"
+   },
+   "id": "congo-ebola-cases-pass-12000-deaths-5904-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/congo-ebola-cases-pass-12000-deaths-5904-november-26.jpg",
+   "publishedAt": "2026-11-26T11:30:46+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Diseases",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-trusts-bombay-high-court-chandrasekaran-reappointment-65-crore-damages-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tata-trusts-bombay-high-court-chandrasekaran-reappointment-65-crore-damages-november-26-hi.mp3",
@@ -3292,50 +3334,6 @@
     "title": "सेंसेक्स शुरुआती कारोबार में 1,410 अंक उछला, निफ़्टी 25,700 के पार; बैंक-आईटी शेयरों में तेज़ी",
     "summary": "भारतीय शेयर बाज़ार बुधवार को तेज़ बढ़त के साथ खुले। सुबह 9:16 बजे तक सेंसेक्स 1,410.75 अंक चढ़कर 83,846.74 पर और निफ़्टी 50 में 385.95 अंक की बढ़त के साथ 25,735.60 पर पहुंच गया। विदेशी निवेशकों ने सोमवार को 5,672.99 करोड़ रुपये के शेयर ख़रीदे, और कच्चे तेल की कीमतों में गिरावट से भी बाज़ार को सहारा मिला।"
    }
-  },
-  {
-   "id": "jharkhand-special-session-sir-resolution-heman-soren-november-25",
-   "category": "Politics",
-   "sub": "Elections",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T10:03:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jharkhand-special-session-sir-resolution-heman-soren-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-special-session-sir-resolution-heman-soren-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jharkhand-special-session-sir-resolution-heman-soren-november-25-en.mp3",
-   "en": {
-    "title": "Jharkhand Assembly's special session begins today: Soren government to move resolution against SIR, seeks halt and fresh exercise",
-    "summary": "The Jharkhand government will move a resolution in the Assembly's two-day special session beginning today, asking for the ongoing Special Intensive Revision of electoral rolls to be halted and done afresh with a transparent procedure. Chief Minister Hemant Soren will move the resolution, which says genuine voters are facing difficulties and that more than 38 per cent of the state's voters have either been deleted or served notices."
-   },
-   "hi": {
-    "title": "झारखंड विधानसभा का विशेष सत्र आज से: SIR के खिलाफ प्रस्ताव लाएगी सोरेन सरकार, काम रोककर नए सिरे से कराने की माँग",
-    "summary": "झारखंड सरकार आज से शुरू हो रहे विधानसभा के 2 दिवसीय विशेष सत्र में मतदाता सूची के विशेष गहन पुनरीक्षण (SIR) के खिलाफ प्रस्ताव लाएगी। प्रस्ताव में माँग की गई है कि चल रहे पुनरीक्षण को रोककर पारदर्शी प्रक्रिया के साथ नए सिरे से कराया जाए। मुख्यमंत्री हेमंत सोरेन यह प्रस्ताव पेश करेंगे, जिसमें कहा गया है कि असली मतदाताओं को परेशानी हो रही है और राज्य के 38 प्रतिशत से ज़्यादा मतदाताओं के नाम या तो हटा दिए गए हैं या उन्हें नोटिस जारी किए गए हैं।"
-   }
-  },
-  {
-   "id": "thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T10:03:27+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/thiruparankundram-cases-registered-300-bjp-hindu-outfit-members-november-25-en.mp3",
-   "en": {
-    "title": "Cases registered against around 300 BJP, Hindu outfit members over Thiruparankundram Deepam protest",
-    "summary": "Madurai Police have registered cases against around 300 members of the BJP and Hindu organisations for Tuesday's protest at Thiruparankundram, where they had demanded that the Karthigai Deepam be lit at the Deepathoon stone pillar as directed by the Supreme Court. The cases have been filed under six sections, including unlawful assembly and obstructing government servants."
-   },
-   "hi": {
-    "title": "तिरुप्परंकुंड्रम दीपम विरोध पर बीजेपी और हिंदू संगठनों के करीब 300 लोगों पर केस दर्ज",
-    "summary": "मदुरै पुलिस ने तिरुप्परंकुंड्रम में मंगलवार को हुए विरोध प्रदर्शन को लेकर बीजेपी और हिंदू संगठनों के करीब 300 सदस्यों के खिलाफ केस दर्ज किए हैं। प्रदर्शनकारी सुप्रीम कोर्ट के निर्देश के अनुसार कार्तिगई दीपम को दीपस्तंभ पर जलाने की माँग कर रहे थे। केस 6 धाराओं के तहत दर्ज किए गए हैं, जिनमें गैरकानूनी सभा और सरकारी कर्मचारियों को काम से रोकना शामिल है।"
-   },
-   "district": "Madurai",
-   "state": "Tamil Nadu"
   }
  ]
 }
