@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T02:37:32+05:30",
+ "updatedAt": "2026-11-27T03:01:42+05:30",
  "articles": [
+  {
+   "audioEn": null,
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/digha-jagannath-temple-dham-dropped-renamed-shri-shri-jagannath-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Dharm-Astrology",
+   "en": {
+    "title": "Digha Jagannath temple drops 'Dham' from its name, renamed Shri Shri Jagannath Temple",
+    "summary": "The West Bengal government has formally dropped the word 'Dham' from the name of the Jagannath temple complex at Digha. The temple will now be known as Shri Shri Jagannath Temple and the complex as Shri Shri Jagannath Cultural Centre, ending a controversy that began when the shrine was inaugurated as Jagannath Dham in April 2025."
+   },
+   "featured": false,
+   "hi": {
+    "title": "दीघा जगन्नाथ मंदिर के नाम से 'धाम' हटा, अब श्री श्री जगन्नाथ मंदिर कहलाएगा",
+    "summary": "पश्चिम बंगाल सरकार ने दीघा के जगन्नाथ मंदिर परिसर के नाम से 'धाम' शब्द औपचारिक रूप से हटा दिया है। अब मंदिर श्री श्री जगन्नाथ मंदिर और परिसर श्री श्री जगन्नाथ सांस्कृतिक केंद्र कहलाएगा। इससे अप्रैल 2025 में मंदिर के जगन्नाथ धाम के रूप में उद्घाटन के बाद शुरू हुआ विवाद खत्म हो गया है।"
+   },
+   "id": "digha-jagannath-temple-dham-dropped-renamed-shri-shri-jagannath-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/digha-jagannath-temple-dham-dropped-renamed-shri-shri-jagannath-november-26.jpg",
+   "publishedAt": "2026-11-27T02:56:13+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Mandir & Teerth",
+   "trending": true,
+   "district": "Purba Medinipur",
+   "state": "West Bengal"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gadkari-west-bengal-highways-75000-crore-kolkata-ring-road-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gadkari-west-bengal-highways-75000-crore-kolkata-ring-road-november-26-hi.mp3",
+   "breaking": false,
+   "category": "India",
+   "en": {
+    "title": "Gadkari announces Rs 75,000 crore highway push for West Bengal, 250-km Kolkata Ring Road planned",
+    "summary": "Union Minister Nitin Gadkari announced a pipeline of road projects worth about Rs 75,000 crore for West Bengal at an event in Kolaghat, where he inaugurated and laid foundation stones for 22 national highway projects worth more than Rs 8,700 crore. The announcements include a 250-km Kolkata Ring Road costing Rs 14,000 crore."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गडकरी ने पश्चिम बंगाल के लिए 75,000 करोड़ रुपये की सड़क परियोजनाओं की घोषणा की, 250 किलोमीटर की कोलकाता रिंग रोड भी बनेगी",
+    "summary": "केंद्रीय मंत्री नितिन गडकरी ने कोलाघाट में आयोजित कार्यक्रम में पश्चिम बंगाल के लिए करीब 75,000 करोड़ रुपये की सड़क परियोजनाओं की पाइपलाइन की घोषणा की। उन्होंने 8,700 करोड़ रुपये से अधिक की 22 राष्ट्रीय राजमार्ग परियोजनाओं का उद्घाटन किया और उनकी आधारशिला रखी। घोषणाओं में 14,000 करोड़ रुपये की लागत से बनने वाली 250 किलोमीटर लंबी कोलकाता रिंग रोड भी शामिल है।"
+   },
+   "id": "gadkari-west-bengal-highways-75000-crore-kolkata-ring-road-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gadkari-west-bengal-highways-75000-crore-kolkata-ring-road-november-26.jpg",
+   "publishedAt": "2026-11-27T02:56:13+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Government & Policy",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pankaj-advani-wins-crucible-cup-first-indian-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pankaj-advani-wins-crucible-cup-first-indian-november-25-hi.mp3",
@@ -3276,52 +3320,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": null,
-   "en": {
-    "title": "Supreme Court reserves verdict on Rajoana plea to commute death sentence in Beant Singh case",
-    "summary": "The Supreme Court has reserved its verdict on Balwant Singh Rajoana's plea to commute his death sentence to life imprisonment, citing the 13-year delay in deciding his mercy petition in the 1995 assassination of former Punjab chief minister Beant Singh."
-   },
-   "featured": false,
-   "hi": {
-    "title": "बेअंत सिंह हत्याकांड: राजोआना की मौत की सजा कम करने की याचिका पर सुप्रीम कोर्ट ने फैसला सुरक्षित रखा",
-    "summary": "सुप्रीम कोर्ट ने बलबंत सिंह राजोआना की मौत की सजा को आजीवन कारावास में बदलने की याचिका पर फैसला सुरक्षित रख लिया है। राजोआना ने 2012 से लंबित दया याचिका पर निर्णय में 13 साल की देरी का हवाला दिया है।"
-   },
-   "id": "supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Courts",
-   "trending": true,
-   "publishedAt": "2026-11-26T03:15:40+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-reserves-verdict-rajoana-commutation-plea-beant-singh-case-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "West Champaran",
-   "en": {
-    "title": "Bettiah Senco heist cracked within a week: 3 arrested in Vaishali, 11 more identified",
-    "summary": "Bihar Police say they have cracked the daylight robbery at Senco Jewellers in Bettiah, arresting three men from Vaishali district a week after eight armed men looted the showroom. Eleven more suspects have been identified and raids are on to catch them and recover the jewellery."
-   },
-   "featured": false,
-   "hi": {
-    "title": "बेतिया सेनको लूटकांड का एक हफ्ते में खुलासा: वैशाली से 3 गिरफ्तार, 11 की पहचान",
-    "summary": "बिहार पुलिस का कहना है कि बेतिया के सेनको ज्वेलर्स में दिनदहाड़े हुई लूट का खुलासा हो गया है — वारदात के एक हफ्ते के भीतर वैशाली जिले से 3 लोगों को गिरफ्तार किया गया है। 11 और आरोपियों की पहचान हो चुकी है और गहने बरामद करने के लिए छापेमारी जारी है।"
-   },
-   "id": "bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Bihar",
-   "sub": "Police & Crime",
-   "trending": false,
-   "publishedAt": "2026-11-26T02:55:53+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bettiah-senco-jewellery-heist-three-arrested-vaishali-11-identified-november-25-en.mp3"
   }
  ]
 }
