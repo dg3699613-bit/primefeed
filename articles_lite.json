@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T03:25:08+05:30",
+ "updatedAt": "2026-11-27T03:46:01+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-suo-motu-pil-private-land-state-authorities-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/allahabad-hc-suo-motu-pil-private-land-state-authorities-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Allahabad HC takes suo motu PIL on state use of private land, warns of 'serious penal consequences'",
+    "summary": "The Allahabad High Court has taken up on its own a public interest litigation over state authorities allegedly using private land without acquiring it or buying it, warning that violations of landowners' rights would invite 'serious penal consequences'. A Lucknow bench of Justices Rajan Roy and Manjive Shukla directed the registry to register the PIL and issue notices to the state government and the National Highways Authority of India. The court said the issue touches the right to property under Article 300-A of the Constitution."
+   },
+   "featured": false,
+   "hi": {
+    "title": "इलाहाबाद हाई कोर्ट ने निजी ज़मीन के इस्तेमाल पर खुद संज्ञान लिया, राज्य को 'गंभीर दंडात्मक परिणामों' की चेतावनी",
+    "summary": "इलाहाबाद हाई कोर्ट ने राज्य के अधिकारियों द्वारा बिना अधिग्रहण या खरीद के निजी ज़मीन का इस्तेमाल किए जाने के मामले में खुद संज्ञान लेते हुए जनहित याचिका दर्ज करने का आदेश दिया है। कोर्ट ने कहा कि ज़मीन मालिकों के अधिकारों का उल्लंघन हुआ तो 'गंभीर दंडात्मक परिणाम' भुगतने होंगे। लखनऊ पीठ ने राज्य सरकार और भारतीय राष्ट्रीय राजमार्ग प्राधिकरण को नोटिस जारी करने का निर्देश दिया है। कोर्ट ने कहा कि यह मामला संविधान के अनुच्छेद 300-ए के तहत संपत्ति के अधिकार से जुड़ा है।"
+   },
+   "id": "allahabad-hc-suo-motu-pil-private-land-state-authorities-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/allahabad-hc-suo-motu-pil-private-land-state-authorities-november-26.jpg",
+   "publishedAt": "2026-11-27T03:41:24+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "Lucknow",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-six-day-tour-kerala-mizoram-nagaland-november-27-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/president-murmu-six-day-tour-kerala-mizoram-nagaland-november-27-hi.mp3",
+   "breaking": false,
+   "category": "India",
+   "en": {
+    "title": "President Murmu begins 6-day tour of Kerala, Mizoram and Nagaland today",
+    "summary": "President Droupadi Murmu begins a 6-day tour of Kerala, Mizoram and Nagaland on Friday, her office said on Thursday. She will visit Adi Shankaracharya's birthplace at Kalady and attend the golden jubilee valedictory of the Vaidyaratnam Ayurveda College in Kerala, review the passing out parade at the Indian Naval Academy, attend Mizoram University's convocation, and inaugurate the 27th Hornbill Festival at Kisama in Nagaland on December 1."
+   },
+   "featured": false,
+   "hi": {
+    "title": "राष्ट्रपति मुर्मू आज से केरल, मिजोरम और नागालैंड के 6 दिन के दौरे पर",
+    "summary": "राष्ट्रपति द्रौपदी मुर्मू शुक्रवार से केरल, मिजोरम और नागालैंड के 6 दिन के दौरे पर जा रही हैं। वह कलाडी में आदि शंकराचार्य के जन्मस्थान जाएंगी, केरल में वैद्यरत्नम आयुर्वेद कॉलेज के स्वर्ण जयंती समारोह में शामिल होंगी, भारतीय नौसेना अकादमी की पासिंग आउट परेड की सलामी लेंगी, मिजोरम विश्वविद्यालय के दीक्षांत समारोह में जाएंगी और 1 दिसंबर को नागालैंड के किसामा में 27वें हॉर्नबिल उत्सव का उद्घाटन करेंगी।"
+   },
+   "id": "president-murmu-six-day-tour-kerala-mizoram-nagaland-november-27",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/president-murmu-six-day-tour-kerala-mizoram-nagaland-november-27.jpg",
+   "publishedAt": "2026-11-27T03:41:24+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "National",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-toss-bowl-first-gurnoor-brar-debut-second-test-christchurch-november-27-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-win-toss-bowl-first-gurnoor-brar-debut-second-test-christchurch-november-27-hi.mp3",
@@ -3274,52 +3318,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bijnor-noorpur-arvender-singh-killed-sword-attack-land-dispute-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "World",
-   "district": null,
-   "en": {
-    "title": "Fuel tanker fire on Cairo's Ring Road kills at least 31, injures 21",
-    "summary": "At least 31 people were killed and 21 injured after a fuel tanker crashed and caught fire on Cairo's Ring Road, with flames spreading to passing vehicles. The Health Ministry says the toll is preliminary."
-   },
-   "featured": false,
-   "hi": {
-    "title": "काहिरा रिंग रोड पर पेट्रोल टैंकर में आग: कम से कम 31 की मौत, 21 घायल",
-    "summary": "काहिरा के पास रिंग रोड पर पेट्रोल टैंकर में आग लगने से कम से कम 31 लोगों की मौत हो गई और 21 घायल हुए हैं। टैंकर के दुर्घटनाग्रस्त होने के बाद आग आसपास की गाड़ियों तक फैल गई। स्वास्थ्य मंत्रालय के अनुसार मृतकों की संख्या शुरुआती है।"
-   },
-   "id": "cairo-ring-road-tanker-fire-31-killed-21-injured-november-25",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Middle East",
-   "trending": true,
-   "publishedAt": "2026-11-26T03:44:37+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/cairo-ring-road-tanker-fire-31-killed-21-injured-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cairo-ring-road-tanker-fire-31-killed-21-injured-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/cairo-ring-road-tanker-fire-31-killed-21-injured-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Panchkula",
-   "en": {
-    "title": "Haryana panchayat accounts hit by suspected 100-crore cyber fraud; 8 arrested",
-    "summary": "More than 100 crore rupees is suspected to have been siphoned from Haryana panchayat accounts through unauthorised transactions, barely 5 months after the accounts moved to Punjab National Bank. The Cyber Crime Wing has arrested 8 people and frozen accounts holding the suspected proceeds."
-   },
-   "featured": false,
-   "hi": {
-    "title": "हरियाणा की पंचायतों के खातों से 100 करोड़ से ज्यादा की संदिग्ध निकासी, 8 गिरफ्तार",
-    "summary": "हरियाणा की पंचायतों के खातों से अनधिकृत लेनदेन के जरिए 100 करोड़ रुपये से ज्यादा की रकम निकाले जाने की आशंका है। खाते पंजाब नेशनल बैंक में आए महज 5 महीने हुए हैं। साइबर क्राइम विंग ने 8 लोगों को गिरफ्तार किया है और संदिग्ध रकम वाले खाते फ्रीज कर दिए हैं।"
-   },
-   "id": "haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26",
-   "source": "PrimeFeed Desk",
-   "state": "Haryana",
-   "sub": "Cyber Crime",
-   "trending": true,
-   "publishedAt": "2026-11-26T03:15:40+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/haryana-panchayat-accounts-suspected-100-crore-cyber-fraud-8-arrested-november-26-en.mp3"
   }
  ]
 }
