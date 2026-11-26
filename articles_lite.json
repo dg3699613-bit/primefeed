@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T09:12:33+05:30",
+ "updatedAt": "2026-11-26T09:24:57+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-preet-vihar-cafe-gang-rape-three-arrested-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-preet-vihar-cafe-gang-rape-three-arrested-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Delhi cafe gang-rape case: Three arrested, two women sent to 14 days' judicial custody; three accused absconding",
+    "summary": "A 22-year-old woman has alleged she was gang-raped by two male colleagues at Saltanate Cafe in east Delhi's Preet Vihar in the early hours of Tuesday. Police have arrested three people, Ayan, Sakshi and Mansi, while three others are absconding. A court on Wednesday sent Ayan to two days' police custody and the two women to 14 days' judicial custody."
+   },
+   "featured": false,
+   "hi": {
+    "title": "प्रीत विहार कैफ़े में युवती से सामूहिक दुष्कर्म का आरोप, 3 गिरफ्तार; 2 महिलाओं को 14 दिन की न्यायिक हिरासत",
+    "summary": "पूर्वी दिल्ली के प्रीत विहार के सल्तनत कैफ़े में 22 साल की युवती ने 2 सहकर्मियों पर सामूहिक दुष्कर्म का आरोप लगाया है। पुलिस ने अयान, साक्षी और मानसी को गिरफ्तार किया है, 3 आरोपी फरार हैं। बुधवार को अदालत ने अयान को 2 दिन की पुलिस हिरासत और दोनों महिलाओं को 14 दिन की न्यायिक हिरासत में भेज दिया।"
+   },
+   "id": "delhi-preet-vihar-cafe-gang-rape-three-arrested-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-preet-vihar-cafe-gang-rape-three-arrested-november-26.jpg",
+   "publishedAt": "2026-11-26T09:20:54+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "East Delhi",
+   "state": "Delhi"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-constitution-day-women-reservation-no-force-can-stop-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pm-modi-constitution-day-women-reservation-no-force-can-stop-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "On Constitution Day, PM Modi renews women's reservation pitch — 'no force can stop it' — and attacks Congress over Emergency and amendments",
+    "summary": "Prime Minister Narendra Modi on Thursday renewed his pitch for women's reservation in Parliament and state assemblies, saying no force can stop it, and blamed the Opposition for the defeat of the Constitution (131st Amendment) Bill in April. He also attacked the Congress over the First Amendment of 1951, the 42nd Amendment during the Emergency and Article 370."
+   },
+   "featured": false,
+   "hi": {
+    "title": "संविधान दिवस पर पीएम मोदी: महिला आरक्षण को 'कोई ताकत नहीं रोक सकती', कांग्रेस पर आपातकाल और संशोधनों को लेकर हमला",
+    "summary": "प्रधानमंत्री नरेंद्र मोदी ने संविधान दिवस पर महिला आरक्षण की माँग फिर दोहराई और कहा कि कोई ताकत इसे नहीं रोक सकती। उन्होंने 131वें संशोधन विधेयक के अप्रैल में गिरने के लिए विपक्ष को ज़िम्मेदार ठहराया और 1951 के पहले संशोधन, आपातकाल के 42वें संशोधन और अनुच्छेद 370 को लेकर कांग्रेस पर हमला बोला।"
+   },
+   "id": "pm-modi-constitution-day-women-reservation-no-force-can-stop-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pm-modi-constitution-day-women-reservation-no-force-can-stop-november-26.jpg",
+   "publishedAt": "2026-11-26T09:20:54+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Parliament",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/rohtak-milan-dhaba-gangwar-four-shot-dead-november-26-hi.mp3",
@@ -3287,50 +3331,6 @@
    "hi": {
     "title": "फरीदाबाद में 2,585 पेड़ों की अवैध कटाई पर हरियाणा ने आईएफएस अधिकारी की बर्खास्तगी की सिफारिश की",
     "summary": "हरियाणा वन विभाग ने फरीदाबाद के अलीपुर-सिकरगढ़ आरक्षित वन में 2,585 पेड़ों की कथित अवैध कटाई को लेकर आईएफएस अधिकारी झलकर उयाके की सेवाएं समाप्त करने की सिफारिश की है। निलंबित अधिकारी ने खुद 12 नवंबर को कटाई की जानकारी दी थी; 20 नवंबर को 3 वन अधिकारी बर्खास्त किए गए और एफआईआर दर्ज हुई है।"
-   }
-  },
-  {
-   "id": "india-calls-for-human-oversight-in-ai-warfare-at-un",
-   "category": "World",
-   "sub": "USA",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T07:42:56+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-calls-for-human-oversight-in-ai-warfare-at-un.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-calls-for-human-oversight-in-ai-warfare-at-un-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-calls-for-human-oversight-in-ai-warfare-at-un-en.mp3",
-   "en": {
-    "title": "At UN, India calls for human oversight in AI warfare and warns of autonomous weapons and terror misuse",
-    "summary": "India has told the United Nations Security Council that human judgement and oversight must remain central as artificial intelligence transforms warfare. Ambassador Harish Parvathaneni warned of the risks from lethal autonomous weapons and the misuse of AI by terrorist groups, and called for inclusive global cooperation on AI governance."
-   },
-   "hi": {
-    "title": "संयुक्त राष्ट्र में भारत की मांग: युद्ध में एआई पर मानवीय निगरानी ज़रूरी, आतंकियों के दुरुपयोग पर चेतावनी",
-    "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में कहा है कि जैसे-जैसे कृत्रिम बुद्धिमत्ता युद्ध का चेहरा बदल रही है, मानव का विवेक और निगरानी केंद्र में रहनी चाहिए। राजदूत हरीश परवथानेनी ने घातक स्वचालित हथियारों के जोखिम और आतंकी समूहों की ओर से एआई के दुरुपयोग पर चेतावनी दी और एआई संचालन में समावेशी वैश्विक सहयोग की मांग की।"
-   }
-  },
-  {
-   "id": "chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T07:09:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/chakkakomban-mission-begins-in-idukki-schools-shut-in-six-chinnakanal-wards-en.mp3",
-   "district": "Idukki",
-   "state": "Kerala",
-   "en": {
-    "title": "Mission Chakkakomban begins today in Idukki: forest department to radio-collar rogue tusker, schools shut in six Chinnakanal wards",
-    "summary": "Kerala's Forest Department begins its mission today to tranquilise and radio-collar wild tusker Chakkakomban in Idukki district, after the elephant's repeated forays into settlements in Chinnakanal. Schools in six wards of the panchayat stay shut, tourist activity is banned in the area, and around 100 personnel are part of the operation."
-   },
-   "hi": {
-    "title": "मिशन चक्काकोम्बन आज से: इडुक्की में बेकाबू हाथी को रेडियो-कॉलर लगाने की तैयारी, चिन्नकनाल के 6 वार्डों में स्कूल बंद",
-    "summary": "केरल के इडुक्की जिले में वन विभाग आज से जंगली हाथी चक्काकोम्बन को बेहोश करके रेडियो-कॉलर लगाने का अभियान शुरू कर रहा है। हाथी के बार-बार चिन्नकनाल की बस्तियों में घुसने के बाद पंचायत के 6 वार्डों में सभी शिक्षण संस्थान बंद रहेंगे, पर्यटन गतिविधियों पर रोक है और अभियान में करीब 100 कर्मी शामिल हैं।"
    }
   }
  ]
