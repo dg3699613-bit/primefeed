@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T21:44:18+05:30",
+ "updatedAt": "2026-11-26T22:05:15+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/agp-leader-jintu-choudhury-life-sentence-ajay-deka-murder-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/agp-leader-jintu-choudhury-life-sentence-ajay-deka-murder-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "After 19 years, life term for AGP leader Jintu Choudhury in the 2007 murder of PWD engineer Ajay Deka",
+    "summary": "A Kamrup (Metro) court in Guwahati on Thursday sentenced Asom Gana Parishad leader Jintu Choudhury to life imprisonment for the 2007 murder of PWD junior engineer Ajay Deka, ending a trial that ran for nearly 19 years. The court also fined him Rs 10,000 and ordered compensation for Deka's wife, while acquitting the other 4 accused; the AGP has relieved Choudhury of all party posts."
+   },
+   "featured": false,
+   "hi": {
+    "title": "19 साल बाद फैसला: 2007 में लोक निर्माण विभाग के इंजीनियर अजय डेका की हत्या में एजीपी नेता जिंटू चौधरी को उम्रकैद",
+    "summary": "गुवाहाटी की कामरूप (मेट्रो) अदालत ने गुरुवार को असम गण परिषद के नेता जिंटू चौधरी को 2007 में लोक निर्माण विभाग के कनिष्ठ अभियंता अजय डेका की हत्या के मामले में उम्रकैद की सज़ा सुनाई। अदालत ने 10,000 रुपये का जुर्माना भी लगाया और डेका की पत्नी को मुआवज़ा देने का निर्देश दिया, जबकि बाकी 4 आरोपियों को बरी कर दिया गया। एजीपी ने चौधरी को पार्टी के सभी पदों से मुक्त कर दिया है।"
+   },
+   "id": "agp-leader-jintu-choudhury-life-sentence-ajay-deka-murder-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/agp-leader-jintu-choudhury-life-sentence-ajay-deka-murder-november-26.jpg",
+   "publishedAt": "2026-11-26T21:58:45+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "Kamrup Metro",
+   "state": "Assam"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/valmiki-scam-cid-clean-chit-b-nagendra-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/valmiki-scam-cid-clean-chit-b-nagendra-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Valmiki scam: Karnataka CID gives clean chit to former minister B. Nagendra in final chargesheet, names him witness",
+    "summary": "The Karnataka CID has given a clean chit to former minister B. Nagendra in the alleged Rs 89.62 crore Valmiki Corporation scam, excluding him from the accused list in its final chargesheet filed before the Lokayukta Special Court and naming him as a witness. The CBI and ED, which described Nagendra as the 'mastermind' in their own filings, continue their separate probes."
+   },
+   "featured": false,
+   "hi": {
+    "title": "वाल्मीकि घोटाला: सीआईडी की अंतिम चार्जशीट में पूर्व मंत्री बी नागेंद्र को क्लीन चिट, गवाह बनाए गए",
+    "summary": "कर्नाटक अपराध जाँच विभाग ने 89.62 करोड़ रुपये के वाल्मीकि निगम घोटाले में पूर्व मंत्री बी नागेंद्र को क्लीन चिट दे दी है। लोकायुक्त विशेष अदालत में दाखिल अंतिम चार्जशीट में उनका नाम आरोपियों की सूची से हटा दिया गया है और उन्हें गवाह बनाया गया है। सीबीआई और ईडी की अलग जाँच जारी है।"
+   },
+   "id": "valmiki-scam-cid-clean-chit-b-nagendra-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/valmiki-scam-cid-clean-chit-b-nagendra-november-26.jpg",
+   "publishedAt": "2026-11-26T21:58:45+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Scams & Fraud",
+   "trending": true,
+   "district": "Bengaluru Urban",
+   "state": "Karnataka"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-talathi-attacked-iron-rod-sand-mafia-aher-chincholi-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/beed-talathi-attacked-iron-rod-sand-mafia-aher-chincholi-november-26-hi.mp3",
@@ -3280,52 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/five-maharashtra-districts-face-fastest-building-flash-droughts-study.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-maharashtra-districts-face-fastest-building-flash-droughts-study-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/five-maharashtra-districts-face-fastest-building-flash-droughts-study-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "India",
-   "district": null,
-   "en": {
-    "title": "India's pavilion voted best in the world at Venice Art Biennale after seven-year return",
-    "summary": "India's national pavilion, 'Geographies of Distance: Remembering Home', has won the Visitors' Lion for Best National Participation at the 61st Venice Art Biennale, voted the best by visitors from around the world. The honour comes on India's return to the Biennale after seven years."
-   },
-   "featured": false,
-   "hi": {
-    "title": "वेनिस बिएनाले में भारत का पवेलियन दुनिया में सर्वश्रेष्ठ, 7 साल बाद वापसी पर मिला विज़िटर्स लायन",
-    "summary": "भारत के राष्ट्रीय पवेलियन 'जियोग्राफ़ीज़ ऑफ़ डिस्टेंस: रिमेंबरिंग होम' ने 61वें वेनिस बिएनाले में सर्वश्रेष्ठ राष्ट्रीय भागीदारी का विज़िटर्स लायन जीत लिया है। दुनिया भर के दर्शकों के वोट से मिला यह सम्मान 7 साल बाद बिएनाले में भारत की वापसी पर आया है।"
-   },
-   "id": "india-wins-visitors-lion-best-national-pavilion-venice-biennale",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "National",
-   "trending": true,
-   "publishedAt": "2026-11-25T20:40:41+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-wins-visitors-lion-best-national-pavilion-venice-biennale.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-wins-visitors-lion-best-national-pavilion-venice-biennale-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-wins-visitors-lion-best-national-pavilion-venice-biennale-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Government Schemes",
-   "district": null,
-   "en": {
-    "title": "Nayi Chetna 5.0 launched: month-long drive for violence-free villages begins",
-    "summary": "Union Ministers Shivraj Singh Chouhan and Annapurna Devi launched the fifth edition of 'Nayi Chetna: Pahal Badlav Ki' in New Delhi. The month-long campaign, running till 23 December 2026, aims at villages free of violence against women, with a four-way agreement linking village support, district centres and legal aid."
-   },
-   "featured": false,
-   "hi": {
-    "title": "नई चेतना 5.0 की शुरुआत: हिंसा-मुक्त गाँवों की ओर, 23 दिसंबर तक देशभर में चलेगा अभियान",
-    "summary": "केंद्रीय मंत्रियों शिवराज सिंह चौहान और अन्नपूर्णा देवी ने नई दिल्ली में 'नई चेतना: पहल बदलाव की' के पाँचवें संस्करण का शुभारंभ किया। 23 दिसंबर 2026 तक चलने वाला यह अभियान हिंसा-मुक्त गाँवों के लिए है, जिसमें गाँव स्तर की मदद, ज़िला केंद्रों और कानूनी सहायता को जोड़ने वाला 4-पक्षीय समझौता हुआ है।"
-   },
-   "id": "nayi-chetna-5-0-launched-violence-free-villages-november-25",
-   "source": "PrimeFeed Desk",
-   "state": null,
-   "sub": "Centre Schemes",
-   "trending": false,
-   "publishedAt": "2026-11-25T20:16:44+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/nayi-chetna-5-0-launched-violence-free-villages-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nayi-chetna-5-0-launched-violence-free-villages-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/nayi-chetna-5-0-launched-violence-free-villages-november-25-en.mp3"
   }
  ]
 }
