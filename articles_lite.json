@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-27T02:04:29+05:30",
+ "updatedAt": "2026-11-27T02:22:05+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/doloo-greenfield-airport-silchar-cachar-cabinet-approval-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/doloo-greenfield-airport-silchar-cachar-cabinet-approval-november-25-hi.mp3",
+   "breaking": false,
+   "category": "India",
+   "en": {
+    "title": "Cabinet clears Rs 2,014 crore greenfield airport at Doloo in Silchar, Assam",
+    "summary": "The Union Cabinet has approved a Rs 2,014 crore greenfield airport at Doloo in Silchar, Assam, to be built by the Airports Authority of India. The airport will have a 2,705-metre runway for A320 aircraft, a 12,351 sq m terminal handling 800 passengers at peak hour, and an annual capacity of 1.01 million passengers."
+   },
+   "featured": false,
+   "hi": {
+    "title": "कैबिनेट ने असम के सिलचर में डोलू ग्रीनफील्ड हवाई अड्डे को 2,014 करोड़ रुपये की मंजूरी दी",
+    "summary": "केंद्रीय मंत्रिमंडल ने असम के सिलचर में डोलू में 2,014 करोड़ रुपये की लागत से नया ग्रीनफील्ड हवाई अड्डा बनाने को मंजूरी दे दी है। भारतीय विमानपत्तन प्राधिकरण इसे बनाएगा। हवाई अड्डे पर ए320 विमानों के लिए 2,705 मीटर लंबा रनवे, 12,351 वर्ग मीटर का टर्मिनल, व्यस्त समय में 800 यात्रियों की क्षमता और सालाना 1.01 मिलियन यात्रियों की क्षमता होगी।"
+   },
+   "id": "doloo-greenfield-airport-silchar-cachar-cabinet-approval-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/doloo-greenfield-airport-silchar-cachar-cabinet-approval-november-25.jpg",
+   "publishedAt": "2026-11-27T02:17:43+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Government & Policy",
+   "trending": true,
+   "district": "Cachar",
+   "state": "Assam"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tirupati-121-kg-gold-ornaments-207-crore-donation-vardhman-jain-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/tirupati-121-kg-gold-ornaments-207-crore-donation-vardhman-jain-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Dharm-Astrology",
+   "en": {
+    "title": "Chennai couple donates 121 kg gold ornaments worth Rs 207.6 crore to Tirumala temple",
+    "summary": "Chennai-based businessman Vardhman Jain and his wife Radhika Jain have donated 46 gold ornaments weighing 121 kg, valued at Rs 207.6 crore, to Lord Venkateswara at Tirumala. The ornaments were handed over on Thursday in the presence of Andhra Pradesh Chief Minister N. Chandrababu Naidu."
+   },
+   "featured": false,
+   "hi": {
+    "title": "चेन्नई दंपति ने तिरुमाला मंदिर को 121 किलोग्राम सोने के आभूषण दान किए, कीमत 207.6 करोड़ रुपये",
+    "summary": "चेन्नई के व्यवसायी वर्धमान जैन और उनकी पत्नी राधिका जैन ने तिरुमाला में भगवान वेंकटेश्वर को 121 किलोग्राम वजन के 46 सोने के आभूषण दान किए हैं, जिनकी कीमत 207.6 करोड़ रुपये है। आभूषण गुरुवार को आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू की मौजूदगी में सौंपे गए।"
+   },
+   "id": "tirupati-121-kg-gold-ornaments-207-crore-donation-vardhman-jain-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/tirupati-121-kg-gold-ornaments-207-crore-donation-vardhman-jain-november-26.jpg",
+   "publishedAt": "2026-11-27T02:17:43+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Mandir & Teerth",
+   "trending": true,
+   "district": "Tirupati",
+   "state": "Andhra Pradesh"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prayagraj-salon-murder-arvind-bhartiya-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/prayagraj-salon-murder-arvind-bhartiya-november-26-hi.mp3",
@@ -3280,50 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/netanyahu-judges-recommend-drop-bribery-case-4000-reconsider-2000-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Baramulla",
-   "en": {
-    "title": "Baramulla to get ₹60-crore sewage treatment projects as MLA announces 40-crore plant, tender soon",
-    "summary": "MLA Javed Hassan Baig says sewage treatment projects worth 60 crore rupees are planned for Baramulla, including a 40-crore-rupee plant whose tendering will begin shortly, with completion expected in five to six years."
-   },
-   "featured": false,
-   "hi": {
-    "title": "बारामूला को 60 करोड़ रुपये की सीवेज परियोजनाएँ: 40 करोड़ का ट्रीटमेंट प्लांट मंज़ूर, टेंडर जल्द",
-    "summary": "विधायक जावेद हसन बेग ने कहा है कि बारामूला के लिए 60 करोड़ रुपये की सीवेज परियोजनाएँ बनाई जाएँगी, जिनमें 40 करोड़ रुपये का ट्रीटमेंट प्लांट भी है, जिसका टेंडर जल्द शुरू होगा और काम 5 से 6 साल में पूरा होने की उम्मीद है।"
-   },
-   "id": "baramulla-60-crore-sewage-treatment-projects-mla-baig-announces-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Jammu and Kashmir",
-   "sub": "Others",
-   "trending": false,
-   "publishedAt": "2026-11-26T02:19:04+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/baramulla-60-crore-sewage-treatment-projects-mla-baig-announces-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baramulla-60-crore-sewage-treatment-projects-mla-baig-announces-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baramulla-60-crore-sewage-treatment-projects-mla-baig-announces-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Cricket & Sports",
-   "en": {
-    "title": "PT Usha will not seek second term as IOA president; Narang, Sachdeva and Mehta in three-way race",
-    "summary": "PT Usha will not seek a second term as Indian Olympic Association president after missing Tuesday's nomination deadline, ending her four-year tenure on December 5; Gagan Narang, Virendra Sachdeva and Rajeev Mehta are in a three-way race to succeed her."
-   },
-   "featured": false,
-   "hi": {
-    "title": "पीटी उषा आईओए अध्यक्ष का दूसरा कार्यकाल नहीं लड़ेंगी; नरंग, सचदेवा और मेहता के बीच त्रिकोणीय मुकाबला",
-    "summary": "पीटी उषा मंगलवार को नामांकन की समय सीमा चूकने के बाद भारतीय ओलंपिक संघ की अध्यक्ष के रूप में दूसरा कार्यकाल नहीं लड़ेंगी; उनका 4 साल का कार्यकाल 5 दिसंबर को खत्म होगा, और गगन नारंग, वीरेंद्र सचदेवा और राजीव मेहता के बीच त्रिकोणीय मुकाबला होगा।"
-   },
-   "id": "pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25",
-   "source": "PrimeFeed Desk",
-   "sub": "Others",
-   "trending": true,
-   "publishedAt": "2026-11-26T02:19:04+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/pt-usha-exits-ioa-presidential-race-narang-sachdeva-mehta-contest-november-25-en.mp3"
   }
  ]
 }
