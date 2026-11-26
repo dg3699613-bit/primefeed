@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T00:01:32+05:30",
+ "updatedAt": "2026-11-27T00:22:39+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-minor-girl-suspicious-death-ghuru-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bilaspur-minor-girl-suspicious-death-ghuru-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "17-year-old girl dies under suspicious circumstances in Bilaspur; mother alleges murder by acquaintance",
+    "summary": "A 17-year-old girl died under suspicious circumstances in Ghuru village in Bilaspur's Sakri area on Wednesday. Her mother has alleged that an acquaintance, Durgesh Suryavanshi, called the girl over on a message, assaulted her and later left her at a hospital. Police have conducted a post-mortem and say further action will follow the report."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बिलासपुर में 17 साल की किशोरी की संदिग्ध मौत, माँ ने परिचित युवक पर हत्या का आरोप लगाया",
+    "summary": "बिलासपुर जिले के सकरी क्षेत्र के घुरु गाँव में 17 साल की किशोरी आरुषी की बुधवार को संदिग्ध हालात में मौत हो गई। माँ मीना डहरिया का आरोप है कि मोहल्ले के युवक दुर्गेश सूर्यवंशी ने मैसेज भेजकर बेटी को बुलाया, उसके साथ मारपीट की और फिर अस्पताल में छोड़कर फरार हो गया। पुलिस ने शव का पोस्टमार्टम कराया है और रिपोर्ट के बाद कार्रवाई की बात कह रही है।"
+   },
+   "id": "bilaspur-minor-girl-suspicious-death-ghuru-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bilaspur-minor-girl-suspicious-death-ghuru-november-26.jpg",
+   "publishedAt": "2026-11-27T00:18:10+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": false,
+   "district": "Bilaspur",
+   "state": "Chhattisgarh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-uae-accelerate-next-gen-defence-co-development-jdcc-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/india-uae-accelerate-next-gen-defence-co-development-jdcc-november-26-hi.mp3",
+   "breaking": false,
+   "category": "India",
+   "en": {
+    "title": "India, UAE agree to fast-track joint development of next-generation defence equipment",
+    "summary": "India and the United Arab Emirates have agreed to accelerate co-development and co-production partnerships in next-generation defence equipment at the 14th meeting of the India-UAE Joint Defence Cooperation Committee in Abu Dhabi on Thursday. The meeting, co-chaired by Defence Secretary Rajesh Kumar Singh and UAE Under Secretary of Defence Lieutenant General Ibrahim Nasser M. Al Alawi, gave strategic direction to initiatives under the India-UAE Strategic Defence Partnership Framework signed in May 2026."
+   },
+   "featured": false,
+   "hi": {
+    "title": "भारत और यूएई अगली पीढ़ी के रक्षा उपकरण साथ बनाएंगे, अबू धाबी में 14वीं रक्षा बैठक में सहमति",
+    "summary": "भारत और संयुक्त अरब अमीरात ने गुरुवार को अबू धाबी में हुई 14वीं संयुक्त रक्षा सहयोग समिति की बैठक में अगली पीढ़ी के रक्षा उपकरणों के सह-विकास और सह-उत्पादन में साझेदारी तेज़ करने पर सहमति जताई है। रक्षा सचिव राजेश कुमार सिंह और यूएई के रक्षा मंत्रालय में अवर सचिव लेफ्टिनेंट जनरल इब्राहिम नासिर एम. अल अलावी ने बैठक की सह-अध्यक्षता की।"
+   },
+   "id": "india-uae-accelerate-next-gen-defence-co-development-jdcc-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/india-uae-accelerate-next-gen-defence-co-development-jdcc-november-26.jpg",
+   "publishedAt": "2026-11-27T00:18:10+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Defence",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kallakurichi-collector-statement-magistrate-mla-arul-vignesh-summons-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kallakurichi-collector-statement-magistrate-mla-arul-vignesh-summons-november-26-hi.mp3",
@@ -3280,50 +3324,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gukesh-sindarov-draw-game-2-in-20-moves-world-chess-championship-level-1-1-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Crime & Law",
-   "district": "Bengaluru Urban",
-   "en": {
-    "title": "Fresh complaint against BJP MLA Munirathna: rape case complainant alleges intimidation to stop her testifying",
-    "summary": "The woman who accused BJP MLA Munirathna of rape in 2020 has filed a fresh complaint at Bengaluru's Yeshwanthpur police station, alleging that the MLA publicly identified her and made derogatory remarks to stop her testifying in the ongoing trial. Police have registered a case and begun an investigation."
-   },
-   "featured": false,
-   "hi": {
-    "title": "भाजपा विधायक मुनिरथ्ना के खिलाफ नई शिकायत: दुष्कर्म मामले की शिकायतकर्ता ने गवाही रोकने के लिए धमकाने का आरोप लगाया",
-    "summary": "2020 में दुष्कर्म का आरोप लगाने वाली महिला ने बेंगलुरु के यशवंतपुर थाने में नई शिकायत दर्ज कराई है। उनका आरोप है कि विधायक मुनिरथ्ना सार्वजनिक तौर पर उनकी पहचान उजागर कर अपमानजनक टिप्पणियां कर रहे हैं, ताकि वह चल रहे मुकदमे में गवाही न दे सकें। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है।"
-   },
-   "id": "munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Karnataka",
-   "sub": "Police & Crime",
-   "trending": false,
-   "publishedAt": "2026-11-26T00:03:30+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/munirathna-fresh-complaint-rape-case-complainant-bengaluru-november-25-en.mp3"
-  },
-  {
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25-en.mp3",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25-hi.mp3",
-   "breaking": false,
-   "category": "Politics",
-   "en": {
-    "title": "Delhi SIR: Nearly 44 lakh voters may stay off final roll as claims window closes",
-    "summary": "Only around 3.5 lakh Form 6 applications came in by the end of the claims and objections period on Wednesday, against 47.5 lakh names dropped from the draft roll published on August 31. The final electoral roll is due on December 22."
-   },
-   "featured": false,
-   "hi": {
-    "title": "दिल्ली एसआईआर: 44 लाख मतदाता अंतिम सूची से बाहर रह सकते हैं, दावे-आपत्ति की अवधि खत्म",
-    "summary": "बुधवार को दावे और आपत्ति की अवधि खत्म होने तक सिर्फ करीब 3.5 लाख फॉर्म 6 आवेदन मिले, जबकि 31 अगस्त को जारी मसौदा सूची से 47.5 लाख नाम हटाए गए थे। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी।"
-   },
-   "id": "delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-sir-44-lakh-voters-may-remain-off-final-roll-november-25.jpg",
-   "publishedAt": "2026-11-25T23:44:50+05:30",
-   "source": "PrimeFeed Desk",
-   "sub": "Elections",
-   "trending": true
   }
  ]
 }
