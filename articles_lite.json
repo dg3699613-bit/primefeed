@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T15:47:13+05:30",
+ "updatedAt": "2026-11-26T16:08:00+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sundargarh-mentally-ill-man-tied-to-tree-chc-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sundargarh-mentally-ill-man-tied-to-tree-chc-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Mentally ill man tied to a tree and allegedly beaten at Sundargarh health centre; police begin probe",
+    "summary": "A 34-year-old mentally ill man was allegedly tied to a tree and beaten by staff at the Majhapada community health centre in Odisha's Sundargarh district on Wednesday. Police rescued him and sent him to the district headquarters hospital; a complaint has been filed and the police say they will speak to the doctor and staff involved."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुंदरगढ़ के स्वास्थ्य केंद्र में मानसिक रूप से बीमार युवक को पेड़ से बांधकर पीटने का आरोप, पुलिस ने जांच शुरू की",
+    "summary": "ओडिशा के सुंदरगढ़ जिले के मझापाड़ा सामुदायिक स्वास्थ्य केंद्र में बुधवार को मानसिक रूप से बीमार 34 साल के युवक को पेड़ से बांधकर पीटने का आरोप लगा है। पुलिस ने उसे छुड़ाकर जिला मुख्यालय अस्पताल भेजा है। मामले में शिकायत दर्ज हुई है और पुलिस का कहना है कि वह डॉक्टर और संबंधित कर्मियों से बात करेगी।"
+   },
+   "id": "sundargarh-mentally-ill-man-tied-to-tree-chc-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sundargarh-mentally-ill-man-tied-to-tree-chc-november-26.jpg",
+   "publishedAt": "2026-11-26T16:01:10+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Sundargarh",
+   "state": "Odisha"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baba-aparajith-retires-first-class-cricket-32-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baba-aparajith-retires-first-class-cricket-32-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Cricket & Sports",
+   "en": {
+    "title": "Baba Aparajith, member of India's 2012 Under-19 World Cup-winning team, retires from first-class cricket at 32",
+    "summary": "Former India Under-19 World Cup winner Baba Aparajith has announced his retirement from first-class cricket at 32, closing a 102-match red-ball career in which he scored 5,199 runs for Tamil Nadu and Kerala. The all-rounder, who never played an IPL match despite being in the Chennai Super Kings squad from 2013 to 2015, says he will now focus on coaching and commentary — and has registered for the IPL 2027 auction."
+   },
+   "featured": false,
+   "hi": {
+    "title": "भारत की 2012 अंडर-19 विश्व कप विजेता टीम के सदस्य बाबा अपराजित ने 32 साल की उम्र में प्रथम श्रेणी क्रिकेट से संन्यास लिया",
+    "summary": "भारत के पूर्व अंडर-19 विश्व कप विजेता बाबा अपराजित ने 32 साल की उम्र में प्रथम श्रेणी क्रिकेट से संन्यास की घोषणा की है। तमिलनाडु और केरल के लिए 102 मैचों में 5,199 रन बनाने वाले इस ऑलराउंडर ने इंस्टाग्राम पर लिखा है कि उन्होंने अपना आखिरी प्रथम श्रेणी मैच 24 जनवरी 2026 को खेला था। अब वह कोचिंग और कमेंट्री पर ध्यान देंगे और उन्होंने आईपीएल 2027 की नीलामी के लिए पंजीकरण कराया है।"
+   },
+   "id": "baba-aparajith-retires-first-class-cricket-32-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/baba-aparajith-retires-first-class-cricket-32-november-26.jpg",
+   "publishedAt": "2026-11-26T16:01:10+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Cricket",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vardhaman-jain-donates-121-kg-gold-tirumala-temple-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vardhaman-jain-donates-121-kg-gold-tirumala-temple-november-26-hi.mp3",
@@ -3283,52 +3327,6 @@
    "en": {
     "title": "Meerut hotel case: Accused Salman arrested after encounter, pleads 'sir, I made a mistake, forgive me'",
     "summary": "Police in Meerut on Wednesday arrested Salman, the accused in the widely reported hotel case, after an encounter near an underpass under construction. Police say he opened fire on the team when cornered, then fell from a bridge while fleeing and injured his leg and hand. He is accused of holding a young woman captive in a hotel and dragging her through the street."
-   }
-  },
-  {
-   "id": "puducherry-dengue-four-deaths-1362-cases-november-25",
-   "category": "Health",
-   "sub": "Diseases",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:27:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/puducherry-dengue-four-deaths-1362-cases-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puducherry-dengue-four-deaths-1362-cases-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/puducherry-dengue-four-deaths-1362-cases-november-25-en.mp3",
-   "district": "Puducherry",
-   "state": "Puducherry",
-   "hi": {
-    "title": "पुडुचेरी में 4 दिन में डेंगू से 4 मौतें, 2026 में 1,362 मामले — अस्पतालों में चिंता, घर-घर जाएगी जांच टीम",
-    "summary": "पुडुचेरी में पिछले 4 दिनों में डेंगू से 4 लोगों की मौत हो गई है, जिनमें 1 नर्सिंग अधिकारी और 2 छात्र शामिल हैं। इस साल केंद्र शासित प्रदेश में डेंगू के 1,362 मामले सामने आ चुके हैं, जबकि 2025 में पूरे साल 902 मामले थे। स्वास्थ्य विभाग 25 नवंबर से सभी प्राथमिक और सामुदायिक स्वास्थ्य केंद्रों पर डोमेस्टिक ब्रीडिंग चेकर टीमें तैनात करेगा।"
-   },
-   "en": {
-    "title": "Four dengue deaths in four days in Puducherry as 2026 cases reach 1,362; breeding-checker teams to fan out",
-    "summary": "Four people, including a nursing officer and two students, have died of dengue in Puducherry in the past four days. The Union Territory has recorded 1,362 dengue cases in 2026, against 902 in all of 2025. The health department will deploy Domestic Breeding Checker teams at all primary and community health centres from 25 November."
-   }
-  },
-  {
-   "id": "west-champaran-tiger-attack-farmer-ramsagar-ram-killed-november-25",
-   "category": "State & Local",
-   "sub": "Bihar",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T15:27:40+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/west-champaran-tiger-attack-farmer-ramsagar-ram-killed-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-champaran-tiger-attack-farmer-ramsagar-ram-killed-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/west-champaran-tiger-attack-farmer-ramsagar-ram-killed-november-25-en.mp3",
-   "district": "West Champaran",
-   "state": "Bihar",
-   "hi": {
-    "title": "पश्चिम चंपारण में बाघ के हमले से किसान रामसागर राम की मौत, शव रखकर ग्रामीणों ने जाम की सड़क",
-    "summary": "बिहार के पश्चिम चंपारण जिले में मंगलवार शाम वाल्मीकि टाइगर रिजर्व के पास बाघ के हमले में 50 साल के किसान रामसागर राम की मौत हो गई। घटना से गुस्साए ग्रामीणों ने शव सड़क पर रखकर बगहा-वाल्मीकिनगर मार्ग घंटों तक जाम रखा। वन विभाग ने मुआवजे की प्रक्रिया शुरू कर दी है।"
-   },
-   "en": {
-    "title": "Farmer Ramsagar Ram killed in tiger attack in Bihar's West Champaran; villagers block road with body in protest",
-    "summary": "A 50-year-old farmer, Ramsagar Ram, was killed in a tiger attack near the Valmiki Tiger Reserve in Bihar's West Champaran district on Tuesday evening. Angry villagers blocked the Bagaha-Valmikinagar road for hours with the body, protesting against the Forest Department. Officials have begun compensation formalities."
    }
   }
  ]
