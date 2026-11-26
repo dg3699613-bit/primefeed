@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T14:33:27+05:30",
+ "updatedAt": "2026-11-26T14:56:19+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jabalpur-mother-daughter-found-dead-narmada-nagar-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jabalpur-mother-daughter-found-dead-narmada-nagar-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Jabalpur: mother and 9-year-old daughter found dead at home; police recover note, probe family dispute",
+    "summary": "A 40-year-old woman, Anjana Kushwaha, and her 9-year-old daughter Muskan were found dead at their home in Narmada Nagar, Jabalpur, on Thursday. Police have registered a case of unnatural death; the 2 are believed to have died by suicide and a note has been recovered. The family alleges the husband harassed Anjana, a claim police say is unconfirmed."
+   },
+   "featured": false,
+   "hi": {
+    "title": "जबलपुर: मां और 9 साल की बेटी घर में मृत मिलीं; पुलिस को नोट मिला, पारिवारिक विवाद की जांच शुरू",
+    "summary": "जबलपुर के नर्मदा नगर में गुरुवार को 40 साल की अंजना कुशवाहा और उनकी 9 साल की बेटी मुस्कान घर में मृत मिलीं। पुलिस ने अप्राकृतिक मौत का मामला दर्ज किया है; शुरुआती जांच में दोनों की मौत आत्महत्या से हुई लगती है और घर से 1 नोट मिला है। परिजनों का आरोप है कि पति अंजना को प्रताड़ित करता था, जिसकी पुलिस के मुताबिक अभी पुष्टि नहीं हुई है।"
+   },
+   "id": "jabalpur-mother-daughter-found-dead-narmada-nagar-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jabalpur-mother-daughter-found-dead-narmada-nagar-november-26.jpg",
+   "publishedAt": "2026-11-26T14:52:33+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": false,
+   "district": "Jabalpur",
+   "state": "Madhya Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-bomb-threat-jalsa-mayor-office-metro-stations-26-11-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/mumbai-bomb-threat-jalsa-mayor-office-metro-stations-26-11-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Mumbai on alert as threat email names Jalsa, Mayor's office and Metro stations on 26/11 anniversary",
+    "summary": "A threat email sent to Mumbai Mayor Ritu Tawde and BMC Commissioner Ashwini Bhide on Thursday, the 18th anniversary of the 26/11 attacks, named Amitabh Bachchan's Jalsa bungalow, the Mayor's office, Metro stations and Diljit Dosanjh's concert as targets, claiming explosives had been planted and warning of grenade attacks over the next 30 days. Police say the claims are unverified and an investigation is under way; a bomb squad inspected the BMC premises."
+   },
+   "featured": false,
+   "hi": {
+    "title": "26/11 की बरसी पर धमकी भरा ईमेल: जलसा, मेयर कार्यालय और मेट्रो स्टेशन निशाने पर, मुंबई अलर्ट पर",
+    "summary": "गुरुवार को 26/11 हमलों की 18वीं बरसी पर मुंबई की मेयर ऋतु तावड़े और बीएमसी आयुक्त अश्विनी भिडे को भेजे गए 1 धमकी भरे ईमेल में अमिताभ बच्चन के बंगले जलसा, मेयर कार्यालय, मेट्रो स्टेशनों और दिलजीत दोसांझ के कॉन्सर्ट को निशाना बनाने की बात कही गई। ईमेल में विस्फोटक लगाए जाने का दावा किया गया और अगले 30 दिनों में ग्रेनेड हमलों की धमकी दी गई। पुलिस के मुताबिक दावों की पुष्टि नहीं हुई है और जांच जारी है; बम निरोधक दस्ते ने बीएमसी परिसर की जांच की।"
+   },
+   "id": "mumbai-bomb-threat-jalsa-mayor-office-metro-stations-26-11-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/mumbai-bomb-threat-jalsa-mayor-office-metro-stations-26-11-november-26.jpg",
+   "publishedAt": "2026-11-26T14:52:33+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Mumbai",
+   "state": "Maharashtra"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/satna-kidnapping-ransom-accused-police-constable-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/satna-kidnapping-ransom-accused-police-constable-november-26-hi.mp3",
@@ -3289,50 +3335,6 @@
    "en": {
     "title": "Tamil Nadu signs 78 MoUs worth Rs 58,214 crore at VETTRI conclave, 65,786 jobs in the pipeline",
     "summary": "The Tamil Nadu government signed 78 investment agreements worth Rs 58,214 crore at the second VETTRI Investment and Conversion Conclave near Kovalam, projecting 65,786 jobs. With the latest pacts, total investment commitments in the government's first 200 days have crossed Rs 1.73 lakh crore."
-   }
-  },
-  {
-   "id": "seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25",
-   "category": "State & Local",
-   "sub": "South India",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T14:16:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/seven-kakinada-fishermen-safe-six-still-missing-bangladesh-myanmar-search-november-25-en.mp3",
-   "district": "Kakinada",
-   "state": "Andhra Pradesh",
-   "hi": {
-    "title": "काकिनाडा के 7 मछुआरे सुरक्षित मिले, 6 की तलाश अब बांग्लादेश-म्यांमार के समुद्र तक",
-    "summary": "आंध्र प्रदेश के काकिनाडा जिले के येतिमोगा गांव के 7 मछुआरे सुरक्षित मिल गए हैं। इंजन खराब होने से उनकी नाव कृष्णापुरम के पास समुद्र में फंस गई थी। वहीं, उप्पाडा के सुब्बंपेटा गांव के 6 मछुआरे 4 नवंबर से लापता हैं, और उनकी तलाश अब बांग्लादेश और म्यांमार के समुद्री क्षेत्र तक बढ़ा दी गई है।"
-   },
-   "en": {
-    "title": "Seven Kakinada fishermen found safe; search for six missing men now reaches Bangladesh and Myanmar waters",
-    "summary": "Seven fishermen from Yetimoga village in the Kakinada district of Andhra Pradesh have been found safe after their boat broke down at sea. Six other fishermen from Subbampeta in Uppada have been missing since 4 November, and the search for them has now been extended to the waters of Bangladesh and Myanmar."
-   }
-  },
-  {
-   "id": "supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T14:16:28+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-sets-aside-allahabad-hc-order-rahul-gandhi-assets-cbi-ed-november-25-en.mp3",
-   "hi": {
-    "title": "राहुल गांधी को सुप्रीम कोर्ट से बड़ी राहत, सीबीआई-ईडी जांच का इलाहाबाद हाई कोर्ट का आदेश रद्द",
-    "summary": "सुप्रीम कोर्ट ने बुधवार को राहुल गांधी की संपत्ति से जुड़े मामले में इलाहाबाद हाई कोर्ट के उस आदेश को रद्द कर दिया, जिसमें सीबीआई और ईडी को शिकायत की जांच करने को कहा गया था। मुख्य न्यायाधीश सूर्य कांत की अध्यक्षता वाली पीठ ने मामला हाई कोर्ट को नए सिरे से सुनवाई के लिए भेज दिया है।"
-   },
-   "en": {
-    "title": "Supreme Court sets aside Allahabad High Court order for CBI-ED probe into Rahul Gandhi's assets; fresh hearing ordered",
-    "summary": "The Supreme Court on Wednesday set aside orders of the Allahabad High Court directing the CBI and the Enforcement Directorate to examine allegations that Rahul Gandhi held assets disproportionate to his known sources of income. A bench led by Chief Justice Surya Kant sent the matter back to the High Court for a fresh hearing."
    }
   }
  ]
