@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T14:04:44+05:30",
+ "updatedAt": "2026-11-26T14:19:17+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bulandshahr-car-tractor-trolley-crash-two-killed-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bulandshahr-car-tractor-trolley-crash-two-killed-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Bulandshahr: car rams brick-laden tractor-trolley, 2 friends killed; 2 critical",
+    "summary": "A speeding car rammed into a brick-laden tractor-trolley from behind near MIT Degree College in Bulandshahr's Chola area on Wednesday night, killing 2 men on the spot and leaving 2 others critically injured."
+   },
+   "featured": false,
+   "hi": {
+    "title": "बुलंदशहर: ईंटों से लदी ट्रैक्टर-ट्रॉली में घुसी कार, 2 दोस्तों की मौत; 2 की हालत नाजुक",
+    "summary": "बुलंदशहर के चोला थाना क्षेत्र में बुधवार रात करीब 10 बजे खुर्जा से दिल्ली जा रही कार ईंटों से लदी ट्रैक्टर-ट्रॉली में पीछे से जा टकराई। हादसे में बागपत के विजय उर्फ पिंटू और दिल्ली के हेमंत की मौके पर मौत हो गई, जबकि गाजियाबाद के अमन और मनीष गंभीर रूप से घायल हैं।"
+   },
+   "id": "bulandshahr-car-tractor-trolley-crash-two-killed-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bulandshahr-car-tractor-trolley-crash-two-killed-november-26.jpg",
+   "publishedAt": "2026-11-26T14:15:14+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Uttar Pradesh",
+   "trending": true,
+   "district": "Bulandshahr",
+   "state": "Uttar Pradesh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-pawar-admitted-breach-candy-hospital-dehydration-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sharad-pawar-admitted-breach-candy-hospital-dehydration-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Politics",
+   "en": {
+    "title": "Sharad Pawar hospitalised again: admitted to Mumbai's Breach Candy Hospital over suspected dehydration",
+    "summary": "NCP (SP) chief Sharad Pawar, 85, was admitted to Mumbai's Breach Candy Hospital on Thursday with his condition appearing to be due to dehydration, his daughter and MP Supriya Sule said. Sule left a party meeting midway to be with her father."
+   },
+   "featured": false,
+   "hi": {
+    "title": "शरद पवार फिर ब्रीच कैंडी अस्पताल में भर्ती, डिहाइड्रेशन की आशंका; बेटी सुप्रिया सुले ने कहा — काम कम करें, सफर भी",
+    "summary": "राष्ट्रवादी कांग्रेस पार्टी (शरदचंद्र पवार) के प्रमुख शरद पवार (85) को गुरुवार को मुंबई के ब्रीच कैंडी अस्पताल में भर्ती कराया गया। उनकी बेटी और सांसद सुप्रिया सुले ने कहा कि डिहाइड्रेशन की आशंका है। सुले पार्टी की बैठक बीच में छोड़कर पिता के पास पहुँचीं।"
+   },
+   "id": "sharad-pawar-admitted-breach-candy-hospital-dehydration-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sharad-pawar-admitted-breach-candy-hospital-dehydration-november-26.jpg",
+   "publishedAt": "2026-11-26T14:15:14+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Regional Parties",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anuppur-kotma-nh43-truck-accident-two-killed-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/anuppur-kotma-nh43-truck-accident-two-killed-november-26-hi.mp3",
@@ -3289,50 +3333,6 @@
    "en": {
     "title": "Supreme Court sets aside Allahabad High Court order for CBI-ED probe into Rahul Gandhi's assets; fresh hearing ordered",
     "summary": "The Supreme Court on Wednesday set aside orders of the Allahabad High Court directing the CBI and the Enforcement Directorate to examine allegations that Rahul Gandhi held assets disproportionate to his known sources of income. A bench led by Chief Justice Surya Kant sent the matter back to the High Court for a fresh hearing."
-   }
-  },
-  {
-   "id": "brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25",
-   "category": "State & Local",
-   "sub": "Uttar Pradesh",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T13:54:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/brajesh-pathak-gonda-ram-katha-sanatan-flag-november-25-en.mp3",
-   "district": "Gonda",
-   "state": "Uttar Pradesh",
-   "hi": {
-    "title": "गोंडा की रामकथा में ब्रजेश पाठक बोले — जब तक संत हैं, सनातन का झंडा झुकने वाला नहीं",
-    "summary": "उत्तर प्रदेश के उप मुख्यमंत्री ब्रजेश पाठक गोंडा के जयप्रभा ग्राम में आयोजित श्रीराम कथा में शामिल हुए। मंच से उन्होंने कहा कि जब तक आलोक दास जी महाराज और राजन जी महाराज हैं, तब तक सनातन का झंडा झुकने वाला नहीं है। पत्रकारों से बातचीत में उन्होंने समाजवादी पार्टी पर तीखा हमला बोला और गोंडा के सीएमओ पर लगे आरोपों पर सख्त कार्रवाई का भरोसा दिया।"
-   },
-   "en": {
-    "title": "Brajesh Pathak at Gonda Ram Katha: 'As long as the saints are here, Sanatan's flag will not fall'",
-    "summary": "Uttar Pradesh Deputy Chief Minister Brajesh Pathak attended the Shri Ram Katha at Jayprabha village in Gonda, declaring from the stage that as long as the saints are here, Sanatan's flag will never fall. Speaking to reporters, he attacked the Samajwadi Party and promised strict action on the allegations against Gonda's Chief Medical Officer."
-   }
-  },
-  {
-   "id": "delhi-high-court-refuses-kartarpur-corridor-reopen-november-25",
-   "category": "India",
-   "sub": "Government & Policy",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T13:54:01+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/delhi-high-court-refuses-kartarpur-corridor-reopen-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-refuses-kartarpur-corridor-reopen-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/delhi-high-court-refuses-kartarpur-corridor-reopen-november-25-en.mp3",
-   "hi": {
-    "title": "करतारपुर कॉरिडोर: दिल्ली हाई कोर्ट ने खोलने का निर्देश देने से इनकार किया, कहा — यह नीतिगत फैसला है",
-    "summary": "दिल्ली हाई कोर्ट ने बुधवार को करतारपुर कॉरिडोर को फिर से खोलने का निर्देश देने की मांग वाली याचिका पर विचार करने से इनकार कर दिया। खंडपीठ ने कहा कि पहलगाम आतंकी हमले के बाद कॉरिडोर बंद करना नागरिकों के हित में लिया गया नीतिगत फैसला है, इसलिए इसमें दखल की कोई वजह नहीं है।"
-   },
-   "en": {
-    "title": "Kartarpur Corridor: Delhi High Court refuses to order reopening, calls closure a policy decision",
-    "summary": "The Delhi High Court on Wednesday refused to entertain a petition seeking directions to reopen the Kartarpur Corridor. The bench said closing the corridor after the Pahalgam terror attack was a policy decision taken in the interest of citizens, so there was no reason to interfere with it."
    }
   }
  ]
