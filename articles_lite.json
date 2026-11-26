@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T18:25:02+05:30",
+ "updatedAt": "2026-11-26T18:42:34+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-hc-summons-sndp-microfinance-probe-officer-reports-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kerala-hc-summons-sndp-microfinance-probe-officer-reports-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Kerala High Court summons officer probing Rs 15.85 crore SNDP microfinance case over delay in filing reports",
+    "summary": "The Kerala High Court has directed the investigating officer in the Rs 15.85-crore SNDP microfinance fraud case to appear in person on Friday and explain why only 1 of the 8 final reports ordered by the court has been filed, a day after the first chargesheet was filed against SNDP Yogam general secretary Vellappally Natesan and others before the Kollam Vigilance Court."
+   },
+   "featured": false,
+   "hi": {
+    "title": "केरल हाई कोर्ट ने एसएनडीपी माइक्रोफाइनेंस मामले के जाँच अधिकारी को तलब किया, 7 रिपोर्ट में देरी पर जवाब माँगा",
+    "summary": "केरल हाई कोर्ट ने 15.85 करोड़ रुपये के एसएनडीपी माइक्रोफाइनेंस धोखाधड़ी मामले के जाँच अधिकारी को शुक्रवार को अदालत में पेश होकर यह बताने का निर्देश दिया है कि अदालत के आदेश के बावजूद 8 में से सिर्फ 1 अंतिम रिपोर्ट ही क्यों दाखिल की गई। इससे 1 दिन पहले कोल्लम विजिलेंस अदालत में एसएनडीपी योगम के महासचिव वेल्लापल्ली नटेसन और अन्य के खिलाफ पहला आरोपपत्र दाखिल हुआ था।"
+   },
+   "id": "kerala-hc-summons-sndp-microfinance-probe-officer-reports-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kerala-hc-summons-sndp-microfinance-probe-officer-reports-november-26.jpg",
+   "publishedAt": "2026-11-26T18:35:24+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "Kollam",
+   "state": "Kerala"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-nifty-second-day-rally-close-near-10-month-highs-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-nifty-second-day-rally-close-near-10-month-highs-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Business",
+   "en": {
+    "title": "Sensex, Nifty stretch rally to second day, close at near 10-month highs on foreign inflows and IT buying",
+    "summary": "Benchmark indices Sensex and Nifty rose for a second straight session on Thursday, with the Sensex gaining 390.31 points to close at 84,328.59 and the Nifty up 65.25 points at 25,884.50, as sustained foreign fund inflows and heavy buying in IT stocks lifted the market to its highest levels in nearly 10 months."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सेंसेक्स और निफ्टी दूसरे दिन भी चढ़े, विदेशी निवेश और आईटी शेयरों की खरीद से करीब 10 महीने के उच्च स्तर पर बंद",
+    "summary": "बेंचमार्क सूचकांक सेंसेक्स और निफ्टी गुरुवार को लगातार दूसरे सत्र में बढ़े। सेंसेक्स 390.31 अंक चढ़कर 84,328.59 पर और निफ्टी 65.25 अंक बढ़कर 25,884.50 पर बंद हुआ। विदेशी निवेशकों की लगातार खरीद और आईटी शेयरों में भारी खरीद से बाजार करीब 10 महीने के उच्चतम स्तर पर पहुंच गया।"
+   },
+   "id": "sensex-nifty-second-day-rally-close-near-10-month-highs-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-nifty-second-day-rally-close-near-10-month-highs-november-26.jpg",
+   "publishedAt": "2026-11-26T18:35:24+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Share Market",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-attaches-61-vuenow-properties-39-crore-1917-crore-investor-fraud-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ed-attaches-61-vuenow-properties-39-crore-1917-crore-investor-fraud-november-26-hi.mp3",
@@ -3286,50 +3330,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/ratna-bhandar-inventory-resumes-puri-november-26-november-25.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ratna-bhandar-inventory-resumes-puri-november-26-november-25-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ratna-bhandar-inventory-resumes-puri-november-26-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "Politics",
-   "en": {
-    "title": "UP 2027: BJP's CM face will be decided by MLAs after polls, says Keshav Maurya; Yogi says 'everyone knows who is who'",
-    "summary": "Uttar Pradesh Deputy Chief Minister Keshav Prasad Maurya said on Wednesday that the BJP will contest the 2027 Assembly elections on its lotus symbol and that the chief minister will be chosen by the MLAs elected after the polls. Chief Minister Yogi Adityanath said the lotus was everything for the party and that 'everyone knows who is who'."
-   },
-   "featured": false,
-   "hi": {
-    "title": "यूपी 2027: मौर्य बोले, चुनाव के बाद विधायक चुनेंगे मुख्यमंत्री; योगी बोले, कौन क्या है, यह सबको पता है",
-    "summary": "उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने बुधवार को कहा कि 2027 के विधानसभा चुनाव में भाजपा कमल के फूल पर लड़ेगी और मुख्यमंत्री का फैसला चुनाव के बाद चुने गए विधायक करेंगे। मुख्यमंत्री योगी आदित्यनाथ ने भी साफ कहा कि कमल ही सबकुछ है और कौन क्या है, यह सबको पता है।"
-   },
-   "id": "keshav-maurya-yogi-cm-face-up-2027-november-25",
-   "source": "PrimeFeed Desk",
-   "sub": "Elections",
-   "trending": true,
-   "publishedAt": "2026-11-25T17:34:09+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/keshav-maurya-yogi-cm-face-up-2027-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/keshav-maurya-yogi-cm-face-up-2027-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/keshav-maurya-yogi-cm-face-up-2027-november-25-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Hoshiarpur",
-   "en": {
-    "title": "Leopard rescued from Sonalika tractor factory in Hoshiarpur after 12-hour operation",
-    "summary": "A leopard that strayed into Sonalika International Tractors' factory in Hoshiarpur around 12:30 am was tranquilised and rescued after an operation lasting nearly 12 hours. The factory had to be shut and the morning shift cancelled; no one was injured."
-   },
-   "featured": false,
-   "hi": {
-    "title": "होशियारपुर: सोनालिका फैक्ट्री में घुसा तेंदुआ, 12 घंटे के ऑपरेशन के बाद बेहोश करके पकड़ा गया",
-    "summary": "होशियारपुर में सोनालिका इंटरनेशनल ट्रैक्टर्स की फैक्ट्री में रात करीब 12:30 बजे घुसा तेंदुआ करीब 12 घंटे बाद बेहोश करके पकड़ा गया। वन विभाग की टीम ने सीसीटीवी और ड्रोन की मदद से उसे कन्वेयर बेल्ट के नीचे छिपा पाया। फैक्ट्री बंद करनी पड़ी और सुबह की शिफ्ट रद्द कर दी गई; किसी को चोट नहीं आई।"
-   },
-   "id": "leopard-rescued-sonalika-factory-hoshiarpur-november-25",
-   "source": "PrimeFeed Desk",
-   "state": "Punjab",
-   "sub": "Others",
-   "trending": true,
-   "publishedAt": "2026-11-25T17:19:40+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/leopard-rescued-sonalika-factory-hoshiarpur-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-rescued-sonalika-factory-hoshiarpur-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/leopard-rescued-sonalika-factory-hoshiarpur-november-25-en.mp3"
   }
  ]
 }
