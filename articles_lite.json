@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-27T01:30:50+05:30",
+ "updatedAt": "2026-11-27T01:47:52+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gariaband-speeding-car-hits-three-college-girls-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gariaband-speeding-car-hits-three-college-girls-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Speeding car runs over 3 college girls in Gariaband, 1 critical; CCTV captures the horror, driver held",
+    "summary": "A speeding Kia car hit 3 college girls walking home from college on National Highway 130-C near the old SP office in Gariaband on Thursday afternoon, leaving 1 of them critically injured with a spinal injury. The entire incident was caught on a nearby shop's CCTV camera. Locals caught the driver and handed him to the police, who have seized the car and started an investigation."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गरियाबंद में तेज रफ्तार कार ने कॉलेज की 3 छात्राओं को रौंदा, 1 की हालत गंभीर; सीसीटीवी में कैद हादसा, चालक पकड़ा गया",
+    "summary": "गरियाबंद में गुरुवार दोपहर कॉलेज से घर लौट रहीं 3 छात्राओं को राष्ट्रीय राजमार्ग 130-सी पर पीछे से आ रही तेज रफ्तार कार ने रौंद दिया। हादसे में 1 छात्रा की रीढ़ की हड्डी में गंभीर चोट आई है। पूरी घटना पास की दुकान के सीसीटीवी कैमरे में कैद हो गई। लोगों ने चालक को पकड़कर पुलिस के हवाले कर दिया, पुलिस ने कार जब्त कर जांच शुरू कर दी है।"
+   },
+   "id": "gariaband-speeding-car-hits-three-college-girls-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gariaband-speeding-car-hits-three-college-girls-november-26.jpg",
+   "publishedAt": "2026-11-27T01:43:54+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": true,
+   "district": "Gariaband",
+   "state": "Chhattisgarh"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uk-net-migration-falls-77000-lowest-since-1997-indians-largest-group-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/uk-net-migration-falls-77000-lowest-since-1997-indians-largest-group-november-26-hi.mp3",
+   "breaking": false,
+   "category": "World",
+   "en": {
+    "title": "UK net migration falls to 77,000, lowest since 1997; Indians largest group entering and leaving the country",
+    "summary": "Net migration to the UK fell to 77,000 in the year to June 2026, its lowest level since 1997 outside the pandemic, according to official figures released on Thursday. Indians were the largest foreign nationality group both arriving and leaving: 85,000 Indians emigrated during the year, more than any other nationality, while Indians also topped the arrivals list, with 77,000 coming to study."
+   },
+   "featured": false,
+   "hi": {
+    "title": "ब्रिटेन में शुद्ध प्रवासन घटकर 77,000, 1997 के बाद सबसे कम; आने-जाने वालों में भारतीय सबसे ज्यादा",
+    "summary": "गुरुवार को जारी आधिकारिक आंकड़ों के अनुसार जून 2026 को समाप्त वर्ष में ब्रिटेन में शुद्ध प्रवासन घटकर 77,000 रह गया, जो महामारी को छोड़कर 1997 के बाद सबसे कम है। आने और जाने वाले विदेशियों में भारतीय सबसे बड़ा समूह रहे: वर्ष के दौरान 85,000 भारतीय ब्रिटेन से गए, जो किसी भी अन्य राष्ट्रीयता से ज्यादा है, जबकि आने वालों में भी भारतीय सबसे आगे रहे और 77,000 पढ़ाई के लिए आए।"
+   },
+   "id": "uk-net-migration-falls-77000-lowest-since-1997-indians-largest-group-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/uk-net-migration-falls-77000-lowest-since-1997-indians-largest-group-november-26.jpg",
+   "publishedAt": "2026-11-27T01:43:54+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Europe",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ropar-bharatgarh-truck-car-crash-three-killed-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/ropar-bharatgarh-truck-car-crash-three-killed-november-26-hi.mp3",
@@ -3282,50 +3326,6 @@
    "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody.jpg",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody-hi.mp3",
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/manipur-spurious-liquor-toll-rises-to-20-nine-arrested-remanded-police-custody-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "India",
-   "en": {
-    "title": "Vande Mataram row in Srinagar: Clerics apologise for standing at Waqf Day event as Mirwaiz-led body objects",
-    "summary": "Vande Mataram at a Waqf Day event in Srinagar sparks a row: clerics who stood during the song apologise, and the Mirwaiz-led Muttahida Majlis-e-Ulama objects and says it will seek legal opinion."
-   },
-   "featured": false,
-   "hi": {
-    "title": "वंदे मातरम् पर श्रीनगर में बवाल: वक्फ समारोह में खड़े हुए मौलानाओं ने माँगी माफी, उलेमा संगठन ने जताया एतराज़",
-    "summary": "श्रीनगर में वक्फ दिवस समारोह में वंदे मातरम् बजने पर विवाद: खड़े हुए मौलानाओं ने माँगी माफी, मीरवाइज़ की अगुवाई वाली मुत्तहिदा मजलिस-ए-उलेमा ने जताया एतराज़ और कानूनी राय लेने की बात कही।"
-   },
-   "id": "vande-mataram-row-srinagar-waqf-day-clerics-apologise-mmu-objects",
-   "source": "PrimeFeed Desk",
-   "sub": "National",
-   "trending": true,
-   "publishedAt": "2026-11-26T01:40:39+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/vande-mataram-row-srinagar-waqf-day-clerics-apologise-mmu-objects.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vande-mataram-row-srinagar-waqf-day-clerics-apologise-mmu-objects-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/vande-mataram-row-srinagar-waqf-day-clerics-apologise-mmu-objects-en.mp3"
-  },
-  {
-   "breaking": false,
-   "category": "State & Local",
-   "district": "Gonda",
-   "en": {
-    "title": "Gonda's potholed roads turn deadly: 287 killed in 564 accidents in 10 months; schoolboy breaks leg in fall",
-    "summary": "Gonda's potholed roads turn deadly: 287 people killed in 564 accidents between January and October, 357 injured; a Class 9 student broke his leg after falling on a damaged stretch."
-   },
-   "featured": false,
-   "hi": {
-    "title": "गोंडा की सड़कों पर जान का खतरा: 10 महीने में 564 हादसे, 287 मौतें; गड्ढे में गिरकर छात्र का पैर टूटा",
-    "summary": "गोंडा की गड्ढों वाली सड़कों पर हादसे बढ़े: जनवरी से अक्टूबर तक 564 हादसों में 287 लोगों की मौत, 357 घायल; गड्ढे में गिरकर कक्षा 9 के छात्र का पैर टूटा।"
-   },
-   "id": "gonda-potholed-roads-287-killed-564-accidents-10-months",
-   "source": "PrimeFeed Desk",
-   "state": "Uttar Pradesh",
-   "sub": "Uttar Pradesh",
-   "trending": false,
-   "publishedAt": "2026-11-26T01:40:39+05:30",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/gonda-potholed-roads-287-killed-564-accidents-10-months.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-potholed-roads-287-killed-564-accidents-10-months-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/gonda-potholed-roads-287-killed-564-accidents-10-months-en.mp3"
   }
  ]
 }
