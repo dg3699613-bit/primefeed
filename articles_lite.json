@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T13:12:47+05:30",
+ "updatedAt": "2026-11-26T13:25:15+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baramati-traffic-constable-dragged-on-thar-bonnet-fancy-number-plate-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/baramati-traffic-constable-dragged-on-thar-bonnet-fancy-number-plate-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Traffic constable dragged on Thar bonnet in Baramati after stopping SUV over fancy number plate",
+    "summary": "A traffic constable in Maharashtra's Baramati was allegedly hit by a black Thar and dragged on its bonnet for 40 to 50 feet after he stopped the SUV to photograph its fancy number plate for an e-challan. He suffered hand and leg injuries; police have registered a case and are tracing the driver, who fled the spot."
+   },
+   "featured": false,
+   "hi": {
+    "title": "फैंसी नंबर प्लेट पर थार रोकने पर ड्राइवर ने ट्रैफिक कॉन्स्टेबल को बोनट पर घसीटा, बारामती की घटना सीसीटीवी में कैद",
+    "summary": "महाराष्ट्र के बारामती में ट्रैफिक कॉन्स्टेबल को काली थार ने कथित तौर पर टक्कर मारकर बोनट पर 40 से 50 फुट तक घसीटा। कॉन्स्टेबल ई-चालान के लिए गाड़ी की फैंसी नंबर प्लेट की फोटो ले रहा था। उसके हाथ और पैर में चोट आई है; पुलिस ने मामला दर्ज कर फरार ड्राइवर की तलाश शुरू कर दी है।"
+   },
+   "id": "baramati-traffic-constable-dragged-on-thar-bonnet-fancy-number-plate-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/baramati-traffic-constable-dragged-on-thar-bonnet-fancy-number-plate-november-25.jpg",
+   "publishedAt": "2026-11-26T13:21:53+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Police & Crime",
+   "trending": true,
+   "district": "Pune",
+   "state": "Maharashtra"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-clears-spacex-one-million-satellites-data-centres-space-november-25-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/us-clears-spacex-one-million-satellites-data-centres-space-november-25-hi.mp3",
+   "breaking": false,
+   "category": "Science",
+   "en": {
+    "title": "US clears SpaceX to deploy 1 million satellites for data centres in space in a world first",
+    "summary": "The US Federal Communications Commission has authorised Elon Musk's SpaceX to deploy up to 1 million satellites that will work as data centres in orbit, the first approval of its kind. The Starmind constellation is meant to power AI computing from space, though scientists and rivals question whether a million satellites will ever fly."
+   },
+   "featured": false,
+   "hi": {
+    "title": "अमेरिका ने स्पेसएक्स को अंतरिक्ष में 10 लाख सैटेलाइट से डेटा सेंटर बनाने की मंजूरी दी",
+    "summary": "अमेरिका के संघीय संचार आयोग ने एलन मस्क की स्पेसएक्स को अंतरिक्ष में 10 लाख सैटेलाइट तैनात करने की मंजूरी दे दी है, जो कक्षा में डेटा सेंटर का काम करेंगे। स्टारमाइंड नाम का यह समूह अंतरिक्ष से एआई कंप्यूटिंग को ताकत देगा, लेकिन वैज्ञानिकों और प्रतिद्वंद्वियों को शक है कि 10 लाख सैटेलाइट कभी उड़ भी पाएँगे या नहीं।"
+   },
+   "id": "us-clears-spacex-one-million-satellites-data-centres-space-november-25",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/us-clears-spacex-one-million-satellites-data-centres-space-november-25.jpg",
+   "publishedAt": "2026-11-26T13:21:53+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Space",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/koraput-church-demolished-day-after-vandalism-complaint-november-25-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/koraput-church-demolished-day-after-vandalism-complaint-november-25-hi.mp3",
@@ -3292,52 +3336,6 @@
    },
    "district": "Cuttack",
    "state": "Odisha"
-  },
-  {
-   "id": "dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each",
-   "category": "Crime & Law",
-   "sub": "Courts",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T12:53:11+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/dhanaraj-murder-case-three-convicts-get-life-term-five-lakh-fine-each-en.mp3",
-   "en": {
-    "title": "Dhanaraj murder case: Three convicts get life term and Rs 5 lakh fine each — 'accused don't deserve mercy,' says court",
-    "summary": "A court in Taliparamba, Kerala, has sentenced three men convicted of murdering CPI(M) leader C. V. Dhanaraj in Payyannur in 2016 to life imprisonment, with a fine of ₹5 lakh each. Pronouncing the sentence, the court said the accused 'do not deserve mercy.'"
-   },
-   "hi": {
-    "title": "धनराज हत्याकांड: 3 दोषियों को उम्रकैद, 5-5 लाख जुर्माना, कोर्ट बोला, 'दया के हकदार नहीं'",
-    "summary": "केरल के कन्नूर जिले के पय्यन्नूर में 2016 में सीपीएम नेता सी. वी. धनराज की हत्या के मामले में तलिपरंबा की अदालत ने 3 दोषियों को उम्रकैद की सजा सुनाई है। तीनों पर 5-5 लाख रुपये का जुर्माना भी लगाया गया है। कोर्ट ने कहा कि दोषी दया के हकदार नहीं हैं।"
-   },
-   "district": "Kannur",
-   "state": "Kerala"
-  },
-  {
-   "id": "jalgaon-family-six-thrown-into-canal-surat-three-dead-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T12:27:13+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/jalgaon-family-six-thrown-into-canal-surat-three-dead-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalgaon-family-six-thrown-into-canal-surat-three-dead-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/jalgaon-family-six-thrown-into-canal-surat-three-dead-november-25-en.mp3",
-   "en": {
-    "title": "Jalgaon family of six thrown into Gujarat canal: three dead, two children missing, 13-year-old survives",
-    "summary": "A family of six from Erandol village in Maharashtra's Jalgaon district was allegedly waylaid near Bardoli in Gujarat on the night of November 22 and thrown into the Ukai Left Bank canal. Three bodies have been recovered, a 13-year-old boy survived, and two children are still missing. Police have booked four men and formed six teams to trace them."
-   },
-   "hi": {
-    "title": "जलगांव के परिवार के 6 लोगों को गुजरात में नहर में फेंका: 3 की मौत, 2 बच्चे लापता, 13 साल का लड़का बच गया",
-    "summary": "महाराष्ट्र के जलगांव जिले के एरंडोल गांव का 6 लोगों का परिवार 22 नवंबर की रात गुजरात के बारडोली के पास एक गिरोह के हत्थे चढ़ गया और उसे उकाई लेफ्ट बैंक नहर में फेंक दिया गया। 3 लोगों के शव मिले हैं, 13 साल का एक लड़का बच गया है और 2 बच्चे अभी भी लापता हैं। पुलिस ने 4 लोगों के खिलाफ मामला दर्ज कर उनकी तलाश के लिए 6 टीमें बनाई हैं।"
-   },
-   "district": "Jalgaon",
-   "state": "Maharashtra"
   }
  ]
 }
