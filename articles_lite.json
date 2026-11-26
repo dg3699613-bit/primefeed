@@ -1,6 +1,50 @@
 {
- "updatedAt": "2026-11-26T11:34:51+05:30",
+ "updatedAt": "2026-11-26T11:55:27+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-buses-off-roads-as-indefinite-transport-strike-begins-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/assam-buses-off-roads-as-indefinite-transport-strike-begins-november-26-hi.mp3",
+   "breaking": false,
+   "category": "State & Local",
+   "en": {
+    "title": "Buses off the roads in Assam as transporters begin indefinite strike; Guwahati commuters stranded",
+    "summary": "Commercial buses stayed off Assam’s roads on Thursday as transport operators began an indefinite strike over safety-device rules and testing facilities. Commuters in Guwahati were left stranded at Khanapara and the Inter-State Bus Terminal, with a meeting with the transport secretary due at 1 PM."
+   },
+   "featured": false,
+   "hi": {
+    "title": "असम में बसें सड़कों से गायब, परिवहन संचालकों की अनिश्चितकालीन हड़ताल शुरू; गुवाहाटी में यात्री परेशान",
+    "summary": "गुरुवार को असम में वाणिज्यिक बसें सड़कों से गायब रहीं, क्योंकि सुरक्षा उपकरणों के नियमों और जाँच सुविधाओं को लेकर परिवहन संचालकों ने अनिश्चितकालीन हड़ताल शुरू कर दी। गुवाहाटी में खानापारा और अंतरराज्यीय बस टर्मिनल पर यात्री फँसे रहे, और दोपहर 1 बजे परिवहन सचिव से बैठक होनी है।"
+   },
+   "id": "assam-buses-off-roads-as-indefinite-transport-strike-begins-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/assam-buses-off-roads-as-indefinite-transport-strike-begins-november-26.jpg",
+   "publishedAt": "2026-11-26T11:50:04+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Others",
+   "trending": true,
+   "district": "Kamrup Metro",
+   "state": "Assam"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-quashes-anand-mohan-release-orders-surrender-within-1-month-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/supreme-court-quashes-anand-mohan-release-orders-surrender-within-1-month-hi.mp3",
+   "breaking": true,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Supreme Court quashes Anand Mohan's premature release in 1994 DM murder case, orders surrender within 1 month",
+    "summary": "The Supreme Court on Thursday quashed former MP Anand Mohan’s premature release in the 1994 lynching of Gopalganj DM G Krishnaiah, striking down Bihar’s 2023 prison-rule amendment as arbitrary and violative of Article 14. Mohan must surrender within 1 month, failing which he will be taken into custody."
+   },
+   "featured": false,
+   "hi": {
+    "title": "सुप्रीम कोर्ट ने रद्द की आनंद मोहन की समय से पहले रिहाई, 1 महीने में आत्मसमर्पण का आदेश",
+    "summary": "सुप्रीम कोर्ट ने गुरुवार को 1994 में गोपालगंज के जिलाधिकारी जी कृष्णैया की हत्या के मामले में पूर्व सांसद आनंद मोहन की समय से पहले रिहाई रद्द कर दी और बिहार के 2023 के कारागार नियम संशोधन को मनमाना व अनुच्छेद 14 का उल्लंघन बताते हुए खारिज कर दिया। मोहन को 1 महीने के भीतर आत्मसमर्पण करना होगा, वरना उसे हिरासत में लिया जाएगा।"
+   },
+   "id": "supreme-court-quashes-anand-mohan-release-orders-surrender-within-1-month",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/supreme-court-quashes-anand-mohan-release-orders-surrender-within-1-month.jpg",
+   "publishedAt": "2026-11-26T11:50:04+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-illegal-gold-mine-flood-13-dead-13-trapped-bogor-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/indonesia-illegal-gold-mine-flood-13-dead-13-trapped-bogor-november-26-hi.mp3",
@@ -3291,48 +3335,6 @@
    "en": {
     "title": "Puerto Rico's Jennifer Barreto crowned Miss Universe 2026; India's Kaziah Liz Mejo reaches Top 30",
     "summary": "Jennifer Barreto, 27, of Puerto Rico has been crowned Miss Universe 2026. She beat 116 contestants in the final of the pageant's 75th edition in San Juan. India's Kaziah Liz Mejo reached the Top 30 but could not make it to the Top 12."
-   }
-  },
-  {
-   "id": "kuki-naga-leaders-agree-christmas-truce-fresh-talks-november-25",
-   "category": "State & Local",
-   "sub": "Others",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T10:30:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/kuki-naga-leaders-agree-christmas-truce-fresh-talks-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kuki-naga-leaders-agree-christmas-truce-fresh-talks-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kuki-naga-leaders-agree-christmas-truce-fresh-talks-november-25-en.mp3",
-   "en": {
-    "title": "Kuki, Naga leaders agree to push for Christmas truce, fresh talks before Christmas",
-    "summary": "Kuki and Naga leaders in Manipur have agreed to work towards a Christmas truce and hold another round of talks before Christmas, after a three-day prayer and peace summit in Kolkata. The Forum for Naga Reconciliation said the leaders acknowledged how deeply they have hurt one another and agreed to a forward-looking process to address the roots of the conflict."
-   },
-   "hi": {
-    "title": "मणिपुर में शांति की ओर बड़ा कदम: कुकी-नागा नेताओं ने क्रिसमस ट्रूस पर सहमति जताई, क्रिसमस से पहले फिर होगी बातचीत",
-    "summary": "मणिपुर के कुकी और नागा नेताओं ने क्रिसमस ट्रूस की दिशा में काम करने और क्रिसमस से पहले बातचीत का एक और दौर आयोजित करने पर सहमति जताई है। कोलकाता में 3 दिन तक चले प्रार्थना और शांति शिखर सम्मेलन के बाद फ़ोरम फ़ॉर नागा रीकंसिलिएशन ने कहा कि नेताओं ने स्वीकार किया कि उन्होंने एक-दूसरे को कितनी गहरी चोट पहुंचाई है।"
-   }
-  },
-  {
-   "id": "sensex-surges-1410-points-nifty-above-25700-november-25",
-   "category": "Business",
-   "sub": "Share Market",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T10:30:14+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/sensex-surges-1410-points-nifty-above-25700-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-surges-1410-points-nifty-above-25700-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/sensex-surges-1410-points-nifty-above-25700-november-25-en.mp3",
-   "en": {
-    "title": "Sensex surges 1,410 points in early trade, Nifty tops 25,700 as banks, IT lead rally",
-    "summary": "Indian stock markets opened sharply higher on Wednesday, with the Sensex up 1,410.75 points to 83,846.74 by 9:16 am and the Nifty 50 gaining 385.95 points to 25,735.60. Foreign investors bought equities worth Rs 5,672.99 crore on Monday, and lower crude oil prices also supported the rally."
-   },
-   "hi": {
-    "title": "सेंसेक्स शुरुआती कारोबार में 1,410 अंक उछला, निफ़्टी 25,700 के पार; बैंक-आईटी शेयरों में तेज़ी",
-    "summary": "भारतीय शेयर बाज़ार बुधवार को तेज़ बढ़त के साथ खुले। सुबह 9:16 बजे तक सेंसेक्स 1,410.75 अंक चढ़कर 83,846.74 पर और निफ़्टी 50 में 385.95 अंक की बढ़त के साथ 25,735.60 पर पहुंच गया। विदेशी निवेशकों ने सोमवार को 5,672.99 करोड़ रुपये के शेयर ख़रीदे, और कच्चे तेल की कीमतों में गिरावट से भी बाज़ार को सहारा मिला।"
    }
   }
  ]
