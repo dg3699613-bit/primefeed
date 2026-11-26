@@ -1,6 +1,52 @@
 {
- "updatedAt": "2026-11-26T12:09:42+05:30",
+ "updatedAt": "2026-11-26T12:20:20+05:30",
  "articles": [
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/home-secretary-govind-mohan-ib-director-security-review-jammu-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/home-secretary-govind-mohan-ib-director-security-review-jammu-november-26-hi.mp3",
+   "breaking": false,
+   "category": "India",
+   "en": {
+    "title": "Home Secretary Govind Mohan chairs high-level security review in Jammu, IB chief in attendance",
+    "summary": "Union Home Secretary Govind Mohan and Intelligence Bureau Director Mahesh Dixit arrived in Jammu on Thursday to chair a high-level review of the security situation in Jammu and Kashmir. The meeting is focused on counter-terrorism operations, infiltration and coordination among security agencies, with intelligence reports putting the number of foreign terrorists in the Union Territory at around 65."
+   },
+   "featured": false,
+   "hi": {
+    "title": "गृह सचिव गोविंद मोहन की अध्यक्षता में जम्मू में उच्च स्तरीय सुरक्षा समीक्षा, आईबी निदेशक भी मौजूद",
+    "summary": "केंद्रीय गृह सचिव गोविंद मोहन और खुफिया ब्यूरो के निदेशक महेश दीक्षित गुरुवार को जम्मू पहुंचे और जम्मू-कश्मीर पुलिस मुख्यालय में सुरक्षा स्थिति की उच्च स्तरीय समीक्षा बैठक की अध्यक्षता की। बैठक में आतंकवाद-रोधी अभियानों, घुसपैठ रोकने और सुरक्षा एजेंसियों के बीच तालमेल पर चर्चा हुई। खुफिया रिपोर्टों के मुताबिक जम्मू-कश्मीर में करीब 65 विदेशी आतंकवादी सक्रिय हैं।"
+   },
+   "id": "home-secretary-govind-mohan-ib-director-security-review-jammu-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/home-secretary-govind-mohan-ib-director-security-review-jammu-november-26.jpg",
+   "publishedAt": "2026-11-26T12:17:15+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Government & Policy",
+   "trending": true,
+   "district": "Jammu",
+   "state": "Jammu and Kashmir"
+  },
+  {
+   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zubeen-garg-case-shekhar-goswami-bail-hearing-gauhati-high-court-november-26-en.mp3",
+   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/zubeen-garg-case-shekhar-goswami-bail-hearing-gauhati-high-court-november-26-hi.mp3",
+   "breaking": false,
+   "category": "Crime & Law",
+   "en": {
+    "title": "Zubeen Garg case: Gauhati High Court to hear Shekhar Goswami's bail plea today",
+    "summary": "The Gauhati High Court is scheduled to hear the bail plea of Shekhar Jyoti Goswami on Thursday in the Zubeen Garg death case. Goswami, a bandmate of the singer, is among the 7 accused in the case and is lodged at Haflong Sub-Jail. The Supreme Court will hear related bail petitions on November 30."
+   },
+   "featured": false,
+   "hi": {
+    "title": "जुबीन गर्ग मामले में शेखर गोस्वामी की जमानत याचिका पर आज गुवाहाटी हाई कोर्ट में सुनवाई",
+    "summary": "जुबीन गर्ग की मौत के मामले में आरोपी शेखर ज्योति गोस्वामी की जमानत याचिका पर गुरुवार को गुवाहाटी हाई कोर्ट में सुनवाई होगी। गोस्वामी गायक के बैंड के सदस्य हैं और इस समय हाफलॉन्ग उप-कारागार में बंद हैं। सुप्रीम कोर्ट 30 नवंबर को जुड़ी हुई जमानत याचिकाओं पर सुनवाई करेगा।"
+   },
+   "id": "zubeen-garg-case-shekhar-goswami-bail-hearing-gauhati-high-court-november-26",
+   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/zubeen-garg-case-shekhar-goswami-bail-hearing-gauhati-high-court-november-26.jpg",
+   "publishedAt": "2026-11-26T12:17:15+05:30",
+   "source": "PrimeFeed Desk",
+   "sub": "Courts",
+   "trending": true,
+   "district": "Kamrup Metro",
+   "state": "Assam"
+  },
   {
    "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kamarajar-port-second-container-terminal-4288-crore-cabinet-approval-november-26-en.mp3",
    "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/kamarajar-port-second-container-terminal-4288-crore-cabinet-approval-november-26-hi.mp3",
@@ -3296,50 +3342,6 @@
    },
    "district": "Rewa",
    "state": "Madhya Pradesh"
-  },
-  {
-   "id": "harjot-kaur-bamhra-new-bpsc-chairperson-november-25",
-   "category": "Rozgar",
-   "sub": "Sarkari Naukri",
-   "breaking": false,
-   "featured": false,
-   "trending": false,
-   "publishedAt": "2026-11-25T11:20:48+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/harjot-kaur-bamhra-new-bpsc-chairperson-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/harjot-kaur-bamhra-new-bpsc-chairperson-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/harjot-kaur-bamhra-new-bpsc-chairperson-november-25-en.mp3",
-   "en": {
-    "title": "Harjot Kaur Bamhra appointed new BPSC chairperson, to take charge on November 29",
-    "summary": "Senior IAS officer Harjot Kaur Bamhra has been appointed the new chairperson of the Bihar Public Service Commission. The Bihar government issued the notification on Tuesday, November 24, and she will assume charge on November 29, a day after she retires voluntarily from the Indian Administrative Service. Her tenure will be 6 years or until she turns 62, whichever comes earlier."
-   },
-   "hi": {
-    "title": "हरजोत कौर बम्हरा बनीं बीपीएससी की नई अध्यक्ष, 29 नवंबर को संभालेंगी जिम्मेदारी",
-    "summary": "वरिष्ठ आईएएस अधिकारी हरजोत कौर बम्हरा को बिहार लोक सेवा आयोग की नई अध्यक्ष नियुक्त किया गया है। बिहार सरकार ने मंगलवार, 24 नवंबर को इसकी अधिसूचना जारी की। वे 29 नवंबर को पदभार संभालेंगी। उनका कार्यकाल 6 साल का होगा या 62 साल की उम्र तक, जो भी पहले हो।"
-   }
-  },
-  {
-   "id": "bsf-constable-k-venu-body-recovered-kushiyara-river-sribhumi-november-25",
-   "category": "Crime & Law",
-   "sub": "Police & Crime",
-   "breaking": false,
-   "featured": false,
-   "trending": true,
-   "publishedAt": "2026-11-25T11:08:59+05:30",
-   "source": "PrimeFeed Desk",
-   "image": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/images/articles/bsf-constable-k-venu-body-recovered-kushiyara-river-sribhumi-november-25.jpg",
-   "audioHi": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bsf-constable-k-venu-body-recovered-kushiyara-river-sribhumi-november-25-hi.mp3",
-   "audioEn": "https://raw.githubusercontent.com/dg3699613-bit/primefeed/main/audio/bsf-constable-k-venu-body-recovered-kushiyara-river-sribhumi-november-25-en.mp3",
-   "en": {
-    "title": "Missing BSF constable K. Venu's body found in Assam's Kushiyara river, two days after he vanished chasing cattle smugglers",
-    "summary": "The body of BSF constable K. Venu was recovered from the Kushiyara river near Steamerghat in Assam's Sribhumi district on Wednesday morning, two days after he went missing in the Barak river while pursuing suspected cattle smugglers along the India-Bangladesh border. The BSF has rejected earlier reports that he was rescued alive in Bangladesh, and the exact cause of his death is yet to be established."
-   },
-   "hi": {
-    "title": "लापता बीएसएफ जवान के. वेणु का शव असम की कुशियारा नदी में मिला, पशु तस्करों का पीछा करते समय लापता हुए थे",
-    "summary": "सीमा सुरक्षा बल के जवान के. वेणु का शव बुधवार सुबह असम के श्रीभूमि जिले में कुशियारा नदी के पास स्टीमरघाट से बरामद हुआ। वे सोमवार सुबह भारत-बांग्लादेश सीमा पर पशु तस्करों का पीछा करते समय बराक नदी में लापता हो गए थे। बीएसएफ ने उन खबरों को गलत बताया है, जिनमें कहा गया था कि वे बांग्लादेश में जीवित मिले हैं। उनकी मौत का सही कारण अभी पता नहीं चला है।"
-   },
-   "district": "Sribhumi",
-   "state": "Assam"
   }
  ]
 }
